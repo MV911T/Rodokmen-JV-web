@@ -848,18 +848,22 @@ window.RODOKMEN = {
       marriage: "14. 9. 1897, Mladá Boleslav – s Marií Tůkalovou",
       notes: [
         "Syn Karla Čapka, domkáře v Rabakově č. 19 (okr. Sobotka), a Marie, dcery Václava Oty, sedláka v Krchlebích č. 53 (okr. Nymburk). Příslušný do Jeseníka (?).",
-        "Později bydlel s manželkou v Komořanech u Mostu (dopis vnuka)."
+        "Později bydlel s manželkou v Komořanech u Mostu (dopis vnuka).",
+        "Sňatek 14. 9. 1897 v Mladé Boleslavi (byt čp. 126-I): dělník v Ml. Boleslavi, rodem z Rabakova, příslušný do Jeseníka (?); křestní list z fary Řitonice (23. 8. 1897). Svědci František Horyna (?), topič plynárny, a Josef Kříček (?), truhlář."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
         "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)",
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
-        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
+        "SOA Praha, děkanství Mladá Boleslav, kniha Mladá Boleslav 65 (O 1885–1901), snímek 245 – https://ebadatelna.soapraha.cz/d/8756/245"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
-        {"f":"img/1903_krest_jana_capkova_mlada_boleslav_b.jpg","t":"Křest dcery Jany, Mladá Boleslav 1903"}
+        {"f":"img/1903_krest_jana_capkova_mlada_boleslav_b.jpg","t":"Křest dcery Jany, Mladá Boleslav 1903"},
+        {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_a.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 14. 9. 1897 – ženich"},
+        {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_b.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 1897 – nevěsta"}
       ]
     },
     {
@@ -875,24 +879,28 @@ window.RODOKMEN = {
       marriage: "14. 9. 1897, Mladá Boleslav – s Josefem Čapkem",
       notes: [
         "Dcera Jana Tůkala, baráčníka v Kosíku č. 52, a Františky, dcery Václava Šnajdra, chalupníka z Pojedí č. 9 (okr. Libáň).",
-        "Rodné příjmení Tůkalová potvrzuje matrika (křest dcery 1903); „Fukalová“ v rodném listu vnuka (1956) je chyba opisu."
+        "Rodné příjmení Tůkalová potvrzuje matrika (křest dcery 1903); „Fukalová“ v rodném listu vnuka (1956) je chyba opisu.",
+        "Při sňatku 1897 služebná v Mladé Boleslavi; křestní list z fary Rožďalovice (19. 8. 1897) – Kosík patřil k Rožďalovicím."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
         "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)",
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
-        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
+        "SOA Praha, děkanství Mladá Boleslav, kniha Mladá Boleslav 65 (O 1885–1901), snímek 245 – https://ebadatelna.soapraha.cz/d/8756/245"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
-        {"f":"img/1903_krest_jana_capkova_mlada_boleslav_b.jpg","t":"Křest dcery Jany, Mladá Boleslav 1903"}
+        {"f":"img/1903_krest_jana_capkova_mlada_boleslav_b.jpg","t":"Křest dcery Jany, Mladá Boleslav 1903"},
+        {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_a.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 14. 9. 1897 – ženich"},
+        {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_b.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 1897 – nevěsta"}
       ]
     },
     {
       id: "vaclav_c",
       name: "Václav Červenka",
       line: "cervenka",
-      cert: "D",
+      cert: "M",
       b: {"date":"21. 7. 1868","year":1868,"place":"Hředle č. p. 37"},
       d: {"date":"22. 11. 1938","year":1938,"place":"Beroun-Lištice č. p. 229"},
       cause: "zápal plic a pohrudnice, srdeční vada",
@@ -902,19 +910,23 @@ window.RODOKMEN = {
       occ: "rolník na Lištici č. p. 83, později č. p. 229 (Beroun III)",
       marriage: "19. 5. 1894, Beroun – s Annou Vlasákovou",
       notes: [
-        "Otec Karla Červenky (*1906); rolník v Berouně III na Lištici (křestní a rodný list vnučky 1933).",
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Narozen 21. 7. 1868 ve Hředlích č. 37 (okr. Hořovice), pokřtěn 22. 7. v Žebráku. Otec Matěj Červenka, rolník z Hředl č. 37, syn Jakuba Červenky a Veroniky roz. Skálové z Vinařic; matka Antonie, dcera † Matěje Diviše, rolníka z Černína č. 7, a Josefy roz. Merhoutové ze Zdic. Kmotři František Pilař (?) a manželka z Točníka.",
+        "Rodopis potvrzen matrikou (křty 1825 a 1868, fara Žebrák).",
+        "Otec Karla Červenky (*1906); rolník v Berouně III na Lištici (křestní a rodný list vnučky 1933)."
       ],
       sources: [
         "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
         "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)",
         "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
         {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
-        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
+        {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest Václava Červenky, Hředle 1868 – otec"},
+        {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"}
       ]
     },
     {
@@ -1390,7 +1402,7 @@ window.RODOKMEN = {
       id: "matej_c",
       name: "Matěj Červenka",
       line: "cervenka",
-      cert: "D",
+      cert: "M",
       b: {"date":"3. 4. 1825","year":1825,"place":"Hředle č. p. 37"},
       d: {"date":"13. 2. 1905","year":1905,"place":"Hředle č. p. 37"},
       father: "jakub1789",
@@ -1398,15 +1410,20 @@ window.RODOKMEN = {
       occ: "rolník ve Hředlích č. p. 37",
       marriage: "25. 11. 1851, Zdice – s Antonií Divišovou",
       notes: [
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Narozen a pokřtěn 3. 4. 1825 ve Hředlích č. 37 (kaplan Joannes Ant. Krob). Otec Jakub Červenka, sedlák z Hředl č. 37, syn † Jakuba Červenky, sedláka z Hředl č. 37, a † Anny roz. „Chollryzkové“ (? – nejspíš Holické) z Hředl č. 8; matka Veronika, dcera Jiřího Skály, sedláka z Vinařic, a Evy z Býkoše (panství Suchomasty). Kmotři Matěj Vopršal (?), sedlák z Hředl, a Anna Fraňková (?).",
+        "Sňatek 25. 11. 1851 ve Zdicích (rodopis) – zatím neověřen."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
         {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
-        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
+        {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"},
+        {"f":"img/1825_krest_matej_cervenka_hredle_a.jpg","t":"Křest Matěje Červenky, Hředle 1825 – rodiče"},
+        {"f":"img/1825_krest_matej_cervenka_hredle_b.jpg","t":"Křest Matěje Červenky, Hředle 1825 – matka, kmotři"}
       ]
     },
     {
@@ -1414,16 +1431,20 @@ window.RODOKMEN = {
       name: "Antonie Červenková",
       maiden: "Divišová",
       line: "divis",
-      cert: "D",
+      cert: "M",
       b: {"date":"28. 7. 1822","year":1822,"place":"Černín č. p. 7"},
       father: "matej_d",
       mother: "josefa_m",
       marriage: "25. 11. 1851, Zdice – s Matějem Červenkou",
       notes: [
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Dcera † Matěje Diviše, rolníka z Černína č. 7, a Josefy roz. Merhoutové ze Zdic (křest syna Václava 1868). Datum narození podle rodopisu."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97"
+      ],
+      scans: [
+        {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"}
       ]
     },
     {
@@ -1432,19 +1453,21 @@ window.RODOKMEN = {
       line: "divis",
       cert: "D",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      d: {"date":"před 22. 7. 1868","year":1868,"approx":true},
       spouse: "josefa_m",
       occ: "rolník v Černíně č. p. 7",
       notes: [
         "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97"
       ]
     },
     {
       id: "josefa_m",
       name: "Josefa Divišová",
-      maiden: "Merhautová",
+      maiden: "Merhoutová",
       line: "merhaut",
       cert: "D",
       b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Zdice"},
@@ -1453,14 +1476,15 @@ window.RODOKMEN = {
         "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97"
       ]
     },
     {
       id: "jakub1789",
       name: "Jakub Červenka",
       line: "cervenka",
-      cert: "D",
+      cert: "M",
       b: {"date":"27. 5. 1789","year":1789,"place":"Hředle č. p. 37"},
       d: {"date":"13. 12. 1860","year":1860,"place":"Hředle č. p. 37"},
       father: "jakub1750",
@@ -1468,15 +1492,18 @@ window.RODOKMEN = {
       occ: "rolník ve Hředlích č. p. 37",
       marriage: "24. 2. 1811, Všeradice – s Veronikou Skálovou",
       notes: [
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Sedlák ve Hředlích č. 37 (1825). Jeho rodiče † Jakub Červenka, sedlák z Hředl č. 37, a † Anna (roz. Holická ?, v matrice „Chollryzková“ – nejisté čtení) z Hředl č. 8 – oba zemřeli před 1825 (křest syna Matěje).",
+        "Datum narození a sňatku podle rodopisu."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
         {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
-        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
+        {"f":"img/1825_krest_matej_cervenka_hredle_a.jpg","t":"Křest Matěje Červenky, Hředle 1825 – rodiče"}
       ]
     },
     {
@@ -1484,18 +1511,23 @@ window.RODOKMEN = {
       name: "Veronika Červenková",
       maiden: "Skálová",
       line: "skala",
-      cert: "D",
+      cert: "M",
       b: {"date":"19. 8. 1791","year":1791,"place":"Vinařice č. p. 24"},
       d: {"date":"8. 4. 1851","year":1851,"place":"Hředle č. p. 37"},
       father: "jiri_s",
       mother: "eva_k",
       marriage: "24. 2. 1811, Všeradice – s Jakubem Červenkou",
       notes: [
-        "Z Vinařic č. 28.",
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Dcera Jiřího Skály, sedláka z Vinařic, a Evy z Býkoše (panství Suchomasty) – křest syna Matěje 1825; rodopis uvádí Evu roz. Kalousovou.",
+        "Z Vinařic č. 28."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77"
+      ],
+      scans: [
+        {"f":"img/1825_krest_matej_cervenka_hredle_a.jpg","t":"Křest Matěje Červenky, Hředle 1825 – rodiče"},
+        {"f":"img/1825_krest_matej_cervenka_hredle_b.jpg","t":"Křest Matěje Červenky, Hředle 1825 – matka, kmotři"}
       ]
     },
     {
@@ -1563,10 +1595,12 @@ window.RODOKMEN = {
       mother: "katerina_z",
       marriage: "17. 9. 1769, Žebrák – s Jakubem Červenkou",
       notes: [
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "ROZPOR / nejisté čtení: rodopis „Anna Holická, dcera Daniela Holického, rolníka z Hředel, a Kateřiny Zymové“; křest vnuka Matěje (1825): „† Anna rozená Chollryzková (?) z Hředl č. 8“ – kurentem nejspíš „Holickowá“, ověřit v oddací matrice 1769 (Žebrák).",
+        "Zemřela před 1825."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77"
       ]
     },
     {
