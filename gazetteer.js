@@ -23,7 +23,8 @@ window.RODOKMEN_GAZ = [
   { n: 'Zbečno', a: ['Zbečn'], lat: 50.042, lon: 13.92 },
   // Mladoboleslavsko / Nymbursko – Čapek ancestors (approximate)
   { n: 'Rabakov', a: ['Rabakov'], lat: 50.44, lon: 15.07 },
-  { n: 'Kchleby', a: ['Kchleb'], lat: 50.2, lon: 15.03 },
+  { n: 'Kosík', a: ['Kosík'], lat: 50.3, lon: 15.17 },
+  { n: 'Krchleby', a: ['Krchleb', 'Kchleb'], lat: 50.2, lon: 15.03 },
   { n: 'Mladá Boleslav', a: ['Mladá Boleslav'], lat: 50.411, lon: 14.906 },
   { n: 'Kolín', a: ['Kolín'], lat: 50.028, lon: 15.2 },
   { n: 'Býkoš', a: ['Býkoš'], lat: 49.88, lon: 14.06 },

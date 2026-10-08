@@ -20,7 +20,7 @@ window.RODOKMEN = {
     "vlasak": "Vlasák",
     "lodl": "Lodl",
     "michal": "Michal",
-    "fukal": "Tůkal",
+    "fukal": "Ťukal (Tůkal)",
     "svoboda": "Svoboda",
     "ota": "Ota",
     "snajdr": "Šnajdr",
@@ -38,7 +38,10 @@ window.RODOKMEN = {
     "karafiat": "Karafiát",
     "aubrecht": "Aubrecht",
     "holub": "Holub",
-    "loukota": "Loukota"
+    "loukota": "Loukota",
+    "malek": "Málek",
+    "mraz": "Mráz",
+    "sulc": "Šulc"
   },
   people: [
     {
@@ -840,16 +843,18 @@ window.RODOKMEN = {
       name: "Josef Čapek",
       line: "capek",
       cert: "M",
-      b: {"date":"21. 3. 1874","year":1874,"place":"Rabakov"},
+      b: {"date":"21. 3. 1874","year":1874,"place":"Rabakov č. p. 19"},
       father: "karel_c",
       mother: "marie_o",
       spouse: "marie_f",
       occ: "lomař (1903)",
       marriage: "14. 9. 1897, Mladá Boleslav – s Marií Tůkalovou",
       notes: [
+        "Narozen 21. 3. 1874 v Rabakově č. 19, pokřtěn 25. 3. ve farnosti Řitonice (farář Josef Procházka, bába Marie Naimanová z Domousnic). Přípis na okraji: podle okresního hejtmanství v Mostě je bez vyznání.",
         "Syn Karla Čapka, domkáře v Rabakově č. 19 (okr. Sobotka), a Marie, dcery Václava Oty, sedláka v Krchlebích č. 53 (okr. Nymburk). Příslušný do Jeseníka (?).",
         "Později bydlel s manželkou v Komořanech u Mostu (dopis vnuka).",
-        "Sňatek 14. 9. 1897 v Mladé Boleslavi (byt čp. 126-I): dělník v Ml. Boleslavi, rodem z Rabakova, příslušný do Jeseníka (?); křestní list z fary Řitonice (23. 8. 1897). Svědci František Horyna (?), topič plynárny, a Josef Kříček (?), truhlář."
+        "Sňatek 14. 9. 1897 v Mladé Boleslavi (byt čp. 126-I): dělník v Ml. Boleslavi, rodem z Rabakova, příslušný do Jeseníka (?); křestní list z fary Řitonice (23. 8. 1897). Svědci František Horyna (?), topič plynárny, a Josef Kříček (?), truhlář.",
+        "KANDIDÁT – sourozenci podle rejstříku křtů Řitonice (zápisy nečteny): Marie 1862, Václav 1865, Antonín 1867, Anna 1871, všichni z Rabakova."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
@@ -857,13 +862,16 @@ window.RODOKMEN = {
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
-        "SOA Praha, děkanství Mladá Boleslav, kniha Mladá Boleslav 65 (O 1885–1901), snímek 245 – https://ebadatelna.soapraha.cz/d/8756/245"
+        "SOA Praha, děkanství Mladá Boleslav, kniha Mladá Boleslav 65 (O 1885–1901), snímek 245 – https://ebadatelna.soapraha.cz/d/8756/245",
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
         {"f":"img/1903_krest_jana_capkova_mlada_boleslav_b.jpg","t":"Křest dcery Jany, Mladá Boleslav 1903"},
         {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_a.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 14. 9. 1897 – ženich"},
-        {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_b.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 1897 – nevěsta"}
+        {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_b.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 1897 – nevěsta"},
+        {"f":"img/1874_krest_josef_capek_rabakov_a.jpg","t":"Křest Josefa Čapka, Rabakov 1874"},
+        {"f":"img/1874_krest_josef_capek_rabakov_b.jpg","t":"Křest Josefa Čapka, Rabakov 1874 – rodiče"}
       ]
     },
     {
@@ -872,12 +880,14 @@ window.RODOKMEN = {
       maiden: "Tůkalová",
       line: "fukal",
       cert: "M",
-      b: {"date":"3. 12. 1874","year":1874,"place":"Kosík"},
+      b: {"date":"7. 12. 1874","year":1874,"place":"Kosík č. p. 52"},
       father: "jan_t",
       mother: "frantiska_s",
       spouse: "josef_c",
       marriage: "14. 9. 1897, Mladá Boleslav – s Josefem Čapkem",
       notes: [
+        "Narozena 7. 12. 1874 o půlnoci v Kosíku č. 52, pokřtěna 8. 12. v Rožďalovicích (kaplan P. Fr. Martinec, bába Anna Karlová, familiantka v Kosíku č. 21). Kmotra Marie Gebauerová (?), hostinská v Rožďalovicích č. 13.",
+        "ROZPOR v datu narození: křestní matrika 7. 12. 1874; oddací zápis 1897 a křest dcery 1903 uvádějí 3. 12. 1874. Platí křestní matrika.",
         "Dcera Jana Tůkala, baráčníka v Kosíku č. 52, a Františky, dcery Václava Šnajdra, chalupníka z Pojedí č. 9 (okr. Libáň).",
         "Rodné příjmení Tůkalová potvrzuje matrika (křest dcery 1903); „Fukalová“ v rodném listu vnuka (1956) je chyba opisu.",
         "Při sňatku 1897 služebná v Mladé Boleslavi; křestní list z fary Rožďalovice (19. 8. 1897) – Kosík patřil k Rožďalovicím."
@@ -887,13 +897,16 @@ window.RODOKMEN = {
         "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)",
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
-        "SOA Praha, děkanství Mladá Boleslav, kniha Mladá Boleslav 65 (O 1885–1901), snímek 245 – https://ebadatelna.soapraha.cz/d/8756/245"
+        "SOA Praha, děkanství Mladá Boleslav, kniha Mladá Boleslav 65 (O 1885–1901), snímek 245 – https://ebadatelna.soapraha.cz/d/8756/245",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
         {"f":"img/1903_krest_jana_capkova_mlada_boleslav_b.jpg","t":"Křest dcery Jany, Mladá Boleslav 1903"},
         {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_a.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 14. 9. 1897 – ženich"},
-        {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_b.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 1897 – nevěsta"}
+        {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_b.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 1897 – nevěsta"},
+        {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874"},
+        {"f":"img/1874_krest_marie_tukalova_kosik_b.jpg","t":"Křest Marie Ťukalové, Kosík 1874 – rodiče, kmotři"}
       ]
     },
     {
@@ -1186,17 +1199,22 @@ window.RODOKMEN = {
       line: "capek",
       cert: "M",
       b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      father: "jan_c",
+      mother: "marie_cc",
       spouse: "marie_o",
       occ: "domkář v Rabakově č. 19, okr. Sobotka",
       notes: [
-        "Otec Josefa Čapka, děd Jany Votavové (*1903)."
+        "Domkář v Rabakově č. 19 (okres Sobotecký). Syn † Jana Čapka, familianta v Jeseníku č. 48, a † Marie roz. Čapkové z Jeseníka (křest syna Josefa 1874)."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
-        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
       ],
       scans: [
-        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"}
+        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
+        {"f":"img/1874_krest_josef_capek_rabakov_a.jpg","t":"Křest Josefa Čapka, Rabakov 1874"},
+        {"f":"img/1874_krest_josef_capek_rabakov_b.jpg","t":"Křest Josefa Čapka, Rabakov 1874 – rodiče"}
       ]
     },
     {
@@ -1207,49 +1225,66 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Krchleby č. p. 53, okr. Nymburk"},
       father: "vaclav_o",
+      mother: "katerina_ma",
       spouse: "karel_c",
       notes: [
-        "Matka Josefa Čapka; dcera Václava Oty, sedláka v Krchlebích č. 53."
+        "Matka Josefa Čapka; dcera † Václava Oty, sedláka z Krchleb č. 53, a Kateřiny roz. Málkové z Krchleb."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
-        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
+      ],
+      scans: [
+        {"f":"img/1874_krest_josef_capek_rabakov_a.jpg","t":"Křest Josefa Čapka, Rabakov 1874"},
+        {"f":"img/1874_krest_josef_capek_rabakov_b.jpg","t":"Křest Josefa Čapka, Rabakov 1874 – rodiče"}
       ]
     },
     {
       id: "jan_t",
-      name: "Jan Tůkal",
+      name: "Jan Ťukal",
       line: "fukal",
       cert: "M",
       b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      father: "jan_t2",
+      mother: "terezie_mr",
       spouse: "frantiska_s",
       occ: "baráčník v Kosíku č. 52",
       notes: [
-        "Otec Marie Čapkové, roz. Tůkalové."
+        "Baráčník v Kosíku č. 52 (okres Libáňský). Syn Jana Ťukala, baráčníka v Kosíku č. 55 (?), a Terezie roz. Mrázové z Vohraženic č. 40 (okres Turnovský). V matrikách psán Tůkal / Ťukal / Tukal."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
-        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
       ],
       scans: [
-        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"}
+        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
+        {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874"},
+        {"f":"img/1874_krest_marie_tukalova_kosik_b.jpg","t":"Křest Marie Ťukalové, Kosík 1874 – rodiče, kmotři"}
       ]
     },
     {
       id: "frantiska_s",
       name: "Františka Tůkalová",
-      maiden: "Šnajdrová",
+      maiden: "Šnajdrová (Šnejdrová)",
       line: "snajdr",
       cert: "M",
       b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Pojedí č. p. 9, okr. Libáň"},
       father: "vaclav_sn",
+      mother: "katerina_su",
       spouse: "jan_t",
       notes: [
-        "Matka Marie Čapkové, roz. Tůkalové; dcera Václava Šnajdra, chalupníka z Pojedí č. 9."
+        "Matka Marie Čapkové, roz. Ťukalové; dcera Václava Šnejdra, chalupníka z Pojed č. 9 (okres Libáňský), a Kateřiny roz. Šulcové ze Žitovlic č. 18."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
-        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
+      ],
+      scans: [
+        {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874"},
+        {"f":"img/1874_krest_marie_tukalova_kosik_b.jpg","t":"Křest Marie Ťukalové, Kosík 1874 – rodiče, kmotři"}
       ]
     },
     {
@@ -1840,12 +1875,15 @@ window.RODOKMEN = {
       line: "ota",
       cert: "M",
       b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
+      spouse: "katerina_ma",
       occ: "sedlák v Krchlebích č. 53, okr. Nymburk",
       notes: [
         "Otec Marie Čapkové, roz. Otové."
       ],
       sources: [
-        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
       ]
     },
     {
@@ -1854,12 +1892,14 @@ window.RODOKMEN = {
       line: "snajdr",
       cert: "M",
       b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      spouse: "katerina_su",
       occ: "chalupník v Pojedí č. 9, okr. Libáň",
       notes: [
         "Otec Františky Tůkalové, roz. Šnajdrové."
       ],
       sources: [
-        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
       ]
     },
     {
@@ -1957,6 +1997,98 @@ window.RODOKMEN = {
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
+      ]
+    },
+    {
+      id: "jan_c",
+      name: "Jan Čapek",
+      line: "capek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
+      spouse: "marie_cc",
+      occ: "familiant v Jeseníku č. 48",
+      notes: [
+        "Otec Karla Čapka."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
+      ]
+    },
+    {
+      id: "marie_cc",
+      name: "Marie Čapková",
+      maiden: "Čapková",
+      line: "capek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true,"place":"Jeseník"},
+      d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
+      spouse: "jan_c",
+      notes: [
+        "Matka Karla Čapka; rodem rovněž Čapková z Jeseníka."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
+      ]
+    },
+    {
+      id: "katerina_ma",
+      name: "Kateřina Otová",
+      maiden: "Málková",
+      line: "malek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Krchleby"},
+      spouse: "vaclav_o",
+      notes: [
+        "Matka Marie Čapkové, roz. Otové."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
+      ]
+    },
+    {
+      id: "jan_t2",
+      name: "Jan Ťukal",
+      line: "fukal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      spouse: "terezie_mr",
+      occ: "baráčník v Kosíku č. 55 (?)",
+      notes: [
+        "Otec Jana Ťukala (*~1845)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
+      ]
+    },
+    {
+      id: "terezie_mr",
+      name: "Terezie Ťukalová",
+      maiden: "Mrázová",
+      line: "mraz",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Vohraženice č. p. 40, okr. Turnov"},
+      spouse: "jan_t2",
+      notes: [
+        "Matka Jana Ťukala (*~1845)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
+      ]
+    },
+    {
+      id: "katerina_su",
+      name: "Kateřina Šnejdrová",
+      maiden: "Šulcová",
+      line: "sulc",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Žitovlice č. p. 18"},
+      spouse: "vaclav_sn",
+      notes: [
+        "Matka Františky Ťukalové, roz. Šnejdrové."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
       ]
     }
   ]
