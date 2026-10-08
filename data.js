@@ -3,7 +3,7 @@
 window.RODOKMEN = {
   updated: "8. 10. 2026",
   root: "jiri1987",
-  publicLiving: "names",
+  publicLiving: "full",
   lines: {
     "votava": "Votava",
     "cervenka": "Červenka",
