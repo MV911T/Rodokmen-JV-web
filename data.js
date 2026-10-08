@@ -43,7 +43,11 @@ window.RODOKMEN = {
     "mraz": "Mráz",
     "sulc": "Šulc",
     "lezak": "Lezák (?)",
-    "lancik": "Lancík (?)"
+    "lancik": "Lancík (?)",
+    "mrkva": "Mrkva (?)",
+    "kriz": "Kříž (?)",
+    "vrzal": "Vrzal (?)",
+    "lhotka": "Lhotka (?)"
   },
   people: [
     {
@@ -789,14 +793,16 @@ window.RODOKMEN = {
       name: "Štěpán Votava",
       line: "votava",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
+      b: {"date":"26. 12. 1836","year":1836,"place":"Těchobuz č. p. 36"},
       father: "jan_v",
       mother: "katerina_f",
       spouse: "antonie_m",
       occ: "panský kočí v Pravoníně č. 74 (1868), později horník v Souši",
+      marriage: "18. 9. 1865, Zhoř (Těchobuz) – s Antonií Michalovou",
       notes: [
-        "Panský kočí v Pravoníně č. 74 (1868); syn † Jana Votavy, nádeníka z Jetřichovic č. 22 (okres Pacovský v Táborsku), a † Kateřiny roz. Flemrové (?) z Tučap č. 36 (křest syna Václava 1868).",
-        "Později horník v Souši u Mostu, č. 116 (1894, 1899). Domovské právo rodiny bylo v Těchobuzi – domovské obci jeho manželky Antonie.",
+        "Narozen a pokřtěn 26. 12. 1836 v Těchobuzi č. 36 (fara Zhoř). Otec Jan Votava, nádeník, syn Martina Votavy, nádeníka z Jetřichovic č. 22, a Terezie roz. Mrkvové (?); matka Kateřina, dcera Matěje Flemra (?), chalupníka z Tučap č. 36, a Kateřiny roz. Křížové (?) z Chýšky (?) č. 18.",
+        "Při sňatku 1865 (28 let) „reservní jízdní dělostřelec 2. třídy c. k. 5. dělostřeleckého pluku svobodného pána ze Hartmanu (?)“ a nádeník v Těchobuzi č. 13; povolení velitelství pluku ve Veroně z 10. 8. 1865. Svědci Jiří (?) Stříž, sedlák z Těchobuze č. 13, a Anton Michal, krejčí z Těchobuze č. 61.",
+        "1866 nádeník v Těchobuzi č. 47 (mrtvě narozená dcera 14. 4. 1866); 1868 panský kočí v Pravoníně č. 74; později horník v Souši u Mostu č. 116 (1894, 1899).",
         "Podle rodinného rodokmenu měl nejméně dva další syny; syn jednoho z nich byl major armády USA, který v roce 1945 navštívil Václava Votavu (*1899) v Mostě."
       ],
       sources: [
@@ -805,14 +811,21 @@ window.RODOKMEN = {
         "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
         "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
-        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/"
+        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/",
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826"
       ],
       scans: [
         {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
         {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"},
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"},
         {"f":"img/1868_krest_vaclav_votava_pravonin_a.jpg","t":"Křest syna Václava, Pravonín 1868"},
-        {"f":"img/1868_krest_vaclav_votava_pravonin_b.jpg","t":"Křest syna Václava, Pravonín 1868 – rodiče matky, kmotři"}
+        {"f":"img/1868_krest_vaclav_votava_pravonin_b.jpg","t":"Křest syna Václava, Pravonín 1868 – rodiče matky, kmotři"},
+        {"f":"img/1865_oddani_Votava_Stepan_Michalova_Antonie_Techobuz_a.jpg","t":"Sňatek Štěpána Votavy a Antonie Michalové, Těchobuz 18. 9. 1865 – ženich"},
+        {"f":"img/1865_oddani_Votava_Stepan_Michalova_Antonie_Techobuz_b.jpg","t":"Sňatek Štěpána Votavy a Antonie Michalové, Těchobuz 1865 – nevěsta, svědci"},
+        {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"},
+        {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"}
       ]
     },
     {
@@ -821,23 +834,32 @@ window.RODOKMEN = {
       maiden: "Michalová",
       line: "michal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      b: {"date":"16. 12. 1836","year":1836,"place":"Těchobuz č. p. 19"},
       d: {"date":"před 16. 7. 1894","year":1894},
       father: "jan_m",
       mother: "marie_k",
       spouse: "stepan_v",
+      marriage: "18. 9. 1865, Zhoř (Těchobuz) – se Štěpánem Votavou",
       notes: [
-        "Dcera † Jana Michala, půlníka z Těchobuze č. 19 (okres Pacovský v Táborsku), a Marie roz. Karafiátové z Mezilesí č. 2 (křest syna Václava 1868).",
+        "Narozena 16. 12., pokřtěna 17. 12. 1836 v Těchobuzi č. 19 (fara Zhoř). Otec Jan Michal, půlsedlák (sedlák) z Těchobuze č. 19, syn Vojtěcha Michala, sedláka z č. 19, a Kateřiny roz. Vrzalové (?) ze Zhoře (?); matka Marie, dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily roz. Lhotkové (?).",
+        "Při sňatku 1865 28 let. Dcera narozená 14. 4. 1866 v Těchobuzi č. 47 byla mrtvě narozená.",
         "V roce 1894 už nežila (oddací zápis syna: „+ Antonie geb. Michal“)."
       ],
       sources: [
         "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
-        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78"
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826"
       ],
       scans: [
         {"f":"img/1868_krest_vaclav_votava_pravonin_a.jpg","t":"Křest syna Václava, Pravonín 1868"},
-        {"f":"img/1868_krest_vaclav_votava_pravonin_b.jpg","t":"Křest syna Václava, Pravonín 1868 – rodiče matky, kmotři"}
+        {"f":"img/1868_krest_vaclav_votava_pravonin_b.jpg","t":"Křest syna Václava, Pravonín 1868 – rodiče matky, kmotři"},
+        {"f":"img/1865_oddani_Votava_Stepan_Michalova_Antonie_Techobuz_a.jpg","t":"Sňatek Štěpána Votavy a Antonie Michalové, Těchobuz 18. 9. 1865 – ženich"},
+        {"f":"img/1865_oddani_Votava_Stepan_Michalova_Antonie_Techobuz_b.jpg","t":"Sňatek Štěpána Votavy a Antonie Michalové, Těchobuz 1865 – nevěsta, svědci"},
+        {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"},
+        {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"}
       ]
     },
     {
@@ -1818,13 +1840,24 @@ window.RODOKMEN = {
       line: "votava",
       cert: "M",
       b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
+      d: {"date":"před 1. 10. 1866","year":1866,"approx":true},
+      father: "martin_v",
+      mother: "terezie_mk",
       spouse: "katerina_f",
-      occ: "nádeník v Jetřichovicích č. 22, okr. Pacov",
+      occ: "nádeník v Těchobuzi č. 36",
       notes: [
-        "Otec Štěpána Votavy; v roce 1868 už nežil."
+        "Nádeník v Těchobuzi č. 36 (1836, 1865). Syn Martina Votavy, nádeníka z Jetřichovic č. 22, a Terezie roz. Mrkvové (?) (křest syna Štěpána 1836).",
+        "V pravonínském křtu vnuka (1868) zjednodušeně „nádeník z Jetřichovic č. 22“ – to je číslo domu jeho otce Martina.",
+        "Zemřel před 1866 (manželka 1866 vdova); v rejstříku úmrtí Těchobuz 1822–1839 je „Votava Jan, 24. Aug.“ (fol. 103) – zápis zatím nečten."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95"
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826"
+      ],
+      scans: [
+        {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"}
       ]
     },
     {
@@ -1834,12 +1867,21 @@ window.RODOKMEN = {
       line: "flemr",
       cert: "M",
       b: {"date":"neznámé (odhad ~1808)","year":1808,"approx":true,"place":"Tučapy č. p. 36"},
+      father: "matej_fl",
+      mother: "katerina_kr",
       spouse: "jan_v",
       notes: [
-        "Matka Štěpána Votavy, z Tučap č. 36; v roce 1868 už nežila. Čtení rodného příjmení nejisté."
+        "Dcera Matěje Flemra (?), chalupníka z Tučap č. 36, a Kateřiny roz. Křížové (?) z Chýšky (?) č. 18 (křest syna Štěpána 1836; sňatek syna 1865).",
+        "ROZPOR / KANDIDÁT úmrtí: 1. 10. 1866 v Těchobuzi č. 13 (kde 1865 bydlel Štěpán) zemřela „Kateřina Votavová, vdova po † Janu Votavovi, nádeníku z Těchobuze, rozená Kočova (?) z Těchobuze“, 57 let (*~1809), sešlostí. Rodné jméno se neshoduje – buď chyba zápisu, nebo druhá manželka Jana Votavy."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95"
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826"
+      ],
+      scans: [
+        {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"}
       ]
     },
     {
@@ -1848,13 +1890,20 @@ window.RODOKMEN = {
       line: "michal",
       cert: "M",
       b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
+      father: "vojtech_m",
+      mother: "katerina_vr",
       spouse: "marie_k",
       occ: "půlník v Těchobuzi č. 19",
       notes: [
-        "Otec Antonie Votavové; v roce 1868 už nežil. Usedlost Těchobuz č. 19."
+        "Půlsedlák (sedlák) v Těchobuzi č. 19. Syn Vojtěcha Michala, sedláka z Těchobuze č. 19, a Kateřiny roz. Vrzalové (?) ze Zhoře (?). V roce 1868 už nežil."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95"
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826"
+      ],
+      scans: [
+        {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"}
       ]
     },
     {
@@ -1864,12 +1913,16 @@ window.RODOKMEN = {
       line: "karafiat",
       cert: "M",
       b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true,"place":"Mezilesí č. p. 2"},
+      father: "vaclav_ka",
+      mother: "ludmila_lh",
       spouse: "jan_m",
       notes: [
-        "Matka Antonie Votavové, z Mezilesí č. 2 (okr. Pacov)."
+        "Dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily roz. Lhotkové (?) (křest dcery Antonie 1836)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95"
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826"
       ]
     },
     {
@@ -2234,6 +2287,128 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
       ]
+    },
+    {
+      id: "martin_v",
+      name: "Martin Votava",
+      line: "votava",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      spouse: "terezie_mk",
+      occ: "nádeník v Jetřichovicích č. 22",
+      notes: [
+        "Otec Jana Votavy; nejstarší doložený Votava této linie."
+      ],
+      sources: [
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+      ]
+    },
+    {
+      id: "terezie_mk",
+      name: "Terezie Votavová",
+      maiden: "Mrkvová (?)",
+      line: "mrkva",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      spouse: "martin_v",
+      notes: [
+        "Matka Jana Votavy; čtení příjmení a místa (… č. 23) nejisté."
+      ],
+      sources: [
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+      ]
+    },
+    {
+      id: "matej_fl",
+      name: "Matěj Flemr (?)",
+      line: "flemr",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      spouse: "katerina_kr",
+      occ: "chalupník v Tučapech č. 36",
+      notes: [
+        "Otec Kateřiny Votavové; čtení příjmení nejisté."
+      ],
+      sources: [
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826"
+      ]
+    },
+    {
+      id: "katerina_kr",
+      name: "Kateřina Flemrová (?)",
+      maiden: "Křížová (?)",
+      line: "kriz",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true,"place":"Chýška (?) č. p. 18"},
+      spouse: "matej_fl",
+      notes: [
+        "Matka Kateřiny Votavové; čtení nejisté."
+      ],
+      sources: [
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+      ]
+    },
+    {
+      id: "vojtech_m",
+      name: "Vojtěch Michal",
+      line: "michal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      spouse: "katerina_vr",
+      occ: "sedlák v Těchobuzi č. 19",
+      notes: [
+        "Otec Jana Michala; usedlost Těchobuz č. 19."
+      ],
+      sources: [
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+      ]
+    },
+    {
+      id: "katerina_vr",
+      name: "Kateřina Michalová",
+      maiden: "Vrzalová (?)",
+      line: "vrzal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true,"place":"Zhoř (?)"},
+      spouse: "vojtech_m",
+      notes: [
+        "Matka Jana Michala; čtení nejisté."
+      ],
+      sources: [
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+      ]
+    },
+    {
+      id: "vaclav_ka",
+      name: "Václav Karafiát",
+      line: "karafiat",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      spouse: "ludmila_lh",
+      occ: "šenkýř v Mezilesí č. 2",
+      notes: [
+        "Otec Marie Michalové."
+      ],
+      sources: [
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826"
+      ]
+    },
+    {
+      id: "ludmila_lh",
+      name: "Ludmila Karafiátová",
+      maiden: "Lhotková (?)",
+      line: "lhotka",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      spouse: "vaclav_ka",
+      notes: [
+        "Matka Marie Michalové; čtení nejisté, „z mlýna …“."
+      ],
+      sources: [
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+      ]
     }
   ]
 };
@@ -2245,7 +2420,7 @@ window.RODOKMEN.places = [
   {"name":"Těchobuz","lat":49.495,"lon":14.975,"line":"votava","note":"domovská obec Votavů (Štěpán Votava, č. p. 19)","anchor":"start"}
 ];
 window.RODOKMEN.story = [
-  {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Pacovska. Štěpán Votava, syn nádeníka z Jetřichovic, sloužil jako panský kočí na zámku v Pravoníně, kde se mu s Antonií Michalovou z Těchobuze č. 19 narodil roku 1868 syn Václav. Domovské právo měla rodina v Těchobuzi.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Barbora Lodlová pocházela z hornické rodiny v Oseku u Rokycan; Lodlovi i Forejtovi tam byli havíři. Kolem roku 1890 odešli za prací do mosteckých dolů – do Souše, kde se Barbora roku 1894 vdala za Václava Votavu.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal","aubrecht","holub","loukota"]},
+  {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Pacovska. Martin Votava byl nádeníkem v Jetřichovicích, jeho syn Jan nádeníkem v Těchobuzi, kde se roku 1836 narodil Štěpán. Štěpán sloužil jako jízdní dělostřelec, roku 1865 se oženil s Antonií Michalovou ze sedlácké usedlosti Těchobuz č. 19 a pak byl panským kočím na zámku v Pravoníně, kde se mu roku 1868 narodil syn Václav. Domovské právo měla rodina v Těchobuzi.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Barbora Lodlová pocházela z hornické rodiny v Oseku u Rokycan; Lodlovi i Forejtovi tam byli havíři. Kolem roku 1890 odešli za prací do mosteckých dolů – do Souše, kde se Barbora roku 1894 vdala za Václava Votavu.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal","aubrecht","holub","loukota"]},
   {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek"],"title":"Zettelmannovi a Hrazdílkovi","text":["František Zettelmann se narodil roku 1940 v Polouvsí na Novojičínsku, Helena Hrazdílková téhož roku v Heršpicích u Vyškova. V roce 1963 žili v Karviné, kde se jim narodila dcera Šárka."]},
   {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda","divis","merhaut","skala","kalous","holicky","zyma","drapal","novy","semenec"],"title":"Červenkovi a Klikovi","text":["Červenkové byli po pět generací rolníky ve Hředlích č. p. 37 u Žebráka. Nejstarší známý předek Václav Červenka (asi 1674–1730) se roku 1696 oženil v Žebráku s Dorotou Novou z Chlustiny. Linie pokračuje přes Pavla (1716), dva Jakuby (1750, 1789) a Matěje (1825).","Matějův syn Václav (1868–1938) se usadil jako rolník v Berouně na Lištici a oženil se s Annou Vlasákovou z mlynářské rodiny z Račic u Zbečna. Z jejich pěti synů je nejmladší Karel (*1906) děd Jana Votavy.","Karel Červenka se v lednu 1933 oženil v kostele sv. Mikuláše v Borku u Suchomast s Annou Klikovou, dcerou dělníka Karla Kliky z Býkoše a Růženy Valentové z Čepiroh (Tschöppern) u Mostu.","Linie do 17. století pochází z rodinného strojopisného rodopisu; jednotlivé údaje se ještě ověřují v matrikách."]}
 ];
@@ -2259,7 +2434,8 @@ window.RODOKMEN.timeline = [
   {"y":1696,"t":"Sňatek Václava Červenky a Doroty Nové v Žebráku – nejstarší známé datum rodu"},
   {"y":1894,"t":"Sňatek Václava Červenky a Anny Vlasákové v Berouně"},
   {"y":1924,"t":"Sňatek Václava Votavy a Jany Čapkové v Mostě (18. 10.)"},
-  {"y":1940,"t":"Výměr o domovském právu v Těchobuzi pro Václava Votavu (*1899) a jeho rodinu"}
+  {"y":1940,"t":"Výměr o domovském právu v Těchobuzi pro Václava Votavu (*1899) a jeho rodinu"},
+  {"y":1865,"t":"Sňatek Štěpána Votavy a Antonie Michalové v Těchobuzi (18. 9.)"}
 ];
 
 // Documented migrations; kind: "doc" = documented, "rail" = probable route by train, "hyp" = hypothesis
