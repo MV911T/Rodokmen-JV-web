@@ -31,6 +31,11 @@ window.RODOKMEN_GAZ = [
   // Vysočina: Votava origins (positions ±3 km, to be verified)
   { n: 'Pravonín', a: ['Pravonín'], lat: 49.635, lon: 14.945 },
   { n: 'Těchobuz', a: ['Těchobuz'], lat: 49.495, lon: 14.975 },
+  { n: 'Jetřichovice', a: ['Jetřichovic'], lat: 49.52, lon: 15.0 },
+  { n: 'Tučapy', a: ['Tučap'], lat: 49.5, lon: 14.8 },
+  { n: 'Mezilesí', a: ['Mezilesí'], lat: 49.54, lon: 15.05 },
+  // Rokycansko – Lodl / Forejt (Osek u Rokycan, to be verified)
+  { n: 'Osek', a: ['Osek'], lat: 49.78, lon: 13.59 },
   { n: 'Chomutov', a: ['Chomutov'], lat: 50.46, lon: 13.418 },
   { n: 'Jirkov', a: ['Jirkov'], lat: 50.5, lon: 13.448 },
   { n: 'Karviná', a: ['Karviná'], lat: 49.856, lon: 18.55 },

@@ -22,7 +22,7 @@ window.RODOKMEN = {
     "michal": "Michal",
     "fukal": "Tůkal",
     "svoboda": "Svoboda",
-    "ota": "Ota (?)",
+    "ota": "Ota",
     "snajdr": "Šnajdr",
     "forejt": "Forejt",
     "divis": "Diviš",
@@ -33,7 +33,9 @@ window.RODOKMEN = {
     "zyma": "Zyma",
     "drapal": "Drapal",
     "novy": "Nový",
-    "semenec": "Semenec"
+    "semenec": "Semenec",
+    "flemr": "Flemr (?)",
+    "karafiat": "Karafiát"
   },
   people: [
     {
@@ -478,7 +480,7 @@ window.RODOKMEN = {
       id: "vaclav1899",
       name: "Václav Votava",
       line: "votava",
-      cert: "D",
+      cert: "M",
       b: {"date":"25. 10. 1899","year":1899,"place":"Souš č. p. 189 (Most)"},
       d: {"date":"11. 12. 1968","year":1968},
       father: "vaclav1868",
@@ -487,7 +489,8 @@ window.RODOKMEN = {
       occ: "horník",
       marriage: "18. 10. 1924, Most – s Janou Čapkovou",
       notes: [
-        "Pokřtěn v Souši (farnost Souš, matrika tom. 14). Otec Václav Votava, horník; děd Štěpán Votava, horník v Souši; matka Barbora, dcera Martina Lodla, horníka v Souši.",
+        "Pokřtěn 27. 10. 1899 v Souši (kaplan Wenzel Fiala (?), porodní bába Anna Stempel). Otec Václav Votava, horník, příslušný do Těchobuze (okr. Pacov); děd Štěpán Votava, horník v Souši č. 116; babička † Antonie roz. Michalová z Těchobuze č. 19; matka Barbora, dcera Martina Lodla, horníka v Souši č. 57, a Anny roz. Forejtové z Oseku č. 91.",
+        "Přípis v matrice: 14. 2. 1921 bez vyznání (vystoupil z církve – stejně jako otec a budoucí manželka).",
         "Horník. Domovské právo v Souši (domovský list 9. 9. 1924, svobodný).",
         "Bydliště: Komořany (1924), Souš č. p. 50 (1933), Souš č. p. 21 (1940), Kopisty č. p. 241 (1942, 1956).",
         "Výměrem Okresního úřadu v Pelhřimově z 8. 9. 1940 mu bylo přiděleno domovské právo v Těchobuzi (ke dni 7. 2. 1939): Souš připadla Německu, on se stal československým (protektorátním) státním občanem. Před nabytím domovského práva v Souši příslušel do Těchobuze po otci (do 27. 4. 1919). Domovské právo následovaly manželka a děti Jiří, Vlasta a Václav.",
@@ -503,7 +506,8 @@ window.RODOKMEN = {
         "Domovský list Václava Votavy, obec Souš, polit. okres Most, č. 415/24 (9. 9. 1924)",
         "Výtah z knihy křtěných a oddaných (sňatek 18. 10. 1924 Most), Okresní správa politická v Mostě, 24. 10. 1924",
         "Výměr Okresního úřadu v Pelhřimově č. 30435/40 o určení domovského práva (8. 9. 1940)",
-        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
+        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/"
       ],
       scans: [
         {"f":"img/1942_rodny_list_vladimir_votava_kopisty.jpg","t":"Rodný list syna Vladimíra (1942)"},
@@ -516,7 +520,9 @@ window.RODOKMEN = {
         {"f":"img/1940_vymer_domovske_pravo_vaclav_votava.jpg","t":"Výměr o domovském právu v Těchobuzi, Pelhřimov 8. 9. 1940"},
         {"f":"img/1924_domovsky_list_vaclav_votava_sous.jpg","t":"Domovský list Václava Votavy, Souš 1924"},
         {"f":"img/dopis_vaclav_votava_anicce_1.jpg","t":"Dopis Václava Votavy (*1933) vnučce Aničce, s. 1"},
-        {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"}
+        {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"},
+        {"f":"img/1899_N_Votava_Vaclav_Sous_vlevo.jpg","t":"Křest Václava Votavy, Souš 1899 – matrika"},
+        {"f":"img/1899_N_Votava_Vaclav_Sous_rodice.jpg","t":"Křest Václava Votavy, Souš 1899 – rodiče"}
       ]
     },
     {
@@ -524,8 +530,8 @@ window.RODOKMEN = {
       name: "Jana Votavová",
       maiden: "Čapková",
       line: "capek",
-      cert: "D",
-      b: {"date":"16. 5. 1903","year":1903,"place":"Mladá Boleslav č. p. 278-III"},
+      cert: "M",
+      b: {"date":"16. 5. 1903","year":1903,"place":"Mladá Boleslav – Podolec č. p. 278, Zalužanská ul."},
       d: {"date":"29. 7. 1984","year":1984,"place":"Most"},
       cause: "jaterní cirhóza",
       father: "josef_c",
@@ -534,7 +540,8 @@ window.RODOKMEN = {
       occ: "dělnice (1956); důchodkyně (1984)",
       marriage: "18. 10. 1924, Most – s Václavem Votavou",
       notes: [
-        "Pokřtěna 18. 5. 1903 v Mladé Boleslavi kaplanem Františkem Matějkou (matrika fol. 134).",
+        "Pokřtěna 18. 5. 1903 v Mladé Boleslavi jako „Johanna“ (kaplan Fr. Matějka, porodní bába Anna Baumajerová, svědek Jos. Arnold, kostelník). Zápis je na fol. 34 – „fol. 134“ v křestním listu z roku 1924 je chyba.",
+        "Přípis na okraji: podle přípisu hejtmanství v Mostě ze 14. 2. 1921 (č. 27691) vystoupila z katolické církve – rodina tehdy už žila na Mostecku.",
         "Rodiče Josef Čapek a Marie, roz. Tůkalová. Křestní list (1924) i úmrtní list (1984) mají Tůkalová / Tukalová; „Fukalová“ v rodném listu syna (1956) je chyba opisu (první písmeno přepsané na stroji).",
         "Domovské právo v Souši (domovský list 28. 5. 1931: manželka horníka – dělnice).",
         "Zemřela jako vdova v Mostě; zpopelněna 3. 8. 1984 v Mostě.",
@@ -548,7 +555,8 @@ window.RODOKMEN = {
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "Výtah z knihy křtěných a oddaných (sňatek 18. 10. 1924 Most), Okresní správa politická v Mostě, 24. 10. 1924",
         "Domovský list Jany Votavové, obec Souš, č. 1023/31 (28. 5. 1931)",
-        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
       ],
       scans: [
         {"f":"img/1942_rodny_list_vladimir_votava_kopisty.jpg","t":"Rodný list syna Vladimíra (1942)"},
@@ -558,7 +566,9 @@ window.RODOKMEN = {
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křestní list Jany Čapkové, Mladá Boleslav 16. 5. 1903 (vydán 1924)"},
         {"f":"img/1924_vytah_snatek_votava_capkova_most.jpg","t":"Výtah z matriky – sňatek 18. 10. 1924, Most"},
         {"f":"img/1940_vymer_domovske_pravo_vaclav_votava.jpg","t":"Výměr o domovském právu v Těchobuzi, Pelhřimov 8. 9. 1940"},
-        {"f":"img/1931_domovsky_list_jana_votavova_sous.jpg","t":"Domovský list Jany Votavové, Souš 1931"}
+        {"f":"img/1931_domovsky_list_jana_votavova_sous.jpg","t":"Domovský list Jany Votavové, Souš 1931"},
+        {"f":"img/1903_krest_jana_capkova_mlada_boleslav_a.jpg","t":"Křest Jany Čapkové, Mladá Boleslav 1903"},
+        {"f":"img/1903_krest_jana_capkova_mlada_boleslav_b.jpg","t":"Křest Jany Čapkové, Mladá Boleslav 1903 – rodiče"}
       ]
     },
     {
@@ -687,15 +697,18 @@ window.RODOKMEN = {
       id: "vaclav1868",
       name: "Václav Votava",
       line: "votava",
-      cert: "D",
-      b: {"date":"25. 8. 1868","year":1868,"place":"Pravonín"},
+      cert: "M",
+      b: {"date":"25. 8. 1868","year":1868,"place":"Pravonín č. p. 74"},
       d: {"date":"9. 11. 1963","year":1963,"place":"Souš (Most)"},
       father: "stepan_v",
       mother: "antonie_m",
       spouse: "barbora_l",
       occ: "horník",
+      marriage: "16. 7. 1894, Souš – s Barborou Lodlovou",
       notes: [
-        "Narozen 25. 8. 1868 v Pravoníně (výměr 1940). Syn Štěpána Votavy, horníka v Souši, a Antonie roz. Michalové z Těchobuze č. 19 (křestní list syna 1924).",
+        "Pokřtěn 26. 8. 1868 v Pravoníně (kooperátor P. Ig. Chlumecký). Otec Štěpán Votava, panský kočí v Pravoníně č. 74; matka Antonie roz. Michalová z Těchobuze č. 19. Kmotři Václav Zunařík (?), šafář v Pravoníně, a Františka Jirušková, kuchyňská v pravonínském zámku.",
+        "Přípis na okraji: podle oznámení okresní politické správy v Mostě z roku 1921 (č. 21.382) vystoupil z římskokatolické církve, bez vyznání.",
+        "Při sňatku 1894 horník v Souši č. 116, příslušný do Těchobuze; svědci Johann Carvan (?) a Václav Ježek, horníci v Souši.",
         "Podle rodinné tradice přišel do Mostu asi ve 4 letech (kolem 1872), kdy se na Mostecku otvíraly šachty; v Souši pak žil i jeho otec Štěpán.",
         "Domovské právo v Těchobuzi (okr. Pelhřimov) měl do 27. 4. 1919.",
         "Zemřel 9. 11. 1963 v 95 letech (dopis vnuka Václava, rodinná paměť).",
@@ -709,7 +722,9 @@ window.RODOKMEN = {
         "Kronika obce Těchobuz, kap. Zemědělské družstvo v Těchobuzi, s. 149 (kopie u rodiny)",
         "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
         "Výměr Okresního úřadu v Pelhřimově č. 30435/40 o určení domovského práva (8. 9. 1940)",
-        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78"
       ],
       scans: [
         {"f":"img/1951_kronika_techobuz_frantisek_votava.jpg","t":"Kronika Těchobuze 1951 – František Votava č. p. 76"},
@@ -717,7 +732,12 @@ window.RODOKMEN = {
         {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"},
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"},
         {"f":"img/dopis_vaclav_votava_anicce_1.jpg","t":"Dopis Václava Votavy (*1933) vnučce Aničce, s. 1"},
-        {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"}
+        {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"},
+        {"f":"img/1868_krest_vaclav_votava_pravonin_a.jpg","t":"Křest Václava Votavy, Pravonín 1868 (levá část zápisu)"},
+        {"f":"img/1868_krest_vaclav_votava_pravonin_b.jpg","t":"Křest Václava Votavy, Pravonín 1868 (pravá část – matka, kmotři)"},
+        {"f":"img/1899_N_Votava_Vaclav_Sous_rodice.jpg","t":"Křest Václava Votavy, Souš 1899 – rodiče"},
+        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 16. 7. 1894 – ženich"},
+        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"}
       ]
     },
     {
@@ -725,49 +745,63 @@ window.RODOKMEN = {
       name: "Barbora Votavová",
       maiden: "Lodlová",
       line: "lodl",
-      cert: "D",
-      b: {"date":"29. 6. 1869","year":1869},
+      cert: "M",
+      b: {"date":"27. 1. 1873","year":1873,"place":"Osek č. p. 91 (u Rokycan?)"},
       d: {"date":"16. 5. 1918","year":1918},
       father: "martin_l",
       mother: "anna_f",
       spouse: "vaclav1868",
+      marriage: "16. 7. 1894, Souš – s Václavem Votavou",
       notes: [
-        "Matka Václava Votavy (*1899). Dcera Martina Lodla, horníka v Souši č. 57 (?), a Anny roz. Forejtové z ? (Věka?) č. 91 (křestní list syna 1924).",
-        "Data narození a úmrtí podle dopisu vnuka Václava (*1933) – rodinná paměť."
+        "Narozena v Oseku (Wosek) č. 91, okr. Rokycany (?); v roce 1894 bydlela v Souši č. 57. Otec Martin Lodl, horník v Souši č. 57, dal souhlas ke sňatku nezletilé dcery a podepsal se.",
+        "ROZPOR v datu narození: oddací matrika 1894 („21 5/12“ let, nar. 27. 1. 1873) i křestní matrika syna 1899 uvádějí 27. 1. 1873; dopis vnuka Václava (*1933) uvádí 29. 6. 1869. Platí matrika; ověřit křtem v Oseku (SOA Plzeň).",
+        "Zemřela 16. 5. 1918 (dopis vnuka – rodinná paměť)."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
         "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
-        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
+        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/"
       ],
       scans: [
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"},
         {"f":"img/dopis_vaclav_votava_anicce_1.jpg","t":"Dopis Václava Votavy (*1933) vnučce Aničce, s. 1"},
-        {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"}
+        {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"},
+        {"f":"img/1899_N_Votava_Vaclav_Sous_rodice.jpg","t":"Křest Václava Votavy, Souš 1899 – rodiče"},
+        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 16. 7. 1894 – ženich"},
+        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"}
       ]
     },
     {
       id: "stepan_v",
       name: "Štěpán Votava",
       line: "votava",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
+      father: "jan_v",
+      mother: "katerina_f",
       spouse: "antonie_m",
-      occ: "horník v Souši",
+      occ: "panský kočí v Pravoníně č. 74 (1868), později horník v Souši",
       notes: [
-        "Horník v Souši u Mostu (křestní list vnuka 1924); původem z Vysočiny, s rodinou z Těchobuze č. 19.",
-        "Otec Václava Votavy (*1868), Těchobuz č. p. 19, okr. Pelhřimov – podle křestního listu vnuka (1924), citováno v dopise pravnuka.",
+        "Panský kočí v Pravoníně č. 74 (1868); syn † Jana Votavy, nádeníka z Jetřichovic č. 22 (okres Pacovský v Táborsku), a † Kateřiny roz. Flemrové (?) z Tučap č. 36 (křest syna Václava 1868).",
+        "Později horník v Souši u Mostu, č. 116 (1894, 1899). Domovské právo rodiny bylo v Těchobuzi – domovské obci jeho manželky Antonie.",
         "Podle rodinného rodokmenu měl nejméně dva další syny; syn jednoho z nich byl major armády USA, který v roce 1945 navštívil Václava Votavu (*1899) v Mostě."
       ],
       sources: [
         "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
         "Ručně kreslený rodokmen Votavů (rodina, nedatováno)",
-        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)"
+        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
+        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/"
       ],
       scans: [
         {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
         {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"},
-        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"}
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"},
+        {"f":"img/1868_krest_vaclav_votava_pravonin_a.jpg","t":"Křest syna Václava, Pravonín 1868"},
+        {"f":"img/1868_krest_vaclav_votava_pravonin_b.jpg","t":"Křest syna Václava, Pravonín 1868 – rodiče matky, kmotři"}
       ]
     },
     {
@@ -775,37 +809,51 @@ window.RODOKMEN = {
       name: "Antonie Votavová",
       maiden: "Michalová",
       line: "michal",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      d: {"date":"před 16. 7. 1894","year":1894},
+      father: "jan_m",
+      mother: "marie_k",
       spouse: "stepan_v",
       notes: [
-        "Matka Václava Votavy (*1868), z Těchobuze č. p. 19."
+        "Dcera † Jana Michala, půlníka z Těchobuze č. 19 (okres Pacovský v Táborsku), a Marie roz. Karafiátové z Mezilesí č. 2 (křest syna Václava 1868).",
+        "V roce 1894 už nežila (oddací zápis syna: „+ Antonie geb. Michal“)."
       ],
       sources: [
-        "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940"
+        "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78"
+      ],
+      scans: [
+        {"f":"img/1868_krest_vaclav_votava_pravonin_a.jpg","t":"Křest syna Václava, Pravonín 1868"},
+        {"f":"img/1868_krest_vaclav_votava_pravonin_b.jpg","t":"Křest syna Václava, Pravonín 1868 – rodiče matky, kmotři"}
       ]
     },
     {
       id: "josef_c",
       name: "Josef Čapek",
       line: "capek",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1875)","year":1875,"approx":true},
+      cert: "M",
+      b: {"date":"21. 3. 1874","year":1874,"place":"Rabakov"},
       father: "karel_c",
       mother: "marie_o",
       spouse: "marie_f",
+      occ: "lomař (1903)",
+      marriage: "14. 9. 1897, Mladá Boleslav – s Marií Tůkalovou",
       notes: [
-        "Otec Jany Votavové (*1903 Mladá Boleslav). Syn Karla Čapka, domkáře v Rabakově č. 19 (okr. Sobotka), a Marie Otové (?) z Kchleb č. 53 (okr. Nymburk).",
+        "Syn Karla Čapka, domkáře v Rabakově č. 19 (okr. Sobotka), a Marie, dcery Václava Oty, sedláka v Krchlebích č. 53 (okr. Nymburk). Příslušný do Jeseníka (?).",
         "Později bydlel s manželkou v Komořanech u Mostu (dopis vnuka)."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
         "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)",
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
-        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
       ],
       scans: [
-        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"}
+        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
+        {"f":"img/1903_krest_jana_capkova_mlada_boleslav_b.jpg","t":"Křest dcery Jany, Mladá Boleslav 1903"}
       ]
     },
     {
@@ -813,22 +861,25 @@ window.RODOKMEN = {
       name: "Marie Čapková",
       maiden: "Tůkalová",
       line: "fukal",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1878)","year":1878,"approx":true},
+      cert: "M",
+      b: {"date":"3. 12. 1874","year":1874,"place":"Kosík"},
       father: "jan_t",
       mother: "frantiska_s",
       spouse: "josef_c",
+      marriage: "14. 9. 1897, Mladá Boleslav – s Josefem Čapkem",
       notes: [
-        "Matka Jany Votavové (*1903). Dcera Jana Tůkala, baráčníka v Kosíčku (?) č. 52 (?), a Františky roz. Šnajdrové z Pojedic (?) č. 9, okr. Libáň (křestní list dcery 1924).",
-        "Rodné příjmení: Tůkalová (křestní list 1924), Tukalová (úmrtní list dcery 1984); „Fukalová“ (rodný list vnuka 1956) je chyba opisu."
+        "Dcera Jana Tůkala, baráčníka v Kosíku č. 52, a Františky, dcery Václava Šnajdra, chalupníka z Pojedí č. 9 (okr. Libáň).",
+        "Rodné příjmení Tůkalová potvrzuje matrika (křest dcery 1903); „Fukalová“ v rodném listu vnuka (1956) je chyba opisu."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
         "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)",
-        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134"
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
       ],
       scans: [
-        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"}
+        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
+        {"f":"img/1903_krest_jana_capkova_mlada_boleslav_b.jpg","t":"Křest dcery Jany, Mladá Boleslav 1903"}
       ]
     },
     {
@@ -1115,7 +1166,7 @@ window.RODOKMEN = {
       id: "karel_c",
       name: "Karel Čapek",
       line: "capek",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
       spouse: "marie_o",
       occ: "domkář v Rabakově č. 19, okr. Sobotka",
@@ -1123,7 +1174,8 @@ window.RODOKMEN = {
         "Otec Josefa Čapka, děd Jany Votavové (*1903)."
       ],
       sources: [
-        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134"
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"}
@@ -1132,31 +1184,34 @@ window.RODOKMEN = {
     {
       id: "marie_o",
       name: "Marie Čapková",
-      maiden: "Otová (?)",
+      maiden: "Otová",
       line: "ota",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Kchleby č. p. 53, okr. Nymburk"},
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Krchleby č. p. 53, okr. Nymburk"},
+      father: "vaclav_o",
       spouse: "karel_c",
       notes: [
-        "Matka Josefa Čapka; čtení příjmení nejisté."
+        "Matka Josefa Čapka; dcera Václava Oty, sedláka v Krchlebích č. 53."
       ],
       sources: [
-        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134"
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
       ]
     },
     {
       id: "jan_t",
       name: "Jan Tůkal",
       line: "fukal",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
       spouse: "frantiska_s",
-      occ: "baráčník v Kosíčku (?) č. 52 (?)",
+      occ: "baráčník v Kosíku č. 52",
       notes: [
         "Otec Marie Čapkové, roz. Tůkalové."
       ],
       sources: [
-        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134"
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"}
@@ -1167,32 +1222,37 @@ window.RODOKMEN = {
       name: "Františka Tůkalová",
       maiden: "Šnajdrová",
       line: "snajdr",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Pojedice (?) č. p. 9, okr. Libáň"},
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Pojedí č. p. 9, okr. Libáň"},
+      father: "vaclav_sn",
       spouse: "jan_t",
       notes: [
-        "Matka Marie Čapkové, roz. Tůkalové; čtení místa nejisté."
+        "Matka Marie Čapkové, roz. Tůkalové; dcera Václava Šnajdra, chalupníka z Pojedí č. 9."
       ],
       sources: [
-        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134"
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
       ]
     },
     {
       id: "martin_l",
       name: "Martin Lodl",
       line: "lodl",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
       spouse: "anna_f",
-      occ: "horník v Souši č. 57 (?)",
+      occ: "horník v Souši č. 57",
       notes: [
-        "Otec Barbory Votavové, roz. Lodlové."
+        "Otec Barbory Votavové; rodina žila v Oseku č. 91 (u Rokycan?), od 1890s v Souši."
       ],
       sources: [
-        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)"
+        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
+        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/"
       ],
       scans: [
-        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"}
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"},
+        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"}
       ]
     },
     {
@@ -1200,14 +1260,16 @@ window.RODOKMEN = {
       name: "Anna Lodlová",
       maiden: "Forejtová",
       line: "forejt",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1843)","year":1843,"approx":true},
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Osek č. p. 91"},
       spouse: "martin_l",
       notes: [
-        "Matka Barbory Votavové; původem „z ? (Věka?) č. 91“ – čtení místa nejisté."
+        "Matka Barbory Votavové, z Oseku (Wosek) č. 91."
       ],
       sources: [
-        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)"
+        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
+        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/"
       ]
     },
     {
@@ -1651,6 +1713,94 @@ window.RODOKMEN = {
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
       ]
+    },
+    {
+      id: "jan_v",
+      name: "Jan Votava",
+      line: "votava",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
+      spouse: "katerina_f",
+      occ: "nádeník v Jetřichovicích č. 22, okr. Pacov",
+      notes: [
+        "Otec Štěpána Votavy; v roce 1868 už nežil."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95"
+      ]
+    },
+    {
+      id: "katerina_f",
+      name: "Kateřina Votavová",
+      maiden: "Flemrová (?)",
+      line: "flemr",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1808)","year":1808,"approx":true,"place":"Tučapy č. p. 36"},
+      spouse: "jan_v",
+      notes: [
+        "Matka Štěpána Votavy, z Tučap č. 36; v roce 1868 už nežila. Čtení rodného příjmení nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95"
+      ]
+    },
+    {
+      id: "jan_m",
+      name: "Jan Michal",
+      line: "michal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
+      spouse: "marie_k",
+      occ: "půlník v Těchobuzi č. 19",
+      notes: [
+        "Otec Antonie Votavové; v roce 1868 už nežil. Usedlost Těchobuz č. 19."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95"
+      ]
+    },
+    {
+      id: "marie_k",
+      name: "Marie Michalová",
+      maiden: "Karafiátová",
+      line: "karafiat",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true,"place":"Mezilesí č. p. 2"},
+      spouse: "jan_m",
+      notes: [
+        "Matka Antonie Votavové, z Mezilesí č. 2 (okr. Pacov)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95"
+      ]
+    },
+    {
+      id: "vaclav_o",
+      name: "Václav Ota",
+      line: "ota",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      occ: "sedlák v Krchlebích č. 53, okr. Nymburk",
+      notes: [
+        "Otec Marie Čapkové, roz. Otové."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+      ]
+    },
+    {
+      id: "vaclav_sn",
+      name: "Václav Šnajdr",
+      line: "snajdr",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      occ: "chalupník v Pojedí č. 9, okr. Libáň",
+      notes: [
+        "Otec Františky Tůkalové, roz. Šnajdrové."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+      ]
     }
   ]
 };
@@ -1662,7 +1812,7 @@ window.RODOKMEN.places = [
   {"name":"Těchobuz","lat":49.495,"lon":14.975,"line":"votava","note":"domovská obec Votavů (Štěpán Votava, č. p. 19)","anchor":"start"}
 ];
 window.RODOKMEN.story = [
-  {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Českomoravské vrchoviny. Štěpán Votava a Antonie, roz. Michalová, žili v Těchobuzi č. p. 19 na Pelhřimovsku a jejich syn Václav se narodil roku 1868 v Pravoníně.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal"]},
+  {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Pacovska. Štěpán Votava, syn nádeníka z Jetřichovic, sloužil jako panský kočí na zámku v Pravoníně, kde se mu s Antonií Michalovou z Těchobuze č. 19 narodil roku 1868 syn Václav. Domovské právo měla rodina v Těchobuzi.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal"]},
   {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek"],"title":"Zettelmannovi a Hrazdílkovi","text":["František Zettelmann se narodil roku 1940 v Polouvsí na Novojičínsku, Helena Hrazdílková téhož roku v Heršpicích u Vyškova. V roce 1963 žili v Karviné, kde se jim narodila dcera Šárka."]},
   {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda","divis","merhaut","skala","kalous","holicky","zyma","drapal","novy","semenec"],"title":"Červenkovi a Klikovi","text":["Červenkové byli po pět generací rolníky ve Hředlích č. p. 37 u Žebráka. Nejstarší známý předek Václav Červenka (asi 1674–1730) se roku 1696 oženil v Žebráku s Dorotou Novou z Chlustiny. Linie pokračuje přes Pavla (1716), dva Jakuby (1750, 1789) a Matěje (1825).","Matějův syn Václav (1868–1938) se usadil jako rolník v Berouně na Lištici a oženil se s Annou Vlasákovou z mlynářské rodiny z Račic u Zbečna. Z jejich pěti synů je nejmladší Karel (*1906) děd Jana Votavy.","Karel Červenka se v lednu 1933 oženil v kostele sv. Mikuláše v Borku u Suchomast s Annou Klikovou, dcerou dělníka Karla Kliky z Býkoše a Růženy Valentové z Čepiroh (Tschöppern) u Mostu.","Linie do 17. století pochází z rodinného strojopisného rodopisu; jednotlivé údaje se ještě ověřují v matrikách."]}
 ];
