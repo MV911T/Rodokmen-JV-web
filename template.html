@@ -1,0 +1,628 @@
+<title>Rodokmen Jiřího Votavy</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans+Condensed:wght@400;500;600&display=swap">
+<style>
+/* Layout: the root person at the top, ancestors descend by birth year (newest top, oldest bottom); year ruler pinned right; details in a dialog */
+:root{
+  --bg:#e9eef0; --surface:#ffffff; --ink:#18262e; --muted:#5b6b73; --rule:#c9d3d8; --grid:#dbe3e6;
+  --accent:#a3362b;           /* red register ink */
+  --link:#24506b;
+  --l-votava:#2f5f8a; --l-cervenka:#8e4b2b; --l-zettelmann:#3d7d5c; --l-hrazdilek:#7a5c99;
+  --l-blazek:#8a7a2e; --l-jerabek:#a3612d; --l-hromas:#2f7a80; --l-voticky:#6b6f2f; --l-nezname:#7b8890;
+  --shadow:0 1px 2px rgba(24,38,46,.08),0 4px 14px rgba(24,38,46,.06);
+  --mat:#c93a2e; --pat:#2563b8; --land:#eceae4; --land-cz:#fbfaf6; --land-pl:#f6f0ee; --land-sk:#eef3f1; --border:#9aa8af;
+  --f-name:"Spectral",Georgia,"Times New Roman",serif;
+  --f-data:"IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#11171b; --surface:#1a232a; --ink:#e3eaed; --muted:#93a3ab; --rule:#2f3c44; --grid:#1f2a31;
+  --accent:#e2735f; --link:#8cc0dd;
+  --l-votava:#7fb0d0; --l-cervenka:#d99a76; --l-zettelmann:#7fc29d; --l-hrazdilek:#b49ad4;
+  --l-blazek:#cdbb66; --l-jerabek:#e0a06a; --l-hromas:#6fc0c6; --l-voticky:#b3b86a; --l-nezname:#9aa8af;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3); --mat:#f0705f; --pat:#6aa6f0; --land:#1a2228; --land-cz:#25313a; --land-pl:#2a2c33; --land-sk:#22302d; --border:#566770; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#11171b; --surface:#1a232a; --ink:#e3eaed; --muted:#93a3ab; --rule:#2f3c44; --grid:#1f2a31;
+  --accent:#e2735f; --link:#8cc0dd;
+  --l-votava:#7fb0d0; --l-cervenka:#d99a76; --l-zettelmann:#7fc29d; --l-hrazdilek:#b49ad4;
+  --l-blazek:#cdbb66; --l-jerabek:#e0a06a; --l-hromas:#6fc0c6; --l-voticky:#b3b86a; --l-nezname:#9aa8af;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3); --mat:#f0705f; --pat:#6aa6f0; --land:#1a2228; --land-cz:#25313a; --land-pl:#2a2c33; --land-sk:#22302d; --border:#566770; color-scheme:dark }
+
+html,body{height:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-data);margin:0;display:flex;flex-direction:column}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;gap:12px 24px;padding:14px 16px 10px;border-bottom:1px solid var(--rule)}
+header h1{font-family:var(--f-name);font-weight:600;font-size:1.5rem;margin:0;text-wrap:balance}
+header .meta{color:var(--muted);font-size:.8rem;letter-spacing:.02em}
+.tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-left:auto}
+.tools input{font:inherit;font-size:.85rem;padding:6px 10px;border:1px solid var(--rule);border-radius:6px;background:var(--surface);color:var(--ink);width:180px;max-width:46vw}
+.tools button{font:inherit;font-size:.85rem;padding:6px 10px;border:1px solid var(--rule);border-radius:6px;background:var(--surface);color:var(--ink);cursor:pointer}
+.tools button:focus-visible,.tools input:focus-visible,.card:focus-visible,.chip:focus-visible,dialog button:focus-visible,.plink:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;padding:8px 16px;font-size:.75rem;color:var(--muted);border-bottom:1px solid var(--rule)}
+.chip{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--rule);border-radius:999px;padding:3px 10px;background:var(--surface);color:var(--ink);font:inherit;font-size:.75rem;cursor:pointer}
+.chip[aria-pressed="true"]{border-color:var(--ink)}
+.sw{width:10px;height:10px;border-radius:2px;display:inline-block}
+.certs{display:flex;gap:12px;align-items:center;margin-left:auto}
+.cert{display:inline-flex;align-items:center;gap:5px}
+.dot{width:9px;height:9px;border-radius:50%;display:inline-block;border:1.5px solid var(--ink)}
+.dot.M{background:var(--ink)} .dot.D{background:var(--muted);border-color:var(--muted)} .dot.R{background:transparent} .dot.K{background:transparent;border-style:dashed}
+
+#scroller{flex:1;overflow:auto;position:relative;min-height:0}
+#inner{display:flex;width:max-content;min-width:100%}
+#stage{position:relative;flex:none;overflow:hidden}
+#canvas{position:absolute;left:0;top:0;transform-origin:0 0}
+#scroller{touch-action:pan-x pan-y}
+#scroller{cursor:grab}
+#scroller.panning{cursor:grabbing;user-select:none;-webkit-user-select:none}
+#scroller.panning .card{cursor:grabbing}
+#zoombar{display:flex;align-items:center;gap:8px;padding:8px 16px calc(8px + env(safe-area-inset-bottom,0px));border-top:1px solid var(--rule);background:var(--surface);font-size:.85rem}
+#zoombar button{font:inherit;font-size:.85rem;padding:5px 10px;border:1px solid var(--rule);border-radius:6px;background:var(--bg);color:var(--ink);cursor:pointer;min-width:34px}
+#zoombar button:focus-visible,#zoombar input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+#zoombar input[type=range]{flex:1;max-width:340px;min-width:80px;accent-color:var(--accent)}
+#zoombar output{min-width:3.6em;text-align:right;font-variant-numeric:tabular-nums;color:var(--muted)}
+#zoombar[hidden]{display:none}
+@media (max-width:520px){ #zoombar{gap:6px;padding-inline:10px} #z100{display:none} }
+#ruler{position:sticky;right:var(--evw);flex:none;width:58px;background:var(--bg);border-left:1px solid var(--rule);z-index:3}
+:root{--evw:176px}
+#events{position:sticky;right:0;flex:none;width:var(--evw);background:var(--surface);border-left:1px solid var(--rule);z-index:3;overflow:hidden}
+.evdot{position:absolute;left:5px;width:7px;height:7px;border-radius:50%;background:var(--muted);transform:translateY(-50%)}
+.evdot.major{background:var(--accent)}
+.evl{position:absolute;left:16px;right:4px;font-size:.7rem;line-height:1.2;color:var(--ink)}
+.evl.major{font-weight:600}
+.evband{position:absolute;left:0;right:0;background:color-mix(in srgb,var(--accent) 16%,transparent);border-top:1px solid color-mix(in srgb,var(--accent) 55%,transparent);border-bottom:1px solid color-mix(in srgb,var(--accent) 55%,transparent)}
+.evl .s{display:none}
+@media (max-width:520px){ :root{--evw:92px} .evl .l{display:none} .evl .s{display:inline} }
+.tick{position:absolute;right:8px;font-size:.72rem;color:var(--muted);font-variant-numeric:tabular-nums;transform:translateY(-50%)}
+.tick.century{color:var(--ink);font-weight:600}
+.gridline{position:absolute;left:0;right:0;height:1px;background:repeating-linear-gradient(90deg,var(--grid) 0 6px,transparent 6px 12px)}   /* year lines dashed, so they never look like family links */
+.gridline.century{background:repeating-linear-gradient(90deg,var(--rule) 0 8px,transparent 8px 14px)}
+svg.links{position:absolute;inset:0;pointer-events:none;overflow:visible}
+svg.links path{fill:none;stroke:color-mix(in srgb,var(--muted) 55%,var(--rule));stroke-width:2.2}
+svg.links path.mat{stroke:var(--mat);stroke-width:3.2}
+svg.links path.pat{stroke:var(--pat);stroke-width:3.2}
+.card.mat{box-shadow:inset 3px 0 0 var(--mat),var(--shadow)}
+.card.pat{box-shadow:inset 3px 0 0 var(--pat),var(--shadow)}
+.lin{display:inline-flex;align-items:center;gap:5px}
+.lin i{display:inline-block;width:18px;height:3px;border-radius:2px}
+
+.card{position:absolute;width:var(--cw);box-sizing:border-box;background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:6px 8px 6px 8px;box-shadow:var(--shadow);cursor:pointer;text-align:left;font:inherit;color:inherit;transition:opacity .15s,border-color .15s}
+.card.K,.card.R{border-style:dashed}
+.card .top{display:flex;align-items:flex-start;gap:6px}
+.card .sw{margin-top:5px;flex:none}
+.card .nm{font-family:var(--f-name);font-weight:600;font-size:.86rem;line-height:1.15;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.card .mn{font-size:.7rem;color:var(--muted);margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.card .yr{display:flex;justify-content:space-between;align-items:flex-end;gap:4px;margin-top:3px;font-size:.7rem;line-height:1.25;font-variant-numeric:tabular-nums}
+.card .yr .dot{width:7px;height:7px;border-width:1.3px}
+.card.root{border-color:var(--accent);border-width:2px}
+.card.dim{opacity:.22}
+.card.hit{border-color:var(--accent)}
+.card:hover{border-color:var(--ink)}
+
+dialog{border:1px solid var(--rule);border-radius:10px;background:var(--surface);color:var(--ink);padding:0;width:min(560px,calc(100vw - 32px));max-height:min(80vh,720px);box-shadow:0 20px 60px rgba(0,0,0,.25)}
+dialog::backdrop{background:rgba(10,18,22,.45)}
+.dlg{padding:18px 20px 20px;overflow:auto;max-height:inherit;box-sizing:border-box}
+.dlg h2{font-family:var(--f-name);font-weight:600;font-size:1.35rem;margin:0;padding-right:36px;text-wrap:balance}
+.dlg .sub{color:var(--muted);font-size:.85rem;margin-top:2px}
+.dlg .x{position:absolute;top:12px;right:12px;border:1px solid var(--rule);background:var(--surface);color:var(--ink);border-radius:6px;width:30px;height:30px;cursor:pointer;font-size:1rem}
+.badge{display:inline-flex;align-items:center;gap:6px;font-size:.75rem;border:1px solid var(--rule);border-radius:999px;padding:2px 9px;margin-top:8px}
+dl.facts{display:grid;grid-template-columns:max-content 1fr;gap:6px 14px;margin:16px 0 0;font-size:.9rem}
+dl.facts dt{color:var(--muted);font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;padding-top:3px}
+dl.facts dd{margin:0;min-width:0}
+.plink{background:none;border:0;padding:0;font:inherit;color:var(--link);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+.dlg h3{font-size:.72rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin:18px 0 6px;font-weight:600}
+.dlg ul{margin:0;padding-left:18px;font-size:.9rem;line-height:1.45}
+.dlg li+li{margin-top:4px}
+.src{font-size:.82rem;color:var(--muted)}
+.scans{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.scan{border:1px solid var(--rule);border-radius:6px;overflow:hidden;background:var(--bg);cursor:zoom-in;padding:0;font:inherit;color:inherit;text-align:left}
+.scan img{display:block;width:100%;height:110px;object-fit:cover;object-position:top;filter:contrast(1.05)}
+.scan span{display:block;font-size:.72rem;padding:5px 7px;color:var(--muted)}
+#viewer{position:fixed;inset:0;background:rgba(8,12,15,.92);display:flex;flex-direction:column;z-index:20}
+#viewer[hidden]{display:none}
+#viewer .bar{display:flex;justify-content:space-between;align-items:center;gap:12px;color:#e6ecef;padding:10px 16px;font-size:.85rem}
+#viewer .bar button{background:transparent;color:#e6ecef;border:1px solid #5a6b74;border-radius:6px;padding:4px 10px;cursor:pointer;font:inherit}
+#viewer .pane{flex:1;overflow:auto;cursor:zoom-in}
+#viewer .pane img{display:block;width:100%;height:auto;max-width:none}
+#viewer .pane.fit img{width:auto;max-width:100%;max-height:100%;margin:auto}
+#viewer .pane.fit{display:flex;cursor:zoom-in}
+
+.tabs{display:flex;gap:4px}
+.tabs button{font:inherit;font-size:.85rem;padding:6px 12px;border:1px solid var(--rule);border-radius:6px;background:var(--surface);color:var(--muted);cursor:pointer}
+.tabs button[aria-selected="true"]{color:var(--ink);border-color:var(--ink);font-weight:600}
+#mapView{flex:1;overflow:auto;padding:16px;box-sizing:border-box}
+.mapwrap{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:24px;max-width:1300px;margin:0 auto}
+@media (max-width:900px){.mapwrap{grid-template-columns:1fr}}
+.mapfig{min-width:0}
+#map{width:100%;height:auto;display:block;background:var(--surface);border:1px solid var(--rule);border-radius:8px}
+#map .sea{fill:var(--bg)}
+#map .land{fill:var(--land);stroke:var(--border);stroke-width:1.4;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+.mapbox{position:relative}
+#map{touch-action:pan-y;cursor:grab;user-select:none;-webkit-user-select:none}
+#map.drag{cursor:grabbing}
+.mapzoom{position:absolute;top:8px;right:8px;display:flex;gap:4px}
+.mapzoom button{font:inherit;font-size:.85rem;min-width:30px;height:30px;padding:0 8px;border:1px solid var(--rule);border-radius:6px;background:var(--surface);color:var(--ink);cursor:pointer;box-shadow:var(--shadow)}
+.mapzoom button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+/* text, points and lines keep (roughly) their screen size when the map is zoomed: --k = zoom^-0.7 */
+#map .lbl{font-size:calc(12px*var(--k,1));stroke-width:calc(3px*var(--k,1))}
+#map .lbl.sub{font-size:calc(10px*var(--k,1))}
+#map .lbl.auto{font-size:calc(9.5px*var(--k,1))}
+#map .cityl{font-size:calc(11px*var(--k,1))!important;stroke-width:calc(3px*var(--k,1))}
+#map .cityl.r1{font-size:calc(13px*var(--k,1))!important}
+#map .cityl.r3{font-size:calc(10px*var(--k,1))!important}
+#map .country{font-size:calc(15px*var(--k,1))!important}
+#map circle[style*="--r"]{r:calc(var(--r)*1px*var(--k,1))}
+#map .land.czechia{fill:var(--land-cz)}
+#map .land.poland{fill:var(--land-pl)}
+#map .land.slovakia{fill:var(--land-sk)}
+#map .grat{stroke:var(--border);stroke-width:.5;fill:none;opacity:.25;vector-effect:non-scaling-stroke}
+#map .city{fill:var(--muted)}
+#map .cityl{font-family:var(--f-data);fill:var(--muted);font-size:11px;paint-order:stroke;stroke:var(--land);stroke-width:3px}
+#map .cityl.r1{font-size:13px;font-weight:600}
+#map .cityl.r3{font-size:10px;font-style:italic}
+#map .glabel{fill:var(--muted);font-size:10px;font-family:var(--f-data)}
+#map .route{fill:none;stroke-width:calc(2.2px*var(--k,1));opacity:.9;stroke-linecap:round}
+#map .route.k-hyp{opacity:.75}
+#map .route:hover{stroke-width:calc(4px*var(--k,1))}
+.mlegend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:.75rem;color:var(--muted);margin:6px 2px 0}
+.mlegend svg{vertical-align:middle;margin-right:4px}
+.moves{margin:12px 2px 0;padding:0;list-style:none;display:flex;flex-direction:column;gap:5px;font-size:.82rem;line-height:1.4}
+.moves li{border-left:3px solid var(--c);padding-left:8px}
+.moves b{font-weight:600}
+.moves .k{color:var(--muted);font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;margin-left:4px}
+#map .pt{stroke:var(--surface);stroke-width:2}
+#map .lbl{font-family:var(--f-data);font-size:12px;fill:var(--ink);paint-order:stroke;stroke:var(--surface);stroke-width:3px}
+#map .sub{font-size:10px;fill:var(--muted)}
+#map .country{font-family:var(--f-name);font-style:italic;font-size:15px;fill:var(--muted);opacity:.7;letter-spacing:.1em}
+#map .hub{fill:var(--accent)}
+.cap{font-size:.75rem;color:var(--muted);margin:6px 2px 0}
+.story{display:flex;flex-direction:column;gap:18px;min-width:0}
+.story article{border-left:3px solid var(--c);padding:2px 0 2px 14px}
+.story h2{font-family:var(--f-name);font-size:1.1rem;margin:0 0 6px;font-weight:600;text-wrap:balance}
+.story p{margin:0 0 8px;line-height:1.5;font-size:.92rem;max-width:65ch}
+.tl{max-width:1300px;margin:24px auto 0}
+.tl h3{font-size:.72rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin:0 0 8px}
+.tl ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:8px}
+.tl li{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:8px 10px;font-size:.85rem;line-height:1.35}
+.tl b{font-variant-numeric:tabular-nums;display:block;font-family:var(--f-name);font-size:1rem}
+.tl li.hist{background:transparent;color:var(--muted)}
+.tl li.anc{border-color:var(--accent)}
+.story .facts{font-size:.8rem;color:var(--muted);border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:4px 0}
+#map .auto{font-size:9.5px;fill:var(--muted)}
+#map circle.auto{stroke-width:1}
+.meta .plink{font:inherit;color:var(--link);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline}
+@media (max-width:520px){ header h1{font-size:1.25rem} .certs{margin-left:0} dl.facts{grid-template-columns:1fr} }
+@media (prefers-reduced-motion:reduce){ *{transition:none!important;scroll-behavior:auto!important} }
+</style>
+
+<header>
+  <div>
+    <h1>Rodokmen Jiřího Votavy</h1>
+    <div class="meta" id="meta"></div>
+  </div>
+  <nav class="tabs" role="tablist"><button type="button" role="tab" id="tabTree" aria-selected="true">Rodokmen</button><button type="button" role="tab" id="tabMap" aria-selected="false">Odkud jsme</button></nav>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Najít osobu…" aria-label="Najít osobu">
+    <button id="home" type="button">Na Jiřího</button>
+  </div>
+</header>
+<div class="legend">
+  <div id="chips" style="display:flex;flex-wrap:wrap;gap:6px"></div>
+  <div class="certs">
+    <span class="cert"><span class="dot M"></span>matrika</span>
+    <span class="cert"><span class="dot D"></span>jiný doklad</span>
+    <span class="cert"><span class="dot R"></span>rodinná tradice</span>
+    <span class="cert"><span class="dot K"></span>kandidát</span>
+    <span class="lin"><i style="background:var(--mat)"></i>mateřská linie</span>
+    <span class="lin"><i style="background:var(--pat)"></i>otcovská linie</span>
+  </div>
+</div>
+<section id="mapView" hidden><div class="mapwrap"><div class="mapfig"><div class="mapbox"><svg id="map" role="img" aria-label="Mapa původu rodových větví"></svg><div class="mapzoom" role="toolbar" aria-label="Přiblížení mapy"><button type="button" id="mzin" aria-label="Přiblížit mapu">+</button><button type="button" id="mzout" aria-label="Oddálit mapu">−</button><button type="button" id="mzreset">Celá mapa</button></div></div><div class="mlegend"><span><svg width="28" height="6"><line x1="0" y1="3" x2="28" y2="3" stroke="var(--muted)" stroke-width="2.2"/></svg>doložený přesun</span><span><svg width="28" height="6"><line x1="0" y1="3" x2="28" y2="3" stroke="var(--muted)" stroke-width="2.2" stroke-dasharray="7 5"/></svg>pravděpodobná trasa (vlakem)</span><span><svg width="28" height="6"><line x1="0" y1="3" x2="28" y2="3" stroke="var(--muted)" stroke-width="2.2" stroke-dasharray="2 5" stroke-linecap="round"/></svg>domněnka</span></div><p class="cap">Hranice podle dnešních států (Natural Earth). Čáry vedou po tehdejších železničních tratích, kde přesná cesta není známa. Po najetí myší se ukáže, kdo a kdy. Přiblížení: tlačítka, dvojklik, Ctrl/⌘ + kolečko nebo sevření prstů; posun tažením.</p><ol class="moves" id="moves"></ol></div><div id="story" class="story"></div></div><div class="tl"><h3>Časová osa</h3><ol id="tl"></ol></div></section>
+<div id="scroller">
+  <div id="inner">
+    <div id="stage"><div id="canvas"><svg class="links" id="links"></svg></div></div>
+    <div id="ruler" aria-hidden="true"></div>
+    <div id="events" aria-label="Historické události"></div>
+  </div>
+</div>
+
+<div id="zoombar" role="toolbar" aria-label="Přiblížení">
+  <button id="zout" type="button" aria-label="Oddálit">−</button>
+  <input id="zr" type="range" min="3" max="250" step="5" value="100" aria-label="Přiblížení v procentech">
+  <button id="zin" type="button" aria-label="Přiblížit">+</button>
+  <output id="zp" for="zr">100 %</output>
+  <button id="zfit" type="button">Celý strom</button>
+  <button id="z100" type="button">100 %</button>
+</div>
+<div id="viewer" hidden><div class="bar"><span id="vt"></span><span><button type="button" id="vz">Přiblížit</button> <button type="button" id="vx">Zavřít</button></span></div><div class="pane fit" id="vp"><img id="vi" alt=""></div></div>
+<dialog id="dlg"><div class="dlg" id="dlgBody"></div></dialog>
+
+<script>
+/*DATA*/
+</script>
+<script>
+(function(){
+const D = window.RODOKMEN, P = {}; D.people.forEach(p=>P[p.id]=p);
+const CERT = {M:"Přečteno v matrice",D:"Jiný doklad (parte, rodný list, paměti)",R:"Rodinná tradice",K:"Kandidát – neověřeno"};
+const lineVar = l => `var(--l-${l})`;
+const zoom = 1; let active = null;
+// view scale (whole tree incl. cards and text), 0.1–2.5; layout itself is computed at scale 1
+let vs = 1; const VS_MIN = 0.03, VS_MAX = 2.5;
+try{ const z = parseFloat(localStorage.getItem('rv-scale')); if(z>=VS_MIN&&z<=VS_MAX) vs=z; }catch(e){}
+let W0 = 0, H0 = 0;
+
+// direct maternal and paternal lines from the root
+const chain = (id,k)=>{ const s=new Set(); for(let x=id; x&&P[x]; x=P[x][k]) s.add(x); return s; };
+const MAT = chain(D.root,'mother'), PAT = chain(D.root,'father');
+
+// children index
+const kids = {}; D.people.forEach(p=>[p.father,p.mother].forEach(x=>{ if(x&&P[x]) (kids[x]=kids[x]||[]).push(p.id); }));
+
+// x layout: ancestors' leaves in DFS order (father first), child = mean of parents
+const col = {}; let leaf = 0;
+(function place(id){
+  const p = P[id]; const ps = [p.father,p.mother].filter(x=>x&&P[x]);
+  if(!ps.length){ col[id]=leaf++; return col[id]; }
+  ps.forEach(place);
+  col[id] = ps.reduce((s,x)=>s+col[x],0)/ps.length; return col[id];
+})(D.root);
+// spouses: explicit `spouse` field (both directions) + parents of a common child
+const spouses = {}; const addSp=(a,b)=>{ if(a&&b&&P[a]&&P[b]&&a!==b){ (spouses[a]=spouses[a]||new Set()).add(b); (spouses[b]=spouses[b]||new Set()).add(a); } };
+D.people.forEach(p=>{ addSp(p.id,p.spouse); addSp(p.father,p.mother); });
+// collateral relatives (siblings, their partners and children): nearest free column next to the anchor
+// (parent or partner already placed); a column is free when no card there is within 9 years
+const CLEAR = 9;
+const free = (c,yr) => !D.people.some(q=>col[q.id]!==undefined && Math.abs(col[q.id]-c)<1 && Math.abs(q.b.year-yr)<CLEAR);
+for(let pass=0, todo=D.people.filter(p=>col[p.id]===undefined); todo.length && pass<50; pass++){
+  todo.sort((a,b)=>a.b.year-b.b.year);
+  todo.forEach(p=>{
+    const sp=[...(spouses[p.id]||[])].find(s=>col[s]!==undefined);
+    const anchor = [p.father,p.mother].find(x=>x&&col[x]!==undefined) || sp;
+    if(anchor===undefined) return;
+    const a = col[anchor];
+    // partners sit right of their spouse, children of collateral relatives start right of the parent
+    for(let k=1;k<60;k++){ for(const c of (sp?[a+k,a-k]:[a+k,a-k])) if(free(c,p.b.year)){ col[p.id]=c; return; } }
+  });
+  todo = todo.filter(p=>col[p.id]===undefined);
+}
+D.people.forEach(p=>{ if(col[p.id]===undefined) col[p.id]=leaf++; });
+{ const mn=Math.min(...Object.values(col)); Object.keys(col).forEach(k=>col[k]-=mn); leaf=Math.max(...Object.values(col))+1; }
+// siblings: same father or mother, plus the explicit `siblings` field
+const sibsOf = p => D.people.filter(q=>q.id!==p.id && ((p.father&&q.father===p.father)||(p.mother&&q.mother===p.mother)||(p.siblings||[]).includes(q.id)||(q.siblings||[]).includes(p.id))).sort((a,b)=>a.b.year-b.b.year);
+
+const years = D.people.map(p=>p.b.year);
+const y0 = Math.floor((Math.min(...years)-6)/10)*10, y1 = Math.ceil((Math.max(...years)+8)/10)*10;
+const age = (p)=>{ const a=p.b.year, b=(p.d&&p.d.year)||(p.alive?new Date().getFullYear():null); return (a&&b&&!p.b.approx&&!(p.d&&p.d.approx))? (b-a) : null; };
+const full = (e) => { if(!e) return ''; const m=(e.date||'').match(/^\s*(\d{1,2}\.\s*\d{1,2}\.\s*\d{4})/); return m? m[1].replace(/\s+/g,' ') : (e.approx?'~':'')+(e.year||'?'); };
+const span = p => { if(p.priv) return 'žijící'; const b=full(p.b); const d=p.d?full(p.d):(p.alive?'žije':''); return d? `${b} – ${d}` : `* ${b}`; };
+
+function render(){
+  const cw = Math.round(178*Math.min(zoom,1.25)), gap = Math.round(26*zoom), ppy = 7.2*zoom;
+  const W = leaf*(cw+gap)+gap, H = (y1-y0)*ppy + 90;
+  const cv = document.getElementById('canvas'), ru = document.getElementById('ruler');
+  W0 = W; H0 = H;
+  cv.style.width=W+'px'; cv.style.height=H+'px'; cv.style.setProperty('--cw',cw+'px');
+  cv.querySelectorAll('.card,.gridline').forEach(e=>e.remove()); ru.innerHTML='';
+  for(let y=Math.ceil(y0/10)*10;y<=y1;y+=10){
+    const g=document.createElement('div'); g.className='gridline'+(y%100===0?' century':''); g.style.top=((y1-y)*ppy)+'px'; cv.prepend(g);
+    const t=document.createElement('div'); t.className='tick'+(y%100===0?' century':''); t.dataset.y=(y1-y)*ppy; t.textContent=y; ru.appendChild(t);
+  }
+  const ev = document.getElementById('events'); ev.innerHTML=''; ev.style.height=H+'px';
+  (D.events||[]).filter(e=>e.y>=y0&&e.y<=y1).forEach(e=>{
+    // mark (dot or band) sits exactly at the year; the label is laid out separately so labels never overlap
+    const mk=document.createElement('div');
+    if(e.y2){ mk.className='evband'; mk.dataset.top=(y1-e.y2)*ppy; mk.dataset.h=(e.y2-e.y)*ppy; }
+    else { mk.className='evdot'+(e.major?' major':''); mk.dataset.top=(y1-e.y)*ppy; }
+    mk.title=`${e.y}${e.y2?'–'+e.y2:''}: ${e.t}`; ev.appendChild(mk);
+    const lb=document.createElement('div');
+    lb.className='evl'+(e.major?' major':''); lb.title=mk.title;
+    lb.dataset.anchor = e.y2 ? (y1-(e.y+e.y2)/2)*ppy : (y1-e.y)*ppy; lb.dataset.major=e.major?1:'';
+    lb.innerHTML=`<span class="l">${e.y2?e.y+'–'+e.y2:e.y} ${e.t}</span><span class="s">${e.y2?e.y+'–'+e.y2:e.y} ${e.s||e.t}</span>`;
+    ev.appendChild(lb);
+  });
+  const pos = {};
+  D.people.forEach(p=>{
+    const x = gap + col[p.id]*(cw+gap), y = (y1-p.b.year)*ppy;
+    pos[p.id] = {x,y,cw};
+    const c = document.createElement('button'); c.type='button';
+    c.className = `card ${p.cert}` + (p.id===D.root?' root':'');
+    c.style.left = x+'px'; c.style.top = (y-14)+'px'; c.dataset.id=p.id; c.dataset.line=p.line;
+    c.setAttribute('aria-label', `${p.name}, ${span(p)}`);
+    c.innerHTML = `<div class="top"><span class="sw" style="background:${lineVar(p.line)}"></span><div style="min-width:0"><div class="nm">${p.name}</div>${p.maiden?`<div class="mn">roz. ${p.maiden}</div>`:''}</div></div><div class="yr"><span>${span(p)}</span><span class="dot ${p.cert}" title="${CERT[p.cert]}"></span></div>`;
+    c.addEventListener('click',()=>open(p.id));
+    if(MAT.has(p.id) && p.id!==D.root) c.classList.add('mat');
+    if(PAT.has(p.id) && p.id!==D.root) c.classList.add('pat');
+    cv.appendChild(c);
+  });
+  // links
+  const svg = document.getElementById('links'); svg.setAttribute('width',W); svg.setAttribute('height',H); svg.innerHTML='';
+  D.people.forEach(p=>{
+    const ch = pos[p.id]; const ps=[p.father,p.mother].filter(x=>x&&P[x]); if(!ps.length) return;
+    const own = document.querySelector(`.card[data-id="${p.id}"]`);
+    const cx = ch.x+cw/2, cy = ch.y-14 + (own?own.offsetHeight:56);
+    ps.forEach(pid=>{
+      const pp = pos[pid], px = pp.x+cw/2;
+      const py = pp.y-14;
+      const my = cy + Math.max(12,(py-cy)/2);
+      const path=document.createElementNS('http://www.w3.org/2000/svg','path');
+      path.setAttribute('d',`M${cx},${cy} V${my} H${px} V${py}`); path.dataset.c=p.id; path.dataset.p=pid;
+      // direct maternal line (mother of mother of …) and paternal line (father of father of …) from the root
+      if(MAT.has(p.id) && pid===p.mother) path.classList.add('mat');
+      if(PAT.has(p.id) && pid===p.father) path.classList.add('pat');
+      if(path.classList.length) svg.appendChild(path); else svg.prepend(path);   // highlighted lines on top
+    });
+  });
+  // partners without a common child in the tree: dashed connector between the cards
+  D.people.forEach(p=>{ if(!p.spouse||!pos[p.spouse]) return;
+    if(D.people.some(c=>[c.father,c.mother].includes(p.id)&&[c.father,c.mother].includes(p.spouse))) return;
+    const a=pos[p.id], b=pos[p.spouse], l=a.x<b.x?a:b, r=a.x<b.x?b:a;
+    const path=document.createElementNS('http://www.w3.org/2000/svg','path');
+    path.setAttribute('d',`M${l.x+cw},${l.y+6} H${(l.x+cw+r.x)/2} V${r.y+6} H${r.x}`); path.setAttribute('stroke-dasharray','4 4');
+    svg.prepend(path);
+  });
+  applyFilter();
+}
+
+function applyFilter(){
+  document.querySelectorAll('.card').forEach(c=>c.classList.toggle('dim', !!active && c.dataset.line!==active));
+}
+
+// chips
+const chips = document.getElementById('chips');
+Object.entries(D.lines).forEach(([k,label])=>{
+  const n = D.people.filter(p=>p.line===k).length;
+  const b=document.createElement('button'); b.type='button'; b.className='chip'; b.setAttribute('aria-pressed','false');
+  b.innerHTML=`<span class="sw" style="background:${lineVar(k)}"></span>${label} <span style="color:var(--muted)">${n}</span>`;
+  b.addEventListener('click',()=>{ active = active===k?null:k; chips.querySelectorAll('.chip').forEach(x=>x.setAttribute('aria-pressed','false')); if(active) b.setAttribute('aria-pressed','true'); applyFilter(); });
+  chips.appendChild(b);
+});
+
+const nM = D.people.filter(p=>p.cert==='M').length;
+// everything below is derived from data.js on every load – no hand-maintained summary that could go stale
+const documented = D.people.filter(p=>p.cert==='M'||p.cert==='D');
+const oldest = documented.reduce((a,p)=>p.b.year<a.b.year?p:a);
+const meta = document.getElementById('meta');
+meta.innerHTML = `${D.people.length} osob · ${nM} doloženo přímo v matrikách · nejstarší doložený předek <button type="button" class="plink" id="oldest">${oldest.name}</button> (~${oldest.b.year}) · aktualizováno ${window.RODOKMEN_BUILD||D.updated}`;
+document.getElementById('oldest').addEventListener('click',()=>{ applyScale(Math.max(vs,0.6)); focusCard(oldest.id); });
+window.RV_focus = id => { applyScale(Math.max(vs,0.6)); focusCard(id); };
+
+// dialog
+const dlg = document.getElementById('dlg'), body = document.getElementById('dlgBody');
+const link = id => P[id] ? `<button type="button" class="plink" data-go="${id}">${P[id].name}</button> <span class="src">${span(P[id])}</span>` : '';
+function open(id){
+  const p = P[id]; const a = age(p);
+  const sp = [...(spouses[p.id]||[])].map(x=>P[x]);
+  const sib = sibsOf(p);
+  const rows = [];
+  if(p.priv) rows.push(['Údaje', 'žijící osoba – data a místa se na webu nezveřejňují']);
+  else {
+    rows.push(['Narození', `${p.b.date||'neznámé – zatím nedohledáno'}${p.b.place?', '+p.b.place:''}`]);
+    if(p.d) rows.push(['Úmrtí', `${p.d.date}${p.d.place?', '+p.d.place:''}${a?` (${a} let)`:''}`]);
+    else if(p.alive) rows.push(['Úmrtí', `žije${a?` (${a} let)`:''}`]);
+    else rows.push(['Úmrtí', 'neznámé – zatím nedohledáno']);
+  }
+  if(p.cause) rows.push(['Příčina úmrtí', p.cause]);
+  if(p.occ) rows.push(['Povolání', p.occ]);
+  if(p.marriage) rows.push(['Sňatek', p.marriage]);
+  if(sp.length) rows.push(['Partner', sp.map(q=>link(q.id)).join('<br>')]);
+  const par = [p.father,p.mother].filter(x=>x&&P[x]);
+  if(par.length) rows.push(['Rodiče', par.map(link).join('<br>')]);
+  if(sib.length) rows.push(['Sourozenci', sib.map(q=>link(q.id)).join('<br>')]);
+  if(kids[p.id]) rows.push(['Děti v rodokmenu', kids[p.id].map(link).join('<br>')]);
+  body.innerHTML = `<button type="button" class="x" aria-label="Zavřít">×</button>
+    <h2>${p.name}</h2>
+    <div class="sub">${p.maiden?'roz. '+p.maiden+' · ':''}rod ${D.lines[p.line]}</div>
+    <span class="badge"><span class="dot ${p.cert}"></span>${CERT[p.cert]}</span>
+    <dl class="facts">${rows.map(([k,v])=>`<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
+    ${p.notes&&p.notes.length?`<h3>Poznámky</h3><ul>${p.notes.map(n=>`<li>${n}</li>`).join('')}</ul>`:''}
+    ${p.scans&&p.scans.length?`<h3>Zápisy v matrice</h3><div class="scans">${p.scans.map(s=>`<button type="button" class="scan" data-src="${s.f}" data-t="${s.t}"><img src="${s.f}" alt="${s.t}" loading="lazy"><span>${s.t}</span></button>`).join('')}</div>`:''}
+    ${p.sources&&p.sources.length?`<h3>Prameny</h3><ul class="src">${p.sources.map(n=>`<li>${n}</li>`).join('')}</ul>`:''}`;
+  body.querySelector('.x').addEventListener('click',()=>dlg.close());
+  body.querySelectorAll('.scan').forEach(b=>b.addEventListener('click',()=>showScan(b.dataset.src,b.dataset.t)));
+  body.querySelectorAll('[data-go]').forEach(b=>b.addEventListener('click',()=>{ focusCard(b.dataset.go); open(b.dataset.go); }));
+  if(!dlg.open) dlg.showModal();
+}
+dlg.addEventListener('click',e=>{ if(e.target===dlg) dlg.close(); });
+const V=document.getElementById('viewer'), VP=document.getElementById('vp');
+function showScan(src,t){ document.getElementById('vi').src=src; document.getElementById('vt').textContent=t; VP.classList.add('fit'); document.getElementById('vz').textContent='Přiblížit'; if(dlg.open) dlg.close(); V.hidden=false; }
+function zoomScan(){ const f=VP.classList.toggle('fit'); document.getElementById('vz').textContent=f?'Přiblížit':'Oddálit'; }
+document.getElementById('vz').addEventListener('click',zoomScan); VP.addEventListener('click',zoomScan);
+document.getElementById('vx').addEventListener('click',()=>{ V.hidden=true; });
+document.addEventListener('keydown',e=>{ if(e.key==='Escape' && !V.hidden) V.hidden=true; });
+
+const sc = document.getElementById('scroller');
+function focusCard(id){
+  const c = document.querySelector(`.card[data-id="${id}"]`); if(!c) return;
+  document.querySelectorAll('.card.hit').forEach(x=>x.classList.remove('hit')); c.classList.add('hit');
+  sc.scrollTo({left: (c.offsetLeft + c.offsetWidth/2)*vs - sc.clientWidth/2, top: c.offsetTop*vs - sc.clientHeight/2 + 30, behavior:'smooth'});
+}
+document.getElementById('q').addEventListener('input',e=>{
+  const v = e.target.value.trim().toLowerCase(); if(v.length<2) return;
+  const norm = s=>s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+  const hit = D.people.find(p=>norm(p.name+' '+(p.maiden||'')).includes(norm(v))); if(hit) focusCard(hit.id);
+});
+// ── view scale: bottom bar, Ctrl/⌘ + wheel, trackpad and touch pinch ──
+const stage = document.getElementById('stage'), cvs = document.getElementById('canvas'), rul = document.getElementById('ruler');
+const zr = document.getElementById('zr'), zp = document.getElementById('zp');
+function applyScale(s, ax, ay){
+  s = Math.max(VS_MIN, Math.min(VS_MAX, s));
+  if(ax===undefined){ ax = sc.clientWidth/2; ay = sc.clientHeight/2; }
+  const cx = (sc.scrollLeft + ax)/vs, cy = (sc.scrollTop + ay)/vs;   // content point under the anchor
+  vs = s;
+  cvs.style.transform = `scale(${vs})`;
+  stage.style.width = (W0*vs)+'px'; stage.style.height = (H0*vs)+'px';
+  rul.style.height = (H0*vs)+'px';
+  rul.querySelectorAll('.tick').forEach(t=>{ t.style.top = (+t.dataset.y*vs)+'px'; t.hidden = vs < 0.35 && +t.textContent % 50 !== 0; });
+  const evc = document.getElementById('events'); evc.style.height = (H0*vs)+'px';
+  evc.querySelectorAll('.evdot,.evband').forEach(el=>{
+    el.style.top = (+el.dataset.top*vs)+'px';
+    if(el.classList.contains('evband')) el.style.height = Math.max(2,+el.dataset.h*vs)+'px';
+  });
+  // labels: keep order by year, push down to avoid overlap; minor ones hidden when zoomed far out
+  const labels=[...evc.querySelectorAll('.evl')].sort((a,b)=>a.dataset.anchor-b.dataset.anchor);
+  let bottom=-1e9;
+  labels.forEach(lb=>{
+    lb.hidden = vs < 0.3 && !lb.dataset.major;
+    if(lb.hidden) return;
+    const h=lb.offsetHeight||16, want=+lb.dataset.anchor*vs - h/2, top=Math.max(want, bottom+3);
+    lb.style.top=top+'px'; bottom=top+h;
+  });
+  sc.scrollLeft = cx*vs - ax; sc.scrollTop = cy*vs - ay;
+  const pct = Math.round(vs*100); zr.value = pct; zp.textContent = pct+' %';
+  try{ localStorage.setItem('rv-scale', vs); }catch(e){}
+}
+const fitScale = () => Math.min((sc.clientWidth - rul.offsetWidth - document.getElementById('events').offsetWidth - 8)/W0, (sc.clientHeight - 8)/H0);
+document.getElementById('zin').addEventListener('click',()=>applyScale(vs*1.25));
+document.getElementById('zout').addEventListener('click',()=>applyScale(vs/1.25));
+zr.addEventListener('input',()=>applyScale(zr.value/100));
+document.getElementById('zfit').addEventListener('click',()=>{ applyScale(fitScale()); sc.scrollTo({left:0,top:0}); });
+document.getElementById('z100').addEventListener('click',()=>{ applyScale(1); focusCard(D.root); });
+sc.addEventListener('wheel',e=>{
+  if(!(e.ctrlKey||e.metaKey)) return;            // trackpad pinch arrives as ctrl+wheel
+  e.preventDefault();
+  const r = sc.getBoundingClientRect();
+  applyScale(vs*Math.exp(-e.deltaY*0.01), e.clientX-r.left, e.clientY-r.top);
+},{passive:false});
+// Safari (macOS) delivers trackpad pinch as non-standard gesture events instead of ctrl+wheel;
+// unhandled, Safari magnifies the whole page and the left part of the tree becomes unreachable
+let gest = null;
+sc.addEventListener('gesturestart',e=>{ e.preventDefault(); gest = vs; },{passive:false});
+sc.addEventListener('gesturechange',e=>{
+  e.preventDefault(); if(gest===null) return;
+  const r = sc.getBoundingClientRect();
+  applyScale(gest*e.scale, e.clientX-r.left, e.clientY-r.top);
+},{passive:false});
+sc.addEventListener('gestureend',e=>{ e.preventDefault(); gest = null; },{passive:false});
+// never let Safari magnify the whole page (header, legend and zoom bar would be cut off)
+document.addEventListener('gesturestart',e=>e.preventDefault(),{passive:false});
+const pts = new Map(); let pinch = null;
+sc.addEventListener('pointerdown',e=>{ if(e.pointerType==='touch') pts.set(e.pointerId,{x:e.clientX,y:e.clientY}); });
+sc.addEventListener('pointermove',e=>{
+  if(!pts.has(e.pointerId)) return; pts.set(e.pointerId,{x:e.clientX,y:e.clientY});
+  if(pts.size!==2) return;
+  const [a,b] = [...pts.values()], dist = Math.hypot(a.x-b.x,a.y-b.y), r = sc.getBoundingClientRect();
+  const mx=(a.x+b.x)/2-r.left, my=(a.y+b.y)/2-r.top;
+  if(!pinch) pinch = {dist, vs}; else applyScale(pinch.vs*dist/pinch.dist, mx, my);
+});
+const endPt = e=>{ pts.delete(e.pointerId); if(pts.size<2) pinch=null; };
+['pointerup','pointercancel','pointerleave'].forEach(t=>sc.addEventListener(t,endPt));
+document.getElementById('home').addEventListener('click',()=>focusCard(D.root));
+// ── drag to pan with the mouse (grab hand); a click without movement still opens a card ──
+let drag=null, dragMoved=false;
+sc.addEventListener('pointerdown',e=>{
+  if(e.pointerType!=='mouse'||e.button!==0) return;
+  drag={x:e.clientX,y:e.clientY,l:sc.scrollLeft,t:sc.scrollTop,id:e.pointerId}; dragMoved=false;
+});
+sc.addEventListener('pointermove',e=>{
+  // fallback: start from the first move with the left button held (some environments skip pointerdown)
+  if(!drag && e.pointerType==='mouse' && (e.buttons&1)){ drag={x:e.clientX,y:e.clientY,l:sc.scrollLeft,t:sc.scrollTop,id:e.pointerId}; dragMoved=false; return; }
+  if(!drag||e.pointerId!==drag.id) return;
+  if(!(e.buttons&1)){ drag=null; sc.classList.remove('panning'); return; }
+  const dx=e.clientX-drag.x, dy=e.clientY-drag.y;
+  if(!dragMoved && Math.abs(dx)+Math.abs(dy)<5) return;
+  if(!dragMoved){ dragMoved=true; sc.classList.add('panning'); try{sc.setPointerCapture(e.pointerId)}catch(_){} }
+  sc.scrollLeft=drag.l-dx; sc.scrollTop=drag.t-dy; e.preventDefault();
+});
+const endDrag=e=>{ if(!drag) return; drag=null; sc.classList.remove('panning'); };
+['pointerup','pointercancel'].forEach(t=>sc.addEventListener(t,endDrag));
+// swallow the click that follows a drag so dragging over a card does not open it
+sc.addEventListener('click',e=>{ if(dragMoved){ e.stopPropagation(); e.preventDefault(); dragMoved=false; } },true);
+
+render();
+applyScale(vs, 0, 0);
+// label heights change once the web fonts arrive (wrapping) – lay the event labels out again
+if(document.fonts&&document.fonts.ready) document.fonts.ready.then(()=>applyScale(vs));
+addEventListener('resize',()=>applyScale(vs));
+requestAnimationFrame(()=>{ const c=document.querySelector(`.card[data-id="${D.root}"]`); if(c) sc.scrollTo({left:(c.offsetLeft+c.offsetWidth/2)*vs-sc.clientWidth/2, top:Math.max(0,c.offsetTop*vs-60)}); });
+})();
+
+// ── map & story view ──
+(function(){
+  const D=window.RODOKMEN, svg=document.getElementById('map');
+  const G=window.RODOKMEN_GEO, lat0=G.lat0, lat1=G.lat1, lon0=G.lon0, lon1=G.lon1, W=G.W, H=G.H;
+  const PAD=28; svg.setAttribute('viewBox',`${-PAD} ${-PAD} ${W+2*PAD} ${H+2*PAD}`);
+  const X=lon=>(lon-lon0)/(lon1-lon0)*W, Y=lat=>(lat1-lat)/(lat1-lat0)*H;
+  let g=`<defs><clipPath id="mapclip"><rect x="${-PAD}" y="${-PAD}" width="${W+2*PAD}" height="${H+2*PAD}" rx="8"/></clipPath></defs><rect x="${-PAD}" y="${-PAD}" width="${W+2*PAD}" height="${H+2*PAD}" class="sea"/>`;
+  G.countries.forEach(c=>{ g+=`<path class="land ${c.id}" d="${c.d}"><title>${c.name}</title></path>`; });
+  for(let a=Math.ceil(lat0*2)/2;a<=lat1;a+=.5) g+=`<line class="grat" x1="0" x2="${W}" y1="${Y(a)}" y2="${Y(a)}"/>`;
+  for(let o=Math.ceil(lon0*2)/2;o<=lon1;o+=.5) g+=`<line class="grat" y1="0" y2="${H}" x1="${X(o)}" x2="${X(o)}"/>`;
+  G.labels.forEach(l=>{ g+=`<text class="country" x="${X(l.lon)}" y="${Y(l.lat)}">${l.t}</text>`; });
+  G.cities.filter(c=>c.r>0).forEach(c=>{ const r=[0,4,3,2.5][c.r]; const e=c.anchor==='end'; g+=`<circle class="city" style="--r:${r}" cx="${X(c.lon)}" cy="${Y(c.lat)}" r="${r}"/><text class="cityl r${c.r}" text-anchor="${e?'end':'start'}" x="${X(c.lon)+(e?-(r+3):r+3)}" y="${Y(c.lat)+3.5}">${c.n}</text>`; });
+  const DASH={doc:'', rail:'7 5', hyp:'2 5'};
+  g+=`<defs>${[...new Set(D.moves.map(m=>m.line))].map(l=>`<marker id="ar-${l}" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--l-${l})"/></marker>`).join('')}</defs>`;
+  D.moves.forEach(m=>{
+    const pts=m.path.map(([la,lo])=>[X(lo),Y(la)]);
+    let d=`M${pts[0][0].toFixed(1)},${pts[0][1].toFixed(1)}`;
+    for(let i=1;i<pts.length;i++){ const [x0,y0]=pts[i-1],[x1,y1]=pts[i]; d+=` Q${((x0+x1)/2+(y1-y0)*.08).toFixed(1)},${((y0+y1)/2-(x1-x0)*.08).toFixed(1)} ${x1.toFixed(1)},${y1.toFixed(1)}`; }
+    g+=`<path class="route k-${m.kind}" stroke="var(--l-${m.line})" stroke-dasharray="${DASH[m.kind]}" marker-end="url(#ar-${m.line})" d="${d}"><title>${m.who}, ${m.when}: ${m.note}</title></path>`;
+    if(m.fromOffMap) g+=`<text class="lbl sub" x="${pts[0][0]+4}" y="${pts[0][1]-6}">← ${m.fromOffMap}</text>`;
+  });
+  // people per gazetteer place (longest alias match in birth/death place)
+  const GZ=(window.RODOKMEN_GAZ||[]), gzOf=txt=>{ let best=null,bl=0; GZ.forEach(z=>z.a.forEach(a=>{ if(txt&&txt.includes(a)&&a.length>bl){best=z;bl=a.length;} })); return best; };
+  const gzUse=new Map();
+  D.people.forEach(p=>[p.b,p.d].forEach(e=>{ if(!e||!e.place) return; const z=gzOf(e.place); if(!z||z.off) return;
+    const u=gzUse.get(z.n)||{z,ids:new Set(),from:9999,lines:{}}; u.ids.add(p.id); if(e.year) u.from=Math.min(u.from,e.year); u.lines[p.line]=(u.lines[p.line]||0)+1; gzUse.set(z.n,u); }));
+  const curatedZ=new Set();
+  D.places.forEach(p=>{ const z=gzOf(p.name); if(z){ curatedZ.add(z.n); const u=gzUse.get(z.n); if(u) p._auto=`${u.ids.size} ${u.ids.size===1?'osoba':u.ids.size<5?'osoby':'osob'} · od ${u.from}`; } });
+  gzUse.forEach(u=>{ if(curatedZ.has(u.z.n)) return;
+    const line=Object.entries(u.lines).sort((a,b)=>b[1]-a[1])[0][0], x=X(u.z.lon), y=Y(u.z.lat);
+    g+=`<circle class="pt auto" style="--r:3.5" cx="${x}" cy="${y}" r="3.5" fill="var(--l-${line})"><title>${u.z.n} – ${u.ids.size} osob v rodokmenu, doloženo od ${u.from}</title></circle><text class="lbl auto" x="${x+6}" y="${y+3}">${u.z.n}</text>`; });
+  D.places.forEach(p=>{
+    const x=X(p.lon),y=Y(p.lat);
+    const anchor = p.anchor || ((p.lon<(lon0+lon1)/2 && !p.hub) ? 'end' : 'start'), dx = anchor==='end'?-10:10, dy=p.dy||0;
+    g+=`<circle class="pt ${p.hub?'hub':''}" style="--r:${p.hub?9:(p.small?4.5:6)}" cx="${x}" cy="${y}" r="${p.hub?9:(p.small?4.5:6)}" fill="${p.hub?'var(--accent)':'var(--l-'+p.line+')'}"><title>${p.name} – ${p.note}</title></circle>`;
+    g+=`<text class="lbl" x="${x+dx}" y="${y+4+dy}" text-anchor="${anchor}">${p.name}</text><text class="lbl sub" x="${x+dx}" y="${y+17+dy}" text-anchor="${anchor}">${p.note}${p._auto?' · '+p._auto:''}</text>`;
+  });
+  svg.innerHTML=g;
+  // ── zoom & pan (viewBox): buttons, double click, Ctrl/⌘ + wheel or trackpad pinch, touch pinch, drag ──
+  const base={x:-PAD,y:-PAD,w:W+2*PAD,h:H+2*PAD}, vb={...base}, ZMAX=12;
+  function setVB(){
+    vb.w=Math.min(base.w,Math.max(base.w/ZMAX,vb.w)); vb.h=vb.w*base.h/base.w;
+    vb.x=Math.min(base.x+base.w-vb.w,Math.max(base.x,vb.x)); vb.y=Math.min(base.y+base.h-vb.h,Math.max(base.y,vb.y));
+    svg.setAttribute('viewBox',`${vb.x} ${vb.y} ${vb.w} ${vb.h}`);
+    svg.style.setProperty('--k',Math.pow(base.w/vb.w,-0.7).toFixed(3));
+  }
+  function zoomAt(f,cx,cy){
+    const r=svg.getBoundingClientRect(); if(cx===undefined){cx=r.left+r.width/2;cy=r.top+r.height/2;}
+    const fx=(cx-r.left)/r.width, fy=(cy-r.top)/r.height, ux=vb.x+fx*vb.w, uy=vb.y+fy*vb.h;
+    vb.w=vb.w/f; vb.w=Math.min(base.w,Math.max(base.w/ZMAX,vb.w)); vb.h=vb.w*base.h/base.w; vb.x=ux-fx*vb.w; vb.y=uy-fy*vb.h; setVB();
+  }
+  document.getElementById('mzin').addEventListener('click',()=>zoomAt(1.6));
+  document.getElementById('mzout').addEventListener('click',()=>zoomAt(1/1.6));
+  document.getElementById('mzreset').addEventListener('click',()=>{ Object.assign(vb,base); setVB(); });
+  svg.addEventListener('dblclick',e=>{ e.preventDefault(); zoomAt(e.shiftKey?1/2:2,e.clientX,e.clientY); });
+  svg.addEventListener('wheel',e=>{ if(!(e.ctrlKey||e.metaKey)) return; e.preventDefault(); zoomAt(Math.exp(-e.deltaY*0.01),e.clientX,e.clientY); },{passive:false});
+  const mp=new Map(); let mpinch=null, mdrag=null;
+  svg.addEventListener('pointerdown',e=>{ mp.set(e.pointerId,{x:e.clientX,y:e.clientY}); if(mp.size===1){ mdrag={x:e.clientX,y:e.clientY,vx:vb.x,vy:vb.y}; } });
+  svg.addEventListener('pointermove',e=>{
+    if(!mp.has(e.pointerId)) return; mp.set(e.pointerId,{x:e.clientX,y:e.clientY});
+    const r=svg.getBoundingClientRect();
+    if(mp.size===2){ const [a,b]=[...mp.values()], d=Math.hypot(a.x-b.x,a.y-b.y), mx=(a.x+b.x)/2, my=(a.y+b.y)/2;
+      if(!mpinch) mpinch=d; else { zoomAt(d/mpinch,mx,my); mpinch=d; } mdrag=null; return; }
+    if(mdrag && vb.w<base.w){ const dx=e.clientX-mdrag.x, dy=e.clientY-mdrag.y;
+      if(Math.abs(dx)+Math.abs(dy)>3){ svg.classList.add('drag'); if(e.pointerType!=='mouse'||true) svg.setPointerCapture&&svg.setPointerCapture(e.pointerId); }
+      vb.x=mdrag.vx-dx/r.width*vb.w; vb.y=mdrag.vy-dy/r.height*vb.h; setVB(); }
+  });
+  const mend=e=>{ mp.delete(e.pointerId); if(mp.size<2) mpinch=null; if(!mp.size){ mdrag=null; svg.classList.remove('drag'); } };
+  ['pointerup','pointercancel','pointerleave'].forEach(t=>svg.addEventListener(t,mend));
+  setVB();
+  const KIND={doc:'doloženo',rail:'trasa pravděpodobná',hyp:'domněnka'};
+  document.getElementById('moves').innerHTML=D.moves.map(m=>`<li style="--c:var(--l-${m.line})"><b>${m.when}</b> – ${m.who}: ${m.note}<span class="k">${KIND[m.kind]}</span></li>`).join('');
+  const doc=p=>p.cert==='M'||p.cert==='D', place=e=>(e&&e.place||'').replace(/\s*č\.\s*\d+.*$/,'').replace(/,.*$/,'');
+  const oldestOf=ls=>D.people.filter(p=>ls.includes(p.line)&&doc(p)).reduce((a,p)=>!a||p.b.year<a.b.year?p:a,null);
+  const go=p=>`<button type="button" class="plink" data-go="${p.id}">${p.name}</button>`;
+  document.getElementById('story').innerHTML=D.story.map(s=>{
+    const ls=s.lines||[s.line], ps=D.people.filter(p=>ls.includes(p.line)), o=oldestOf(ls);
+    const facts=o?`<p class="facts">V rodokmenu ${ps.length} osob, z toho ${ps.filter(p=>p.cert==='M').length} přímo z matrik · nejstarší doložený předek ${go(o)} (*~${o.b.year}${place(o.b)?', '+place(o.b):''})</p>`:'';
+    return `<article style="--c:var(--l-${s.line})"><h2>${s.title}</h2>${facts}${s.text.map(t=>`<p>${t}</p>`).join('')}</article>`; }).join('');
+  // timeline = family milestones (data) + oldest documented ancestor of every line (computed) + historical events
+  const auto=Object.entries(D.lines).map(([k,l])=>{ const o=oldestOf([k]); return o&&{y:o.b.year,t:`Nejstarší doložený předek rodu ${l}: ${go(o)}${place(o.b)?' ('+place(o.b)+')':''}`,k:'anc'}; }).filter(Boolean);
+  const hist=(D.events||[]).map(e=>({y:e.y,t:(e.y2?e.y+'–'+e.y2+' ':'')+e.t,k:'hist'}));
+  const TLs=[...D.timeline.map(e=>({...e,k:'fam'})),...auto,...hist].sort((a,b)=>a.y-b.y||(a.k==='hist')-(b.k==='hist'));
+  document.getElementById('tl').innerHTML=TLs.map(e=>`<li class="${e.k}"><b>${e.y}</b>${e.t}</li>`).join('');
+  document.getElementById('mapView').addEventListener('click',e=>{ const b=e.target.closest('[data-go]'); if(!b) return; show(false); window.RV_focus&&window.RV_focus(b.dataset.go); });
+  const tT=document.getElementById('tabTree'), tM=document.getElementById('tabMap'), MV=document.getElementById('mapView'), SC=document.getElementById('scroller'), LG=document.querySelector('.legend'), TL=document.querySelector('.tools'), ZB=document.getElementById('zoombar');
+  function show(map){ MV.hidden=!map; SC.hidden=map; LG.hidden=map; TL.hidden=map; ZB.hidden=map; tT.setAttribute('aria-selected',!map); tM.setAttribute('aria-selected',map); try{localStorage.setItem('rv-tab',map?'map':'tree')}catch(e){} }
+  tT.addEventListener('click',()=>show(false)); tM.addEventListener('click',()=>show(true));
+  try{ if(localStorage.getItem('rv-tab')==='map') show(true); }catch(e){}
+  if(location.hash==='#mapa') show(true);
+})();
+</script>
