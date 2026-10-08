@@ -1591,12 +1591,12 @@ window.RODOKMEN = {
       line: "holicky",
       cert: "D",
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Hředle"},
+      d: {"date":"před 3. 4. 1825","year":1825,"approx":true},
       father: "daniel_h",
       mother: "katerina_z",
       marriage: "17. 9. 1769, Žebrák – s Jakubem Červenkou",
       notes: [
-        "ROZPOR / nejisté čtení: rodopis „Anna Holická, dcera Daniela Holického, rolníka z Hředel, a Kateřiny Zymové“; křest vnuka Matěje (1825): „† Anna rozená Chollryzková (?) z Hředl č. 8“ – kurentem nejspíš „Holickowá“, ověřit v oddací matrice 1769 (Žebrák).",
-        "Zemřela před 1825."
+        "ROZPOR / nejisté čtení: rodopis „Anna Holická, dcera Daniela Holického, rolníka z Hředel, a Kateřiny Zymové“; křest vnuka Matěje (1825): „† Anna rozená Chollryzková (?) z Hředl č. 8“ – kurentem nejspíš „Holickowá“, ověřit v oddací matrice 1769 (Žebrák)."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
