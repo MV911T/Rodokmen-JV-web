@@ -29,7 +29,7 @@ window.RODOKMEN = {
     "merhaut": "Merhaut",
     "skala": "Skála",
     "kalous": "Kalous",
-    "holicky": "Holický",
+    "holicky": "Holejzek / Holický",
     "zyma": "Zyma",
     "drapal": "Drapal",
     "novy": "Nový",
@@ -1625,7 +1625,7 @@ window.RODOKMEN = {
       id: "jakub1750",
       name: "Jakub Červenka",
       line: "cervenka",
-      cert: "D",
+      cert: "M",
       b: {"date":"8. 7. 1750","year":1750,"place":"Hředle č. p. 37"},
       d: {"date":"2. 7. 1818","year":1818,"place":"Hředle č. p. 37"},
       father: "pavel1716",
@@ -1633,41 +1633,49 @@ window.RODOKMEN = {
       occ: "rolník ve Hředlích č. p. 37",
       marriage: "17. 9. 1769, Žebrák – s Annou Holickou",
       notes: [
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Oddán 17. 9. 1769 v děkanském kostele sv. Vavřince v Žebráku (kaplan Joseph Kouba): „Jacobus filius Pauli Czerwenka z Hředl cum sponsa Anna filia Danielis Holeyzek (?) z Hředl“; poddaní panství Točník. Svědci Wenceslaus Hrouda a Catharina, dcera Joannese Cibulky, oba z Hředl.",
+        "Datum narození a úmrtí podle rodopisu."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 12 (O 1760–1814), str. 48, snímek 27 – https://ebadatelna.soapraha.cz/d/9741/27"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
         {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
-        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
+        {"f":"img/1769_snatek_jakub_cervenka_hredle_a.jpg","t":"Sňatek Jakuba Červenky a Anny, Žebrák 17. 9. 1769"}
       ]
     },
     {
       id: "anna_h",
       name: "Anna Červenková",
-      maiden: "Holická",
+      maiden: "Holejzková (?)",
       line: "holicky",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Hředle"},
       d: {"date":"před 3. 4. 1825","year":1825,"approx":true},
       father: "daniel_h",
       mother: "katerina_z",
       marriage: "17. 9. 1769, Žebrák – s Jakubem Červenkou",
       notes: [
-        "ROZPOR / nejisté čtení: rodopis „Anna Holická, dcera Daniela Holického, rolníka z Hředel, a Kateřiny Zymové“; křest vnuka Matěje (1825): „† Anna rozená Chollryzková (?) z Hředl č. 8“ – kurentem nejspíš „Holickowá“, ověřit v oddací matrice 1769 (Žebrák)."
+        "Dcera Daniela z Hředl. ROZPOR v příjmení: oddací matrika 1769 „Holeyzek (?)“, křest vnuka 1825 „Chollryzková (?) z Hředl č. 8“, rodopis „Holická“ – nejspíš varianty jednoho jména (Holejzek / Holýzek); ověřit křtem Anny (Žebrák 03/04).",
+        "Matka Kateřina Zymová je jen v rodopisu, oddací zápis matky neuvádí."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77"
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 12 (O 1760–1814), str. 48, snímek 27 – https://ebadatelna.soapraha.cz/d/9741/27"
+      ],
+      scans: [
+        {"f":"img/1769_snatek_jakub_cervenka_hredle_a.jpg","t":"Sňatek Jakuba Červenky a Anny, Žebrák 17. 9. 1769"}
       ]
     },
     {
       id: "daniel_h",
-      name: "Daniel Holický",
+      name: "Daniel Holejzek (?)",
       line: "holicky",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
       spouse: "katerina_z",
       occ: "rolník ve Hředlích",
@@ -1675,7 +1683,8 @@ window.RODOKMEN = {
         "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 12 (O 1760–1814), str. 48, snímek 27 – https://ebadatelna.soapraha.cz/d/9741/27"
       ]
     },
     {
@@ -1697,7 +1706,7 @@ window.RODOKMEN = {
       id: "pavel1716",
       name: "Pavel Červenka",
       line: "cervenka",
-      cert: "D",
+      cert: "M",
       b: {"date":"26. 1. 1716","year":1716,"place":"Hředle"},
       d: {"date":"6. 8. 1761","year":1761,"place":"Hředle"},
       father: "vaclav1674",
@@ -1705,15 +1714,18 @@ window.RODOKMEN = {
       occ: "rolník ve Hředlích",
       marriage: "asi 1739 – s Ludmilou Drapalovou",
       notes: [
+        "Jako otec ženicha Jakuba uveden v oddacím zápise 1769 (Žebrák).",
         "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 12 (O 1760–1814), str. 48, snímek 27 – https://ebadatelna.soapraha.cz/d/9741/27"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
         {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
-        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
+        {"f":"img/1769_snatek_jakub_cervenka_hredle_a.jpg","t":"Sňatek Jakuba Červenky a Anny, Žebrák 17. 9. 1769"}
       ]
     },
     {
