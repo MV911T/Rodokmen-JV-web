@@ -109,7 +109,7 @@ for (const c of P) {
 // 8. page context – everything the "Odkud jsme" view and the event column derive from must stay in sync
 const tpl = fs.readFileSync(path.join(__dirname, 'template.html'), 'utf8');
 for (const p of P) if (!D.lines[p.line]) err(p, `line "${p.line}" is not defined in D.lines`);
-for (const k of Object.keys(D.lines)) if (!tpl.includes(`--l-${k}:`)) err(null, `line "${k}" has no colour --l-${k} in template.html`);
+// lines without --l-<id> in template.html get an automatic colour on the page (template.html, line colour fallback)
 for (const s of D.story || []) {
   for (const l of s.lines || [s.line]) if (!D.lines[l]) err(null, `story "${s.title}" refers to unknown line "${l}"`);
   for (const t of s.text) if (/nejstarší doložen/i.test(t)) warn(null, `story "${s.title}" hard-codes the oldest ancestor (computed on the page) – remove it`);

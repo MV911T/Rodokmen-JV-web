@@ -20,8 +20,20 @@ window.RODOKMEN = {
     "vlasak": "Vlasák",
     "lodl": "Lodl",
     "michal": "Michal",
-    "fukal": "Fukal/Tukal",
-    "svoboda": "Svoboda"
+    "fukal": "Tůkal",
+    "svoboda": "Svoboda",
+    "ota": "Ota (?)",
+    "snajdr": "Šnajdr",
+    "forejt": "Forejt",
+    "divis": "Diviš",
+    "merhaut": "Merhaut",
+    "skala": "Skála",
+    "kalous": "Kalous",
+    "holicky": "Holický",
+    "zyma": "Zyma",
+    "drapal": "Drapal",
+    "novy": "Nový",
+    "semenec": "Semenec"
   },
   people: [
     {
@@ -247,7 +259,10 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1933_rodny_list_vaclav_votava_sous.jpg","t":"Rodný list Václava Votavy, Souš 4. 9. 1933"},
         {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
-        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Oddací list Václava Votavy a Anny Červenkové, Kolín 11. 8. 1956"}
+        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Oddací list Václava Votavy a Anny Červenkové, Kolín 11. 8. 1956"},
+        {"f":"img/1940_vymer_domovske_pravo_vaclav_votava.jpg","t":"Výměr o domovském právu v Těchobuzi, Pelhřimov 8. 9. 1940"},
+        {"f":"img/dopis_vaclav_votava_anicce_1.jpg","t":"Dopis Václava Votavy (*1933) vnučce Aničce, s. 1"},
+        {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"}
       ]
     },
     {
@@ -294,15 +309,21 @@ window.RODOKMEN = {
       mother: "jana1903",
       spouse: "lidus1934",
       notes: [
-        "Bratr Václava Votavy (*1933)."
+        "Bratr Václava Votavy (*1933).",
+        "Mezi dětmi uveden ve výměru o domovském právu 1940 (nar. 3. 4. 1926)."
       ],
       sources: [
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Výměr Okresního úřadu v Pelhřimově č. 30435/40 o určení domovského práva (8. 9. 1940)",
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
+      ],
+      scans: [
+        {"f":"img/1940_vymer_domovske_pravo_vaclav_votava.jpg","t":"Výměr o domovském právu v Těchobuzi, Pelhřimov 8. 9. 1940"}
       ]
     },
     {
       id: "lidus1934",
-      name: "Liduš Votavová",
+      name: "Lída (Liduš) Votavová",
       line: "nezname",
       cert: "R",
       b: {"date":"23. 8. 1934","year":1934},
@@ -310,10 +331,12 @@ window.RODOKMEN = {
       spouse: "jiri1926",
       notes: [
         "Manželka Jiřího Votavy (*1926).",
-        "Rodné příjmení neznámé; „Liduš“ je nejspíš domácká podoba jména Ludmila (?)."
+        "Rodné příjmení neznámé; „Liduš“ je nejspíš domácká podoba jména Ludmila (?).",
+        "V dopise Václava (*1933) „Lída Votavová, 1934 – 22. 8. 2004, manželka Jiřího – Most“."
       ],
       sources: [
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
       ]
     },
     {
@@ -345,10 +368,15 @@ window.RODOKMEN = {
       mother: "jana1903",
       spouse: "frantisek1919",
       notes: [
-        "Sestra Václava Votavy (*1933)."
+        "Sestra Václava Votavy (*1933).",
+        "Mezi dětmi uvedena ve výměru o domovském právu 1940 (nar. 2. 6. 1927)."
       ],
       sources: [
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Výměr Okresního úřadu v Pelhřimově č. 30435/40 o určení domovského práva (8. 9. 1940)"
+      ],
+      scans: [
+        {"f":"img/1940_vymer_domovske_pravo_vaclav_votava.jpg","t":"Výměr o domovském právu v Těchobuzi, Pelhřimov 8. 9. 1940"}
       ]
     },
     {
@@ -360,10 +388,12 @@ window.RODOKMEN = {
       d: {"date":"19. 6. 1982","year":1982},
       spouse: "vlasta1927",
       notes: [
-        "Manžel Vlasty Votické, roz. Votavové."
+        "Manžel Vlasty Votické, roz. Votavové.",
+        "Žil v Litvínově (dopis Václava *1933)."
       ],
       sources: [
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
       ]
     },
     {
@@ -449,32 +479,44 @@ window.RODOKMEN = {
       name: "Václav Votava",
       line: "votava",
       cert: "D",
-      b: {"date":"25. 10. 1899","year":1899,"place":"Souš (Most)"},
+      b: {"date":"25. 10. 1899","year":1899,"place":"Souš č. p. 189 (Most)"},
       d: {"date":"11. 12. 1968","year":1968},
       father: "vaclav1868",
       mother: "barbora_l",
       spouse: "jana1903",
       occ: "horník",
+      marriage: "18. 10. 1924, Most – s Janou Čapkovou",
       notes: [
-        "Narozen v Souši u Mostu (rodný list syna 1933, oddací list syna 1956).",
-        "Bydliště: Souš č. p. 50 (1933), Kopisty č. p. 241 (1942, 1956).",
-        "Křestní list si nechal vystavit 9. 9. 1924 – patrně kvůli sňatku s Janou Čapkovou; první syn Jiří se narodil v dubnu 1926 (dopis syna).",
-        "Domovské právo měl v Těchobuzi (okr. Pelhřimov) po otci; podle výměru z 8. 9. 1940 se stal občanem obce 7. 2. 1939. Výměr ho chránil před německými úřady jako Čecha (dopis syna).",
-        "Datum úmrtí podle rodinného kalendáře („Děda (Most)“)."
+        "Pokřtěn v Souši (farnost Souš, matrika tom. 14). Otec Václav Votava, horník; děd Štěpán Votava, horník v Souši; matka Barbora, dcera Martina Lodla, horníka v Souši.",
+        "Horník. Domovské právo v Souši (domovský list 9. 9. 1924, svobodný).",
+        "Bydliště: Komořany (1924), Souš č. p. 50 (1933), Souš č. p. 21 (1940), Kopisty č. p. 241 (1942, 1956).",
+        "Výměrem Okresního úřadu v Pelhřimově z 8. 9. 1940 mu bylo přiděleno domovské právo v Těchobuzi (ke dni 7. 2. 1939): Souš připadla Německu, on se stal československým (protektorátním) státním občanem. Před nabytím domovského práva v Souši příslušel do Těchobuze po otci (do 27. 4. 1919). Domovské právo následovaly manželka a děti Jiří, Vlasta a Václav.",
+        "Datum úmrtí podle rodinného kalendáře a dopisu syna („Děda (Most)“)."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
         "Oddací list Václava Votavy a Anny Červenkové, MNV Kolín, sv. III, roč. 1956, str. 216, č. 122 (vydán 11. 8. 1956)",
         "Rodný list Vladimíra Votavy (*1942), MNV Most (vydán 14. 5. 1957)",
         "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
+        "Domovský list Václava Votavy, obec Souš, polit. okres Most, č. 415/24 (9. 9. 1924)",
+        "Výtah z knihy křtěných a oddaných (sňatek 18. 10. 1924 Most), Okresní správa politická v Mostě, 24. 10. 1924",
+        "Výměr Okresního úřadu v Pelhřimově č. 30435/40 o určení domovského práva (8. 9. 1940)",
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
       ],
       scans: [
         {"f":"img/1942_rodny_list_vladimir_votava_kopisty.jpg","t":"Rodný list syna Vladimíra (1942)"},
         {"f":"img/1933_rodny_list_vaclav_votava_sous.jpg","t":"Rodný list syna Václava (1933)"},
         {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
         {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Sňatek dětí Václava a Anny, Kolín 1956"},
-        {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"}
+        {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"},
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křestní list Václava Votavy, Souš 25. 10. 1899 (vydán 1924)"},
+        {"f":"img/1924_vytah_snatek_votava_capkova_most.jpg","t":"Výtah z matriky – sňatek 18. 10. 1924, Most"},
+        {"f":"img/1940_vymer_domovske_pravo_vaclav_votava.jpg","t":"Výměr o domovském právu v Těchobuzi, Pelhřimov 8. 9. 1940"},
+        {"f":"img/1924_domovsky_list_vaclav_votava_sous.jpg","t":"Domovský list Václava Votavy, Souš 1924"},
+        {"f":"img/dopis_vaclav_votava_anicce_1.jpg","t":"Dopis Václava Votavy (*1933) vnučce Aničce, s. 1"},
+        {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"}
       ]
     },
     {
@@ -483,29 +525,40 @@ window.RODOKMEN = {
       maiden: "Čapková",
       line: "capek",
       cert: "D",
-      b: {"date":"16. 5. 1903","year":1903,"place":"Mladá Boleslav"},
+      b: {"date":"16. 5. 1903","year":1903,"place":"Mladá Boleslav č. p. 278-III"},
       d: {"date":"29. 7. 1984","year":1984,"place":"Most"},
       cause: "jaterní cirhóza",
       father: "josef_c",
       mother: "marie_f",
       spouse: "vaclav1899",
       occ: "dělnice (1956); důchodkyně (1984)",
+      marriage: "18. 10. 1924, Most – s Václavem Votavou",
       notes: [
-        "Rodiče Josef Čapek a Marie, roz. Fukalová / Tukalová – ROZPOR: rodný list syna (1956) „Fukalová“ (první písmeno přepsané na stroji), úmrtní list (1984) „Tukalová“.",
+        "Pokřtěna 18. 5. 1903 v Mladé Boleslavi kaplanem Františkem Matějkou (matrika fol. 134).",
+        "Rodiče Josef Čapek a Marie, roz. Tůkalová. Křestní list (1924) i úmrtní list (1984) mají Tůkalová / Tukalová; „Fukalová“ v rodném listu syna (1956) je chyba opisu (první písmeno přepsané na stroji).",
+        "Domovské právo v Souši (domovský list 28. 5. 1931: manželka horníka – dělnice).",
         "Zemřela jako vdova v Mostě; zpopelněna 3. 8. 1984 v Mostě.",
-        "Datum narození 16. 5. 1903 potvrzují úřední doklady (v rodinném kalendáři opraveno z 19. 5.)."
+        "Její rodiče Čapkovi bydleli v Komořanech u Mostu – syn Václav (*1933) je znal za první republiky a za války."
       ],
       sources: [
         "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)",
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
         "Oddací list Václava Votavy a Anny Červenkové, MNV Kolín, sv. III, roč. 1956, str. 216, č. 122 (vydán 11. 8. 1956)",
-        "Rodný list Vladimíra Votavy (*1942), MNV Most (vydán 14. 5. 1957)"
+        "Rodný list Vladimíra Votavy (*1942), MNV Most (vydán 14. 5. 1957)",
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
+        "Výtah z knihy křtěných a oddaných (sňatek 18. 10. 1924 Most), Okresní správa politická v Mostě, 24. 10. 1924",
+        "Domovský list Jany Votavové, obec Souš, č. 1023/31 (28. 5. 1931)",
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
       ],
       scans: [
         {"f":"img/1942_rodny_list_vladimir_votava_kopisty.jpg","t":"Rodný list syna Vladimíra (1942)"},
         {"f":"img/1933_rodny_list_vaclav_votava_sous.jpg","t":"Rodný list syna Václava (1933)"},
         {"f":"img/1984_umrtni_list_jana_votavova_most.jpg","t":"Úmrtní list Jany Votavové, Most 29. 7. 1984"},
-        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Sňatek dětí Václava a Anny, Kolín 1956"}
+        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Sňatek dětí Václava a Anny, Kolín 1956"},
+        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křestní list Jany Čapkové, Mladá Boleslav 16. 5. 1903 (vydán 1924)"},
+        {"f":"img/1924_vytah_snatek_votava_capkova_most.jpg","t":"Výtah z matriky – sňatek 18. 10. 1924, Most"},
+        {"f":"img/1940_vymer_domovske_pravo_vaclav_votava.jpg","t":"Výměr o domovském právu v Těchobuzi, Pelhřimov 8. 9. 1940"},
+        {"f":"img/1931_domovsky_list_jana_votavova_sous.jpg","t":"Domovský list Jany Votavové, Souš 1931"}
       ]
     },
     {
@@ -522,19 +575,22 @@ window.RODOKMEN = {
       marriage: "7. 1. 1933, Borek u Suchomast (kostel sv. Mikuláše) – s Annou Klikovou",
       notes: [
         "V kalendáři „Děda (Suchomasty)“. V roce 1933 bydlel v Berouně III č. p. 229.",
-        "Datum úmrtí podle rodinného kalendáře."
+        "Datum úmrtí podle rodinného kalendáře.",
+        "Rodopis Červenků uvádí narození „1906 na Lištici č. p. 83“ (rodný list dcery: Beroun III č. p. 229) a sňatek s Annou Klikovou."
       ],
       sources: [
         "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
         "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)",
         "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
         "Oddací list Václava Votavy a Anny Červenkové, MNV Kolín, sv. III, roč. 1956, str. 216, č. 122 (vydán 11. 8. 1956)",
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
       ],
       scans: [
         {"f":"img/1933_oddaci_list_cervenka_klikova_borek.jpg","t":"Oddací list Karla Červenky a Anny Klikové, Borek 7. 1. 1933"},
         {"f":"img/1933_krestni_list_anna_cervenkova_suchomasty.jpg","t":"Křest dcery Anny, Suchomasty 1933"},
-        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Sňatek dětí Václava a Anny, Kolín 1956"}
+        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Sňatek dětí Václava a Anny, Kolín 1956"},
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
       ]
     },
     {
@@ -633,12 +689,16 @@ window.RODOKMEN = {
       line: "votava",
       cert: "D",
       b: {"date":"25. 8. 1868","year":1868,"place":"Pravonín"},
+      d: {"date":"9. 11. 1963","year":1963,"place":"Souš (Most)"},
       father: "stepan_v",
       mother: "antonie_m",
       spouse: "barbora_l",
+      occ: "horník",
       notes: [
-        "Narození a rodiče podle křestního listu syna (1924) a výměru o domovském právu (1940), citovaných v dopise vnuka Václava (*1933). Domovská obec Těchobuz, okr. Pelhřimov.",
-        "Podle rodinné tradice přišel do Mostu asi ve 4 letech (kolem 1872), kdy se na Mostecku otvíraly šachty.",
+        "Narozen 25. 8. 1868 v Pravoníně (výměr 1940). Syn Štěpána Votavy, horníka v Souši, a Antonie roz. Michalové z Těchobuze č. 19 (křestní list syna 1924).",
+        "Podle rodinné tradice přišel do Mostu asi ve 4 letech (kolem 1872), kdy se na Mostecku otvíraly šachty; v Souši pak žil i jeho otec Štěpán.",
+        "Domovské právo v Těchobuzi (okr. Pelhřimov) měl do 27. 4. 1919.",
+        "Zemřel 9. 11. 1963 v 95 letech (dopis vnuka Václava, rodinná paměť).",
         "Děti podle rodinného rodokmenu: Václav (*1899), Eda, Josef, Zdeňka, Anna.",
         "KANDIDÁT: v Těchobuzi č. p. 76 žil roku 1951 František Votava (kronika obce) – příbuzenství neověřeno."
       ],
@@ -646,12 +706,18 @@ window.RODOKMEN = {
         "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
         "Ručně kreslený rodokmen Votavů (rodina, nedatováno)",
-        "Kronika obce Těchobuz, kap. Zemědělské družstvo v Těchobuzi, s. 149 (kopie u rodiny)"
+        "Kronika obce Těchobuz, kap. Zemědělské družstvo v Těchobuzi, s. 149 (kopie u rodiny)",
+        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
+        "Výměr Okresního úřadu v Pelhřimově č. 30435/40 o určení domovského práva (8. 9. 1940)",
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
       ],
       scans: [
         {"f":"img/1951_kronika_techobuz_frantisek_votava.jpg","t":"Kronika Těchobuze 1951 – František Votava č. p. 76"},
         {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
-        {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"}
+        {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"},
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"},
+        {"f":"img/dopis_vaclav_votava_anicce_1.jpg","t":"Dopis Václava Votavy (*1933) vnučce Aničce, s. 1"},
+        {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"}
       ]
     },
     {
@@ -660,13 +726,24 @@ window.RODOKMEN = {
       maiden: "Lodlová",
       line: "lodl",
       cert: "D",
-      b: {"date":"neznámé (odhad ~1872)","year":1872,"approx":true},
+      b: {"date":"29. 6. 1869","year":1869},
+      d: {"date":"16. 5. 1918","year":1918},
+      father: "martin_l",
+      mother: "anna_f",
       spouse: "vaclav1868",
       notes: [
-        "Matka Václava Votavy (*1899) podle rodného listu vnuka Václava (1933)."
+        "Matka Václava Votavy (*1899). Dcera Martina Lodla, horníka v Souši č. 57 (?), a Anny roz. Forejtové z ? (Věka?) č. 91 (křestní list syna 1924).",
+        "Data narození a úmrtí podle dopisu vnuka Václava (*1933) – rodinná paměť."
       ],
       sources: [
-        "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)"
+        "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
+        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
+      ],
+      scans: [
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"},
+        {"f":"img/dopis_vaclav_votava_anicce_1.jpg","t":"Dopis Václava Votavy (*1933) vnučce Aničce, s. 1"},
+        {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"}
       ]
     },
     {
@@ -676,17 +753,21 @@ window.RODOKMEN = {
       cert: "D",
       b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
       spouse: "antonie_m",
+      occ: "horník v Souši",
       notes: [
+        "Horník v Souši u Mostu (křestní list vnuka 1924); původem z Vysočiny, s rodinou z Těchobuze č. 19.",
         "Otec Václava Votavy (*1868), Těchobuz č. p. 19, okr. Pelhřimov – podle křestního listu vnuka (1924), citováno v dopise pravnuka.",
         "Podle rodinného rodokmenu měl nejméně dva další syny; syn jednoho z nich byl major armády USA, který v roce 1945 navštívil Václava Votavu (*1899) v Mostě."
       ],
       sources: [
         "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
-        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)",
+        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)"
       ],
       scans: [
         {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
-        {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"}
+        {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"},
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"}
       ]
     },
     {
@@ -710,30 +791,44 @@ window.RODOKMEN = {
       line: "capek",
       cert: "D",
       b: {"date":"neznámé (odhad ~1875)","year":1875,"approx":true},
+      father: "karel_c",
+      mother: "marie_o",
       spouse: "marie_f",
       notes: [
-        "Otec Jany Votavové (*1903 Mladá Boleslav)."
+        "Otec Jany Votavové (*1903 Mladá Boleslav). Syn Karla Čapka, domkáře v Rabakově č. 19 (okr. Sobotka), a Marie Otové (?) z Kchleb č. 53 (okr. Nymburk).",
+        "Později bydlel s manželkou v Komořanech u Mostu (dopis vnuka)."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
-        "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)"
+        "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)",
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
+        "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť"
+      ],
+      scans: [
+        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"}
       ]
     },
     {
       id: "marie_f",
       name: "Marie Čapková",
-      maiden: "Fukalová / Tukalová",
+      maiden: "Tůkalová",
       line: "fukal",
       cert: "D",
       b: {"date":"neznámé (odhad ~1878)","year":1878,"approx":true},
+      father: "jan_t",
+      mother: "frantiska_s",
       spouse: "josef_c",
       notes: [
-        "Matka Jany Votavové (*1903).",
-        "ROZPOR v rodném příjmení: „Fukalová“ (rodný list vnuka 1956, první písmeno přepsané) × „Tukalová“ (úmrtní list dcery 1984)."
+        "Matka Jany Votavové (*1903). Dcera Jana Tůkala, baráčníka v Kosíčku (?) č. 52 (?), a Františky roz. Šnajdrové z Pojedic (?) č. 9, okr. Libáň (křestní list dcery 1924).",
+        "Rodné příjmení: Tůkalová (křestní list 1924), Tukalová (úmrtní list dcery 1984); „Fukalová“ (rodný list vnuka 1956) je chyba opisu."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
-        "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)"
+        "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)",
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134"
+      ],
+      scans: [
+        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"}
       ]
     },
     {
@@ -741,16 +836,28 @@ window.RODOKMEN = {
       name: "Václav Červenka",
       line: "cervenka",
       cert: "D",
-      b: {"date":"neznámé (odhad ~1875)","year":1875,"approx":true},
+      b: {"date":"21. 7. 1868","year":1868,"place":"Hředle č. p. 37"},
+      d: {"date":"22. 11. 1938","year":1938,"place":"Beroun-Lištice č. p. 229"},
+      cause: "zápal plic a pohrudnice, srdeční vada",
+      father: "matej_c",
+      mother: "antonie_d",
       spouse: "anna_vl",
-      occ: "rolník v Berouně III na Lištici",
+      occ: "rolník na Lištici č. p. 83, později č. p. 229 (Beroun III)",
+      marriage: "19. 5. 1894, Beroun – s Annou Vlasákovou",
       notes: [
-        "Otec Karla Červenky (*1906)."
+        "Otec Karla Červenky (*1906); rolník v Berouně III na Lištici (křestní a rodný list vnučky 1933).",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
       ],
       sources: [
         "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
         "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)",
-        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2"
+        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
+        {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
       ]
     },
     {
@@ -759,15 +866,27 @@ window.RODOKMEN = {
       maiden: "Vlasáková",
       line: "vlasak",
       cert: "D",
-      b: {"date":"neznámé (odhad ~1878)","year":1878,"approx":true},
+      b: {"date":"20. 11. 1871","year":1871,"place":"Zbečno"},
+      d: {"date":"1946","year":1946,"place":"Beroun-Lištice č. p. 229"},
+      father: "frantisek_vl",
+      mother: "marie_se",
       spouse: "vaclav_c",
+      marriage: "19. 5. 1894, Beroun – s Václavem Červenkou",
       notes: [
-        "Matka Karla Červenky (*1906), původem ze Sýkořice č. p. 14."
+        "Dcera Františka Vlasáka ze mlýna v Račicích, rolníka na Lištici č. 83, a Marie Semencové z Dubiny u Zbečna č. 45 (rodopis).",
+        "V rodném listu vnučky (1933) uvedena „ze Sýkořice č. p. 14“, v rodopisu „ze Zbečna-Račic (mlýn)“ – sousední obce na Křivoklátsku, upřesnit v matrice.",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
       ],
       sources: [
         "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
         "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
-        "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)"
+        "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)",
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
+        {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
       ]
     },
     {
@@ -991,6 +1110,547 @@ window.RODOKMEN = {
       sources: [
         "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
       ]
+    },
+    {
+      id: "karel_c",
+      name: "Karel Čapek",
+      line: "capek",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      spouse: "marie_o",
+      occ: "domkář v Rabakově č. 19, okr. Sobotka",
+      notes: [
+        "Otec Josefa Čapka, děd Jany Votavové (*1903)."
+      ],
+      sources: [
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134"
+      ],
+      scans: [
+        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"}
+      ]
+    },
+    {
+      id: "marie_o",
+      name: "Marie Čapková",
+      maiden: "Otová (?)",
+      line: "ota",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Kchleby č. p. 53, okr. Nymburk"},
+      spouse: "karel_c",
+      notes: [
+        "Matka Josefa Čapka; čtení příjmení nejisté."
+      ],
+      sources: [
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134"
+      ]
+    },
+    {
+      id: "jan_t",
+      name: "Jan Tůkal",
+      line: "fukal",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      spouse: "frantiska_s",
+      occ: "baráčník v Kosíčku (?) č. 52 (?)",
+      notes: [
+        "Otec Marie Čapkové, roz. Tůkalové."
+      ],
+      sources: [
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134"
+      ],
+      scans: [
+        {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"}
+      ]
+    },
+    {
+      id: "frantiska_s",
+      name: "Františka Tůkalová",
+      maiden: "Šnajdrová",
+      line: "snajdr",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Pojedice (?) č. p. 9, okr. Libáň"},
+      spouse: "jan_t",
+      notes: [
+        "Matka Marie Čapkové, roz. Tůkalové; čtení místa nejisté."
+      ],
+      sources: [
+        "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134"
+      ]
+    },
+    {
+      id: "martin_l",
+      name: "Martin Lodl",
+      line: "lodl",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
+      spouse: "anna_f",
+      occ: "horník v Souši č. 57 (?)",
+      notes: [
+        "Otec Barbory Votavové, roz. Lodlové."
+      ],
+      sources: [
+        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)"
+      ],
+      scans: [
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"}
+      ]
+    },
+    {
+      id: "anna_f",
+      name: "Anna Lodlová",
+      maiden: "Forejtová",
+      line: "forejt",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1843)","year":1843,"approx":true},
+      spouse: "martin_l",
+      notes: [
+        "Matka Barbory Votavové; původem „z ? (Věka?) č. 91“ – čtení místa nejisté."
+      ],
+      sources: [
+        "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)"
+      ]
+    },
+    {
+      id: "vaclav1895",
+      name: "Václav Červenka",
+      line: "cervenka",
+      cert: "D",
+      b: {"date":"17. 2. 1895","year":1895,"place":"Beroun-Lištice č. p. 83"},
+      father: "vaclav_c",
+      mother: "anna_vl",
+      occ: "rolník na Lištici č. p. 229",
+      marriage: "18. 11. 1923, Beroun – s Marií Petrákovou (*2. 3. 1897)",
+      notes: [
+        "Bratr Karla Červenky (*1906). Manželka Marie, dcera Václava Petráka, mistra tkalcovského ze Závodí, a Anny Mengerové z Hýskova č. 109.",
+        "Rodopis, ze kterého pochází celá linie Červenků, byl sestaven pro něj a jeho manželku.",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+      ]
+    },
+    {
+      id: "jan1898",
+      name: "Jan Červenka",
+      line: "cervenka",
+      cert: "D",
+      b: {"date":"17. 1. 1898","year":1898,"place":"Beroun-Lištice č. p. 83"},
+      father: "vaclav_c",
+      mother: "anna_vl",
+      occ: "modelář, hajný v Horním Ostrovci u Písku",
+      marriage: "10. 2. 1923 – s Marií Šlégrovou",
+      notes: [
+        "Bratr Karla Červenky. Manželka Marie, dcera Bohuslava Šlégra, obuvníka v Berouně na Lištici č. 292, a Julie Pechové ze Svaté č. 44.",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+      ]
+    },
+    {
+      id: "josef1899c",
+      name: "Josef Červenka",
+      line: "cervenka",
+      cert: "D",
+      b: {"date":"11. 8. 1899","year":1899,"place":"Beroun-Lištice č. p. 83"},
+      d: {"date":"13. 3. (rok v rodopisu chybí)","place":"Beroun č. p. 222"},
+      cause: "srdeční vada",
+      father: "vaclav_c",
+      mother: "anna_vl",
+      occ: "zámečník v Berouně č. p. 222",
+      marriage: "7. 2. 1926 – s Marií Sládkovou",
+      notes: [
+        "Bratr Karla Červenky. Manželka Marie, dcera Antonína Sládka, dělníka v Berouně č. 222, a Anny Maštalířové z Berouna.",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+      ]
+    },
+    {
+      id: "frantisek1901c",
+      name: "František Červenka",
+      line: "cervenka",
+      cert: "D",
+      b: {"date":"8. 7. 1901","year":1901,"place":"Beroun-Lištice č. p. 83"},
+      d: {"date":"6. 11. 1921","year":1921,"place":"Beroun-Lištice č. p. 83"},
+      cause: "tuberkulóza",
+      father: "vaclav_c",
+      mother: "anna_vl",
+      occ: "malíř pokojů",
+      notes: [
+        "Bratr Karla Červenky.",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+      ]
+    },
+    {
+      id: "matej_c",
+      name: "Matěj Červenka",
+      line: "cervenka",
+      cert: "D",
+      b: {"date":"3. 4. 1825","year":1825,"place":"Hředle č. p. 37"},
+      d: {"date":"13. 2. 1905","year":1905,"place":"Hředle č. p. 37"},
+      father: "jakub1789",
+      mother: "veronika_s",
+      occ: "rolník ve Hředlích č. p. 37",
+      marriage: "25. 11. 1851, Zdice – s Antonií Divišovou",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
+        {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+      ]
+    },
+    {
+      id: "antonie_d",
+      name: "Antonie Červenková",
+      maiden: "Divišová",
+      line: "divis",
+      cert: "D",
+      b: {"date":"28. 7. 1822","year":1822,"place":"Černín č. p. 7"},
+      father: "matej_d",
+      mother: "josefa_m",
+      marriage: "25. 11. 1851, Zdice – s Matějem Červenkou",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "matej_d",
+      name: "Matěj Diviš",
+      line: "divis",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      spouse: "josefa_m",
+      occ: "rolník v Černíně č. p. 7",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "josefa_m",
+      name: "Josefa Divišová",
+      maiden: "Merhautová",
+      line: "merhaut",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Zdice"},
+      spouse: "matej_d",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "jakub1789",
+      name: "Jakub Červenka",
+      line: "cervenka",
+      cert: "D",
+      b: {"date":"27. 5. 1789","year":1789,"place":"Hředle č. p. 37"},
+      d: {"date":"13. 12. 1860","year":1860,"place":"Hředle č. p. 37"},
+      father: "jakub1750",
+      mother: "anna_h",
+      occ: "rolník ve Hředlích č. p. 37",
+      marriage: "24. 2. 1811, Všeradice – s Veronikou Skálovou",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
+        {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+      ]
+    },
+    {
+      id: "veronika_s",
+      name: "Veronika Červenková",
+      maiden: "Skálová",
+      line: "skala",
+      cert: "D",
+      b: {"date":"19. 8. 1791","year":1791,"place":"Vinařice č. p. 24"},
+      d: {"date":"8. 4. 1851","year":1851,"place":"Hředle č. p. 37"},
+      father: "jiri_s",
+      mother: "eva_k",
+      marriage: "24. 2. 1811, Všeradice – s Jakubem Červenkou",
+      notes: [
+        "Z Vinařic č. 28.",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "jiri_s",
+      name: "Jiří Skála",
+      line: "skala",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      spouse: "eva_k",
+      occ: "Vinařice č. p. 28",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "eva_k",
+      name: "Eva Skálová",
+      maiden: "Kalousová",
+      line: "kalous",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true,"place":"Býkoš"},
+      spouse: "jiri_s",
+      notes: [
+        "Z Býkoše – odkud pocházel i Karel Klika (*~1885), děd Anny Červenkové (*1933) z matčiny strany.",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "jakub1750",
+      name: "Jakub Červenka",
+      line: "cervenka",
+      cert: "D",
+      b: {"date":"8. 7. 1750","year":1750,"place":"Hředle č. p. 37"},
+      d: {"date":"2. 7. 1818","year":1818,"place":"Hředle č. p. 37"},
+      father: "pavel1716",
+      mother: "ludmila_d",
+      occ: "rolník ve Hředlích č. p. 37",
+      marriage: "17. 9. 1769, Žebrák – s Annou Holickou",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
+        {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+      ]
+    },
+    {
+      id: "anna_h",
+      name: "Anna Červenková",
+      maiden: "Holická",
+      line: "holicky",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Hředle"},
+      father: "daniel_h",
+      mother: "katerina_z",
+      marriage: "17. 9. 1769, Žebrák – s Jakubem Červenkou",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "daniel_h",
+      name: "Daniel Holický",
+      line: "holicky",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
+      spouse: "katerina_z",
+      occ: "rolník ve Hředlích",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "katerina_z",
+      name: "Kateřina Holická",
+      maiden: "Zymová",
+      line: "zyma",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      spouse: "daniel_h",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "pavel1716",
+      name: "Pavel Červenka",
+      line: "cervenka",
+      cert: "D",
+      b: {"date":"26. 1. 1716","year":1716,"place":"Hředle"},
+      d: {"date":"6. 8. 1761","year":1761,"place":"Hředle"},
+      father: "vaclav1674",
+      mother: "dorota_n",
+      occ: "rolník ve Hředlích",
+      marriage: "asi 1739 – s Ludmilou Drapalovou",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
+        {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+      ]
+    },
+    {
+      id: "ludmila_d",
+      name: "Ludmila Červenková",
+      maiden: "Drapalová",
+      line: "drapal",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true},
+      spouse: "pavel1716",
+      marriage: "asi 1739 – s Pavlem Červenkou",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "vaclav1674",
+      name: "Václav Červenka",
+      line: "cervenka",
+      cert: "D",
+      b: {"date":"asi 1674","year":1674,"approx":true},
+      d: {"date":"1. 3. 1730","year":1730,"place":"Hředle"},
+      spouse: "dorota_n",
+      occ: "rolník ve Hředlích",
+      marriage: "30. 11. 1696, Žebrák – s Dorotou Novou",
+      notes: [
+        "Nejstarší známý Červenka. V rodopisu na 1. stránce chybně „oddán 30. 11. 1896“, na 2. stránce správně 1696.",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ],
+      scans: [
+        {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
+        {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+      ]
+    },
+    {
+      id: "dorota_n",
+      name: "Dorota Červenková",
+      maiden: "Nová",
+      line: "novy",
+      cert: "D",
+      b: {"date":"15. 1. 1679","year":1679,"place":"Chlustina"},
+      d: {"date":"2. 11. 1752","year":1752,"place":"Hředle"},
+      father: "jan_n",
+      mother: "ludmila_n",
+      marriage: "30. 11. 1696, Žebrák – s Václavem Červenkou",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "jan_n",
+      name: "Jan Nový",
+      line: "novy",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1650)","year":1650,"approx":true},
+      spouse: "ludmila_n",
+      occ: "soused (usedlík) v Chlustině",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "ludmila_n",
+      name: "Ludmila Nová",
+      line: "nezname",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1652)","year":1652,"approx":true},
+      spouse: "jan_n",
+      notes: [
+        "Rodné příjmení neuvedeno.",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "frantisek_vl",
+      name: "František Vlasák",
+      line: "vlasak",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
+      spouse: "marie_se",
+      occ: "mlynář v Račicích, rolník na Lištici č. 83",
+      notes: [
+        "Otec Anny Červenkové, roz. Vlasákové.",
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
+    },
+    {
+      id: "marie_se",
+      name: "Marie Vlasáková",
+      maiden: "Semencová",
+      line: "semenec",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true,"place":"Dubina u Zbečna č. p. 45"},
+      spouse: "frantisek_vl",
+      notes: [
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+      ],
+      sources: [
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+      ]
     }
   ]
 };
@@ -1002,9 +1662,9 @@ window.RODOKMEN.places = [
   {"name":"Těchobuz","lat":49.495,"lon":14.975,"line":"votava","note":"domovská obec Votavů (Štěpán Votava, č. p. 19)","anchor":"start"}
 ];
 window.RODOKMEN.story = [
-  {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Českomoravské vrchoviny. Štěpán Votava a Antonie, roz. Michalová, žili v Těchobuzi č. p. 19 na Pelhřimovsku a jejich syn Václav se narodil roku 1868 v Pravoníně.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty. Jeho syn Václav (*1899) se narodil v Souši u Mostu a byl horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho německé úřady v zabraném pohraničí považovaly za Čecha.","S Janou Čapkovou z Mladé Boleslavi měl Václav (*1899) čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."]},
+  {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Českomoravské vrchoviny. Štěpán Votava a Antonie, roz. Michalová, žili v Těchobuzi č. p. 19 na Pelhřimovsku a jejich syn Václav se narodil roku 1868 v Pravoníně.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal"]},
   {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek"],"title":"Zettelmannovi a Hrazdílkovi","text":["František Zettelmann se narodil roku 1940 v Polouvsí na Novojičínsku, Helena Hrazdílková téhož roku v Heršpicích u Vyškova. V roce 1963 žili v Karviné, kde se jim narodila dcera Šárka."]},
-  {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda"],"title":"Červenkovi a Klikovi","text":["Karel Červenka se narodil roku 1906 v Berouně na Lištici jako syn rolníka Václava Červenky a Anny, roz. Vlasákové ze Sýkořice. V lednu 1933 se v kostele sv. Mikuláše v Borku u Suchomast oženil s Annou Klikovou ze Suchomast.","Anna Kliková (*1913) byla dcerou dělníka Karla Kliky z Býkoše a Růženy Valentové z Čepiroh (Tschöppern) u Mostu – i tato větev tedy vede na Mostecko."]}
+  {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda","divis","merhaut","skala","kalous","holicky","zyma","drapal","novy","semenec"],"title":"Červenkovi a Klikovi","text":["Červenkové byli po pět generací rolníky ve Hředlích č. p. 37 u Žebráka. Nejstarší známý předek Václav Červenka (asi 1674–1730) se roku 1696 oženil v Žebráku s Dorotou Novou z Chlustiny. Linie pokračuje přes Pavla (1716), dva Jakuby (1750, 1789) a Matěje (1825).","Matějův syn Václav (1868–1938) se usadil jako rolník v Berouně na Lištici a oženil se s Annou Vlasákovou z mlynářské rodiny z Račic u Zbečna. Z jejich pěti synů je nejmladší Karel (*1906) děd Jana Votavy.","Karel Červenka se v lednu 1933 oženil v kostele sv. Mikuláše v Borku u Suchomast s Annou Klikovou, dcerou dělníka Karla Kliky z Býkoše a Růženy Valentové z Čepiroh (Tschöppern) u Mostu.","Linie do 17. století pochází z rodinného strojopisného rodopisu; jednotlivé údaje se ještě ověřují v matrikách."]}
 ];
 window.RODOKMEN.timeline = [
   {"y":1940,"t":"František Zettelmann se rodí v Polouvsí, Helena Hrazdílková v Heršpicích"},
@@ -1012,7 +1672,11 @@ window.RODOKMEN.timeline = [
   {"y":1868,"t":"Václav Votava se rodí v Pravoníně"},
   {"y":1899,"t":"Václav Votava se rodí v Souši u Mostu"},
   {"y":1933,"t":"Sňatek Karla Červenky a Anny Klikové v Borku u Suchomast (7. 1.)"},
-  {"y":1956,"t":"Sňatek Václava Votavy a Anny Červenkové v Kolíně (11. 8.)"}
+  {"y":1956,"t":"Sňatek Václava Votavy a Anny Červenkové v Kolíně (11. 8.)"},
+  {"y":1696,"t":"Sňatek Václava Červenky a Doroty Nové v Žebráku – nejstarší známé datum rodu"},
+  {"y":1894,"t":"Sňatek Václava Červenky a Anny Vlasákové v Berouně"},
+  {"y":1924,"t":"Sňatek Václava Votavy a Jany Čapkové v Mostě (18. 10.)"},
+  {"y":1940,"t":"Výměr o domovském právu v Těchobuzi pro Václava Votavu (*1899) a jeho rodinu"}
 ];
 
 // Documented migrations; kind: "doc" = documented, "rail" = probable route by train, "hyp" = hypothesis
@@ -1036,5 +1700,8 @@ window.RODOKMEN.events = [
   {"y":1993,"t":"Vznik České republiky","s":"vznik ČR"},
   {"y":2004,"t":"Vstup do Evropské unie","s":"vstup do EU"},
   {"y":1848,"t":"Zrušení roboty","s":"konec roboty"},
-  {"y":1872,"t":"Rozmach těžby hnědého uhlí na Mostecku","s":"uhlí na Mostecku"}
+  {"y":1872,"t":"Rozmach těžby hnědého uhlí na Mostecku","s":"uhlí na Mostecku"},
+  {"y":1680,"t":"Selské povstání a první robotní patent","s":"robotní patent"},
+  {"y":1748,"t":"Tereziánský katastr","s":"tereziánský katastr"},
+  {"y":1781,"t":"Zrušení nevolnictví","s":"konec nevolnictví"}
 ];

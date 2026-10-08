@@ -244,6 +244,11 @@ dl.facts dd{margin:0;min-width:0}
 <script>
 (function(){
 const D = window.RODOKMEN, P = {}; D.people.forEach(p=>P[p.id]=p);
+// lines without a hand-picked colour in :root get a stable hue derived from their id (light and dark variant)
+(function(){ const css=getComputedStyle(document.documentElement), miss=Object.keys(D.lines).filter(k=>!css.getPropertyValue('--l-'+k).trim());
+  if(!miss.length) return; const hue=k=>[...k].reduce((h,c)=>(h*31+c.charCodeAt(0))%360,7);
+  const L=miss.map(k=>`--l-${k}:hsl(${hue(k)} 32% 42%)`).join(';'), Dk=miss.map(k=>`--l-${k}:hsl(${hue(k)} 40% 68%)`).join(';');
+  const s=document.createElement('style'); s.textContent=`:root{${L}}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){${Dk}}}:root[data-theme="dark"]{${Dk}}`; document.head.appendChild(s); })();
 const CERT = {M:"Přečteno v matrice",D:"Jiný doklad (parte, rodný list, paměti)",R:"Rodinná tradice",K:"Kandidát – neověřeno"};
 const lineVar = l => `var(--l-${l})`;
 const zoom = 1; let active = null;
@@ -380,7 +385,7 @@ Object.entries(D.lines).forEach(([k,label])=>{
 
 const nM = D.people.filter(p=>p.cert==='M').length;
 // everything below is derived from data.js on every load – no hand-maintained summary that could go stale
-const documented = D.people.filter(p=>p.cert==='M'||p.cert==='D');
+const documented = D.people.filter(p=>(p.cert==='M'||p.cert==='D')&&!p.b.approx);
 const oldest = documented.reduce((a,p)=>p.b.year<a.b.year?p:a);
 const meta = document.getElementById('meta');
 meta.innerHTML = `${D.people.length} osob · ${nM} doloženo přímo v matrikách · nejstarší doložený předek <button type="button" class="plink" id="oldest">${oldest.name}</button> (~${oldest.b.year}) · aktualizováno ${window.RODOKMEN_BUILD||D.updated}`;
@@ -609,7 +614,7 @@ requestAnimationFrame(()=>{ const c=document.querySelector(`.card[data-id="${D.r
   setVB();
   const KIND={doc:'doloženo',rail:'trasa pravděpodobná',hyp:'domněnka'};
   document.getElementById('moves').innerHTML=D.moves.map(m=>`<li style="--c:var(--l-${m.line})"><b>${m.when}</b> – ${m.who}: ${m.note}<span class="k">${KIND[m.kind]}</span></li>`).join('');
-  const doc=p=>p.cert==='M'||p.cert==='D', place=e=>(e&&e.place||'').replace(/\s*č\.\s*\d+.*$/,'').replace(/,.*$/,'');
+  const doc=p=>(p.cert==='M'||p.cert==='D')&&!p.b.approx, place=e=>(e&&e.place||'').replace(/\s*č\.\s*\d+.*$/,'').replace(/,.*$/,'');
   const oldestOf=ls=>D.people.filter(p=>ls.includes(p.line)&&doc(p)).reduce((a,p)=>!a||p.b.year<a.b.year?p:a,null);
   const go=p=>`<button type="button" class="plink" data-go="${p.id}">${p.name}</button>`;
   document.getElementById('story').innerHTML=D.story.map(s=>{
