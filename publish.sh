@@ -3,7 +3,7 @@
 set -e
 cd "$(dirname "$0")"
 ./build.sh
-git add .gitignore public_data.js validate.js datatool.js geo.js gazetteer.js data.js template.html index.html build.sh publish.sh README.md img
+git add .nojekyll .gitignore public_data.js validate.js datatool.js geo.js gazetteer.js data.js template.html index.html build.sh publish.sh README.md img
 git commit -q -m "${1:-Aktualizace rodokmenu}
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>" || { echo "nothing to commit"; exit 0; }
