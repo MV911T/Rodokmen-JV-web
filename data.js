@@ -35,7 +35,10 @@ window.RODOKMEN = {
     "novy": "Nový",
     "semenec": "Semenec",
     "flemr": "Flemr (?)",
-    "karafiat": "Karafiát"
+    "karafiat": "Karafiát",
+    "aubrecht": "Aubrecht",
+    "holub": "Holub",
+    "loukota": "Loukota"
   },
   people: [
     {
@@ -746,15 +749,16 @@ window.RODOKMEN = {
       maiden: "Lodlová",
       line: "lodl",
       cert: "M",
-      b: {"date":"27. 1. 1873","year":1873,"place":"Osek č. p. 91 (u Rokycan?)"},
+      b: {"date":"27. 1. 1873","year":1873,"place":"Osek u Rokycan č. p. 91"},
       d: {"date":"16. 5. 1918","year":1918},
       father: "martin_l",
       mother: "anna_f",
       spouse: "vaclav1868",
       marriage: "16. 7. 1894, Souš – s Václavem Votavou",
       notes: [
-        "Narozena v Oseku (Wosek) č. 91, okr. Rokycany (?); v roce 1894 bydlela v Souši č. 57. Otec Martin Lodl, horník v Souši č. 57, dal souhlas ke sňatku nezletilé dcery a podepsal se.",
-        "ROZPOR v datu narození: oddací matrika 1894 („21 5/12“ let, nar. 27. 1. 1873) i křestní matrika syna 1899 uvádějí 27. 1. 1873; dopis vnuka Václava (*1933) uvádí 29. 6. 1869. Platí matrika; ověřit křtem v Oseku (SOA Plzeň).",
+        "Narozena a pokřtěna 27. 1. 1873 v Oseku (Vosek) č. 91 u Rokycan (farář Karel Lamina, bába Barbora Beranová). Narodila se jako nemanželská; otec Martin Lodl se k otcovství přihlásil a sňatkem rodičů 3. 2. 1873 byla legitimována. Kmotři Barbora Holubová, Johan Forejt a Marie Lodlová.",
+        "V roce 1894 bydlela v Souši č. 57, kam se rodina Lodlových přestěhovala za prací v dolech; otec dal souhlas ke sňatku nezletilé a podepsal se.",
+        "ROZPOR rozhodnut: matriky (křest 1873, sňatek 1894, křest syna 1899) shodně 27. 1. 1873; datum 29. 6. 1869 z dopisu vnuka je chybné.",
         "Zemřela 16. 5. 1918 (dopis vnuka – rodinná paměť)."
       ],
       sources: [
@@ -762,7 +766,8 @@ window.RODOKMEN = {
         "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
         "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
         "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
-        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/"
+        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/",
+        "SOA Plzeň, Sbírka matrik západních Čech (fond 10014), fara Osek, kniha Osek 20 (N 1868–1874), str. 204, snímek 109 – https://www.portafontium.eu/iipimage/30066686/osek-20_1090-n"
       ],
       scans: [
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"},
@@ -770,7 +775,8 @@ window.RODOKMEN = {
         {"f":"img/dopis_vaclav_votava_anicce_2.jpg","t":"Dopis Václava Votavy vnučce – tabulka dat"},
         {"f":"img/1899_N_Votava_Vaclav_Sous_rodice.jpg","t":"Křest Václava Votavy, Souš 1899 – rodiče"},
         {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 16. 7. 1894 – ženich"},
-        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"}
+        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"},
+        {"f":"img/1873_krest_barbora_lodlova_osek.jpg","t":"Křest Barbory Lodlové, Osek 27. 1. 1873"}
       ]
     },
     {
@@ -1239,20 +1245,30 @@ window.RODOKMEN = {
       name: "Martin Lodl",
       line: "lodl",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
+      b: {"date":"5. 9. 1849","year":1849,"place":"Osek u Rokycan č. p. 86"},
+      father: "pavel_l",
+      mother: "anna_a",
       spouse: "anna_f",
-      occ: "horník v Souši č. 57",
+      occ: "havíř v Oseku (č. 14, 1873), později horník v Souši č. 57",
+      marriage: "3. 2. 1873, Osek – s Annou Forejtovou",
       notes: [
-        "Otec Barbory Votavové; rodina žila v Oseku č. 91 (u Rokycan?), od 1890s v Souši."
+        "Narozen 5. 9. 1849 v Oseku č. 86, pokřtěn 6. 9. Syn Pavla Lodla, havíře a obuvníka z Oseku č. 86 († před 1873), a Anny roz. Aubrechtové z Oseku č. 72.",
+        "Při sňatku 1873 nezletilý (23 let) – povolení okresního soudu v Rokycanech z 12. 1. 1873, č. 259. Svědci Anton Vondrák, cihlář, a Matěj Lucyák (?), dělník.",
+        "Později s rodinou na Mostecku – horník v Souši č. 57 (1894, 1899)."
       ],
       sources: [
         "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
         "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
-        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/"
+        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/",
+        "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n"
       ],
       scans: [
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"},
-        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"}
+        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"},
+        {"f":"img/1873_krest_barbora_lodlova_osek.jpg","t":"Křest Barbory Lodlové, Osek 27. 1. 1873"},
+        {"f":"img/1873_oddani_martin_lodl_anna_forejtova_osek.jpg","t":"Sňatek Martina Lodla a Anny Forejtové, Osek 3. 2. 1873"},
+        {"f":"img/1849_krest_martin_lodl_osek_matka.jpg","t":"Křest Martina Lodla, Osek 1849 – matka"}
       ]
     },
     {
@@ -1261,15 +1277,25 @@ window.RODOKMEN = {
       maiden: "Forejtová",
       line: "forejt",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Osek č. p. 91"},
+      b: {"date":"17. 9. 1848","year":1848,"place":"Osek u Rokycan č. p. 91"},
+      father: "matej_f",
+      mother: "anna_lo",
       spouse: "martin_l",
+      marriage: "3. 2. 1873, Osek – s Martinem Lodlem",
       notes: [
-        "Matka Barbory Votavové, z Oseku (Wosek) č. 91."
+        "Narozena 17. 9. 1848 v Oseku č. 91, pokřtěna 18. 9. Dcera Matěje Forejta, havíře z Oseku č. 91, a Anny roz. Loukotové z Oseku č. 10."
       ],
       sources: [
         "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
         "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
-        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/"
+        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/",
+        "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
+      ],
+      scans: [
+        {"f":"img/1873_krest_barbora_lodlova_osek.jpg","t":"Křest Barbory Lodlové, Osek 27. 1. 1873"},
+        {"f":"img/1873_oddani_martin_lodl_anna_forejtova_osek.jpg","t":"Sňatek Martina Lodla a Anny Forejtové, Osek 3. 2. 1873"},
+        {"f":"img/1848_krest_anna_forejtova_osek.jpg","t":"Křest Anny Forejtové, Osek 1848"}
       ]
     },
     {
@@ -1801,6 +1827,103 @@ window.RODOKMEN = {
       sources: [
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
       ]
+    },
+    {
+      id: "pavel_l",
+      name: "Pavel Lodl",
+      line: "lodl",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      d: {"date":"před 3. 2. 1873","year":1872,"approx":true},
+      spouse: "anna_a",
+      occ: "havíř a obuvník v Oseku č. 86",
+      notes: [
+        "Otec Martina Lodla; v roce 1873 už nežil. Dcera Marie Lodlová byla kmotrou Barbory (1873)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
+        "SOA Plzeň, Sbírka matrik západních Čech (fond 10014), fara Osek, kniha Osek 20 (N 1868–1874), str. 204, snímek 109 – https://www.portafontium.eu/iipimage/30066686/osek-20_1090-n"
+      ]
+    },
+    {
+      id: "anna_a",
+      name: "Anna Lodlová",
+      maiden: "Aubrechtová",
+      line: "aubrecht",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Osek u Rokycan č. p. 72"},
+      father: "kaspar_a",
+      mother: "anna_ho",
+      spouse: "pavel_l",
+      notes: [
+        "Matka Martina Lodla; dcera Kašpara Aubrechta, výminkáře z Oseku č. 72, a Anny roz. Holubové z Oseku č. 3 (?)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n"
+      ]
+    },
+    {
+      id: "kaspar_a",
+      name: "Kašpar Aubrecht",
+      line: "aubrecht",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      spouse: "anna_ho",
+      occ: "výminkář v Oseku č. 72 (1849)",
+      notes: [
+        "Otec Anny Lodlové."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n"
+      ]
+    },
+    {
+      id: "anna_ho",
+      name: "Anna Aubrechtová",
+      maiden: "Holubová",
+      line: "holub",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true,"place":"Osek u Rokycan č. p. 3 (?)"},
+      spouse: "kaspar_a",
+      notes: [
+        "Matka Anny Lodlové; číslo domu nejisté."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n"
+      ]
+    },
+    {
+      id: "matej_f",
+      name: "Matěj Forejt",
+      line: "forejt",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      spouse: "anna_lo",
+      occ: "havíř v Oseku č. 91",
+      notes: [
+        "Otec Anny Forejtové. Podle křtu dcery (1848) syn Josefa Forejta, domkáře z Oseku č. 91 (?), a Mariany roz. Lezák (?) z Volduch – čtení nejisté, ověřit."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
+      ]
+    },
+    {
+      id: "anna_lo",
+      name: "Anna Forejtová",
+      maiden: "Loukotová",
+      line: "loukota",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Osek u Rokycan č. p. 10"},
+      spouse: "matej_f",
+      notes: [
+        "Matka Anny Forejtové; dcera Jana Loukoty (Laukoty), obecního pastýře (?) z Oseku č. 10 – čtení nejisté."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
+      ]
     }
   ]
 };
@@ -1812,7 +1935,7 @@ window.RODOKMEN.places = [
   {"name":"Těchobuz","lat":49.495,"lon":14.975,"line":"votava","note":"domovská obec Votavů (Štěpán Votava, č. p. 19)","anchor":"start"}
 ];
 window.RODOKMEN.story = [
-  {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Pacovska. Štěpán Votava, syn nádeníka z Jetřichovic, sloužil jako panský kočí na zámku v Pravoníně, kde se mu s Antonií Michalovou z Těchobuze č. 19 narodil roku 1868 syn Václav. Domovské právo měla rodina v Těchobuzi.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal"]},
+  {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Pacovska. Štěpán Votava, syn nádeníka z Jetřichovic, sloužil jako panský kočí na zámku v Pravoníně, kde se mu s Antonií Michalovou z Těchobuze č. 19 narodil roku 1868 syn Václav. Domovské právo měla rodina v Těchobuzi.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Barbora Lodlová pocházela z hornické rodiny v Oseku u Rokycan; Lodlovi i Forejtovi tam byli havíři. Kolem roku 1890 odešli za prací do mosteckých dolů – do Souše, kde se Barbora roku 1894 vdala za Václava Votavu.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal","aubrecht","holub","loukota"]},
   {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek"],"title":"Zettelmannovi a Hrazdílkovi","text":["František Zettelmann se narodil roku 1940 v Polouvsí na Novojičínsku, Helena Hrazdílková téhož roku v Heršpicích u Vyškova. V roce 1963 žili v Karviné, kde se jim narodila dcera Šárka."]},
   {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda","divis","merhaut","skala","kalous","holicky","zyma","drapal","novy","semenec"],"title":"Červenkovi a Klikovi","text":["Červenkové byli po pět generací rolníky ve Hředlích č. p. 37 u Žebráka. Nejstarší známý předek Václav Červenka (asi 1674–1730) se roku 1696 oženil v Žebráku s Dorotou Novou z Chlustiny. Linie pokračuje přes Pavla (1716), dva Jakuby (1750, 1789) a Matěje (1825).","Matějův syn Václav (1868–1938) se usadil jako rolník v Berouně na Lištici a oženil se s Annou Vlasákovou z mlynářské rodiny z Račic u Zbečna. Z jejich pěti synů je nejmladší Karel (*1906) děd Jana Votavy.","Karel Červenka se v lednu 1933 oženil v kostele sv. Mikuláše v Borku u Suchomast s Annou Klikovou, dcerou dělníka Karla Kliky z Býkoše a Růženy Valentové z Čepiroh (Tschöppern) u Mostu.","Linie do 17. století pochází z rodinného strojopisného rodopisu; jednotlivé údaje se ještě ověřují v matrikách."]}
 ];
@@ -1833,7 +1956,8 @@ window.RODOKMEN.timeline = [
 window.RODOKMEN.moves = [
   {"who":"František Zettelmann","when":"do 1963","line":"zettelmann","kind":"doc","path":[[49.6,17.96],[49.856,18.55]],"note":"z Polouvsí do Karviné (bydliště podle rodného listu dcery)"},
   {"who":"Václav Votava (*1868)","when":"kolem 1872","line":"votava","kind":"hyp","path":[[49.635,14.945],[50.087,14.421],[50.503,13.636]],"note":"z Pravonína na Mostecko, kde se otvíraly šachty (rodinná tradice)"},
-  {"who":"Jana Čapková","when":"do 1926","line":"capek","kind":"doc","path":[[50.411,14.906],[50.52,13.68]],"note":"z Mladé Boleslavi do Souše u Mostu (sňatek s Václavem Votavou)"}
+  {"who":"Jana Čapková","when":"do 1926","line":"capek","kind":"doc","path":[[50.411,14.906],[50.52,13.68]],"note":"z Mladé Boleslavi do Souše u Mostu (sňatek s Václavem Votavou)"},
+  {"who":"Martin Lodl s rodinou","when":"do 1894","line":"lodl","kind":"doc","path":[[49.78,13.59],[50.52,13.68]],"note":"z Oseku u Rokycan do Souše u Mostu (havíři)"}
 ];
 
 // Historical events for the context column right of the year ruler; y2 = end year of a period (drawn as a band), major = shown even when zoomed out
