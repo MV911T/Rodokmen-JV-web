@@ -15,4 +15,4 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>" && git push -q origin m
 # verify in the background that GitHub Pages serves the new build (result in .live_check.log, shown by the next publish)
 [ -f .live_check.log ] && cat .live_check.log
 STAMP=$(grep -o "RODOKMEN_BUILD='[^']*'" index.html | head -1)
-( for i in $(seq 1 30); do sleep 20; if curl -s https://mv911t.github.io/Rodokmen-Jiri-Votava-web/ | grep -qF "$STAMP"; then echo "live OK ($STAMP)"; exit 0; fi; done; echo "LIVE NOT UPDATED after 10 min ($STAMP)" ) > .live_check.log 2>&1 &
+( for i in $(seq 1 30); do sleep 20; if curl -s https://mv911t.github.io/Rodokmen-JV-web/ | grep -qF "$STAMP"; then echo "live OK ($STAMP)"; exit 0; fi; done; echo "LIVE NOT UPDATED after 10 min ($STAMP)" ) > .live_check.log 2>&1 &

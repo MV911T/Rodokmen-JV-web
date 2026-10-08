@@ -1,4 +1,4 @@
-<title>Rodokmen Jiřího Votavy</title>
+<title>Rodokmen JV</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans+Condensed:wght@400;500;600&display=swap">
@@ -10,6 +10,7 @@
   --link:#24506b;
   --l-votava:#2f5f8a; --l-cervenka:#8e4b2b; --l-zettelmann:#3d7d5c; --l-hrazdilek:#7a5c99;
   --l-blazek:#8a7a2e; --l-jerabek:#a3612d; --l-hromas:#2f7a80; --l-voticky:#6b6f2f; --l-nezname:#7b8890;
+  --l-capek:#5b6fa8; --l-klika:#9a5a7a; --l-valenta:#4f8a6e; --l-vlasak:#a07d2c; --l-lodl:#6e5aa0; --l-michal:#8a6a4a; --l-fukal:#5a8aa0; --l-svoboda:#7a7a3a;
   --shadow:0 1px 2px rgba(24,38,46,.08),0 4px 14px rgba(24,38,46,.06);
   --mat:#c93a2e; --pat:#2563b8; --land:#eceae4; --land-cz:#fbfaf6; --land-pl:#f6f0ee; --land-sk:#eef3f1; --border:#9aa8af;
   --f-name:"Spectral",Georgia,"Times New Roman",serif;
@@ -20,12 +21,14 @@
   --accent:#e2735f; --link:#8cc0dd;
   --l-votava:#7fb0d0; --l-cervenka:#d99a76; --l-zettelmann:#7fc29d; --l-hrazdilek:#b49ad4;
   --l-blazek:#cdbb66; --l-jerabek:#e0a06a; --l-hromas:#6fc0c6; --l-voticky:#b3b86a; --l-nezname:#9aa8af;
+  --l-capek:#9aaee6; --l-klika:#d99ab9; --l-valenta:#8fcaa9; --l-vlasak:#dcb860; --l-lodl:#b3a0e0; --l-michal:#cfa88a; --l-fukal:#90c6dc; --l-svoboda:#c4c47a;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3); --mat:#f0705f; --pat:#6aa6f0; --land:#1a2228; --land-cz:#25313a; --land-pl:#2a2c33; --land-sk:#22302d; --border:#566770; color-scheme:dark }}
 :root[data-theme="dark"]{
   --bg:#11171b; --surface:#1a232a; --ink:#e3eaed; --muted:#93a3ab; --rule:#2f3c44; --grid:#1f2a31;
   --accent:#e2735f; --link:#8cc0dd;
   --l-votava:#7fb0d0; --l-cervenka:#d99a76; --l-zettelmann:#7fc29d; --l-hrazdilek:#b49ad4;
   --l-blazek:#cdbb66; --l-jerabek:#e0a06a; --l-hromas:#6fc0c6; --l-voticky:#b3b86a; --l-nezname:#9aa8af;
+  --l-capek:#9aaee6; --l-klika:#d99ab9; --l-valenta:#8fcaa9; --l-vlasak:#dcb860; --l-lodl:#b3a0e0; --l-michal:#cfa88a; --l-fukal:#90c6dc; --l-svoboda:#c4c47a;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3); --mat:#f0705f; --pat:#6aa6f0; --land:#1a2228; --land-cz:#25313a; --land-pl:#2a2c33; --land-sk:#22302d; --border:#566770; color-scheme:dark }
 
 html,body{height:100%}
@@ -195,7 +198,7 @@ dl.facts dd{margin:0;min-width:0}
 
 <header>
   <div>
-    <h1>Rodokmen Jiřího Votavy</h1>
+    <h1>Rodokmen JV</h1>
     <div class="meta" id="meta"></div>
   </div>
   <nav class="tabs" role="tablist"><button type="button" role="tab" id="tabTree" aria-selected="true">Rodokmen</button><button type="button" role="tab" id="tabMap" aria-selected="false">Odkud jsme</button></nav>
@@ -413,7 +416,7 @@ function open(id){
     <span class="badge"><span class="dot ${p.cert}"></span>${CERT[p.cert]}</span>
     <dl class="facts">${rows.map(([k,v])=>`<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
     ${p.notes&&p.notes.length?`<h3>Poznámky</h3><ul>${p.notes.map(n=>`<li>${n}</li>`).join('')}</ul>`:''}
-    ${p.scans&&p.scans.length?`<h3>Zápisy v matrice</h3><div class="scans">${p.scans.map(s=>`<button type="button" class="scan" data-src="${s.f}" data-t="${s.t}"><img src="${s.f}" alt="${s.t}" loading="lazy"><span>${s.t}</span></button>`).join('')}</div>`:''}
+    ${p.scans&&p.scans.length?`<h3>Skeny dokladů</h3><div class="scans">${p.scans.map(s=>`<button type="button" class="scan" data-src="${s.f}" data-t="${s.t}"><img src="${s.f}" alt="${s.t}" loading="lazy"><span>${s.t}</span></button>`).join('')}</div>`:''}
     ${p.sources&&p.sources.length?`<h3>Prameny</h3><ul class="src">${p.sources.map(n=>`<li>${n}</li>`).join('')}</ul>`:''}`;
   body.querySelector('.x').addEventListener('click',()=>dlg.close());
   body.querySelectorAll('.scan').forEach(b=>b.addEventListener('click',()=>showScan(b.dataset.src,b.dataset.t)));

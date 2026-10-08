@@ -13,7 +13,15 @@ window.RODOKMEN = {
     "jerabek": "Jeřábek",
     "hromas": "Hromas",
     "voticky": "Votický",
-    "nezname": "zatím neznámý"
+    "nezname": "zatím neznámý",
+    "capek": "Čapek",
+    "klika": "Klika",
+    "valenta": "Valenta",
+    "vlasak": "Vlasák",
+    "lodl": "Lodl",
+    "michal": "Michal",
+    "fukal": "Fukal/Tukal",
+    "svoboda": "Svoboda"
   },
   people: [
     {
@@ -175,11 +183,12 @@ window.RODOKMEN = {
       mother: "jana1958",
       alive: true,
       notes: [
-        "Syn Jany Hromasové, roz. Votavové; v kalendáři „Karel Hromas (Hokej)“.",
-        "Otec v kalendáři výslovně neuveden – nejspíš Karel Hromas (*1964), manžel Jany (?)."
+        "Syn Jany Hromasové, roz. Votavové; v kalendáři „Karel Hromas (Hokej)“, v rodinném rodokmenu mezi dětmi Jany.",
+        "Otec výslovně neuveden – nejspíš Karel Hromas (*1964), manžel Jany (?)."
       ],
       sources: [
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
       ]
     },
     {
@@ -214,20 +223,31 @@ window.RODOKMEN = {
       name: "Václav Votava",
       line: "votava",
       cert: "D",
-      b: {"date":"4. 9. 1933","year":1933},
+      b: {"date":"4. 9. 1933","year":1933,"place":"Souš č. p. 50 (Most)"},
       d: {"date":"4. 9. 2017","year":2017},
       father: "vaclav1899",
       mother: "jana1903",
+      occ: "chemik (1956)",
+      marriage: "11. 8. 1956, Kolín – s Annou Červenkovou",
       notes: [
         "Jako otec Jana Votavy (*1957) uveden na rodných listech jeho synů.",
-        "Data narození a úmrtí podle rodinného kalendáře. Rok úmrtí je v kalendáři ručně opraven z 1947 na 2017 a úmrtí připadá na den 84. narozenin – ověřit (?)."
+        "V roce 1956 bydlel v Kopistech č. p. 241 u Mostu. Později žil v Chomutově, odkud psal obecnímu úřadu v Těchobuzi kvůli předkům Votavů.",
+        "Datum úmrtí podle rodinného kalendáře. Rok je tam ručně opraven z 1947 na 2017 a úmrtí připadá na den 84. narozenin – ověřit (?)."
       ],
       sources: [
+        "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
+        "Oddací list Václava Votavy a Anny Červenkové, MNV Kolín, sv. III, roč. 1956, str. 216, č. 122 (vydán 11. 8. 1956)",
+        "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
         "Rodný list Martina Votavy, MěNV Vítkov, okr. Opava (vydán 23. 8. 1984)",
         "Rodný list Jiřího Votavy, MÚ Vítkov, kniha narození sv. 33/1, rok 1987, str. 144, poř. č. 46 (vydán 12. 4. 2018)",
         "Rodný list Jana Votavy (*1993), MÚ Chomutov (vydán 16. 3. 1993)",
         "Rodný list Františka Votavy (*2000), MÚ Chomutov (vydán 20. 6. 2000)",
         "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+      ],
+      scans: [
+        {"f":"img/1933_rodny_list_vaclav_votava_sous.jpg","t":"Rodný list Václava Votavy, Souš 4. 9. 1933"},
+        {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
+        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Oddací list Václava Votavy a Anny Červenkové, Kolín 11. 8. 1956"}
       ]
     },
     {
@@ -236,20 +256,31 @@ window.RODOKMEN = {
       maiden: "Červenková",
       line: "cervenka",
       cert: "D",
-      b: {"date":"27. 2. 1933","year":1933},
+      b: {"date":"27. 2. 1933","year":1933,"place":"Suchomasty č. p. 31, okr. Beroun"},
       d: {"date":"2. 11. 2016","year":2016},
       father: "karel1906",
       mother: "anna1913",
+      occ: "úřednice (1956)",
+      marriage: "11. 8. 1956, Kolín – s Václavem Votavou",
       notes: [
-        "V rodině „Hanka“. Rodné příjmení Červenková podle rodných listů vnuků.",
-        "Data narození a úmrtí podle rodinného kalendáře."
+        "V rodině „Hanka“. Pokřtěna 12. 3. 1933 v Borku u Suchomast; kmotra Anna Červenková z Berouna.",
+        "V roce 1956 bydlela v Suchomastech č. p. 70.",
+        "Datum úmrtí podle rodinného kalendáře."
       ],
       sources: [
+        "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)",
+        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
+        "Oddací list Václava Votavy a Anny Červenkové, MNV Kolín, sv. III, roč. 1956, str. 216, č. 122 (vydán 11. 8. 1956)",
         "Rodný list Martina Votavy, MěNV Vítkov, okr. Opava (vydán 23. 8. 1984)",
         "Rodný list Jiřího Votavy, MÚ Vítkov, kniha narození sv. 33/1, rok 1987, str. 144, poř. č. 46 (vydán 12. 4. 2018)",
         "Rodný list Jana Votavy (*1993), MÚ Chomutov (vydán 16. 3. 1993)",
         "Rodný list Františka Votavy (*2000), MÚ Chomutov (vydán 20. 6. 2000)",
         "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+      ],
+      scans: [
+        {"f":"img/1933_krestni_list_anna_cervenkova_suchomasty.jpg","t":"Křestní list Anny Červenkové, Suchomasty 27. 2. 1933"},
+        {"f":"img/1933_rodny_list_anna_cervenkova_suchomasty.jpg","t":"Rodný list Anny Červenkové (1933)"},
+        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Oddací list Václava Votavy a Anny Červenkové, Kolín 11. 8. 1956"}
       ]
     },
     {
@@ -298,7 +329,8 @@ window.RODOKMEN = {
         "Matka v kalendáři neuvedena."
       ],
       sources: [
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
       ]
     },
     {
@@ -346,23 +378,32 @@ window.RODOKMEN = {
         "Otec v kalendáři výslovně neuveden – nejspíš František Votický (?)."
       ],
       sources: [
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
       ]
     },
     {
       id: "vladik1942",
-      name: "Vladík Votava",
+      name: "Vladimír Votava",
       line: "votava",
-      cert: "R",
-      b: {"date":"4. 1. 1942","year":1942},
-      d: {"date":"7. 10. 1995","year":1995},
+      cert: "D",
+      b: {"date":"4. 1. 1942","year":1942,"place":"Kopisty č. p. 241 (Most)"},
+      d: {"date":"7. 10. 1995","year":1995,"place":"Most"},
+      cause: "chronický hnisavý zánět ledvin",
       father: "vaclav1899",
       mother: "jana1903",
+      occ: "invalidní důchodce",
       notes: [
-        "Bratr Václava Votavy (*1933). „Vladík“ je nejspíš domácká podoba jména Vladimír (?)."
+        "V rodině „Vladík“. Bratr Václava Votavy (*1933).",
+        "Svobodný, bydlel v Mostě; zpopelněn v Mostě."
       ],
       sources: [
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodný list Vladimíra Votavy (*1942), MNV Most (vydán 14. 5. 1957)",
+        "Úmrtní list Vladimíra Votavy, MěÚ Most (vydán 23. 10. 1995)"
+      ],
+      scans: [
+        {"f":"img/1942_rodny_list_vladimir_votava_kopisty.jpg","t":"Rodný list Vladimíra Votavy, Kopisty 4. 1. 1942"},
+        {"f":"img/1995_umrtni_list_vladimir_votava_most.jpg","t":"Úmrtní list Vladimíra Votavy, Most 7. 10. 1995"}
       ]
     },
     {
@@ -407,59 +448,125 @@ window.RODOKMEN = {
       id: "vaclav1899",
       name: "Václav Votava",
       line: "votava",
-      cert: "R",
-      b: {"date":"25. 10. 1899","year":1899},
+      cert: "D",
+      b: {"date":"25. 10. 1899","year":1899,"place":"Souš (Most)"},
       d: {"date":"11. 12. 1968","year":1968},
+      father: "vaclav1868",
+      mother: "barbora_l",
+      spouse: "jana1903",
+      occ: "horník",
       notes: [
-        "V kalendáři „Děda (Most)“ – děda Jana Votavy (*1957) z otcovy strany. Most je nejspíš místo, kde žil (?)."
+        "Narozen v Souši u Mostu (rodný list syna 1933, oddací list syna 1956).",
+        "Bydliště: Souš č. p. 50 (1933), Kopisty č. p. 241 (1942, 1956).",
+        "Křestní list si nechal vystavit 9. 9. 1924 – patrně kvůli sňatku s Janou Čapkovou; první syn Jiří se narodil v dubnu 1926 (dopis syna).",
+        "Domovské právo měl v Těchobuzi (okr. Pelhřimov) po otci; podle výměru z 8. 9. 1940 se stal občanem obce 7. 2. 1939. Výměr ho chránil před německými úřady jako Čecha (dopis syna).",
+        "Datum úmrtí podle rodinného kalendáře („Děda (Most)“)."
       ],
       sources: [
+        "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
+        "Oddací list Václava Votavy a Anny Červenkové, MNV Kolín, sv. III, roč. 1956, str. 216, č. 122 (vydán 11. 8. 1956)",
+        "Rodný list Vladimíra Votavy (*1942), MNV Most (vydán 14. 5. 1957)",
+        "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
         "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+      ],
+      scans: [
+        {"f":"img/1942_rodny_list_vladimir_votava_kopisty.jpg","t":"Rodný list syna Vladimíra (1942)"},
+        {"f":"img/1933_rodny_list_vaclav_votava_sous.jpg","t":"Rodný list syna Václava (1933)"},
+        {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
+        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Sňatek dětí Václava a Anny, Kolín 1956"},
+        {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"}
       ]
     },
     {
       id: "jana1903",
       name: "Jana Votavová",
-      line: "nezname",
-      cert: "R",
-      b: {"date":"16. 5. 1903","year":1903},
-      d: {"date":"29. 7. 1984","year":1984},
+      maiden: "Čapková",
+      line: "capek",
+      cert: "D",
+      b: {"date":"16. 5. 1903","year":1903,"place":"Mladá Boleslav"},
+      d: {"date":"29. 7. 1984","year":1984,"place":"Most"},
+      cause: "jaterní cirhóza",
+      father: "josef_c",
+      mother: "marie_f",
+      spouse: "vaclav1899",
+      occ: "dělnice (1956); důchodkyně (1984)",
       notes: [
-        "V kalendáři „Babička (Most)“ – matka Václava Votavy (*1933).",
-        "Rodné příjmení zatím neznámé.",
-        "V kalendáři je tištěné datum narození 19. 5. 1903 ručně opraveno na 16. 5. 1903."
+        "Rodiče Josef Čapek a Marie, roz. Fukalová / Tukalová – ROZPOR: rodný list syna (1956) „Fukalová“ (první písmeno přepsané na stroji), úmrtní list (1984) „Tukalová“.",
+        "Zemřela jako vdova v Mostě; zpopelněna 3. 8. 1984 v Mostě.",
+        "Datum narození 16. 5. 1903 potvrzují úřední doklady (v rodinném kalendáři opraveno z 19. 5.)."
       ],
       sources: [
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)",
+        "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
+        "Oddací list Václava Votavy a Anny Červenkové, MNV Kolín, sv. III, roč. 1956, str. 216, č. 122 (vydán 11. 8. 1956)",
+        "Rodný list Vladimíra Votavy (*1942), MNV Most (vydán 14. 5. 1957)"
+      ],
+      scans: [
+        {"f":"img/1942_rodny_list_vladimir_votava_kopisty.jpg","t":"Rodný list syna Vladimíra (1942)"},
+        {"f":"img/1933_rodny_list_vaclav_votava_sous.jpg","t":"Rodný list syna Václava (1933)"},
+        {"f":"img/1984_umrtni_list_jana_votavova_most.jpg","t":"Úmrtní list Jany Votavové, Most 29. 7. 1984"},
+        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Sňatek dětí Václava a Anny, Kolín 1956"}
       ]
     },
     {
       id: "karel1906",
       name: "Karel Červenka",
       line: "cervenka",
-      cert: "R",
-      b: {"date":"29. 4. 1906","year":1906},
+      cert: "D",
+      b: {"date":"29. 4. 1906","year":1906,"place":"Beroun III č. p. 229 (Lištice)"},
       d: {"date":"8. 9. 1984","year":1984},
+      father: "vaclav_c",
+      mother: "anna_vl",
+      spouse: "anna1913",
+      occ: "dělník",
+      marriage: "7. 1. 1933, Borek u Suchomast (kostel sv. Mikuláše) – s Annou Klikovou",
       notes: [
-        "V kalendáři „Děda (Suchomasty)“ – otec Anny Votavové (*1933)."
+        "V kalendáři „Děda (Suchomasty)“. V roce 1933 bydlel v Berouně III č. p. 229.",
+        "Datum úmrtí podle rodinného kalendáře."
       ],
       sources: [
+        "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
+        "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)",
+        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
+        "Oddací list Václava Votavy a Anny Červenkové, MNV Kolín, sv. III, roč. 1956, str. 216, č. 122 (vydán 11. 8. 1956)",
         "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+      ],
+      scans: [
+        {"f":"img/1933_oddaci_list_cervenka_klikova_borek.jpg","t":"Oddací list Karla Červenky a Anny Klikové, Borek 7. 1. 1933"},
+        {"f":"img/1933_krestni_list_anna_cervenkova_suchomasty.jpg","t":"Křest dcery Anny, Suchomasty 1933"},
+        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Sňatek dětí Václava a Anny, Kolín 1956"}
       ]
     },
     {
       id: "anna1913",
       name: "Anna Červenková",
-      line: "nezname",
-      cert: "R",
-      b: {"date":"3. 4. 1913","year":1913},
+      maiden: "Kliková",
+      line: "klika",
+      cert: "D",
+      b: {"date":"3. 4. 1913","year":1913,"place":"Suchomasty č. p. 14, okr. Beroun"},
       d: {"date":"25. 5. 1983","year":1983},
+      father: "karel_k",
+      mother: "ruzena_v",
+      spouse: "karel1906",
+      occ: "v domácnosti (1956)",
+      marriage: "7. 1. 1933, Borek u Suchomast (kostel sv. Mikuláše) – s Karlem Červenkou",
       notes: [
-        "V kalendáři „Babička (Suchomasty)“ – matka Anny Votavové (*1933).",
-        "Rodné příjmení zatím neznámé."
+        "Pokřtěna 6. 4. 1913 v Borku; kmotra Anna Prejsková (?) ze Suchomast.",
+        "V kalendáři „Babička (Suchomasty)“; datum úmrtí podle kalendáře.",
+        "Příjmení v oddacím a křestním listu ručně „Klihová“ (?), strojem v rodném listu dcery a v oddacím listu 1956 „Kliková“."
       ],
       sources: [
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
+        "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
+        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
+        "Oddací list Václava Votavy a Anny Červenkové, MNV Kolín, sv. III, roč. 1956, str. 216, č. 122 (vydán 11. 8. 1956)",
         "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+      ],
+      scans: [
+        {"f":"img/1933_oddaci_list_cervenka_klikova_borek.jpg","t":"Oddací list Karla Červenky a Anny Klikové, Borek 7. 1. 1933"},
+        {"f":"img/1933_krestni_list_anna_cervenkova_suchomasty.jpg","t":"Křest dcery Anny, Suchomasty 1933"},
+        {"f":"img/1913_krestni_list_anna_klikova_suchomasty.jpg","t":"Křestní list Anny Klikové, Suchomasty 3. 4. 1913"},
+        {"f":"img/1956_oddaci_list_votava_cervenkova_kolin.jpg","t":"Sňatek dětí Václava a Anny, Kolín 1956"}
       ]
     },
     {
@@ -519,28 +626,400 @@ window.RODOKMEN = {
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)"
       ]
+    },
+    {
+      id: "vaclav1868",
+      name: "Václav Votava",
+      line: "votava",
+      cert: "D",
+      b: {"date":"25. 8. 1868","year":1868,"place":"Pravonín"},
+      father: "stepan_v",
+      mother: "antonie_m",
+      spouse: "barbora_l",
+      notes: [
+        "Narození a rodiče podle křestního listu syna (1924) a výměru o domovském právu (1940), citovaných v dopise vnuka Václava (*1933). Domovská obec Těchobuz, okr. Pelhřimov.",
+        "Podle rodinné tradice přišel do Mostu asi ve 4 letech (kolem 1872), kdy se na Mostecku otvíraly šachty.",
+        "Děti podle rodinného rodokmenu: Václav (*1899), Eda, Josef, Zdeňka, Anna.",
+        "KANDIDÁT: v Těchobuzi č. p. 76 žil roku 1951 František Votava (kronika obce) – příbuzenství neověřeno."
+      ],
+      sources: [
+        "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
+        "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)",
+        "Kronika obce Těchobuz, kap. Zemědělské družstvo v Těchobuzi, s. 149 (kopie u rodiny)"
+      ],
+      scans: [
+        {"f":"img/1951_kronika_techobuz_frantisek_votava.jpg","t":"Kronika Těchobuze 1951 – František Votava č. p. 76"},
+        {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
+        {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"}
+      ]
+    },
+    {
+      id: "barbora_l",
+      name: "Barbora Votavová",
+      maiden: "Lodlová",
+      line: "lodl",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1872)","year":1872,"approx":true},
+      spouse: "vaclav1868",
+      notes: [
+        "Matka Václava Votavy (*1899) podle rodného listu vnuka Václava (1933)."
+      ],
+      sources: [
+        "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)"
+      ]
+    },
+    {
+      id: "stepan_v",
+      name: "Štěpán Votava",
+      line: "votava",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
+      spouse: "antonie_m",
+      notes: [
+        "Otec Václava Votavy (*1868), Těchobuz č. p. 19, okr. Pelhřimov – podle křestního listu vnuka (1924), citováno v dopise pravnuka.",
+        "Podle rodinného rodokmenu měl nejméně dva další syny; syn jednoho z nich byl major armády USA, který v roce 1945 navštívil Václava Votavu (*1899) v Mostě."
+      ],
+      sources: [
+        "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
+      ],
+      scans: [
+        {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
+        {"f":"img/rodokmen_kresba_votava.jpg","t":"Ručně kreslený rodokmen Votavů"}
+      ]
+    },
+    {
+      id: "antonie_m",
+      name: "Antonie Votavová",
+      maiden: "Michalová",
+      line: "michal",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      spouse: "stepan_v",
+      notes: [
+        "Matka Václava Votavy (*1868), z Těchobuze č. p. 19."
+      ],
+      sources: [
+        "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940"
+      ]
+    },
+    {
+      id: "josef_c",
+      name: "Josef Čapek",
+      line: "capek",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1875)","year":1875,"approx":true},
+      spouse: "marie_f",
+      notes: [
+        "Otec Jany Votavové (*1903 Mladá Boleslav)."
+      ],
+      sources: [
+        "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
+        "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)"
+      ]
+    },
+    {
+      id: "marie_f",
+      name: "Marie Čapková",
+      maiden: "Fukalová / Tukalová",
+      line: "fukal",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1878)","year":1878,"approx":true},
+      spouse: "josef_c",
+      notes: [
+        "Matka Jany Votavové (*1903).",
+        "ROZPOR v rodném příjmení: „Fukalová“ (rodný list vnuka 1956, první písmeno přepsané) × „Tukalová“ (úmrtní list dcery 1984)."
+      ],
+      sources: [
+        "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
+        "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)"
+      ]
+    },
+    {
+      id: "vaclav_c",
+      name: "Václav Červenka",
+      line: "cervenka",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1875)","year":1875,"approx":true},
+      spouse: "anna_vl",
+      occ: "rolník v Berouně III na Lištici",
+      notes: [
+        "Otec Karla Červenky (*1906)."
+      ],
+      sources: [
+        "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
+        "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)",
+        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2"
+      ]
+    },
+    {
+      id: "anna_vl",
+      name: "Anna Červenková",
+      maiden: "Vlasáková",
+      line: "vlasak",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1878)","year":1878,"approx":true},
+      spouse: "vaclav_c",
+      notes: [
+        "Matka Karla Červenky (*1906), původem ze Sýkořice č. p. 14."
+      ],
+      sources: [
+        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
+        "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
+        "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)"
+      ]
+    },
+    {
+      id: "karel_k",
+      name: "Karel Klika",
+      line: "klika",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1885)","year":1885,"approx":true,"place":"Býkoš"},
+      father: "josef_k",
+      mother: "marie_s",
+      spouse: "ruzena_v",
+      occ: "dělník v Suchomastech č. p. 14",
+      notes: [
+        "Otec Anny Klikové (*1913); narozen v Býkoši. Svědek na sňatku dcery 1933 (Karel Klika, dělník v Suchomastech)."
+      ],
+      sources: [
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
+        "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
+        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2"
+      ],
+      scans: [
+        {"f":"img/1913_krestni_list_anna_klikova_suchomasty.jpg","t":"Křest dcery Anny, Suchomasty 1913"}
+      ]
+    },
+    {
+      id: "ruzena_v",
+      name: "Růžena Kliková",
+      maiden: "Valentová",
+      line: "valenta",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1890)","year":1890,"approx":true,"place":"Čepirohy (Tschöppern), okr. Most"},
+      mother: "anna_va",
+      spouse: "karel_k",
+      notes: [
+        "Matka Anny Klikové (*1913), z Tschöppern (Čepirohy) č. p. 20, okr. Most.",
+        "V křestním listu dcery uvedena jen matka Anna, dcera Vitála Valenty – otec neuveden, patrně nemanželská (?)."
+      ],
+      sources: [
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
+        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
+        "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)"
+      ],
+      scans: [
+        {"f":"img/1913_krestni_list_anna_klikova_suchomasty.jpg","t":"Křest dcery Anny, Suchomasty 1913"}
+      ]
+    },
+    {
+      id: "josef_k",
+      name: "Josef Klika",
+      line: "klika",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1855)","year":1855,"approx":true},
+      spouse: "marie_s",
+      occ: "dělník v Býkoši č. p. 38",
+      notes: [
+        "Otec Karla Kliky."
+      ],
+      sources: [
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)"
+      ]
+    },
+    {
+      id: "marie_s",
+      name: "Marie Kliková",
+      maiden: "Svobodová",
+      line: "svoboda",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1858)","year":1858,"approx":true},
+      spouse: "josef_k",
+      notes: [
+        "Matka Karla Kliky."
+      ],
+      sources: [
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)"
+      ]
+    },
+    {
+      id: "anna_va",
+      name: "Anna Valentová",
+      line: "valenta",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1868)","year":1868,"approx":true},
+      father: "vital_v",
+      notes: [
+        "Matka Růženy Valentové; dcera Vitála Valenty z Tschöppern (Čepirohy) č. p. 20."
+      ],
+      sources: [
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)"
+      ]
+    },
+    {
+      id: "vital_v",
+      name: "Vitál Valenta",
+      line: "valenta",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
+      occ: "dělník v Tschöppern (Čepirohy) č. p. 20, okr. Most",
+      notes: [
+        "Děd Růženy Valentové z matčiny strany."
+      ],
+      sources: [
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)"
+      ]
+    },
+    {
+      id: "eda_v",
+      name: "Eda Votava",
+      line: "votava",
+      cert: "R",
+      b: {"date":"neznámé (odhad ~1903)","year":1903,"approx":true},
+      father: "vaclav1868",
+      mother: "barbora_l",
+      notes: [
+        "Sourozenec Václava Votavy (*1899) podle rodinného rodokmenu; data a pořadí neznámé."
+      ],
+      sources: [
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
+      ]
+    },
+    {
+      id: "josef_v",
+      name: "Josef Votava",
+      line: "votava",
+      cert: "R",
+      b: {"date":"neznámé (odhad ~1903)","year":1903,"approx":true},
+      father: "vaclav1868",
+      mother: "barbora_l",
+      notes: [
+        "Sourozenec Václava Votavy (*1899) podle rodinného rodokmenu; data a pořadí neznámé."
+      ],
+      sources: [
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
+      ]
+    },
+    {
+      id: "zdenka_v",
+      name: "Zdeňka Votavová",
+      line: "votava",
+      cert: "R",
+      b: {"date":"neznámé (odhad ~1903)","year":1903,"approx":true},
+      father: "vaclav1868",
+      mother: "barbora_l",
+      notes: [
+        "Sourozenec Václava Votavy (*1899) podle rodinného rodokmenu; data a pořadí neznámé."
+      ],
+      sources: [
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
+      ]
+    },
+    {
+      id: "anna_v",
+      name: "Anna Votavová",
+      line: "votava",
+      cert: "R",
+      b: {"date":"neznámé (odhad ~1903)","year":1903,"approx":true},
+      father: "vaclav1868",
+      mother: "barbora_l",
+      notes: [
+        "Sourozenec Václava Votavy (*1899) podle rodinného rodokmenu; data a pořadí neznámé."
+      ],
+      sources: [
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
+      ]
+    },
+    {
+      id: "anicka1984",
+      name: "Anna Hromasová",
+      line: "hromas",
+      cert: "R",
+      b: {"date":"3. 1. 1984","year":1984},
+      mother: "jana1958",
+      alive: true,
+      notes: [
+        "Dcera Jany Hromasové, roz. Votavové (rodinný rodokmen); v kalendáři „Anička Hromasová“."
+      ],
+      sources: [
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)",
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+      ]
+    },
+    {
+      id: "jan_jv",
+      name: "Jan Votava",
+      line: "votava",
+      cert: "R",
+      b: {"date":"neznámé (odhad ~1958)","year":1958,"approx":true},
+      father: "jiri1926",
+      notes: [
+        "Syn Jiřího Votavy (*1926) podle rodinného rodokmenu; data neznámá."
+      ],
+      sources: [
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
+      ]
+    },
+    {
+      id: "lenka_v",
+      name: "Lenka (Votická?)",
+      line: "voticky",
+      cert: "R",
+      b: {"date":"neznámé (odhad ~1980)","year":1980,"approx":true},
+      father: "ivo1955",
+      alive: true,
+      notes: [
+        "Dcera Iva Votického (*1955) podle rodinného rodokmenu; příjmení a data neznámá."
+      ],
+      sources: [
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
+      ]
+    },
+    {
+      id: "jana_v",
+      name: "Jana (Votická?)",
+      line: "voticky",
+      cert: "R",
+      b: {"date":"neznámé (odhad ~1980)","year":1980,"approx":true},
+      father: "ivo1955",
+      alive: true,
+      notes: [
+        "Dcera Iva Votického (*1955) podle rodinného rodokmenu; příjmení a data neznámá."
+      ],
+      sources: [
+        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
+      ]
     }
   ]
 };
 
 // ── Origin map and historical context ─────────────────────────────
 window.RODOKMEN.places = [
-  {"name":"Most","lat":50.503,"lon":13.636,"line":"votava","note":"Václav a Jana Votavovi („děda a babička z Mostu“)"},
   {"name":"Suchomasty","lat":49.896,"lon":14.058,"line":"cervenka","note":"Karel a Anna Červenkovi („děda a babička ze Suchomast“)","anchor":"start"},
-  {"name":"Karviná","lat":49.856,"lon":18.55,"line":"zettelmann","note":"Zettelmannovi (bydliště 1963)"}
+  {"name":"Karviná","lat":49.856,"lon":18.55,"line":"zettelmann","note":"Zettelmannovi (bydliště 1963)"},
+  {"name":"Těchobuz","lat":49.495,"lon":14.975,"line":"votava","note":"domovská obec Votavů (Štěpán Votava, č. p. 19)","anchor":"start"}
 ];
 window.RODOKMEN.story = [
-  {"line":"votava","title":"Votavovi","text":["Nejstarší známý Votava je Václav (*1899), kterému rodina říkala „děda z Mostu“. S Janou měl nejméně čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladíka (*1942).","Václav (*1933) si vzal Annu Červenkovou ze Suchomast. Jejich syn Jan se narodil roku 1957 v Berouně."]},
-  {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek"],"title":"Zettelmannovi a Hrazdílkovi","text":["František Zettelmann se narodil roku 1940 v Polouvsí na Novojičínsku, Helena Hrazdílková téhož roku v Heršpicích u Vyškova. V roce 1963 žili v Karviné, kde se jim narodila dcera Šárka."]}
+  {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Českomoravské vrchoviny. Štěpán Votava a Antonie, roz. Michalová, žili v Těchobuzi č. p. 19 na Pelhřimovsku a jejich syn Václav se narodil roku 1868 v Pravoníně.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty. Jeho syn Václav (*1899) se narodil v Souši u Mostu a byl horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho německé úřady v zabraném pohraničí považovaly za Čecha.","S Janou Čapkovou z Mladé Boleslavi měl Václav (*1899) čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."]},
+  {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek"],"title":"Zettelmannovi a Hrazdílkovi","text":["František Zettelmann se narodil roku 1940 v Polouvsí na Novojičínsku, Helena Hrazdílková téhož roku v Heršpicích u Vyškova. V roce 1963 žili v Karviné, kde se jim narodila dcera Šárka."]},
+  {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda"],"title":"Červenkovi a Klikovi","text":["Karel Červenka se narodil roku 1906 v Berouně na Lištici jako syn rolníka Václava Červenky a Anny, roz. Vlasákové ze Sýkořice. V lednu 1933 se v kostele sv. Mikuláše v Borku u Suchomast oženil s Annou Klikovou ze Suchomast.","Anna Kliková (*1913) byla dcerou dělníka Karla Kliky z Býkoše a Růženy Valentové z Čepiroh (Tschöppern) u Mostu – i tato větev tedy vede na Mostecko."]}
 ];
 window.RODOKMEN.timeline = [
   {"y":1940,"t":"František Zettelmann se rodí v Polouvsí, Helena Hrazdílková v Heršpicích"},
-  {"y":1963,"t":"Zettelmannovi žijí v Karviné-Ráji, narodila se dcera Šárka"}
+  {"y":1963,"t":"Zettelmannovi žijí v Karviné-Ráji, narodila se dcera Šárka"},
+  {"y":1868,"t":"Václav Votava se rodí v Pravoníně"},
+  {"y":1899,"t":"Václav Votava se rodí v Souši u Mostu"},
+  {"y":1933,"t":"Sňatek Karla Červenky a Anny Klikové v Borku u Suchomast (7. 1.)"},
+  {"y":1956,"t":"Sňatek Václava Votavy a Anny Červenkové v Kolíně (11. 8.)"}
 ];
 
 // Documented migrations; kind: "doc" = documented, "rail" = probable route by train, "hyp" = hypothesis
 window.RODOKMEN.moves = [
-  {"who":"František Zettelmann","when":"do 1963","line":"zettelmann","kind":"doc","path":[[49.6,17.96],[49.856,18.55]],"note":"z Polouvsí do Karviné (bydliště podle rodného listu dcery)"}
+  {"who":"František Zettelmann","when":"do 1963","line":"zettelmann","kind":"doc","path":[[49.6,17.96],[49.856,18.55]],"note":"z Polouvsí do Karviné (bydliště podle rodného listu dcery)"},
+  {"who":"Václav Votava (*1868)","when":"kolem 1872","line":"votava","kind":"hyp","path":[[49.635,14.945],[50.087,14.421],[50.503,13.636]],"note":"z Pravonína na Mostecko, kde se otvíraly šachty (rodinná tradice)"},
+  {"who":"Jana Čapková","when":"do 1926","line":"capek","kind":"doc","path":[[50.411,14.906],[50.52,13.68]],"note":"z Mladé Boleslavi do Souše u Mostu (sňatek s Václavem Votavou)"}
 ];
 
 // Historical events for the context column right of the year ruler; y2 = end year of a period (drawn as a band), major = shown even when zoomed out
@@ -555,5 +1034,7 @@ window.RODOKMEN.events = [
   {"y":1968,"t":"Pražské jaro a okupace","s":"srpen 1968"},
   {"y":1989,"t":"Sametová revoluce","s":"listopad 1989","major":true},
   {"y":1993,"t":"Vznik České republiky","s":"vznik ČR"},
-  {"y":2004,"t":"Vstup do Evropské unie","s":"vstup do EU"}
+  {"y":2004,"t":"Vstup do Evropské unie","s":"vstup do EU"},
+  {"y":1848,"t":"Zrušení roboty","s":"konec roboty"},
+  {"y":1872,"t":"Rozmach těžby hnědého uhlí na Mostecku","s":"uhlí na Mostecku"}
 ];

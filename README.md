@@ -1,4 +1,4 @@
-# Rodokmen Jiřího Votavy – web
+# Rodokmen JV – web
 
 Statický web (GitHub Pages) bez build závislostí: `template.html` + `geo.js` + `gazetteer.js` + veřejná verze `data.js` → `index.html`.
 
