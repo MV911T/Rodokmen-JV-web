@@ -2583,8 +2583,9 @@ window.RODOKMEN = {
         "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Tück (?) / Türck (?)“ (dřívější čtení „Brück“ neplatí – stejné T jako v „Trgěk“; věk nevyplněn, rodiče neuvedeni); svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
         "Otec Pavla Lodla (*1811); švec v č. 84 (1811), později mistr ševcovský v č. 75.",
         "Podruhé oddán 9. 9. 1814 v Oseku (č. 84) jako švec, 36 let, vdovec, s Annou (35), vdovou po † Prokopu Laukotovi, pastýři, dcerou Šimona Holuby z Oseka č. 83 – babičkou budoucí snachy Anny Laukotové.",
-        "Zemřel 22. 6. 1840 (pohřben 24. 6.) v Oseku jako „bývalý mistr ševcovský“, uvedeno 71 let (ROZPOR: podle 2. sňatku 1814 *~1778, podle úmrtí ~1769); další slova zápisu („nayde-ný (?) woyáku (?) z Ga-nowin (?) … pluku pěšího (?)“) zatím nečitelná – možná zmínka o vojenské službě nebo původu.",
-        "S Annou Holubovou dcera Anna (20. 7. 1815, Osek č. 84)."
+        "Zemřel 22. 6. 1840 (pohřben 24. 6.) v Oseku jako „bývalý mistr ševcovský“, uvedeno 71 let, na zimnici a souchotiny (?). ROZPOR věku: podle 2. sňatku 1814 *~1778, podle úmrtí ~1769. Další řádky zápisu („… b. vojáku … invalid (?) … pluk Plzeňského kraje“) naznačují, že byl vysloužilý voják / invalida, snad zemské obrany Plzeňského kraje – čtení nejisté; to by vysvětlovalo jeho příchod „odjinud“ (1804).",
+        "S Annou Holubovou dcera Anna (20. 7. 1815, Osek č. 84).",
+        "KANDIDÁT příbuzného: Josef Lodl, podruh ve Volduchách č. 28 (syn Matěj *7. 1. 1821, manželka Marie Herglová (?)) – možná bratr nebo synovec. Děti Martina s Annou Holubovou po 1815 v Oseku nenalezeny."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
