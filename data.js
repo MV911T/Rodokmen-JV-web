@@ -6465,7 +6465,8 @@ window.RODOKMEN = {
       occ: "čtvrtník v Hodějicích",
       notes: [
         "Otec Jiřího Hrabovského (sňatek 1806).",
-        "Manželka Kateřina; děti v Hodějicích 1779–1793 (Marianna ?, Kateřina 1782, Vavřinec 1790, Vincenc 1792 …). Křest Jiřího (*~1785) v indexu 1784–1794 chybí."
+        "Manželka Kateřina; děti v Hodějicích 1779–1793 (Marianna ?, Kateřina 1782, Vavřinec 1790, Vincenc 1792 …). Křest Jiřího (*~1785) v indexu 1784–1794 chybí.",
+        "Syn Pavel *6. 6. 1788 v Hodějicích č. 50 („Paul Hrabowsky, Viertler – Katharina“; N 13122, str. 74). Index narozených u Hodějic je neúplný."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
@@ -6499,6 +6500,7 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"asi 1798","year":1798,"approx":true,"place":"Křenovice č. p. 35"},
+      father: "matej_spa",
       spouse: "valentin_ma",
       marriage: "6. 7. 1819, Křenovice – s Valentinem Maláčem",
       notes: [
@@ -6585,6 +6587,26 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest Marie Jonášové, Zbečno 26. 4. 1773"}
+      ]
+    },
+    {
+      id: "matej_spa",
+      name: "Matěj Spačil",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"asi 1759","year":1759,"approx":true},
+      d: {"date":"29. 6. 1813","year":1813,"place":"Křenovice č. p. 35"},
+      cause: "tyfus („Nervenfieber“)",
+      occ: "třičtvrtník v Křenovicích č. 35",
+      notes: [
+        "Otec Anny Maláčové (sňatek 1819: „Tochter nach Mathias Spačil“, č. 35). Zemřel 29. 6. 1813 (pohřben 1. 7.) v Křenovicích č. 35, 54 let, na tyfus; 19. 7. 1813 mu zemřel dvanáctidenní syn Vavřinec.",
+        "KANDIDÁT manželky: Johanna Lebnerová (?) (křest dcery Anny 25. 7. 1799)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, Z, sign. 13149, oddíl Křenovice, str. 145, snímek 126 – https://www.mza.cz/actapublica/matrika/detail/1964"
+      ],
+      scans: [
+        {"f":"img/1813_Z_13149_sn126R_str145_Krenovice35_Spacil_Matej_umrti_plne_rozl.jpg","t":"Úmrtí Matěje Spačila, Křenovice 29. 6. 1813"}
       ]
     }
   ]
