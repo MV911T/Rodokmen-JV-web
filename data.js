@@ -5234,16 +5234,18 @@ window.RODOKMEN = {
     },
     {
       id: "jan_vl",
-      name: "Jan Vlasák",
+      name: "Jan Nepomuk Vlasák",
       line: "vlasak",
       cert: "M",
-      b: {"date":"asi 1808","year":1808,"approx":true},
+      b: {"date":"8. 2. 1807","year":1807,"place":"Sýkořice č. p. 6 (fara Zbečno)"},
       father: "jan_vl0",
       mother: "marie_ja",
       spouse: "marie_no",
       occ: "mlynář v Sýkořicích č. 41",
       marriage: "22. 10. 1833, Nová Huť (fara Nižbor) – s Marií Novákovou",
       notes: [
+        "Pokřtěn 8. 2. 1807 v Sýkořicích č. 6 jako Jan Nepomuk: otec Jan Vlasák, podruh, poddaný křivoklátský, matka Marie, dcera † Matěje Jonáše, ševce ze Sýkořic č. 6; kmotři Jan Lejn (?), chalupník ze Sýkořic, a Jan Fyšta (?), chalupník ze Zbečna.",
+        "Sourozenci (Sýkořice č. 6): Kateřina (1795), Anna (1798), Jan (1800 † 1805), František (1803 † 1803), František (1804 † 1805), Anna (1811, Zbečno č. 20).",
         "Děd Anny Červenkové.",
         "V lednu 1838 mlynářský tovaryš ve Zbečně č. 58 (křest syna Františka); syn Jana Vlasáka, nádeníka ve Zbečně č. 8.",
         "Oddán 22. 10. 1833 (fara Nižbor) jako mlynářský tovaryš ve Zbečně č. 36, 25 let, svobodný; syn Jana Vlasáka, domkáře z Hudlic (?), a Marie roz. Jarošové (?) z …brnice (?) č. 6."
@@ -5251,10 +5253,12 @@ window.RODOKMEN = {
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
-        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 07 (N Sýkořice 1784–1843), pag. 49, snímek 27 – https://ebadatelna.soapraha.cz/d/8852/27"
       ],
       scans: [
-        {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"}
+        {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
+        {"f":"img/1807_krest_jan_nepomuk_vlasak_sykorice6_zbecno07_sn27_a.jpg","t":"Křest Jana Nepomuka Vlasáka, Sýkořice 8. 2. 1807"}
       ]
     },
     {
@@ -6335,7 +6339,8 @@ window.RODOKMEN = {
       sources: [
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 79, snímek 42 – https://ebadatelna.soapraha.cz/d/8855/42",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 07 (N Sýkořice 1784–1843), pag. 49, snímek 27 – https://ebadatelna.soapraha.cz/d/8852/27"
       ],
       scans: [
         {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
@@ -6383,17 +6388,19 @@ window.RODOKMEN = {
       name: "Matěj Jonáš",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
-      d: {"date":"mezi 1795 a 1811","year":1811,"approx":true},
+      b: {"date":"asi 1730","year":1730,"approx":true},
+      d: {"date":"26. 8. 1800","year":1800,"place":"Sýkořice č. p. 6"},
+      cause: "stáří",
       occ: "švec v Sýkořicích č. 6",
       notes: [
-        "Otec Marie Vlasákové (sňatek 1795)."
+        "Otec Marie Vlasákové (sňatek 1795) a Františka († 14. 2. 1809, 18 let). Zemřel 26. 8. 1800 v Sýkořicích č. 6 jako švec, 70 let, stářím."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 23 (Z Sýkořice 1784–1887), pag. 16, snímek 11 – https://ebadatelna.soapraha.cz/d/8868/11"
       ],
       scans: [
-        {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"}
+        {"f":"img/1800_umrti_matej_jonas_sykorice6_zbecno23_sn11.jpg","t":"Úmrtí Matěje Jonáše, Sýkořice 26. 8. 1800"}
       ]
     }
   ]
