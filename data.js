@@ -2708,7 +2708,9 @@ window.RODOKMEN = {
       occ: "domkář, obecní sluha (?) v Oseku č. 10",
       notes: [
         "Otec Anny Forejtové; dal souhlas k jejímu sňatku 1846.",
-        "Křest dcery Anny (26. 8. 1822, podle oddacího zápisu 1846 „von Zer-/howitz“) nenalezen v Oseku 1822 (celý srpen), Cerhovicích, Hlohovicích, Hlohovičkách, Drahoňově Újezdě ani v obcích fary Mýto (Cheznovice, Svojkovice, Těškov, Cekov, Kařez)."
+        "Křest dcery Anny (26. 8. 1822, podle oddacího zápisu 1846 „von Zer-/howitz“) nenalezen v Oseku 1822 (celý srpen), Cerhovicích, Hlohovicích, Hlohovičkách, Drahoňově Újezdě ani v obcích fary Mýto (Cheznovice, Svojkovice, Těškov, Cekov, Kařez).",
+        "Sňatek Jana Laukoty s Magdalenou nenalezen: Osek 1815–XI 1822 (všechny tři oddíly), Drahoňův Újezd XI 1819–X 1822.",
+        "KANDIDÁT původu: rodina Laukotů doložena v Terešově (fara Drahoňův Újezd, panství Zbiroh) – sňatky Anny Laukotové 1811 a Kateřiny 1816; ve Vitince 1758 Jakub Laukota."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
@@ -2725,7 +2727,7 @@ window.RODOKMEN = {
       spouse: "jan_la",
       notes: [
         "Matka Anny Forejtové; čtení příjmení nejisté.",
-        "KANDIDÁT: v roce 1822 je v matrice narozených fary Osek jako porodní bába uvedena „Magdalena Laukotová (?)“ – možná tatáž osoba (neověřeno v plném rozlišení)."
+        "Porodní bábou v Oseku byla 18. 8. 1822 „Magdal. Laukotowa“ (Osek 09, str. 64) – osm dní před narozením Anny; spíš jiná Magdalena Laukotová (neověřeno)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
