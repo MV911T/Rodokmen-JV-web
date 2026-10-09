@@ -40,6 +40,15 @@ window.RODOKMEN_GAZ = [
   { n: 'Chomutov', a: ['Chomutov'], lat: 50.46, lon: 13.418 },
   { n: 'Jirkov', a: ['Jirkov'], lat: 50.5, lon: 13.448 },
   { n: 'Karviná', a: ['Karviná'], lat: 49.856, lon: 18.55 },
+  // Oderské vrchy / Beskydy – Zettelmann, Blažek, Černoch (approximate)
+  { n: 'Veřovice', a: ['Veřovic'], lat: 49.536, lon: 18.115 },
+  { n: 'Dobešov', a: ['Dobešov'], lat: 49.69, lon: 17.65 },
+  { n: 'Budišov nad Budisovkou', a: ['Budišov'], lat: 49.795, lon: 17.63 },
+  { n: 'Loučky', a: ['Loučky'], lat: 49.68, lon: 17.7 },
+  { n: 'Jeseník nad Odrou', a: ['Jeseník nad Odrou'], lat: 49.61, lon: 17.95 },
+  { n: 'Dyjákovice', a: ['Dyjákovic'], lat: 48.77, lon: 16.31 },
+  { n: 'Leonberg', a: ['Leonberg'], lat: 48.8, lon: 9.01, off: true },
+  { n: 'Seymour (Texas)', a: ['Texas'], lat: 33.59, lon: -99.26, off: true },
   // Polouvsí = part of Bernartice nad Odrou, okr. Nový Jičín (position ±3 km, to be verified)
   { n: 'Polouvsí', a: ['Polouvsí'], lat: 49.6, lon: 17.96 },
   { n: 'Heršpice', a: ['Heršpice'], lat: 49.118, lon: 16.914 }

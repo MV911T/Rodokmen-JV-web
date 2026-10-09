@@ -47,7 +47,10 @@ window.RODOKMEN = {
     "mrkva": "Mrkva (?)",
     "kriz": "Kříž (?)",
     "vrzal": "Vrzal (?)",
-    "lhotka": "Lhotka (?)"
+    "lhotka": "Lhotka (?)",
+    "cernoch": "Černoch",
+    "grozman": "Grozman",
+    "koc": "Koč"
   },
   people: [
     {
@@ -129,17 +132,18 @@ window.RODOKMEN = {
       spouse: "sarka1963",
       alive: true,
       occ: "student (1984); soukromý podnikatel (1993); Ing., podnikatel (2000)",
+      marriage: "14. 4. 1984, Vítkov – se Šárkou Zettelmannovou",
       notes: [
         "Rodiče Václav Votava a Anna, roz. Červenková – podle rodných listů synů.",
-        "Bydliště podle rodných listů synů: Vítkov, okr. Opava (1984, 1987), Jirkov, okr. Chomutov (1993, 2000).",
-        "Datum a místo sňatku se Šárkou Zettelmannovou zatím nezjištěno."
+        "Bydliště podle rodných listů synů: Vítkov, okr. Opava (1984, 1987), Jirkov, okr. Chomutov (1993, 2000)."
       ],
       sources: [
         "Rodný list Martina Votavy, MěNV Vítkov, okr. Opava (vydán 23. 8. 1984)",
         "Rodný list Jiřího Votavy, MÚ Vítkov, kniha narození sv. 33/1, rok 1987, str. 144, poř. č. 46 (vydán 12. 4. 2018)",
         "Rodný list Jana Votavy (*1993), MÚ Chomutov (vydán 16. 3. 1993)",
         "Rodný list Františka Votavy (*2000), MÚ Chomutov (vydán 20. 6. 2000)",
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
       ]
     },
     {
@@ -154,6 +158,7 @@ window.RODOKMEN = {
       spouse: "jan1957",
       alive: true,
       occ: "cenzurantka (1984); účetní (1993); referentka (2000)",
+      marriage: "14. 4. 1984, Vítkov – s Janem Votavou",
       notes: [
         "V roce 1963 bydleli rodiče v Karviné 4 – Ráj."
       ],
@@ -162,7 +167,8 @@ window.RODOKMEN = {
         "Rodný list Martina Votavy, MěNV Vítkov, okr. Opava (vydán 23. 8. 1984)",
         "Rodný list Jiřího Votavy, MÚ Vítkov, kniha narození sv. 33/1, rok 1987, str. 144, poř. č. 46 (vydán 12. 4. 2018)",
         "Rodný list Jana Votavy (*1993), MÚ Chomutov (vydán 16. 3. 1993)",
-        "Rodný list Františka Votavy (*2000), MÚ Chomutov (vydán 20. 6. 2000)"
+        "Rodný list Františka Votavy (*2000), MÚ Chomutov (vydán 20. 6. 2000)",
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
       ]
     },
     {
@@ -456,18 +462,21 @@ window.RODOKMEN = {
       line: "zettelmann",
       cert: "D",
       b: {"date":"26. 11. 1940","year":1940,"place":"Polouvsí, okr. Nový Jičín"},
-      d: {"date":"8. 4. 1999","year":1999},
+      d: {"date":"8. 4. 1999","year":1999,"place":"Vítkov"},
       father: "frantisek_z",
       mother: "ludmila_b",
       occ: "řidič (1963)",
+      marriage: "31. 12. 1961, Dyjákovice – s Helenou Hrazdílkovou",
       notes: [
         "Datum úmrtí podle rodinného kalendáře.",
-        "Na rodném listu vnuka Jana (1993) zapsán jako „František Zettelmann roz. Zetelmann“ – příjmení se mohlo psát i s jedním t."
+        "Na rodném listu vnuka Jana (1993) zapsán jako „František Zettelmann roz. Zetelmann“ – příjmení se mohlo psát i s jedním t.",
+        "Pohřben v Hrušovanech u Brna (Orsak)."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
         "Rodný list Jana Votavy (*1993), MÚ Chomutov (vydán 16. 3. 1993)",
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
       ]
     },
     {
@@ -480,12 +489,14 @@ window.RODOKMEN = {
       father: "vladimir_h",
       mother: "marie_j",
       occ: "zdravotní sestra (1963)",
+      marriage: "31. 12. 1961, Dyjákovice – s Františkem Zettelmannem",
       notes: [
         "Matka Šárky Votavové."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
-        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny"
+        "Rodinný kalendář narozenin a úmrtí s ručními poznámkami Jana Votavy (*1957), doplněno 8. 10. 2026 – fotografie u rodiny",
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
       ]
     },
     {
@@ -652,13 +663,19 @@ window.RODOKMEN = {
       name: "František Zettelmann",
       line: "zettelmann",
       cert: "D",
-      b: {"date":"neznámé (odhad ~1912)","year":1912,"approx":true},
+      b: {"date":"11. 8. 1908","year":1908,"place":"Dobešov"},
+      d: {"date":"15. 11. 1988","year":1988,"place":"Budišov nad Budisovkou"},
+      spouse: "ludmila_b",
+      marriage: "30. 5. 1930, Veřovice – s Ludmilou Blažkovou",
       notes: [
         "Otec Františka Zettelmanna (*1940) podle rodného listu Šárky Zettelmannové (1963).",
-        "Data narození a úmrtí zatím neznámá."
+        "Narození v Dobešově, sňatek ve Veřovicích a úmrtí v Budišově podle rodokmenu T. H. Orsaka.",
+        "Děti podle Orsaka: Božena (*1929), Josef (1931–2015, Leonberg), Eliška (1932–1989), Marie (1933–2002), Ludmila (*1936), František (1940–1999), Rudolf (*1943), Olin (*1951).",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
       ],
       sources: [
-        "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)"
+        "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
       ]
     },
     {
@@ -667,13 +684,19 @@ window.RODOKMEN = {
       maiden: "Blažková",
       line: "blazek",
       cert: "D",
-      b: {"date":"neznámé (odhad ~1915)","year":1915,"approx":true},
+      b: {"date":"25. 9. 1903","year":1903,"place":"Veřovice"},
+      d: {"date":"12. 9. 1986","year":1986,"place":"Vítkov"},
+      father: "jan_bl",
+      mother: "anezka_c",
+      marriage: "30. 5. 1930, Veřovice – s Františkem Zettelmannem",
       notes: [
         "Matka Františka Zettelmanna (*1940) podle rodného listu Šárky Zettelmannové (1963).",
-        "Data narození a úmrtí zatím neznámá."
+        "Nejstarší z jedenácti dětí Jana Blažka a Anežky Černochové z Veřovic (Orsak).",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
       ],
       sources: [
-        "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)"
+        "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
       ]
     },
     {
@@ -802,6 +825,7 @@ window.RODOKMEN = {
       notes: [
         "Narozen a pokřtěn 26. 12. 1836 v Těchobuzi č. 36 (fara Zhoř). Otec Jan Votava, nádeník, syn Martina Votavy, nádeníka z Jetřichovic č. 22, a Terezie roz. Mrkvové (?); matka Kateřina, dcera Matěje Flemra (?), chalupníka z Tučap č. 36, a Kateřiny roz. Křížové (?) z Chýšky (?) č. 18.",
         "Při sňatku 1865 (28 let) „reservní jízdní dělostřelec 2. třídy c. k. 5. dělostřeleckého pluku svobodného pána ze Hartmanu (?)“ a nádeník v Těchobuzi č. 13; povolení velitelství pluku ve Veroně z 10. 8. 1865. Svědci Jiří (?) Stříž, sedlák z Těchobuze č. 13, a Anton Michal, krejčí z Těchobuze č. 61.",
+        "Už v roce 1874 horník v kolonii Carolina u Souše (křest syna Josefa); v Souši žil i jeho bratr František.",
         "1866 nádeník v Těchobuzi č. 47 (mrtvě narozená dcera 14. 4. 1866); 1868 panský kočí v Pravoníně č. 74; později horník v Souši u Mostu č. 116 (1894, 1899).",
         "Podle rodinného rodokmenu měl nejméně dva další syny; syn jednoho z nich byl major armády USA, který v roce 1945 navštívil Václava Votavu (*1899) v Mostě."
       ],
@@ -814,7 +838,8 @@ window.RODOKMEN = {
         "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/",
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (N Souš 1811–1880), pag. 434, snímek 316"
       ],
       scans: [
         {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
@@ -825,7 +850,8 @@ window.RODOKMEN = {
         {"f":"img/1865_oddani_Votava_Stepan_Michalova_Antonie_Techobuz_a.jpg","t":"Sňatek Štěpána Votavy a Antonie Michalové, Těchobuz 18. 9. 1865 – ženich"},
         {"f":"img/1865_oddani_Votava_Stepan_Michalova_Antonie_Techobuz_b.jpg","t":"Sňatek Štěpána Votavy a Antonie Michalové, Těchobuz 1865 – nevěsta, svědci"},
         {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"},
-        {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"}
+        {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"},
+        {"f":"img/1874_N_Votava_Josef_Sous.jpg","t":"Křest Josefa Votavy, Souš 1874"}
       ]
     },
     {
@@ -859,7 +885,8 @@ window.RODOKMEN = {
         {"f":"img/1865_oddani_Votava_Stepan_Michalova_Antonie_Techobuz_a.jpg","t":"Sňatek Štěpána Votavy a Antonie Michalové, Těchobuz 18. 9. 1865 – ženich"},
         {"f":"img/1865_oddani_Votava_Stepan_Michalova_Antonie_Techobuz_b.jpg","t":"Sňatek Štěpána Votavy a Antonie Michalové, Těchobuz 1865 – nevěsta, svědci"},
         {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"},
-        {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"}
+        {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"},
+        {"f":"img/1874_N_Votava_Josef_Sous.jpg","t":"Křest Josefa Votavy, Souš 1874"}
       ]
     },
     {
@@ -1851,25 +1878,37 @@ window.RODOKMEN = {
       name: "Jan Votava",
       line: "votava",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
-      d: {"date":"před 1. 10. 1866","year":1866,"approx":true},
+      b: {"date":"asi 1795–1803","year":1799,"approx":true},
+      d: {"date":"23. 1. 1862","year":1862,"place":"Těchobuz č. p. 13"},
+      cause: "zápal plic",
       father: "martin_v",
       mother: "terezie_mk",
       spouse: "katerina_f",
       occ: "nádeník v Těchobuzi č. 36",
+      marriage: "1) s Kateřinou Flemrovou (?) († 1841); 2) 6. 2. 1844, Těchobuz – s Kateřinou Kočovou",
       notes: [
-        "Nádeník v Těchobuzi č. 36 (1836, 1865). Syn Martina Votavy, nádeníka z Jetřichovic č. 22, a Terezie roz. Mrkvové (?) (křest syna Štěpána 1836).",
-        "V pravonínském křtu vnuka (1868) zjednodušeně „nádeník z Jetřichovic č. 22“ – to je číslo domu jeho otce Martina.",
-        "Zemřel před 1866 (manželka 1866 vdova); v rejstříku úmrtí Těchobuz 1822–1839 je „Votava Jan, 24. Aug.“ (fol. 103) – zápis zatím nečten."
+        "Nádeník v Těchobuzi – č. 36 („Schelenberg“, 1834–1841), č. 24 (1844), č. 13 (1862); jurisdicent těchobuzského statku. Syn Martina Votavy, nádeníka (podle sňatku 1844 „bývalého chalupníka z Letů (?)“) z Jetřichovic č. 22, a Terezie roz. Marody / Mrkvové (?).",
+        "ROZPOR ve věku: sňatek 1844 „41 let“ (*~1803), úmrtí 1862 „67 let“ (*~1795).",
+        "Děti s 1. manželkou: Jan (*~1830, † 25. 8. 1839, 9 let), Kateřina (*27. 1. 1834), Štěpán (*26. 12. 1836); podle zápisů ze Souše i František (horník v Souši 1874). V Těchobuzi doloženi od 1834.",
+        "Zemřel 23. 1. 1862 v Těchobuzi č. 13; „byl 17 let ženatý“ (s druhou manželkou)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 61, snímek 62 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 103, snímek 104 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 197, snímek 203 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 226, snímek 232 – https://digi.ceskearchivy.cz/8826"
       ],
       scans: [
-        {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"}
+        {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"},
+        {"f":"img/1844_oddani_Votava_Jan_Kocova_Katerina_Techobuz.jpg","t":"Druhý sňatek Jana Votavy s Kateřinou Kočovou, Těchobuz 1844"},
+        {"f":"img/1862_zemreni_Votava_Jan_Techobuz.jpg","t":"Úmrtí Jana Votavy, Těchobuz 1862"},
+        {"f":"img/1841_zemreni_Votavova_Katerina_Flemrova_Techobuz.jpg","t":"Úmrtí Kateřiny Votavové, Těchobuz 1841"},
+        {"f":"img/1834_krest_Votavova_Katerina_Techobuz.jpg","t":"Křest dcery Kateřiny, Těchobuz 1834"}
       ]
     },
     {
@@ -1878,22 +1917,28 @@ window.RODOKMEN = {
       maiden: "Flemrová (?)",
       line: "flemr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1808)","year":1808,"approx":true,"place":"Tučapy č. p. 36"},
+      b: {"date":"asi 1795","year":1795,"approx":true,"place":"Tučapy č. p. 36"},
+      d: {"date":"17. 8. 1841","year":1841,"place":"Těchobuz č. p. 36 („Schelenberg“)"},
       father: "matej_fl",
       mother: "katerina_kr",
       spouse: "jan_v",
       notes: [
-        "Dcera Matěje Flemra (?), chalupníka z Tučap č. 36, a Kateřiny roz. Křížové (?) z Chýšky (?) č. 18 (křest syna Štěpána 1836; sňatek syna 1865).",
-        "ROZPOR / KANDIDÁT úmrtí: 1. 10. 1866 v Těchobuzi č. 13 (kde 1865 bydlel Štěpán) zemřela „Kateřina Votavová, vdova po † Janu Votavovi, nádeníku z Těchobuze, rozená Kočova (?) z Těchobuze“, 57 let (*~1809), sešlostí. Rodné jméno se neshoduje – buď chyba zápisu, nebo druhá manželka Jana Votavy."
+        "Dcera Matěje Flemra (?), chalupníka z Tučap č. 36, a Kateřiny, dcery Vojtěcha (?) Kříže, chalupníka z Chýšky č. 18.",
+        "Zemřela 17. 8. 1841 v Těchobuzi č. 36 ve 46 letech, pohřbena ve Zhoři.",
+        "Vdova Kateřina Votavová, která zemřela 1. 10. 1866, je druhá manželka Jana Votavy (Kateřina Kočová), ne Štěpánova matka – rozpor vyřešen."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 61, snímek 62 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 197, snímek 203 – https://digi.ceskearchivy.cz/8826"
       ],
       scans: [
-        {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"}
+        {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"},
+        {"f":"img/1841_zemreni_Votavova_Katerina_Flemrova_Techobuz.jpg","t":"Úmrtí Kateřiny Votavové, Těchobuz 1841"},
+        {"f":"img/1834_krest_Votavova_Katerina_Techobuz.jpg","t":"Křest dcery Kateřiny, Těchobuz 1834"}
       ]
     },
     {
@@ -2306,28 +2351,31 @@ window.RODOKMEN = {
       line: "votava",
       cert: "M",
       b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      d: {"date":"před 6. 2. 1844","year":1844,"approx":true},
       spouse: "terezie_mk",
       occ: "nádeník v Jetřichovicích č. 22",
       notes: [
-        "Otec Jana Votavy; nejstarší doložený Votava této linie."
+        "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Letů (?)“ – zemřel před 1844."
       ],
       sources: [
-        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826"
       ]
     },
     {
       id: "terezie_mk",
       name: "Terezie Votavová",
-      maiden: "Mrkvová (?)",
+      maiden: "Marodová / Mrkvová (?)",
       line: "mrkva",
       cert: "M",
       b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
       spouse: "martin_v",
       notes: [
-        "Matka Jana Votavy; čtení příjmení a místa (… č. 23) nejisté."
+        "Matka Jana Votavy; „dcera Martina M…“ – Marody (1844) / Mrkvy (?) – čtení nejisté."
       ],
       sources: [
-        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826"
       ]
     },
     {
@@ -2335,7 +2383,7 @@ window.RODOKMEN = {
       name: "Matěj Flemr (?)",
       line: "flemr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
       spouse: "katerina_kr",
       occ: "chalupník v Tučapech č. 36",
       notes: [
@@ -2352,7 +2400,7 @@ window.RODOKMEN = {
       maiden: "Křížová (?)",
       line: "kriz",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true,"place":"Chýška (?) č. p. 18"},
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true,"place":"Chýška (?) č. p. 18"},
       spouse: "matej_fl",
       notes: [
         "Matka Kateřiny Votavové; čtení nejisté."
@@ -2421,6 +2469,342 @@ window.RODOKMEN = {
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
       ]
+    },
+    {
+      id: "jan_bl",
+      name: "Jan Blažek",
+      line: "blazek",
+      cert: "D",
+      b: {"date":"11. 9. 1874","year":1874,"place":"Veřovice"},
+      d: {"date":"28. 7. 1954","year":1954,"place":"Veřovice"},
+      spouse: "anezka_c",
+      marriage: "17. 9. 1901, Veřovice – s Anežkou Černochovou",
+      notes: [
+        "Pohřben ve Veřovicích.",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "anezka_c",
+      name: "Anežka Blažková",
+      maiden: "Černochová",
+      line: "cernoch",
+      cert: "D",
+      b: {"date":"11. 6. 1879","year":1879,"place":"Veřovice"},
+      d: {"date":"15. 5. 1943","year":1943,"place":"Veřovice"},
+      father: "tomas_c",
+      mother: "magdalena_g",
+      marriage: "17. 9. 1901, Veřovice – s Janem Blažkem",
+      notes: [
+        "Děti podle Orsaka: Ludmila (1903), Jindřich (1905–1971), Čeněk (1907–1946), Růžena (1909–1987), Jaroslav (1912–1988), Adéla (1914–1991), Karel (1919–1995), Františka (1921–2002), Jan (1923–1952), Anežka (1926–1998).",
+        "Pohřbena ve Veřovicích.",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "tomas_c",
+      name: "Tomáš Černoch",
+      line: "cernoch",
+      cert: "D",
+      b: {"date":"20. 9. 1846","year":1846,"place":"Veřovice"},
+      d: {"date":"20. 5. 1902","year":1902,"place":"Veřovice"},
+      spouse: "magdalena_g",
+      marriage: "8. 11. 1869, Veřovice – s Magdalenou Grozmanovou",
+      notes: [
+        "Kmenová osoba rodokmenu „Descendants of Tomas Cernoch“ (T. H. Orsak, 2018), který vede přes 600 jeho potomků v Česku i v Texasu.",
+        "Měl s Magdalenou 13 dětí, z nichž šest zemřelo v dětství.",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "magdalena_g",
+      name: "Magdalena Černochová",
+      maiden: "Grozmanová",
+      line: "grozman",
+      cert: "D",
+      b: {"date":"16. 2. 1850","year":1850,"place":"Veřovice"},
+      d: {"date":"4. 7. 1911","year":1911,"place":"Veřovice"},
+      spouse: "tomas_c",
+      marriage: "8. 11. 1869, Veřovice – s Tomášem Černochem",
+      notes: [
+        "Pohřbena ve Veřovicích.",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "ludmila_c1892",
+      name: "Ludmila Orsaková",
+      maiden: "Černochová",
+      line: "cernoch",
+      cert: "D",
+      b: {"date":"21. 10. 1892","year":1892,"place":"Veřovice"},
+      d: {"date":"1. 2. 1986","year":1986,"place":"Seymour, Baylor Co., Texas, USA"},
+      father: "tomas_c",
+      mother: "magdalena_g",
+      notes: [
+        "Nejmladší dcera Tomáše Černocha, sestra prababičky Anežky. Vystěhovala se do Texasu a vzala si Petera Orsaka (*1870); pohřbena na St. John’s Cemetery v Bomartonu (Texas).",
+        "Od ní pochází texaská větev rodu; autor rodokmenu Tim H. Orsak je její potomek.",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "bozena1929",
+      name: "Božena Zettelmannová",
+      line: "zettelmann",
+      cert: "D",
+      b: {"date":"16. 3. 1929","year":1929,"place":"Veřovice"},
+      father: "frantisek_z",
+      mother: "ludmila_b",
+      alive: true,
+      notes: [
+        "Sourozenec Františka Zettelmanna (*1940).",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "josef1931z",
+      name: "Josef Zettelmann",
+      line: "zettelmann",
+      cert: "D",
+      b: {"date":"15. 3. 1931","year":1931,"place":"Dobešov"},
+      d: {"date":"2015","year":2015,"place":"Leonberg, Německo"},
+      father: "frantisek_z",
+      mother: "ludmila_b",
+      notes: [
+        "Sourozenec Františka Zettelmanna (*1940).",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "eliska1932",
+      name: "Eliška Zettelmannová",
+      line: "zettelmann",
+      cert: "D",
+      b: {"date":"18. 3. 1932","year":1932,"place":"Dobešov"},
+      d: {"date":"16. 4. 1989","year":1989,"place":"Budišov nad Budisovkou"},
+      father: "frantisek_z",
+      mother: "ludmila_b",
+      notes: [
+        "Sourozenec Františka Zettelmanna (*1940).",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "marie1933z",
+      name: "Marie Zettelmannová",
+      line: "zettelmann",
+      cert: "D",
+      b: {"date":"25. 5. 1933","year":1933,"place":"Loučky u Oder"},
+      d: {"date":"listopad 2002","year":2002,"place":"Budišov nad Budisovkou"},
+      father: "frantisek_z",
+      mother: "ludmila_b",
+      notes: [
+        "Sourozenec Františka Zettelmanna (*1940).",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "ludmila1936z",
+      name: "Ludmila Zettelmannová",
+      line: "zettelmann",
+      cert: "D",
+      b: {"date":"1. 5. 1936","year":1936,"place":"Jeseník nad Odrou"},
+      father: "frantisek_z",
+      mother: "ludmila_b",
+      alive: true,
+      notes: [
+        "Sourozenec Františka Zettelmanna (*1940).",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "rudolf1943",
+      name: "Rudolf Zettelmann",
+      line: "zettelmann",
+      cert: "D",
+      b: {"date":"2. 11. 1943","year":1943,"place":"Polouvsí"},
+      father: "frantisek_z",
+      mother: "ludmila_b",
+      alive: true,
+      notes: [
+        "Sourozenec Františka Zettelmanna (*1940).",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "olin1951",
+      name: "Olin Zettelmann",
+      line: "zettelmann",
+      cert: "D",
+      b: {"date":"6. 6. 1951","year":1951,"place":"Vítkov"},
+      father: "frantisek_z",
+      mother: "ludmila_b",
+      alive: true,
+      notes: [
+        "Sourozenec Františka Zettelmanna (*1940).",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "martina1976",
+      name: "Martina Zettelmannová",
+      line: "zettelmann",
+      cert: "D",
+      b: {"date":"7. 10. 1976","year":1976,"place":"Vítkov"},
+      father: "frantisek1940",
+      mother: "helena1940",
+      alive: true,
+      notes: [
+        "Sestra Šárky Votavové.",
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+      ],
+      sources: [
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+      ]
+    },
+    {
+      id: "katerina_ko",
+      name: "Kateřina Votavová",
+      maiden: "Kočová",
+      line: "koc",
+      cert: "M",
+      b: {"date":"asi 1809/1810","year":1810,"approx":true,"place":"Těchobuz"},
+      d: {"date":"1. 10. 1866","year":1866,"place":"Těchobuz č. p. 13"},
+      spouse: "jan_v",
+      notes: [
+        "Druhá manželka Jana Votavy (sňatek 6. 2. 1844, 34 let), Štěpánova macecha. Dcera † Martina Koče, bývalého sedláka v Těchobuzi č. 13, a † Terezie roz. Fürstové (?) z Hlavňova (?).",
+        "Zemřela jako vdova 1. 10. 1866 v Těchobuzi č. 13, sešlostí věkem."
+      ],
+      sources: [
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 236, snímek 243 – https://digi.ceskearchivy.cz/8826"
+      ]
+    },
+    {
+      id: "jan1830v",
+      name: "Jan Votava",
+      line: "votava",
+      cert: "M",
+      b: {"date":"asi 1830","year":1830,"approx":true},
+      d: {"date":"25. 8. 1839","year":1839,"place":"Těchobuz č. p. 36"},
+      cause: "červenka",
+      father: "jan_v",
+      mother: "katerina_f",
+      notes: [
+        "Bratr Štěpána; zemřel v 9 letech."
+      ],
+      sources: [
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 103, snímek 104 – https://digi.ceskearchivy.cz/8825"
+      ]
+    },
+    {
+      id: "katerina1834v",
+      name: "Kateřina Votavová",
+      line: "votava",
+      cert: "M",
+      b: {"date":"27. 1. 1834","year":1834,"place":"Těchobuz č. p. 36"},
+      father: "jan_v",
+      mother: "katerina_f",
+      notes: [
+        "Sestra Štěpána; kmotři Kateřina Křížová a Vojtěch Kříž z Chýšky."
+      ],
+      sources: [
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 61, snímek 62 – https://digi.ceskearchivy.cz/8825"
+      ]
+    },
+    {
+      id: "frantisek_v",
+      name: "František Votava",
+      line: "votava",
+      cert: "M",
+      b: {"date":"neznámé (před 8/1841; odhad ~1839)","year":1839,"approx":true},
+      father: "jan_v",
+      mother: "katerina_f",
+      occ: "horník v kolonii Carolina u Souše (1874)",
+      notes: [
+        "Bratr Štěpána: v křtu dcery Alžběty (Souš 1874) „rodák a příslušník Těchobuze, syn Johanna Votavy, nádeníka v Těchobuzi č. 13, a Kateřiny roz. Flemrové (?) z Tučap“. Manželka Alžběta (Elisabeth) z Vodochod (?) č. 52.",
+        "KANDIDÁT: rejstřík Souš uvádí 1873 sňatek „Wotawa Franz mit Maria …“ a další děti Votavů v kolonii (1873, 1878) – nečteno. Jeho potomci mohli být „americkou“ větví z rodinné tradice."
+      ],
+      sources: [
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (N Souš 1811–1880), pag. 442, snímek 320"
+      ],
+      scans: [
+        {"f":"img/1874_N_Votava_Elisabeth_Sous_otec_Frantisek.jpg","t":"Křest Alžběty Votavové, Souš 1874 – otec František"}
+      ]
+    },
+    {
+      id: "alzbeta1874v",
+      name: "Alžběta Votavová",
+      line: "votava",
+      cert: "M",
+      b: {"date":"5. 11. (?) 1874","year":1874,"place":"kolonie Carolina u Souše"},
+      d: {"date":"5. 11. (?) 1874","year":1874},
+      father: "frantisek_v",
+      notes: [
+        "Pokřtěna z nouze porodní bábou, zemřela týž den (?)."
+      ],
+      sources: [
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (N Souš 1811–1880), pag. 442, snímek 320"
+      ],
+      scans: [
+        {"f":"img/1874_N_Votava_Elisabeth_Sous_otec_Frantisek.jpg","t":"Křest Alžběty Votavové, Souš 1874 – otec František"}
+      ]
+    },
+    {
+      id: "josef1874v",
+      name: "Josef Votava",
+      line: "votava",
+      cert: "M",
+      b: {"date":"31. 7. 1874","year":1874,"place":"kolonie Carolina u Souše"},
+      d: {"date":"18. 6. 1893","year":1893,"place":"Souš č. p. 116"},
+      father: "stepan_v",
+      mother: "antonie_m",
+      notes: [
+        "Pokřtěn 2. 8. 1874 v Souši; otec Štěpán Votava, horník v kolonii Carolina u Souše, příslušný do Těchobuze. Kmotr Josef Candl (?), horník v Souši. Bratr Václava (*1868).",
+        "Rok narození podle rejstříku (zápis bez roku, v bloku 1874)."
+      ],
+      sources: [
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (N Souš 1811–1880), pag. 434, snímek 316"
+      ],
+      scans: [
+        {"f":"img/1874_N_Votava_Josef_Sous.jpg","t":"Křest Josefa Votavy, Souš 1874"}
+      ]
     }
   ]
 };
@@ -2433,7 +2817,7 @@ window.RODOKMEN.places = [
 ];
 window.RODOKMEN.story = [
   {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Pacovska. Martin Votava byl nádeníkem v Jetřichovicích, jeho syn Jan nádeníkem v Těchobuzi, kde se roku 1836 narodil Štěpán. Štěpán sloužil jako jízdní dělostřelec, roku 1865 se oženil s Antonií Michalovou ze sedlácké usedlosti Těchobuz č. 19 a pak byl panským kočím na zámku v Pravoníně, kde se mu roku 1868 narodil syn Václav. Domovské právo měla rodina v Těchobuzi.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Barbora Lodlová pocházela z hornické rodiny v Oseku u Rokycan; Lodlovi i Forejtovi tam byli havíři. Kolem roku 1890 odešli za prací do mosteckých dolů – do Souše, kde se Barbora roku 1894 vdala za Václava Votavu.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal","aubrecht","holub","loukota"]},
-  {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek"],"title":"Zettelmannovi a Hrazdílkovi","text":["František Zettelmann se narodil roku 1940 v Polouvsí na Novojičínsku, Helena Hrazdílková téhož roku v Heršpicích u Vyškova. V roce 1963 žili v Karviné, kde se jim narodila dcera Šárka."]},
+  {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek","cernoch","grozman"],"title":"Zettelmannovi a Hrazdílkovi","text":["Matčina linie vede do Veřovic pod Beskydy. Tomáš Černoch (1846–1902) a Magdalena Grozmanová tam měli třináct dětí; dcera Anežka se roku 1901 provdala za Jana Blažka a jejich nejstarší dcera Ludmila (1903–1986) si roku 1930 vzala Františka Zettelmanna z Dobešova.","Zettelmannovi žili na Oderských vrších – v Dobešově, Loučkách, Jeseníku nad Odrou a v Polouvsí, kde se roku 1940 narodil František. Ten si roku 1961 vzal Helenu Hrazdílkovou z Heršpic u Slavkova; v roce 1963 žili v Karviné, kde se narodila dcera Šárka.","Nejmladší sestra Anežky, Ludmila Černochová, odešla do Texasu. Její potomek Tim H. Orsak sestavil roku 2018 velký rodokmen potomků Tomáše Černocha, ze kterého tato část pochází (údaje se ještě ověřují v matrikách)."]},
   {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda","divis","merhaut","skala","kalous","holicky","zyma","drapal","novy","semenec"],"title":"Červenkovi a Klikovi","text":["Červenkové byli po pět generací rolníky ve Hředlích č. p. 37 u Žebráka. Nejstarší známý předek Václav Červenka (asi 1674–1730) se roku 1696 oženil v Žebráku s Dorotou Novou z Chlustiny. Linie pokračuje přes Pavla (1716), dva Jakuby (1750, 1789) a Matěje (1825).","Matějův syn Václav (1868–1938) se usadil jako rolník v Berouně na Lištici a oženil se s Annou Vlasákovou z mlynářské rodiny z Račic u Zbečna. Z jejich pěti synů je nejmladší Karel (*1906) děd Jana Votavy.","Karel Červenka se v lednu 1933 oženil v kostele sv. Mikuláše v Borku u Suchomast s Annou Klikovou, dcerou dělníka Karla Kliky z Býkoše a Růženy Valentové z Čepiroh (Tschöppern) u Mostu.","Linie do 17. století pochází z rodinného strojopisného rodopisu; jednotlivé údaje se ještě ověřují v matrikách."]}
 ];
 window.RODOKMEN.timeline = [
@@ -2447,7 +2831,9 @@ window.RODOKMEN.timeline = [
   {"y":1894,"t":"Sňatek Václava Červenky a Anny Vlasákové v Berouně"},
   {"y":1924,"t":"Sňatek Václava Votavy a Jany Čapkové v Mostě (18. 10.)"},
   {"y":1940,"t":"Výměr o domovském právu v Těchobuzi pro Václava Votavu (*1899) a jeho rodinu"},
-  {"y":1865,"t":"Sňatek Štěpána Votavy a Antonie Michalové v Těchobuzi (18. 9.)"}
+  {"y":1865,"t":"Sňatek Štěpána Votavy a Antonie Michalové v Těchobuzi (18. 9.)"},
+  {"y":1869,"t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové ve Veřovicích"},
+  {"y":1930,"t":"Sňatek Františka Zettelmanna a Ludmily Blažkové ve Veřovicích"}
 ];
 
 // Documented migrations; kind: "doc" = documented, "rail" = probable route by train, "hyp" = hypothesis
