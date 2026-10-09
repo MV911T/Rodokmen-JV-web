@@ -6193,10 +6193,13 @@ window.RODOKMEN = {
       name: "Jan Vlasák",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      b: {"date":"asi 1760","year":1760,"approx":true,"place":"Hudlice"},
+      father: "frantisek_vh",
       spouse: "marie_ja",
       occ: "nádeník ve Zbečně č. 8",
+      marriage: "11. 10. 1795, Sýkořice (fara Zbečno) – s Marií Jonášovou",
       notes: [
+        "Oddán 11. 10. 1795 v Sýkořicích (č. 6): „Johann, Sohn nach dem † Franz Wlasák aus dem Dorf Hudlitz, Pürglitzer Unterthan“, 35 let, svobodný, s Marií, dcerou Matěje Jonáše, ševce ze Sýkořic (22 let); svědci Václav Vlasák (?), 74 let, učitel (?) ve Zbečně, a František Dvořák, chalupník ze Zbečna.",
         "Otec mlynáře Jana Vlasáka (křest vnuka Františka 1838); manželka Marie (rodné příjmení nečitelné).",
         "V r. 1833 „Häusler aus Hudlitz (?)“, v r. 1838 nádeník ve Zbečně č. 8.",
         "V r. 1811 „Inwohner von Hudlitz No. 19“ – dcera Anna (*13. 5. 1811, Zbečno č. 20). Pochází tedy z Hudlic (vlastní fara)."
@@ -6204,10 +6207,12 @@ window.RODOKMEN = {
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 79, snímek 42 – https://ebadatelna.soapraha.cz/d/8855/42"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 79, snímek 42 – https://ebadatelna.soapraha.cz/d/8855/42",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6"
       ],
       scans: [
-        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"}
+        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"},
+        {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"}
       ]
     },
     {
@@ -6306,21 +6311,24 @@ window.RODOKMEN = {
     {
       id: "marie_ja",
       name: "Marie Vlasáková",
-      maiden: "Jarošová (?)",
+      maiden: "Jonášová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      b: {"date":"asi 1773","year":1773,"approx":true,"place":"Sýkořice č. p. 6"},
+      father: "matej_jo",
       spouse: "jan_vl0",
+      marriage: "11. 10. 1795, Sýkořice – s Janem Vlasákem",
       notes: [
-        "Matka mlynáře Jana Vlasáka (sňatek 1833: „Maria geborene Jaroschin (?) aus …brnitz (?) No. 6“).",
-        "Podle křtu dcery Anny (1811) dcera † Matěje Jaroše (?), ševce z Otročiněvsi (?) / Ostrovce (?) č. 6."
+        "Dcera Matěje Jonáše, ševce v Sýkořicích č. 6 (1795 živ, 1811 už †); oddána 11. 10. 1795 (22 let). Dřívější čtení „Jarošová“ a obec „Ostrowitz / …brnitz“ byla chybná – kurentové „Sykořitz“."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 79, snímek 42 – https://ebadatelna.soapraha.cz/d/8855/42"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 79, snímek 42 – https://ebadatelna.soapraha.cz/d/8855/42",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6"
       ],
       scans: [
-        {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"}
+        {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
+        {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"}
       ]
     },
     {
@@ -6339,6 +6347,42 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest syna Martina, Zbečno 1807"}
+      ]
+    },
+    {
+      id: "frantisek_vh",
+      name: "František Vlasák",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
+      d: {"date":"před 11. 10. 1795","year":1795,"approx":true},
+      occ: "Hudlice (poddaný panství Křivoklát)",
+      notes: [
+        "Otec Jana Vlasáka st. (sňatek 1795)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6"
+      ],
+      scans: [
+        {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"}
+      ]
+    },
+    {
+      id: "matej_jo",
+      name: "Matěj Jonáš",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      d: {"date":"mezi 1795 a 1811","year":1811,"approx":true},
+      occ: "švec v Sýkořicích č. 6",
+      notes: [
+        "Otec Marie Vlasákové (sňatek 1795)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6"
+      ],
+      scans: [
+        {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"}
       ]
     }
   ]
