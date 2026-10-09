@@ -2105,22 +2105,29 @@ window.RODOKMEN = {
       name: "Václav Ota",
       line: "ota",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true},
+      b: {"date":"asi 1809/1810","year":1810,"approx":true,"place":"Krchleby č. p. 17"},
       d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
+      father: "frantisek_ot",
+      mother: "anna_za",
       spouse: "katerina_ma",
       occ: "půlsedlák v Krchlebích (1830), familiant v Hrubém Jeseníku č. 74 (1851), sedlák v Krchlebích č. 53",
+      marriage: "17. 2. 1830, Krchleby (fara Veleliby) – s Kateřinou Málkovou",
       notes: [
-        "Otec Marie Čapkové, roz. Otové."
+        "Oddán 17. 2. 1830 v Krchlebích (č. 53, dům nevěsty) – 20 let, svobodný, pozůstalý syn † Františka Oty, sedláka z Krchleb č. 17, a Anny roz. Zajíčkové (?). Svědci Jan Rým (?), chalupník, a Jan Novotný z Krchleb.",
+        "Půlsedlák v Krchlebích (1830), familiant v Hrubém Jeseníku č. 74 (1851), později sedlák v Krchlebích č. 53 (usedlost tchána Pavla Málka); † před 1874."
       ],
       sources: [
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242",
-        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57"
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57",
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
       ],
       scans: [
         {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"},
-        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830"}
+        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830"},
+        {"f":"img/1830_snatek_vaclav_ota_krchleby_a.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové, Krchleby 17. 2. 1830 – ženich"},
+        {"f":"img/1830_snatek_vaclav_ota_krchleby_b.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové 1830 – nevěsta, svědci"}
       ]
     },
     {
@@ -2324,18 +2331,23 @@ window.RODOKMEN = {
       maiden: "Málková",
       line: "malek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true,"place":"Krchleby"},
+      b: {"date":"asi 1806/1807","year":1807,"approx":true,"place":"Krchleby č. p. 53"},
       father: "pavel_ma",
+      mother: "anna_kr",
       spouse: "vaclav_o",
+      marriage: "17. 2. 1830, Krchleby – s Václavem Otou",
       notes: [
-        "Matka Marie Čapkové; dcera Pavla Málka, sedláka z Krchleb č. 53, a Anny."
+        "Matka Marie Čapkové; dcera Pavla Málka, sedláka z Krchleb č. 53, a Anny roz. Kra…šové (?). Při sňatku 1830 23 let."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
-        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57"
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57",
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
       ],
       scans: [
-        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830"}
+        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830"},
+        {"f":"img/1830_snatek_vaclav_ota_krchleby_a.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové, Krchleby 17. 2. 1830 – ženich"},
+        {"f":"img/1830_snatek_vaclav_ota_krchleby_b.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové 1830 – nevěsta, svědci"}
       ]
     },
     {
@@ -3533,12 +3545,60 @@ window.RODOKMEN = {
       line: "malek",
       cert: "M",
       b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      spouse: "anna_kr",
       occ: "sedlák v Krchlebích č. 53",
       notes: [
         "Otec Kateřiny Otové; usedlost Krchleby č. 53 později převzal zeť Václav Ota."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57"
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57",
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
+      ]
+    },
+    {
+      id: "frantisek_ot",
+      name: "František Ota",
+      line: "ota",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      d: {"date":"před 17. 2. 1830","year":1830,"approx":true},
+      spouse: "anna_za",
+      occ: "sedlák v Krchlebích č. 17",
+      notes: [
+        "Otec Václava Oty."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
+      ]
+    },
+    {
+      id: "anna_za",
+      name: "Anna Otová",
+      maiden: "Zajíčková (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      spouse: "frantisek_ot",
+      notes: [
+        "Matka Václava Oty; čtení příjmení nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
+      ]
+    },
+    {
+      id: "anna_kr",
+      name: "Anna Málková",
+      maiden: "Kra…šová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      spouse: "pavel_ma",
+      notes: [
+        "Matka Kateřiny Otové; příjmení nečitelné."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
       ]
     }
   ]
