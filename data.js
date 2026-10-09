@@ -2747,7 +2747,7 @@ window.RODOKMEN = {
         "Dcera Josefa Landsingera (Landtyngra), mistra kovářského v Drozdově (sňatek 1821 i křest dcery 1822); oddána 6. 11. 1821 (24 let). ROZPOR o matce: křest dcery 1822 uvádí „† Magdalena roz. Zvonařová z Drozdova“, ta je ale podle sňatku 1796 matkou Josefa (tedy babičkou); Josefovou manželkou byla od 1796 Anna Mottlová. Buď zápis 1822 zaměnil matku za babičku, nebo je Magdalena dcerou Václava Landsingera a Zvonařové (Josefova sestra – index uvádí „Mařenu“, dceru Václava). Nerozhodnuto; křest Magdaleny v Drozdově 1793–1805 nenalezen.",
         "Porodní bábou v Oseku byla 18. 8. 1822 „Magdal. Laukotowa“ – jiná Magdalena (tato byla tehdy v Drozdově).",
         "KANDIDÁT (varianta A, silnější): Marie Magdalena Landsingerová *2. 4. 1788 v Drozdově č. 31, dcera kováře Václava Landsingera a Marie Magdaleny Zvonařové († 1796) – sedí matka z křtu 1822, ne však otec „Josef“ a věk 24 ze sňatku 1821 (bylo by jí 33). Varianta B: dcera Josefa – pak by matkou byla Anna Mottlová, ale Magdalena mezi jejich dětmi 1797–1805 není.",
-        "Oddací zápis 1821 v plném rozlišení: „dcera Jozefa Landtyngera, kowáře w Drozdowě“, 24 let – jednoznačné. Josefova dcera Marie Magdalena (pokřtěná v dubnu 1808 v Drozdově č. 34, matka Anna Mottlová) by ale měla 13 let; Václavova (*1788) 33. Rozpor trvá – rozhodne úmrtí Josefovy dcery Marie Magdaleny (Cerhovice Z 1808–1821)."
+        "Oddací zápis 1821 v plném rozlišení: „dcera Jozefa Landtyngera, kowáře w Drozdowě“, 24 let – jednoznačné. Josefova dcera Marie Magdalena (pokřtěná v dubnu 1808) ale zemřela 22. 3. 1809 jako roční (Cerhovice 18, sn. 51) – odpadá. Zbývá Marie Magdalena, dcera Václava a Zvonařové (pokřtěná 1788, v r. 1821 by jí bylo 33), nebo jiná, dosud nenalezená Magdalena. Rozpor trvá."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
@@ -2755,7 +2755,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 16 (O 1812–1839), oddíl Drozdov, fol. 71, snímek 74 – https://ebadatelna.soapraha.cz/d/4559/74",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9",
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, fol. 77, snímek 28 – https://ebadatelna.soapraha.cz/d/4555/28"
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, fol. 77, snímek 28 – https://ebadatelna.soapraha.cz/d/4555/28",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 18 (Z 1800–1811), oddíl Drozdov, snímek 51 – https://ebadatelna.soapraha.cz/d/4561/51"
       ],
       scans: [
         {"f":"img/1821_snatek_jan_laukota_magdalena_landtyngr_drozdov_cerhovice16_sn74_b.jpg","t":"Sňatek Laukota × Landtyngrová 1821 – nevěsta a svědci"},
@@ -4430,7 +4431,8 @@ window.RODOKMEN = {
       notes: [
         "Oddán 4. 10. 1773 ve Zdicích: „Josephus filius Wenceslai Diwiš Rustici ex pago Gernin N. 7 cum sponsa Anna filia Adalberti Czerweny ex pago Knižkowicz N. 17“; svědci Václav Kučera (?) a Jakub Holeček (?) z Knížkovic. Otec Matěje Diviše (*1776), sedlák v Černíně č. 7.",
         "KANDIDÁTI – děti podle indexu narozených Zdice (Diviš, Černín): Anna (fol. 110), Josef (115), Matěj (123, 1776), Kateřina (127), Veronika (131), Anna (133–134), dvojčata (135).",
-        "Křest nenalezen ve Zdicích 1744–1757 (Josef *1758 je syn Matěje Diviše a Anny Novákové – jiný); zdické křty před 1744 jsou v matrice Žebrák 03 (1729–1760) – zatím neprověřeno."
+        "Křest nenalezen ve Zdicích 1744–1757 (Josef *1758 je syn Matěje Diviše a Anny Novákové – jiný); zdické křty před 1744 jsou v matrice Žebrák 03 (1729–1760) – zatím neprověřeno.",
+        "Starší zdické křty (do 1743) v matrice Žebrák 03 nejsou – Černín, Zdice ani Knížkovice se tam neobjevují; zdická matrika 1717–1743 se zřejmě nedochovala. Další cesta: pozemkové knihy / urbář panství Králův Dvůr (Černín č. 7)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
