@@ -2062,24 +2062,27 @@ window.RODOKMEN = {
       name: "František Vlasák",
       line: "vlasak",
       cert: "M",
-      b: {"date":"1. 1. 1838","year":1838,"place":"Sýkořice / Račice č. p. 41 (fara Zbečno)"},
+      b: {"date":"1. 1. 1838","year":1838,"place":"Zbečno č. p. 58"},
       father: "jan_vl",
       mother: "marie_no",
       spouse: "marie_se",
       occ: "mlynář v Sýkořicích č. 41 (1870), rolník v Berouně č. 83 – Lištice (1894)",
       marriage: "9. 11. 1869, Zbečno – s Marií Semencovou",
       notes: [
+        "Narozen 1. 1., pokřtěn 2. 1. 1838 ve Zbečně č. 58: otec Jan Vlasák, mlynářský tovaryš ve Zbečně č. 58, syn Jana Vlasáka, nádeníka ve Zbečně č. 8, a Marie (rodné příjmení nečitelné, č. 7); matka Marie, dcera Josefa Nováka, domkáře v Nové Huti č. 34, a Marie roz. Malé.",
         "Otec Anny Červenkové. Syn Jana Vlasáka, mlynáře v Sýkořicích č. 41, a Marie roz. Novákové z Nové Huti č. 34 (křest dcery 1870). Rodopis: „ze mlýna v Račicích“.",
-        "Oddán 9. 11. 1869 ve Zbečně jako mlynář v č. 41, 31 let; narozen 1. 1. 1838 (kniha narozených Zbečno de anno 1784, tom. 2 fol. 246). Svědci František Vlasák, sedlák z Kalit č. 7, a Josef Zýka, domkář z Račic č. 15."
+        "Oddán 9. 11. 1869 ve Zbečně jako mlynář v č. 41, 31 let; narozen 1. 1. 1838 (Zbečno 10, pag. 246). Svědci František Vlasák, sedlák z Kalit č. 7, a Josef Zýka, domkář z Račic č. 15."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126"
       ],
       scans: [
-        {"f":"img/1869_snatek_frantisek_vlasak_marie_semencova_zbecno_a.jpg","t":"Sňatek Františka Vlasáka a Marie Semencové, Zbečno 1869"}
+        {"f":"img/1869_snatek_frantisek_vlasak_marie_semencova_zbecno_a.jpg","t":"Sňatek Františka Vlasáka a Marie Semencové, Zbečno 1869"},
+        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"}
       ]
     },
     {
@@ -2088,22 +2091,25 @@ window.RODOKMEN = {
       maiden: "Semencová",
       line: "semenec",
       cert: "M",
-      b: {"date":"27. 1. 1838","year":1838,"place":"Zbečno"},
+      b: {"date":"27. 6. 1838","year":1838,"place":"Zbečno č. p. 45"},
       father: "martin_se",
       mother: "barbora_hl",
       spouse: "frantisek_vl",
       marriage: "9. 11. 1869, Zbečno – s Františkem Vlasákem",
       notes: [
-        "Matka Anny Červenkové; dcera Martina Semence, podruha ve Zbečně č. 45, a Kateřiny, dcery Václava Vojtíška (?) ze Zbečna č. 11 (sňatek 1869) – ROZPOR v jménu matky: křest dcery 1870 uvádí „Barboru, dceru Václava Hlavičky (?)“. Narozena 27. 1. 1838 (tom. 2 fol. 257)."
+        "Narozena 27. 6., pokřtěna 28. 6. 1838 ve Zbečně č. 45: otec Martin Semenec, chalupník, syn Františka Semence, chalupníka ve Zbečně č. 6, a Ludmily roz. Hlavičkové (č. 5); matka Kateřina, dcera Václava Wašíka (?), domkáře ve Zbečně č. 11, a Anny (č. 13).",
+        "ROZPOR: oddací zápis 1869 uvádí narození „27. ledna 1838“ – platí křest (27. června). Matka Anny Červenkové."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130"
       ],
       scans: [
-        {"f":"img/1869_snatek_frantisek_vlasak_marie_semencova_zbecno_b.jpg","t":"Sňatek Vlasák × Semencová 1869 – data narození"}
+        {"f":"img/1869_snatek_frantisek_vlasak_marie_semencova_zbecno_b.jpg","t":"Sňatek Vlasák × Semencová 1869 – data narození"},
+        {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest Marie Semencové, Zbečno 28. 6. 1838"}
       ]
     },
     {
@@ -5202,13 +5208,16 @@ window.RODOKMEN = {
       line: "vlasak",
       cert: "M",
       b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      father: "jan_vl0",
       spouse: "marie_no",
       occ: "mlynář v Sýkořicích č. 41",
       notes: [
-        "Děd Anny Červenkové."
+        "Děd Anny Červenkové.",
+        "V lednu 1838 mlynářský tovaryš ve Zbečně č. 58 (křest syna Františka); syn Jana Vlasáka, nádeníka ve Zbečně č. 8."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126"
       ]
     },
     {
@@ -5218,12 +5227,14 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true,"place":"Nová Huť č. p. 34"},
+      father: "josef_nv",
       spouse: "jan_vl",
       notes: [
         "Dcera Josefa Nováka z Nové Huti č. 34."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126"
       ]
     },
     {
@@ -5232,29 +5243,32 @@ window.RODOKMEN = {
       line: "semenec",
       cert: "M",
       b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      father: "frantisek_sm",
       spouse: "barbora_hl",
-      occ: "podruh ve Zbečně č. 45",
+      occ: "chalupník ve Zbečně č. 45 (1838), podruh (1869)",
       notes: [
         "Děd Anny Červenkové."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130"
       ]
     },
     {
       id: "barbora_hl",
-      name: "Kateřina / Barbora Semencová",
-      maiden: "Vojtíšková / Hlavičková (?)",
+      name: "Kateřina Semencová",
+      maiden: "Wašíková (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Zbečno č. p. 11"},
       spouse: "martin_se",
       notes: [
-        "Matka Marie Vlasákové; ROZPOR: 1869 „Kateřina, dcera Václava Vojtíška (?)“, 1870 „Barbora, dcera Václava Hlavičky (?)“, obě ze Zbečna č. 11."
+        "Matka Marie Vlasákové; dcera Václava Wašíka (?) (1869 čteno „Vojtíšek (?)“), domkáře ve Zbečně č. 11, a Anny. Dřívější „Barbora, dcera Václava Hlavičky“ (křest vnučky 1870) bylo chybné čtení – Hlavičková byla babička Ludmila."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130"
       ]
     },
     {
@@ -6076,6 +6090,57 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1782_oddani_prokop_laukota_syn_simona_x_anna_dcera_antonina_laukoty_osek10_osek07_sn8.jpg","t":"První sňatek Prokopa Laukoty, Osek 24. 11. 1782"}
+      ]
+    },
+    {
+      id: "jan_vl0",
+      name: "Jan Vlasák",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      occ: "nádeník ve Zbečně č. 8",
+      notes: [
+        "Otec mlynáře Jana Vlasáka (křest vnuka Františka 1838); manželka Marie (rodné příjmení nečitelné)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126"
+      ],
+      scans: [
+        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"}
+      ]
+    },
+    {
+      id: "josef_nv",
+      name: "Josef Novák",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      occ: "domkář v Nové Huti č. 34",
+      notes: [
+        "Otec Marie Vlasákové; manželka Marie roz. Malá (křest vnuka Františka 1838)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126"
+      ],
+      scans: [
+        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"}
+      ]
+    },
+    {
+      id: "frantisek_sm",
+      name: "František Semenec",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      occ: "chalupník ve Zbečně č. 6",
+      notes: [
+        "Otec Martina Semence; manželka Ludmila roz. Hlavičková (křest vnučky Marie 1838)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130"
+      ],
+      scans: [
+        {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest Marie Semencové, Zbečno 28. 6. 1838"}
       ]
     }
   ]
