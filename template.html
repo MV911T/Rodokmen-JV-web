@@ -191,6 +191,7 @@ dl.facts dd{margin:0;min-width:0}
 .story .facts{font-size:.8rem;color:var(--muted);border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:4px 0}
 #map .auto{font-size:9.5px;fill:var(--muted)}
 #map circle.auto{stroke-width:1}
+.meta .genhint{color:var(--muted);font-size:.92em}
 .meta .plink{font:inherit;color:var(--link);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline}
 @media (max-width:520px){ header h1{font-size:1.25rem} .certs{margin-left:0} dl.facts{grid-template-columns:1fr} }
 #legBtn{display:none}
@@ -419,7 +420,7 @@ const meta = document.getElementById('meta');
 // number of generations back from the root (parents = 1 generation back), computed from father/mother links
 const genDepth = (()=>{ const memo={}; const g=id=>{ if(!id||!P[id]) return 0; if(memo[id]!==undefined) return memo[id]; memo[id]=0; return memo[id]=1+Math.max(g(P[id].father),g(P[id].mother)); }; return g(D.root)-1; })();
 const genWord = n => n===1?'generace':(n>=2&&n<=4?'generace':'generací');
-meta.innerHTML = `<b>${genDepth} ${genWord(genDepth)} zpět</b> · ${D.people.length} osob · ${nM} doloženo přímo v matrikách · nejstarší doložený předek <button type="button" class="plink" id="oldest">${oldest.name}</button> (~${oldest.b.year}) · aktualizováno ${window.RODOKMEN_BUILD||D.updated}`;
+meta.innerHTML = `<b title="Počítá se od Jiřího: rodiče = 1. generace zpět, prarodiče = 2., praprarodiče = 3. … Číslo je nejdelší doložená řada předků v rodokmenu.">${genDepth} ${genWord(genDepth)} zpět</b> <span class="genhint">(rodiče = 1, prarodiče = 2 …)</span> · ${D.people.length} osob · ${nM} doloženo přímo v matrikách · nejstarší doložený předek <button type="button" class="plink" id="oldest">${oldest.name}</button> (~${oldest.b.year}) · aktualizováno ${window.RODOKMEN_BUILD||D.updated}`;
 document.getElementById('oldest').addEventListener('click',()=>{ applyScale(Math.max(vs,0.6)); focusCard(oldest.id); });
 window.RV_focus = id => { applyScale(Math.max(vs,0.6)); focusCard(id); };
 
