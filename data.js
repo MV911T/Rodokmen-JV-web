@@ -1643,12 +1643,14 @@ window.RODOKMEN = {
       marriage: "25. 11. 1851, Zdice – s Antonií Divišovou",
       notes: [
         "Narozen a pokřtěn 3. 4. 1825 ve Hředlích č. 37 (kaplan Joannes Ant. Krob). Otec Jakub Červenka, sedlák z Hředl č. 37, syn † Jakuba Červenky, sedláka z Hředl č. 37, a † Anny roz. „Chollryzkové“ (? – nejspíš Holické) z Hředl č. 8; matka Veronika, dcera Jiřího Skály, sedláka z Vinařic, a Evy z Býkoše (panství Suchomasty). Kmotři Matěj Vopršal (?), sedlák z Hředl, a Anna Fraňková (?).",
-        "Oddán 25. 11. 1851 ve Zdicích (Černín č. 7, kaplan P. Fr. Havlíček): gruntovník ve Hředlích č. 37, 26 let, syn Jakuba Červenky, gruntovníka ve Hředlích č. 37, a Veroniky roz. Skálové z Vinařic."
+        "Oddán 25. 11. 1851 ve Zdicích (Černín č. 7, kaplan P. Fr. Havlíček): gruntovník ve Hředlích č. 37, 26 let, syn Jakuba Červenky, gruntovníka ve Hředlích č. 37, a Veroniky roz. Skálové z Vinařic.",
+        "Usedlost Hředle č. 37 = patrně stavební parcela 82 na indikační skice stabilního katastru (1840) – ověřit. Gruntovní knihy panství Točník: SOA Praha, Velkostatek Zbiroh (NAD 397) – neprohlédnuto."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82",
+        "Stabilní katastr – indikační skica Hředle 1840 (NA), BER137018400 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=BER137018400"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
@@ -1749,11 +1751,13 @@ window.RODOKMEN = {
       marriage: "24. 2. 1811, Všeradice – s Veronikou Skálovou",
       notes: [
         "Sedlák ve Hředlích č. 37 (1825). Jeho rodiče † Jakub Červenka, sedlák z Hředl č. 37, a † Anna (roz. Holická ?, v matrice „Chollryzková“ – nejisté čtení) z Hředl č. 8 – oba zemřeli před 1825 (křest syna Matěje).",
-        "Datum narození a sňatku podle rodopisu."
+        "Datum narození a sňatku podle rodopisu.",
+        "Usedlost Hředle č. 37 = patrně stavební parcela 82 na indikační skice stabilního katastru (1840) – ověřit. Gruntovní knihy panství Točník: SOA Praha, Velkostatek Zbiroh (NAD 397) – neprohlédnuto."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77"
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77",
+        "Stabilní katastr – indikační skica Hředle 1840 (NA), BER137018400 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=BER137018400"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
@@ -1952,10 +1956,12 @@ window.RODOKMEN = {
       marriage: "30. 11. 1696, Žebrák – s Dorotou Novou",
       notes: [
         "Nejstarší známý Červenka. V rodopisu na 1. stránce chybně „oddán 30. 11. 1896“, na 2. stránce správně 1696.",
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách.",
+        "KANDIDÁT: v Soupisu poddaných podle víry 1651 (panství Točník) v Hředlích Červenka není; v sousední Bzové „Václav Červenka – rychtář – 41 let“ s ženou Žofií – možný předek (otec?) Václava *~1674, vazba neověřena."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "Soupis poddaných podle víry 1651 – Berounsko (NA) – https://www.nacr.cz/wp-content/uploads/2019/01/Berounsko_cele_H_zamceno.pdf"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
@@ -2126,7 +2132,8 @@ window.RODOKMEN = {
         "Půlsedlák (sedlák) v Těchobuzi č. 19. V roce 1868 už nežil.",
         "Dvakrát ženatý: 7. 2. 1825 v Těchobuzi s Marií, vdovou po chalupníkovi z č. 22 (*~1785–1792, † 1. 9. 1835 v Těchobuzi č. 19); podruhé jako vdovec 10. 11. 1835 v Mezilesí č. 2 s Marií Karafiátovou (22 let) – matkou Antonie (*16. 12. 1836). Svědci Josef Hrň… (?), mlynář z Hojna (?), a Václav Šim… (?) z Lukavce (?). Rozpor vyřešen.",
         "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815.",
-        "Rodné příjmení matky Kateřiny se v zápisech liší: 1825 „Vrz…/Voz… (?)“, 1835 „Kroužilová (?)“."
+        "Rodné příjmení matky Kateřiny se v zápisech liší: 1825 „Vrz…/Voz… (?)“, 1835 „Kroužilová (?)“.",
+        "Usedlost Těchobuz č. 19 = stavební parcela 33 na indikační skice stabilního katastru (1829), k ní zahrada parc. 34 („N° 19“). Jméno držitele je v parcelním protokolu (NA); gruntovní knihy: SOA Třeboň, Velkostatek Těchobuz (NAD 330, 373 úředních knih 1739–1945) – neprohlédnuto."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2135,7 +2142,8 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N-O-Z 1784–1822 (id 8824), fol. 23, snímek 28 – https://digi.ceskearchivy.cz/8824",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 2, snímek 3 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), zemřelí fol. 97, snímek 98 – https://digi.ceskearchivy.cz/8825"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), zemřelí fol. 97, snímek 98 – https://digi.ceskearchivy.cz/8825",
+        "Stabilní katastr – indikační skica Těchobuz 1829 (NA), TAB483018290 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=TAB483018290"
       ],
       scans: [
         {"f":"img/1803_krest_Michal_Jan_Techobuz19_8824.jpg","t":"Křest Jana Michala, Těchobuz 1803"},
@@ -2723,12 +2731,14 @@ window.RODOKMEN = {
       occ: "sedlák v Těchobuzi č. 19",
       notes: [
         "Otec Jana Michala; usedlost Těchobuz č. 19.",
-        "Dal svolení k sňatku syna Jana 1825."
+        "Dal svolení k sňatku syna Jana 1825.",
+        "Usedlost Těchobuz č. 19 = stavební parcela 33 na indikační skice stabilního katastru (1829), k ní zahrada parc. 34 („N° 19“). Jméno držitele je v parcelním protokolu (NA); gruntovní knihy: SOA Třeboň, Velkostatek Těchobuz (NAD 330, 373 úředních knih 1739–1945) – neprohlédnuto."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N-O-Z 1784–1822 (id 8824), fol. 23, snímek 28 – https://digi.ceskearchivy.cz/8824",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 2, snímek 3 – https://digi.ceskearchivy.cz/8825"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 2, snímek 3 – https://digi.ceskearchivy.cz/8825",
+        "Stabilní katastr – indikační skica Těchobuz 1829 (NA), TAB483018290 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=TAB483018290"
       ]
     },
     {
