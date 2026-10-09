@@ -2341,29 +2341,33 @@ window.RODOKMEN = {
       name: "Jan Čapek",
       line: "capek",
       cert: "M",
-      b: {"date":"asi 1795","year":1795,"approx":true},
+      b: {"date":"3. 1. 1795","year":1795,"place":"Hrubý Jeseník č. p. 48"},
       d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
       father: "jan_c0",
+      mother: "barbora_bu",
       spouse: "marie_cc",
       occ: "familiant v Hrubém Jeseníku č. 48 (1829), výměnkář (1851)",
       marriage: "13. 2. 1816, Hrubý Jeseník – s Marií Čapkovou",
       notes: [
+        "Narozen 3. 1., pokřtěn 4. 1. 1795 v Hrubém Jeseníku č. 48 (administrátor Tobiáš Major); otec Jan Čapek, familiant; matka Barbora roz. Bukvajová (?). Kmotři Josef Borovička, chalupník, Václav Hojtek (?) a Jan Rozprava (?).",
         "Oddán 13. 2. 1816 v Hrubém Jeseníku (č. 48) jako syn † Jana Čapka, familianta v Jeseníku, 21 let; oddával Jan Tobiáš Majer.",
-        "Otec Karla Čapka; familiant v Jeseníku č. 48, 1851 výměnkář. V roce 1874 už nežil.",
-        "KANDIDÁT: index křtů Hrubý Jeseník 1795 „Čapka Jana, Jan – fol. 54“ – zápis nečten."
+        "Otec Karla Čapka; familiant v Jeseníku č. 48, 1851 výměnkář. V roce 1874 už nežil."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31"
       ],
       scans: [
         {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"},
         {"f":"img/1829_krest_karel_capek_hruby_jesenik_a.jpg","t":"Křest Karla Čapka, Hrubý Jeseník 1829"},
         {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"},
         {"f":"img/1816_snatek_jan_capek_hruby_jesenik_a.jpg","t":"Sňatek Jana Čapka a Marie Čapkové, Hrubý Jeseník 13. 2. 1816 – ženich"},
-        {"f":"img/1816_snatek_jan_capek_hruby_jesenik_b.jpg","t":"Sňatek Jana Čapka a Marie Čapkové 1816 – nevěsta"}
+        {"f":"img/1816_snatek_jan_capek_hruby_jesenik_b.jpg","t":"Sňatek Jana Čapka a Marie Čapkové 1816 – nevěsta"},
+        {"f":"img/1795_krest_jan_capek_hruby_jesenik_a.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795"},
+        {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"}
       ]
     },
     {
@@ -2372,26 +2376,30 @@ window.RODOKMEN = {
       maiden: "Čapková",
       line: "capek",
       cert: "M",
-      b: {"date":"asi 1798","year":1798,"approx":true,"place":"Hrubý Jeseník"},
+      b: {"date":"11. 1. 1797","year":1797,"place":"Hrubý Jeseník č. p. 30"},
       d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
       father: "karel_c0",
+      mother: "dorota_ce",
       spouse: "jan_c",
       marriage: "13. 2. 1816, Hrubý Jeseník – s Janem Čapkem",
       notes: [
+        "Narozena 11. 1., pokřtěna 12. 1. 1797 v Hrubém Jeseníku č. 30; otec Karel Čapek, chalupník (panství Konojedy ?); matka Dorota roz. Červinková z Oskořínka. Kmotři z Oskořínka (Marie Ostrá (?), Václav a Barbora Kautští).",
         "Matka Karla Čapka; dcera † Karla Čapka, chalupníka z Jeseníka č. 30 (křest syna 1829).",
-        "Při sňatku 1816 18 let, dcera † Karla Čapka, chalupníka z Jeseníka.",
-        "KANDIDÁT: index křtů Hrubý Jeseník 1797 „Čapka Kar., Marja – fol. 69“ – zápis nečten."
+        "Při sňatku 1816 18 let, dcera † Karla Čapka, chalupníka z Jeseníka."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 68/69, snímek 38 – https://ebadatelna.soapraha.cz/d/5728/38"
       ],
       scans: [
         {"f":"img/1829_krest_karel_capek_hruby_jesenik_a.jpg","t":"Křest Karla Čapka, Hrubý Jeseník 1829"},
         {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"},
         {"f":"img/1816_snatek_jan_capek_hruby_jesenik_a.jpg","t":"Sňatek Jana Čapka a Marie Čapkové, Hrubý Jeseník 13. 2. 1816 – ženich"},
-        {"f":"img/1816_snatek_jan_capek_hruby_jesenik_b.jpg","t":"Sňatek Jana Čapka a Marie Čapkové 1816 – nevěsta"}
+        {"f":"img/1816_snatek_jan_capek_hruby_jesenik_b.jpg","t":"Sňatek Jana Čapka a Marie Čapkové 1816 – nevěsta"},
+        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_a.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797"},
+        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_b.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797 – rodiče, kmotři"}
       ]
     },
     {
@@ -3204,7 +3212,8 @@ window.RODOKMEN = {
       marriage: "14. 2. 1832, Suchomasty – s Františkem Klikou",
       notes: [
         "Pozůstalá dcera † Václava Svobody, domkáře v Suchomastech č. 14, a Josefy roz. Prajzové (?) ze Suchomast; při sňatku 1832 24 let.",
-        "Křest zatím nenalezen (Anny v Suchomastech 1802–1812 prověřeny); sourozenci v č. 14: Josef (*27. 2. 1808), Barbora (*~1810) – matka Josefa, dcera Jakuba Krejzího / Prajzího (?)."
+        "Křest zatím nenalezen (Anny v Suchomastech 1802–1812 prověřeny); sourozenci v č. 14: Josef (*27. 2. 1808), Barbora (*~1810) – matka Josefa, dcera Jakuba Krejzího / Prajzího (?).",
+        "Ani v rejstříku narozených fary Borek 1784–1837 (Borek 11) není Anna z č. 14 – narozena jinde nebo pod jiným jménem."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
@@ -3417,12 +3426,18 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
       d: {"date":"před 3. 11. 1829","year":1829,"approx":true},
+      spouse: "dorota_ce",
       occ: "chalupník v Hrubém Jeseníku č. 30",
       notes: [
         "Otec Marie Čapkové (manželky Jana Čapka) – oba rody Čapků z Hrubého Jeseníka."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 68/69, snímek 38 – https://ebadatelna.soapraha.cz/d/5728/38"
+      ],
+      scans: [
+        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_a.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797"},
+        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_b.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797 – rodiče, kmotři"}
       ]
     },
     {
@@ -4051,12 +4066,18 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
       d: {"date":"před 13. 2. 1816","year":1816,"approx":true},
+      spouse: "barbora_bu",
       occ: "familiant v Hrubém Jeseníku",
       notes: [
         "Otec Jana Čapka (*~1795)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31"
+      ],
+      scans: [
+        {"f":"img/1795_krest_jan_capek_hruby_jesenik_a.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795"},
+        {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"}
       ]
     },
     {
@@ -4180,6 +4201,44 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138"
+      ]
+    },
+    {
+      id: "barbora_bu",
+      name: "Barbora Čapková",
+      maiden: "Bukvajová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      spouse: "jan_c0",
+      notes: [
+        "Matka Jana Čapka (*1795); příjmení a obec („z Bopřina (?)“) nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31"
+      ],
+      scans: [
+        {"f":"img/1795_krest_jan_capek_hruby_jesenik_a.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795"},
+        {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"}
+      ]
+    },
+    {
+      id: "dorota_ce",
+      name: "Dorota Čapková",
+      maiden: "Červinková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true,"place":"Oskořínek"},
+      spouse: "karel_c0",
+      notes: [
+        "Matka Marie Čapkové (*1797), z Oskořínka."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 68/69, snímek 38 – https://ebadatelna.soapraha.cz/d/5728/38"
+      ],
+      scans: [
+        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_a.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797"},
+        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_b.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797 – rodiče, kmotři"}
       ]
     }
   ]
