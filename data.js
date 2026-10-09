@@ -2071,7 +2071,7 @@ window.RODOKMEN = {
       name: "Pavel Lodl",
       line: "lodl",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      b: {"date":"15. 1. 1811 (?)","year":1811,"place":"Osek u Rokycan č. p. 84"},
       d: {"date":"před 3. 2. 1873","year":1872,"approx":true},
       father: "martin_l1",
       mother: "katerina_le",
@@ -2079,6 +2079,7 @@ window.RODOKMEN = {
       occ: "havíř a obuvník v Oseku č. 86",
       marriage: "asi září–listopad 1838, Osek – s Annou Aubrechtovou",
       notes: [
+        "Narozen v lednu 1811 (15. 1. ?) v Oseku č. 84; otec Martin Lodl, švec; matka Kateřina, dcera † Jakuba Lezáka (?) a † Magdaleny (Vandrlové ?). Kmotři Šimon Lam…r (?) a Magdalena Vandrlová (?).",
         "Havíř a švec v Oseku č. 86. Syn † Martina Lodla, mistra ševcovského z Oseku č. 75, a † Kateřiny roz. Lezákové (?) z Oseku č. 83 (křest syna Martina 1849).",
         "Sňatek s Annou Aubrechtovou je v rejstříku oddaných Osek 11 (str. 230), sama strana ale není nasnímána – podle sousedních stran mezi 9. 9. a 20. 11. 1838.",
         "V roce 1873 už nežil; v rejstříku zemřelých Osek 1848–1869 není.",
@@ -2088,10 +2089,13 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
         "SOA Plzeň, Sbírka matrik západních Čech (fond 10014), fara Osek, kniha Osek 20 (N 1868–1874), str. 204, snímek 109 – https://www.portafontium.eu/iipimage/30066686/osek-20_1090-n",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
-        "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), rejstřík snímek 251: „Pawel Lodl s Annau Aubrechtowau … 230“ (strana 230 není nasnímána)"
+        "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), rejstřík snímek 251: „Pawel Lodl s Annau Aubrechtowau … 230“ (strana 230 není nasnímána)",
+        "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n"
       ],
       scans: [
-        {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest Martina Lodla, Osek 1849 – otec Pavel Lodl"}
+        {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest Martina Lodla, Osek 1849 – otec Pavel Lodl"},
+        {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
+        {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"}
       ]
     },
     {
@@ -2149,24 +2153,27 @@ window.RODOKMEN = {
       name: "Matěj Forejt",
       line: "forejt",
       cert: "M",
-      b: {"date":"asi 1822/1823","year":1823,"approx":true,"place":"Osek u Rokycan č. p. 91"},
+      b: {"date":"9. 10. 1823 (?)","year":1823,"place":"Osek u Rokycan č. p. 91"},
       father: "josef_f",
       mother: "marianna_le",
       spouse: "anna_lo",
       occ: "havíř v Oseku č. 91",
       marriage: "17. 2. 1846, Osek – s Annou Laukotovou",
       notes: [
+        "Narozen a pokřtěn v říjnu 1823 (9. 10. ?) v Oseku č. 91; otec Josef Forejt, poddaný mirošovský; matka Veronika, dcera Josefa Lezáka, sedláka z Volduch č. 67, a Doroty (…ové) z Volduch. Kmotři Matěj Aubrecht, sedlák z Volduch, Kateřina Lermanová (?) a Kašpar Aubrecht, sedlák z Oseka.",
         "Havíř (horník) z Oseku č. 91, poddaný panství Mirošov. Syn Josefa Forejta, domkáře z Oseku č. 91, a Marianny, dcery Josefa Lezáka (?), sedláka z Volduch č. 67.",
         "Při sňatku 17. 2. 1846 23 let, svobodný; povolení vrchnostenského úřadu v Mirošově z 30. 1. 1846, souhlas dal otec Josef Forejt."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
-        "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o"
+        "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
+        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
       ],
       scans: [
         {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_zenich.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 17. 2. 1846 – ženich"},
-        {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_nevesta.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 1846 – nevěsta"}
+        {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_nevesta.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 1846 – nevěsta"},
+        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"}
       ]
     },
     {
@@ -2295,10 +2302,15 @@ window.RODOKMEN = {
       spouse: "katerina_le",
       occ: "mistr ševcovský v Oseku č. 75",
       notes: [
-        "Otec Pavla Lodla."
+        "Otec Pavla Lodla; švec (1811, Osek č. 84), později mistr ševcovský v Oseku č. 75. Kandidáti na další děti podle rejstříku: Kateřina a Magdalena (1806), Anna – nečteno."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n"
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
+        "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n"
+      ],
+      scans: [
+        {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
+        {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"}
       ]
     },
     {
@@ -2311,10 +2323,15 @@ window.RODOKMEN = {
       d: {"date":"před 6. 9. 1849","year":1849,"approx":true},
       spouse: "martin_l1",
       notes: [
-        "Matka Pavla Lodla; čtení příjmení nejisté."
+        "Matka Pavla Lodla; dcera † Jakuba Lezáka (?) a † Magdaleny (Vandrlové ?) (křest syna 1811). Čtení příjmení nejisté."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n"
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
+        "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n"
+      ],
+      scans: [
+        {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
+        {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"}
       ]
     },
     {
@@ -2331,37 +2348,47 @@ window.RODOKMEN = {
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
+      ],
+      scans: [
+        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"}
       ]
     },
     {
       id: "marianna_le",
-      name: "Marianna Forejtová",
-      maiden: "Lezáková (?)",
+      name: "Veronika Forejtová",
+      maiden: "Lezáková",
       line: "lezak",
       cert: "M",
       b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Volduchy č. p. 67"},
       father: "josef_le",
       spouse: "josef_f",
       notes: [
-        "Matka Matěje Forejta; dcera Josefa Lezáka (?), sedláka z Volduch č. 67."
+        "Matka Matěje Forejta; dcera Josefa Lezáka, sedláka z Volduch č. 67, a Doroty (…ové) z Volduch.",
+        "ROZPOR v křestním jméně: křest syna 1823 jasně „Veronika“; oddací zápis syna 1846 a křest vnučky 1848 dříve čteny „Marianna (?)“ – přednost má křest, pozdější zápisy přečíst znovu."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
-        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
+        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
+      ],
+      scans: [
+        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"}
       ]
     },
     {
       id: "josef_le",
-      name: "Josef Lezák (?)",
+      name: "Josef Lezák",
       line: "lezak",
       cert: "M",
       b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      spouse: "dorota_v",
       occ: "sedlák ve Volduchách č. 67",
       notes: [
         "Otec Marianny Forejtové; čtení příjmení nejisté."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o"
+        "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
+        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
       ]
     },
     {
@@ -2946,6 +2973,20 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+      ]
+    },
+    {
+      id: "dorota_v",
+      name: "Dorota Lezáková",
+      line: "lezak",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true,"place":"Volduchy"},
+      spouse: "josef_le",
+      notes: [
+        "Babička Matěje Forejta; rodné příjmení nečitelné (…ová z Volduch)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
       ]
     }
   ]
