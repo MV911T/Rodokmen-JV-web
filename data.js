@@ -5052,6 +5052,7 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1822)","year":1822,"approx":true,"place":"Heršpice"},
       father: "valentin_ma",
+      mother: "anna_sm",
       spouse: "josef_hb",
       marriage: "9. 2. 1841, Heršpice – s Josefem Hrabovským",
       notes: [
@@ -5467,31 +5468,44 @@ window.RODOKMEN = {
       name: "Jiří Hrabovský",
       line: "hrabovsky",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"asi 1785","year":1785,"approx":true,"place":"Hodějice"},
+      father: "pavel_hb",
       spouse: "magdalena_si",
       occ: "čtvrtník (1819), třičtvrtník (1841) v Hodějicích",
+      marriage: "20. 7. 1806, Hodějice – s Magdalenou Šimoníkovou",
       notes: [
+        "Oddán 20. 7. 1806 v Hodějicích (č. 69) jako „Georg, Sohn nach dem † Paul Hrabowsky, Viertler“, 21 let, s Magdalenou, dcerou Martina Šimoníka, čtvrtníka (č. 35), 20 let.",
         "Otec Josefa Hrabovského; v roce 1841 žil."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
-        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 378, snímek 367 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 378, snímek 367 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
+      ],
+      scans: [
+        {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"}
       ]
     },
     {
       id: "magdalena_si",
       name: "Magdalena Hrabovská",
-      maiden: "Šimoníková / Šimánková (?)",
+      maiden: "Šimoníková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      b: {"date":"asi 1786","year":1786,"approx":true,"place":"Hodějice č. p. 35"},
+      father: "martin_si",
       spouse: "jiri_hb",
+      marriage: "20. 7. 1806, Hodějice – s Jiřím Hrabovským",
       notes: [
-        "Matka Josefa Hrabovského; dcera Martina Šimánka (?) z Hodějic."
+        "Dcera Martina Šimoníka, čtvrtníka v Hodějicích č. 35; oddána 20. 7. 1806 (20 let). Matka Josefa Hrabovského (*1819)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
-        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 378, snímek 367 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 378, snímek 367 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
+      ],
+      scans: [
+        {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"}
       ]
     },
     {
@@ -5499,13 +5513,19 @@ window.RODOKMEN = {
       name: "Valentin Maláč",
       line: "malac",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"asi 1789","year":1789,"approx":true,"place":"Heršpice"},
+      spouse: "anna_sm",
       occ: "třičtvrtník v Heršpicích",
+      marriage: "6. 7. 1819, Křenovice – s Annou Spačilovou",
       notes: [
-        "Otec Františky Hrabovské; manželka Anna roz. Spačilová (?)."
+        "Oddán 6. 7. 1819 v Křenovicích jako třičtvrtník z Heršpic (č. 4), 30 let, s Annou, dcerou † Matěje Spačila z Křenovic č. 35, 21 let; svědci František Fuks a Lazar Hložek, třičtvrtníci. Otec Františky Hrabovské."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 87, snímek 80 – https://www.mza.cz/actapublica/matrika/detail/1959"
+      ],
+      scans: [
+        {"f":"img/1819_O_13137_sn80_str87_Krenovice_Malac_Valentin_x_Spacilova_Anna.jpg","t":"Sňatek Valentina Maláče a Anny Spačilové, Křenovice 6. 7. 1819"}
       ]
     },
     {
@@ -6401,6 +6421,60 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1800_umrti_matej_jonas_sykorice6_zbecno23_sn11.jpg","t":"Úmrtí Matěje Jonáše, Sýkořice 26. 8. 1800"}
+      ]
+    },
+    {
+      id: "pavel_hb",
+      name: "Pavel Hrabovský",
+      line: "hrabovsky",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      d: {"date":"před 20. 7. 1806","year":1806,"approx":true},
+      occ: "čtvrtník v Hodějicích",
+      notes: [
+        "Otec Jiřího Hrabovského (sňatek 1806)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
+      ],
+      scans: [
+        {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"}
+      ]
+    },
+    {
+      id: "martin_si",
+      name: "Martin Šimoník",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      occ: "čtvrtník v Hodějicích č. 35",
+      notes: [
+        "Otec Magdaleny Hrabovské (sňatek 1806)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
+      ],
+      scans: [
+        {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"}
+      ]
+    },
+    {
+      id: "anna_sm",
+      name: "Anna Maláčová",
+      maiden: "Spačilová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"asi 1798","year":1798,"approx":true,"place":"Křenovice č. p. 35"},
+      spouse: "valentin_ma",
+      marriage: "6. 7. 1819, Křenovice – s Valentinem Maláčem",
+      notes: [
+        "Dcera † Matěje Spačila z Křenovic č. 35; matka Františky Hrabovské."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 87, snímek 80 – https://www.mza.cz/actapublica/matrika/detail/1959"
+      ],
+      scans: [
+        {"f":"img/1819_O_13137_sn80_str87_Krenovice_Malac_Valentin_x_Spacilova_Anna.jpg","t":"Sňatek Valentina Maláče a Anny Spačilové, Křenovice 6. 7. 1819"}
       ]
     }
   ]
