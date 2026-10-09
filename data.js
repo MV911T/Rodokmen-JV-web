@@ -5280,22 +5280,26 @@ window.RODOKMEN = {
       name: "Martin Semenec",
       line: "semenec",
       cert: "M",
-      b: {"date":"asi 1808","year":1808,"approx":true,"place":"Zbečno"},
+      b: {"date":"8. 11. 1807","year":1807,"place":"Zbečno č. p. 45"},
       father: "frantisek_sm",
+      mother: "ludmila_hl",
       spouse: "barbora_hl",
       occ: "chalupník ve Zbečně č. 45 (1838), podruh (1869)",
       marriage: "6. 11. 1827, Zbečno – s Kateřinou Wašíkovou (?)",
       notes: [
+        "Narozen a pokřtěn 8. 11. 1807 ve Zbečně č. 45: otec František Semenec, chalupník, matka Ludmila, dcera † Václava Hlavičky, chalupníka z Karnova (?) č. 4; kmotři Martin Šimánek (?), chalupník, a Josef Procházka, sedlák, oba ze Zbečna.",
         "Děd Anny Červenkové.",
         "Oddán 6. 11. 1827 ve Zbečně (č. 45) jako podruh (?), 19 (?) let, svobodný, syn † Františka Semence ze Zbečna a Ludmily roz. Hlavičkové (?) z Krawna (?) č. 4; nevěsta Kateřina, dcera Václava Wašíka (?) ze Zbečna č. 11 a Anny roz. Pšan… (?), 24 let."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 67, snímek 36 – https://ebadatelna.soapraha.cz/d/8855/36"
       ],
       scans: [
-        {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"}
+        {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"},
+        {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest Martina Semence, Zbečno 8. 11. 1807"}
       ]
     },
     {
@@ -6184,11 +6188,13 @@ window.RODOKMEN = {
       occ: "nádeník ve Zbečně č. 8",
       notes: [
         "Otec mlynáře Jana Vlasáka (křest vnuka Františka 1838); manželka Marie (rodné příjmení nečitelné).",
-        "V r. 1833 „Häusler aus Hudlitz (?)“, v r. 1838 nádeník ve Zbečně č. 8."
+        "V r. 1833 „Häusler aus Hudlitz (?)“, v r. 1838 nádeník ve Zbečně č. 8.",
+        "V r. 1811 „Inwohner von Hudlitz No. 19“ – dcera Anna (*13. 5. 1811, Zbečno č. 20). Pochází tedy z Hudlic (vlastní fara)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
-        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 79, snímek 42 – https://ebadatelna.soapraha.cz/d/8855/42"
       ],
       scans: [
         {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"}
@@ -6221,6 +6227,7 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
       d: {"date":"před 6. 11. 1827","year":1827,"approx":true},
+      spouse: "ludmila_hl",
       occ: "chalupník ve Zbečně č. 6",
       notes: [
         "Otec Martina Semence; manželka Ludmila roz. Hlavičková (křest vnučky Marie 1838).",
@@ -6295,13 +6302,33 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
       spouse: "jan_vl0",
       notes: [
-        "Matka mlynáře Jana Vlasáka (sňatek 1833: „Maria geborene Jaroschin (?) aus …brnitz (?) No. 6“)."
+        "Matka mlynáře Jana Vlasáka (sňatek 1833: „Maria geborene Jaroschin (?) aus …brnitz (?) No. 6“).",
+        "Podle křtu dcery Anny (1811) dcera † Matěje Jaroše (?), ševce z Otročiněvsi (?) / Ostrovce (?) č. 6."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 79, snímek 42 – https://ebadatelna.soapraha.cz/d/8855/42"
       ],
       scans: [
         {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"}
+      ]
+    },
+    {
+      id: "ludmila_hl",
+      name: "Ludmila Semencová",
+      maiden: "Hlavičková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      spouse: "frantisek_sm",
+      notes: [
+        "Dcera † Václava Hlavičky, chalupníka z Karnova (?) č. 4; matka Martina Semence (*1807). Asi zemřela před 1816 (manžel se 1816 znovu oženil ?)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 67, snímek 36 – https://ebadatelna.soapraha.cz/d/8855/36"
+      ],
+      scans: [
+        {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest syna Martina, Zbečno 1807"}
       ]
     }
   ]
