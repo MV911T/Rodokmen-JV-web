@@ -5400,14 +5400,15 @@ window.RODOKMEN = {
       spouse: "vit_fo",
       marriage: "1. sňatek VII 1771, Osek – s Vojtěchem Andrlem, sedlákem z Volduch (vdovcem); 2. sňatek 22. 7. 1772, Osek – s Vítem Forejtem",
       notes: [
-        "Dcera Matěje Čady, sedláka ve Volduchách. Poprvé oddána v červenci 1771 (?) s Vojtěchem Andrlem, vdovcem a sedlákem z Volduch (č. 84 ?); po jeho smrti se 22. 7. 1772 provdala za Víta Forejta, syna Pavla Forejta z Volduch, do Oseka č. 66.",
+        "Dcera Matěje Čady, sedláka ve Volduchách. Poprvé oddána v červenci 1771 (?) s Vojtěchem Andrlem, vdovcem a sedlákem z Volduch č. 84 († 16. 4. 1772, 41 let); po jeho smrti se 22. 7. 1772 provdala za Víta Forejta, syna Pavla Forejta z Volduch, do Oseka č. 66.",
         "V Oseku č. 66: dcera Barbora (VIII 1778), syn Josef (VI 1781, pohrobek – „Forejt Witwe, Barbara Mutter“)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 14 – https://www.portafontium.eu/iipimage/30066671/osek-05_0140-n",
         "SOA Plzeň, fara Osek, kniha Osek 05, str. 16, snímek 11 – https://www.portafontium.eu/iipimage/30066671/osek-05_0110-n",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, snímek 3 – https://www.portafontium.eu/iipimage/30066673/osek-07_0030-o",
-        "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o"
+        "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o",
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Volduchy, snímek 72 – https://www.portafontium.eu/iipimage/30066674/osek-08_0720-z"
       ],
       scans: [
         {"f":"img/1772_oddani_vit_forejt_barbora_vdova_anderle_osek66_osek07_sn3.jpg","t":"Sňatek Víta Forejta a Barbory, vdovy po Vojtěchu Andrlovi, Osek 22. 7. 1772"},
@@ -5638,23 +5639,27 @@ window.RODOKMEN = {
       name: "Vít Forejt",
       line: "forejt",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true,"place":"Volduchy"},
+      b: {"date":"4. 6. 1746","year":1746,"place":"Volduchy"},
       d: {"date":"mezi VIII 1778 a VI 1781","year":1781,"approx":true},
       father: "pavel_fo",
+      mother: "barbora_fp",
       spouse: "barbora_fo",
       occ: "sedlák v Oseku č. 66",
       marriage: "22. 7. 1772, Osek – s Barborou, vdovou po Vojtěchu Andrlovi",
       notes: [
+        "Narozen 4. 6., pokřtěn 5. 6. 1746 v Oseku (z Volduch): „Wit, vlastní syn … otce Pawla Foregta, matky Barbory“; kmotr Václav Pešta z Rokycan, svědci Josef Fechanec (?) a Marie Magdalena z Volduch. Sestry (?) Anna (1748) a Barbora (1751).",
         "Oddán 22. 7. 1772 v Oseku (č. 66): „Veit Forejt, Sohn des Paul Forejt aus Wolduch, mit der verwittibten Barbara nach verst. Adalbert Andrle“; svědci Jakub Koušlav (?), Jakub Čada a Barbora Forejtová.",
         "V srpnu 1778 jako sedlák v č. 66 otec dcery Barbory; zemřel před narozením syna Josefa (VI 1781). Úmrtí ve faře Osek 1778–1781 nenalezeno (asi mimo faru)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, snímek 3 – https://www.portafontium.eu/iipimage/30066673/osek-07_0030-o",
         "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o",
-        "SOA Plzeň, fara Osek, kniha Osek 05, str. 16, snímek 11 – https://www.portafontium.eu/iipimage/30066671/osek-05_0110-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05, str. 16, snímek 11 – https://www.portafontium.eu/iipimage/30066671/osek-05_0110-n",
+        "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), rok 1746, snímek 31 – https://www.portafontium.eu/iipimage/30066669/osek-03_0310-n"
       ],
       scans: [
-        {"f":"img/1772_oddani_vit_forejt_barbora_vdova_anderle_osek66_osek07_sn3.jpg","t":"Sňatek Víta Forejta a Barbory, vdovy po Vojtěchu Andrlovi, Osek 22. 7. 1772"}
+        {"f":"img/1772_oddani_vit_forejt_barbora_vdova_anderle_osek66_osek07_sn3.jpg","t":"Sňatek Víta Forejta a Barbory, vdovy po Vojtěchu Andrlovi, Osek 22. 7. 1772"},
+        {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"}
       ]
     },
     {
@@ -5663,23 +5668,29 @@ window.RODOKMEN = {
       line: "forejt",
       cert: "M",
       b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      spouse: "barbora_fp",
       occ: "Volduchy",
       notes: [
         "Otec Víta Forejta; v roce 1772 žil (Volduchy)."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, snímek 3 – https://www.portafontium.eu/iipimage/30066673/osek-07_0030-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, snímek 3 – https://www.portafontium.eu/iipimage/30066673/osek-07_0030-o",
+        "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), rok 1746, snímek 31 – https://www.portafontium.eu/iipimage/30066669/osek-03_0310-n"
+      ],
+      scans: [
+        {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"}
       ]
     },
     {
       id: "matej_ca",
-      name: "Matěj Čada",
+      name: "Matouš (?) Čada",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
       occ: "sedlák ve Volduchách",
       notes: [
-        "Otec Barbory Forejtové (1. sňatek 1771). Jakub Čada z Volduch (svědek 1771 i 1772) asi její bratr (?)."
+        "Otec Barbory Forejtové („filia Mathei Czada rustici Wolduchensis“, 1771 – latinské Mattheus = Matouš; ve Volduchách současně žil i Matěj Čada, pozor na záměnu).",
+        "KANDIDÁT: křest Barbory 1. 12. 1745 v Oseku, „otce Mataušse Čady (?), matky Ewy“ – rodina tehdy v Oseku, ne ve Volduchách; neověřeno."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o"
@@ -5757,6 +5768,23 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
+      ]
+    },
+    {
+      id: "barbora_fp",
+      name: "Barbora Forejtová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
+      spouse: "pavel_fo",
+      notes: [
+        "Matka Víta Forejta (křest 1746); rodné příjmení neuvedeno."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), rok 1746, snímek 31 – https://www.portafontium.eu/iipimage/30066669/osek-03_0310-n"
+      ],
+      scans: [
+        {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"}
       ]
     }
   ]
