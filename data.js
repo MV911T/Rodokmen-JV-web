@@ -5331,22 +5331,29 @@ window.RODOKMEN = {
       name: "Tobiáš Kučera",
       line: "kucera",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
-      d: {"date":"před 9. 7. 1837","year":1837,"approx":true},
+      b: {"date":"asi 1767","year":1767,"approx":true,"place":"Heršpice"},
+      d: {"date":"28. 12. 1835","year":1835,"place":"Heršpice č. p. 40"},
+      cause: "stáří",
       spouse: "katerina_lo",
       occ: "třičtvrtník v Heršpicích",
       notes: [
         "Otec Jana Kučery.",
         "S Kateřinou Lotrabovou (?) měl v Heršpicích č. 40 děti: Anežka (1801), Kateřina (1803), Anna (1804 ?), další 1806–1811, Josef (1813), Jan (1816); r. 1801–1803 podruh, později třičtvrtník. Kmotři z Kobeřic (Štěpán Zahula ?) – Kateřina snad z Kobeřic. Sňatek není v indexu oddaných Slavkov 1784–1820.",
-        "Pozor na záměnu: Tobiáš Kučera ml., podruh v č. 20, oddán 1808 s Teklou Hrabovskou (děti 1810, 1814) – jiný pár. KANDIDÁT: 1. manželka Barbora (děti v č. 47 1799, † 1800)."
+        "Zemřel 28. 12. 1835 (pohřben 30. 12.) v Heršpicích č. 40 jako třičtvrtník, 68 let, sešlostí věkem (Z 13149, str. 310).",
+        "KANDIDÁT křtu: 18. 5. 1767 pokřtěn „Dobias“, syn Václava Kučery, sedláka v Heršpicích, a Kateřiny (NOZ 13121, sn. 201) – přesně sedí s věkem; jiné Tobiáše 1763–1771 zatím neprověřeny.",
+        "POZOR: kolem 1800 žili v Heršpicích tři Tobiášové Kučerové – Tobiáš × Barbora (čtvrtník, č. 47, děti 1783–1799), náš Tobiáš (č. 40) a Tobiáš ml. × Tekla Hrabovská (podruh, č. 20)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 419, snímek 407 – https://www.mza.cz/actapublica/matrika/detail/1951",
-        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 399–419, snímky 387–407 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 399–419, snímky 387–407 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, Z, sign. 13149, oddíl Heršpice, str. 310, snímek 279 – https://www.mza.cz/actapublica/matrika/detail/1964",
+        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 201 – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
-        {"f":"img/1813-1814_N_13123_sn403_str415_Herspice_c40_Tobias_Katharina_Lotrab_a_c20_Tobias_Inmann_Thekla_plne_rozl.jpg","t":"Heršpice 1813/14: Tobiáš × Kateřina Lotrabová (č. 40) a Tobiáš ml. × Tekla Hrabovská (č. 20)"}
+        {"f":"img/1813-1814_N_13123_sn403_str415_Herspice_c40_Tobias_Katharina_Lotrab_a_c20_Tobias_Inmann_Thekla_plne_rozl.jpg","t":"Heršpice 1813/14: Tobiáš × Kateřina Lotrabová (č. 40) a Tobiáš ml. × Tekla Hrabovská (č. 20)"},
+        {"f":"img/1835_Z_13149_sn279_str310_Herspice40_Kucera_Tobias_68let_plne_rozl.jpg","t":"Úmrtí Tobiáše Kučery, Heršpice 28. 12. 1835"},
+        {"f":"img/1767_N_13121_sn201L_V-18_Kucera_Tobias_krest_Vaclav_x_Katerina_Herspice.jpg","t":"Kandidátní křest Tobiáše Kučery, Heršpice 18. 5. 1767"}
       ]
     },
     {
@@ -5358,7 +5365,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true,"place":"Letonice (?)"},
       spouse: "tobias_ku",
       notes: [
-        "Matka Jana Kučery (*1816) a dalších dětí v Heršpicích č. 40 (1801–1816); v křtech „Lottrab / Lotrab (?)“. Původ: oddací zápis syna 1837 „z Letonic (?)“, kmotři z Kobeřic – nejisté."
+        "Matka Jana Kučery (*1816) a dalších dětí v Heršpicích č. 40 (1801–1816); v křtech „Lottrab / Lotrab (?)“. Původ: oddací zápis syna 1837 „z Letonic (?)“, kmotři z Kobeřic – nejisté.",
+        "KANDIDÁT úmrtí: index zemřelých 1822 „Kučera Katharina – Herspitz – 285/288“ (nečteno)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
