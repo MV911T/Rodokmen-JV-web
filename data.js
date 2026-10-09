@@ -2833,16 +2833,19 @@ window.RODOKMEN = {
       name: "Vojtěch Michal",
       line: "michal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true},
+      b: {"date":"19. 4. 1775","year":1775,"place":"Těchobuz č. p. 19"},
       father: "jakub_mi",
+      mother: "katerina_mi",
       spouse: "katerina_vr",
       occ: "sedlák v Těchobuzi č. 19",
       notes: [
+        "Pokřtěn 19. 4. 1775 v Těchobuzi č. 19 (fara Zhoř): „Adalbertus – Michal Jacobus & Catharina, subditi Tiechobuzenses“; kmotr Jakub Růžička, svědek Vojtěch Moravec. Sourozenci podle rejstříku: Rozálie (1764), Anna (1767), Kateřina (1769), Jan (1771), Alžběta (1773), Magdalena (1778), Terezie (1780), Josef (1782), Marie (1785).",
         "Otec Jana Michala; sedlák v Těchobuzi č. 19 (od 1798).",
         "Dal svolení k sňatku syna Jana 1825.",
         "ZA HRANICÍ MATRIK – pozemková kniha Těchobuz: 9. 1. 1804 „předstoupil Wogtiech Michal k Auřadu a žádal, by gemu zápis na ten po gegho zemřelém Otcy Jakubu Michalowi dědičným přináležitý … pod No Consc. 19 ležecý Selský grunt … widán byl“; podle sirotčího protokolu z 20. 5. 1798 mu byl grunt postoupen za 1043 zl. 30 kr. Sourozencům vyplácel podíly po 30 zl.: Anně, Magdaleně (zemřela), Josefovi, Marii a Matějovi (?); matce (jméno neuvedeno) výminek.",
         "13. 1. 1825 prodal grunt č. 19 synovi Janovi a jeho nastávající manželce Marii (vdově) za 2000 zl. v. m.; sobě a manželce Kateřině si vymínil světničku a komoru.",
-        "Usedlost Těchobuz č. 19 = stavební parcela 33 na indikační skice stabilního katastru (1829), k ní zahrada parc. 34 („N° 19“)."
+        "Usedlost Těchobuz č. 19 = stavební parcela 33 na indikační skice stabilního katastru (1829), k ní zahrada parc. 34 („N° 19“).",
+        "Sňatek s Kateřinou není v Těchobuzi 1790–1802 (kniha 8824) – asi ve farnosti nevěsty."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -2851,12 +2854,14 @@ window.RODOKMEN = {
         "Stabilní katastr – indikační skica Těchobuz 1829 (NA), TAB483018290 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=TAB483018290",
         "SOkA Jindřichův Hradec, statek Těchobuz, Rustikální pozemková kniha 1785–1850, inv. č. 9, fol. 73, snímek 84 – https://digi.ceskearchivy.cz/127651",
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 74, snímek 85 – https://digi.ceskearchivy.cz/127651",
-        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 79v, snímek 91 – https://digi.ceskearchivy.cz/127651"
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 79v, snímek 91 – https://digi.ceskearchivy.cz/127651",
+        "SOA Třeboň, Sbírka matrik, fara Zhoř, NOZ 1759–1817 (kn. 8806), pag. 65, snímek 57 – https://digi.ceskearchivy.cz/8806"
       ],
       scans: [
         {"f":"img/Techobuz_rustik_pozemkova_kniha_127651_sn84_cp19_Jakub_Michal_fol73.jpg","t":"Pozemková kniha statku Těchobuz – grunt č. 19, Jakub Michal (asi 1795/96)"},
         {"f":"img/Techobuz_rustik_pk_127651_sn85R_fol74_1804_Vojtech_Michal_po_otci_Jakubovi_full.jpg","t":"Pozemková kniha Těchobuz 1804: Vojtěch Michal přebírá grunt č. 19 po zemřelém otci Jakubovi"},
-        {"f":"img/Techobuz_rustik_pk_127651_sn91L_fol79v_1825_vyminek_Vojtech_a_Katerina_full.jpg","t":"Pozemková kniha Těchobuz 1825: výminek Vojtěcha a Kateřiny Michalových"}
+        {"f":"img/Techobuz_rustik_pk_127651_sn91L_fol79v_1825_vyminek_Vojtech_a_Katerina_full.jpg","t":"Pozemková kniha Těchobuz 1825: výminek Vojtěcha a Kateřiny Michalových"},
+        {"f":"img/1775_krest_Michal_Vojtech_Techobuz19_otec_Jakub_matka_Katerina_8806_sn57.jpg","t":"Křest Vojtěcha Michala, Těchobuz 19. 4. 1775"}
       ]
     },
     {
@@ -5435,11 +5440,12 @@ window.RODOKMEN = {
       b: {"date":"asi 1727","year":1727,"approx":true},
       d: {"date":"4. (?) 5. 1797","year":1797,"place":"Těchobuz"},
       cause: "plicní choroba („Lungensucht“ ?)",
+      spouse: "katerina_mi",
       occ: "sedlák v Těchobuzi č. 19",
       notes: [
         "Kupní smlouvou z 2. 5. 1796 koupil od vrchnosti selský grunt Těchobuz č. 19 (24 jiter 1406 sáhů) za 500 zl., závdavek 50 zl., splátky po 7 zl. ročně; kvitance „Jakob und Adalbert Michal“.",
         "Zemřel 4. (?) 5. 1797 v Těchobuzi jako sedlák, 70 let, pohřben 6. 5.; grunt převzal podle sirotčího protokolu (20. 5. 1798) syn Vojtěch. Další děti: Anna, Magdalena († před 1804), Josef, Marie (*28. 8. 1785, Těchobuz č. 18 – matka Kateřina), Matěj (?). Vdova dostala výminek.",
-        "V roce 1785 bydlel v č. 18, manželka Kateřina (křest dcery Marie). KANDIDÁT: rejstřík oddaných fary Zhoř uvádí sňatek „Michal Jakub × Prokešová (?) Magdalena, 1776 (?)“ – možná 2. nebo 3. manželství; zda Kateřina či Magdalena je matkou Vojtěcha, neověřeno."
+        "V roce 1775 v č. 19, 1785 v č. 18 (?); manželka Kateřina (křty Vojtěcha 1775 a Marie 1785). Sňatek asi před 1763 (rejstřík oddaných Zhoř 1763–1784 ho nemá; dřívější „Jakub × Prokešová 1776“ bylo chybné čtení – Mrlichar)."
       ],
       sources: [
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 73, snímek 84 – https://digi.ceskearchivy.cz/127651",
@@ -5447,11 +5453,13 @@ window.RODOKMEN = {
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 74v–75, snímek 86 – https://digi.ceskearchivy.cz/127651",
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 77, snímek 88 – https://digi.ceskearchivy.cz/127651",
         "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (fara Zhoř), fol. 7, snímek 67 – https://digi.ceskearchivy.cz/8824",
-        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (fara Zhoř), fol. 1, snímek 17 – https://digi.ceskearchivy.cz/8824"
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (fara Zhoř), fol. 1, snímek 17 – https://digi.ceskearchivy.cz/8824",
+        "SOA Třeboň, Sbírka matrik, fara Zhoř, NOZ 1759–1817 (kn. 8806), pag. 65, snímek 57 – https://digi.ceskearchivy.cz/8806"
       ],
       scans: [
         {"f":"img/Techobuz_rustik_pk_127651_sn85R_fol74_1804_Vojtech_Michal_po_otci_Jakubovi_full.jpg","t":"Pozemková kniha Těchobuz 1804: grunt č. 19 po zemřelém Jakubu Michalovi"},
-        {"f":"img/1797_zemreni_Michal_Jakub_sedlak_Techobuz_8824_sn67.jpg","t":"Úmrtí Jakuba Michala, Těchobuz V 1797"}
+        {"f":"img/1797_zemreni_Michal_Jakub_sedlak_Techobuz_8824_sn67.jpg","t":"Úmrtí Jakuba Michala, Těchobuz V 1797"},
+        {"f":"img/1775_krest_Michal_Vojtech_Techobuz19_otec_Jakub_matka_Katerina_8806_sn57.jpg","t":"Křest Vojtěcha Michala, Těchobuz 19. 4. 1775"}
       ]
     },
     {
@@ -5650,8 +5658,9 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
       occ: "sedlák v Těchobuzi č. 13",
       notes: [
-        "Kupní smlouvou s vrchností (1796, formulář jako u Jakuba Michala) koupil selský statek Těchobuz č. 13 (24 jiter 1088 sáhů polí) za 500 zl., závdavek 55 zl.",
-        "Protokolem z 3. 3. 1817 postoupil grunt synovi Martinovi za 2222 zl., sám si vymínil 431 zl. (výminek nečten)."
+        "Kupní smlouvou s vrchností z 2. 5. 1796 (týž den jako Jakub Michal) koupil selský statek Těchobuz č. 13 (24 jiter 1088 sáhů polí) za 500 zl., závdavek 55 zl.",
+        "Protokolem z 3. 3. 1817 postoupil grunt synovi Martinovi za 2222 zl., sám si vymínil 431 zl. (výminek nečten).",
+        "Výminek z r. 1817 uvádí jen jeho samotného (vdovec ?); vymazán podle protokolu z 25. 1. 1823 – asi zemřel před tímto datem (K)."
       ],
       sources: [
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 33, snímek 44 – https://digi.ceskearchivy.cz/127651",
@@ -6010,6 +6019,23 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1774_krest_anna_holubova_otec_simon_holub_chalupnik_osek85_osek05_sn6.jpg","t":"Křest Anny Holubové, Osek 13. (?) 6. 1774"}
+      ]
+    },
+    {
+      id: "katerina_mi",
+      name: "Kateřina Michalová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      spouse: "jakub_mi",
+      notes: [
+        "Manželka Jakuba Michala, matka Vojtěcha (*1775) a Marie (*1785); rodné příjmení neuvedeno. Asi vdova s výminkem na gruntě č. 19 (1804)."
+      ],
+      sources: [
+        "SOA Třeboň, Sbírka matrik, fara Zhoř, NOZ 1759–1817 (kn. 8806), pag. 65, snímek 57 – https://digi.ceskearchivy.cz/8806"
+      ],
+      scans: [
+        {"f":"img/1775_krest_Michal_Vojtech_Techobuz19_otec_Jakub_matka_Katerina_8806_sn57.jpg","t":"Křest Vojtěcha Michala, Těchobuz 19. 4. 1775"}
       ]
     }
   ]
