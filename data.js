@@ -3481,7 +3481,8 @@ window.RODOKMEN = {
       notes: [
         "Oddán 20. 10. 1776 v Hrubém Jeseníku (administrátor Ambrož Sedlička): „pracovitý mládenec Karel, manželský syn Josefa Čapka, chalupníka jesenického“, bydliště Jeseník č. 27; svědci Václav Mikš, podruh, a Filip Mašlík, punčochář, z Ronova. Později chalupník v Jeseníku č. 30.",
         "Otec Marie Čapkové (manželky Jana Čapka) – oba rody Čapků z Hrubého Jeseníka.",
-        "Podle indexu křtů Hrubý Jeseník děti od 1777 (Dorota 1777, Kateřina 1779, František 1781, Josef 1784/85, Kateřina 1788, Jan Kašpar 1790, Marie 1797) – sňatek s Dorotou Červinkovou nejpozději 1777."
+        "Podle indexu křtů Hrubý Jeseník děti od 1777 (Dorota 1777, Kateřina 1779, František 1781, Josef 1784/85, Kateřina 1788, Jan Kašpar 1790, Marie 1797) – sňatek s Dorotou Červinkovou nejpozději 1777.",
+        "KANDIDÁT křtu: 14. 3. 1753 Hrubý Jeseník „Carel, otec Josef Czapek, matka Dorotha“ (HJ 04, matrikaId 5724, sn. 36, pag. 65); index uvádí i staršího Karla, syna Josefa, *25. 8. 1748 (nečteno) – který z nich je ženich 1776, nerozhodnuto."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
@@ -4377,7 +4378,8 @@ window.RODOKMEN = {
       spouse: "karel_c0",
       marriage: "20. 10. 1776, Hrubý Jeseník – s Karlem Čapkem",
       notes: [
-        "Dcera Matěje Červinky, rychtáře v Ronově (sňatek 1776, nevěsta z Ronova č. 46). ROZPOR: křest dcery Marie 1797 ji uvádí „z Oskořínka“ (sousední obec)."
+        "Dcera Matěje Červinky, rychtáře v Ronově (sňatek 1776, nevěsta z Ronova č. 46). ROZPOR: křest dcery Marie 1797 ji uvádí „z Oskořínka“ (sousední obec).",
+        "Křest v indexu fary Hrubý Jeseník 1731–1769 nenalezen (jen dvě mladší Doroty Matěje Červinky z Oskořínka 1762 a 1768)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 68/69, snímek 38 – https://ebadatelna.soapraha.cz/d/5728/38",
@@ -4678,7 +4680,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
       occ: "chalupník v Hrubém Jeseníku",
       notes: [
-        "Otec Karla Čapka (*~1752)."
+        "Otec Karla Čapka (*~1752).",
+        "Manželka Dorota (křest syna Karla 1753). Děti podle indexu narozených Hrubý Jeseník 1735–1763 (u „Čapka Joz.“, možná dva Josefové): Anna Marie 1735, Josef 1736, Václav 1743, František 1744, Karel 1748, František 1750, Karel 1753, Dorota 1756, Dorota 1761, Jan 1763."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 06 (O 1771–1788), snímek 17 – https://ebadatelna.soapraha.cz/d/5726/17"
