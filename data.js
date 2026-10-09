@@ -4648,22 +4648,27 @@ window.RODOKMEN = {
       name: "Jan Hrazdílek",
       line: "hrazdilek",
       cert: "M",
-      b: {"date":"asi 1793/1794","year":1794,"approx":true,"place":"Hodějice"},
+      b: {"date":"5. 5. 1790","year":1790,"place":"Hodějice č. p. 1"},
       d: {"date":"před 12. 2. 1860","year":1860,"approx":true},
+      father: "vaclav_hz",
+      mother: "magdalena_kz",
       spouse: "apolonie_am",
       occ: "tesař (1827), domkář, sedlák (1860) v Hodějicích",
       marriage: "20. 2. 1827, Hodějice – s Apolonií Jeřábkovou roz. Ambrosovou, vdovou",
       notes: [
-        "Oddán 20. 2. 1827 v Hodějicích (č. 125) jako tesař z Hodějic, 33 let, svobodný; syn † Jana (?) Hrazdílka z Hodějic a Magdaleny roz. Kožgelové (?) (dcery Pavla) – jména rodičů nejistá. Svědci Václav Roth, měšťan ze Slavkova, a Jakub Pollach z Hodějic; oddal kaplan František Peschel (?).",
+        "Narozen a pokřtěn 5. 5. 1790 v Hodějicích č. 1; otec Václav Hrazdílek, domkář, matka Magdalena Kožgelová; kmotři Anton Majer (?) a manželka Marianna. Sestra Matylda (*13. 3. 1793, č. 63). Ztotožnění se ženichem 1827: stejná matka (Magdalena Kožgelová), obec a jiný Jan Hrazdílek v Hodějicích 1789–1798 v indexu není. ROZPOR věku: při sňatku 1827 uvedeno 33 let, podle křtu 36.",
+        "Oddán 20. 2. 1827 v Hodějicích (č. 125) jako tesař z Hodějic, 33 let, svobodný; syn † Hrazdílka z Hodějic (jméno otce čteno „Jan (?)“) a Magdaleny roz. Kožgelové (dcery Pavla). Svědci Václav Roth, měšťan ze Slavkova, a Jakub Pollach z Hodějic; oddal kaplan František Peschel (?).",
         "Otec Martina Hrazdílka."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387",
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950"
       ],
       scans: [
-        {"f":"img/1827_O_13138_sn281L_Hodejice_str14_Hrazdirek_Johann_Ambros_Apolonia_vdova_Jerabek.jpg","t":"Sňatek Jana Hrazdílka a Apolonie Ambrosové, Hodějice 1827"}
+        {"f":"img/1827_O_13138_sn281L_Hodejice_str14_Hrazdirek_Johann_Ambros_Apolonia_vdova_Jerabek.jpg","t":"Sňatek Jana Hrazdílka a Apolonie Ambrosové, Hodějice 1827"},
+        {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest Jana Hrazdílka, Hodějice 5. 5. 1790"}
       ]
     },
     {
@@ -4679,8 +4684,8 @@ window.RODOKMEN = {
       spouse: "jan_hr",
       marriage: "1. sňatek 22. 4. 1816, Hodějice – s Martinem Jeřábkem; 2. sňatek 20. 2. 1827, Hodějice – s Janem Hrazdílkem",
       notes: [
-        "Pokřtěna 30. 1. 1788 v Hodějicích č. 59; otec Anton Ambros, „Schullehrer (?)“, matka Marta; kmotři Josef Fajnka (?), třičtvrtník, a manželka Marianna. Sourozenci podle indexu: Marianna (1789), Barbora (1790), Felix (1791).",
-        "ROZPOR: oddací zápis 1827 uvádí matku „Theresia (?) roz. Michálková (?)“, křest 1788 „Martha“ – platí křest; možná druhá manželka otce.",
+        "Pokřtěna 30. 1. 1788 v Hodějicích č. 59; otec Anton Ambros, „Schullehrer (?)“, matka Marta; kmotři Josef Fajnka (?), třičtvrtník, a manželka Marianna. Bratr Felix (*30. 8. 1791, č. 41).",
+        "ROZPOR: oddací zápis 1827 uvádí matku „Theresia (?) roz. Michálková (?)“, křty 1788 a 1791 (bratr Felix) „Martha“ – platí křest.",
         "1. sňatek 22. 4. 1816 s Martinem Jeřábkem, invalidou dělostřelectva (27 let). 20. 2. 1827 se v Hodějicích jako vdova po † Martinu Jeřábkovi, domkáři v Hodějicích, 36 let, provdala za tesaře Jana Hrazdílka.",
         "Ze dvou manželství je předkem Jiřího dvakrát: z 1. manželství syn František Jeřábek st. (oddán 1842 jako „syn † Martina Jeřábka a Apolonie roz. Ambrosové (?)“), z 2. manželství syn Martin Hrazdílek (*1827). Jejich pravnuci Vladimír Hrazdílek a Marie Jeřábková se vzali 1924.",
         "Ztotožnění potvrzeno křtem syna Františka (5. 10. 1817): „Martin Jeřabek, Zimmermann – Apolonia Ambros“; kmotr Jakub Hroch (?) s Terezií jako u syna Martina Hrazdílka 1827."
@@ -4805,7 +4810,8 @@ window.RODOKMEN = {
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960",
-        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, str. 69, snímek 123 – https://www.mza.cz/actapublica/matrika/detail/1950"
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, str. 69, snímek 123 – https://www.mza.cz/actapublica/matrika/detail/1950",
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 201, snímek 219 – https://www.mza.cz/actapublica/matrika/detail/1950"
       ]
     },
     {
@@ -5071,14 +5077,14 @@ window.RODOKMEN = {
       maiden: "Láníčková",
       line: "lanicek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1822)","year":1822,"approx":true,"place":"Heršpice"},
+      b: {"date":"17. 1. 1812","year":1812,"place":"Heršpice č. p. 28"},
       father: "pavel_la",
       mother: "magdalena_wi",
       spouse: "jakub_sv",
       marriage: "23. 5. (?) 1841, Heršpice – s Jakubem Svobodou",
       notes: [
-        "Dcera † Pavla Láníčka, domkáře v Heršpicích, a Magdaleny roz. Willamové (dcery Františka Willama, čtvrtníka); při sňatku 1841 19 let (?).",
-        "Pravděpodobně pokřtěna 17./18. 1. 1812 v Heršpicích č. 28 – „Paul Lanitschek, Inmann – Magdalena Wilam“, kmotři Jakub Tichý a Kateřina (čteno jen z montáže, řádek v plném rozlišení neověřen); pak by jí 1841 bylo 29 let."
+        "Narozena 17., pokřtěna 18. 1. 1812 v Heršpicích č. 28; otec Pavel Láníček, podruh, matka Magdalena Willamová; kmotři Jakub Tichý, čtvrtník, a manželka Kateřina. Při sňatku 1841 jí bylo 29 let.",
+        "Dcera † Pavla Láníčka, domkáře v Heršpicích, a Magdaleny roz. Willamové (dcery Františka Willama, čtvrtníka); při sňatku 1841 19 let (?)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -5086,7 +5092,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 412, snímek 400 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ],
       scans: [
-        {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841"}
+        {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841"},
+        {"f":"img/1812_N_13123_sn400_str412_Herspice_Lanickova_Katerina_radek_plne_rozl.jpg","t":"Křest Kateřiny Láníčkové, Heršpice 18. 1. 1812"}
       ]
     },
     {
@@ -5457,15 +5464,61 @@ window.RODOKMEN = {
     {
       id: "marta_am",
       name: "Marta Ambrosová",
+      maiden: "Hörmannová (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
       spouse: "anton_am",
       notes: [
-        "Matka Apolonie Ambrosové (křest 1788). ROZPOR: oddací zápis dcery 1827 uvádí „Theresia (?) roz. Michálková (?)“."
+        "Matka Apolonie (*1788) a Felixe (*30. 8. 1791, Hodějice č. 41 – „Anton Ambroß, Lehrer (?) – Martha Hörmanin (?)“). ROZPOR: oddací zápis dcery 1827 uvádí „Theresia (?) roz. Michálková (?)“ – platí křty (dvakrát Marta)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, str. 69, snímek 123 – https://www.mza.cz/actapublica/matrika/detail/1950"
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, str. 69, snímek 123 – https://www.mza.cz/actapublica/matrika/detail/1950",
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 201, snímek 219 – https://www.mza.cz/actapublica/matrika/detail/1950"
+      ],
+      scans: [
+        {"f":"img/1791_N_13122_sn219_str201_Hodejice_Ambros_Felix_Anton_Martha_Hrazdirek_Theresia_Lorenz.jpg","t":"Křest syna Felixe Ambrose, Hodějice 1791"}
+      ]
+    },
+    {
+      id: "vaclav_hz",
+      name: "Václav Hrazdílek",
+      line: "hrazdilek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      d: {"date":"před 20. 2. 1827","year":1827,"approx":true},
+      spouse: "magdalena_kz",
+      occ: "domkář v Hodějicích (č. 1 v roce 1790, č. 63 v roce 1793)",
+      notes: [
+        "Otec Jana (*1790) a Matyldy (*1793). Zemřel před sňatkem syna 1827.",
+        "V Hodějicích současně čtvrtník Vavřinec Hrazdílek × Kateřina (sňatek 1785; děti Terezie 1791, Martin 1793) – příbuznost neznámá.",
+        "Sňatek s Magdalenou Kožgelovou nenalezen v indexu oddaných 1784–1803 – asi před 1784."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 206, snímek 224 – https://www.mza.cz/actapublica/matrika/detail/1950"
+      ],
+      scans: [
+        {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"}
+      ]
+    },
+    {
+      id: "magdalena_kz",
+      name: "Magdalena Hrazdílková",
+      maiden: "Kožgelová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1762)","year":1762,"approx":true},
+      spouse: "vaclav_hz",
+      notes: [
+        "Matka Jana Hrazdílka (*1790); podle oddacího zápisu syna 1827 dcera Pavla Kožgela (?)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 206, snímek 224 – https://www.mza.cz/actapublica/matrika/detail/1950"
+      ],
+      scans: [
+        {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"}
       ]
     }
   ]
