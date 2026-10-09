@@ -2858,7 +2858,7 @@ window.RODOKMEN = {
         "ZA HRANICÍ MATRIK – pozemková kniha Těchobuz: 9. 1. 1804 „předstoupil Wogtiech Michal k Auřadu a žádal, by gemu zápis na ten po gegho zemřelém Otcy Jakubu Michalowi dědičným přináležitý … pod No Consc. 19 ležecý Selský grunt … widán byl“; podle sirotčího protokolu z 20. 5. 1798 mu byl grunt postoupen za 1043 zl. 30 kr. Sourozencům vyplácel podíly po 30 zl.: Anně, Magdaleně (zemřela), Josefovi, Marii a Matějovi (?); matce (jméno neuvedeno) výminek.",
         "13. 1. 1825 prodal grunt č. 19 synovi Janovi a jeho nastávající manželce Marii (vdově) za 2000 zl. v. m.; sobě a manželce Kateřině si vymínil světničku a komoru.",
         "Usedlost Těchobuz č. 19 = stavební parcela 33 na indikační skice stabilního katastru (1829), k ní zahrada parc. 34 („N° 19“).",
-        "Sňatek s Kateřinou není v Těchobuzi 1790–1802 (kniha 8824) – asi ve farnosti nevěsty.",
+        "Sňatek s Kateřinou není ve faře Zhoř 1783–1802 (8806 a 8824) – asi v okolní faře (Pacov, Obrataň, Lukavec ?).",
         "Děti s Kateřinou (Těchobuz): František (XI 1800), Jan (7. 4. 1803), Antonie (9. 10. 1805), Anna (6. 2. 1808) a další. Sňatek není v Těchobuzi 1789–1802 ani ve faře Zhoř XI 1794 – X 1802 – asi před 1794 nebo ve Velké Černé."
       ],
       sources: [
@@ -2888,7 +2888,7 @@ window.RODOKMEN = {
       spouse: "vojtech_m",
       notes: [
         "Matka Jana Michala. Ve křtech dětí v Těchobuzi (František XI 1800, Antonie 9. 10. 1805, Anna 6. 2. 1808) třikrát „Kateřina rozená Wojtowa (?) z (Velké) Črmy“ = Velká Černá (fara Zhoř); v oddacím zápisu syna Jana 1825 „dcera Matěje Voj… č. 3“ – otcem tedy nejspíš Matěj Vojta (?) z Velké Černé č. 3.",
-        "ROZPOR čtení: 1835 „Kroužilová (?)“, 1836 „Vrzalová (?)“ – nejspíš chybná čtení; rozhodne křest Kateřiny (Velká Černá, ~1775–1780).",
+        "ROZPOR čtení: 1835 „Kroužilová (?)“, 1836 „Vrzalová (?)“ – nejspíš chybná čtení; rozhodne křest Kateřiny (Velká Černá, ~1775–1780). Křest Kateřiny Vojtové v rejstříku narozených Velké Černé 1763–1784 není (příjmení Vojta tam vůbec není).",
         "V lednu 1825 žila – výminek „Wogtiechu a Kateřině Michalowským Manželům“ (pozemková kniha Těchobuz fol. 79v)."
       ],
       sources: [
@@ -6148,10 +6148,11 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
       spouse: "jakub_mi",
       notes: [
-        "Manželka Jakuba Michala, matka Vojtěcha (*1775) a Marie (*1785); rodné příjmení neuvedeno. Asi vdova s výminkem na gruntě č. 19 (1804)."
+        "Manželka Jakuba Michala, sedláka v Těchobuzi, už v srpnu 1764 (křest dcery Rozálie 17. 8. 1764: „Rosalia filia legitima Jacobi Michal Rustici et uxoris Catharinae“); matka Vojtěcha (*1775) a Marie (*1785). Rodné příjmení neuvedeno. Sňatek asi před 1763 (rejstřík oddaných Zhoř 1763–1784 ho nemá)."
       ],
       sources: [
-        "SOA Třeboň, Sbírka matrik, fara Zhoř, NOZ 1759–1817 (kn. 8806), pag. 65, snímek 57 – https://digi.ceskearchivy.cz/8806"
+        "SOA Třeboň, Sbírka matrik, fara Zhoř, NOZ 1759–1817 (kn. 8806), pag. 65, snímek 57 – https://digi.ceskearchivy.cz/8806",
+        "SOA Třeboň, Sbírka matrik, fara Zhoř, NOZ 1759–1817 (kn. 8806), pag. 20, snímek 23 – https://digi.ceskearchivy.cz/8806"
       ],
       scans: [
         {"f":"img/1775_krest_Michal_Vojtech_Techobuz19_otec_Jakub_matka_Katerina_8806_sn57.jpg","t":"Křest Vojtěcha Michala, Těchobuz 19. 4. 1775"}
