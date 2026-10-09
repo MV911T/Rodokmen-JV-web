@@ -5550,13 +5550,16 @@ window.RODOKMEN = {
         "Oddán 29. 7. 1783 v Hodějicích: „Hrasdilek Wenceslaus, honestus juvenis, cum honesta puella Magdalena filia Josephi Roskopal, Hodj.“; svědci Karel Rozek (?) a Jiří Billi ze Slavkova. V roce 1827 „† Wenzel Hrazdirek, Hofschaffer (?) von Hodiejitz“.",
         "Otec Jana (*1790) a Matyldy (*1793). Zemřel před sňatkem syna 1827.",
         "V Hodějicích současně čtvrtník Vavřinec Hrazdílek × Kateřina (sňatek 1785; děti Terezie 1791, Martin 1793) – příbuznost neznámá.",
-        "KANDIDÁT křtu: 25. 9. 1762 pokřtěn v Hodějicích „Wenceslaus“, syn Martina Hrazdílka, sedláka, a Apolonie (kmotři Vavřinec Sekora z Rašovic a manželka Apolonie) – jediný Václav Hrazdílek ve faře Slavkov 1754–1765 (kromě nečtených IX 1755–1757); věk (20) sedí se sňatkem 1783, rodiče ženicha ale v oddacím zápisu nejsou. V Hodějicích současně i Matěj Hrazdílek × Kateřina."
+        "KANDIDÁT křtu: 25. 9. 1762 pokřtěn v Hodějicích „Wenceslaus“, syn Martina Hrazdílka, sedláka, a Apolonie (kmotři Vavřinec Sekora z Rašovic a manželka Apolonie) – jediný Václav Hrazdílek ve faře Slavkov 1754–1765 (kromě nečtených IX 1755–1757); věk (20) sedí se sňatkem 1783, rodiče ženicha ale v oddacím zápisu nejsou. V Hodějicích současně i Matěj Hrazdílek × Kateřina.",
+        "V únoru 1799 žil v Hodějicích č. 63 („Wenzel Hrazdirek, Hofschaffer (?)“) – 9. 2. 1799 tam zemřel jeho syn Vincenc, 5 týdnů (Z 13149, str. 226).",
+        "Ke kandidátnímu křtu 1762: jiný Václav Hrazdílek ve faře Slavkov IX 1754 – VIII 1765 není; Martin × Apolonie měli i dcery Annu (1755) a Apolonii (1757, „Herspicio“?). Martin Hrazdílek zemřel podle indexu 1791 v Hodějicích (zápis nečten)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 206, snímek 224 – https://www.mza.cz/actapublica/matrika/detail/1950",
         "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958",
-        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 156 – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 156 – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, fara Slavkov u Brna, Z 1784–1830 (?), sign. 13149, oddíl Hodějice, str. 226, snímek 221 – https://www.mza.cz/actapublica/matrika/detail/1964"
       ],
       scans: [
         {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"},
