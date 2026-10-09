@@ -1041,21 +1041,25 @@ window.RODOKMEN = {
       notes: [
         "Narozen 21. 7. 1868 ve Hředlích č. 37 (okr. Hořovice), pokřtěn 22. 7. v Žebráku. Otec Matěj Červenka, rolník z Hředl č. 37, syn Jakuba Červenky a Veroniky roz. Skálové z Vinařic; matka Antonie, dcera † Matěje Diviše, rolníka z Černína č. 7, a Josefy roz. Merhoutové ze Zdic. Kmotři František Pilař (?) a manželka z Točníka.",
         "Rodopis potvrzen matrikou (křty 1825 a 1868, fara Žebrák).",
-        "Otec Karla Červenky (*1906); rolník v Berouně III na Lištici (křestní a rodný list vnučky 1933)."
+        "Otec Karla Červenky (*1906); rolník v Berouně III na Lištici (křestní a rodný list vnučky 1933).",
+        "Oddán 19. 5. 1894 v berounském kostele (kaplan František Běláč) jako vojín doplňovací zálohy 88. pěšího pluku a rolník v Berouně č. 23 (Lištice), 25 let; svědci Jan Strach, rolník v Berouně č. 23, a Václav Holovský, rolník v Berouně č. 73."
       ],
       sources: [
         "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
         "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)",
         "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97"
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97",
+        "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
         {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
         {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
         {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest Václava Červenky, Hředle 1868 – otec"},
-        {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"}
+        {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"},
+        {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_a.jpg","t":"Sňatek Václava Červenky a Anny Vlasákové, Beroun 19. 5. 1894"},
+        {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_b.jpg","t":"Sňatek Červenka × Vlasáková 1894 – svědci, data narození"}
       ]
     },
     {
@@ -1063,28 +1067,28 @@ window.RODOKMEN = {
       name: "Anna Červenková",
       maiden: "Vlasáková",
       line: "vlasak",
-      cert: "D",
-      b: {"date":"20. 11. 1871","year":1871,"place":"Zbečno"},
+      cert: "M",
+      b: {"date":"20. 11. 1870","year":1870,"place":"Sýkořice č. p. 41"},
       d: {"date":"1946","year":1946,"place":"Beroun-Lištice č. p. 229"},
       father: "frantisek_vl",
       mother: "marie_se",
       spouse: "vaclav_c",
       marriage: "19. 5. 1894, Beroun – s Václavem Červenkou",
       notes: [
-        "Dcera Františka Vlasáka ze mlýna v Račicích, rolníka na Lištici č. 83, a Marie Semencové z Dubiny u Zbečna č. 45 (rodopis).",
-        "V rodném listu vnučky (1933) uvedena „ze Sýkořice č. p. 14“, v rodopisu „ze Zbečna-Račic (mlýn)“ – sousední obce na Křivoklátsku, upřesnit v matrice.",
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Narozena 20. 11. 1870 v Sýkořicích č. 41 (okres Křivoklát) – podle oddacího zápisu 1894 (křestní list fary Zbečno z 3. 5. 1894, č. 137). Při sňatku 23 let, nezletilá – souhlas dal otec František Vlasák, rolník v Berouně č. 83 (Lištice). Matka Marie roz. Semencová ze Zbečna č. 45.",
+        "ROZPOR s rodopisem: rodopis uvádí 20. 11. 1871, Zbečno-Račice (mlýn) a matku z Dubiny u Zbečna č. 45; platí oddací zápis (křest ve Zbečno 24, N Sýkořice 1869–1919, zatím nečten).",
+        "Zemřela 1946 v Berouně-Lištici č. 229 (rodopis)."
       ],
       sources: [
         "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
         "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
         "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)",
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208"
       ],
       scans: [
-        {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
-        {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
-        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+        {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_a.jpg","t":"Sňatek Václava Červenky a Anny Vlasákové, Beroun 19. 5. 1894"},
+        {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_b.jpg","t":"Sňatek Červenka × Vlasáková 1894 – svědci, data narození"}
       ]
     },
     {
@@ -2038,16 +2042,17 @@ window.RODOKMEN = {
       id: "frantisek_vl",
       name: "František Vlasák",
       line: "vlasak",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
       spouse: "marie_se",
-      occ: "mlynář v Račicích, rolník na Lištici č. 83",
+      occ: "mlynář v Račicích (rodopis), rolník v Berouně č. 83 – Lištice (1894)",
       notes: [
         "Otec Anny Červenkové, roz. Vlasákové.",
         "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208"
       ]
     },
     {
@@ -2055,14 +2060,15 @@ window.RODOKMEN = {
       name: "Marie Vlasáková",
       maiden: "Semencová",
       line: "semenec",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true,"place":"Dubina u Zbečna č. p. 45"},
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true,"place":"Zbečno č. p. 45"},
       spouse: "frantisek_vl",
       notes: [
         "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208"
       ]
     },
     {
