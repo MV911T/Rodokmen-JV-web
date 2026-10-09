@@ -2048,18 +2048,24 @@ window.RODOKMEN = {
       name: "František Vlasák",
       line: "vlasak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
+      b: {"date":"1. 1. 1838","year":1838,"place":"Sýkořice / Račice č. p. 41 (fara Zbečno)"},
       father: "jan_vl",
       mother: "marie_no",
       spouse: "marie_se",
       occ: "mlynář v Sýkořicích č. 41 (1870), rolník v Berouně č. 83 – Lištice (1894)",
+      marriage: "9. 11. 1869, Zbečno – s Marií Semencovou",
       notes: [
-        "Otec Anny Červenkové. Syn Jana Vlasáka, mlynáře v Sýkořicích č. 41, a Marie roz. Novákové z Nové Huti č. 34 (křest dcery 1870). Rodopis: „ze mlýna v Račicích“."
+        "Otec Anny Červenkové. Syn Jana Vlasáka, mlynáře v Sýkořicích č. 41, a Marie roz. Novákové z Nové Huti č. 34 (křest dcery 1870). Rodopis: „ze mlýna v Račicích“.",
+        "Oddán 9. 11. 1869 ve Zbečně jako mlynář v č. 41, 31 let; narozen 1. 1. 1838 (kniha narozených Zbečno de anno 1784, tom. 2 fol. 246). Svědci František Vlasák, sedlák z Kalit č. 7, a Josef Zýka, domkář z Račic č. 15."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9"
+      ],
+      scans: [
+        {"f":"img/1869_snatek_frantisek_vlasak_marie_semencova_zbecno_a.jpg","t":"Sňatek Františka Vlasáka a Marie Semencové, Zbečno 1869"}
       ]
     },
     {
@@ -2068,17 +2074,22 @@ window.RODOKMEN = {
       maiden: "Semencová",
       line: "semenec",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true,"place":"Zbečno č. p. 45"},
+      b: {"date":"27. 1. 1838","year":1838,"place":"Zbečno"},
       father: "martin_se",
       mother: "barbora_hl",
       spouse: "frantisek_vl",
+      marriage: "9. 11. 1869, Zbečno – s Františkem Vlasákem",
       notes: [
-        "Matka Anny Červenkové; dcera Martina Semence, podruha ze Zbečna č. 45, a Barbory, dcery Václava Hlavičky (?) ze Zbečna č. 11."
+        "Matka Anny Červenkové; dcera Martina Semence, podruha ve Zbečně č. 45, a Kateřiny, dcery Václava Vojtíška (?) ze Zbečna č. 11 (sňatek 1869) – ROZPOR v jménu matky: křest dcery 1870 uvádí „Barboru, dceru Václava Hlavičky (?)“. Narozena 27. 1. 1838 (tom. 2 fol. 257)."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9"
+      ],
+      scans: [
+        {"f":"img/1869_snatek_frantisek_vlasak_marie_semencova_zbecno_b.jpg","t":"Sňatek Vlasák × Semencová 1869 – data narození"}
       ]
     },
     {
@@ -3507,8 +3518,9 @@ window.RODOKMEN = {
       name: "Karel Čapek",
       line: "capek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1752)","year":1752,"approx":true,"place":"Hrubý Jeseník č. p. 27"},
-      d: {"date":"před 3. 11. 1829","year":1829,"approx":true},
+      b: {"date":"14. 3. 1753","year":1753,"place":"Hrubý Jeseník"},
+      d: {"date":"6. 3. 1800","year":1800,"place":"Hrubý Jeseník č. p. 30"},
+      cause: "úbytě (?)",
       father: "josef_c0",
       spouse: "dorota_ce",
       occ: "chalupník v Hrubém Jeseníku č. 30",
@@ -3517,15 +3529,18 @@ window.RODOKMEN = {
         "Oddán 20. 10. 1776 v Hrubém Jeseníku (administrátor Ambrož Sedlička): „pracovitý mládenec Karel, manželský syn Josefa Čapka, chalupníka jesenického“, bydliště Jeseník č. 27; svědci Václav Mikš, podruh, a Filip Mašlík, punčochář, z Ronova. Později chalupník v Jeseníku č. 30.",
         "Otec Marie Čapkové (manželky Jana Čapka) – oba rody Čapků z Hrubého Jeseníka.",
         "Podle indexu křtů Hrubý Jeseník děti od 1777 (Dorota 1777, Kateřina 1779, František 1781, Josef 1784/85, Kateřina 1788, Jan Kašpar 1790, Marie 1797) – sňatek s Dorotou Červinkovou nejpozději 1777.",
-        "KANDIDÁT křtu: 14. 3. 1753 Hrubý Jeseník „Carel, otec Josef Czapek, matka Dorotha“ (HJ 04, matrikaId 5724, sn. 36, pag. 65); index uvádí i staršího Karla, syna Josefa, *25. 8. 1748 (nečteno) – který z nich je ženich 1776, nerozhodnuto."
+        "Zemřel 6. 3. 1800 v Hrubém Jeseníku č. 30 jako chalupník, 45 let → narozen 1753/54: odpovídá křtu 14. 3. 1753 („Carel, otec Josef Czapek, matka Dorotha“). Starší bratr Karel (*25. 8. 1748) se také dožil dospělosti († 30. 3. 1806, 58 let, výminkář) – ztotožnění podle věku a č. domu 30 (dcera Marie *1797 v č. 30)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 68/69, snímek 38 – https://ebadatelna.soapraha.cz/d/5728/38",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 06 (O 1771–1788), snímek 17 – https://ebadatelna.soapraha.cz/d/5726/17"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 06 (O 1771–1788), snímek 17 – https://ebadatelna.soapraha.cz/d/5726/17",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, snímek 273 – https://ebadatelna.soapraha.cz/d/5728/273",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 04 (NOZ 1749–1770), pag. 65, snímek 36 – https://ebadatelna.soapraha.cz/d/5724/36"
       ],
       scans: [
-        {"f":"img/1776_snatek_karel_capek_dorota_cervinkova_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Doroty Červinkové, Hrubý Jeseník 20. 10. 1776"}
+        {"f":"img/1776_snatek_karel_capek_dorota_cervinkova_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Doroty Červinkové, Hrubý Jeseník 20. 10. 1776"},
+        {"f":"img/1800_umrti_karel_capek_hruby_jesenik_a.jpg","t":"Úmrtí Karla Čapka, Hrubý Jeseník 6. 3. 1800"}
       ]
     },
     {
@@ -4158,26 +4173,34 @@ window.RODOKMEN = {
       d: {"date":"před 14. 2. 1832","year":1832,"approx":true},
       spouse: "katerina_sl",
       occ: "vysloužilec (?), podruh v Suchomastech č. 12",
+      marriage: "2. sňatek 28. 1. (?) 1797, Suchomasty č. 12 – s Kateřinou; 1. sňatek před 1797",
       notes: [
-        "Otec Františka Kliky."
+        "Otec Františka Kliky.",
+        "Podruhé oddán 28. 1. (?) 1797 v Suchomastech jako sedlák č. 12 a vdovec, 27 let (*~1770)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63"
+      ],
+      scans: [
+        {"f":"img/1797_snatek_vaclav_klika_katerina_slikova_suchomasty_a.jpg","t":"Druhý sňatek Václava Kliky s Kateřinou, Suchomasty 1797"}
       ]
     },
     {
       id: "katerina_sl",
       name: "Kateřina Kliková",
-      maiden: "Šliková (?)",
+      maiden: "Kliková / Šliková (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true,"place":"Liteň (?)"},
+      b: {"date":"asi 1779","year":1779,"approx":true},
       spouse: "vaclav_kl",
+      marriage: "28. 1. (?) 1797, Suchomasty – s Václavem Klikou (vdovcem)",
       notes: [
-        "Matka Františka Kliky; čtení příjmení a místa nejisté."
+        "Dcera Jana a Kateřiny (příjmení „Kliků“ nebo „Šliků“ – v této ruce je první písmeno spíše K) ze vsi … č. 10 (nečitelné; srov. „z Litky / Litně (?)“ 1832/34); při sňatku 1797 18 let."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63"
       ]
     },
     {
@@ -5049,17 +5072,18 @@ window.RODOKMEN = {
     },
     {
       id: "barbora_hl",
-      name: "Barbora Semencová",
-      maiden: "Hlavičková (?)",
+      name: "Kateřina / Barbora Semencová",
+      maiden: "Vojtíšková / Hlavičková (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Zbečno č. p. 11"},
       spouse: "martin_se",
       notes: [
-        "Dcera Václava Hlavičky (?) ze Zbečna č. 11; čtení nejisté."
+        "Matka Marie Vlasákové; ROZPOR: 1869 „Kateřina, dcera Václava Vojtíška (?)“, 1870 „Barbora, dcera Václava Hlavičky (?)“, obě ze Zbečna č. 11."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9"
       ]
     },
     {
