@@ -2741,14 +2741,16 @@ window.RODOKMEN = {
       marriage: "6. 11. 1821, Drozdov – s Janem Laukotou",
       notes: [
         "Dcera Josefa Landsingera (Landtyngra), mistra kovářského v Drozdově (sňatek 1821 i křest dcery 1822); oddána 6. 11. 1821 (24 let). ROZPOR o matce: křest dcery 1822 uvádí „† Magdalena roz. Zvonařová z Drozdova“, ta je ale podle sňatku 1796 matkou Josefa (tedy babičkou); Josefovou manželkou byla od 1796 Anna Mottlová. Buď zápis 1822 zaměnil matku za babičku, nebo je Magdalena dcerou Václava Landsingera a Zvonařové (Josefova sestra – index uvádí „Mařenu“, dceru Václava). Nerozhodnuto; křest Magdaleny v Drozdově 1793–1805 nenalezen.",
-        "Porodní bábou v Oseku byla 18. 8. 1822 „Magdal. Laukotowa“ – jiná Magdalena (tato byla tehdy v Drozdově)."
+        "Porodní bábou v Oseku byla 18. 8. 1822 „Magdal. Laukotowa“ – jiná Magdalena (tato byla tehdy v Drozdově).",
+        "KANDIDÁT (varianta A, silnější): Marie Magdalena Landsingerová *2. 4. 1788 v Drozdově č. 31, dcera kováře Václava Landsingera a Marie Magdaleny Zvonařové († 1796) – sedí matka z křtu 1822, ne však otec „Josef“ a věk 24 ze sňatku 1821 (bylo by jí 33). Varianta B: dcera Josefa – pak by matkou byla Anna Mottlová, ale Magdalena mezi jejich dětmi 1797–1805 není."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 16 (O 1812–1839), oddíl Drozdov, fol. 71, snímek 74 – https://ebadatelna.soapraha.cz/d/4559/74",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107",
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9"
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, fol. 77, snímek 28 – https://ebadatelna.soapraha.cz/d/4555/28"
       ],
       scans: [
         {"f":"img/1821_snatek_jan_laukota_magdalena_landtyngr_drozdov_cerhovice16_sn74_b.jpg","t":"Sňatek Laukota × Landtyngrová 1821 – nevěsta a svědci"},
@@ -5787,16 +5789,20 @@ window.RODOKMEN = {
       maiden: "Zvonařová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
-      d: {"date":"před 4. 9. 1796","year":1796,"approx":true},
+      b: {"date":"asi 1759","year":1759,"approx":true},
+      d: {"date":"24. 6. 1796","year":1796,"place":"Drozdov č. p. 34"},
+      cause: "náhle po porodu",
       spouse: "vaclav_ls",
       notes: [
+        "Zemřela 24. 6. 1796 v Drozdově č. 34 jako manželka kováře Václava Landsingera, 37 let, „improvisa post partum mortua“; o tři dny dřív zemřela její novorozená dcera Dorota.",
         "Manželka Václava Landsingera, obecního kováře v Drozdově; matka Josefa Landsingera; zemřela před 4. 9. 1796.",
         "Křest vnučky Anny Laukotové (1822) ji uvádí jako matku Magdaleny Laukotové – podle sňatku 1796 je to ale matka jejího otce Josefa (ROZPOR, viz Magdalena Laukotová)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107",
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9"
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, oddíl Z, snímek 85 – https://ebadatelna.soapraha.cz/d/4555/85",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, fol. 77, snímek 28 – https://ebadatelna.soapraha.cz/d/4555/28"
       ],
       scans: [
         {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"},
@@ -5886,7 +5892,8 @@ window.RODOKMEN = {
       spouse: "magdalena_zv",
       occ: "obecní kovář v Drozdově",
       notes: [
-        "Otec Josefa Landsingera (sňatek 1796); podle indexu narozených Cerhovice 12 i děti Kateřina, Mařena, Matěj, František (1785–1799)."
+        "Otec Josefa Landsingera (sňatek 1796); podle indexu narozených Cerhovice 12 i děti Kateřina, Mařena, Matěj, František (1785–1799).",
+        "POZOR: kolem 1797 žil v okolí další kovář Václav Landsinger × Mariana Jedličková (?) – jejich syn Josef (23) se 13. 9. 1820 oženil v Cerhovicích s Josefou Švarcerovou (?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9"
