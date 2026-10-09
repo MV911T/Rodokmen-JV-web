@@ -2483,14 +2483,15 @@ window.RODOKMEN = {
       line: "lezak",
       cert: "M",
       b: {"date":"30. 6. 1782","year":1782,"place":"Osek u Rokycan č. p. 83"},
-      d: {"date":"mezi 1811 a 9. 9. 1814","year":1813,"approx":true},
+      d: {"date":"3. 2. 1814","year":1814,"place":"Osek u Rokycan č. p. 84"},
+      cause: "horká nemoc",
       father: "simon_tr",
       mother: "anna_tr",
       spouse: "martin_l1",
       marriage: "7. 2. 1804, Osek – s Martinem Lodlem",
       notes: [
         "Pokřtěna 30. 6. 1782 v Oseku č. 83; otec Šimon Trgjk, matka Anna. Sestra Barbora (*19. 5. 1784, č. 83).",
-        "Při sňatku 1804 21 let, selská dcera. Zemřela mezi lednem 1811 a zářím 1814 (manžel se 1814 znovu oženil).",
+        "Při sňatku 1804 21 let, selská dcera. Zemřela 3. 2. 1814 v Oseku č. 84 („Kateřina, manželka Martina Lodla, ševce“), pohřbena 5. 2.; věk zapsán „25 (?)“ – podle křtu jí bylo 31.",
         "ROZPOR: křest syna Pavla 1811 uvádí rodiče „† Šimona (dříve čteno Jakuba) a † Mag…“ – platí křest 1782 (Anna).",
         "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L)."
       ],
@@ -2498,14 +2499,16 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 31, snímek 17 – https://www.portafontium.eu/iipimage/30066673/osek-07_0170-o",
-        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n",
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), str. 87, snímek 48 – https://www.portafontium.eu/iipimage/30066674/osek-08_0480-z"
       ],
       scans: [
         {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
         {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"},
         {"f":"img/1804_oddani_martin_lodl_katerina_osek.jpg","t":"Sňatek Martina Lodla a Kateřiny, Osek 7. 2. 1804"},
         {"f":"img/1782_krest_katerina_trgjk_osek.jpg","t":"Křest Kateřiny Trgjkové, Osek 30. 6. 1782"},
-        {"f":"img/prijmeni_trgjk_srovnani.jpg","t":"Srovnání příjmení Trgjk v zápisech 1801–1849"}
+        {"f":"img/prijmeni_trgjk_srovnani.jpg","t":"Srovnání příjmení Trgjk v zápisech 1801–1849"},
+        {"f":"img/1814_umrti_katerina_lodlova_osek08.jpg","t":"Úmrtí Kateřiny Lodlové, Osek 3. 2. 1814"}
       ]
     },
     {
