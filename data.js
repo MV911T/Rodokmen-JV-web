@@ -3946,7 +3946,8 @@ window.RODOKMEN = {
       notes: [
         "Narozen 10., pokřtěn 11. 11. 1827 v Hodějicích č. 25 (fara Slavkov); otec Jan Hrazdílek, domkář; matka Apolonie, dcera Antona Ambrose, tesaře (?) v Hodějicích. ROZPOR: otec 1827 „domkář“, 1860 „sedlák“.",
         "Oddán 12. 2. 1860 v Heršpicích jako vysloužilý voják („Militär-Abschiedner“) a nádeník v Heršpicích, 32 let, svobodný; syn † Jana Hrazdílka, sedláka v Hodějicích, a † Apolonie roz. Ambrosové (?). Svědci Jan Říha (?) a Jan Jakubík (?), domkáři z Heršpic.",
-        "Později domkář v Heršpicích (č. 152); zemřel před 1913."
+        "Později domkář v Heršpicích (č. 152); zemřel před 1913.",
+        "Nevlastní bratr Františka Jeřábka st. (*~1817) – společná matka Apolonie Ambrosová."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -4582,17 +4583,22 @@ window.RODOKMEN = {
       name: "Jan Hrazdílek",
       line: "hrazdilek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      b: {"date":"asi 1793/1794","year":1794,"approx":true,"place":"Hodějice"},
       d: {"date":"před 12. 2. 1860","year":1860,"approx":true},
       spouse: "apolonie_am",
-      occ: "domkář (1827), sedlák (1860) v Hodějicích",
+      occ: "tesař (1827), domkář, sedlák (1860) v Hodějicích",
+      marriage: "20. 2. 1827, Hodějice – s Apolonií Jeřábkovou roz. Ambrosovou, vdovou",
       notes: [
-        "Otec Martina Hrazdílka.",
-        "Sňatek s Apolonií Ambrosovou podle rejstříku oddaných fary Slavkov: 1827, Hodějice, str. 36 (zápis zatím nečten)."
+        "Oddán 20. 2. 1827 v Hodějicích (č. 125) jako tesař z Hodějic, 33 let, svobodný; syn † Jana (?) Hrazdílka z Hodějic a Magdaleny roz. Kožgelové (?) (dcery Pavla) – jména rodičů nejistá. Svědci Václav Roth, měšťan ze Slavkova, a Jakub Pollach z Hodějic; oddal kaplan František Peschel (?).",
+        "Otec Martina Hrazdílka."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952"
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ],
+      scans: [
+        {"f":"img/1827_O_13138_sn281L_Hodejice_str14_Hrazdirek_Johann_Ambros_Apolonia_vdova_Jerabek.jpg","t":"Sňatek Jana Hrazdílka a Apolonie Ambrosové, Hodějice 1827"}
       ]
     },
     {
@@ -4601,16 +4607,24 @@ window.RODOKMEN = {
       maiden: "Ambrosová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true},
+      b: {"date":"asi 1790/1791","year":1791,"approx":true,"place":"Hodějice"},
       d: {"date":"před 12. 2. 1860","year":1860,"approx":true},
       father: "anton_am",
       spouse: "jan_hr",
+      marriage: "1. sňatek s Martinem Jeřábkem, domkářem v Hodějicích (před 1817); 2. sňatek 20. 2. 1827, Hodějice – s Janem Hrazdílkem",
       notes: [
-        "Matka Martina Hrazdílka; dcera Antona Ambrose z Hodějic."
+        "Dcera Antona Ambrose, domkáře v Hodějicích, a Terezie roz. Michálkové (?). 20. 2. 1827 se v Hodějicích jako vdova po † Martinu Jeřábkovi, domkáři v Hodějicích, 36 let, provdala za tesaře Jana Hrazdílka.",
+        "Ze dvou manželství je předkem Jiřího dvakrát: z 1. manželství syn František Jeřábek st. (oddán 1842 jako „syn † Martina Jeřábka a Apolonie roz. Ambrosové (?)“), z 2. manželství syn Martin Hrazdílek (*1827). Jejich pravnuci Vladimír Hrazdílek a Marie Jeřábková se vzali 1924.",
+        "Ztotožnění: stejné jméno, 1. manžel Martin Jeřábek, domkář v Hodějicích, otec Anton; v zápisu 1842 je rodné příjmení čteno „Ambros (?)“ (dřívější čtení „Zrubner“ bylo chybné)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952"
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ],
+      scans: [
+        {"f":"img/1827_O_13138_sn281L_Hodejice_str14_Hrazdirek_Johann_Ambros_Apolonia_vdova_Jerabek.jpg","t":"Sňatek Jana Hrazdílka a Apolonie Jeřábkové roz. Ambrosové (vdovy), Hodějice 20. 2. 1827"}
       ]
     },
     {
@@ -4708,12 +4722,14 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
-      occ: "tesař (?) v Hodějicích",
+      occ: "domkář v Hodějicích",
       notes: [
-        "Otec Apolonie Hrazdílkové."
+        "Otec Apolonie Hrazdílkové.",
+        "Manželka Terezie roz. Michálková (?) (sňatek dcery 1827)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952"
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960"
       ]
     },
     {
@@ -4800,13 +4816,14 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1817)","year":1817,"approx":true,"place":"Hodějice"},
       father: "martin_je",
-      mother: "apolonie_zr",
+      mother: "apolonie_am",
       spouse: "marie_la",
       occ: "domkář v Heršpicích",
       marriage: "7. 2. 1842, Heršpice – s Mariannou Láníčkovou",
       notes: [
-        "Oddán 7. 2. 1842 v Heršpicích (č. 60/57) jako domkář v Heršpicích, 25 let (?); syn † Martina Jeřábka, domkáře v Hodějicích, a Apolonie roz. Zrubnerové (?).",
-        "Otec Františka Jeřábka (*~1850)."
+        "Oddán 7. 2. 1842 v Heršpicích (č. 60/57) jako domkář v Heršpicích, 25 let (?); syn † Martina Jeřábka, domkáře v Hodějicích, a Apolonie roz. Ambrosové (?).",
+        "Otec Františka Jeřábka (*~1850).",
+        "Nevlastní bratr Martina Hrazdílka (*1827) – společná matka Apolonie."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -5137,29 +5154,16 @@ window.RODOKMEN = {
       line: "jerabek",
       cert: "M",
       b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
-      d: {"date":"před 7. 2. 1842","year":1842,"approx":true},
-      spouse: "apolonie_zr",
+      d: {"date":"před 20. 2. 1827","year":1827,"approx":true},
+      spouse: "apolonie_am",
       occ: "domkář v Hodějicích",
       notes: [
-        "Otec Františka Jeřábka st."
+        "Otec Františka Jeřábka st.",
+        "Zemřel před 20. 2. 1827 (vdova Apolonie se znovu vdala)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960"
-      ]
-    },
-    {
-      id: "apolonie_zr",
-      name: "Apolonie Jeřábková",
-      maiden: "Zrubnerová (?)",
-      line: "nezname",
-      cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
-      spouse: "martin_je",
-      notes: [
-        "Matka Františka Jeřábka st.; čtení příjmení nejisté."
-      ],
-      sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960"
       ]
     },
     {
