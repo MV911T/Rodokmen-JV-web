@@ -2567,7 +2567,7 @@ window.RODOKMEN = {
       occ: "mistr ševcovský v Oseku č. 75",
       marriage: "1. sňatek 7. 2. 1804, Osek – s Kateřinou Trgjkovou; 2. sňatek 9. 9. 1814, Osek – s Annou, vdovou po Jakubu Laukotovi",
       notes: [
-        "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Brück (?)“; svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
+        "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Tück (?) / Türck (?)“ (dřívější čtení „Brück“ neplatí – stejné T jako v „Trgěk“; věk nevyplněn, rodiče neuvedeni); svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
         "Otec Pavla Lodla (*1811); švec v č. 84 (1811), později mistr ševcovský v č. 75.",
         "Podruhé oddán 9. 9. 1814 v Oseku (č. 84) jako švec, 36 let, vdovec; nevěsta Anna (35), vdova po † Jakubu Laukotovi, pastýři, dcera Šimona Holuby (?) z Oseku č. 83 – čtení rodičů nevěsty nejisté.",
         "KANDIDÁT: Jakub Laukota mohl být otcem Jana Laukoty (otce Anny Forejtové *1822) – obě rodiny Lodl a Laukota by tak byly spojené už 1814."
@@ -2704,7 +2704,8 @@ window.RODOKMEN = {
       spouse: "magdalena_la",
       occ: "domkář, obecní sluha (?) v Oseku č. 10",
       notes: [
-        "Otec Anny Forejtové; dal souhlas k jejímu sňatku 1846."
+        "Otec Anny Forejtové; dal souhlas k jejímu sňatku 1846.",
+        "Křest dcery Anny (26. 8. 1822, podle oddacího zápisu 1846 „von Zer-/howitz“) nenalezen v Oseku 1822 (celý srpen), Cerhovicích, Hlohovicích, Hlohovičkách, Drahoňově Újezdě ani v obcích fary Mýto (Cheznovice, Svojkovice, Těškov, Cekov, Kařez)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
@@ -2720,7 +2721,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Drahoňův Újezd (panství Zbiroh)"},
       spouse: "jan_la",
       notes: [
-        "Matka Anny Forejtové; čtení příjmení nejisté."
+        "Matka Anny Forejtové; čtení příjmení nejisté.",
+        "KANDIDÁT: v roce 1822 je v matrice narozených fary Osek jako porodní bába uvedena „Magdalena Laukotová (?)“ – možná tatáž osoba (neověřeno v plném rozlišení)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
