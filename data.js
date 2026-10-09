@@ -42,7 +42,7 @@ window.RODOKMEN = {
     "malek": "Málek",
     "mraz": "Mráz",
     "sulc": "Šulc",
-    "lezak": "Lezák (?)",
+    "lezak": "Lezák / Trgjk (?)",
     "lancik": "Lancík (?)",
     "mrkva": "Mrkva (?)",
     "kriz": "Kříž (?)",
@@ -2307,37 +2307,46 @@ window.RODOKMEN = {
       d: {"date":"před 6. 9. 1849","year":1849,"approx":true},
       spouse: "katerina_le",
       occ: "mistr ševcovský v Oseku č. 75",
+      marriage: "7. 2. 1804, Osek – s Kateřinou",
       notes: [
-        "Otec Pavla Lodla; švec (1811, Osek č. 84), později mistr ševcovský v Oseku č. 75. Kandidáti na další děti podle rejstříku: Kateřina a Magdalena (1806), Anna – nečteno."
+        "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Brück (?)“; svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
+        "Otec Pavla Lodla (*1811); švec v č. 84 (1811), později mistr ševcovský v č. 75.",
+        "KANDIDÁT: rejstřík oddaných Osek po 1809 uvádí i „83. Lodl Martin s Annau Laukotowau … str. 43“ – nečteno; jiný Martin Lodl, nebo druhý sňatek po roce 1811."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
-        "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n"
+        "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 31, snímek 17 – https://www.portafontium.eu/iipimage/30066673/osek-07_0170-o"
       ],
       scans: [
         {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
-        {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"}
+        {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"},
+        {"f":"img/1804_oddani_martin_lodl_katerina_osek.jpg","t":"Sňatek Martina Lodla a Kateřiny, Osek 7. 2. 1804"}
       ]
     },
     {
       id: "katerina_le",
       name: "Kateřina Lodlová",
-      maiden: "Lezáková (?)",
+      maiden: "Lezáková / Trgjková (?)",
       line: "lezak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true,"place":"Osek u Rokycan č. p. 83"},
+      b: {"date":"asi 1783","year":1783,"approx":true},
       d: {"date":"před 6. 9. 1849","year":1849,"approx":true},
       spouse: "martin_l1",
+      marriage: "7. 2. 1804, Osek – s Martinem Lodlem",
       notes: [
-        "Matka Pavla Lodla; dcera † Jakuba Lezáka (?) a † Magdaleny (Vandrlové ?) (křest syna 1811). Čtení příjmení nejisté."
+        "Matka Pavla Lodla; selská dcera, při sňatku 1804 21 let. V křtu syna 1811 dcera † Jakuba a † Magdaleny.",
+        "ROZPOR / nejisté příjmení: v oddacím zápise a rejstříku (1801, 1804) „Trgjk“ / „Trgeßkin (?)“, v pozdějších zápisech čteno „Lezák (?)“ – totéž jméno v jiném přepisu, nebo chybné čtení; zatím nerozhodnuto."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
-        "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n"
+        "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 31, snímek 17 – https://www.portafontium.eu/iipimage/30066673/osek-07_0170-o"
       ],
       scans: [
         {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
-        {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"}
+        {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"},
+        {"f":"img/1804_oddani_martin_lodl_katerina_osek.jpg","t":"Sňatek Martina Lodla a Kateřiny, Osek 7. 2. 1804"}
       ]
     },
     {
@@ -2345,45 +2354,53 @@ window.RODOKMEN = {
       name: "Josef Forejt",
       line: "forejt",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"asi 1781","year":1781,"approx":true},
       spouse: "marianna_le",
-      occ: "domkář v Oseku č. 91 (panství Mirošov)",
+      occ: "horník (1801), domkář v Oseku č. 91 (poddaný Mirošov)",
+      marriage: "27. 11. 1801, Osek – s Veronikou",
       notes: [
-        "Otec Matěje Forejta; dal souhlas k jeho sňatku 1846."
+        "Oddán 27. 11. 1801 v Oseku (dům č. 66): Josef Forejt, Bergmann, 20 let, svobodný; svědci Josef Uhlíř (?), podruh, a Jakub Šikora (?), voják; oddával kaplan P. Karl Gruler (?). Rodiče snoubenců zápis neuvádí.",
+        "Otec Matěje Forejta (*1823); dal souhlas k jeho sňatku 1846."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
-        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 28, snímek 16 – https://www.portafontium.eu/iipimage/30066673/osek-07_0160-o"
       ],
       scans: [
-        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"}
+        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"},
+        {"f":"img/1801_oddani_josef_forejt_veronika_osek.jpg","t":"Sňatek Josefa Forejta a Veroniky, Osek 27. 11. 1801"}
       ]
     },
     {
       id: "marianna_le",
       name: "Veronika Forejtová",
-      maiden: "Lezáková",
+      maiden: "Lezáková / Trgjková (?)",
       line: "lezak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Volduchy č. p. 67"},
+      b: {"date":"asi 1783","year":1783,"approx":true,"place":"Volduchy"},
       father: "josef_le",
       spouse: "josef_f",
+      marriage: "27. 11. 1801, Osek – s Josefem Forejtem",
       notes: [
-        "Matka Matěje Forejta; dcera Josefa Lezáka, sedláka z Volduch č. 67, a Doroty (…ové) z Volduch.",
-        "ROZPOR v křestním jméně: křest syna 1823 jasně „Veronika“; oddací zápis syna 1846 a křest vnučky 1848 dříve čteny „Marianna (?)“ – přednost má křest, pozdější zápisy přečíst znovu."
+        "Matka Matěje Forejta; dcera Josefa, sedláka z Volduch č. 67, a Doroty (křest syna 1823). Jméno Veronika potvrzeno třemi zápisy (1823, 1846, 1848) – dřívější čtení „Marianna“ bylo chybné (kurentní W × M).",
+        "Při sňatku 1801 18 let.",
+        "ROZPOR / nejisté příjmení: v oddacím zápise a rejstříku (1801, 1804) „Trgjk“ / „Trgeßkin (?)“, v pozdějších zápisech čteno „Lezák (?)“ – totéž jméno v jiném přepisu, nebo chybné čtení; zatím nerozhodnuto."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
-        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
+        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 28, snímek 16 – https://www.portafontium.eu/iipimage/30066673/osek-07_0160-o"
       ],
       scans: [
-        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"}
+        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"},
+        {"f":"img/1801_oddani_josef_forejt_veronika_osek.jpg","t":"Sňatek Josefa Forejta a Veroniky, Osek 27. 11. 1801"}
       ]
     },
     {
       id: "josef_le",
-      name: "Josef Lezák",
+      name: "Josef Lezák / Trgjk (?)",
       line: "lezak",
       cert: "M",
       b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
@@ -3002,7 +3019,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true,"place":"Volduchy"},
       spouse: "josef_le",
       notes: [
-        "Babička Matěje Forejta; rodné příjmení nečitelné (…ová z Volduch)."
+        "Babička Matěje Forejta; rodné příjmení nečitelné (…ová z Volduch).",
+        "ROZPOR / nejisté příjmení: v oddacím zápise a rejstříku (1801, 1804) „Trgjk“ / „Trgeßkin (?)“, v pozdějších zápisech čteno „Lezák (?)“ – totéž jméno v jiném přepisu, nebo chybné čtení; zatím nerozhodnuto."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
