@@ -5326,23 +5326,28 @@ window.RODOKMEN = {
       occ: "třičtvrtník v Heršpicích",
       notes: [
         "Otec Jana Kučery.",
-        "POZOR: 15. 11. 1808 se v Heršpicích oženil Tobiáš, syn Tobiáše Kučery, třičtvrtníka (20 let, č. 65), s Teklou Hrabovskou (19) – je otcem Jana (*1816) Tobiáš st., nebo Tobiáš ml. ve 2. manželství s Kateřinou? Sňatek Tobiáš × Kateřina v indexu oddaných 1802–1820 není."
+        "S Kateřinou Lotrabovou (?) měl v Heršpicích č. 40 děti: Anežka (1801), Kateřina (1803), Anna (1804 ?), další 1806–1811, Josef (1813), Jan (1816); r. 1801–1803 podruh, později třičtvrtník. Kmotři z Kobeřic (Štěpán Zahula ?) – Kateřina snad z Kobeřic. Sňatek není v indexu oddaných Slavkov 1784–1820.",
+        "Pozor na záměnu: Tobiáš Kučera ml., podruh v č. 20, oddán 1808 s Teklou Hrabovskou (děti 1810, 1814) – jiný pár. KANDIDÁT: 1. manželka Barbora (děti v č. 47 1799, † 1800)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
-        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 419, snímek 407 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 419, snímek 407 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 399–419, snímky 387–407 – https://www.mza.cz/actapublica/matrika/detail/1951"
+      ],
+      scans: [
+        {"f":"img/1813-1814_N_13123_sn403_str415_Herspice_c40_Tobias_Katharina_Lotrab_a_c20_Tobias_Inmann_Thekla_plne_rozl.jpg","t":"Heršpice 1813/14: Tobiáš × Kateřina Lotrabová (č. 40) a Tobiáš ml. × Tekla Hrabovská (č. 20)"}
       ]
     },
     {
       id: "katerina_lo",
       name: "Kateřina Kučerová",
-      maiden: "Lobrabová / Lattrabová (?)",
+      maiden: "Lotrabová / Lattrabová (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true,"place":"Letonice (?)"},
       spouse: "tobias_ku",
       notes: [
-        "Matka Jana Kučery; dcera Jana Lobraba (?), pololáníka z Letonic (?) – čtení nejisté."
+        "Matka Jana Kučery (*1816) a dalších dětí v Heršpicích č. 40 (1801–1816); v křtech „Lottrab / Lotrab (?)“. Původ: oddací zápis syna 1837 „z Letonic (?)“, kmotři z Kobeřic – nejisté."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
