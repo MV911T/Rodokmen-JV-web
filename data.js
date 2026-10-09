@@ -2189,7 +2189,7 @@ window.RODOKMEN = {
       notes: [
         "Narozen 7. 4., pokřtěn 8. 4. 1803 v Těchobuzi č. 19 (fara Zhoř); otec Vojtěch Michal, sedlák; matka Kateřina (rodné příjmení nejisté – „Vrz…/Voz…“).",
         "Půlsedlák (sedlák) v Těchobuzi č. 19. V roce 1868 už nežil.",
-        "Grunt č. 19 koupil od otce Vojtěcha smlouvou z 13. 1. 1825 (zapsáno 15. 1.) „s nastávající manželkou Marií, ovdovělou Kazdalkovou (?)“ za 2000 zl. v. m. – tj. první manželka byla vdova Kazdalková (?) (v oddacím zápisu 1825 čteno „Vorel (?)“, ROZPOR čtení). Grunt později přešel na dceru Antonii (pozemková kniha Lit. II fol. 51).",
+        "Grunt č. 19 koupil od otce Vojtěcha smlouvou z 13. 1. 1825 (zapsáno 15. 1.) „s nastávající manželkou Marií, ovdovělou Kazazelkovou (?)“ za 2000 zl. v. m.; oddací zápis 7. 2. 1825: „Maria pozůstalá wdowa po † Tomáši Dorpelda (?), chalupníku z Těchobuz No 22, dcera † Pawla Kr… (?) z Těchobuz No 28 a Johanny roz. Pojwar… (?), 32 let“ – příjmení 1. manžela nejisté (ROZPOR čtení). Grunt později přešel na dceru Antonii (pozemková kniha Lit. II fol. 51).",
         "Dvakrát ženatý: 7. 2. 1825 v Těchobuzi s Marií, vdovou po chalupníkovi z č. 22 (*~1785–1792, † 1. 9. 1835 v Těchobuzi č. 19); podruhé jako vdovec 10. 11. 1835 v Mezilesí č. 2 s Marií Karafiátovou (22 let) – matkou Antonie (*16. 12. 1836). Svědci Josef Hrň… (?), mlynář z Hojna (?), a Václav Šim… (?) z Lukavce (?). Rozpor vyřešen.",
         "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815.",
         "Rodné příjmení matky Kateřiny se v zápisech liší: 1825 „Vrz…/Voz… (?)“, 1835 „Kroužilová (?)“."
@@ -3161,11 +3161,11 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"asi 1809/1810","year":1810,"approx":true,"place":"Těchobuz"},
       d: {"date":"1. 10. 1866","year":1866,"place":"Těchobuz č. p. 13"},
+      father: "martin_ko",
       spouse: "jan_v",
       notes: [
         "Druhá manželka Jana Votavy (sňatek 6. 2. 1844, 34 let), Štěpánova macecha. Dcera † Martina Koče, bývalého sedláka v Těchobuzi č. 13, a † Terezie roz. Fürstové (?) z Hlavňova (?).",
-        "Zemřela jako vdova 1. 10. 1866 v Těchobuzi č. 13, sešlostí věkem.",
-        "Děd Tomáš Koč (?) – podle pozemkové knihy Těchobuz (fol. 35) postoupil Tomáš Koč sedlácký grunt č. 13 synovi Martinovi smlouvou z roku 1817 (čteno v nižším rozlišení, neověřeno)."
+        "Zemřela jako vdova 1. 10. 1866 v Těchobuzi č. 13, sešlostí věkem."
       ],
       sources: [
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826",
@@ -5381,23 +5381,27 @@ window.RODOKMEN = {
       id: "jakub_mi",
       name: "Jakub Michal",
       line: "michal",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
-      d: {"date":"před 20. 5. 1798","year":1798,"approx":true},
+      cert: "M",
+      b: {"date":"asi 1727","year":1727,"approx":true},
+      d: {"date":"4. (?) 5. 1797","year":1797,"place":"Těchobuz"},
+      cause: "plicní choroba („Lungensucht“ ?)",
       occ: "sedlák v Těchobuzi č. 19",
       notes: [
         "Kupní smlouvou z 2. 5. 1796 koupil od vrchnosti selský grunt Těchobuz č. 19 (24 jiter 1406 sáhů) za 500 zl., závdavek 50 zl., splátky po 7 zl. ročně; kvitance „Jakob und Adalbert Michal“.",
-        "Zemřel před 20. 5. 1798 (sirotčí protokol); grunt převzal syn Vojtěch. Další děti: Anna, Magdalena († před 1804), Josef, Marie, Matěj (?). Vdova (jméno neuvedeno) dostala výminek.",
-        "Úmrtí v matrice zatím nehledáno (fara Zhoř)."
+        "Zemřel 4. (?) 5. 1797 v Těchobuzi jako sedlák, 70 let, pohřben 6. 5.; grunt převzal podle sirotčího protokolu (20. 5. 1798) syn Vojtěch. Další děti: Anna, Magdalena († před 1804), Josef, Marie (*28. 8. 1785, Těchobuz č. 18 – matka Kateřina), Matěj (?). Vdova dostala výminek.",
+        "V roce 1785 bydlel v č. 18, manželka Kateřina (křest dcery Marie). KANDIDÁT: rejstřík oddaných fary Zhoř uvádí sňatek „Michal Jakub × Prokešová (?) Magdalena, 1776 (?)“ – možná 2. nebo 3. manželství; zda Kateřina či Magdalena je matkou Vojtěcha, neověřeno."
       ],
       sources: [
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 73, snímek 84 – https://digi.ceskearchivy.cz/127651",
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 73v–74, snímek 85 – https://digi.ceskearchivy.cz/127651",
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 74v–75, snímek 86 – https://digi.ceskearchivy.cz/127651",
-        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 77, snímek 88 – https://digi.ceskearchivy.cz/127651"
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 77, snímek 88 – https://digi.ceskearchivy.cz/127651",
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (fara Zhoř), fol. 7, snímek 67 – https://digi.ceskearchivy.cz/8824",
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (fara Zhoř), fol. 1, snímek 17 – https://digi.ceskearchivy.cz/8824"
       ],
       scans: [
-        {"f":"img/Techobuz_rustik_pk_127651_sn85R_fol74_1804_Vojtech_Michal_po_otci_Jakubovi_full.jpg","t":"Pozemková kniha Těchobuz 1804: grunt č. 19 po zemřelém Jakubu Michalovi"}
+        {"f":"img/Techobuz_rustik_pk_127651_sn85R_fol74_1804_Vojtech_Michal_po_otci_Jakubovi_full.jpg","t":"Pozemková kniha Těchobuz 1804: grunt č. 19 po zemřelém Jakubu Michalovi"},
+        {"f":"img/1797_zemreni_Michal_Jakub_sedlak_Techobuz_8824_sn67.jpg","t":"Úmrtí Jakuba Michala, Těchobuz V 1797"}
       ]
     },
     {
@@ -5543,6 +5547,47 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1753_krest_anna_dorota_cervena_knizkovice_zdice01_sn37_a.jpg","t":"Křest dcery Anny Doroty, Zdice 1753"}
+      ]
+    },
+    {
+      id: "martin_ko",
+      name: "Martin Koč",
+      line: "koc",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      d: {"date":"před 6. 2. 1844","year":1844,"approx":true},
+      father: "tomas_ko",
+      occ: "sedlák v Těchobuzi č. 13",
+      notes: [
+        "Otec Kateřiny Kočové (oddací zápis 1844: „dcera † Martina Koče, bývalého sedláka v Těchobuzi č. 13, a † Terezie roz. Fürstové (?)“).",
+        "Podle protokolu z 3. 3. 1817 mu otec Tomáš Koč postoupil a prodal selský grunt č. 13 za 2222 zl.; sourozenci podle podílů: František (200 zl.), Kateřina (?) a provdaná sestra (Hejtmanková ?)."
+      ],
+      sources: [
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35, snímek 46 – https://digi.ceskearchivy.cz/127651",
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35v–36, snímek 47 – https://digi.ceskearchivy.cz/127651"
+      ],
+      scans: [
+        {"f":"img/Techobuz_rustik_pk_127651_sn46R_fol35_dole_1817_odpis_Tomas_Koc_synu_Martinovi.jpg","t":"Pozemková kniha Těchobuz 1817: Tomáš Koč postupuje grunt č. 13 synovi Martinovi"}
+      ]
+    },
+    {
+      id: "tomas_ko",
+      name: "Tomáš Koč",
+      line: "koc",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      occ: "sedlák v Těchobuzi č. 13",
+      notes: [
+        "Kupní smlouvou s vrchností (1796, formulář jako u Jakuba Michala) koupil selský statek Těchobuz č. 13 (24 jiter 1088 sáhů polí) za 500 zl., závdavek 55 zl.",
+        "Protokolem z 3. 3. 1817 postoupil grunt synovi Martinovi za 2222 zl., sám si vymínil 431 zl. (výminek nečten)."
+      ],
+      sources: [
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 33, snímek 44 – https://digi.ceskearchivy.cz/127651",
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35, snímek 46 – https://digi.ceskearchivy.cz/127651",
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35v–36, snímek 47 – https://digi.ceskearchivy.cz/127651"
+      ],
+      scans: [
+        {"f":"img/Techobuz_rustik_pk_127651_sn46R_fol35_dole_1817_odpis_Tomas_Koc_synu_Martinovi.jpg","t":"Pozemková kniha Těchobuz 1817: postup gruntu č. 13 synovi Martinovi"}
       ]
     }
   ]
