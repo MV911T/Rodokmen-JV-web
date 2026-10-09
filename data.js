@@ -2607,7 +2607,8 @@ window.RODOKMEN = {
       occ: "sedlák ve Volduchách č. 67",
       notes: [
         "Otec Veroniky Forejtové; sedlák z Volduch č. 67.",
-        "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L)."
+        "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L).",
+        "V Oseku č. 67 měl Josef Trgjk, sedlák, v letech 1782–1785 manželku Kateřinu (děti Anna Thekla 1782, Josef 1783, Ludmila 1. 12. 1785 – Osek 05 str. 35, sn. 20); křest syna Matěje 1823 uvádí jako matku Veroniky Dorotu – buď 2. manželka, nebo jiný Josef Trgjk. Veronika (*~1783) v Oseku 1776–1788 nenalezena."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
