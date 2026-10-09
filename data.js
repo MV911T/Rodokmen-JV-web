@@ -2571,7 +2571,7 @@ window.RODOKMEN = {
       d: {"date":"před 6. 9. 1849","year":1849,"approx":true},
       spouse: "katerina_le",
       occ: "mistr ševcovský v Oseku č. 75",
-      marriage: "1. sňatek 7. 2. 1804, Osek – s Kateřinou Trgjkovou; 2. sňatek 9. 9. 1814, Osek – s Annou, vdovou po Jakubu Laukotovi",
+      marriage: "1. sňatek 7. 2. 1804, Osek – s Kateřinou Trgjkovou; 2. sňatek 9. 9. 1814, Osek – s Annou roz. Holubovou, vdovou po Prokopu Laukotovi",
       notes: [
         "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Tück (?) / Türck (?)“ (dřívější čtení „Brück“ neplatí – stejné T jako v „Trgěk“; věk nevyplněn, rodiče neuvedeni); svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
         "Otec Pavla Lodla (*1811); švec v č. 84 (1811), později mistr ševcovský v č. 75.",
