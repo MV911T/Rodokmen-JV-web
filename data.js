@@ -56,7 +56,10 @@ window.RODOKMEN = {
     "igla": "Igla (?)",
     "popp": "Popp",
     "pitr": "Pitr",
-    "zahalka": "Zahálka (?)"
+    "zahalka": "Zahálka (?)",
+    "jelinek": "Jelínek",
+    "kirchner": "Kirchner",
+    "kucera": "Kučera"
   },
   people: [
     {
@@ -497,7 +500,8 @@ window.RODOKMEN = {
       occ: "zdravotní sestra (1963)",
       marriage: "31. 12. 1961, Dyjákovice – s Františkem Zettelmannem",
       notes: [
-        "Matka Šárky Votavové."
+        "Matka Šárky Votavové.",
+        "Měla tři bratry, kteří zemřeli jako novorozenci: Jaroslav (1924), Jaroslav (1932), Alois (1933)."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
@@ -716,26 +720,32 @@ window.RODOKMEN = {
       name: "Vladimír Hrazdílek",
       line: "hrazdilek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1905; kandidát z rejstříku 1905)","year":1905,"approx":true},
+      b: {"date":"3. 2. 1905 (?)","year":1905,"place":"Heršpice"},
+      father: "rajmund_h",
+      mother: "marie_je",
+      spouse: "marie_j",
       occ: "zednický pomocník v Heršpicích (1924)",
+      marriage: "5. 5. 1924, Heršpice – s Marií Jeřábkovou",
       notes: [
-        "Manžel Marie roz. Jeřábkové nejpozději od roku 1924: syn Jaroslav (*5. 6., † 7. 6. 1924) se narodil v Heršpicích č. 37 jako „manželský syn Vladimíra Hrazdílka, zednického pomocníka v Heršpicích, a Marie roz. Jeřábek“.",
-        "Otec Heleny Zettelmannové (*1940) podle rodného listu Šárky Zettelmannové (1963).",
-        "Data narození a úmrtí zatím neznámá.",
-        "KANDIDÁT: v rejstříku narozených fary Slavkov u Brna je k roku 1905 „Hrazdílek Vladimír Rajmund – Heršpice – str. 184“ (MZA 13159, sn. 81); samotný zápis online není.",
-        "Sňatek Vladimíra Hrazdílka a Marie Jeřábkové není v rejstříku oddaných fary Slavkov 1919–1949 ani v knize Církve čs. Slavkov 1929–1942 – nejspíš civilní nebo jinde. V rejstříku narozených jsou dvě kandidátky Marie Jeřábkové z Heršpic (1904 str. 183, 1910 str. 204).",
-        "KANDIDÁTI na rodiče: Rajmund Hrazdílek (31. 3. 1880 – 4. 2. 1935, zednický pomocník / domkář a továrenský dělník v Heršpicích č. 152 a 147), nemanželský syn Františky Hrazdílkové (dcery Martina Hrazdílka, domkaře, a Cecilie roz. Kirchnerové, † 2. 1. 1913 v Heršpicích č. 152, asi 90 let), ⚭ 20. 7. 1904 Heršpice Marie Julinková / Jelínková (*4. 12. 1881 Uhřice, dcera Jana Jelínka, podruha, a Mariany roz. Buchlovské (?)). Jejich syn Josef (*26. 4. 1913, † 14. 5. 1913, č. 152) – nepřímé indicie: Vladimírovo druhé jméno Rajmund a narození 1905. Do stromu připojit až po výpisu narození Vladimíra (N Heršpice 1905, str. 184) z matriky MÚ Slavkov u Brna."
+        "Narozen v únoru 1905 v Heršpicích (oddací zápis „n. 19 3/2 05“ – den 3. 2. nejistý; křestní kniha Heršpice Tom VI str. 184, rejstřík „Hrazdílek Vladimír Rajmund“).",
+        "Oddán 5. 5. 1924 v Heršpicích jako zednický pomocník, 19 let, nezletilý a odvodem povinný (povolení zemské politické správy v Brně z 26. 3. 1924); manželský syn Rajmunda Hrazdílka, zedníka v Heršpicích, a Marie roz. Jelínkové z Uhřic – otec se pod zápis podepsal. Svědci Antonín Konečný, hostinský, a Julius Jeřábek, chalupník.",
+        "Bydliště: Heršpice č. 152 (1924, dům babičky Cecilie), č. 37 (1924, dům Jeřábků), č. 213 (1932–1933).",
+        "Děti: Jaroslav (*5. 6., † 7. 6. 1924), Jaroslav (*14. 9., † 16. 9. 1932), Alois (*8. 12., † 14. 12. 1933), Helena (*21. 10. 1940)."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
-        "MZA Brno, Sbírka matrik, fara Slavkov u Brna, rejstřík narozených 1852–1949, sign. 13159, snímek 81 – https://www.mza.cz/actapublica/matrika/detail/1971",
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 77, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/12387",
         "MZA Brno, Z Heršpice 1837–1949, sign. 13155, str. 104 (1913) a str. 131 (1935) – https://www.mza.cz/actapublica/matrika/detail/12384",
         "MZA Brno, N Uhřice 1847–1883 (fara Dambořice), sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
-        "MZA Brno, Z Heršpice 1837–1949, sign. 13155, str. 116, snímek 60 – https://www.mza.cz/actapublica/matrika/detail/12384"
+        "MZA Brno, Z Heršpice 1837–1949, sign. 13155, str. 116, snímek 60 – https://www.mza.cz/actapublica/matrika/detail/12384",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov, rejstřík N 1852–1949, sign. 13159 (1880 str. 95; 1904 str. 183; 1905 str. 184) – https://www.mza.cz/actapublica/matrika/detail/1971"
       ],
       scans: [
-        {"f":"img/1924_Z_Hrazdilek_Jaroslav_Herspice_str116.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1924 – syn Vladimíra a Marie roz. Jeřábkové"}
+        {"f":"img/1924_Z_Hrazdilek_Jaroslav_Herspice_str116.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1924 – syn Vladimíra a Marie roz. Jeřábkové"},
+        {"f":"img/1924_O_Hrazdilek_Vladimir_Jerabkova_Marie_Herspice_str104_cely.jpg","t":"Sňatek Vladimíra Hrazdílka a Marie Jeřábkové, Heršpice 5. 5. 1924"},
+        {"f":"img/1932_Z_Hrazdilek_Jaroslav_Herspice_str128.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1932"},
+        {"f":"img/1933_Z_Hrazdilek_Alois_Herspice_str129.jpg","t":"Úmrtí Aloise Hrazdílka, Heršpice 1933"}
       ]
     },
     {
@@ -744,18 +754,24 @@ window.RODOKMEN = {
       maiden: "Jeřábková",
       line: "jerabek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1904; kandidát z rejstříku 1904)","year":1904,"approx":true},
+      b: {"date":"prosinec 1904 (?)","year":1904,"place":"Heršpice č. p. 37"},
+      father: "alois_je",
+      mother: "veronika_ku",
+      spouse: "vladimir_h",
+      marriage: "5. 5. 1924, Heršpice – s Vladimírem Hrazdílkem",
       notes: [
-        "Manželka Vladimíra Hrazdílka nejpozději od roku 1924 (úmrtí syna Jaroslava, Heršpice č. 37). V rejstříku narozených fary Slavkov kandidátky Marie Jeřábkové z Heršpic: 1904 (str. 183), 1910 (str. 204).",
-        "Matka Heleny Zettelmannové (*1940) podle rodného listu Šárky Zettelmannové (1963).",
-        "Data narození a úmrtí zatím neznámá."
+        "Narozena v prosinci 1904 v Heršpicích (oddací zápis „n. 19 1?/12 04“ – den nejistý; křestní kniha Heršpice Tom VI str. 183).",
+        "Při sňatku 1924 bydlela u rodičů v Heršpicích č. 37, 19 let, nezletilá – souhlas dal otec Alois Jeřábek. Manželská dcera Aloise Jeřábka, domkaře v Heršpicích, a Veroniky roz. Kučerové (dcery Matouše Kučery, domkaře v Heršpicích)."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
-        "MZA Brno, Z Heršpice 1837–1949, sign. 13155, str. 116, snímek 60 – https://www.mza.cz/actapublica/matrika/detail/12384"
+        "MZA Brno, Z Heršpice 1837–1949, sign. 13155, str. 116, snímek 60 – https://www.mza.cz/actapublica/matrika/detail/12384",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov, rejstřík N 1852–1949, sign. 13159 (1880 str. 95; 1904 str. 183; 1905 str. 184) – https://www.mza.cz/actapublica/matrika/detail/1971"
       ],
       scans: [
-        {"f":"img/1924_Z_Hrazdilek_Jaroslav_Herspice_str116.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1924 – syn Vladimíra a Marie roz. Jeřábkové"}
+        {"f":"img/1924_Z_Hrazdilek_Jaroslav_Herspice_str116.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1924 – syn Vladimíra a Marie roz. Jeřábkové"},
+        {"f":"img/1924_O_Hrazdilek_Vladimir_Jerabkova_Marie_Herspice_str104_cely.jpg","t":"Sňatek Vladimíra Hrazdílka a Marie Jeřábkové, Heršpice 5. 5. 1924"}
       ]
     },
     {
@@ -3633,6 +3649,263 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1924_Z_Hrazdilek_Jaroslav_Herspice_str116.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1924 – syn Vladimíra a Marie roz. Jeřábkové"}
       ]
+    },
+    {
+      id: "rajmund_h",
+      name: "Rajmund Hrazdílek",
+      line: "hrazdilek",
+      cert: "M",
+      b: {"date":"31. 3. 1880","year":1880,"place":"Heršpice"},
+      d: {"date":"4. 2. 1935","year":1935,"place":"Heršpice č. p. 147"},
+      cause: "zánět ledvin (?)",
+      mother: "frantiska_h",
+      spouse: "marie_je",
+      occ: "zedník, domkář a továrenský dělník v Heršpicích",
+      marriage: "20. 7. 1904, Heršpice – s Marií Julinkovou (Jelínkovou)",
+      notes: [
+        "Nemanželský syn Františky Hrazdílkové, dcery Martina Hrazdílka, domkaře v Heršpicích, a Cecilie roz. Kirchnerové. Rejstřík narozených: 1880 Heršpice str. 95.",
+        "Oddán 20. 7. 1904 v Heršpicích jako zedník, bydliště č. 152; svědci Jan Hrazdílek a Dominik (?) Střebek, domkáři v Heršpicích. Zemřel 4. 2. 1935 (54 let) v Heršpicích č. 147."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 131, snímek 67, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384",
+        "MZA Brno, fara Slavkov, rejstřík N 1852–1949, sign. 13159 (1880 str. 95; 1904 str. 183; 1905 str. 184) – https://www.mza.cz/actapublica/matrika/detail/1971"
+      ],
+      scans: [
+        {"f":"img/1924_O_Hrazdilek_Vladimir_Jerabkova_Marie_Herspice_str104_cely.jpg","t":"Sňatek Vladimíra Hrazdílka a Marie Jeřábkové, Heršpice 5. 5. 1924"},
+        {"f":"img/1904_O_Hrazdilek_Rajmund_Julinkova_Marie_Herspice_str77.jpg","t":"Sňatek Rajmunda Hrazdílka a Marie Julinkové, Heršpice 20. 7. 1904"},
+        {"f":"img/1935_Z_Hrazdilek_Rajmund_Herspice_str131.jpg","t":"Úmrtí Rajmunda Hrazdílka, Heršpice 1935"},
+        {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Cecilie Hrazdílkové a vnuka Josefa, Heršpice 1913"}
+      ]
+    },
+    {
+      id: "marie_je",
+      name: "Marie Hrazdílková",
+      maiden: "Jelínková (Julinková)",
+      line: "jelinek",
+      cert: "M",
+      b: {"date":"4. 12. 1881","year":1881,"place":"Uhřice č. p. 64 (?)"},
+      father: "jan_je",
+      mother: "mariana_bu",
+      spouse: "rajmund_h",
+      marriage: "20. 7. 1904, Heršpice – s Rajmundem Hrazdílkem",
+      notes: [
+        "Pokřtěna 4. 12. 1881 v Uhřicích (fara Dambořice) jako Mariana; otec Jan Jelínek, podruh v Uhřicích, syn † Františka Jelínka ze Ždánic; matka Mariana, dcera Fabiána Buchlovského (?), domkáře v Uhřicích.",
+        "Při sňatku 1904 služebná v Heršpicích č. 44, 23 let. ROZPOR v příjmení: 1881 a 1924 „Jelínek“, 1904 „Julinková“."
+      ],
+      sources: [
+        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ],
+      scans: [
+        {"f":"img/1904_O_Hrazdilek_Rajmund_Julinkova_Marie_Herspice_str77.jpg","t":"Sňatek Rajmunda Hrazdílka a Marie Julinkové, Heršpice 20. 7. 1904"},
+        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest Mariany Jelínkové, Uhřice 1881"}
+      ]
+    },
+    {
+      id: "frantiska_h",
+      name: "Františka Hrazdílková",
+      line: "hrazdilek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1855)","year":1855,"approx":true,"place":"Heršpice"},
+      father: "martin_h",
+      mother: "cecilie_ki",
+      notes: [
+        "Matka Rajmunda Hrazdílka (nemanželského); v roce 1904 žila v otcovském domě v Heršpicích."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "martin_h",
+      name: "Martin Hrazdílek",
+      line: "hrazdilek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      d: {"date":"před 2. 1. 1913","year":1913,"approx":true},
+      spouse: "cecilie_ki",
+      occ: "domkář v Heršpicích",
+      notes: [
+        "Děd Rajmunda Hrazdílka. Sňatek s Cecilií Kirchnerovou zatím nenalezen (rejstřík 1837 (?) nesedí s věkem)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 104, snímek 54, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384"
+      ],
+      scans: [
+        {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Cecilie Hrazdílkové a vnuka Josefa, Heršpice 1913"}
+      ]
+    },
+    {
+      id: "cecilie_ki",
+      name: "Cecilie Hrazdílková",
+      maiden: "Kirchnerová",
+      line: "kirchner",
+      cert: "M",
+      b: {"date":"asi 1823–1828","year":1825,"approx":true,"place":"Heršpice (?)"},
+      d: {"date":"2. 1. 1913","year":1913,"place":"Heršpice č. p. 152"},
+      cause: "sešlost věkem",
+      spouse: "martin_h",
+      notes: [
+        "Výměnkářka a vdova po Martinu Hrazdílkovi; zemřela 2. 1. 1913 v Heršpicích č. 152 asi v 90 letech (rok narození tužkou nejistý)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 104, snímek 54, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ],
+      scans: [
+        {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Cecilie Hrazdílkové a vnuka Josefa, Heršpice 1913"}
+      ]
+    },
+    {
+      id: "jan_je",
+      name: "Jan Jelínek",
+      line: "jelinek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1850)","year":1850,"approx":true},
+      d: {"date":"před 20. 7. 1904","year":1904,"approx":true},
+      spouse: "mariana_bu",
+      occ: "podruh v Uhřicích",
+      marriage: "25. 7. 1875, Uhřice – s Marianou Buchlovskou (rejstřík)",
+      notes: [
+        "Otec Marie Hrazdílkové; syn † Františka Jelínka ze Ždánic. Sňatek 25. 7. 1875 podle rejstříku oddaných Dambořice/Uhřice (kniha O Uhřice před 1878 není online)."
+      ],
+      sources: [
+        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ],
+      scans: [
+        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest Mariany Jelínkové, Uhřice 1881"}
+      ]
+    },
+    {
+      id: "mariana_bu",
+      name: "Mariana Jelínková",
+      maiden: "Buchlovská (?)",
+      line: "jelinek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1853)","year":1853,"approx":true,"place":"Uhřice"},
+      spouse: "jan_je",
+      notes: [
+        "Matka Marie Hrazdílkové; dcera Fabiána Buchlovského (?), domkáře v Uhřicích. V oddacím zápisu 1904 čteno „roz. Fabian … Kuklovský (?)“."
+      ],
+      sources: [
+        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ],
+      scans: [
+        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest Mariany Jelínkové, Uhřice 1881"}
+      ]
+    },
+    {
+      id: "alois_je",
+      name: "Alois Jeřábek",
+      line: "jerabek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1875)","year":1875,"approx":true},
+      spouse: "veronika_ku",
+      occ: "domkář v Heršpicích (č. 37)",
+      notes: [
+        "Otec Marie Hrazdílkové; dal souhlas k jejímu sňatku 1924 a podepsal se."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ],
+      scans: [
+        {"f":"img/1924_O_Hrazdilek_Vladimir_Jerabkova_Marie_Herspice_str104_cely.jpg","t":"Sňatek Vladimíra Hrazdílka a Marie Jeřábkové, Heršpice 5. 5. 1924"}
+      ]
+    },
+    {
+      id: "veronika_ku",
+      name: "Veronika Jeřábková",
+      maiden: "Kučerová",
+      line: "kucera",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1878)","year":1878,"approx":true,"place":"Heršpice"},
+      father: "matous_ku",
+      spouse: "alois_je",
+      notes: [
+        "Matka Marie Hrazdílkové; dcera Matouše Kučery, domkaře v Heršpicích."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "matous_ku",
+      name: "Matouš Kučera",
+      line: "kucera",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      occ: "domkář v Heršpicích",
+      notes: [
+        "Otec Veroniky Jeřábkové."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "jaroslav1932h",
+      name: "Jaroslav Hrazdílek",
+      line: "hrazdilek",
+      cert: "M",
+      b: {"date":"14. 9. 1932","year":1932,"place":"Heršpice č. p. 213"},
+      d: {"date":"16. 9. 1932","year":1932,"place":"Heršpice č. p. 213"},
+      cause: "tetanus novorozenců",
+      father: "vladimir_h",
+      mother: "marie_j",
+      notes: [
+        "Bratr Heleny; zemřel ve 2 dnech."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 128, snímek 66, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384"
+      ],
+      scans: [
+        {"f":"img/1932_Z_Hrazdilek_Jaroslav_Herspice_str128.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1932"}
+      ]
+    },
+    {
+      id: "alois1933h",
+      name: "Alois Hrazdílek",
+      line: "hrazdilek",
+      cert: "M",
+      b: {"date":"8. 12. 1933","year":1933,"place":"Heršpice č. p. 213"},
+      d: {"date":"14. 12. 1933","year":1933,"place":"Heršpice č. p. 213"},
+      cause: "tetanus novorozenců",
+      father: "vladimir_h",
+      mother: "marie_j",
+      notes: [
+        "Bratr Heleny; zemřel v 6 dnech."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 129, snímek 66, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384"
+      ],
+      scans: [
+        {"f":"img/1933_Z_Hrazdilek_Alois_Herspice_str129.jpg","t":"Úmrtí Aloise Hrazdílka, Heršpice 1933"}
+      ]
+    },
+    {
+      id: "josef1913h",
+      name: "Josef Hrazdílek",
+      line: "hrazdilek",
+      cert: "M",
+      b: {"date":"26. 4. 1913","year":1913,"place":"Heršpice č. p. 152"},
+      d: {"date":"14. 5. 1913","year":1913,"place":"Heršpice č. p. 152"},
+      cause: "vrozená slabost",
+      father: "rajmund_h",
+      mother: "marie_je",
+      notes: [
+        "Bratr Vladimíra; zemřel ve věku 18 dní."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 104, snímek 54, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384"
+      ],
+      scans: [
+        {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Josefa Hrazdílka, Heršpice 1913"}
+      ]
     }
   ]
 };
@@ -3645,7 +3918,7 @@ window.RODOKMEN.places = [
 ];
 window.RODOKMEN.story = [
   {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Pacovska. Martin Votava byl nádeníkem v Jetřichovicích, jeho syn Jan nádeníkem v Těchobuzi, kde se roku 1836 narodil Štěpán. Štěpán sloužil jako jízdní dělostřelec, roku 1865 se oženil s Antonií Michalovou ze sedlácké usedlosti Těchobuz č. 19 a pak byl panským kočím na zámku v Pravoníně, kde se mu roku 1868 narodil syn Václav. Domovské právo měla rodina v Těchobuzi.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Barbora Lodlová pocházela z hornické rodiny v Oseku u Rokycan; Lodlovi i Forejtovi tam byli havíři. Kolem roku 1890 odešli za prací do mosteckých dolů – do Souše, kde se Barbora roku 1894 vdala za Václava Votavu.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal","aubrecht","holub","loukota"]},
-  {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek","cernoch","grozman","popp","pitr"],"title":"Zettelmannovi a Hrazdílkovi","text":["Matčina linie vede do Veřovic pod Beskydy. Tomáš Černoch (1846–1902) a Magdalena Grozmanová tam měli třináct dětí; dcera Anežka se roku 1901 provdala za Jana Blažka a jejich nejstarší dcera Ludmila (1903–1986) si roku 1930 vzala Františka Zettelmanna z Dobešova.","Zettelmannovi žili na Oderských vrších – v Dobešově, Loučkách, Jeseníku nad Odrou a v Polouvsí, kde se roku 1940 narodil František. Ten si roku 1961 vzal Helenu Hrazdílkovou z Heršpic u Slavkova; v roce 1963 žili v Karviné, kde se narodila dcera Šárka.","Nejmladší sestra Anežky, Ludmila Černochová, odešla do Texasu. Její potomek Tim H. Orsak sestavil roku 2018 velký rodokmen potomků Tomáše Černocha; veřovické matriky jeho údaje potvrzují a doplňují o další generaci (Černochovi, Poppovi, Grozmanovi, Blažkovi a Pitrovi)."]},
+  {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek","cernoch","grozman","popp","pitr","jelinek","kirchner","kucera"],"title":"Zettelmannovi a Hrazdílkovi","text":["Matčina linie vede do Veřovic pod Beskydy. Tomáš Černoch (1846–1902) a Magdalena Grozmanová tam měli třináct dětí; dcera Anežka se roku 1901 provdala za Jana Blažka a jejich nejstarší dcera Ludmila (1903–1986) si roku 1930 vzala Františka Zettelmanna z Dobešova.","Zettelmannovi žili na Oderských vrších – v Dobešově, Loučkách, Jeseníku nad Odrou a v Polouvsí, kde se roku 1940 narodil František. Ten si roku 1961 vzal Helenu Hrazdílkovou z Heršpic u Slavkova; v roce 1963 žili v Karviné, kde se narodila dcera Šárka.","Babička Helena pocházela z Heršpic u Slavkova. Její otec Vladimír Hrazdílek, zednický pomocník, syn zedníka Rajmunda Hrazdílka a Marie Jelínkové z Uhřic, se v devatenácti letech roku 1924 oženil s Marií Jeřábkovou, dcerou heršpického domkaře Aloise Jeřábka; z jejich čtyř dětí přežila jen Helena.","Nejmladší sestra Anežky, Ludmila Černochová, odešla do Texasu. Její potomek Tim H. Orsak sestavil roku 2018 velký rodokmen potomků Tomáše Černocha; veřovické matriky jeho údaje potvrzují a doplňují o další generaci (Černochovi, Poppovi, Grozmanovi, Blažkovi a Pitrovi)."]},
   {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda","divis","merhaut","skala","kalous","holicky","zyma","drapal","novy","semenec"],"title":"Červenkovi a Klikovi","text":["Červenkové byli po pět generací rolníky ve Hředlích č. p. 37 u Žebráka. Nejstarší známý předek Václav Červenka (asi 1674–1730) se roku 1696 oženil v Žebráku s Dorotou Novou z Chlustiny. Linie pokračuje přes Pavla (1716), dva Jakuby (1750, 1789) a Matěje (1825).","Matějův syn Václav (1868–1938) se usadil jako rolník v Berouně na Lištici a oženil se s Annou Vlasákovou z mlynářské rodiny z Račic u Zbečna. Z jejich pěti synů je nejmladší Karel (*1906) děd Jana Votavy.","Karel Červenka se v lednu 1933 oženil v kostele sv. Mikuláše v Borku u Suchomast s Annou Klikovou. Její otec Karel Klika (*1880) byl dělník z Býkoše; roku 1903 si vzal Rosinu (Růženu) Valentovou, nemanželskou dceru Anny Valentové z Čepiroh (Tschöppern) u Mostu.","Linie do 17. století pochází z rodinného strojopisného rodopisu; jednotlivé údaje se ještě ověřují v matrikách."]}
 ];
 window.RODOKMEN.timeline = [
