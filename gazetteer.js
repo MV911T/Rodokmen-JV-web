@@ -46,6 +46,8 @@ window.RODOKMEN_GAZ = [
   { n: 'Karviná', a: ['Karviná'], lat: 49.856, lon: 18.55 },
   // Oderské vrchy / Beskydy – Zettelmann, Blažek, Černoch (approximate)
   { n: 'Veřovice', a: ['Veřovic'], lat: 49.536, lon: 18.115 },
+  { n: 'Bělotín', a: ['Bělotín'], lat: 49.59, lon: 17.8 },
+  { n: 'Polom', a: ['Polom'], lat: 49.6, lon: 17.84 },
   { n: 'Dobešov', a: ['Dobešov'], lat: 49.69, lon: 17.65 },
   { n: 'Budišov nad Budisovkou', a: ['Budišov'], lat: 49.795, lon: 17.63 },
   { n: 'Loučky', a: ['Loučky'], lat: 49.68, lon: 17.7 },

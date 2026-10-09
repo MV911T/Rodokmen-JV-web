@@ -60,8 +60,8 @@ window.RODOKMEN = {
     "jelinek": "Jelínek",
     "kirchner": "Kirchner",
     "kucera": "Kučera",
-    "pohl": "Pohl",
-    "hronek": "Hronek"
+    "hronek": "Hronek",
+    "anders": "Anders"
   },
   people: [
     {
@@ -4085,17 +4085,19 @@ window.RODOKMEN = {
       name: "Štěpánka Zettelmannová",
       line: "zettelmann",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1885)","year":1885,"approx":true},
+      b: {"date":"19. 8. 1884","year":1884,"place":"Bělotín č. p. 149"},
       father: "frantisek_z0",
       mother: "magdalena_poh",
       notes: [
-        "Matka Františka Zettelmanna (*1908 Dobešov), nemanželského. Dcera Františka Zettelmanna, domkaře v „Bölten“ (Bělotín ?), a Magdaleny roz. Pohlové."
+        "Narozena 19. 8., pokřtěna 21. 8. 1884 v Bělotíně (Bölten) č. 149; otec František Zettelmann, domkář v Bělotíně; matka Magdalena, dcera Františka Anderse, zahradníka v Polomi.",
+        "Matka Františka Zettelmanna (*11. 8. 1908 Dobešov), nemanželského. Kniha narozených Dobešov 1905–1949 není online (uložena na MěÚ Odry)."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1930_O_Zettelmann_Blazkova_Verovice.jpg","t":"Sňatek Františka Zettelmanna a Ludmily Blažkové, Veřovice 24. 5. 1930"}
+        {"f":"img/1884_N_Stepanka_Zettelmannova_Belotin.jpg","t":"Křest Štěpánky Zettelmannové, Bělotín 1884"}
       ]
     },
     {
@@ -4103,29 +4105,47 @@ window.RODOKMEN = {
       name: "František Zettelmann",
       line: "zettelmann",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1855)","year":1855,"approx":true},
+      b: {"date":"asi 1846","year":1846,"approx":true,"place":"Bělotín"},
+      father: "johann_ze",
+      mother: "anna_mi",
       spouse: "magdalena_poh",
-      occ: "domkář v „Bölten“ (Bělotín ?)",
+      occ: "domkář v Bělotíně č. 149",
+      marriage: "1) ? (ovdověl před 1879); 2) 7. 10. 1879, Polom – s Magdalenou Andersovou",
       notes: [
-        "Děd Františka Zettelmanna (*1908); místo „Bölten“ nejisté."
+        "Domkář v Bělotíně č. 149; syn Johanna Zettelmanna, domkáře v Bělotíně, a Anny roz. Michalkové. Podruhé oddán 7. 10. 1879 v Polomi jako vdovec (33 let).",
+        "V oddacím zápise vnuka 1930 „domkář v Bölten“ = Bělotín."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1879_O_Zettelmann_Anders_Polom.jpg","t":"Sňatek Františka Zettelmanna a Magdaleny Andersové, Polom 1879"},
+        {"f":"img/1884_N_Stepanka_Zettelmannova_Belotin.jpg","t":"Křest dcery Štěpánky, Bělotín 1884"}
       ]
     },
     {
       id: "magdalena_poh",
       name: "Magdalena Zettelmannová",
-      maiden: "Pohlová",
-      line: "pohl",
+      maiden: "Andersová",
+      line: "anders",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1858)","year":1858,"approx":true},
+      b: {"date":"asi 1860","year":1860,"approx":true,"place":"Polom (Pohl)"},
+      father: "franz_an",
       spouse: "frantisek_z0",
+      marriage: "7. 10. 1879, Polom – s Františkem Zettelmannem",
       notes: [
-        "Babička Františka Zettelmanna (*1908)."
+        "Dcera Františka Anderse, zahradníka v Polomi (Pohl), a Lucie (?) / Bar… (?) roz. Stanzlové / Kunzlové (?) – čtení matky nejisté. Při sňatku 1879 19 let, nezletilá (souhlas otce).",
+        "ROZPOR: oddací zápis vnuka (Veřovice 1930) ji uvádí jako „Magdalenu Pohlovou“ – záměna místa původu (Pohl = Polom) za příjmení; platí křest dcery 1884 a sňatek 1879."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1879_O_Zettelmann_Anders_Polom.jpg","t":"Sňatek Františka Zettelmanna a Magdaleny Andersové, Polom 1879"}
       ]
     },
     {
@@ -4240,6 +4260,53 @@ window.RODOKMEN = {
         {"f":"img/1797_krest_marie_capkova_hruby_jesenik_a.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797"},
         {"f":"img/1797_krest_marie_capkova_hruby_jesenik_b.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797 – rodiče, kmotři"}
       ]
+    },
+    {
+      id: "johann_ze",
+      name: "Johann Zettelmann",
+      line: "zettelmann",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      spouse: "anna_mi",
+      occ: "domkář v Bělotíně",
+      notes: [
+        "Otec Františka Zettelmanna (*~1846)."
+      ],
+      sources: [
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "anna_mi",
+      name: "Anna Zettelmannová",
+      maiden: "Michalková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Bělotín"},
+      spouse: "johann_ze",
+      notes: [
+        "Dcera Karla Michalka, domkáře v Bělotíně."
+      ],
+      sources: [
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "franz_an",
+      name: "František Anders",
+      line: "anders",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1830)","year":1830,"approx":true},
+      occ: "zahradník v Polomi (Pohl)",
+      notes: [
+        "Otec Magdaleny Zettelmannové; dal souhlas k jejímu sňatku 1879."
+      ],
+      sources: [
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz"
+      ]
     }
   ]
 };
@@ -4252,7 +4319,7 @@ window.RODOKMEN.places = [
 ];
 window.RODOKMEN.story = [
   {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Pacovska. Martin Votava byl nádeníkem v Jetřichovicích, jeho syn Jan nádeníkem v Těchobuzi, kde se roku 1836 narodil Štěpán. Štěpán sloužil jako jízdní dělostřelec, roku 1865 se oženil s Antonií Michalovou ze sedlácké usedlosti Těchobuz č. 19 a pak byl panským kočím na zámku v Pravoníně, kde se mu roku 1868 narodil syn Václav. Domovské právo měla rodina v Těchobuzi.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Barbora Lodlová pocházela z hornické rodiny v Oseku u Rokycan; Lodlovi i Forejtovi tam byli havíři. Kolem roku 1890 odešli za prací do mosteckých dolů – do Souše, kde se Barbora roku 1894 vdala za Václava Votavu.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal","aubrecht","holub","loukota"]},
-  {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek","cernoch","grozman","popp","pitr","jelinek","kirchner","kucera"],"title":"Zettelmannovi a Hrazdílkovi","text":["Matčina linie vede do Veřovic pod Beskydy. Tomáš Černoch (1846–1902) a Magdalena Grozmanová tam měli třináct dětí; dcera Anežka se roku 1901 provdala za Jana Blažka a jejich nejstarší dcera Ludmila (1903–1986) si roku 1930 vzala Františka Zettelmanna z Dobešova.","Zettelmannovi žili na Oderských vrších – v Dobešově, Loučkách, Jeseníku nad Odrou a v Polouvsí, kde se roku 1940 narodil František. Ten si roku 1961 vzal Helenu Hrazdílkovou z Heršpic u Slavkova; v roce 1963 žili v Karviné, kde se narodila dcera Šárka.","Babička Helena pocházela z Heršpic u Slavkova. Její otec Vladimír Hrazdílek, zednický pomocník, syn zedníka Rajmunda Hrazdílka a Marie Jelínkové z Uhřic, se v devatenácti letech roku 1924 oženil s Marií Jeřábkovou, dcerou heršpického domkaře Aloise Jeřábka; z jejich čtyř dětí přežila jen Helena.","Nejmladší sestra Anežky, Ludmila Černochová, odešla do Texasu. Její potomek Tim H. Orsak sestavil roku 2018 velký rodokmen potomků Tomáše Černocha; veřovické matriky jeho údaje potvrzují a doplňují o další generaci (Černochovi, Poppovi, Grozmanovi, Blažkovi a Pitrovi)."]},
+  {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek","cernoch","grozman","popp","pitr","jelinek","kirchner","kucera","anders"],"title":"Zettelmannovi a Hrazdílkovi","text":["Matčina linie vede do Veřovic pod Beskydy. Tomáš Černoch (1846–1902) a Magdalena Grozmanová tam měli třináct dětí; dcera Anežka se roku 1901 provdala za Jana Blažka a jejich nejstarší dcera Ludmila (1903–1986) si roku 1930 vzala Františka Zettelmanna z Dobešova.","Zettelmannovi žili na Oderských vrších – v Dobešově, Loučkách, Jeseníku nad Odrou a v Polouvsí, kde se roku 1940 narodil František. Ten si roku 1961 vzal Helenu Hrazdílkovou z Heršpic u Slavkova; v roce 1963 žili v Karviné, kde se narodila dcera Šárka.","Babička Helena pocházela z Heršpic u Slavkova. Její otec Vladimír Hrazdílek, zednický pomocník, syn zedníka Rajmunda Hrazdílka a Marie Jelínkové z Uhřic, se v devatenácti letech roku 1924 oženil s Marií Jeřábkovou, dcerou heršpického domkaře Aloise Jeřábka; z jejich čtyř dětí přežila jen Helena.","Nejmladší sestra Anežky, Ludmila Černochová, odešla do Texasu. Její potomek Tim H. Orsak sestavil roku 2018 velký rodokmen potomků Tomáše Černocha; veřovické matriky jeho údaje potvrzují a doplňují o další generaci (Černochovi, Poppovi, Grozmanovi, Blažkovi a Pitrovi)."]},
   {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda","divis","merhaut","skala","kalous","holicky","zyma","drapal","novy","semenec"],"title":"Červenkovi a Klikovi","text":["Červenkové byli po pět generací rolníky ve Hředlích č. p. 37 u Žebráka. Nejstarší známý předek Václav Červenka (asi 1674–1730) se roku 1696 oženil v Žebráku s Dorotou Novou z Chlustiny. Linie pokračuje přes Pavla (1716), dva Jakuby (1750, 1789) a Matěje (1825).","Matějův syn Václav (1868–1938) se usadil jako rolník v Berouně na Lištici a oženil se s Annou Vlasákovou z mlynářské rodiny z Račic u Zbečna. Z jejich pěti synů je nejmladší Karel (*1906) děd Jana Votavy.","Karel Červenka se v lednu 1933 oženil v kostele sv. Mikuláše v Borku u Suchomast s Annou Klikovou. Její otec Karel Klika (*1880) byl dělník z Býkoše; roku 1903 si vzal Rosinu (Růženu) Valentovou, nemanželskou dceru Anny Valentové z Čepiroh (Tschöppern) u Mostu.","Linie do 17. století pochází z rodinného strojopisného rodopisu; jednotlivé údaje se ještě ověřují v matrikách."]}
 ];
 window.RODOKMEN.timeline = [
