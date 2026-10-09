@@ -5506,7 +5506,8 @@ window.RODOKMEN = {
       spouse: "jiri_hb",
       marriage: "20. 7. 1806, Hodějice – s Jiřím Hrabovským",
       notes: [
-        "Dcera Martina Šimoníka, čtvrtníka v Hodějicích č. 35; oddána 20. 7. 1806 (20 let). Matka Josefa Hrabovského (*1819)."
+        "Dcera Martina Šimoníka, čtvrtníka v Hodějicích č. 35; oddána 20. 7. 1806 (20 let). Matka Josefa Hrabovského (*1819).",
+        "KANDIDÁT křtu: 22. 7. 1785 Hodějice č. 52 – Magdalena, dcera Martina Šimoníka a Johanny (N 13122, str. 20) – věk 20 v r. 1806 sedí, číslo domu ne (52 × 35). Pozor: jiná Magdalena Šimoníková *14. 7. 1788 (otec Josef)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -6460,7 +6461,8 @@ window.RODOKMEN = {
       d: {"date":"před 20. 7. 1806","year":1806,"approx":true},
       occ: "čtvrtník v Hodějicích",
       notes: [
-        "Otec Jiřího Hrabovského (sňatek 1806)."
+        "Otec Jiřího Hrabovského (sňatek 1806).",
+        "Manželka Kateřina; děti v Hodějicích 1779–1793 (Marianna ?, Kateřina 1782, Vavřinec 1790, Vincenc 1792 …). Křest Jiřího (*~1785) v indexu 1784–1794 chybí."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
@@ -6477,7 +6479,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
       occ: "čtvrtník v Hodějicích č. 35",
       notes: [
-        "Otec Magdaleny Hrabovské (sňatek 1806)."
+        "Otec Magdaleny Hrabovské (sňatek 1806).",
+        "Manželka Johanna (křty 1784, 1785)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
