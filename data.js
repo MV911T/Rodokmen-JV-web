@@ -1236,7 +1236,9 @@ window.RODOKMEN = {
       spouse: "marie_po",
       occ: "nádeník v Čepirohách č. 20 (1877, 1903)",
       notes: [
-        "Děd Rosiny Valentové; příslušný do Březína (Wirschin) u Nečtin, okres Manětín (fara Nečtiny, Porta fontium). V rejstřících fary Nečtiny pro Březín (O 1788–1860, N 1789–1862) Valentovi nejsou – sňatek a děti asi až po 1862 nebo jinde. V Březíně č. 33 žil 1858 tesař Anton Walenta – KANDIDÁT příbuzného."
+        "Děd Rosiny Valentové; příslušný do Březína (Wirschin) u Nečtin, okres Manětín (fara Nečtiny, Porta fontium). V rejstřících fary Nečtiny pro Březín (O 1788–1860, N 1789–1862) Valentovi nejsou – sňatek a děti asi až po 1862 nebo jinde.",
+        "Sňatek s Marií Pollakovou není v oddaných Březína 1788–1910 ani v rejstřících oddaných ostatních vsí fary Nečtiny do 1862.",
+        "KANDIDÁT: v Březíně č. 33 žil tesař Anton Walenta (*1826 Branišov u Teplé, nemanželský syn Terezie Valentové, dcery krejčího Matouše Valenty z Branišova č. 4, fara Vidžín); Valentovi z Branišova mohou být Vitálovi příbuzní – nedoloženo."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
