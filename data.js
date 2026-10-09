@@ -6371,22 +6371,26 @@ window.RODOKMEN = {
       maiden: "Jonášová",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1773","year":1773,"approx":true,"place":"Sýkořice č. p. 6"},
+      b: {"date":"26. 4. 1773","year":1773,"place":"Sýkořice č. p. 6 (fara Zbečno)"},
       father: "matej_jo",
+      mother: "josefa_jo",
       spouse: "jan_vl0",
       marriage: "11. 10. 1795, Sýkořice – s Janem Vlasákem",
       notes: [
+        "Narozena a pokřtěna 26. 4. 1773 ve Zbečně (Sýkořice č. 6): „Maria – Mathias Jonaš, Sutor, ex uxore Josepha, Subd. Pirgl.“; kmotra Dorota, manželka Matěje Krupičky z Rakovic (?). Sourozenci: Matěj (1770 – matka čtena „Anna (?)“), Františka Dorota (1777), Františka Markéta (1778), Josef (~1780), František († 1809, 18 let).",
         "Dcera Matěje Jonáše, ševce v Sýkořicích č. 6 (1795 živ, 1811 už †); oddána 11. 10. 1795 (22 let). Dřívější čtení „Jarošová“ a obec „Ostrowitz / …brnitz“ byla chybná – kurentové „Sykořitz“."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 79, snímek 42 – https://ebadatelna.soapraha.cz/d/8855/42",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 07 (N Sýkořice 1784–1843), pag. 49, snímek 27 – https://ebadatelna.soapraha.cz/d/8852/27"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 07 (N Sýkořice 1784–1843), pag. 49, snímek 27 – https://ebadatelna.soapraha.cz/d/8852/27",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245"
       ],
       scans: [
         {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
-        {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"}
+        {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"},
+        {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest Marie Jonášové, Zbečno 26. 4. 1773"}
       ]
     },
     {
@@ -6433,13 +6437,15 @@ window.RODOKMEN = {
       b: {"date":"asi 1730","year":1730,"approx":true},
       d: {"date":"26. 8. 1800","year":1800,"place":"Sýkořice č. p. 6"},
       cause: "stáří",
+      spouse: "josefa_jo",
       occ: "švec v Sýkořicích č. 6",
       notes: [
         "Otec Marie Vlasákové (sňatek 1795) a Františka († 14. 2. 1809, 18 let). Zemřel 26. 8. 1800 v Sýkořicích č. 6 jako švec, 70 let, stářím."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 23 (Z Sýkořice 1784–1887), pag. 16, snímek 11 – https://ebadatelna.soapraha.cz/d/8868/11"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 23 (Z Sýkořice 1784–1887), pag. 16, snímek 11 – https://ebadatelna.soapraha.cz/d/8868/11",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245"
       ],
       scans: [
         {"f":"img/1800_umrti_matej_jonas_sykorice6_zbecno23_sn11.jpg","t":"Úmrtí Matěje Jonáše, Sýkořice 26. 8. 1800"}
@@ -6554,6 +6560,23 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1804_oddani_Koc_Martin_Terezie_Techobuz13_47_8824_sn7_full.jpg","t":"Sňatek Martina Koče a Terezie, Těchobuz XI 1804"},
         {"f":"img/1809_krest_Kocova_Katerina_Techobuz13_otec_Martin_matka_Terezie_8824_sn35_full.jpg","t":"Křest Kateřiny Kočové, Těchobuz 13. 4. 1809"}
+      ]
+    },
+    {
+      id: "josefa_jo",
+      name: "Josefa Jonášová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      spouse: "matej_jo",
+      notes: [
+        "Manželka ševce Matěje Jonáše v Sýkořicích č. 6, matka Marie (*1773) a Josefa (~1780). Rodné příjmení neuvedeno; sňatek podle indexu Zbečno 04 str. 58 (O, asi 1764–1770) – nečteno."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245"
+      ],
+      scans: [
+        {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest Marie Jonášové, Zbečno 26. 4. 1773"}
       ]
     }
   ]
