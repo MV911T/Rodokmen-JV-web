@@ -2161,12 +2161,14 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 2, snímek 3 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), zemřelí fol. 97, snímek 98 – https://digi.ceskearchivy.cz/8825",
-        "Stabilní katastr – indikační skica Těchobuz 1829 (NA), TAB483018290 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=TAB483018290"
+        "Stabilní katastr – indikační skica Těchobuz 1829 (NA), TAB483018290 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=TAB483018290",
+        "SOkA Jindřichův Hradec, statek Těchobuz, Rustikální pozemková kniha 1785–1850, inv. č. 9, fol. 73, snímek 84 – https://digi.ceskearchivy.cz/127651"
       ],
       scans: [
         {"f":"img/1803_krest_Michal_Jan_Techobuz19_8824.jpg","t":"Křest Jana Michala, Těchobuz 1803"},
         {"f":"img/1825_oddani_Michal_Jan_vdova_Marie_Techobuz22_8825.jpg","t":"Sňatek Jana Michala s vdovou Marií, Těchobuz 1825 (rozpor)"},
-        {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835"}
+        {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835"},
+        {"f":"img/Techobuz_rustik_pozemkova_kniha_127651_sn84_cp19_Jakub_Michal_fol73.jpg","t":"Pozemková kniha statku Těchobuz – grunt č. 19, Jakub Michal (asi 1795/96)"}
       ]
     },
     {
@@ -2182,7 +2184,8 @@ window.RODOKMEN = {
       marriage: "10. 11. 1835, Mezilesí – s Janem Michalem (vdovcem)",
       notes: [
         "Dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily; při sňatku 1835 22 let. Rodné příjmení matky Ludmily: 1835 „Šimonová (?)“, 1836 „Lhotková (?)“ – ROZPOR / nejisté čtení.",
-        "KANDIDÁT / ROZPOR: v indexu narozených Mezilesí 1808–1816 není manželská Marie Václava a Ludmily Karafiátových; jsou tam dvě nemanželské Marie Karafiátové – *5. 10. 1809 (č. 2) a *8. 8. 1813 (č. 34), obě dcery Alžběty, dcery Šimona Karafiáta, šenkýře z Mezilesí (Lukavec 5370 pag. 49; 5371 fol. 3). Nevěsta 1835 (22 let) může být Marie *1813 – nebo se narodila po 1816. Nerozhodnuto."
+        "KANDIDÁT / ROZPOR: v indexu narozených Mezilesí 1808–1816 není manželská Marie Václava a Ludmily Karafiátových; jsou tam dvě nemanželské Marie Karafiátové – *5. 10. 1809 (č. 2) a *8. 8. 1813 (č. 34), obě dcery Alžběty, dcery Šimona Karafiáta, šenkýře z Mezilesí (Lukavec 5370 pag. 49; 5371 fol. 3). Nevěsta 1835 (22 let) může být Marie *1813 – nebo se narodila po 1816. Nerozhodnuto.",
+        "KANDIDÁT: manželská Marie Václava a Ludmily se narodila až 1825 (v roce 1835 by jí bylo 10) – nevěstou Jana Michala 1835 je tedy nejspíš Marie *8. 8. 1813 (Mezilesí č. 34), nemanželská dcera Alžběty Karafiátové, dcery šenkýře Šimona Karafiáta. Zápis 1835 jako otce uvádí Václava Karafiáta – možná nevlastní otec nebo strýc."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2753,13 +2756,18 @@ window.RODOKMEN = {
       notes: [
         "Otec Jana Michala; usedlost Těchobuz č. 19.",
         "Dal svolení k sňatku syna Jana 1825.",
-        "Usedlost Těchobuz č. 19 = stavební parcela 33 na indikační skice stabilního katastru (1829), k ní zahrada parc. 34 („N° 19“). Jméno držitele je v parcelním protokolu (NA); gruntovní knihy: SOA Třeboň, Velkostatek Těchobuz (NAD 330, 373 úředních knih 1739–1945) – neprohlédnuto."
+        "Usedlost Těchobuz č. 19 = stavební parcela 33 na indikační skice stabilního katastru (1829), k ní zahrada parc. 34 („N° 19“). Jméno držitele je v parcelním protokolu (NA); gruntovní knihy: SOA Třeboň, Velkostatek Těchobuz (NAD 330, 373 úředních knih 1739–1945) – neprohlédnuto.",
+        "ZA HRANICÍ MATRIK – Rustikální pozemková kniha statku Těchobuz (1785–1850), fol. 73: „Conscript. No 19. Jakub Michal“ – vrchnost (paní Marie z Gemmingen (?)) prodává Jakubu Michalovi selský statek č. 19 (24 jiter 1406 sáhů polí) za 500 zl. rýnských, závdavek 50 zl., splátky po 7 zl. od roku 1796. Na fol. 77 kvitance „Bauern Jakob und Adalbert Michal … auf dem Grund No 19“ – Jakub byl patrně Vojtěchův otec (nedoloženo, K). Další převody na fol. 74–80 nečteny."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N-O-Z 1784–1822 (id 8824), fol. 23, snímek 28 – https://digi.ceskearchivy.cz/8824",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 2, snímek 3 – https://digi.ceskearchivy.cz/8825",
-        "Stabilní katastr – indikační skica Těchobuz 1829 (NA), TAB483018290 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=TAB483018290"
+        "Stabilní katastr – indikační skica Těchobuz 1829 (NA), TAB483018290 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=TAB483018290",
+        "SOkA Jindřichův Hradec, statek Těchobuz, Rustikální pozemková kniha 1785–1850, inv. č. 9, fol. 73, snímek 84 – https://digi.ceskearchivy.cz/127651"
+      ],
+      scans: [
+        {"f":"img/Techobuz_rustik_pozemkova_kniha_127651_sn84_cp19_Jakub_Michal_fol73.jpg","t":"Pozemková kniha statku Těchobuz – grunt č. 19, Jakub Michal (asi 1795/96)"}
       ]
     },
     {
@@ -2786,14 +2794,17 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
       spouse: "ludmila_lh",
       occ: "šenkýř v Mezilesí č. 2",
+      marriage: "2. sňatek 24. 11. 1808, Salačova Lhota – s Ludmilou „Lhotkin“; 1. sňatek 1805, Mezilesí č. 5 – s Johannou (?)",
       notes: [
         "Otec Marie Michalové.",
-        "Šenkýř v Mezilesí č. 2 (křest syna Františka Serafína 19. 8. 1813); manželka Ludmila, dcera Pavla Zelty/Peldy (?), mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?) – rodné příjmení Ludmily nejisté (srov. „Lhotková (?)“ 1836, „Šimonová (?)“ 1835)."
+        "Šenkýř v Mezilesí č. 2 (křest syna Františka Serafína 19. 8. 1813); manželka Ludmila, dcera Pavla Zelty/Peldy (?), mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?) – rodné příjmení Ludmily nejisté (srov. „Lhotková (?)“ 1836, „Šimonová (?)“ 1835).",
+        "Oddán poprvé 1805 v Mezilesí (20 let, šenkýř) s Johannou (?), podruhé jako vdovec 24. 11. 1808 v Salačově Lhotě č. 24 (28 let) s Ludmilou „Lhotkin“ (23 let) – Lukavec O 5378, sn. 101 a 118. ROZPOR ve věku (1805: 20, 1808: 28). Manželské děti s Ludmilou dle indexu: Johann a Václav 1819, Marie 1825, Kristýna 1829, Vilém 1831."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
-        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (id 5371), fol. 3, snímek 3 – https://digi.ceskearchivy.cz/5371"
+        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (id 5371), fol. 3, snímek 3 – https://digi.ceskearchivy.cz/5371",
+        "SOA Třeboň, fara Lukavec, O 1786–1842 (id 5378), sn. 101 (1805) a 118 (1808) – https://digi.ceskearchivy.cz/5378"
       ]
     },
     {
