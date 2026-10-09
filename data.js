@@ -6260,7 +6260,8 @@ window.RODOKMEN = {
         "Oddán 11. 10. 1795 v Sýkořicích (č. 6): „Johann, Sohn nach dem † Franz Wlasák aus dem Dorf Hudlitz, Pürglitzer Unterthan“, 35 let, svobodný, s Marií, dcerou Matěje Jonáše, ševce ze Sýkořic (22 let); svědci Václav Vlasák (?), 74 let, učitel (?) ve Zbečně, a František Dvořák, chalupník ze Zbečna.",
         "Otec mlynáře Jana Vlasáka (křest vnuka Františka 1838); manželka Marie (rodné příjmení nečitelné).",
         "V r. 1833 „Häusler aus Hudlitz (?)“, v r. 1838 nádeník ve Zbečně č. 8.",
-        "V r. 1811 „Inwohner von Hudlitz No. 19“ – dcera Anna (*13. 5. 1811, Zbečno č. 20). Pochází tedy z Hudlic (vlastní fara)."
+        "V r. 1811 „Inwohner von Hudlitz No. 19“ – dcera Anna (*13. 5. 1811, Zbečno č. 20). Pochází tedy z Hudlic (vlastní fara).",
+        "KANDIDÁTI křtu (fara Beroun, Hudlice): 21. 10. 1759 „Jan z otce Františka Wl…ka a matky Anny“ (přesně 35 let k sňatku 1795) a 4. 5. 1760 „Jan Ondřej, syn Františka [stejné příjmení] a Kateřiny“ – dva různí František Wl…k; nerozhodnuto (Beroun 07, sn. 256 a 262)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
@@ -6441,12 +6442,14 @@ window.RODOKMEN = {
       spouse: "josefa_jo",
       occ: "švec v Sýkořicích č. 6",
       notes: [
-        "Otec Marie Vlasákové (sňatek 1795) a Františka († 14. 2. 1809, 18 let). Zemřel 26. 8. 1800 v Sýkořicích č. 6 jako švec, 70 let, stářím."
+        "Otec Marie Vlasákové (sňatek 1795) a Františka († 14. 2. 1809, 18 let). Zemřel 26. 8. 1800 v Sýkořicích č. 6 jako švec, 70 let, stářím.",
+        "Podruhé oddán asi 2x. 3. 1772 ve Zbečně jako vdovec (zapsán „Jonas Jann (?)“ – nejspíš chyba písaře), švec ze Sýkořic č. 6, s Josefou Blínovou (?) ze Sýkořic (Zbečno 04, sn. 360). 1. manželka Anna (syn Matěj *16. 9. 1770)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 23 (Z Sýkořice 1784–1887), pag. 16, snímek 11 – https://ebadatelna.soapraha.cz/d/8868/11",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04, oddíl O, snímek 360 – https://ebadatelna.soapraha.cz/d/8849/360"
       ],
       scans: [
         {"f":"img/1800_umrti_matej_jonas_sykorice6_zbecno23_sn11.jpg","t":"Úmrtí Matěje Jonáše, Sýkořice 26. 8. 1800"}
@@ -6568,15 +6571,17 @@ window.RODOKMEN = {
     {
       id: "josefa_jo",
       name: "Josefa Jonášová",
+      maiden: "Blínová (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
       spouse: "matej_jo",
       notes: [
-        "Manželka ševce Matěje Jonáše v Sýkořicích č. 6, matka Marie (*1773) a Josefa (~1780). Rodné příjmení neuvedeno; sňatek podle indexu Zbečno 04 str. 58 (O, asi 1764–1770) – nečteno."
+        "Druhá manželka ševce Matěje Jonáše (sňatek ~2x. 3. 1772, „h. v. Josepha Blinin (?) e Sykořitz“); matka Marie (*1773) a Josefa (~1780). Rodiče v zápisu neuvedeni."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04, oddíl O, snímek 360 – https://ebadatelna.soapraha.cz/d/8849/360"
       ],
       scans: [
         {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest Marie Jonášové, Zbečno 26. 4. 1773"}
