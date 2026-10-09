@@ -5223,17 +5223,24 @@ window.RODOKMEN = {
       name: "Jan Vlasák",
       line: "vlasak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      b: {"date":"asi 1808","year":1808,"approx":true},
       father: "jan_vl0",
+      mother: "marie_ja",
       spouse: "marie_no",
       occ: "mlynář v Sýkořicích č. 41",
+      marriage: "22. 10. 1833, Nová Huť (fara Nižbor) – s Marií Novákovou",
       notes: [
         "Děd Anny Červenkové.",
-        "V lednu 1838 mlynářský tovaryš ve Zbečně č. 58 (křest syna Františka); syn Jana Vlasáka, nádeníka ve Zbečně č. 8."
+        "V lednu 1838 mlynářský tovaryš ve Zbečně č. 58 (křest syna Františka); syn Jana Vlasáka, nádeníka ve Zbečně č. 8.",
+        "Oddán 22. 10. 1833 (fara Nižbor) jako mlynářský tovaryš ve Zbečně č. 36, 25 let, svobodný; syn Jana Vlasáka, domkáře z Hudlic (?), a Marie roz. Jarošové (?) z …brnice (?) č. 6."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
+      ],
+      scans: [
+        {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"}
       ]
     },
     {
@@ -5242,15 +5249,24 @@ window.RODOKMEN = {
       maiden: "Nováková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true,"place":"Nová Huť č. p. 34"},
+      b: {"date":"30. 6. 1807","year":1807,"place":"Nová Huť č. p. 43 (fara Nižbor)"},
       father: "josef_nv",
+      mother: "marie_ma",
       spouse: "jan_vl",
+      marriage: "22. 10. 1833, Nová Huť (fara Nižbor) – s Janem Vlasákem",
       notes: [
-        "Dcera Josefa Nováka z Nové Huti č. 34."
+        "Dcera Josefa Nováka z Nové Huti č. 34.",
+        "Narozena a pokřtěna 30. 6. 1807 v Nové Huti č. 43: otec Josef Novák, domkář (1833 „Hochofengesell“ – vysokopecní tovaryš), matka Marie, dcera † Josefa Malého, domkáře v Am… (?) č. 35. Oddána 22. 10. 1833 (25 let). ROZPOR čísla domu: 1807 a 1833 č. 43, v křtu syna 1838 č. 34."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 07 (N 1807–1822), fol. 1, snímek 3 – https://ebadatelna.soapraha.cz/d/9782/3",
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
+      ],
+      scans: [
+        {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest Marie Novákové, Nová Huť 30. 6. 1807"},
+        {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"}
       ]
     },
     {
@@ -6145,12 +6161,15 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      spouse: "marie_ja",
       occ: "nádeník ve Zbečně č. 8",
       notes: [
-        "Otec mlynáře Jana Vlasáka (křest vnuka Františka 1838); manželka Marie (rodné příjmení nečitelné)."
+        "Otec mlynáře Jana Vlasáka (křest vnuka Františka 1838); manželka Marie (rodné příjmení nečitelné).",
+        "V r. 1833 „Häusler aus Hudlitz (?)“, v r. 1838 nádeník ve Zbečně č. 8."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
       ],
       scans: [
         {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"}
@@ -6162,12 +6181,15 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
-      occ: "domkář v Nové Huti č. 34",
+      spouse: "marie_ma",
+      occ: "domkář, vysokopecní tovaryš v Nové Huti č. 43",
       notes: [
         "Otec Marie Vlasákové; manželka Marie roz. Malá (křest vnuka Františka 1838)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 07 (N 1807–1822), fol. 1, snímek 3 – https://ebadatelna.soapraha.cz/d/9782/3",
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
       ],
       scans: [
         {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"}
@@ -6224,6 +6246,43 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"}
+      ]
+    },
+    {
+      id: "marie_ma",
+      name: "Marie Nováková",
+      maiden: "Malá",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      spouse: "josef_nv",
+      notes: [
+        "Dcera † Josefa Malého, domkáře v Am… (?) č. 35 (Nový Jáchymov ?); matka Marie Vlasákové (*1807) a dalších dětí v Nové Huti (podle indexu 1809–1822)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 07 (N 1807–1822), fol. 1, snímek 3 – https://ebadatelna.soapraha.cz/d/9782/3",
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
+      ],
+      scans: [
+        {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest Marie Novákové, Nová Huť 30. 6. 1807"}
+      ]
+    },
+    {
+      id: "marie_ja",
+      name: "Marie Vlasáková",
+      maiden: "Jarošová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      spouse: "jan_vl0",
+      notes: [
+        "Matka mlynáře Jana Vlasáka (sňatek 1833: „Maria geborene Jaroschin (?) aus …brnitz (?) No. 6“)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
+      ],
+      scans: [
+        {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"}
       ]
     }
   ]
