@@ -2575,20 +2575,21 @@ window.RODOKMEN = {
       notes: [
         "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Tück (?) / Türck (?)“ (dřívější čtení „Brück“ neplatí – stejné T jako v „Trgěk“; věk nevyplněn, rodiče neuvedeni); svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
         "Otec Pavla Lodla (*1811); švec v č. 84 (1811), později mistr ševcovský v č. 75.",
-        "Podruhé oddán 9. 9. 1814 v Oseku (č. 84) jako švec, 36 let, vdovec; nevěsta Anna (35), vdova po † Jakubu Laukotovi, pastýři, dcera Šimona Holuby (?) z Oseku č. 83 – čtení rodičů nevěsty nejisté.",
-        "KANDIDÁT: nevěsta z r. 1814, „Anna, vdova po † Jakubu Laukotovi, pastýři, dcera Šimona Holuby“, je nejspíš Anna roz. Holubová, vdova po pastýři Prokopu Laukotovi (sňatek 1798) – babička Anny Laukotové, budoucí snachy Martina Lodla."
+        "Podruhé oddán 9. 9. 1814 v Oseku (č. 84) jako švec, 36 let, vdovec, s Annou (35), vdovou po † Prokopu Laukotovi, pastýři, dcerou Šimona Holuby z Oseka č. 83 – babičkou budoucí snachy Anny Laukotové."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 31, snímek 17 – https://www.portafontium.eu/iipimage/30066673/osek-07_0170-o",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 43, snímek 23 – https://www.portafontium.eu/iipimage/30066673/osek-07_0230-o",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 43, snímek 23 – https://www.portafontium.eu/iipimage/30066673/osek-07_0230-o"
       ],
       scans: [
         {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
         {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"},
         {"f":"img/1804_oddani_martin_lodl_katerina_osek.jpg","t":"Sňatek Martina Lodla a Kateřiny, Osek 7. 2. 1804"},
-        {"f":"img/1814_oddani_martin_lodl_anna_osek.jpg","t":"Druhý sňatek Martina Lodla, Osek 9. 9. 1814"}
+        {"f":"img/1814_oddani_martin_lodl_anna_osek.jpg","t":"Druhý sňatek Martina Lodla, Osek 9. 9. 1814"},
+        {"f":"img/1814_oddani_martin_lodl_anna_vdova_prokopa_laukoty_osek07_sn23_nativ.jpg","t":"Sňatek Martina Lodla a Anny, vdovy po Prokopu Laukotovi, Osek 9. 9. 1814"}
       ]
     },
     {
@@ -5738,23 +5739,27 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"asi 1763","year":1763,"approx":true},
-      d: {"date":"před 22. 9. 1822","year":1822,"approx":true},
+      d: {"date":"6. 2. 1805","year":1805,"place":"Osek u Rokycan č. p. 10"},
+      cause: "sněť („an Brand“)",
       mother: undefined,
       spouse: "anna_zo",
       occ: "obecní pastýř v Oseku č. 10",
       marriage: "16. 1. 1798, Osek – s Annou Holubovou",
       notes: [
         "Oddán 16. 1. 1798 v Oseku (č. 10) jako pastýř („Hyrd“), 35 let, s Annou, dcerou Šimona Holuba (23 let); svědci Václav Boušlav, sedlák, Matěj Reimer (?), družba, a Anna Laukotová, družička.",
-        "Otec Jana (*1798). Zemřel před 22. 9. 1822.",
-        "KANDIDÁT: v r. 1814 se Martin Lodl oženil s „Annou, vdovou po † Jakubu Laukotovi, pastýři, dcerou Šimona Holuby“ – nejspíš táž Anna, vdova po Prokopovi (jméno „Jakub“ chybné čtení nebo chyba zápisu); úmrtí Prokopa (Osek 1798–1814) zatím nehledáno."
+        "Děti s Annou Holubovou (Osek č. 10): Jan (1798), Marie (6. 3. 1801), Šimon (1. 3. 1802), Martin (29. 10. 1804).",
+        "Zemřel 6. 2. 1805 v Oseku č. 10 jako obecní pastýř, 45 let, na sněť („an Brand“). Vdova Anna se 1814 provdala za ševce Martina Lodla.",
+        "KANDIDÁT rodičů: Šimon Laukota, pastýř v Oseku č. 10 (1774), a Magdalena († 5. 10. 1807 jako vdova po pastýři Šimonu Laukotovi, 69 let) – křest Prokopa nenalezen (rejstřík Osek 04 1760–1772 ho nemá)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
-        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n",
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, str. 62, snímek 36 – https://www.portafontium.eu/iipimage/30066674/osek-08_0360-z"
       ],
       scans: [
         {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
-        {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"}
+        {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"},
+        {"f":"img/1805_umrti_prokop_laukota_gemeinhirt_osek10_osek08_sn36.jpg","t":"Úmrtí Prokopa Laukoty, Osek 6. 2. 1805"}
       ]
     },
     {
@@ -5763,21 +5768,27 @@ window.RODOKMEN = {
       maiden: "Holubová",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1775","year":1775,"approx":true,"place":"Osek u Rokycan"},
+      b: {"date":"13. (?) 6. 1774","year":1774,"place":"Osek u Rokycan č. p. 85"},
       father: "simon_hb",
+      mother: "katerina_hb",
       spouse: "prokop_la",
-      marriage: "16. 1. 1798, Osek – s Prokopem Laukotou",
+      marriage: "1. sňatek 16. 1. 1798, Osek – s Prokopem Laukotou; 2. sňatek 9. 9. 1814, Osek – s Martinem Lodlem, ševcem",
       notes: [
-        "Dcera Šimona Holuba z Oseka; oddána 16. 1. 1798 (23 let) s pastýřem Prokopem Laukotou. Matka Jana Laukoty (*1798). V křtu vnučky 1822 čteno „Žolibová (?) z Kařezka (?)“ – správně Holubová.",
-        "KANDIDÁT: 9. 9. 1814 se jako vdova po pastýři Laukotovi (35 let) provdala za ševce Martina Lodla (Osek č. 84) – tím by byla předkyní dvakrát blízko: babička Anny Laukotové a nevlastní matka Pavla Lodla."
+        "Pokřtěna 13. (?) 6. 1774 v Oseku č. 85: otec Šimon Holub, chalupník, matka Kateřina (ztotožnění podle otce, věku a domu – velmi pravděpodobné).",
+        "Poprvé oddána 16. 1. 1798 (23 let) s pastýřem Prokopem Laukotou († 1805); podruhé 9. 9. 1814 v Oseku jako „Anna, vdova † Prokopa Laukoty, pastýře, dcera Šimona Holuby z Oseka č. 83“, 35 let, s ovdovělým ševcem Martinem Lodlem.",
+        "Je tak předkyní Jiřího ze dvou stran téže rodiny: babička Anny Laukotové a zároveň nevlastní matka jejího budoucího tchána Pavla Lodla."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
-        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 43, snímek 23 – https://www.portafontium.eu/iipimage/30066673/osek-07_0230-o",
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n"
       ],
       scans: [
         {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
-        {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"}
+        {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"},
+        {"f":"img/1814_oddani_martin_lodl_anna_vdova_prokopa_laukoty_osek07_sn23_nativ.jpg","t":"Sňatek Martina Lodla a Anny, vdovy po Prokopu Laukotovi, Osek 9. 9. 1814"},
+        {"f":"img/1774_krest_anna_holubova_otec_simon_holub_chalupnik_osek85_osek05_sn6.jpg","t":"Křest Anny Holubové, Osek 13. (?) 6. 1774"}
       ]
     },
     {
@@ -5968,15 +5979,34 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
-      occ: "Osek (č. 83 ?)",
+      spouse: "katerina_hb",
+      occ: "chalupník v Oseku (č. 85 v r. 1774, č. 83 v r. 1814)",
       notes: [
         "Otec Anny Laukotové (sňatek 1798)."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n"
       ],
       scans: [
         {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"}
+      ]
+    },
+    {
+      id: "katerina_hb",
+      name: "Kateřina Holubová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      spouse: "simon_hb",
+      notes: [
+        "Matka Anny Laukotové / Lodlové (křest 1774)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n"
+      ],
+      scans: [
+        {"f":"img/1774_krest_anna_holubova_otec_simon_holub_chalupnik_osek85_osek05_sn6.jpg","t":"Křest Anny Holubové, Osek 13. (?) 6. 1774"}
       ]
     }
   ]
