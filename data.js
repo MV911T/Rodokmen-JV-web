@@ -2349,7 +2349,8 @@ window.RODOKMEN = {
       marriage: "13. 2. 1816, Hrubý Jeseník – s Marií Čapkovou",
       notes: [
         "Oddán 13. 2. 1816 v Hrubém Jeseníku (č. 48) jako syn † Jana Čapka, familianta v Jeseníku, 21 let; oddával Jan Tobiáš Majer.",
-        "Otec Karla Čapka; familiant v Jeseníku č. 48, 1851 výměnkář. V roce 1874 už nežil."
+        "Otec Karla Čapka; familiant v Jeseníku č. 48, 1851 výměnkář. V roce 1874 už nežil.",
+        "KANDIDÁT: index křtů Hrubý Jeseník 1795 „Čapka Jana, Jan – fol. 54“ – zápis nečten."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
@@ -2378,7 +2379,8 @@ window.RODOKMEN = {
       marriage: "13. 2. 1816, Hrubý Jeseník – s Janem Čapkem",
       notes: [
         "Matka Karla Čapka; dcera † Karla Čapka, chalupníka z Jeseníka č. 30 (křest syna 1829).",
-        "Při sňatku 1816 18 let, dcera † Karla Čapka, chalupníka z Jeseníka."
+        "Při sňatku 1816 18 let, dcera † Karla Čapka, chalupníka z Jeseníka.",
+        "KANDIDÁT: index křtů Hrubý Jeseník 1797 „Čapka Kar., Marja – fol. 69“ – zápis nečten."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
@@ -3162,7 +3164,7 @@ window.RODOKMEN = {
       name: "František Klika",
       line: "klika",
       cert: "M",
-      b: {"date":"asi 1805","year":1805,"approx":true,"place":"Suchomasty"},
+      b: {"date":"6. 7. 1803","year":1803,"place":"Suchomasty č. p. 12"},
       d: {"date":"před 20. 1. 1880","year":1880,"approx":true},
       father: "vaclav_kl",
       mother: "katerina_sl",
@@ -3170,18 +3172,22 @@ window.RODOKMEN = {
       occ: "domkář v Suchomastech č. 14",
       marriage: "14. 2. 1832, Suchomasty (fara Borek) – s Annou Svobodovou",
       notes: [
+        "Pokřtěn 6. 7. 1803 v Suchomastech č. 12 (kurát Math. Hefft); otec Václav Klika, „galaunista (?)“, matka Kateřina roz. Šliková (?). ROZPOR: oddací zápis 1832 uvádí 27 let (*~1805) – platí křest.",
         "Oddán 14. 2. 1832 v Suchomastech (27 let, svobodný): pozůstalý syn † Václava Kliky, vysloužilce (?) a podruha v Suchomastech č. 12, a Kateřiny roz. Šlikové (?) z Litně (?); svědci Matěj Klika, kostelník (?) z Litně (?), a Václav Bůh (?) z Velkých Suchomast.",
         "Domkář v Suchomastech (1834); usedlost Suchomasty č. 14 (dům tchána). V roce 1874 už nežil."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (N 1795–1818), fol. 25, snímek 16 – https://ebadatelna.soapraha.cz/d/4075/16"
       ],
       scans: [
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
         {"f":"img/1832_snatek_frantisek_klika_suchomasty_a.jpg","t":"Sňatek Františka Kliky a Anny Svobodové, Suchomasty 14. 2. 1832 – ženich"},
-        {"f":"img/1832_snatek_frantisek_klika_suchomasty_b.jpg","t":"Sňatek Františka Kliky a Anny Svobodové 1832 – nevěsta, svědci"}
+        {"f":"img/1832_snatek_frantisek_klika_suchomasty_b.jpg","t":"Sňatek Františka Kliky a Anny Svobodové 1832 – nevěsta, svědci"},
+        {"f":"img/1803_krest_frantisek_klika_suchomasty_a.jpg","t":"Křest Františka Kliky, Suchomasty 6. 7. 1803"},
+        {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest Františka Kliky 1803 – kmotři"}
       ]
     },
     {
@@ -3197,7 +3203,8 @@ window.RODOKMEN = {
       spouse: "frantisek_kl",
       marriage: "14. 2. 1832, Suchomasty – s Františkem Klikou",
       notes: [
-        "Pozůstalá dcera † Václava Svobody, domkáře v Suchomastech č. 14, a Josefy roz. Prajzové (?) ze Suchomast; při sňatku 1832 24 let."
+        "Pozůstalá dcera † Václava Svobody, domkáře v Suchomastech č. 14, a Josefy roz. Prajzové (?) ze Suchomast; při sňatku 1832 24 let.",
+        "Křest zatím nenalezen (Anny v Suchomastech 1802–1812 prověřeny); sourozenci v č. 14: Josef (*27. 2. 1808), Barbora (*~1810) – matka Josefa, dcera Jakuba Krejzího / Prajzího (?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
