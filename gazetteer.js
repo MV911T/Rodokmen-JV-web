@@ -43,6 +43,7 @@ window.RODOKMEN_GAZ = [
   { n: 'Mezilesí', a: ['Mezilesí'], lat: 49.54, lon: 15.05 },
   // Rokycansko – Lodl / Forejt (Osek u Rokycan, to be verified)
   { n: 'Osek', a: ['Osek'], lat: 49.78, lon: 13.59 },
+  { n: 'Volduchy', a: ['Volduch'], lat: 49.78, lon: 13.62 },
   { n: 'Chomutov', a: ['Chomutov'], lat: 50.46, lon: 13.418 },
   { n: 'Jirkov', a: ['Jirkov'], lat: 50.5, lon: 13.448 },
   { n: 'Karviná', a: ['Karviná'], lat: 49.856, lon: 18.55 },

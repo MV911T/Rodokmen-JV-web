@@ -2603,25 +2603,27 @@ window.RODOKMEN = {
       maiden: "Trgjková",
       line: "lezak",
       cert: "M",
-      b: {"date":"asi 1783","year":1783,"approx":true,"place":"Volduchy"},
+      b: {"date":"12. 3. 1783","year":1783,"place":"Volduchy č. p. 67"},
       father: "josef_le",
       spouse: "josef_f",
       marriage: "27. 11. 1801, Osek – s Josefem Forejtem",
       notes: [
-        "Matka Matěje Forejta; dcera Josefa Trgjka, sedláka z Volduch č. 67, a Doroty (křest syna 1823). Jméno Veronika potvrzeno třemi zápisy (1823, 1846, 1848).",
-        "Při sňatku 1801 18 let. Křest zatím nenalezen (Osek 05, 1782–1784 bez výsledku).",
-        "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L)."
+        "Pokřtěna 12. 3. 1783 ve Volduchách č. 67 (fara Osek); otec Josef Trgjk, matka Dorota. Kmotři Barbora Forejtová, Barbora Viková (?) a Johann Krumer (?).",
+        "Při sňatku 1801 18 let. Matka Matěje Forejta; jméno Veronika potvrzeno zápisy 1783, 1823, 1846, 1848.",
+        "Josef Trgjk s manželkou Kateřinou (děti 1782–1785, Osek č. 67) je jiný Josef – rozpor vyřešen."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 28, snímek 16 – https://www.portafontium.eu/iipimage/30066673/osek-07_0160-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 28, snímek 16 – https://www.portafontium.eu/iipimage/30066673/osek-07_0160-o",
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Volduchy, snímek 80 – https://www.portafontium.eu/iipimage/30066671/osek-05_0800-n"
       ],
       scans: [
         {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"},
         {"f":"img/1801_oddani_josef_forejt_veronika_osek.jpg","t":"Sňatek Josefa Forejta a Veroniky, Osek 27. 11. 1801"},
-        {"f":"img/prijmeni_trgjk_srovnani.jpg","t":"Srovnání příjmení Trgjk v zápisech 1801–1849"}
+        {"f":"img/prijmeni_trgjk_srovnani.jpg","t":"Srovnání příjmení Trgjk v zápisech 1801–1849"},
+        {"f":"img/1783_krest_veronika_trgjk_volduchy67_osek05_sn80.jpg","t":"Křest Veroniky Trgjkové, Volduchy 1783"}
       ]
     },
     {
@@ -2633,13 +2635,13 @@ window.RODOKMEN = {
       spouse: "dorota_v",
       occ: "sedlák ve Volduchách č. 67",
       notes: [
-        "Otec Veroniky Forejtové; sedlák z Volduch č. 67.",
-        "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L).",
-        "V Oseku č. 67 měl Josef Trgjk, sedlák, v letech 1782–1785 manželku Kateřinu (děti Anna Thekla 1782, Josef 1783, Ludmila 1. 12. 1785 – Osek 05 str. 35, sn. 20); křest syna Matěje 1823 uvádí jako matku Veroniky Dorotu – buď 2. manželka, nebo jiný Josef Trgjk. Veronika (*~1783) v Oseku 1776–1788 nenalezena."
+        "Otec Veroniky Forejtové; sedlák ve Volduchách č. 67, manželka Dorota.",
+        "Jiný Josef Trgjk (sedlák, Osek č. 67, manželka Kateřina, děti 1782–1785) není totožný."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
-        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
+        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Volduchy, snímek 80 – https://www.portafontium.eu/iipimage/30066671/osek-05_0800-n"
       ]
     },
     {
@@ -3651,31 +3653,39 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
       d: {"date":"před 1811","year":1811,"approx":true},
+      father: "jakub_tr",
       spouse: "anna_tr",
       occ: "sedlák (?) v Oseku č. 83",
+      marriage: "28. 10. 1781, Osek – s Annou Košlauovou (?)",
       notes: [
-        "Otec Kateřiny Lodlové.",
-        "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L)."
+        "Oddán 28. 10. 1781 v Oseku (dům č. 83, kaplan Carolus Gruber): „Trgjk Simon, Sohn nach verst. Jakob Trgjk von Wossek, mit Anna, Tochter nach dem verst. Joann Koßlau (?) von Wolduch“; svědci Jakob Holub z Volduch, Johann Koßlau z Oseka, Martin Trgjk a Kateřina Viková.",
+        "Otec Kateřiny Lodlové (*1782)."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
       ],
       scans: [
-        {"f":"img/1782_krest_katerina_trgjk_osek.jpg","t":"Křest Kateřiny Trgjkové, Osek 30. 6. 1782"}
+        {"f":"img/1782_krest_katerina_trgjk_osek.jpg","t":"Křest Kateřiny Trgjkové, Osek 30. 6. 1782"},
+        {"f":"img/1781_oddani_simon_trgjk_anna_osek07_sn8.jpg","t":"Sňatek Šimona Trgjka a Anny, Osek 28. 10. 1781"}
       ]
     },
     {
       id: "anna_tr",
       name: "Anna Trgjková",
+      maiden: "Košlauová (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      father: "johann_ko",
       spouse: "simon_tr",
+      marriage: "28. 10. 1781, Osek – se Šimonem Trgjkem",
       notes: [
-        "Matka Kateřiny Lodlové; rodné příjmení neuvedeno."
+        "Matka Kateřiny Lodlové; dcera † Johanna Koßlaua (?) z Volduch. Příjmení nejisté (křest dcery Barbory 1784 „geb. Schar… (?)“)."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
       ]
     },
     {
@@ -4824,6 +4834,34 @@ window.RODOKMEN = {
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "jakub_tr",
+      name: "Jakub Trgjk",
+      line: "lezak",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      d: {"date":"před 28. 10. 1781","year":1781,"approx":true},
+      notes: [
+        "Otec Šimona Trgjka, z Oseka."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
+      ]
+    },
+    {
+      id: "johann_ko",
+      name: "Johann Koßlau (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      d: {"date":"před 28. 10. 1781","year":1781,"approx":true},
+      notes: [
+        "Otec Anny Trgjkové, z Volduch; čtení nejisté."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
       ]
     }
   ]
