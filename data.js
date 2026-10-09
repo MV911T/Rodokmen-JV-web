@@ -50,7 +50,9 @@ window.RODOKMEN = {
     "lhotka": "Lhotka (?)",
     "cernoch": "Černoch",
     "grozman": "Grozman",
-    "koc": "Koč"
+    "koc": "Koč",
+    "pollak": "Pollak",
+    "stadler": "Stádler"
   },
   people: [
     {
@@ -1028,59 +1030,81 @@ window.RODOKMEN = {
       id: "karel_k",
       name: "Karel Klika",
       line: "klika",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1885)","year":1885,"approx":true,"place":"Býkoš"},
+      cert: "M",
+      b: {"date":"19. 1. 1880","year":1880,"place":"Býkoš č. p. 38"},
       father: "josef_k",
       mother: "marie_s",
       spouse: "ruzena_v",
       occ: "dělník v Suchomastech č. p. 14",
+      marriage: "24. 5. 1903, Borek (Suchomasty) – s Rosinou Valentovou",
       notes: [
-        "Otec Anny Klikové (*1913); narozen v Býkoši. Svědek na sňatku dcery 1933 (Karel Klika, dělník v Suchomastech)."
+        "Narozen 19. 1., pokřtěn 20. 1. 1880 (fara Borek). Otec Josef Klika, nádeník v Býkoši č. 38; matka Marie, dcera Václava Svobody, domkáře ze Suchomast č. 21.",
+        "Při sňatku 24. 5. 1903 dělník v Suchomastech č. 34, nezletilý (23 let) – za svéprávného prohlášen okresním soudem v Berouně. Svědci Jan Jankovský, domkář ze Suchomast č. 34, a Josef Krejzek, mistr sedlářský v Suchomastech č. 43.",
+        "Později dělník v Suchomastech č. 14 (1913); svědek na sňatku dcery Anny 1933."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
         "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
-        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2"
+        "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
       ],
       scans: [
-        {"f":"img/1913_krestni_list_anna_klikova_suchomasty.jpg","t":"Křest dcery Anny, Suchomasty 1913"}
+        {"f":"img/1913_krestni_list_anna_klikova_suchomasty.jpg","t":"Křest dcery Anny, Suchomasty 1913"},
+        {"f":"img/1903_snatek_karel_klika_suchomasty_a.jpg","t":"Sňatek Karla Kliky a Rosiny Valentové, Borek 24. 5. 1903"},
+        {"f":"img/1903_snatek_karel_klika_suchomasty_b.jpg","t":"Sňatek Karla Kliky a Rosiny Valentové 1903 – data narození, svědci"},
+        {"f":"img/1880_krest_karel_klika_bykos_a.jpg","t":"Křest Karla Kliky, Býkoš 1880"},
+        {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"}
       ]
     },
     {
       id: "ruzena_v",
-      name: "Růžena Kliková",
+      name: "Rosina (Růžena) Kliková",
       maiden: "Valentová",
       line: "valenta",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1890)","year":1890,"approx":true,"place":"Čepirohy (Tschöppern), okr. Most"},
+      cert: "M",
+      b: {"date":"8. 1. 1877","year":1877,"place":"Čepirohy (Tschöppern) č. p. 20, okr. Most"},
       mother: "anna_va",
       spouse: "karel_k",
+      marriage: "24. 5. 1903, Borek (Suchomasty) – s Karlem Klikou",
       notes: [
-        "Matka Anny Klikové (*1913), z Tschöppern (Čepirohy) č. p. 20, okr. Most.",
-        "V křestním listu dcery uvedena jen matka Anna, dcera Vitála Valenty – otec neuveden, patrně nemanželská (?)."
+        "Narozena 8. 1. 1877 v Čepirohách (Tschöppern) č. 20 u Mostu (fara Zlatník / Deutsch-Zlatnik – křestní list ze 25. 4. 1903, č. 133). Dcera † Anny Valentové (svobodné), dcery Vitála Valenty, dělníka z Čepiroh č. 20, a Marie roz. Pollakové z Wirschin (?).",
+        "Při sňatku 1903 bydlela v Suchomastech č. 34 (26 let). V křestním listu dcery Anny (1913) uvedena jako Růžena."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
         "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
-        "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)"
+        "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
       ],
       scans: [
-        {"f":"img/1913_krestni_list_anna_klikova_suchomasty.jpg","t":"Křest dcery Anny, Suchomasty 1913"}
+        {"f":"img/1913_krestni_list_anna_klikova_suchomasty.jpg","t":"Křest dcery Anny, Suchomasty 1913"},
+        {"f":"img/1903_snatek_karel_klika_suchomasty_a.jpg","t":"Sňatek Karla Kliky a Rosiny Valentové, Borek 24. 5. 1903"},
+        {"f":"img/1903_snatek_karel_klika_suchomasty_b.jpg","t":"Sňatek Karla Kliky a Rosiny Valentové 1903 – data narození, svědci"}
       ]
     },
     {
       id: "josef_k",
       name: "Josef Klika",
       line: "klika",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1855)","year":1855,"approx":true},
+      d: {"date":"před 24. 5. 1903","year":1903,"approx":true},
+      father: "frantisek_kl",
+      mother: "anna_sv",
       spouse: "marie_s",
-      occ: "dělník v Býkoši č. p. 38",
+      occ: "nádeník v Býkoši č. 38",
       notes: [
-        "Otec Karla Kliky."
+        "Otec Karla Kliky. Syn † Františka Kliky, domkáře ze Suchomast č. 14, a † Anny roz. Svobodové ze Suchomast č. 14 (křest syna 1880). V roce 1903 už nežil."
       ],
       sources: [
-        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)"
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
+      ],
+      scans: [
+        {"f":"img/1880_krest_karel_klika_bykos_a.jpg","t":"Křest Karla Kliky, Býkoš 1880"},
+        {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"}
       ]
     },
     {
@@ -1088,42 +1112,55 @@ window.RODOKMEN = {
       name: "Marie Kliková",
       maiden: "Svobodová",
       line: "svoboda",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1858)","year":1858,"approx":true},
+      father: "vaclav_sv",
+      mother: "magdalena_st",
       spouse: "josef_k",
       notes: [
-        "Matka Karla Kliky."
+        "Matka Karla Kliky, ze Suchomast č. 21. Dcera Václava Svobody, domkáře ze Suchomast č. 21, a † Magdaleny, nemanželské dcery Ludmily Stádlerové ze Suchomast."
       ],
       sources: [
-        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)"
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
+      ],
+      scans: [
+        {"f":"img/1880_krest_karel_klika_bykos_a.jpg","t":"Křest Karla Kliky, Býkoš 1880"},
+        {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"}
       ]
     },
     {
       id: "anna_va",
       name: "Anna Valentová",
       line: "valenta",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1868)","year":1868,"approx":true},
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1855)","year":1855,"approx":true},
+      d: {"date":"před 24. 5. 1903","year":1903,"approx":true},
       father: "vital_v",
+      mother: "marie_po",
       notes: [
-        "Matka Růženy Valentové; dcera Vitála Valenty z Tschöppern (Čepirohy) č. p. 20."
+        "Matka Rosiny Valentové (nemanželské dcery); dcera Vitála Valenty, dělníka z Čepiroh č. 20, a Marie roz. Pollakové z Wirschin (?). V roce 1903 už nežila."
       ],
       sources: [
-        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)"
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
       ]
     },
     {
       id: "vital_v",
       name: "Vitál Valenta",
       line: "valenta",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true},
+      spouse: "marie_po",
       occ: "dělník v Tschöppern (Čepirohy) č. p. 20, okr. Most",
       notes: [
         "Děd Růženy Valentové z matčiny strany."
       ],
       sources: [
-        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)"
+        "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
       ]
     },
     {
@@ -1500,11 +1537,12 @@ window.RODOKMEN = {
       marriage: "25. 11. 1851, Zdice – s Antonií Divišovou",
       notes: [
         "Narozen a pokřtěn 3. 4. 1825 ve Hředlích č. 37 (kaplan Joannes Ant. Krob). Otec Jakub Červenka, sedlák z Hředl č. 37, syn † Jakuba Červenky, sedláka z Hředl č. 37, a † Anny roz. „Chollryzkové“ (? – nejspíš Holické) z Hředl č. 8; matka Veronika, dcera Jiřího Skály, sedláka z Vinařic, a Evy z Býkoše (panství Suchomasty). Kmotři Matěj Vopršal (?), sedlák z Hředl, a Anna Fraňková (?).",
-        "Sňatek 25. 11. 1851 ve Zdicích (rodopis) – zatím neověřen."
+        "Oddán 25. 11. 1851 ve Zdicích (Černín č. 7, kaplan P. Fr. Havlíček): gruntovník ve Hředlích č. 37, 26 let, syn Jakuba Červenky, gruntovníka ve Hředlích č. 37, a Veroniky roz. Skálové z Vinařic."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77"
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
@@ -1512,7 +1550,9 @@ window.RODOKMEN = {
         {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
         {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"},
         {"f":"img/1825_krest_matej_cervenka_hredle_a.jpg","t":"Křest Matěje Červenky, Hředle 1825 – rodiče"},
-        {"f":"img/1825_krest_matej_cervenka_hredle_b.jpg","t":"Křest Matěje Červenky, Hředle 1825 – matka, kmotři"}
+        {"f":"img/1825_krest_matej_cervenka_hredle_b.jpg","t":"Křest Matěje Červenky, Hředle 1825 – matka, kmotři"},
+        {"f":"img/1851_snatek_matej_cervenka_zdice_a.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové, Zdice 25. 11. 1851"},
+        {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"}
       ]
     },
     {
@@ -1526,14 +1566,18 @@ window.RODOKMEN = {
       mother: "josefa_m",
       marriage: "25. 11. 1851, Zdice – s Matějem Červenkou",
       notes: [
-        "Dcera † Matěje Diviše, rolníka z Černína č. 7, a Josefy roz. Merhoutové ze Zdic (křest syna Václava 1868). Datum narození podle rodopisu."
+        "Dcera † Matěje Diviše, rolníka z Černína č. 7, a Josefy roz. Merhoutové ze Zdic (křest syna Václava 1868). Datum narození podle rodopisu.",
+        "Při sňatku 1851 25 let – dcera † Matěje Diviše, gruntovníka v Černíně č. 7, a Josefky roz. Merhautové ze Zdic."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97"
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82"
       ],
       scans: [
-        {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"}
+        {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"},
+        {"f":"img/1851_snatek_matej_cervenka_zdice_a.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové, Zdice 25. 11. 1851"},
+        {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"}
       ]
     },
     {
@@ -1544,19 +1588,23 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
       d: {"date":"před 22. 7. 1868","year":1868,"approx":true},
       spouse: "josefa_m",
-      occ: "rolník v Černíně č. p. 7",
+      occ: "gruntovník (rolník) v Černíně č. 7",
       notes: [
         "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97"
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82"
+      ],
+      scans: [
+        {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"}
       ]
     },
     {
       id: "josefa_m",
       name: "Josefa Divišová",
-      maiden: "Merhoutová",
+      maiden: "Merhautová",
       line: "merhaut",
       cert: "D",
       b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Zdice"},
@@ -1566,7 +1614,8 @@ window.RODOKMEN = {
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97"
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82"
       ]
     },
     {
@@ -2807,6 +2856,97 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1874_N_Votava_Josef_Sous.jpg","t":"Křest Josefa Votavy, Souš 1874"}
       ]
+    },
+    {
+      id: "marie_po",
+      name: "Marie Valentová",
+      maiden: "Pollaková",
+      line: "pollak",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1828)","year":1828,"approx":true,"place":"Wirschin (?)"},
+      spouse: "vital_v",
+      notes: [
+        "Babička Rosiny Valentové; místo „Wirschin“ nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
+      ]
+    },
+    {
+      id: "frantisek_kl",
+      name: "František Klika",
+      line: "klika",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      d: {"date":"před 20. 1. 1880","year":1880,"approx":true},
+      spouse: "anna_sv",
+      occ: "domkář v Suchomastech č. 14",
+      notes: [
+        "Děd Karla Kliky. Usedlost Suchomasty č. 14 – tam bydlel i vnuk Karel s rodinou (1913)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+      ]
+    },
+    {
+      id: "anna_sv",
+      name: "Anna Kliková",
+      maiden: "Svobodová",
+      line: "svoboda",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true,"place":"Suchomasty č. p. 14"},
+      d: {"date":"před 20. 1. 1880","year":1880,"approx":true},
+      spouse: "frantisek_kl",
+      notes: [
+        "Babička Karla Kliky."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+      ]
+    },
+    {
+      id: "vaclav_sv",
+      name: "Václav Svoboda",
+      line: "svoboda",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      spouse: "magdalena_st",
+      occ: "domkář v Suchomastech č. 21",
+      notes: [
+        "Otec Marie Klikové."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+      ]
+    },
+    {
+      id: "magdalena_st",
+      name: "Magdalena Svobodová",
+      line: "svoboda",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Suchomasty"},
+      d: {"date":"před 20. 1. 1880","year":1880,"approx":true},
+      mother: "ludmila_sta",
+      spouse: "vaclav_sv",
+      notes: [
+        "Matka Marie Klikové; nemanželská dcera Ludmily Stádlerové ze Suchomast."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+      ]
+    },
+    {
+      id: "ludmila_sta",
+      name: "Ludmila Stádlerová",
+      line: "stadler",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true,"place":"Suchomasty"},
+      notes: [
+        "Matka Magdaleny Svobodové."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+      ]
     }
   ]
 };
@@ -2820,7 +2960,7 @@ window.RODOKMEN.places = [
 window.RODOKMEN.story = [
   {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Pacovska. Martin Votava byl nádeníkem v Jetřichovicích, jeho syn Jan nádeníkem v Těchobuzi, kde se roku 1836 narodil Štěpán. Štěpán sloužil jako jízdní dělostřelec, roku 1865 se oženil s Antonií Michalovou ze sedlácké usedlosti Těchobuz č. 19 a pak byl panským kočím na zámku v Pravoníně, kde se mu roku 1868 narodil syn Václav. Domovské právo měla rodina v Těchobuzi.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Barbora Lodlová pocházela z hornické rodiny v Oseku u Rokycan; Lodlovi i Forejtovi tam byli havíři. Kolem roku 1890 odešli za prací do mosteckých dolů – do Souše, kde se Barbora roku 1894 vdala za Václava Votavu.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal","aubrecht","holub","loukota"]},
   {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek","cernoch","grozman"],"title":"Zettelmannovi a Hrazdílkovi","text":["Matčina linie vede do Veřovic pod Beskydy. Tomáš Černoch (1846–1902) a Magdalena Grozmanová tam měli třináct dětí; dcera Anežka se roku 1901 provdala za Jana Blažka a jejich nejstarší dcera Ludmila (1903–1986) si roku 1930 vzala Františka Zettelmanna z Dobešova.","Zettelmannovi žili na Oderských vrších – v Dobešově, Loučkách, Jeseníku nad Odrou a v Polouvsí, kde se roku 1940 narodil František. Ten si roku 1961 vzal Helenu Hrazdílkovou z Heršpic u Slavkova; v roce 1963 žili v Karviné, kde se narodila dcera Šárka.","Nejmladší sestra Anežky, Ludmila Černochová, odešla do Texasu. Její potomek Tim H. Orsak sestavil roku 2018 velký rodokmen potomků Tomáše Černocha, ze kterého tato část pochází (údaje se ještě ověřují v matrikách)."]},
-  {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda","divis","merhaut","skala","kalous","holicky","zyma","drapal","novy","semenec"],"title":"Červenkovi a Klikovi","text":["Červenkové byli po pět generací rolníky ve Hředlích č. p. 37 u Žebráka. Nejstarší známý předek Václav Červenka (asi 1674–1730) se roku 1696 oženil v Žebráku s Dorotou Novou z Chlustiny. Linie pokračuje přes Pavla (1716), dva Jakuby (1750, 1789) a Matěje (1825).","Matějův syn Václav (1868–1938) se usadil jako rolník v Berouně na Lištici a oženil se s Annou Vlasákovou z mlynářské rodiny z Račic u Zbečna. Z jejich pěti synů je nejmladší Karel (*1906) děd Jana Votavy.","Karel Červenka se v lednu 1933 oženil v kostele sv. Mikuláše v Borku u Suchomast s Annou Klikovou, dcerou dělníka Karla Kliky z Býkoše a Růženy Valentové z Čepiroh (Tschöppern) u Mostu.","Linie do 17. století pochází z rodinného strojopisného rodopisu; jednotlivé údaje se ještě ověřují v matrikách."]}
+  {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda","divis","merhaut","skala","kalous","holicky","zyma","drapal","novy","semenec"],"title":"Červenkovi a Klikovi","text":["Červenkové byli po pět generací rolníky ve Hředlích č. p. 37 u Žebráka. Nejstarší známý předek Václav Červenka (asi 1674–1730) se roku 1696 oženil v Žebráku s Dorotou Novou z Chlustiny. Linie pokračuje přes Pavla (1716), dva Jakuby (1750, 1789) a Matěje (1825).","Matějův syn Václav (1868–1938) se usadil jako rolník v Berouně na Lištici a oženil se s Annou Vlasákovou z mlynářské rodiny z Račic u Zbečna. Z jejich pěti synů je nejmladší Karel (*1906) děd Jana Votavy.","Karel Červenka se v lednu 1933 oženil v kostele sv. Mikuláše v Borku u Suchomast s Annou Klikovou. Její otec Karel Klika (*1880) byl dělník z Býkoše; roku 1903 si vzal Rosinu (Růženu) Valentovou, nemanželskou dceru Anny Valentové z Čepiroh (Tschöppern) u Mostu.","Linie do 17. století pochází z rodinného strojopisného rodopisu; jednotlivé údaje se ještě ověřují v matrikách."]}
 ];
 window.RODOKMEN.timeline = [
   {"y":1940,"t":"František Zettelmann se rodí v Polouvsí, Helena Hrazdílková v Heršpicích"},
