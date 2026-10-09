@@ -67,7 +67,8 @@ window.RODOKMEN = {
     "buchlovsky": "Buchlovský",
     "cervinka": "Červinka",
     "lanicek": "Láníček",
-    "svobodah": "Svoboda (Heršpice)"
+    "svobodah": "Svoboda (Heršpice)",
+    "malac": "Maláč"
   },
   people: [
     {
@@ -4548,7 +4549,8 @@ window.RODOKMEN = {
       spouse: "apolonie_am",
       occ: "domkář (1827), sedlák (1860) v Hodějicích",
       notes: [
-        "Otec Martina Hrazdílka."
+        "Otec Martina Hrazdílka.",
+        "Sňatek s Apolonií Ambrosovou podle rejstříku oddaných fary Slavkov: 1827, Hodějice, str. 36 (zápis zatím nečten)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -4741,12 +4743,16 @@ window.RODOKMEN = {
       line: "lanicek",
       cert: "M",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      d: {"date":"před 1841","year":1841,"approx":true},
+      occ: "domkář v Heršpicích",
       notes: [
-        "Děd Františka Jeřábka i Anežky Kučerové z matčiny strany (dcery Marie a Kateřina)."
+        "Otec Marianny Jeřábkové a Kateřiny Svobodové (obě před sňatkem 1841/42 už bez otce). ROZPOR v manželce: 1841 „Magdalena, dcera Františka Willama“, 1842 „Anna, dcera Jiřího Willama“ – dvě manželky, nebo chyba zápisu."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960"
       ]
     },
     {
@@ -4754,30 +4760,43 @@ window.RODOKMEN = {
       name: "František Jeřábek",
       line: "jerabek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      b: {"date":"neznámé (odhad ~1817)","year":1817,"approx":true,"place":"Hodějice"},
+      father: "martin_je",
+      mother: "apolonie_zr",
       spouse: "marie_la",
       occ: "domkář v Heršpicích",
+      marriage: "7. 2. 1842, Heršpice – s Mariannou Láníčkovou",
       notes: [
+        "Oddán 7. 2. 1842 v Heršpicích (č. 60/57) jako domkář v Heršpicích, 25 let (?); syn † Martina Jeřábka, domkáře v Hodějicích, a Apolonie roz. Zrubnerové (?).",
         "Otec Františka Jeřábka (*~1850)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ],
+      scans: [
+        {"f":"img/1842_O_13138_sn345R_Herspice_str50_Jerabek_Frantisek_Lanickova_Marianna.jpg","t":"Sňatek Františka Jeřábka a Marianny Láníčkové, Heršpice 7. 2. 1842"}
       ]
     },
     {
       id: "marie_la",
-      name: "Marie Jeřábková",
+      name: "Marianna Jeřábková",
       maiden: "Láníčková",
       line: "lanicek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Heršpice"},
+      b: {"date":"neznámé (odhad ~1821)","year":1821,"approx":true,"place":"Heršpice"},
       father: "pavel_la",
       spouse: "frantisek_je0",
+      marriage: "7. 2. 1842, Heršpice – s Františkem Jeřábkem",
       notes: [
-        "Matka Františka Jeřábka; dcera Pavla Láníčka."
+        "Dcera † Pavla Láníčka, domkáře v Heršpicích, a Anny roz. Willamové (dcery Jiřího Willama, čtvrtníka v Heršpicích); při sňatku 1842 20 let (?). ROZPOR: její sestra Kateřina má v zápisu 1841 jako matku Magdalenu, dceru Františka Willama."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ],
+      scans: [
+        {"f":"img/1842_O_13138_sn345R_Herspice_str50_Jerabek_Frantisek_Lanickova_Marianna.jpg","t":"Sňatek Františka Jeřábka a Marianny Láníčkové, Heršpice 7. 2. 1842"}
       ]
     },
     {
@@ -4785,15 +4804,23 @@ window.RODOKMEN = {
       name: "Josef Hrabovský",
       line: "hrabovsky",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      b: {"date":"neznámé (odhad ~1818)","year":1818,"approx":true,"place":"Hodějice (?)"},
+      father: "jiri_hb",
+      mother: "magdalena_si",
       spouse: "frantiska_ma",
       occ: "3/4láník v Heršpicích",
+      marriage: "9. 2. 1841, Heršpice – s Františkou Maláčovou",
       notes: [
+        "Oddán 9. 2. 1841 v Heršpicích (č. 59/4) jako třičtvrtník (?) v Heršpicích, nezletilý – souhlas otce Jiřího Hrabovského, třičtvrtníka v Hodějicích (?); matka Magdalena roz. Šimánková (?).",
         "Otec Magdaleny Jeřábkové."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, O Heršpice 13144, str. 74 (1902)"
+        "MZA Brno, O Heršpice 13144, str. 74 (1902)",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ],
+      scans: [
+        {"f":"img/1841_O_13138_sn343L_Herspice_str46_Hrabovsky_Josef_Malacova_Frantiska.jpg","t":"Sňatek Josefa Hrabovského a Františky Maláčové, Heršpice 1841"}
       ]
     },
     {
@@ -4802,13 +4829,19 @@ window.RODOKMEN = {
       maiden: "Maláčová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      b: {"date":"neznámé (odhad ~1822)","year":1822,"approx":true,"place":"Heršpice"},
+      father: "valentin_ma",
       spouse: "josef_hb",
+      marriage: "9. 2. 1841, Heršpice – s Josefem Hrabovským",
       notes: [
-        "Matka Magdaleny Jeřábkové; dcera Valentina Maláče."
+        "Nezletilá dcera Valentina Maláče, třičtvrtníka v Heršpicích, a Anny roz. Spačilové (?) (dcery Matěje Spačila, čtvrtníka v Křenovicích (?))."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ],
+      scans: [
+        {"f":"img/1841_O_13138_sn343L_Herspice_str46_Hrabovsky_Josef_Malacova_Frantiska.jpg","t":"Sňatek Josefa Hrabovského a Františky Maláčové, Heršpice 1841"}
       ]
     },
     {
@@ -4816,14 +4849,22 @@ window.RODOKMEN = {
       name: "Jan Kučera",
       line: "kucera",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      b: {"date":"asi 1815","year":1815,"approx":true,"place":"Heršpice č. p. 40"},
+      father: "tobias_ku",
+      mother: "katerina_lo",
       spouse: "veronika_sp",
       occ: "třičtvrtník v Heršpicích (č. 40)",
+      marriage: "9. 7. 1837, Křenovice – s Veronikou Spačilovou",
       notes: [
-        "Otec Matouše Kučery."
+        "Oddán 9. 7. 1837 v Křenovicích jako třičtvrtník v Heršpicích (č. 40), 22 let, nezletilý (souhlas poručníka); syn † Tobiáše Kučery, třičtvrtníka v Heršpicích, a Kateřiny roz. Lobrabové (?) z Letonic (?). Svědci Dominik Kučera z Heršpic a Ondřej (?) Spačil z Křenovic.",
+        "Otec Matouše Kučery (*1844)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ],
+      scans: [
+        {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837"}
       ]
     },
     {
@@ -4832,15 +4873,21 @@ window.RODOKMEN = {
       maiden: "Spačilová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      b: {"date":"neznámé (odhad ~1814)","year":1814,"approx":true,"place":"Křenovice"},
       father: "frantisek_sp",
+      mother: "marianna_sp",
       spouse: "jan_ku",
+      marriage: "9. 7. 1837, Křenovice – s Janem Kučerou",
       notes: [
-        "Matka Matouše Kučery; dcera Františka Spačila, pololáníka v Křenovicích (?)."
+        "Matka Matouše Kučery; dcera † Františka Spačila, pololáníka v Křenovicích, a Marianny; při sňatku 1837 23 let."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952"
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ],
+      scans: [
+        {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837"}
       ]
     },
     {
@@ -4848,15 +4895,23 @@ window.RODOKMEN = {
       name: "Jakub Svoboda",
       line: "svobodah",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      b: {"date":"neznámé (odhad ~1818)","year":1818,"approx":true,"place":"Heršpice"},
+      father: "martin_sv",
+      mother: "magdalena_fu",
       spouse: "katerina_la",
       occ: "čtvrtník v Heršpicích",
+      marriage: "23. 5. (?) 1841, Heršpice – s Kateřinou Láníčkovou",
       notes: [
-        "Otec Anežky Kučerové."
+        "Oddán 1841 v Heršpicích (č. 52/57) jako domkář, 23 let; syn † Martina Svobody, domkáře v Heršpicích, a Magdaleny roz. Fuchsové (?).",
+        "Později čtvrtník v Heršpicích; otec Anežky Kučerové."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, O Heršpice 13144, str. 74 (1902)"
+        "MZA Brno, O Heršpice 13144, str. 74 (1902)",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ],
+      scans: [
+        {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841"}
       ]
     },
     {
@@ -4865,14 +4920,19 @@ window.RODOKMEN = {
       maiden: "Láníčková",
       line: "lanicek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Heršpice"},
+      b: {"date":"neznámé (odhad ~1822)","year":1822,"approx":true,"place":"Heršpice"},
       father: "pavel_la",
       spouse: "jakub_sv",
+      marriage: "23. 5. (?) 1841, Heršpice – s Jakubem Svobodou",
       notes: [
-        "Matka Anežky Kučerové; dcera Pavla Láníčka."
+        "Dcera † Pavla Láníčka, domkáře v Heršpicích, a Magdaleny roz. Willamové (dcery Františka Willama, čtvrtníka); při sňatku 1841 19 let (?). ROZPOR: sestra Marianna (1842) má jako matku Annu, dceru Jiřího Willama."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ],
+      scans: [
+        {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841"}
       ]
     },
     {
@@ -4914,13 +4974,16 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
-      occ: "pololáník v Křenovicích (?)",
+      d: {"date":"před 9. 7. 1837","year":1837,"approx":true},
+      spouse: "marianna_sp",
+      occ: "pololáník v Křenovicích",
       notes: [
         "Otec Veroniky Kučerové."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
-        "MZA Brno, O Heršpice 13144, str. 36 (1872)"
+        "MZA Brno, O Heršpice 13144, str. 36 (1872)",
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
       ]
     },
     {
@@ -4981,6 +5044,157 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
+      ]
+    },
+    {
+      id: "tobias_ku",
+      name: "Tobiáš Kučera",
+      line: "kucera",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      d: {"date":"před 9. 7. 1837","year":1837,"approx":true},
+      spouse: "katerina_lo",
+      occ: "třičtvrtník v Heršpicích",
+      notes: [
+        "Otec Jana Kučery."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ]
+    },
+    {
+      id: "katerina_lo",
+      name: "Kateřina Kučerová",
+      maiden: "Lobrabová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true,"place":"Letonice (?)"},
+      spouse: "tobias_ku",
+      notes: [
+        "Matka Jana Kučery; dcera Jana Lobraba (?), pololáníka z Letonic (?) – čtení nejisté."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ]
+    },
+    {
+      id: "marianna_sp",
+      name: "Marianna Spačilová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true,"place":"Křenovice"},
+      spouse: "frantisek_sp",
+      notes: [
+        "Matka Veroniky Kučerové; dcera Ondřeje (?) …, pololáníka v Křenovicích – rodné příjmení nečitelné."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ]
+    },
+    {
+      id: "martin_je",
+      name: "Martin Jeřábek",
+      line: "jerabek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      d: {"date":"před 7. 2. 1842","year":1842,"approx":true},
+      spouse: "apolonie_zr",
+      occ: "domkář v Hodějicích",
+      notes: [
+        "Otec Františka Jeřábka st."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ]
+    },
+    {
+      id: "apolonie_zr",
+      name: "Apolonie Jeřábková",
+      maiden: "Zrubnerová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      spouse: "martin_je",
+      notes: [
+        "Matka Františka Jeřábka st.; čtení příjmení nejisté."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ]
+    },
+    {
+      id: "martin_sv",
+      name: "Martin Svoboda",
+      line: "svobodah",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      d: {"date":"před 1841","year":1841,"approx":true},
+      spouse: "magdalena_fu",
+      occ: "domkář v Heršpicích",
+      notes: [
+        "Otec Jakuba Svobody."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ]
+    },
+    {
+      id: "magdalena_fu",
+      name: "Magdalena Svobodová",
+      maiden: "Fuchsová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      spouse: "martin_sv",
+      notes: [
+        "Matka Jakuba Svobody; dcera Jakuba Fuchse (?), čtvrtníka v Heršpicích."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ]
+    },
+    {
+      id: "jiri_hb",
+      name: "Jiří Hrabovský",
+      line: "hrabovsky",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      spouse: "magdalena_si",
+      occ: "třičtvrtník v Hodějicích (?)",
+      notes: [
+        "Otec Josefa Hrabovského; v roce 1841 žil."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ]
+    },
+    {
+      id: "magdalena_si",
+      name: "Magdalena Hrabovská",
+      maiden: "Šimánková (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      spouse: "jiri_hb",
+      notes: [
+        "Matka Josefa Hrabovského; dcera Martina Šimánka (?) z Hodějic."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ]
+    },
+    {
+      id: "valentin_ma",
+      name: "Valentin Maláč",
+      line: "malac",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      occ: "třičtvrtník v Heršpicích",
+      notes: [
+        "Otec Františky Hrabovské; manželka Anna roz. Spačilová (?)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960"
       ]
     }
   ]
