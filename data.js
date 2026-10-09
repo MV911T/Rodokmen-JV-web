@@ -64,7 +64,8 @@ window.RODOKMEN = {
     "anders": "Anders",
     "hrabovsky": "Hrabovský",
     "krejci": "Krejčí",
-    "buchlovsky": "Buchlovský"
+    "buchlovsky": "Buchlovský",
+    "cervinka": "Červinka"
   },
   people: [
     {
@@ -1970,11 +1971,12 @@ window.RODOKMEN = {
       notes: [
         "Nejstarší známý Červenka. V rodopisu na 1. stránce chybně „oddán 30. 11. 1896“, na 2. stránce správně 1696.",
         "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách.",
-        "KANDIDÁT: v Soupisu poddaných podle víry 1651 (panství Točník) v Hředlích Červenka není; v sousední Bzové „Václav Červenka – rychtář – 41 let“ s ženou Žofií – možný předek (otec?) Václava *~1674, vazba neověřena."
+        "KANDIDÁT: v Soupisu poddaných 1651 je v Hředlích Červenka není; v sousední Bzové „Václav Červenka – rychtář – 41 let“ s ženou Žofií. Pozemková kniha panství Točník: „Grunt Václava Červenky, nyní Jiříka Smolaře“ v Bzové – 17. 1. 1654 jej koupil Jiřík Smolař „od Václava Andršta jinak Červenky“ (Červenka tu bylo přízvisko). V Hředlích mezi držiteli gruntů do 1730 Červenka není. Vazba na Václava *~1674 neověřena."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "Soupis poddaných podle víry 1651 – Berounsko (NA) – https://www.nacr.cz/wp-content/uploads/2019/01/Berounsko_cele_H_zamceno.pdf"
+        "Soupis poddaných podle víry 1651 – Berounsko (NA) – https://www.nacr.cz/wp-content/uploads/2019/01/Berounsko_cele_H_zamceno.pdf",
+        "SOA Praha, Velkostatek Zbiroh, Točník – pozemková kniha panství 1623–1730, inv. 5001, sign. OS Hořovice 195, fol. 297, snímek 188 – https://ebadatelna.soapraha.cz/a/1963/188"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
@@ -3462,21 +3464,24 @@ window.RODOKMEN = {
       name: "Karel Čapek",
       line: "capek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      b: {"date":"neznámé (odhad ~1752)","year":1752,"approx":true,"place":"Hrubý Jeseník č. p. 27"},
       d: {"date":"před 3. 11. 1829","year":1829,"approx":true},
+      father: "josef_c0",
       spouse: "dorota_ce",
       occ: "chalupník v Hrubém Jeseníku č. 30",
+      marriage: "20. 10. 1776, Hrubý Jeseník – s Dorotou Červinkovou",
       notes: [
+        "Oddán 20. 10. 1776 v Hrubém Jeseníku (administrátor Ambrož Sedlička): „pracovitý mládenec Karel, manželský syn Josefa Čapka, chalupníka jesenického“, bydliště Jeseník č. 27; svědci Václav Mikš, podruh, a Filip Mašlík, punčochář, z Ronova. Později chalupník v Jeseníku č. 30.",
         "Otec Marie Čapkové (manželky Jana Čapka) – oba rody Čapků z Hrubého Jeseníka.",
         "Podle indexu křtů Hrubý Jeseník děti od 1777 (Dorota 1777, Kateřina 1779, František 1781, Josef 1784/85, Kateřina 1788, Jan Kašpar 1790, Marie 1797) – sňatek s Dorotou Červinkovou nejpozději 1777."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 68/69, snímek 38 – https://ebadatelna.soapraha.cz/d/5728/38"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 68/69, snímek 38 – https://ebadatelna.soapraha.cz/d/5728/38",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 06 (O 1771–1788), snímek 17 – https://ebadatelna.soapraha.cz/d/5726/17"
       ],
       scans: [
-        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_a.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797"},
-        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_b.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797 – rodiče, kmotři"}
+        {"f":"img/1776_snatek_karel_capek_dorota_cervinkova_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Doroty Červinkové, Hrubý Jeseník 20. 10. 1776"}
       ]
     },
     {
@@ -4343,17 +4348,19 @@ window.RODOKMEN = {
       maiden: "Červinková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true,"place":"Oskořínek"},
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true,"place":"Ronov č. p. 46"},
+      father: "matej_cv",
       spouse: "karel_c0",
+      marriage: "20. 10. 1776, Hrubý Jeseník – s Karlem Čapkem",
       notes: [
-        "Matka Marie Čapkové (*1797), z Oskořínka."
+        "Dcera Matěje Červinky, rychtáře v Ronově (sňatek 1776, nevěsta z Ronova č. 46). ROZPOR: křest dcery Marie 1797 ji uvádí „z Oskořínka“ (sousední obec)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 68/69, snímek 38 – https://ebadatelna.soapraha.cz/d/5728/38"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 68/69, snímek 38 – https://ebadatelna.soapraha.cz/d/5728/38",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 06 (O 1771–1788), snímek 17 – https://ebadatelna.soapraha.cz/d/5726/17"
       ],
       scans: [
-        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_a.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797"},
-        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_b.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797 – rodiče, kmotři"}
+        {"f":"img/1776_snatek_karel_capek_dorota_cervinkova_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Doroty Červinkové, Hrubý Jeseník 20. 10. 1776"}
       ]
     },
     {
@@ -4614,6 +4621,34 @@ window.RODOKMEN = {
       ],
       sources: [
         "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 12, snímek 7 – https://www.mza.cz/actapublica/matrika/detail/4944"
+      ]
+    },
+    {
+      id: "josef_c0",
+      name: "Josef Čapek",
+      line: "capek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      occ: "chalupník v Hrubém Jeseníku",
+      notes: [
+        "Otec Karla Čapka (*~1752)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 06 (O 1771–1788), snímek 17 – https://ebadatelna.soapraha.cz/d/5726/17"
+      ]
+    },
+    {
+      id: "matej_cv",
+      name: "Matěj Červinka",
+      line: "cervinka",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      occ: "rychtář v Ronově",
+      notes: [
+        "Otec Doroty Čapkové."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 06 (O 1771–1788), snímek 17 – https://ebadatelna.soapraha.cz/d/5726/17"
       ]
     }
   ]

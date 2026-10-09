@@ -25,6 +25,7 @@ window.RODOKMEN_GAZ = [
   { n: 'Rabakov', a: ['Rabakov'], lat: 50.44, lon: 15.07 },
   { n: 'Hrubý Jeseník', a: ['Hrubý Jeseník'], lat: 50.24, lon: 15.07 },
   { n: 'Oskořínek', a: ['Oskořínek'], lat: 50.26, lon: 15.0 },
+  { n: 'Ronov', a: ['Ronov'], lat: 50.25, lon: 15.03 },
   { n: 'Uhřice', a: ['Uhřice'], lat: 49.05, lon: 16.94 },
   { n: 'Hodějice', a: ['Hodějic'], lat: 49.14, lon: 16.91 },
   { n: 'Malkov', a: ['Malkov'], lat: 49.88, lon: 14.03 },
