@@ -6099,18 +6099,23 @@ window.RODOKMEN = {
       name: "Šimon Laukota",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
-      d: {"date":"mezi 1801 a 1807 (?)","year":1804,"approx":true},
+      b: {"date":"asi 1731","year":1731,"approx":true},
+      d: {"date":"10. 9. 1806","year":1806,"place":"Osek u Rokycan č. p. 17"},
+      cause: "mrtvice („Schlag“)",
       occ: "pastýř v Oseku (č. 10 v r. 1774)",
       notes: [
-        "Otec Prokopa Laukoty (sňatek 1782). V r. 1774 pastýř v Oseku č. 10 (křest dcery Magdaleny, matka Magdalena); dcera Magdalena † I 1781. Podle rejstříku měl děti už 1747 a 1752 (možná z 1. manželství).",
-        "KANDIDÁT manželky: Magdalena († 5. 10. 1807, Osek č. 17, „vdova po † Šimonovi Laukotovi, pastýři“, 69 let). Úmrtí Šimona v Oseku 1772–1801 nenalezeno."
+        "Otec Prokopa Laukoty (sňatek 1782). Pastýř v Oseku – v r. 1774 v č. 10 (křest dcery Magdaleny, matka Magdalena); dcera Magdalena † I 1781; dcera Marie pokřtěna 24. 3. 1757 („otce Šymona Laukota, matky Magdaleny“).",
+        "Zemřel 10. 9. 1806 v Oseku č. 17, 75 let, na mrtvici. Ztotožnění: v témže domě zemřela 5. 10. 1807 „Magdalena, vdova po † Šimonovi Laukotovi, pastýři“, 69 let – nejspíš jeho manželka a matka Prokopa (neověřeno, křest Prokopa nenalezen v Oseku 1756–1762).",
+        "POZOR: v Oseku současně žil jiný Šimon Laukota, podruh, × Anna (dcera Dorota 1761)."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, rok 1782, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, rok 1782, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, str. 66, snímek 38 – https://www.portafontium.eu/iipimage/30066674/osek-08_0380-z",
+        "SOA Plzeň, fara Osek, kniha Osek 03, str. 158, snímek 82 – https://www.portafontium.eu/iipimage/30066669/osek-03_0820-n"
       ],
       scans: [
-        {"f":"img/1782_oddani_prokop_laukota_syn_simona_x_anna_dcera_antonina_laukoty_osek10_osek07_sn8.jpg","t":"První sňatek Prokopa Laukoty, Osek 24. 11. 1782"}
+        {"f":"img/1782_oddani_prokop_laukota_syn_simona_x_anna_dcera_antonina_laukoty_osek10_osek07_sn8.jpg","t":"První sňatek Prokopa Laukoty, Osek 24. 11. 1782"},
+        {"f":"img/1806_umrti_simon_laukota_osek17_75let_osek08_sn38.jpg","t":"Úmrtí Šimona Laukoty, Osek 10. 9. 1806"}
       ]
     },
     {
