@@ -4096,7 +4096,8 @@ window.RODOKMEN = {
       spouse: "barbora_bu",
       occ: "familiant v Hrubém Jeseníku",
       notes: [
-        "Otec Jana Čapka (*~1795)."
+        "Otec Jana Čapka (*~1795).",
+        "KANDIDÁT sňatku: 23. 6. 1788 Hrubý Jeseník č. 20 – „Jann Čapka (?)“, 19/21 let, × „Barbora Bzegjitkin (?)“ (HJ 06 sn. 40, HJ 08 sn. 205) – křestní jména sedí, příjmení nevěsty se liší od „Bukvajová (?)“ z křtu syna 1795 a dům č. 20 × č. 48; neověřeno."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222",
