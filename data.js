@@ -2119,22 +2119,27 @@ window.RODOKMEN = {
       mother: "katerina_vr",
       spouse: "marie_k",
       occ: "půlník v Těchobuzi č. 19",
+      marriage: "2. sňatek 10. 11. 1835, Mezilesí – s Marií Karafiátovou; 1. sňatek 7. 2. 1825, Těchobuz – s vdovou Marií († 1835)",
       notes: [
         "Narozen 7. 4., pokřtěn 8. 4. 1803 v Těchobuzi č. 19 (fara Zhoř); otec Vojtěch Michal, sedlák; matka Kateřina (rodné příjmení nejisté – „Vrz…/Voz…“).",
         "Půlsedlák (sedlák) v Těchobuzi č. 19. V roce 1868 už nežil.",
-        "ROZPOR: 7. 2. 1825 se v Těchobuzi oženil (21 let, se svolením otce Vojtěcha) s Marií, vdovou po chalupníkovi z Těchobuze č. 22, dcerou Pavla Kr… (?) z č. 28 (*~1792) – nikoli s Marií Karafiátovou z Mezilesí, kterou jako matku Antonie (*1836) uvádějí zápisy 1836, 1865 a 1874. Nejspíš druhý sňatek po roce 1825 – hledat v oddaných Těchobuz 1826–1836.",
-        "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815."
+        "Dvakrát ženatý: 7. 2. 1825 v Těchobuzi s Marií, vdovou po chalupníkovi z č. 22 (*~1785–1792, † 1. 9. 1835 v Těchobuzi č. 19); podruhé jako vdovec 10. 11. 1835 v Mezilesí č. 2 s Marií Karafiátovou (22 let) – matkou Antonie (*16. 12. 1836). Svědci Josef Hrň… (?), mlynář z Hojna (?), a Václav Šim… (?) z Lukavce (?). Rozpor vyřešen.",
+        "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815.",
+        "Rodné příjmení matky Kateřiny se v zápisech liší: 1825 „Vrz…/Voz… (?)“, 1835 „Kroužilová (?)“."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N-O-Z 1784–1822 (id 8824), fol. 23, snímek 28 – https://digi.ceskearchivy.cz/8824",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 2, snímek 3 – https://digi.ceskearchivy.cz/8825"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 2, snímek 3 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), zemřelí fol. 97, snímek 98 – https://digi.ceskearchivy.cz/8825"
       ],
       scans: [
         {"f":"img/1803_krest_Michal_Jan_Techobuz19_8824.jpg","t":"Křest Jana Michala, Těchobuz 1803"},
-        {"f":"img/1825_oddani_Michal_Jan_vdova_Marie_Techobuz22_8825.jpg","t":"Sňatek Jana Michala s vdovou Marií, Těchobuz 1825 (rozpor)"}
+        {"f":"img/1825_oddani_Michal_Jan_vdova_Marie_Techobuz22_8825.jpg","t":"Sňatek Jana Michala s vdovou Marií, Těchobuz 1825 (rozpor)"},
+        {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835"}
       ]
     },
     {
@@ -2143,17 +2148,22 @@ window.RODOKMEN = {
       maiden: "Karafiátová",
       line: "karafiat",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true,"place":"Mezilesí č. p. 2"},
+      b: {"date":"asi 1813","year":1813,"approx":true,"place":"Mezilesí č. p. 2"},
       father: "vaclav_ka",
       mother: "ludmila_lh",
       spouse: "jan_m",
+      marriage: "10. 11. 1835, Mezilesí – s Janem Michalem (vdovcem)",
       notes: [
-        "Dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily roz. Lhotkové (?) (křest dcery Antonie 1836)."
+        "Dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily; při sňatku 1835 22 let. Rodné příjmení matky Ludmily: 1835 „Šimonová (?)“, 1836 „Lhotková (?)“ – ROZPOR / nejisté čtení."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379"
+      ],
+      scans: [
+        {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835"}
       ]
     },
     {
@@ -2481,7 +2491,7 @@ window.RODOKMEN = {
       d: {"date":"před 6. 9. 1849","year":1849,"approx":true},
       spouse: "katerina_le",
       occ: "mistr ševcovský v Oseku č. 75",
-      marriage: "1) 7. 2. 1804, Osek – s Kateřinou Trgjkovou; 2) 9. 9. 1814, Osek – s Annou, vdovou po Jakubu Laukotovi",
+      marriage: "1. sňatek 7. 2. 1804, Osek – s Kateřinou Trgjkovou; 2. sňatek 9. 9. 1814, Osek – s Annou, vdovou po Jakubu Laukotovi",
       notes: [
         "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Brück (?)“; svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
         "Otec Pavla Lodla (*1811); švec v č. 84 (1811), později mistr ševcovský v č. 75.",
@@ -2646,11 +2656,12 @@ window.RODOKMEN = {
       occ: "nádeník v Jetřichovicích č. 22",
       notes: [
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Letů (?)“ – zemřel před 1844.",
-        "KANDIDÁT: fara Pacov (Jetřichovec = Jetřichovice, kniha NOZ 1785–1843, id 6239) – index zemřelých uvádí „Wotawa Martin 1828 pag. 28“ a „Wotawa Terezie 1833 pag. 31“; nečteno."
+        "KANDIDÁT úmrtí: 8. 8. 1828 v Jetřichovci č. 27 zemřel „Martin Wotawa, podruh“, 60 let (*~1768); 27. 6. 1833 tamtéž č. 42 „Terezie, vdova po Martinu (?) Wotawovi“, 60 let (*~1773). Jména sedí, čísla domů ne (1834: č. 22) – nedoloženo, že jde o rodiče Jana. Jan se v Jetřichovci nenarodil (index narození 1785–1842); Votavové tam jsou až od ~1816."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Pacov, kniha Jetřichovec NOZ 1785–1843 (id 6239), zemřelí fol. 28 / 31, snímky 116 / 118 – https://digi.ceskearchivy.cz/6239"
       ]
     },
     {
@@ -2721,7 +2732,7 @@ window.RODOKMEN = {
     {
       id: "katerina_vr",
       name: "Kateřina Michalová",
-      maiden: "Vrzalová (?)",
+      maiden: "Vrzalová / Kroužilová (?)",
       line: "vrzal",
       cert: "M",
       b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true,"place":"Zhoř (?)"},
@@ -2730,7 +2741,8 @@ window.RODOKMEN = {
         "Matka Jana Michala; čtení nejisté."
       ],
       sources: [
-        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379"
       ]
     },
     {
@@ -2752,7 +2764,7 @@ window.RODOKMEN = {
     {
       id: "ludmila_lh",
       name: "Ludmila Karafiátová",
-      maiden: "Lhotková (?)",
+      maiden: "Lhotková / Šimonová (?)",
       line: "lhotka",
       cert: "M",
       b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
@@ -2761,7 +2773,8 @@ window.RODOKMEN = {
         "Matka Marie Michalové; čtení nejisté, „z mlýna …“."
       ],
       sources: [
-        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379"
       ]
     },
     {
@@ -4110,7 +4123,7 @@ window.RODOKMEN = {
       mother: "anna_mi",
       spouse: "magdalena_poh",
       occ: "domkář v Bělotíně č. 149",
-      marriage: "1) ? (ovdověl před 1879); 2) 7. 10. 1879, Polom – s Magdalenou Andersovou",
+      marriage: "2. sňatek 7. 10. 1879, Polom – s Magdalenou Andersovou; 1. sňatek před 1879 (manželka neznámá)",
       notes: [
         "Domkář v Bělotíně č. 149; syn Johanna Zettelmanna, domkáře v Bělotíně, a Anny roz. Michalkové. Podruhé oddán 7. 10. 1879 v Polomi jako vdovec (33 let).",
         "V oddacím zápise vnuka 1930 „domkář v Bölten“ = Bělotín."
