@@ -1075,8 +1075,9 @@ window.RODOKMEN = {
       spouse: "vaclav_c",
       marriage: "19. 5. 1894, Beroun – s Václavem Červenkou",
       notes: [
-        "Narozena 20. 11. 1870 v Sýkořicích č. 41 (okres Křivoklát) – podle oddacího zápisu 1894 (křestní list fary Zbečno z 3. 5. 1894, č. 137). Při sňatku 23 let, nezletilá – souhlas dal otec František Vlasák, rolník v Berouně č. 83 (Lištice). Matka Marie roz. Semencová ze Zbečna č. 45.",
-        "ROZPOR s rodopisem: rodopis uvádí 20. 11. 1871, Zbečno-Račice (mlýn) a matku z Dubiny u Zbečna č. 45; platí oddací zápis (křest ve Zbečno 24, N Sýkořice 1869–1919, zatím nečten).",
+        "Narozena 20. 11., pokřtěna 22. 11. 1870 v Sýkořicích č. 41 (farář P. Jos. Malý, bába Marie Drábková). Otec František Vlasák, mlynář v Sýkořicích č. 41, syn Jana Vlasáka, mlynáře tamtéž, a Marie, dcery Josefa Nováka z Nové Huti č. 34; matka Marie roz. Semencová, dcera Martina Semence, podruha ze Zbečna č. 45, a Barbory, dcery Václava Hlavičky (?) ze Zbečna č. 11.",
+        "Křest rozhodl rozpor: narozena 1870 (shodně s oddacím zápisem 1894), ne 1871 jak uvádí rodopis.",
+        "Při sňatku 1894 23 let, nezletilá – souhlas dal otec František Vlasák, tehdy rolník v Berouně č. 83 (Lištice).",
         "Zemřela 1946 v Berouně-Lištici č. 229 (rodopis)."
       ],
       sources: [
@@ -1084,9 +1085,12 @@ window.RODOKMEN = {
         "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
         "Křestní a rodný list Anny Červenkové (*1933), fara Borek, kniha pokřtěných XIV, sv. 64, list 2 (vydán 15. 7. 1946)",
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208"
+        "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
       ],
       scans: [
+        {"f":"img/1870_krest_anna_vlasakova_sykorice_a.jpg","t":"Křest Anny Vlasákové, Sýkořice 20. 11. 1870"},
+        {"f":"img/1870_krest_anna_vlasakova_sykorice_b.jpg","t":"Křest Anny Vlasákové 1870 – rodiče, prarodiče"},
         {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_a.jpg","t":"Sňatek Václava Červenky a Anny Vlasákové, Beroun 19. 5. 1894"},
         {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_b.jpg","t":"Sňatek Červenka × Vlasáková 1894 – svědci, data narození"}
       ]
@@ -2044,15 +2048,17 @@ window.RODOKMEN = {
       line: "vlasak",
       cert: "M",
       b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true},
+      father: "jan_vl",
+      mother: "marie_no",
       spouse: "marie_se",
-      occ: "mlynář v Račicích (rodopis), rolník v Berouně č. 83 – Lištice (1894)",
+      occ: "mlynář v Sýkořicích č. 41 (1870), rolník v Berouně č. 83 – Lištice (1894)",
       notes: [
-        "Otec Anny Červenkové, roz. Vlasákové.",
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Otec Anny Červenkové. Syn Jana Vlasáka, mlynáře v Sýkořicích č. 41, a Marie roz. Novákové z Nové Huti č. 34 (křest dcery 1870). Rodopis: „ze mlýna v Račicích“."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208"
+        "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
       ]
     },
     {
@@ -2062,13 +2068,16 @@ window.RODOKMEN = {
       line: "semenec",
       cert: "M",
       b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true,"place":"Zbečno č. p. 45"},
+      father: "martin_se",
+      mother: "barbora_hl",
       spouse: "frantisek_vl",
       notes: [
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Matka Anny Červenkové; dcera Martina Semence, podruha ze Zbečna č. 45, a Barbory, dcery Václava Hlavičky (?) ze Zbečna č. 11."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208"
+        "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
       ]
     },
     {
@@ -2371,7 +2380,8 @@ window.RODOKMEN = {
       spouse: "matej_f",
       marriage: "17. 2. 1846, Osek – s Matějem Forejtem",
       notes: [
-        "Narozena 26. 8. 1822 – podle oddacího zápisu 1846 „laut Originaltaufschein von Zerhowitz“ (křestní list z fary Cerhovice ?, panství Zbiroh), 23 let. Dcera Jana Laukoty, domkáře a obecního sluhy (?) v Oseku č. 10 (poddaný zbirožský), a Magdaleny roz. Lancíkové (?) z Drahoňova Újezdu. Křest v Drahoňově Újezdě a Zbirohu (1821–1823) nenalezen."
+        "Narozena 26. 8. 1822 – podle oddacího zápisu 1846 „laut Originaltaufschein von Zerhowitz“ (křestní list z fary Cerhovice ?, panství Zbiroh), 23 let. Dcera Jana Laukoty, domkáře a obecního sluhy (?) v Oseku č. 10 (poddaný zbirožský), a Magdaleny roz. Lancíkové (?) z Drahoňova Újezdu. Křest v Drahoňově Újezdě a Zbirohu (1821–1823) nenalezen.",
+        "Křest v Cerhovicích (Cerhovice 06, N 1812–1822, srpen 1822 a index L) nenalezen – „Zerhowitz“ v oddacím zápisu je nejspíš jiné místo."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
@@ -4911,6 +4921,66 @@ window.RODOKMEN = {
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
         "MZA Brno, O Heršpice 13144, str. 36 (1872)"
+      ]
+    },
+    {
+      id: "jan_vl",
+      name: "Jan Vlasák",
+      line: "vlasak",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      spouse: "marie_no",
+      occ: "mlynář v Sýkořicích č. 41",
+      notes: [
+        "Děd Anny Červenkové."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
+      ]
+    },
+    {
+      id: "marie_no",
+      name: "Marie Vlasáková",
+      maiden: "Nováková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true,"place":"Nová Huť č. p. 34"},
+      spouse: "jan_vl",
+      notes: [
+        "Dcera Josefa Nováka z Nové Huti č. 34."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
+      ]
+    },
+    {
+      id: "martin_se",
+      name: "Martin Semenec",
+      line: "semenec",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      spouse: "barbora_hl",
+      occ: "podruh ve Zbečně č. 45",
+      notes: [
+        "Děd Anny Červenkové."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
+      ]
+    },
+    {
+      id: "barbora_hl",
+      name: "Barbora Semencová",
+      maiden: "Hlavičková (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Zbečno č. p. 11"},
+      spouse: "martin_se",
+      notes: [
+        "Dcera Václava Hlavičky (?) ze Zbečna č. 11; čtení nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7"
       ]
     }
   ]
