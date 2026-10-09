@@ -716,18 +716,20 @@ window.RODOKMEN = {
       name: "Vladimír Hrazdílek",
       line: "hrazdilek",
       cert: "D",
-      b: {"date":"neznámé (odhad ~1912)","year":1912,"approx":true},
+      b: {"date":"neznámé (odhad ~1905; kandidát z rejstříku 1905)","year":1905,"approx":true},
       notes: [
         "Otec Heleny Zettelmannové (*1940) podle rodného listu Šárky Zettelmannové (1963).",
         "Data narození a úmrtí zatím neznámá.",
         "KANDIDÁT: v rejstříku narozených fary Slavkov u Brna je k roku 1905 „Hrazdílek Vladimír Rajmund – Heršpice – str. 184“ (MZA 13159, sn. 81); samotný zápis online není.",
-        "KANDIDÁTI na rodiče: Rajmund Hrazdílek (*31. 3. 1880), zedník v Heršpicích č. 152, nemanželský syn Františky Hrazdílkové (dcery Martina Hrazdílka, domkaře v Heršpicích, a Cecilie roz. Kirchnerové), a Marie Julinková (*4. 12. 1881, služebná v Heršpicích č. 44, dcera † Jana Julinka, podruha v Uhřicích, a Marie roz. Fabiánové; křestní list z fary Dambořice) – oddáni 20. 7. 1904 v Heršpicích (MZA, O Heršpice 13144, str. 77, sn. 41). Do stromu připojit až po výpisu z matriky.",
-        "Sňatek Vladimíra Hrazdílka a Marie Jeřábkové není v rejstříku oddaných fary Slavkov 1919–1949 ani v knize Církve čs. Slavkov 1929–1942 – nejspíš civilní nebo jinde. V rejstříku narozených jsou dvě kandidátky Marie Jeřábkové z Heršpic (1904 str. 183, 1910 str. 204)."
+        "Sňatek Vladimíra Hrazdílka a Marie Jeřábkové není v rejstříku oddaných fary Slavkov 1919–1949 ani v knize Církve čs. Slavkov 1929–1942 – nejspíš civilní nebo jinde. V rejstříku narozených jsou dvě kandidátky Marie Jeřábkové z Heršpic (1904 str. 183, 1910 str. 204).",
+        "KANDIDÁTI na rodiče: Rajmund Hrazdílek (31. 3. 1880 – 4. 2. 1935, zednický pomocník / domkář a továrenský dělník v Heršpicích č. 152 a 147), nemanželský syn Františky Hrazdílkové (dcery Martina Hrazdílka, domkaře, a Cecilie roz. Kirchnerové, † 2. 1. 1913 v Heršpicích č. 152, asi 90 let), ⚭ 20. 7. 1904 Heršpice Marie Julinková / Jelínková (*4. 12. 1881 Uhřice, dcera Jana Jelínka, podruha, a Mariany roz. Buchlovské (?)). Jejich syn Josef (*26. 4. 1913, † 14. 5. 1913, č. 152) – nepřímé indicie: Vladimírovo druhé jméno Rajmund a narození 1905. Do stromu připojit až po výpisu narození Vladimíra (N Heršpice 1905, str. 184) z matriky MÚ Slavkov u Brna."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
         "MZA Brno, Sbírka matrik, fara Slavkov u Brna, rejstřík narozených 1852–1949, sign. 13159, snímek 81 – https://www.mza.cz/actapublica/matrika/detail/1971",
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 77, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 77, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, Z Heršpice 1837–1949, sign. 13155, str. 104 (1913) a str. 131 (1935) – https://www.mza.cz/actapublica/matrika/detail/12384",
+        "MZA Brno, N Uhřice 1847–1883 (fara Dambořice), sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944"
       ]
     },
     {
