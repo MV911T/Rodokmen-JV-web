@@ -401,7 +401,7 @@ const chips = document.getElementById('chips');
 // only lines with at least 5 people get a filter chip (small lines would only clutter the legend)
 Object.entries(D.lines).forEach(([k,label])=>{
   const n = D.people.filter(p=>p.line===k).length;
-  if(n<5) return;
+  if(n<5 || k==='nezname') return;   // the 'unknown surname' pseudo-line is not a family
   const b=document.createElement('button'); b.type='button'; b.className='chip'; b.setAttribute('aria-pressed','false');
   b.innerHTML=`<span class="sw" style="background:${lineVar(k)}"></span>${label} <span style="color:var(--muted)">${n}</span>`;
   b.addEventListener('click',()=>{ active = active===k?null:k; chips.querySelectorAll('.chip').forEach(x=>x.setAttribute('aria-pressed','false')); if(active) b.setAttribute('aria-pressed','true'); applyFilter(); });
