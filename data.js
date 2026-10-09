@@ -2402,25 +2402,28 @@ window.RODOKMEN = {
       maiden: "Laukotová (Loukotová)",
       line: "loukota",
       cert: "M",
-      b: {"date":"26. 8. 1822","year":1822,"place":"Cerhovice (?)"},
+      b: {"date":"21. 9. 1822","year":1822,"place":"Drozdov č. p. 35 (fara Cerhovice)"},
       father: "jan_la",
       mother: "magdalena_la",
       spouse: "matej_f",
       marriage: "17. 2. 1846, Osek – s Matějem Forejtem",
       notes: [
-        "Narozena 26. 8. 1822 – podle oddacího zápisu 1846 „laut Originaltaufschein von Zerhowitz“ (křestní list z fary Cerhovice ?, panství Zbiroh), 23 let. Dcera Jana Laukoty, domkáře a obecního sluhy (?) v Oseku č. 10 (poddaný zbirožský), a Magdaleny roz. Lancíkové (?) z Drahoňova Újezdu. Křest v Drahoňově Újezdě a Zbirohu (1821–1823) nenalezen.",
-        "Křest v Cerhovicích (Cerhovice 06, N 1812–1822, srpen 1822 a index L) nenalezen – „Zerhowitz“ v oddacím zápisu je nejspíš jiné místo."
+        "Narozena 21. 9., pokřtěna 22. 9. 1822 v Drozdově č. 35 (fara Cerhovice): otec Jan Laukota, pastýř (?) z Drozdova, syn † Prokopa Laukoty a Anny roz. Žolibové (?); matka Magdalena, dcera Josefa Landtyngra, mistra kovářského v Drozdově, a † Magdaleny roz. Zvonařové z Drozdova. Kmotři Matěj Kotyš (?), hajný z Drozdova, Anna Myslíková (?) a Veronika Motlová, kovářka z Drozdova; bába Dorota Kůžilová (?).",
+        "ROZPOR: oddací zápis 1846 uvádí narození 26. 8. 1822 „laut Originaltaufschein von Zerhowitz“ (= fara Cerhovice) – platí křest (21. 9. 1822). Rodiče později v Oseku č. 10 (Jan Laukota, domkář a obecní sluha (?))."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
-        "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o"
+        "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
       ],
       scans: [
         {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_zenich.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 17. 2. 1846 – ženich"},
         {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_nevesta.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 1846 – nevěsta"},
-        {"f":"img/1846_oddani_anna_laukotova_datum_narozeni_osek11_sn214.jpg","t":"Oddací zápis 1846 – Anna Laukotová, narozena 26. 8. 1822 (křestní list Cerhovice)"}
+        {"f":"img/1846_oddani_anna_laukotova_datum_narozeni_osek11_sn214.jpg","t":"Oddací zápis 1846 – Anna Laukotová, narozena 26. 8. 1822 (křestní list Cerhovice)"},
+        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_a.jpg","t":"Křest Anny Laukotové, Drozdov 22. 9. 1822"},
+        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
       ]
     },
     {
@@ -2704,37 +2707,52 @@ window.RODOKMEN = {
       name: "Jan Laukota",
       line: "loukota",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"asi 1797","year":1797,"approx":true},
+      father: "prokop_la",
+      mother: "anna_zo",
       spouse: "magdalena_la",
-      occ: "domkář, obecní sluha (?) v Oseku č. 10",
+      occ: "pastýř (?) v Drozdově (1821–1822), později domkář v Oseku č. 10",
+      marriage: "6. 11. 1821, Drozdov (fara Cerhovice) – s Magdalenou Landtyngrovou",
       notes: [
-        "Otec Anny Forejtové; dal souhlas k jejímu sňatku 1846.",
-        "Křest dcery Anny (26. 8. 1822, podle oddacího zápisu 1846 „von Zer-/howitz“) nenalezen v Oseku 1822 (celý srpen), Cerhovicích, Hlohovicích, Hlohovičkách, Drahoňově Újezdě ani v obcích fary Mýto (Cheznovice, Svojkovice, Těškov, Cekov, Kařez).",
-        "Sňatek Jana Laukoty s Magdalenou nenalezen: Osek 1815–XI 1822 (všechny tři oddíly), Drahoňův Újezd I 1815–X 1822. Křest Anny není ani v Drahoňově Újezdě (srpen–září 1822 celé farnosti); „Zerhowitz“ je běžný německý tvar Cerhovic.",
-        "KANDIDÁT původu: rodina Laukotů doložena v Terešově (fara Drahoňův Újezd, panství Zbiroh) – sňatky Anny Laukotové 1811 a Kateřiny 1816; ve Vitince 1758 Jakub Laukota.",
-        "POZOR na záměnu: v Oseku č. 17 žil současně jiný pár Matěj Laukota × Magdalena roz. Wernerová (?); jejich syn Jan (*~1804) se 1826 oženil s Barborou Loserovou (?) z Oseka č. 81.",
-        "KANDIDÁT matky: 1819 se v Drahoňově Újezdě vdávala Marie Magdalena, dcera Matěje Lanzera (?), podruha z Plískova č. 27 (za Václava Kuru) – příjmení připomíná „Lancík (?)“; vazba neověřena."
+        "Oddán 6. 11. 1821 v Drozdově (fara Cerhovice) jako pastýř (?) v Drozdově, 24 let, svobodný, s Magdalenou, dcerou Josefa Landtyngra, kováře v Drozdově (24 let). Syn † Prokopa Laukoty a Anny roz. Žolibové (?) (křest dcery 1822); místo původu nejisté.",
+        "Otec Anny Forejtové (*1822); dal souhlas k jejímu sňatku 1846.",
+        "POZOR na záměnu: v Oseku č. 17 žil současně jiný pár Matěj Laukota × Magdalena roz. Wernerová (?); jejich syn Jan (*~1804) se 1826 oženil s Barborou Loserovou (?) z Oseka č. 81."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
-        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 16 (O 1812–1839), oddíl Drozdov, fol. 71, snímek 74 – https://ebadatelna.soapraha.cz/d/4559/74",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
+      ],
+      scans: [
+        {"f":"img/1821_snatek_jan_laukota_magdalena_landtyngr_drozdov_cerhovice16_sn74_a.jpg","t":"Sňatek Jana Laukoty a Magdaleny Landtyngrové, Drozdov 6. 11. 1821"},
+        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
       ]
     },
     {
       id: "magdalena_la",
       name: "Magdalena Laukotová",
-      maiden: "Lancíková (?)",
+      maiden: "Landtyngrová (Landsingerová ?)",
       line: "lancik",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Drahoňův Újezd (panství Zbiroh)"},
+      b: {"date":"asi 1797","year":1797,"approx":true,"place":"Drozdov (fara Cerhovice)"},
+      father: "josef_ld",
+      mother: "magdalena_zv",
       spouse: "jan_la",
+      marriage: "6. 11. 1821, Drozdov – s Janem Laukotou",
       notes: [
-        "Matka Anny Forejtové; čtení příjmení nejisté.",
-        "Porodní bábou v Oseku byla 18. 8. 1822 „Magdal. Laukotowa“ (Osek 09, str. 64) – osm dní před narozením Anny; spíš jiná Magdalena Laukotová (neověřeno)."
+        "Dcera Josefa Landtyngra, mistra kovářského v Drozdově, a † Magdaleny roz. Zvonařové z Drozdova; oddána 6. 11. 1821 (24 let). Dřívější čtení „Lancíková (?)“ z oddacího zápisu dcery bylo nepřesné.",
+        "Porodní bábou v Oseku byla 18. 8. 1822 „Magdal. Laukotowa“ – jiná Magdalena (tato byla tehdy v Drozdově)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
-        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 16 (O 1812–1839), oddíl Drozdov, fol. 71, snímek 74 – https://ebadatelna.soapraha.cz/d/4559/74",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
+      ],
+      scans: [
+        {"f":"img/1821_snatek_jan_laukota_magdalena_landtyngr_drozdov_cerhovice16_sn74_b.jpg","t":"Sňatek Laukota × Landtyngrová 1821 – nevěsta a svědci"},
+        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
       ]
     },
     {
@@ -5665,6 +5683,80 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o"
+      ]
+    },
+    {
+      id: "prokop_la",
+      name: "Prokop Laukota",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      d: {"date":"před 22. 9. 1822","year":1822,"approx":true},
+      spouse: "anna_zo",
+      notes: [
+        "Otec Jana Laukoty (křest vnučky Anny 1822: „† Prokop Laukota“; povolání a místo nejisté)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
+      ],
+      scans: [
+        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
+      ]
+    },
+    {
+      id: "anna_zo",
+      name: "Anna Laukotová",
+      maiden: "Žolibová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      spouse: "prokop_la",
+      notes: [
+        "Matka Jana Laukoty; rodné příjmení nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
+      ],
+      scans: [
+        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
+      ]
+    },
+    {
+      id: "josef_ld",
+      name: "Josef Landtyngr",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      spouse: "magdalena_zv",
+      occ: "mistr kovářský v Drozdově",
+      notes: [
+        "Otec Magdaleny Laukotové; v letech 1821–1822 kovář v Drozdově. Příjmení snad Landsinger."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 16 (O 1812–1839), oddíl Drozdov, fol. 71, snímek 74 – https://ebadatelna.soapraha.cz/d/4559/74",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
+      ],
+      scans: [
+        {"f":"img/1821_snatek_jan_laukota_magdalena_landtyngr_drozdov_cerhovice16_sn74_b.jpg","t":"Sňatek Laukota × Landtyngrová 1821 – nevěsta a svědci"}
+      ]
+    },
+    {
+      id: "magdalena_zv",
+      name: "Magdalena Landtyngrová",
+      maiden: "Zvonařová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      d: {"date":"před 22. 9. 1822","year":1822,"approx":true},
+      spouse: "josef_ld",
+      notes: [
+        "Matka Magdaleny Laukotové; z Drozdova."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
+      ],
+      scans: [
+        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
       ]
     }
   ]
