@@ -63,7 +63,8 @@ window.RODOKMEN = {
     "hronek": "Hronek",
     "anders": "Anders",
     "hrabovsky": "Hrabovský",
-    "krejci": "Krejčí"
+    "krejci": "Krejčí",
+    "buchlovsky": "Buchlovský"
   },
   people: [
     {
@@ -3836,11 +3837,12 @@ window.RODOKMEN = {
       name: "Františka Hrazdílková",
       line: "hrazdilek",
       cert: "M",
-      b: {"date":"neznámé (asi 1860/1861)","year":1861,"approx":true,"place":"Heršpice"},
+      b: {"date":"asi 1857 (?)","year":1857,"approx":true,"place":"Heršpice"},
       father: "martin_h",
       mother: "cecilie_ki",
       notes: [
-        "Matka Rajmunda Hrazdílka (nemanželského); v roce 1904 žila v otcovském domě v Heršpicích."
+        "Matka Rajmunda Hrazdílka (nemanželského); v roce 1904 žila v otcovském domě v Heršpicích.",
+        "Rejstřík narozených fary Slavkov: „Hrazdílek Františka – Heršpice – str. 31“ kolem roku 1857, tedy před sňatkem rodičů 1860 (nemanželská / legitimovaná ?) – zápis online není (žádost MÚ Slavkov)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
@@ -3851,7 +3853,7 @@ window.RODOKMEN = {
       name: "Martin Hrazdílek",
       line: "hrazdilek",
       cert: "M",
-      b: {"date":"asi 1827/1828","year":1828,"approx":true,"place":"Hodějice"},
+      b: {"date":"10. 11. 1827","year":1827,"place":"Hodějice č. p. 25"},
       d: {"date":"před 2. 1. 1913","year":1913,"approx":true},
       father: "jan_hr",
       mother: "apolonie_am",
@@ -3859,17 +3861,20 @@ window.RODOKMEN = {
       occ: "domkář v Heršpicích",
       marriage: "12. 2. 1860, Heršpice – s Cecilií Kirchnerovou",
       notes: [
+        "Narozen 10., pokřtěn 11. 11. 1827 v Hodějicích č. 25 (fara Slavkov); otec Jan Hrazdílek, domkář; matka Apolonie, dcera Antona Ambrose, tesaře (?) v Hodějicích. ROZPOR: otec 1827 „domkář“, 1860 „sedlák“.",
         "Oddán 12. 2. 1860 v Heršpicích jako vysloužilý voják („Militär-Abschiedner“) a nádeník v Heršpicích, 32 let, svobodný; syn † Jana Hrazdílka, sedláka v Hodějicích, a † Apolonie roz. Ambrosové (?). Svědci Jan Říha (?) a Jan Jakubík (?), domkáři z Heršpic.",
         "Později domkář v Heršpicích (č. 152); zemřel před 1913."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
         "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 104, snímek 54, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384",
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952"
       ],
       scans: [
         {"f":"img/1860_O_13144_sn10_Hrazdilek_Martin_Kirchner_Cecilie_Herspice.jpg","t":"Sňatek Martina Hrazdílka a Cecilie Kirchnerové, Heršpice 12. 2. 1860"},
-        {"f":"img/1860_O_13144_sn10_Hrazdilek_Kirchner_rodice_plne.jpg","t":"Sňatek Martina Hrazdílka a Cecilie Kirchnerové 1860 – rodiče"}
+        {"f":"img/1860_O_13144_sn10_Hrazdilek_Kirchner_rodice_plne.jpg","t":"Sňatek Martina Hrazdílka a Cecilie Kirchnerové 1860 – rodiče"},
+        {"f":"img/1827_N_13124_sn230_str26_Hrazdilek_Martin_Hodejice.jpg","t":"Křest Martina Hrazdílka, Hodějice 1827"}
       ]
     },
     {
@@ -3924,20 +3929,24 @@ window.RODOKMEN = {
     {
       id: "mariana_bu",
       name: "Mariana Jelínková",
-      maiden: "Buchlovská (?)",
+      maiden: "Buchlovská",
       line: "jelinek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1853)","year":1853,"approx":true,"place":"Uhřice"},
+      b: {"date":"6. 1. 1851","year":1851,"place":"Uhřice č. p. 30"},
+      father: "fabian_bu",
+      mother: "frantiska_be",
       spouse: "jan_je",
       notes: [
-        "Matka Marie Hrazdílkové; dcera Fabiána Buchlovského (?), domkáře v Uhřicích. V oddacím zápisu 1904 čteno „roz. Fabian … Kuklovský (?)“."
+        "Pokřtěna 6. 1. 1851 v Uhřicích č. 30 (kooperátor Josef Oderský); otec Fabián Buchlovský, čtvrtláník v Uhřicích; matka Františka, dcera Josefa Bělohoubka, čtvrtláníka v Uhřicích. Bratr Matouš (*IX 1848).",
+        "Matka Marie Hrazdílkové; sňatek s Janem Jelínkem 25. 7. 1875 (rejstřík)."
       ],
       sources: [
         "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 12, snímek 7 – https://www.mza.cz/actapublica/matrika/detail/4944"
       ],
       scans: [
-        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest Mariany Jelínkové, Uhřice 1881"}
+        {"f":"img/1851_N_Uhrice_5208_sn7_str12_Buchlovska_Mariana.jpg","t":"Křest Mariany Buchlovské, Uhřice 1851"}
       ]
     },
     {
@@ -4447,28 +4456,31 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
       d: {"date":"před 12. 2. 1860","year":1860,"approx":true},
       spouse: "apolonie_am",
-      occ: "sedlák v Hodějicích",
+      occ: "domkář (1827), sedlák (1860) v Hodějicích",
       notes: [
         "Otec Martina Hrazdílka."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952"
       ]
     },
     {
       id: "apolonie_am",
       name: "Apolonie Hrazdílková",
-      maiden: "Ambrosová (?)",
+      maiden: "Ambrosová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true},
       d: {"date":"před 12. 2. 1860","year":1860,"approx":true},
+      father: "anton_am",
       spouse: "jan_hr",
       notes: [
-        "Matka Martina Hrazdílka; čtení příjmení nejisté."
+        "Matka Martina Hrazdílka; dcera Antona Ambrose z Hodějic."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952"
       ]
     },
     {
@@ -4558,6 +4570,50 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
+      ]
+    },
+    {
+      id: "anton_am",
+      name: "Anton Ambros",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      occ: "tesař (?) v Hodějicích",
+      notes: [
+        "Otec Apolonie Hrazdílkové."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952"
+      ]
+    },
+    {
+      id: "fabian_bu",
+      name: "Fabián Buchlovský",
+      line: "buchlovsky",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      spouse: "frantiska_be",
+      occ: "čtvrtláník v Uhřicích (č. 30)",
+      notes: [
+        "Otec Mariany Jelínkové."
+      ],
+      sources: [
+        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 12, snímek 7 – https://www.mza.cz/actapublica/matrika/detail/4944"
+      ]
+    },
+    {
+      id: "frantiska_be",
+      name: "Františka Buchlovská",
+      maiden: "Bělohoubková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Uhřice"},
+      spouse: "fabian_bu",
+      notes: [
+        "Matka Mariany Jelínkové; dcera Josefa Bělohoubka, čtvrtláníka v Uhřicích."
+      ],
+      sources: [
+        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 12, snímek 7 – https://www.mza.cz/actapublica/matrika/detail/4944"
       ]
     }
   ]
