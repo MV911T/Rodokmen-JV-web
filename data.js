@@ -4661,8 +4661,8 @@ window.RODOKMEN = {
       occ: "tesař (1827), domkář, sedlák (1860) v Hodějicích",
       marriage: "20. 2. 1827, Hodějice – s Apolonií Jeřábkovou roz. Ambrosovou, vdovou",
       notes: [
-        "Narozen a pokřtěn 5. 5. 1790 v Hodějicích č. 1; otec Václav Hrazdílek, domkář, matka Magdalena Kožgelová; kmotři Anton Majer (?) a manželka Marianna. Sestra Matylda (*13. 3. 1793, č. 63). Ztotožnění se ženichem 1827: stejná matka (Magdalena Kožgelová), obec a jiný Jan Hrazdílek v Hodějicích 1789–1798 v indexu není. ROZPOR věku: při sňatku 1827 uvedeno 33 let, podle křtu 36.",
-        "Oddán 20. 2. 1827 v Hodějicích (č. 125) jako tesař z Hodějic, 33 let, svobodný; syn † Hrazdílka z Hodějic (jméno otce čteno „Jan (?)“) a Magdaleny roz. Kožgelové (dcery Pavla). Svědci Václav Roth, měšťan ze Slavkova, a Jakub Pollach z Hodějic; oddal kaplan František Peschel (?).",
+        "Narozen a pokřtěn 5. 5. 1790 v Hodějicích č. 1; otec Václav Hrazdílek, domkář, matka Magdalena Roskopalová; kmotři Anton Majer (?) a manželka Marianna. Sestra Matylda (*13. 3. 1793, č. 63). Ztotožnění se ženichem 1827 potvrzeno: oddací zápis uvádí „Sohn des † Wenzel Hrazdirek … und der Magdalena“. ROZPOR věku: při sňatku 1827 uvedeno 33 let, podle křtu 36.",
+        "Oddán 20. 2. 1827 v Hodějicích (č. 125) jako tesař z Hodějic, 33 let, svobodný; syn † Václava Hrazdílka z Hodějic a Magdaleny (dcery Pavla (?) – správně Josefa Roskopala). Svědci Václav Roth, měšťan ze Slavkova, a Jakub Pollach z Hodějic; oddal kaplan František Peschel (?).",
         "Otec Martina Hrazdílka."
       ],
       sources: [
@@ -4690,7 +4690,6 @@ window.RODOKMEN = {
       marriage: "1. sňatek 22. 4. 1816, Hodějice – s Martinem Jeřábkem; 2. sňatek 20. 2. 1827, Hodějice – s Janem Hrazdílkem",
       notes: [
         "Pokřtěna 30. 1. 1788 v Hodějicích č. 59; otec Anton Ambros, „Schullehrer (?)“, matka Marta; kmotři Josef Fajnka (?), třičtvrtník, a manželka Marianna. Bratr Felix (*30. 8. 1791, č. 41).",
-        "ROZPOR: oddací zápis 1827 uvádí matku „Theresia (?) roz. Michálková (?)“, křty 1788 a 1791 (bratr Felix) „Martha“ – platí křest.",
         "1. sňatek 22. 4. 1816 s Martinem Jeřábkem, invalidou dělostřelectva (27 let). 20. 2. 1827 se v Hodějicích jako vdova po † Martinu Jeřábkovi, domkáři v Hodějicích, 36 let, provdala za tesaře Jana Hrazdílka.",
         "Ze dvou manželství je předkem Jiřího dvakrát: z 1. manželství syn František Jeřábek st. (oddán 1842 jako „syn † Martina Jeřábka a Apolonie roz. Ambrosové (?)“), z 2. manželství syn Martin Hrazdílek (*1827). Jejich pravnuci Vladimír Hrazdílek a Marie Jeřábková se vzali 1924.",
         "Ztotožnění potvrzeno křtem syna Františka (5. 10. 1817): „Martin Jeřabek, Zimmermann – Apolonia Ambros“; kmotr Jakub Hroch (?) s Terezií jako u syna Martina Hrazdílka 1827."
@@ -5008,22 +5007,25 @@ window.RODOKMEN = {
       name: "Jan Kučera",
       line: "kucera",
       cert: "M",
-      b: {"date":"asi 1815","year":1815,"approx":true,"place":"Heršpice č. p. 40"},
+      b: {"date":"9. 5. 1816","year":1816,"place":"Heršpice č. p. 40"},
       father: "tobias_ku",
       mother: "katerina_lo",
       spouse: "veronika_sp",
       occ: "třičtvrtník v Heršpicích (č. 40)",
       marriage: "9. 7. 1837, Křenovice – s Veronikou Spačilovou",
       notes: [
-        "Oddán 9. 7. 1837 v Křenovicích jako třičtvrtník v Heršpicích (č. 40), 22 let, nezletilý (souhlas poručníka); syn † Tobiáše Kučery, třičtvrtníka v Heršpicích, a Kateřiny roz. Lobrabové (?) z Letonic (?). Svědci Dominik Kučera z Heršpic a Ondřej (?) Spačil z Křenovic.",
+        "Narozen 9., pokřtěn 10. 5. 1816 v Heršpicích č. 40; otec Tobiáš Kučera, třičtvrtník, matka Kateřina Lattrabová (?); kmotři Tomáš Zukeršek (?), celoláník z Kobeřic, a manželka Anna. Při sňatku 1837 mu bylo 21 let.",
+        "Oddán 9. 7. 1837 v Křenovicích jako třičtvrtník v Heršpicích (č. 40), 22 let, nezletilý (souhlas poručníka); syn † Tobiáše Kučery, třičtvrtníka v Heršpicích, a Kateřiny roz. Lobrabové / Lattrabové (?) z Letonic (?). Svědci Dominik Kučera z Heršpic a Ondřej (?) Spačil z Křenovic.",
         "Otec Matouše Kučery (*1844)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 419, snímek 407 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ],
       scans: [
-        {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837"}
+        {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837"},
+        {"f":"img/1816_N_13123_sn407_str419_Herspice_c40_Kucera_Johann_Tobias_Lattrab_Katharina_radek_plne_rozl.jpg","t":"Křest Jana Kučery, Heršpice 10. 5. 1816"}
       ]
     },
     {
@@ -5229,13 +5231,14 @@ window.RODOKMEN = {
         "Otec Jana Kučery."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 419, snímek 407 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ]
     },
     {
       id: "katerina_lo",
       name: "Kateřina Kučerová",
-      maiden: "Lobrabová (?)",
+      maiden: "Lobrabová / Lattrabová (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true,"place":"Letonice (?)"},
@@ -5244,7 +5247,8 @@ window.RODOKMEN = {
         "Matka Jana Kučery; dcera Jana Lobraba (?), pololáníka z Letonic (?) – čtení nejisté."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 419, snímek 407 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ]
     },
     {
@@ -5475,13 +5479,13 @@ window.RODOKMEN = {
     {
       id: "marta_am",
       name: "Marta Ambrosová",
-      maiden: "Hörmannová (?)",
+      maiden: "Michálková (?) / Hörmannová (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
       spouse: "anton_am",
       notes: [
-        "Matka Apolonie (*1788) a Felixe (*30. 8. 1791, Hodějice č. 41 – „Anton Ambroß, Lehrer (?) – Martha Hörmanin (?)“). ROZPOR: oddací zápis dcery 1827 uvádí „Theresia (?) roz. Michálková (?)“ – platí křty (dvakrát Marta)."
+        "Matka Apolonie (*1788) a Felixe (*30. 8. 1791, Hodějice č. 41). Rodné příjmení nejisté: oddací zápis dcery 1827 „Martha geb. Martin Michalek (?)“, křest 1791 „Martha Hörmanin (?)“."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, str. 69, snímek 123 – https://www.mza.cz/actapublica/matrika/detail/1950",
@@ -5500,36 +5504,42 @@ window.RODOKMEN = {
       d: {"date":"před 20. 2. 1827","year":1827,"approx":true},
       spouse: "magdalena_kz",
       occ: "domkář v Hodějicích (č. 1 v roce 1790, č. 63 v roce 1793)",
+      marriage: "29. 7. 1783, Hodějice – s Magdalenou Roskopalovou",
       notes: [
+        "Oddán 29. 7. 1783 v Hodějicích: „Hrasdilek Wenceslaus, honestus juvenis, cum honesta puella Magdalena filia Josephi Roskopal, Hodj.“; svědci Karel Rozek (?) a Jiří Billi ze Slavkova. V roce 1827 „† Wenzel Hrazdirek, Hofschaffer (?) von Hodiejitz“.",
         "Otec Jana (*1790) a Matyldy (*1793). Zemřel před sňatkem syna 1827.",
-        "V Hodějicích současně čtvrtník Vavřinec Hrazdílek × Kateřina (sňatek 1785; děti Terezie 1791, Martin 1793) – příbuznost neznámá.",
-        "Sňatek s Magdalenou Kožgelovou nenalezen v indexu oddaných 1784–1803 – asi před 1784."
+        "V Hodějicích současně čtvrtník Vavřinec Hrazdílek × Kateřina (sňatek 1785; děti Terezie 1791, Martin 1793) – příbuznost neznámá."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
-        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 206, snímek 224 – https://www.mza.cz/actapublica/matrika/detail/1950"
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 206, snímek 224 – https://www.mza.cz/actapublica/matrika/detail/1950",
+        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958"
       ],
       scans: [
-        {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"}
+        {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"},
+        {"f":"img/1783_O_13136_sn16R_Hrasdilek_Wenceslaus_Magdalena_Josephi_Roskopal_Hodejice_29-VII.jpg","t":"Sňatek Václava Hrazdílka a Magdaleny Roskopalové, Hodějice 29. 7. 1783"}
       ]
     },
     {
       id: "magdalena_kz",
       name: "Magdalena Hrazdílková",
-      maiden: "Kožgelová",
+      maiden: "Roskopalová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1762)","year":1762,"approx":true},
       spouse: "vaclav_hz",
+      marriage: "29. 7. 1783, Hodějice – s Václavem Hrazdílkem",
       notes: [
-        "Matka Jana Hrazdílka (*1790); podle oddacího zápisu syna 1827 dcera Pavla Kožgela (?)."
+        "Dcera Josefa Roskopala z Hodějic (sňatek 1783). Matka Jana (*1790) a Matyldy (*1793) – v křtech „Roßkopalin“ (dřívější čtení „Koschgelin / Kožgelová“ bylo chybné). Oddací zápis syna 1827 uvádí otce „Paul (?)“ – platí sňatek 1783 (Josef)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
-        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 206, snímek 224 – https://www.mza.cz/actapublica/matrika/detail/1950"
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 206, snímek 224 – https://www.mza.cz/actapublica/matrika/detail/1950",
+        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958"
       ],
       scans: [
-        {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"}
+        {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"},
+        {"f":"img/1783_O_13136_sn16R_Hrasdilek_Wenceslaus_Magdalena_Josephi_Roskopal_Hodejice_29-VII.jpg","t":"Sňatek Magdaleny Roskopalové a Václava Hrazdílka, Hodějice 1783"}
       ]
     },
     {
