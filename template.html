@@ -416,10 +416,10 @@ const nM = D.people.filter(p=>p.cert==='M').length;
 const documented = D.people.filter(p=>(p.cert==='M'||p.cert==='D')&&!p.b.approx);
 const oldest = documented.reduce((a,p)=>p.b.year<a.b.year?p:a);
 const meta = document.getElementById('meta');
-// number of generations back from the root (root = generation 1), computed from father/mother links
-const genDepth = (()=>{ const memo={}; const g=id=>{ if(!id||!P[id]) return 0; if(memo[id]!==undefined) return memo[id]; memo[id]=0; return memo[id]=1+Math.max(g(P[id].father),g(P[id].mother)); }; return g(D.root); })();
+// number of generations back from the root (parents = 1 generation back), computed from father/mother links
+const genDepth = (()=>{ const memo={}; const g=id=>{ if(!id||!P[id]) return 0; if(memo[id]!==undefined) return memo[id]; memo[id]=0; return memo[id]=1+Math.max(g(P[id].father),g(P[id].mother)); }; return g(D.root)-1; })();
 const genWord = n => n===1?'generace':(n>=2&&n<=4?'generace':'generací');
-meta.innerHTML = `<b>${genDepth} ${genWord(genDepth)}</b> · ${D.people.length} osob · ${nM} doloženo přímo v matrikách · nejstarší doložený předek <button type="button" class="plink" id="oldest">${oldest.name}</button> (~${oldest.b.year}) · aktualizováno ${window.RODOKMEN_BUILD||D.updated}`;
+meta.innerHTML = `<b>${genDepth} ${genWord(genDepth)} zpět</b> · ${D.people.length} osob · ${nM} doloženo přímo v matrikách · nejstarší doložený předek <button type="button" class="plink" id="oldest">${oldest.name}</button> (~${oldest.b.year}) · aktualizováno ${window.RODOKMEN_BUILD||D.updated}`;
 document.getElementById('oldest').addEventListener('click',()=>{ applyScale(Math.max(vs,0.6)); focusCard(oldest.id); });
 window.RV_focus = id => { applyScale(Math.max(vs,0.6)); focusCard(id); };
 
