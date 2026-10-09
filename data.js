@@ -4668,13 +4668,16 @@ window.RODOKMEN = {
       maiden: "Ambrosová",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1790/1791","year":1791,"approx":true,"place":"Hodějice"},
+      b: {"date":"30. 1. 1788","year":1788,"place":"Hodějice č. p. 59"},
       d: {"date":"před 12. 2. 1860","year":1860,"approx":true},
       father: "anton_am",
+      mother: "marta_am",
       spouse: "jan_hr",
-      marriage: "1. sňatek s Martinem Jeřábkem, domkářem v Hodějicích (před 1817); 2. sňatek 20. 2. 1827, Hodějice – s Janem Hrazdílkem",
+      marriage: "1. sňatek 22. 4. 1816, Hodějice – s Martinem Jeřábkem; 2. sňatek 20. 2. 1827, Hodějice – s Janem Hrazdílkem",
       notes: [
-        "Dcera Antona Ambrose, domkáře v Hodějicích, a Terezie roz. Michálkové (?). 20. 2. 1827 se v Hodějicích jako vdova po † Martinu Jeřábkovi, domkáři v Hodějicích, 36 let, provdala za tesaře Jana Hrazdílka.",
+        "Pokřtěna 30. 1. 1788 v Hodějicích č. 59; otec Anton Ambros, „Schullehrer (?)“, matka Marta; kmotři Josef Fajnka (?), třičtvrtník, a manželka Marianna. Sourozenci podle indexu: Marianna (1789), Barbora (1790), Felix (1791).",
+        "ROZPOR: oddací zápis 1827 uvádí matku „Theresia (?) roz. Michálková (?)“, křest 1788 „Martha“ – platí křest; možná druhá manželka otce.",
+        "1. sňatek 22. 4. 1816 s Martinem Jeřábkem, invalidou dělostřelectva (27 let). 20. 2. 1827 se v Hodějicích jako vdova po † Martinu Jeřábkovi, domkáři v Hodějicích, 36 let, provdala za tesaře Jana Hrazdílka.",
         "Ze dvou manželství je předkem Jiřího dvakrát: z 1. manželství syn František Jeřábek st. (oddán 1842 jako „syn † Martina Jeřábka a Apolonie roz. Ambrosové (?)“), z 2. manželství syn Martin Hrazdílek (*1827). Jejich pravnuci Vladimír Hrazdílek a Marie Jeřábková se vzali 1924.",
         "Ztotožnění potvrzeno křtem syna Františka (5. 10. 1817): „Martin Jeřabek, Zimmermann – Apolonia Ambros“; kmotr Jakub Hroch (?) s Terezií jako u syna Martina Hrazdílka 1827."
       ],
@@ -4683,11 +4686,15 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960",
-        "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Hodějice, str. 375, snímek 364 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Hodějice, str. 375, snímek 364 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 156, snímek 128 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, str. 69, snímek 123 – https://www.mza.cz/actapublica/matrika/detail/1950"
       ],
       scans: [
         {"f":"img/1827_O_13138_sn281L_Hodejice_str14_Hrazdirek_Johann_Ambros_Apolonia_vdova_Jerabek.jpg","t":"Sňatek Jana Hrazdílka a Apolonie Jeřábkové roz. Ambrosové (vdovy), Hodějice 20. 2. 1827"},
-        {"f":"img/1817_N_13123_sn364_str375_Hodejice_Jerabek_Franz_radky_pod_sebou.jpg","t":"Křest syna Františka Jeřábka, Hodějice 1817"}
+        {"f":"img/1817_N_13123_sn364_str375_Hodejice_Jerabek_Franz_radky_pod_sebou.jpg","t":"Křest syna Františka Jeřábka, Hodějice 1817"},
+        {"f":"img/1788_N_13122_sn123_str69_Hodejice_c59_Ambros_Apollonia_Anton_Martha.jpg","t":"Křest Apolonie Ambrosové, Hodějice 30. 1. 1788"},
+        {"f":"img/1816_O_13137_sn128_Hodejice_str156_Jerabek_Martin_Ambros_Apolonia.jpg","t":"První sňatek Apolonie s Martinem Jeřábkem, Hodějice 1816"}
       ]
     },
     {
@@ -4788,11 +4795,13 @@ window.RODOKMEN = {
       occ: "domkář v Hodějicích",
       notes: [
         "Otec Apolonie Hrazdílkové.",
-        "Manželka Terezie roz. Michálková (?) (sňatek dcery 1827)."
+        "Manželka Terezie roz. Michálková (?) (sňatek dcery 1827).",
+        "Při křtu dcery Apolonie 1788 „Schullehrer (?)“ (čtení nejisté), Hodějice č. 59; manželka Marta (1788)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, str. 69, snímek 123 – https://www.mza.cz/actapublica/matrika/detail/1950"
       ]
     },
     {
@@ -4936,23 +4945,26 @@ window.RODOKMEN = {
       name: "Josef Hrabovský",
       line: "hrabovsky",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1818)","year":1818,"approx":true,"place":"Hodějice (?)"},
+      b: {"date":"8. 5. 1819","year":1819,"place":"Hodějice č. p. 59"},
       father: "jiri_hb",
       mother: "magdalena_si",
       spouse: "frantiska_ma",
       occ: "3/4láník v Heršpicích",
       marriage: "9. 2. 1841, Heršpice – s Františkou Maláčovou",
       notes: [
+        "Narozen a pokřtěn 8. 5. 1819 v Hodějicích č. 59; otec Jiří Hrabovský, čtvrtník, matka Magdalena Šimoník (?); kmotři Matěj Svoboda, čtvrtník z Křižanovic, a manželka Anna.",
         "Oddán 9. 2. 1841 v Heršpicích (č. 59/4) jako třičtvrtník (?) v Heršpicích, nezletilý – souhlas otce Jiřího Hrabovského, třičtvrtníka v Hodějicích (?); matka Magdalena roz. Šimánková (?).",
         "Otec Magdaleny Jeřábkové."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387",
         "MZA Brno, O Heršpice 13144, str. 74 (1902)",
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 378, snímek 367 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ],
       scans: [
-        {"f":"img/1841_O_13138_sn343L_Herspice_str46_Hrabovsky_Josef_Malacova_Frantiska.jpg","t":"Sňatek Josefa Hrabovského a Františky Maláčové, Heršpice 1841"}
+        {"f":"img/1841_O_13138_sn343L_Herspice_str46_Hrabovsky_Josef_Malacova_Frantiska.jpg","t":"Sňatek Josefa Hrabovského a Františky Maláčové, Heršpice 1841"},
+        {"f":"img/1819_N_13123_sn367_str378_Hodejice_c59_Hrabovsky_Josef_Georg_Schimonik_Magdalena.jpg","t":"Křest Josefa Hrabovského, Hodějice 8. 5. 1819"}
       ]
     },
     {
@@ -5061,11 +5073,13 @@ window.RODOKMEN = {
       spouse: "jakub_sv",
       marriage: "23. 5. (?) 1841, Heršpice – s Jakubem Svobodou",
       notes: [
-        "Dcera † Pavla Láníčka, domkáře v Heršpicích, a Magdaleny roz. Willamové (dcery Františka Willama, čtvrtníka); při sňatku 1841 19 let (?)."
+        "Dcera † Pavla Láníčka, domkáře v Heršpicích, a Magdaleny roz. Willamové (dcery Františka Willama, čtvrtníka); při sňatku 1841 19 let (?).",
+        "Pravděpodobně pokřtěna 17./18. 1. 1812 v Heršpicích č. 28 – „Paul Lanitschek, Inmann – Magdalena Wilam“, kmotři Jakub Tichý a Kateřina (čteno jen z montáže, řádek v plném rozlišení neověřen); pak by jí 1841 bylo 29 let."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 412, snímek 400 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ],
       scans: [
         {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841"}
@@ -5236,18 +5250,22 @@ window.RODOKMEN = {
       name: "Martin Jeřábek",
       line: "jerabek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      b: {"date":"asi 1774","year":1774,"approx":true},
       d: {"date":"před 20. 2. 1827","year":1827,"approx":true},
       spouse: "apolonie_am",
-      occ: "tesař, domkář v Hodějicích",
+      occ: "invalida c. k. dělostřelectva, tesař, domkář v Hodějicích",
       notes: [
-        "Otec Františka Jeřábka st.",
-        "Zemřel před 20. 2. 1827 (vdova Apolonie se znovu vdala)."
+        "Oddán 22. 4. 1816 v Hodějicích (č. 41) jako „Invalid von dem k. k. Artillerie Regiment“, 42 let, svobodný, s Apolonií Ambrosovou (27); svědci Jakub Hroch (?), třičtvrtník, a Matěj Kügner (?), podruh. Rodiče ženicha neuvedeni.",
+        "Zemřel před 20. 2. 1827 (vdova Apolonie se znovu vdala). Synové Jan (*1816) a František (*1817)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960",
-        "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Hodějice, str. 375, snímek 364 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Hodějice, str. 375, snímek 364 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 156, snímek 128 – https://www.mza.cz/actapublica/matrika/detail/1959"
+      ],
+      scans: [
+        {"f":"img/1816_O_13137_sn128_Hodejice_str156_Jerabek_Martin_Ambros_Apolonia.jpg","t":"Sňatek Martina Jeřábka a Apolonie Ambrosové, Hodějice 22. 4. 1816"}
       ]
     },
     {
@@ -5289,18 +5307,19 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
       spouse: "magdalena_si",
-      occ: "třičtvrtník v Hodějicích (?)",
+      occ: "čtvrtník (1819), třičtvrtník (1841) v Hodějicích",
       notes: [
         "Otec Josefa Hrabovského; v roce 1841 žil."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 378, snímek 367 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ]
     },
     {
       id: "magdalena_si",
       name: "Magdalena Hrabovská",
-      maiden: "Šimánková (?)",
+      maiden: "Šimoníková / Šimánková (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
@@ -5309,7 +5328,8 @@ window.RODOKMEN = {
         "Matka Josefa Hrabovského; dcera Martina Šimánka (?) z Hodějic."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 378, snímek 367 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ]
     },
     {
@@ -5428,6 +5448,20 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316"
+      ]
+    },
+    {
+      id: "marta_am",
+      name: "Marta Ambrosová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      spouse: "anton_am",
+      notes: [
+        "Matka Apolonie Ambrosové (křest 1788). ROZPOR: oddací zápis dcery 1827 uvádí „Theresia (?) roz. Michálková (?)“."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, str. 69, snímek 123 – https://www.mza.cz/actapublica/matrika/detail/1950"
       ]
     }
   ]
