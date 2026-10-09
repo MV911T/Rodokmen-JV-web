@@ -53,7 +53,9 @@ window.RODOKMEN = {
     "koc": "Koč",
     "pollak": "Pollak",
     "stadler": "Stádler",
-    "igla": "Igla (?)"
+    "igla": "Igla (?)",
+    "popp": "Popp",
+    "pitr": "Pitr"
   },
   people: [
     {
@@ -669,12 +671,13 @@ window.RODOKMEN = {
       b: {"date":"11. 8. 1908","year":1908,"place":"Dobešov"},
       d: {"date":"15. 11. 1988","year":1988,"place":"Budišov nad Budisovkou"},
       spouse: "ludmila_b",
-      marriage: "30. 5. 1930, Veřovice – s Ludmilou Blažkovou",
+      marriage: "24. 5. 1930 (matrika) / 30. 5. 1930 (Orsak), Veřovice – s Františkem Zettelmannem",
       notes: [
         "Otec Františka Zettelmanna (*1940) podle rodného listu Šárky Zettelmannové (1963).",
         "Narození v Dobešově, sňatek ve Veřovicích a úmrtí v Budišově podle rodokmenu T. H. Orsaka.",
         "Děti podle Orsaka: Božena (*1929), Josef (1931–2015, Leonberg), Eliška (1932–1989), Marie (1933–2002), Ludmila (*1936), František (1940–1999), Rudolf (*1943), Olin (*1951).",
-        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách.",
+        "ROZPOR v datu sňatku: 24. 5. (přípisek v matrice) × 30. 5. 1930 (Orsak)."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
@@ -686,20 +689,25 @@ window.RODOKMEN = {
       name: "Ludmila Zettelmannová",
       maiden: "Blažková",
       line: "blazek",
-      cert: "D",
+      cert: "M",
       b: {"date":"25. 9. 1903","year":1903,"place":"Veřovice"},
       d: {"date":"12. 9. 1986","year":1986,"place":"Vítkov"},
       father: "jan_bl",
       mother: "anezka_c",
-      marriage: "30. 5. 1930, Veřovice – s Františkem Zettelmannem",
+      marriage: "24. 5. 1930 (matrika) / 30. 5. 1930 (Orsak), Veřovice – s Františkem Zettelmannem",
       notes: [
+        "Narozena 25. 9., pokřtěna 27. 9. 1903 ve Veřovicích č. 296; kmotři Vincenc Blažek (strýc) a Marie Černochová (teta).",
+        "ROZPOR v datu sňatku: přípisek v křestní matrice „sezd. 24. 5. 1930 s Zettelmanem Frant.“, Orsak uvádí 30. 5. 1930 – ověřit v oddací knize Veřovice (NJ XIV 13).",
         "Matka Františka Zettelmanna (*1940) podle rodného listu Šárky Zettelmannové (1963).",
-        "Nejstarší z jedenácti dětí Jana Blažka a Anežky Černochové z Veřovic (Orsak).",
-        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+        "Nejstarší z jedenácti dětí Jana Blažka a Anežky Černochové z Veřovic (Orsak)."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
-        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1903_N_Ludmila_Blazkova_Verovice.jpg","t":"Křest Ludmily Blažkové, Veřovice 1903 (přípisek o sňatku 1930)"}
       ]
     },
     {
@@ -1094,23 +1102,28 @@ window.RODOKMEN = {
       name: "Josef Klika",
       line: "klika",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1855)","year":1855,"approx":true},
+      b: {"date":"2. (?) 10. 1834","year":1834,"place":"Suchomasty č. p. 14"},
       d: {"date":"před 24. 5. 1903","year":1903,"approx":true},
       father: "frantisek_kl",
       mother: "anna_sv",
       spouse: "marie_s",
       occ: "nádeník v Býkoši č. 38",
+      marriage: "10. 2. 1874, Suchomasty – s Marií Svobodovou",
       notes: [
-        "Otec Karla Kliky. Syn † Františka Kliky, domkáře ze Suchomast č. 14, a † Anny roz. Svobodové ze Suchomast č. 14 (křest syna 1880). V roce 1903 už nežil."
+        "Otec Karla Kliky. Syn † Františka Kliky, domkáře ze Suchomast č. 14, a † Anny roz. Svobodové ze Suchomast č. 14 (křest syna 1880). V roce 1903 už nežil.",
+        "Oddán 10. 2. 1874 v Suchomastech (č. 21) jako nádeník ze Suchomast č. 14, 39 let, svobodný; svědci Václav Jansa, rolník ze Suchomast č. 54, a František Klecka, mistr sedlářský. Datum narození podle křestní knihy citované v oddacím zápise."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28"
       ],
       scans: [
         {"f":"img/1880_krest_karel_klika_bykos_a.jpg","t":"Křest Karla Kliky, Býkoš 1880"},
-        {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"}
+        {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"},
+        {"f":"img/1874_snatek_josef_klika_suchomasty_a.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové, Suchomasty 10. 2. 1874"},
+        {"f":"img/1874_snatek_josef_klika_suchomasty_b.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové 1874 – svědci, data narození"}
       ]
     },
     {
@@ -1119,21 +1132,26 @@ window.RODOKMEN = {
       maiden: "Svobodová",
       line: "svoboda",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1858)","year":1858,"approx":true},
+      b: {"date":"21. 1. 1848","year":1848,"place":"Suchomasty č. p. 21"},
       father: "vaclav_sv",
       mother: "magdalena_st",
       spouse: "josef_k",
+      marriage: "10. 2. 1874, Suchomasty – s Josefem Klikou",
       notes: [
-        "Matka Karla Kliky, ze Suchomast č. 21. Dcera Václava Svobody, domkáře ze Suchomast č. 21, a † Magdaleny, nemanželské dcery Ludmily Stádlerové ze Suchomast."
+        "Matka Karla Kliky, ze Suchomast č. 21. Dcera Václava Svobody, domkáře ze Suchomast č. 21, a † Magdaleny, nemanželské dcery Ludmily Stádlerové ze Suchomast.",
+        "Při sňatku 1874 26 let; její babička Ludmila Stádlerová byla dcerou † Jana Stádlera, mistra polního (?) z Tetína (?)."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28"
       ],
       scans: [
         {"f":"img/1880_krest_karel_klika_bykos_a.jpg","t":"Křest Karla Kliky, Býkoš 1880"},
-        {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"}
+        {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"},
+        {"f":"img/1874_snatek_josef_klika_suchomasty_a.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové, Suchomasty 10. 2. 1874"},
+        {"f":"img/1874_snatek_josef_klika_suchomasty_b.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové 1874 – svědci, data narození"}
       ]
     },
     {
@@ -1294,23 +1312,33 @@ window.RODOKMEN = {
       name: "Karel Čapek",
       line: "capek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      b: {"date":"2. 11. 1829","year":1829,"place":"Hrubý Jeseník č. p. 48"},
       father: "jan_c",
       mother: "marie_cc",
       spouse: "marie_o",
       occ: "domkář v Rabakově č. 19, okr. Sobotka",
+      marriage: "3. 3. 1851, Hrubý Jeseník – s Marií Otovou",
       notes: [
-        "Domkář v Rabakově č. 19 (okres Sobotecký). Syn † Jana Čapka, familianta v Jeseníku č. 48, a † Marie roz. Čapkové z Jeseníka (křest syna Josefa 1874)."
+        "Narozen 2. 11., pokřtěn 3. 11. 1829 v Hrubém Jeseníku č. 48 („Carolus Borrom.“); otec Jan Čapek, familiant; matka Marie, dcera † Karla Čapka, chalupníka z Jeseníka č. 30. Kmotři Václav Dubský (?), chalupník č. 35, a Jan Borovička z č. 44.",
+        "Oddán 3. 3. 1851 v Hrubém Jeseníku (č. 74) jako familiant v Jeseníku č. 70, 21 let; souhlas dal otec Jan Čapek, výměnkář. Po dispenzu podkrajského úřadu v Nymburce jen jedna ohláška.",
+        "Později domkář v Rabakově č. 19 (okres Sobotka), kde se mu 1874 narodil syn Josef.",
+        "KANDIDÁT – děti podle rejstříku křtů Řitonice (nečteno): Marie 1862, Václav 1865, Antonín 1867, Anna 1871."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
-        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
         {"f":"img/1874_krest_josef_capek_rabakov_a.jpg","t":"Křest Josefa Čapka, Rabakov 1874"},
-        {"f":"img/1874_krest_josef_capek_rabakov_b.jpg","t":"Křest Josefa Čapka, Rabakov 1874 – rodiče"}
+        {"f":"img/1874_krest_josef_capek_rabakov_b.jpg","t":"Křest Josefa Čapka, Rabakov 1874 – rodiče"},
+        {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"},
+        {"f":"img/1851_snatek_karel_capek_hruby_jesenik_b.jpg","t":"Sňatek Karla Čapka a Marie Otové 1851 – svědci, souhlas otců"},
+        {"f":"img/1829_krest_karel_capek_hruby_jesenik_a.jpg","t":"Křest Karla Čapka, Hrubý Jeseník 1829"},
+        {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"}
       ]
     },
     {
@@ -1319,21 +1347,25 @@ window.RODOKMEN = {
       maiden: "Otová",
       line: "ota",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Krchleby č. p. 53, okr. Nymburk"},
+      b: {"date":"15. 12. 1830 (?)","year":1830,"place":"Krchleby"},
       father: "vaclav_o",
       mother: "katerina_ma",
       spouse: "karel_c",
+      marriage: "3. 3. 1851, Hrubý Jeseník – s Karlem Čapkem",
       notes: [
-        "Matka Josefa Čapka; dcera † Václava Oty, sedláka z Krchleb č. 53, a Kateřiny roz. Málkové z Krchleb."
+        "Matka Josefa Čapka; dcera Václava Oty (1851 familiant v Jeseníku č. 74, 1874 † sedlák v Krchlebích č. 53) a Kateřiny roz. Málkové z Krchleb. Datum narození podle přípisu v oddacím zápise 1851."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
-        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242"
       ],
       scans: [
         {"f":"img/1874_krest_josef_capek_rabakov_a.jpg","t":"Křest Josefa Čapka, Rabakov 1874"},
-        {"f":"img/1874_krest_josef_capek_rabakov_b.jpg","t":"Křest Josefa Čapka, Rabakov 1874 – rodiče"}
+        {"f":"img/1874_krest_josef_capek_rabakov_b.jpg","t":"Křest Josefa Čapka, Rabakov 1874 – rodiče"},
+        {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"},
+        {"f":"img/1851_snatek_karel_capek_hruby_jesenik_b.jpg","t":"Sňatek Karla Čapka a Marie Otové 1851 – svědci, souhlas otců"}
       ]
     },
     {
@@ -2044,16 +2076,20 @@ window.RODOKMEN = {
       name: "Václav Ota",
       line: "ota",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true},
       d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
       spouse: "katerina_ma",
-      occ: "sedlák v Krchlebích č. 53, okr. Nymburk",
+      occ: "familiant v Hrubém Jeseníku č. 74 (1851), sedlák v Krchlebích č. 53",
       notes: [
         "Otec Marie Čapkové, roz. Otové."
       ],
       sources: [
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
-        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242"
+      ],
+      scans: [
+        {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"}
       ]
     },
     {
@@ -2214,12 +2250,19 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
       d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
       spouse: "marie_cc",
-      occ: "familiant v Jeseníku č. 48",
+      occ: "familiant v Hrubém Jeseníku č. 48 (1829), výměnkář (1851)",
       notes: [
-        "Otec Karla Čapka."
+        "Otec Karla Čapka; familiant v Jeseníku č. 48, 1851 výměnkář. V roce 1874 už nežil."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163"
+      ],
+      scans: [
+        {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"},
+        {"f":"img/1829_krest_karel_capek_hruby_jesenik_a.jpg","t":"Křest Karla Čapka, Hrubý Jeseník 1829"},
+        {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"}
       ]
     },
     {
@@ -2228,14 +2271,20 @@ window.RODOKMEN = {
       maiden: "Čapková",
       line: "capek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true,"place":"Jeseník"},
+      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true,"place":"Jeseník"},
       d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
+      father: "karel_c0",
       spouse: "jan_c",
       notes: [
-        "Matka Karla Čapka; rodem rovněž Čapková z Jeseníka."
+        "Matka Karla Čapka; dcera † Karla Čapka, chalupníka z Jeseníka č. 30 (křest syna 1829)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163"
+      ],
+      scans: [
+        {"f":"img/1829_krest_karel_capek_hruby_jesenik_a.jpg","t":"Křest Karla Čapka, Hrubý Jeseník 1829"},
+        {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"}
       ]
     },
     {
@@ -2244,7 +2293,7 @@ window.RODOKMEN = {
       maiden: "Málková",
       line: "malek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Krchleby"},
+      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true,"place":"Krchleby"},
       spouse: "vaclav_o",
       notes: [
         "Matka Marie Čapkové, roz. Otové."
@@ -2575,17 +2624,26 @@ window.RODOKMEN = {
       id: "jan_bl",
       name: "Jan Blažek",
       line: "blazek",
-      cert: "D",
+      cert: "M",
       b: {"date":"11. 9. 1874","year":1874,"place":"Veřovice"},
       d: {"date":"28. 7. 1954","year":1954,"place":"Veřovice"},
+      father: "antonin_bl",
+      mother: "monika_pi",
       spouse: "anezka_c",
       marriage: "17. 9. 1901, Veřovice – s Anežkou Černochovou",
       notes: [
-        "Pohřben ve Veřovicích.",
-        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+        "Oddán 17. 9. 1901 ve Veřovicích (č. 260, farář Jan Halouzka), 27 let; syn Antonína Blažka, kováře z Veřovic, a Moniky (nemanželské dcery Marianny Pitrové, podruhyně, dcery Jiřího Pitra, domkaře z Veřovic). 1903 dělník.",
+        "Matriční údaje Veřovic potvrzují rodokmen T. H. Orsaka.",
+        "Pohřben ve Veřovicích."
       ],
       sources: [
-        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901"},
+        {"f":"img/1903_N_Ludmila_Blazkova_Verovice.jpg","t":"Křest Ludmily Blažkové, Veřovice 1903 (přípisek o sňatku 1930)"}
       ]
     },
     {
@@ -2593,37 +2651,54 @@ window.RODOKMEN = {
       name: "Anežka Blažková",
       maiden: "Černochová",
       line: "cernoch",
-      cert: "D",
+      cert: "M",
       b: {"date":"11. 6. 1879","year":1879,"place":"Veřovice"},
       d: {"date":"15. 5. 1943","year":1943,"place":"Veřovice"},
       father: "tomas_c",
       mother: "magdalena_g",
       marriage: "17. 9. 1901, Veřovice – s Janem Blažkem",
       notes: [
+        "Narozena 11. 6., pokřtěna 12. 6. 1879 ve Veřovicích č. 198; kmotři Jan Matuš a Maria Černochová. Přípisek „† 15/5. 1943“.",
+        "Matriční údaje Veřovic potvrzují rodokmen T. H. Orsaka.",
         "Děti podle Orsaka: Ludmila (1903), Jindřich (1905–1971), Čeněk (1907–1946), Růžena (1909–1987), Jaroslav (1912–1988), Adéla (1914–1991), Karel (1919–1995), Františka (1921–2002), Jan (1923–1952), Anežka (1926–1998).",
-        "Pohřbena ve Veřovicích.",
-        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+        "Pohřbena ve Veřovicích."
       ],
       sources: [
-        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1879_N_Anezka_Cernochova_Verovice.jpg","t":"Křest Anežky Černochové, Veřovice 1879"},
+        {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901"},
+        {"f":"img/1903_N_Ludmila_Blazkova_Verovice.jpg","t":"Křest Ludmily Blažkové, Veřovice 1903 (přípisek o sňatku 1930)"}
       ]
     },
     {
       id: "tomas_c",
       name: "Tomáš Černoch",
       line: "cernoch",
-      cert: "D",
+      cert: "M",
       b: {"date":"20. 9. 1846","year":1846,"place":"Veřovice"},
       d: {"date":"20. 5. 1902","year":1902,"place":"Veřovice"},
+      father: "jan_ce",
+      mother: "mariana_po",
       spouse: "magdalena_g",
       marriage: "8. 11. 1869, Veřovice – s Magdalenou Grozmanovou",
       notes: [
+        "Oddán 8. 11. 1869 ve Veřovicích jako chalupník z č. 89, 23 let, nezletilý (souhlas dal otec); syn Jana Černocha, chalupníka z Veřovic, a Mariany roz. Poppové. Svědci František Barton, chalupník, a František Kocián, sedlák. 1879 domkář v č. 198.",
+        "Matriční údaje Veřovic potvrzují rodokmen T. H. Orsaka.",
         "Kmenová osoba rodokmenu „Descendants of Tomas Cernoch“ (T. H. Orsak, 2018), který vede přes 600 jeho potomků v Česku i v Texasu.",
-        "Měl s Magdalenou 13 dětí, z nichž šest zemřelo v dětství.",
-        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+        "Měl s Magdalenou 13 dětí, z nichž šest zemřelo v dětství."
       ],
       sources: [
-        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"},
+        {"f":"img/1879_N_Anezka_Cernochova_Verovice.jpg","t":"Křest Anežky Černochové, Veřovice 1879"}
       ]
     },
     {
@@ -2631,17 +2706,25 @@ window.RODOKMEN = {
       name: "Magdalena Černochová",
       maiden: "Grozmanová",
       line: "grozman",
-      cert: "D",
+      cert: "M",
       b: {"date":"16. 2. 1850","year":1850,"place":"Veřovice"},
       d: {"date":"4. 7. 1911","year":1911,"place":"Veřovice"},
+      father: "josef_gr",
+      mother: "anna_ce",
       spouse: "tomas_c",
       marriage: "8. 11. 1869, Veřovice – s Tomášem Černochem",
       notes: [
-        "Pohřbena ve Veřovicích.",
-        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách."
+        "Při sňatku 1869 (19 let, dům č. 52) svobodná dcera Josefa Grozmana, zahradníka z Veřovic, a Anny roz. Černochové (dcery Františka Černocha, chalupníka). Její bratr Jan Grozman (*~1856) se 1901 ženil s dispenzem z pokrevenství III. stupně.",
+        "Pohřbena ve Veřovicích."
       ],
       sources: [
-        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"},
+        {"f":"img/1879_N_Anezka_Cernochova_Verovice.jpg","t":"Křest Anežky Černochové, Veřovice 1879"}
       ]
     },
     {
@@ -3004,11 +3087,13 @@ window.RODOKMEN = {
       line: "stadler",
       cert: "M",
       b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true,"place":"Suchomasty"},
+      father: "jan_sta",
       notes: [
-        "Matka Magdaleny Svobodové."
+        "Matka Magdaleny Svobodové (nemanželské dcery); dcera † Jana Stádlera, mistra polního (?) z Tetína (?)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28"
       ]
     },
     {
@@ -3139,6 +3224,169 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1878_Z_Votava_Anna_Frantisek_Sous_otec_Frantisek.jpg","t":"Úmrtí Anny a Františka Votavových, Souš 1878"}
       ]
+    },
+    {
+      id: "karel_c0",
+      name: "Karel Čapek",
+      line: "capek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      d: {"date":"před 3. 11. 1829","year":1829,"approx":true},
+      occ: "chalupník v Hrubém Jeseníku č. 30",
+      notes: [
+        "Otec Marie Čapkové (manželky Jana Čapka) – oba rody Čapků z Hrubého Jeseníka."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163"
+      ]
+    },
+    {
+      id: "jan_sta",
+      name: "Jan Stádler",
+      line: "stadler",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      occ: "mistr polní (?), Tetín (?)",
+      notes: [
+        "Otec Ludmily Stádlerové; čtení povolání a místa nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28"
+      ]
+    },
+    {
+      id: "jan_ce",
+      name: "Jan Černoch",
+      line: "cernoch",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      spouse: "mariana_po",
+      occ: "chalupník (domkař) ve Veřovicích",
+      notes: [
+        "Otec Tomáše Černocha; dal souhlas k jeho sňatku 1869."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"}
+      ]
+    },
+    {
+      id: "mariana_po",
+      name: "Mariana Černochová",
+      maiden: "Poppová",
+      line: "popp",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Veřovice"},
+      spouse: "jan_ce",
+      notes: [
+        "Matka Tomáše Černocha; dcera Josefa Poppa, chalupníka z Veřovic."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "josef_gr",
+      name: "Josef Grozman",
+      line: "grozman",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      spouse: "anna_ce",
+      occ: "zahradník ve Veřovicích",
+      notes: [
+        "Otec Magdaleny Černochové; dal souhlas k jejímu sňatku 1869."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"}
+      ]
+    },
+    {
+      id: "anna_ce",
+      name: "Anna Grozmanová",
+      maiden: "Černochová",
+      line: "cernoch",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Veřovice"},
+      spouse: "josef_gr",
+      notes: [
+        "Matka Magdaleny; dcera Františka Černocha, chalupníka z Veřovic – Tomáš a Magdalena byli tedy nejspíš příbuzní (ve Veřovicích bylo víc rodin Černochů)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "antonin_bl",
+      name: "Antonín Blažek",
+      line: "blazek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      spouse: "monika_pi",
+      occ: "kovář ve Veřovicích",
+      notes: [
+        "Otec Jana Blažka; syn Vincenc byl kmotrem vnučky Ludmily (1903)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "monika_pi",
+      name: "Monika Blažková",
+      maiden: "Pitrová",
+      line: "pitr",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Veřovice"},
+      mother: "marianna_pi",
+      spouse: "antonin_bl",
+      notes: [
+        "Matka Jana Blažka; nemanželská dcera Marianny Pitrové, podruhyně z Veřovic."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "marianna_pi",
+      name: "Marianna Pitrová",
+      line: "pitr",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Veřovice"},
+      father: "jiri_pi",
+      occ: "podruhyně ve Veřovicích",
+      notes: [
+        "Svobodná dcera Jiřího Pitra, domkaře z Veřovic."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "jiri_pi",
+      name: "Jiří Pitr",
+      line: "pitr",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      occ: "domkař ve Veřovicích",
+      notes: [
+        "Otec Marianny Pitrové."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+      ]
     }
   ]
 };
@@ -3151,7 +3399,7 @@ window.RODOKMEN.places = [
 ];
 window.RODOKMEN.story = [
   {"line":"votava","title":"Votavovi","text":["Votavové pocházejí z Pacovska. Martin Votava byl nádeníkem v Jetřichovicích, jeho syn Jan nádeníkem v Těchobuzi, kde se roku 1836 narodil Štěpán. Štěpán sloužil jako jízdní dělostřelec, roku 1865 se oženil s Antonií Michalovou ze sedlácké usedlosti Těchobuz č. 19 a pak byl panským kočím na zámku v Pravoníně, kde se mu roku 1868 narodil syn Václav. Domovské právo měla rodina v Těchobuzi.","Podle rodinné tradice přišel Václav (*1868) jako malý chlapec na Mostecko, kde se otvíraly uhelné šachty; horníkem v Souši byl i jeho otec Štěpán. Václav se oženil s Barborou Lodlovou, dcerou souškého horníka, a dožil se 95 let. Jeho syn Václav (*1899) se narodil v Souši a byl také horníkem. Domovské právo v Těchobuzi mu v roce 1940 pomohlo, aby ho úřady v zabraném pohraničí považovaly za Čecha.","Barbora Lodlová pocházela z hornické rodiny v Oseku u Rokycan; Lodlovi i Forejtovi tam byli havíři. Kolem roku 1890 odešli za prací do mosteckých dolů – do Souše, kde se Barbora roku 1894 vdala za Václava Votavu.","Roku 1924 se Václav (*1899) oženil v Mostě s Janou Čapkovou z Mladé Boleslavi, jejíž rodiče pak žili v Komořanech u Mostu. Měli čtyři děti: Jiřího (*1926), Vlastu (*1927), Václava (*1933) a Vladimíra (*1942). Václav (*1933), chemik, se roku 1956 oženil v Kolíně s Annou Červenkovou ze Suchomast a jejich syn Jan se narodil roku 1957 v Berouně.","Po válce, roku 1945, navštívil rodinu v Mostě bratranec – major armády USA, vnuk Štěpána Votavy z větve, která se vystěhovala do Ameriky."],"lines":["votava","lodl","forejt","capek","fukal","ota","snajdr","michal","aubrecht","holub","loukota"]},
-  {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek","cernoch","grozman"],"title":"Zettelmannovi a Hrazdílkovi","text":["Matčina linie vede do Veřovic pod Beskydy. Tomáš Černoch (1846–1902) a Magdalena Grozmanová tam měli třináct dětí; dcera Anežka se roku 1901 provdala za Jana Blažka a jejich nejstarší dcera Ludmila (1903–1986) si roku 1930 vzala Františka Zettelmanna z Dobešova.","Zettelmannovi žili na Oderských vrších – v Dobešově, Loučkách, Jeseníku nad Odrou a v Polouvsí, kde se roku 1940 narodil František. Ten si roku 1961 vzal Helenu Hrazdílkovou z Heršpic u Slavkova; v roce 1963 žili v Karviné, kde se narodila dcera Šárka.","Nejmladší sestra Anežky, Ludmila Černochová, odešla do Texasu. Její potomek Tim H. Orsak sestavil roku 2018 velký rodokmen potomků Tomáše Černocha, ze kterého tato část pochází (údaje se ještě ověřují v matrikách)."]},
+  {"line":"zettelmann","lines":["zettelmann","hrazdilek","blazek","jerabek","cernoch","grozman","popp","pitr"],"title":"Zettelmannovi a Hrazdílkovi","text":["Matčina linie vede do Veřovic pod Beskydy. Tomáš Černoch (1846–1902) a Magdalena Grozmanová tam měli třináct dětí; dcera Anežka se roku 1901 provdala za Jana Blažka a jejich nejstarší dcera Ludmila (1903–1986) si roku 1930 vzala Františka Zettelmanna z Dobešova.","Zettelmannovi žili na Oderských vrších – v Dobešově, Loučkách, Jeseníku nad Odrou a v Polouvsí, kde se roku 1940 narodil František. Ten si roku 1961 vzal Helenu Hrazdílkovou z Heršpic u Slavkova; v roce 1963 žili v Karviné, kde se narodila dcera Šárka.","Nejmladší sestra Anežky, Ludmila Černochová, odešla do Texasu. Její potomek Tim H. Orsak sestavil roku 2018 velký rodokmen potomků Tomáše Černocha; veřovické matriky jeho údaje potvrzují a doplňují o další generaci (Černochovi, Poppovi, Grozmanovi, Blažkovi a Pitrovi)."]},
   {"line":"cervenka","lines":["cervenka","klika","valenta","vlasak","svoboda","divis","merhaut","skala","kalous","holicky","zyma","drapal","novy","semenec"],"title":"Červenkovi a Klikovi","text":["Červenkové byli po pět generací rolníky ve Hředlích č. p. 37 u Žebráka. Nejstarší známý předek Václav Červenka (asi 1674–1730) se roku 1696 oženil v Žebráku s Dorotou Novou z Chlustiny. Linie pokračuje přes Pavla (1716), dva Jakuby (1750, 1789) a Matěje (1825).","Matějův syn Václav (1868–1938) se usadil jako rolník v Berouně na Lištici a oženil se s Annou Vlasákovou z mlynářské rodiny z Račic u Zbečna. Z jejich pěti synů je nejmladší Karel (*1906) děd Jana Votavy.","Karel Červenka se v lednu 1933 oženil v kostele sv. Mikuláše v Borku u Suchomast s Annou Klikovou. Její otec Karel Klika (*1880) byl dělník z Býkoše; roku 1903 si vzal Rosinu (Růženu) Valentovou, nemanželskou dceru Anny Valentové z Čepiroh (Tschöppern) u Mostu.","Linie do 17. století pochází z rodinného strojopisného rodopisu; jednotlivé údaje se ještě ověřují v matrikách."]}
 ];
 window.RODOKMEN.timeline = [
