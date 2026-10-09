@@ -16,7 +16,7 @@ const warn = (p, msg) => out.push(['WARN', p ? p.id : '-', msg]);
 // 4-digit years mentioned in a date string (e.g. "cca 1870–1874" -> [1870, 1874])
 const yearsIn = s => (String(s || '').match(/\b(1[5-9]\d\d|20\d\d)\b/g) || []).map(Number);
 // exact = date given to the day (d. m. yyyy)
-const isExact = e => !!(e && /\b\d{1,2}\.\s*\d{1,2}\.\s*\d{4}\b/.test(e.date || '') && !/před|po |cca|nejspíš|\?|–/.test(e.date || ''));
+const isExact = e => !!(e && /\b\d{1,2}\.\s*\d{1,2}\.\s*\d{4}\b/.test(e.date || '') && !/před|po |mezi|cca|nejspíš|\?|–/.test(e.date || ''));
 const by = e => (e && e.year) || null;
 
 const children = {};

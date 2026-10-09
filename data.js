@@ -42,7 +42,7 @@ window.RODOKMEN = {
     "malek": "Málek",
     "mraz": "Mráz",
     "sulc": "Šulc",
-    "lezak": "Lezák / Trgjk (?)",
+    "lezak": "Trgjk",
     "lancik": "Lancík (?)",
     "mrkva": "Mrkva (?)",
     "kriz": "Kříž (?)",
@@ -719,11 +719,14 @@ window.RODOKMEN = {
       notes: [
         "Otec Heleny Zettelmannové (*1940) podle rodného listu Šárky Zettelmannové (1963).",
         "Data narození a úmrtí zatím neznámá.",
-        "KANDIDÁT: v rejstříku narozených fary Slavkov u Brna je k roku 1905 „Hrazdílek Vladimír Rajmund – Heršpice – str. 184“ (MZA, sign. 13159, snímek 81); druhé jméno ukazuje na syna Rajmunda Hrazdílka, domkáře v Heršpicích (manželka Marie roz. Jelínková (?)). Samotný zápis (kniha narození Heršpice po 1856) online není – ověřit výpisem z matriky."
+        "KANDIDÁT: v rejstříku narozených fary Slavkov u Brna je k roku 1905 „Hrazdílek Vladimír Rajmund – Heršpice – str. 184“ (MZA 13159, sn. 81); samotný zápis online není.",
+        "KANDIDÁTI na rodiče: Rajmund Hrazdílek (*31. 3. 1880), zedník v Heršpicích č. 152, nemanželský syn Františky Hrazdílkové (dcery Martina Hrazdílka, domkaře v Heršpicích, a Cecilie roz. Kirchnerové), a Marie Julinková (*4. 12. 1881, služebná v Heršpicích č. 44, dcera † Jana Julinka, podruha v Uhřicích, a Marie roz. Fabiánové; křestní list z fary Dambořice) – oddáni 20. 7. 1904 v Heršpicích (MZA, O Heršpice 13144, str. 77, sn. 41). Do stromu připojit až po výpisu z matriky.",
+        "Sňatek Vladimíra Hrazdílka a Marie Jeřábkové není v rejstříku oddaných fary Slavkov 1919–1949 ani v knize Církve čs. Slavkov 1929–1942 – nejspíš civilní nebo jinde. V rejstříku narozených jsou dvě kandidátky Marie Jeřábkové z Heršpic (1904 str. 183, 1910 str. 204)."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
-        "MZA Brno, Sbírka matrik, fara Slavkov u Brna, rejstřík narozených 1852–1949, sign. 13159, snímek 81 – https://www.mza.cz/actapublica/matrika/detail/1971"
+        "MZA Brno, Sbírka matrik, fara Slavkov u Brna, rejstřík narozených 1852–1949, sign. 13159, snímek 81 – https://www.mza.cz/actapublica/matrika/detail/1971",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 77, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/12387"
       ]
     },
     {
@@ -2365,50 +2368,60 @@ window.RODOKMEN = {
       name: "Martin Lodl",
       line: "lodl",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      b: {"date":"asi 1778","year":1778,"approx":true},
       d: {"date":"před 6. 9. 1849","year":1849,"approx":true},
       spouse: "katerina_le",
       occ: "mistr ševcovský v Oseku č. 75",
-      marriage: "7. 2. 1804, Osek – s Kateřinou",
+      marriage: "1) 7. 2. 1804, Osek – s Kateřinou Trgjkovou; 2) 9. 9. 1814, Osek – s Annou, vdovou po Jakubu Laukotovi",
       notes: [
         "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Brück (?)“; svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
         "Otec Pavla Lodla (*1811); švec v č. 84 (1811), později mistr ševcovský v č. 75.",
-        "KANDIDÁT: rejstřík oddaných Osek po 1809 uvádí i „83. Lodl Martin s Annau Laukotowau … str. 43“ – nečteno; jiný Martin Lodl, nebo druhý sňatek po roce 1811."
+        "Podruhé oddán 9. 9. 1814 v Oseku (č. 84) jako švec, 36 let, vdovec; nevěsta Anna (35), vdova po † Jakubu Laukotovi, pastýři, dcera Šimona Holuby (?) z Oseku č. 83 – čtení rodičů nevěsty nejisté.",
+        "KANDIDÁT: Jakub Laukota mohl být otcem Jana Laukoty (otce Anny Forejtové *1822) – obě rodiny Lodl a Laukota by tak byly spojené už 1814."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n",
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 31, snímek 17 – https://www.portafontium.eu/iipimage/30066673/osek-07_0170-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 31, snímek 17 – https://www.portafontium.eu/iipimage/30066673/osek-07_0170-o",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 43, snímek 23 – https://www.portafontium.eu/iipimage/30066673/osek-07_0230-o"
       ],
       scans: [
         {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
         {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"},
-        {"f":"img/1804_oddani_martin_lodl_katerina_osek.jpg","t":"Sňatek Martina Lodla a Kateřiny, Osek 7. 2. 1804"}
+        {"f":"img/1804_oddani_martin_lodl_katerina_osek.jpg","t":"Sňatek Martina Lodla a Kateřiny, Osek 7. 2. 1804"},
+        {"f":"img/1814_oddani_martin_lodl_anna_osek.jpg","t":"Druhý sňatek Martina Lodla, Osek 9. 9. 1814"}
       ]
     },
     {
       id: "katerina_le",
       name: "Kateřina Lodlová",
-      maiden: "Lezáková / Trgjková (?)",
+      maiden: "Trgjková",
       line: "lezak",
       cert: "M",
-      b: {"date":"asi 1783","year":1783,"approx":true},
-      d: {"date":"před 6. 9. 1849","year":1849,"approx":true},
+      b: {"date":"30. 6. 1782","year":1782,"place":"Osek u Rokycan č. p. 83"},
+      d: {"date":"mezi 1811 a 9. 9. 1814","year":1813,"approx":true},
+      father: "simon_tr",
+      mother: "anna_tr",
       spouse: "martin_l1",
       marriage: "7. 2. 1804, Osek – s Martinem Lodlem",
       notes: [
-        "Matka Pavla Lodla; selská dcera, při sňatku 1804 21 let. V křtu syna 1811 dcera † Jakuba a † Magdaleny.",
-        "ROZPOR / nejisté příjmení: v oddacím zápise a rejstříku (1801, 1804) „Trgjk“ / „Trgeßkin (?)“, v pozdějších zápisech čteno „Lezák (?)“ – totéž jméno v jiném přepisu, nebo chybné čtení; zatím nerozhodnuto."
+        "Pokřtěna 30. 6. 1782 v Oseku č. 83; otec Šimon Trgjk, matka Anna. Sestra Barbora (*19. 5. 1784, č. 83).",
+        "Při sňatku 1804 21 let, selská dcera. Zemřela mezi lednem 1811 a zářím 1814 (manžel se 1814 znovu oženil).",
+        "ROZPOR: křest syna Pavla 1811 uvádí rodiče „† Šimona (dříve čteno Jakuba) a † Mag…“ – platí křest 1782 (Anna).",
+        "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n",
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 31, snímek 17 – https://www.portafontium.eu/iipimage/30066673/osek-07_0170-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 31, snímek 17 – https://www.portafontium.eu/iipimage/30066673/osek-07_0170-o",
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n"
       ],
       scans: [
         {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
         {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"},
-        {"f":"img/1804_oddani_martin_lodl_katerina_osek.jpg","t":"Sňatek Martina Lodla a Kateřiny, Osek 7. 2. 1804"}
+        {"f":"img/1804_oddani_martin_lodl_katerina_osek.jpg","t":"Sňatek Martina Lodla a Kateřiny, Osek 7. 2. 1804"},
+        {"f":"img/1782_krest_katerina_trgjk_osek.jpg","t":"Křest Kateřiny Trgjkové, Osek 30. 6. 1782"},
+        {"f":"img/prijmeni_trgjk_srovnani.jpg","t":"Srovnání příjmení Trgjk v zápisech 1801–1849"}
       ]
     },
     {
@@ -2437,7 +2450,7 @@ window.RODOKMEN = {
     {
       id: "marianna_le",
       name: "Veronika Forejtová",
-      maiden: "Lezáková / Trgjková (?)",
+      maiden: "Trgjková",
       line: "lezak",
       cert: "M",
       b: {"date":"asi 1783","year":1783,"approx":true,"place":"Volduchy"},
@@ -2445,9 +2458,9 @@ window.RODOKMEN = {
       spouse: "josef_f",
       marriage: "27. 11. 1801, Osek – s Josefem Forejtem",
       notes: [
-        "Matka Matěje Forejta; dcera Josefa, sedláka z Volduch č. 67, a Doroty (křest syna 1823). Jméno Veronika potvrzeno třemi zápisy (1823, 1846, 1848) – dřívější čtení „Marianna“ bylo chybné (kurentní W × M).",
-        "Při sňatku 1801 18 let.",
-        "ROZPOR / nejisté příjmení: v oddacím zápise a rejstříku (1801, 1804) „Trgjk“ / „Trgeßkin (?)“, v pozdějších zápisech čteno „Lezák (?)“ – totéž jméno v jiném přepisu, nebo chybné čtení; zatím nerozhodnuto."
+        "Matka Matěje Forejta; dcera Josefa Trgjka, sedláka z Volduch č. 67, a Doroty (křest syna 1823). Jméno Veronika potvrzeno třemi zápisy (1823, 1846, 1848).",
+        "Při sňatku 1801 18 let. Křest zatím nenalezen (Osek 05, 1782–1784 bez výsledku).",
+        "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
@@ -2457,19 +2470,21 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"},
-        {"f":"img/1801_oddani_josef_forejt_veronika_osek.jpg","t":"Sňatek Josefa Forejta a Veroniky, Osek 27. 11. 1801"}
+        {"f":"img/1801_oddani_josef_forejt_veronika_osek.jpg","t":"Sňatek Josefa Forejta a Veroniky, Osek 27. 11. 1801"},
+        {"f":"img/prijmeni_trgjk_srovnani.jpg","t":"Srovnání příjmení Trgjk v zápisech 1801–1849"}
       ]
     },
     {
       id: "josef_le",
-      name: "Josef Lezák / Trgjk (?)",
+      name: "Josef Trgjk",
       line: "lezak",
       cert: "M",
       b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
       spouse: "dorota_v",
       occ: "sedlák ve Volduchách č. 67",
       notes: [
-        "Otec Marianny Forejtové; čtení příjmení nejisté."
+        "Otec Veroniky Forejtové; sedlák z Volduch č. 67.",
+        "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
@@ -3112,14 +3127,13 @@ window.RODOKMEN = {
     },
     {
       id: "dorota_v",
-      name: "Dorota Lezáková",
+      name: "Dorota Trgjková",
       line: "lezak",
       cert: "M",
       b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true,"place":"Volduchy"},
       spouse: "josef_le",
       notes: [
-        "Babička Matěje Forejta; rodné příjmení nečitelné (…ová z Volduch).",
-        "ROZPOR / nejisté příjmení: v oddacím zápise a rejstříku (1801, 1804) „Trgjk“ / „Trgeßkin (?)“, v pozdějších zápisech čteno „Lezák (?)“ – totéž jméno v jiném přepisu, nebo chybné čtení; zatím nerozhodnuto."
+        "Babička Matěje Forejta; rodné příjmení nečitelné."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
@@ -3400,6 +3414,40 @@ window.RODOKMEN = {
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "simon_tr",
+      name: "Šimon Trgjk",
+      line: "lezak",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      d: {"date":"před 1811","year":1811,"approx":true},
+      spouse: "anna_tr",
+      occ: "sedlák (?) v Oseku č. 83",
+      notes: [
+        "Otec Kateřiny Lodlové.",
+        "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n"
+      ],
+      scans: [
+        {"f":"img/1782_krest_katerina_trgjk_osek.jpg","t":"Křest Kateřiny Trgjkové, Osek 30. 6. 1782"}
+      ]
+    },
+    {
+      id: "anna_tr",
+      name: "Anna Trgjková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      spouse: "simon_tr",
+      notes: [
+        "Matka Kateřiny Lodlové; rodné příjmení neuvedeno."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n"
       ]
     }
   ]
