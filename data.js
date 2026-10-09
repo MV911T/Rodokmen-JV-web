@@ -5685,7 +5685,8 @@ window.RODOKMEN = {
       spouse: "barbora_fp",
       occ: "Volduchy",
       notes: [
-        "Otec Víta Forejta; v roce 1772 žil (Volduchy)."
+        "Otec Víta Forejta; v roce 1772 žil (Volduchy).",
+        "V květnu 1741 ještě svobodný (družba na svatbě Anny Forejtové, dcery † Martina Forejta z Volduch); sňatek s Barborou tedy mezi V 1741 a IX 1745 – ve faře Osek 1740–1745 není, asi ve faře nevěsty."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, snímek 3 – https://www.portafontium.eu/iipimage/30066673/osek-07_0030-o",
@@ -5708,7 +5709,7 @@ window.RODOKMEN = {
       notes: [
         "Oddán 3. 11. 1744 v Oseku jako „počtivý mládenec Matouš Čada, vlastní syn Pavla Čady z Volduch“, s Evou Holubovou, dcerou † Matěje Holuba z Oseka; družba Jan Andrle z Volduch.",
         "Děti: Barbora (1745), Jakub (1747), dvojčata Adam a Eva (1750) – v Oseku; Martin (1751) a Kateřina (1754) – ve Volduchách. V oddacím zápisu dcery 1771 „Mattheus Czada, rusticus Wolduchensis“. Pozor: ve Volduchách současně žil Matěj Čada.",
-        "KANDIDÁT úmrtí: 22. 6. 1780 ve Volduchách č. 69 „Czada Math., Bauer“, 72 let – „Math.“ může být i Matěj."
+        "KANDIDÁT úmrtí: 22. 6. 1780 ve Volduchách č. 69 „Czada Math., Bauer“, 72 let – „Math.“ může být i Matěj. V domě 69 po 1780 hospodařil mladší „Math.“ Čada (syn Jan † 1788); úmrtí Matouše 1784–VI 1788 nenalezeno."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o",
@@ -5856,7 +5857,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
       occ: "Volduchy",
       notes: [
-        "Otec Matouše Čady (sňatek 1744)."
+        "Otec Matouše Čady (sňatek 1744).",
+        "Dcera Markéta se v květnu 1741 provdala za Víta Nového z Oseka; družbou Václav Čada (asi syn). Matěj Čada z Volduch (sňatek 1740) byl syn Jana (?) Čady – jiná rodina."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o"
