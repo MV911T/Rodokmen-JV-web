@@ -5252,16 +5252,22 @@ window.RODOKMEN = {
       name: "Martin Semenec",
       line: "semenec",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      b: {"date":"asi 1808","year":1808,"approx":true,"place":"Zbečno"},
       father: "frantisek_sm",
       spouse: "barbora_hl",
       occ: "chalupník ve Zbečně č. 45 (1838), podruh (1869)",
+      marriage: "6. 11. 1827, Zbečno – s Kateřinou Wašíkovou (?)",
       notes: [
-        "Děd Anny Červenkové."
+        "Děd Anny Červenkové.",
+        "Oddán 6. 11. 1827 ve Zbečně (č. 45) jako podruh (?), 19 (?) let, svobodný, syn † Františka Semence ze Zbečna a Ludmily roz. Hlavičkové (?) z Krawna (?) č. 4; nevěsta Kateřina, dcera Václava Wašíka (?) ze Zbečna č. 11 a Anny roz. Pšan… (?), 24 let."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25"
+      ],
+      scans: [
+        {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"}
       ]
     },
     {
@@ -5270,15 +5276,21 @@ window.RODOKMEN = {
       maiden: "Wašíková (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Zbečno č. p. 11"},
+      b: {"date":"asi 1803","year":1803,"approx":true,"place":"Zbečno č. p. 11"},
+      father: "vaclav_ws",
       spouse: "martin_se",
+      marriage: "6. 11. 1827, Zbečno – s Martinem Semencem",
       notes: [
-        "Matka Marie Vlasákové; dcera Václava Wašíka (?) (1869 čteno „Vojtíšek (?)“), domkáře ve Zbečně č. 11, a Anny. Dřívější „Barbora, dcera Václava Hlavičky“ (křest vnučky 1870) bylo chybné čtení – Hlavičková byla babička Ludmila."
+        "Dcera Václava Wašíka (?), domkáře ve Zbečně č. 11, a Anny roz. Pšan… (?); oddána 6. 11. 1827 (24 let). Rodné příjmení Wašík (?) v zápisech 1827, 1833 (bratr František) a 1838 shodně; čtení „Vojtíšek“ (1869) a „Barbora Hlavičková“ (1870) byla chybná."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25"
+      ],
+      scans: [
+        {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"}
       ]
     },
     {
@@ -6158,9 +6170,11 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      d: {"date":"před 6. 11. 1827","year":1827,"approx":true},
       occ: "chalupník ve Zbečně č. 6",
       notes: [
-        "Otec Martina Semence; manželka Ludmila roz. Hlavičková (křest vnučky Marie 1838)."
+        "Otec Martina Semence; manželka Ludmila roz. Hlavičková (křest vnučky Marie 1838).",
+        "Zemřel před sňatkem syna Martina (1827). KANDIDÁT: 19. 11. 1816 se ve Zbečně oženil „Franz Semenetz, Chaluppner, Sohn des Franz u. Rosalia Semenetz, Zbečno No. 45“, 35 let (vdovec ?), s Barborou Hamannovou (?) – možná týž František po smrti 1. ženy Ludmily."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130"
@@ -6184,6 +6198,23 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1805_O_13137_sn71_str78_Spacil_Frantisek_x_Marianna_Andreas_Zrunek_plne_rozl.jpg","t":"Sňatek Františka Spačila a Marianny Zrůnkové (?), Křenovice 7. 5. 1805"}
+      ]
+    },
+    {
+      id: "vaclav_ws",
+      name: "Václav Wašík (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      occ: "domkář ve Zbečně č. 11",
+      notes: [
+        "Otec Kateřiny Semencové (sňatek 1827) a Františka (sňatek 1833); manželka Anna roz. Pšan… (?). Příjmení nejisté (Wašík / Vašík ?)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25"
+      ],
+      scans: [
+        {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"}
       ]
     }
   ]
