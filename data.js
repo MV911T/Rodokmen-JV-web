@@ -3212,18 +3212,24 @@ window.RODOKMEN = {
       maiden: "Kočová",
       line: "koc",
       cert: "M",
-      b: {"date":"asi 1809/1810","year":1810,"approx":true,"place":"Těchobuz"},
+      b: {"date":"13. 4. 1809","year":1809,"place":"Těchobuz č. p. 13"},
       d: {"date":"1. 10. 1866","year":1866,"place":"Těchobuz č. p. 13"},
       father: "martin_ko",
+      mother: "terezie_ko",
       spouse: "jan_v",
       notes: [
+        "Pokřtěna 13. 4. 1809 v Těchobuzi č. 13: otec Martin Koč, sedlák, matka Terezie roz. Tür…/Für… (?) z Těchobuze; křtil kaplan Ondřej Juna (?). Sourozenci: Ludmila (1805), Marie (1807), Antonie Anna (1811), Vojtěch (1813), Jan (1816 † 1818).",
         "Druhá manželka Jana Votavy (sňatek 6. 2. 1844, 34 let), Štěpánova macecha. Dcera † Martina Koče, bývalého sedláka v Těchobuzi č. 13, a † Terezie roz. Fürstové (?) z Hlavňova (?).",
         "Zemřela jako vdova 1. 10. 1866 v Těchobuzi č. 13, sešlostí věkem."
       ],
       sources: [
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 236, snímek 243 – https://digi.ceskearchivy.cz/8826",
-        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35, snímek 46 – https://digi.ceskearchivy.cz/127651"
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35, snímek 46 – https://digi.ceskearchivy.cz/127651",
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (kn. 8824), fol. 33, snímek 35 – https://digi.ceskearchivy.cz/8824"
+      ],
+      scans: [
+        {"f":"img/1809_krest_Kocova_Katerina_Techobuz13_otec_Martin_matka_Terezie_8824_sn35_full.jpg","t":"Křest Kateřiny Kočové, Těchobuz 13. 4. 1809"}
       ]
     },
     {
@@ -5790,20 +5796,26 @@ window.RODOKMEN = {
       name: "Martin Koč",
       line: "koc",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      b: {"date":"asi 1782","year":1782,"approx":true,"place":"Těchobuz č. p. 13"},
       d: {"date":"před 6. 2. 1844","year":1844,"approx":true},
       father: "tomas_ko",
+      spouse: "terezie_ko",
       occ: "sedlák v Těchobuzi č. 13",
+      marriage: "XI 1804, Těchobuz – s Terezií Tür…/Für… (?)",
       notes: [
+        "Oddán v listopadu 1804 v Těchobuzi jako syn Tomáše Koče, sedláka z Těchobuze (č. 13), 22 let; nevěsta Terezie z č. 47, dcera Kristiána (?) Tür…/Für… (?), brusiče (?) z těchobuzské fabriky, 20 let.",
         "Otec Kateřiny Kočové (oddací zápis 1844: „dcera † Martina Koče, bývalého sedláka v Těchobuzi č. 13, a † Terezie roz. Fürstové (?)“).",
         "Podle protokolu z 3. 3. 1817 mu otec Tomáš Koč postoupil a prodal selský grunt č. 13 za 2222 zl.; sourozenci podle podílů: František (200 zl.), Kateřina (?) a provdaná sestra (Hejtmanková ?)."
       ],
       sources: [
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35, snímek 46 – https://digi.ceskearchivy.cz/127651",
-        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35v–36, snímek 47 – https://digi.ceskearchivy.cz/127651"
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35v–36, snímek 47 – https://digi.ceskearchivy.cz/127651",
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (kn. 8824), oddíl O, snímek 7 – https://digi.ceskearchivy.cz/8824",
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (kn. 8824), fol. 33, snímek 35 – https://digi.ceskearchivy.cz/8824"
       ],
       scans: [
-        {"f":"img/Techobuz_rustik_pk_127651_sn46R_fol35_dole_1817_odpis_Tomas_Koc_synu_Martinovi.jpg","t":"Pozemková kniha Těchobuz 1817: Tomáš Koč postupuje grunt č. 13 synovi Martinovi"}
+        {"f":"img/Techobuz_rustik_pk_127651_sn46R_fol35_dole_1817_odpis_Tomas_Koc_synu_Martinovi.jpg","t":"Pozemková kniha Těchobuz 1817: Tomáš Koč postupuje grunt č. 13 synovi Martinovi"},
+        {"f":"img/1804_oddani_Koc_Martin_Terezie_Techobuz13_47_8824_sn7_full.jpg","t":"Sňatek Martina Koče a Terezie, Těchobuz XI 1804"}
       ]
     },
     {
@@ -5816,12 +5828,14 @@ window.RODOKMEN = {
       notes: [
         "Kupní smlouvou s vrchností z 2. 5. 1796 (týž den jako Jakub Michal) koupil selský statek Těchobuz č. 13 (24 jiter 1088 sáhů polí) za 500 zl., závdavek 55 zl.",
         "Protokolem z 3. 3. 1817 postoupil grunt synovi Martinovi za 2222 zl., sám si vymínil 431 zl. (výminek nečten).",
-        "Výminek z r. 1817 uvádí jen jeho samotného (vdovec ?); vymazán podle protokolu z 25. 1. 1823 – asi zemřel před tímto datem (K)."
+        "Výminek z r. 1817 uvádí jen jeho samotného (vdovec ?); 14. 1. 1818 ještě žil (úmrtí syna Františka, 32 let, „syn Tomáše Koča, výminkáře“); výminek vymazán podle protokolu z 25. 1. 1823 – zemřel asi 1818–1822 (v rejstříku zemřelých fary Zhoř 1817–1827 není).",
+        "Děti podle rejstříku: František (1785, † 1818), Klára (1788), Anna (1790), Josefa (1792), Josef (1796), a Martin (*~1782)."
       ],
       sources: [
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 33, snímek 44 – https://digi.ceskearchivy.cz/127651",
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35, snímek 46 – https://digi.ceskearchivy.cz/127651",
-        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35v–36, snímek 47 – https://digi.ceskearchivy.cz/127651"
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 35v–36, snímek 47 – https://digi.ceskearchivy.cz/127651",
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (kn. 8824), Z fol. 22, snímek 79 – https://digi.ceskearchivy.cz/8824"
       ],
       scans: [
         {"f":"img/Techobuz_rustik_pk_127651_sn46R_fol35_dole_1817_odpis_Tomas_Koc_synu_Martinovi.jpg","t":"Pozemková kniha Těchobuz 1817: postup gruntu č. 13 synovi Martinovi"}
@@ -6519,6 +6533,27 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1789_N_13122_sn226_str216_Herspice4_Malac_Valentin_krest_plne_rozl.jpg","t":"Křest syna Valentina, Heršpice 1789"}
+      ]
+    },
+    {
+      id: "terezie_ko",
+      name: "Terezie Kočová",
+      maiden: "Fürstová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"asi 1784","year":1784,"approx":true},
+      spouse: "martin_ko",
+      marriage: "XI 1804, Těchobuz – s Martinem Kočem",
+      notes: [
+        "Dcera Kristiána (?) Tür…/Für… (?) z těchobuzské fabriky (č. 47); oddána XI 1804 (20 let). Matka Kateřiny Kočové (*1809). ROZPOR: oddací zápis dcery 1844 uvádí „† Terezie roz. Fürstová (?) z Hlavňova (?)“ – otec 1804 Kristián z fabriky Těchobuz."
+      ],
+      sources: [
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (kn. 8824), oddíl O, snímek 7 – https://digi.ceskearchivy.cz/8824",
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (kn. 8824), fol. 33, snímek 35 – https://digi.ceskearchivy.cz/8824"
+      ],
+      scans: [
+        {"f":"img/1804_oddani_Koc_Martin_Terezie_Techobuz13_47_8824_sn7_full.jpg","t":"Sňatek Martina Koče a Terezie, Těchobuz XI 1804"},
+        {"f":"img/1809_krest_Kocova_Katerina_Techobuz13_otec_Martin_matka_Terezie_8824_sn35_full.jpg","t":"Křest Kateřiny Kočové, Těchobuz 13. 4. 1809"}
       ]
     }
   ]
