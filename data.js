@@ -61,7 +61,8 @@ window.RODOKMEN = {
     "kirchner": "Kirchner",
     "kucera": "Kučera",
     "hronek": "Hronek",
-    "anders": "Anders"
+    "anders": "Anders",
+    "hrabovsky": "Hrabovský"
   },
   people: [
     {
@@ -3907,17 +3908,22 @@ window.RODOKMEN = {
       name: "Alois Jeřábek",
       line: "jerabek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1875)","year":1875,"approx":true},
+      b: {"date":"24. ? 1873","year":1873,"place":"Heršpice"},
+      father: "frantisek_je",
+      mother: "magdalena_hb",
       spouse: "veronika_ku",
-      occ: "domkář v Heršpicích (č. 37)",
+      occ: "tovární dělník (1902), domkář v Heršpicích (č. 31, později č. 37)",
+      marriage: "4. 8. 1902, Heršpice – s Veronikou Kučerovou",
       notes: [
+        "Oddán 4. 8. 1902 v Heršpicích (farář Václav Uhýrek) jako tovární dělník a záložník zemské obrany, 28 let, Heršpice č. 31; manželský syn Františka Jeřábka, domkaře v Heršpicích, a Magdaleny roz. Hrabovské (dcery Josefa Hrabovského, 3/4láníka v Heršpicích). Snoubenci byli příbuzní – dispenz z překážky příbuzenství III. stupně (biskupská konzistoř Brno 20. 7. 1902). Svědci František Kučera, 3/4láník, a Jan Šimáček, kostelník ve Slavkově.",
         "Otec Marie Hrazdílkové; dal souhlas k jejímu sňatku 1924 a podepsal se."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 74, snímek 40 – https://www.mza.cz/actapublica/matrika/detail/12387"
       ],
       scans: [
-        {"f":"img/1924_O_Hrazdilek_Vladimir_Jerabkova_Marie_Herspice_str104_cely.jpg","t":"Sňatek Vladimíra Hrazdílka a Marie Jeřábkové, Heršpice 5. 5. 1924"}
+        {"f":"img/1902_O_Jerabek_Alois_Kucerova_Veronika_Herspice_str74.jpg","t":"Sňatek Aloise Jeřábka a Veroniky Kučerové, Heršpice 4. 8. 1902"}
       ]
     },
     {
@@ -3926,14 +3932,20 @@ window.RODOKMEN = {
       maiden: "Kučerová",
       line: "kucera",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1878)","year":1878,"approx":true,"place":"Heršpice"},
+      b: {"date":"13. 1. 1875","year":1875,"place":"Heršpice č. p. 37"},
       father: "matous_ku",
+      mother: "anezka_sv",
       spouse: "alois_je",
+      marriage: "4. 8. 1902, Heršpice – s Aloisem Jeřábkem",
       notes: [
-        "Matka Marie Hrazdílkové; dcera Matouše Kučery, domkaře v Heršpicích."
+        "Při sňatku 1902 v otcovském domě Heršpice č. 37, 27 let; manželská dcera Matouše Kučery, domkaře v Heršpicích, a Anežky roz. Svobodové (dcery Jakuba Svobody, čtvrtláníka v Heršpicích). Sestra snad Františka (⚭ 1903 Jan Kolofík)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 74, snímek 40 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ],
+      scans: [
+        {"f":"img/1902_O_Jerabek_Alois_Kucerova_Veronika_Herspice_str74.jpg","t":"Sňatek Aloise Jeřábka a Veroniky Kučerové, Heršpice 4. 8. 1902"}
       ]
     },
     {
@@ -3942,12 +3954,14 @@ window.RODOKMEN = {
       line: "kucera",
       cert: "M",
       b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      spouse: "anezka_sv",
       occ: "domkář v Heršpicích",
       notes: [
         "Otec Veroniky Jeřábkové."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 74, snímek 40 – https://www.mza.cz/actapublica/matrika/detail/12387"
       ]
     },
     {
@@ -4319,6 +4333,51 @@ window.RODOKMEN = {
       sources: [
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "frantisek_je",
+      name: "František Jeřábek",
+      line: "jerabek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      spouse: "magdalena_hb",
+      occ: "domkář v Heršpicích",
+      notes: [
+        "Otec Aloise Jeřábka; v roce 1902 žil."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 74, snímek 40 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "magdalena_hb",
+      name: "Magdalena Jeřábková",
+      maiden: "Hrabovská",
+      line: "hrabovsky",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Heršpice"},
+      spouse: "frantisek_je",
+      notes: [
+        "Matka Aloise Jeřábka; dcera Josefa Hrabovského, 3/4láníka v Heršpicích."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 74, snímek 40 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "anezka_sv",
+      name: "Anežka Kučerová",
+      maiden: "Svobodová",
+      line: "kucera",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1850)","year":1850,"approx":true,"place":"Heršpice"},
+      spouse: "matous_ku",
+      notes: [
+        "Matka Veroniky Jeřábkové; dcera Jakuba Svobody, čtvrtláníka v Heršpicích."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 74, snímek 40 – https://www.mza.cz/actapublica/matrika/detail/12387"
       ]
     }
   ]
