@@ -1201,12 +1201,13 @@ window.RODOKMEN = {
       spouse: "marie_po",
       occ: "nádeník v Čepirohách č. 20 (1877, 1903)",
       notes: [
-        "Děd Rosiny Valentové; příslušný do „Wirschen / Kirschen (?)“, okres Manětín (Plzeňsko) – odtud rodina pochází."
+        "Děd Rosiny Valentové; příslušný do Březína (Wirschin) u Nečtin, okres Manětín (fara Nečtiny, Porta fontium). V rejstřících fary Nečtiny pro Březín (O 1788–1860, N 1789–1862) Valentovi nejsou – sňatek a děti asi až po 1862 nebo jinde. V Březíně č. 33 žil 1858 tesař Anton Walenta – KANDIDÁT příbuzného."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
-        "SOA Litoměřice, Sbírka matrik (NAD 856), fara Slatinice (Deutsch-Zlatnik), sign. 148/9 (N 1875–1885), oddíl Tschöppern, pag. 10/11, snímek 165"
+        "SOA Litoměřice, Sbírka matrik (NAD 856), fara Slatinice (Deutsch-Zlatnik), sign. 148/9 (N 1875–1885), oddíl Tschöppern, pag. 10/11, snímek 165",
+        "SOA Plzeň, fara Nečtiny, rejstřík N/O/Z 1784–1863 (Nečtiny 25), oddíl Wirschin – https://www.portafontium.eu/iipimage/30066190"
       ],
       scans: [
         {"f":"img/1877_N_Valentova_Rosina_Cepirohy_jmeno_datum.jpg","t":"Křest Rosiny Valentové, Čepirohy 8. 1. 1877"},
@@ -3069,14 +3070,15 @@ window.RODOKMEN = {
       maiden: "Pollaková",
       line: "pollak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1828)","year":1828,"approx":true,"place":"„Wirschen / Kirschen (?)“ č. 16, okres Manětín"},
+      b: {"date":"neznámé (odhad ~1828)","year":1828,"approx":true,"place":"Březín (Wirschin) č. p. 16, okr. Manětín"},
       spouse: "vital_v",
       notes: [
-        "Babička Rosiny Valentové; z obce „Wirschen / Kirschen (?)“ č. 16 v okrese Manětín – čtení obce nejisté."
+        "Babička Rosiny Valentové, z Březína (Wirschin) č. 16 u Nečtin. V rejstříku narozených Březína 1785–1861 Pollakové nejsou."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
-        "SOA Litoměřice, Sbírka matrik (NAD 856), fara Slatinice (Deutsch-Zlatnik), sign. 148/9 (N 1875–1885), oddíl Tschöppern, pag. 10/11, snímek 165"
+        "SOA Litoměřice, Sbírka matrik (NAD 856), fara Slatinice (Deutsch-Zlatnik), sign. 148/9 (N 1875–1885), oddíl Tschöppern, pag. 10/11, snímek 165",
+        "SOA Plzeň, fara Nečtiny, rejstřík N/O/Z 1784–1863 (Nečtiny 25), oddíl Wirschin – https://www.portafontium.eu/iipimage/30066190"
       ]
     },
     {
