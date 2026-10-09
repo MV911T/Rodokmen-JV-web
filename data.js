@@ -2745,7 +2745,8 @@ window.RODOKMEN = {
       notes: [
         "Dcera Josefa Landsingera (Landtyngra), mistra kovářského v Drozdově (sňatek 1821 i křest dcery 1822); oddána 6. 11. 1821 (24 let). ROZPOR o matce: křest dcery 1822 uvádí „† Magdalena roz. Zvonařová z Drozdova“, ta je ale podle sňatku 1796 matkou Josefa (tedy babičkou); Josefovou manželkou byla od 1796 Anna Mottlová. Buď zápis 1822 zaměnil matku za babičku, nebo je Magdalena dcerou Václava Landsingera a Zvonařové (Josefova sestra – index uvádí „Mařenu“, dceru Václava). Nerozhodnuto; křest Magdaleny v Drozdově 1793–1805 nenalezen.",
         "Porodní bábou v Oseku byla 18. 8. 1822 „Magdal. Laukotowa“ – jiná Magdalena (tato byla tehdy v Drozdově).",
-        "KANDIDÁT (varianta A, silnější): Marie Magdalena Landsingerová *2. 4. 1788 v Drozdově č. 31, dcera kováře Václava Landsingera a Marie Magdaleny Zvonařové († 1796) – sedí matka z křtu 1822, ne však otec „Josef“ a věk 24 ze sňatku 1821 (bylo by jí 33). Varianta B: dcera Josefa – pak by matkou byla Anna Mottlová, ale Magdalena mezi jejich dětmi 1797–1805 není."
+        "KANDIDÁT (varianta A, silnější): Marie Magdalena Landsingerová *2. 4. 1788 v Drozdově č. 31, dcera kováře Václava Landsingera a Marie Magdaleny Zvonařové († 1796) – sedí matka z křtu 1822, ne však otec „Josef“ a věk 24 ze sňatku 1821 (bylo by jí 33). Varianta B: dcera Josefa – pak by matkou byla Anna Mottlová, ale Magdalena mezi jejich dětmi 1797–1805 není.",
+        "Oddací zápis 1821 v plném rozlišení: „dcera Jozefa Landtyngera, kowáře w Drozdowě“, 24 let – jednoznačné. Josefova dcera Marie Magdalena (pokřtěná v dubnu 1808 v Drozdově č. 34, matka Anna Mottlová) by ale měla 13 let; Václavova (*1788) 33. Rozpor trvá – rozhodne úmrtí Josefovy dcery Marie Magdaleny (Cerhovice Z 1808–1821)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
@@ -5790,7 +5791,8 @@ window.RODOKMEN = {
       notes: [
         "Oddán 4. 9. 1796: „Landsinger Josef, syn Václava Landsingera, kováře obecního z Drozdova, také kovář, matky † Marie Magdaleny rozené Zvonařové z Drozdova“, 20 let, s Annou, dcerou Václava Mottla, sedláka z Drozdova, a Kateřiny roz. Zimové (?), 17 let.",
         "Děti s Annou Mottlovou v Drozdově: Jan Nepomuk (6. 5. 1797, č. 37), Anna (~1798), Marie (1800), Barbora (1801), Václav Josef (1803), Marie (1805). Magdalena (*~1797) mezi nimi v Drozdově 1793–1805 nenalezena.",
-        "Otec Magdaleny Laukotové (sňatek 1821, křest vnučky 1822) – kovář v Drozdově."
+        "Otec Magdaleny Laukotové (sňatek 1821, křest vnučky 1822) – kovář v Drozdově.",
+        "Další děti s Annou Mottlovou: Martin (8. 11. 1806), Marie Magdalena (3. 4. 1808), Josef (31. 1. 1810) – vše Drozdov č. 34; Anna žila ještě 1810."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 16 (O 1812–1839), oddíl Drozdov, fol. 71, snímek 74 – https://ebadatelna.soapraha.cz/d/4559/74",
@@ -5908,12 +5910,13 @@ window.RODOKMEN = {
       name: "Václav Landsinger",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      b: {"date":"asi 1760","year":1760,"approx":true},
       spouse: "magdalena_zv",
       occ: "obecní kovář v Drozdově",
       notes: [
         "Otec Josefa Landsingera (sňatek 1796); podle indexu narozených Cerhovice 12 i děti Kateřina, Mařena, Matěj, František (1785–1799).",
-        "POZOR: kolem 1797 žil v okolí další kovář Václav Landsinger × Mariana Jedličková (?) – jejich syn Josef (23) se 13. 9. 1820 oženil v Cerhovicích s Josefou Švarcerovou (?)."
+        "POZOR: kolem 1797 žil v okolí další kovář Václav Landsinger × Mariana Jedličková (?) – jejich syn Josef (23) se 13. 9. 1820 oženil v Cerhovicích s Josefou Švarcerovou (?).",
+        "Podruhé oddán 3. (?) 7. 1798 v Drozdově jako podsedník a kovář, vdovec, 38 let (*~1760), s Kateřinou, dcerou Josefa Šaldy (?), krčmáře z Drozdova; děti Tomáš (1805) a Jan Křtitel (1807), Drozdov č. 4."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9"
