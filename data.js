@@ -5414,21 +5414,24 @@ window.RODOKMEN = {
       line: "jerabek",
       cert: "M",
       b: {"date":"asi 1774","year":1774,"approx":true},
-      d: {"date":"před 20. 2. 1827","year":1827,"approx":true},
+      d: {"date":"22. 5. 1824","year":1824,"place":"Hodějice č. p. 148"},
+      cause: "žloutenka („Gallsucht“)",
       spouse: "apolonie_am",
       occ: "invalida c. k. dělostřelectva, tesař, domkář v Hodějicích",
       notes: [
         "Oddán 22. 4. 1816 v Hodějicích (č. 41) jako „Invalid von dem k. k. Artillerie Regiment“, 42 let, svobodný, s Apolonií Ambrosovou (27); svědci Jakub Hroch (?), třičtvrtník, a Matěj Kügner (?), podruh. Rodiče ženicha neuvedeni.",
-        "Zemřel před 20. 2. 1827 (vdova Apolonie se znovu vdala). Synové Jan (*1816) a František (*1817)."
+        "Zemřel 22. 5. 1824 (pohřben 24. 5.) v Hodějicích č. 148 jako domkář, 48 let, na žloutenku (jediný Martin Jeřábek v indexu zemřelých; věk 48 × 42 při sňatku 1816 – ROZPOR o ~2 roky). Synové Jan (*1816) a František (*1817); vdova Apolonie se 1827 znovu vdala. Rodiště v zápisu není – zbývají vojenské prameny (VÚA, dělostřelectvo)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Hodějice, str. 14, snímek 281 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Hodějice, str. 375, snímek 364 – https://www.mza.cz/actapublica/matrika/detail/1951",
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 156, snímek 128 – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 156, snímek 128 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, Z, sign. 13149, oddíl Hodějice, str. 268, snímek 242 – https://www.mza.cz/actapublica/matrika/detail/1964"
       ],
       scans: [
-        {"f":"img/1816_O_13137_sn128_Hodejice_str156_Jerabek_Martin_Ambros_Apolonia.jpg","t":"Sňatek Martina Jeřábka a Apolonie Ambrosové, Hodějice 22. 4. 1816"}
+        {"f":"img/1816_O_13137_sn128_Hodejice_str156_Jerabek_Martin_Ambros_Apolonia.jpg","t":"Sňatek Martina Jeřábka a Apolonie Ambrosové, Hodějice 22. 4. 1816"},
+        {"f":"img/1824_Z_13149_sn242L_str268_Hodejice148_Jerabek_Martin_umrti_plne_rozl.jpg","t":"Úmrtí Martina Jeřábka, Hodějice 22. 5. 1824"}
       ]
     },
     {
@@ -5513,19 +5516,24 @@ window.RODOKMEN = {
       name: "Valentin Maláč",
       line: "malac",
       cert: "M",
-      b: {"date":"asi 1789","year":1789,"approx":true,"place":"Heršpice"},
+      b: {"date":"10. 2. 1789","year":1789,"place":"Heršpice č. p. 4"},
+      father: "martin_mc",
+      mother: "katerina_mc",
       spouse: "anna_sm",
       occ: "třičtvrtník v Heršpicích",
       marriage: "6. 7. 1819, Křenovice – s Annou Spačilovou",
       notes: [
+        "Pokřtěn 10. 2. 1789 v Heršpicích č. 4: otec Martin Maláč, podruh, matka Kateřina; kmotři Vavřinec Maláč a manželka Veronika.",
         "Oddán 6. 7. 1819 v Křenovicích jako třičtvrtník z Heršpic (č. 4), 30 let, s Annou, dcerou † Matěje Spačila z Křenovic č. 35, 21 let; svědci František Fuks a Lazar Hložek, třičtvrtníci. Otec Františky Hrabovské."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 87, snímek 80 – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 87, snímek 80 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, Heršpice 1789, str. 216, snímek 226 – https://www.mza.cz/actapublica/matrika/detail/1950"
       ],
       scans: [
-        {"f":"img/1819_O_13137_sn80_str87_Krenovice_Malac_Valentin_x_Spacilova_Anna.jpg","t":"Sňatek Valentina Maláče a Anny Spačilové, Křenovice 6. 7. 1819"}
+        {"f":"img/1819_O_13137_sn80_str87_Krenovice_Malac_Valentin_x_Spacilova_Anna.jpg","t":"Sňatek Valentina Maláče a Anny Spačilové, Křenovice 6. 7. 1819"},
+        {"f":"img/1789_N_13122_sn226_str216_Herspice4_Malac_Valentin_krest_plne_rozl.jpg","t":"Křest Valentina Maláče, Heršpice 10. 2. 1789"}
       ]
     },
     {
@@ -6468,13 +6476,49 @@ window.RODOKMEN = {
       spouse: "valentin_ma",
       marriage: "6. 7. 1819, Křenovice – s Valentinem Maláčem",
       notes: [
-        "Dcera † Matěje Spačila z Křenovic č. 35; matka Františky Hrabovské."
+        "Dcera † Matěje Spačila z Křenovic č. 35; matka Františky Hrabovské.",
+        "KANDIDÁT křtu: 25. 7. 1799 Křenovice č. 30 – Anna, dcera Matěje Spačila, třičtvrtníka, a Johanny roz. Lebnerové (?) (N 13123, str. 182 A); číslo domu (30 × 35) a věk o rok nesedí. Pozor: v Křenovicích současně Matouš Spačil × Juliana."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 87, snímek 80 – https://www.mza.cz/actapublica/matrika/detail/1959"
       ],
       scans: [
         {"f":"img/1819_O_13137_sn80_str87_Krenovice_Malac_Valentin_x_Spacilova_Anna.jpg","t":"Sňatek Valentina Maláče a Anny Spačilové, Křenovice 6. 7. 1819"}
+      ]
+    },
+    {
+      id: "martin_mc",
+      name: "Martin Maláč",
+      line: "malac",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      spouse: "katerina_mc",
+      occ: "podruh v Heršpicích č. 4 (1789)",
+      notes: [
+        "Otec Valentina Maláče (*1789)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, Heršpice 1789, str. 216, snímek 226 – https://www.mza.cz/actapublica/matrika/detail/1950"
+      ],
+      scans: [
+        {"f":"img/1789_N_13122_sn226_str216_Herspice4_Malac_Valentin_krest_plne_rozl.jpg","t":"Křest syna Valentina, Heršpice 1789"}
+      ]
+    },
+    {
+      id: "katerina_mc",
+      name: "Kateřina Maláčová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1762)","year":1762,"approx":true},
+      spouse: "martin_mc",
+      notes: [
+        "Matka Valentina Maláče (*1789); rodné příjmení neuvedeno."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, Heršpice 1789, str. 216, snímek 226 – https://www.mza.cz/actapublica/matrika/detail/1950"
+      ],
+      scans: [
+        {"f":"img/1789_N_13122_sn226_str216_Herspice4_Malac_Valentin_krest_plne_rozl.jpg","t":"Křest syna Valentina, Heršpice 1789"}
       ]
     }
   ]
