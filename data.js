@@ -2852,7 +2852,8 @@ window.RODOKMEN = {
         "ZA HRANICÍ MATRIK – pozemková kniha Těchobuz: 9. 1. 1804 „předstoupil Wogtiech Michal k Auřadu a žádal, by gemu zápis na ten po gegho zemřelém Otcy Jakubu Michalowi dědičným přináležitý … pod No Consc. 19 ležecý Selský grunt … widán byl“; podle sirotčího protokolu z 20. 5. 1798 mu byl grunt postoupen za 1043 zl. 30 kr. Sourozencům vyplácel podíly po 30 zl.: Anně, Magdaleně (zemřela), Josefovi, Marii a Matějovi (?); matce (jméno neuvedeno) výminek.",
         "13. 1. 1825 prodal grunt č. 19 synovi Janovi a jeho nastávající manželce Marii (vdově) za 2000 zl. v. m.; sobě a manželce Kateřině si vymínil světničku a komoru.",
         "Usedlost Těchobuz č. 19 = stavební parcela 33 na indikační skice stabilního katastru (1829), k ní zahrada parc. 34 („N° 19“).",
-        "Sňatek s Kateřinou není v Těchobuzi 1790–1802 (kniha 8824) – asi ve farnosti nevěsty."
+        "Sňatek s Kateřinou není v Těchobuzi 1790–1802 (kniha 8824) – asi ve farnosti nevěsty.",
+        "Děti s Kateřinou (Těchobuz): František (XI 1800), Jan (7. 4. 1803), Antonie (9. 10. 1805), Anna (6. 2. 1808) a další. Sňatek není v Těchobuzi 1789–1802 ani ve faře Zhoř XI 1794 – X 1802 – asi před 1794 nebo ve Velké Černé."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -2874,19 +2875,24 @@ window.RODOKMEN = {
     {
       id: "katerina_vr",
       name: "Kateřina Michalová",
-      maiden: "Vrzalová / Kroužilová (?)",
+      maiden: "Vojtová (?)",
       line: "vrzal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true,"place":"Zhoř (?)"},
+      b: {"date":"neznámé (odhad ~1778)","year":1778,"approx":true,"place":"Velká Černá (?) (fara Zhoř)"},
       spouse: "vojtech_m",
       notes: [
-        "Matka Jana Michala; čtení nejisté.",
+        "Matka Jana Michala. Ve křtech dětí v Těchobuzi (František XI 1800, Antonie 9. 10. 1805, Anna 6. 2. 1808) třikrát „Kateřina rozená Wojtowa (?) z (Velké) Črmy“ = Velká Černá (fara Zhoř); v oddacím zápisu syna Jana 1825 „dcera Matěje Voj… č. 3“ – otcem tedy nejspíš Matěj Vojta (?) z Velké Černé č. 3.",
+        "ROZPOR čtení: 1835 „Kroužilová (?)“, 1836 „Vrzalová (?)“ – nejspíš chybná čtení; rozhodne křest Kateřiny (Velká Černá, ~1775–1780).",
         "V lednu 1825 žila – výminek „Wogtiechu a Kateřině Michalowským Manželům“ (pozemková kniha Těchobuz fol. 79v)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379",
-        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 79v, snímek 91 – https://digi.ceskearchivy.cz/127651"
+        "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 79v, snímek 91 – https://digi.ceskearchivy.cz/127651",
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (kn. 8824), fol. 20, 27, 31, snímky 27, 30, 33 – https://digi.ceskearchivy.cz/8824"
+      ],
+      scans: [
+        {"f":"img/1805_krest_Michalova_Antonie_Techobuz_8824_sn30.jpg","t":"Křest dcery Antonie, Těchobuz 1805 – matka „Kateřina roz. Vojtová z Črmy“"}
       ]
     },
     {
