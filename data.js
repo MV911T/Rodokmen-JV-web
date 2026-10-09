@@ -2574,28 +2574,33 @@ window.RODOKMEN = {
       line: "lodl",
       cert: "M",
       b: {"date":"asi 1778","year":1778,"approx":true},
-      d: {"date":"před 6. 9. 1849","year":1849,"approx":true},
+      d: {"date":"22. 6. 1840","year":1840,"place":"Osek u Rokycan (č. 80/83 ?)"},
+      cause: "zimnice a souchotiny (?)",
       spouse: "katerina_le",
       occ: "mistr ševcovský v Oseku č. 75",
       marriage: "1. sňatek 7. 2. 1804, Osek – s Kateřinou Trgjkovou; 2. sňatek 9. 9. 1814, Osek – s Annou roz. Holubovou, vdovou po Prokopu Laukotovi",
       notes: [
         "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Tück (?) / Türck (?)“ (dřívější čtení „Brück“ neplatí – stejné T jako v „Trgěk“; věk nevyplněn, rodiče neuvedeni); svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
         "Otec Pavla Lodla (*1811); švec v č. 84 (1811), později mistr ševcovský v č. 75.",
-        "Podruhé oddán 9. 9. 1814 v Oseku (č. 84) jako švec, 36 let, vdovec, s Annou (35), vdovou po † Prokopu Laukotovi, pastýři, dcerou Šimona Holuby z Oseka č. 83 – babičkou budoucí snachy Anny Laukotové."
+        "Podruhé oddán 9. 9. 1814 v Oseku (č. 84) jako švec, 36 let, vdovec, s Annou (35), vdovou po † Prokopu Laukotovi, pastýři, dcerou Šimona Holuby z Oseka č. 83 – babičkou budoucí snachy Anny Laukotové.",
+        "Zemřel 22. 6. 1840 (pohřben 24. 6.) v Oseku jako „bývalý mistr ševcovský“, uvedeno 71 let (ROZPOR: podle 2. sňatku 1814 *~1778, podle úmrtí ~1769); další slova zápisu („nayde-ný (?) woyáku (?) z Ga-nowin (?) … pluku pěšího (?)“) zatím nečitelná – možná zmínka o vojenské službě nebo původu.",
+        "S Annou Holubovou dcera Anna (20. 7. 1815, Osek č. 84)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 31, snímek 17 – https://www.portafontium.eu/iipimage/30066673/osek-07_0170-o",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 43, snímek 23 – https://www.portafontium.eu/iipimage/30066673/osek-07_0230-o",
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 43, snímek 23 – https://www.portafontium.eu/iipimage/30066673/osek-07_0230-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 43, snímek 23 – https://www.portafontium.eu/iipimage/30066673/osek-07_0230-o",
+        "SOA Plzeň, fara Osek, kniha Osek 10 (Z), pag. 178, snímek 91 – https://www.portafontium.eu/iipimage/30066676/osek-10_0910-z"
       ],
       scans: [
         {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
         {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"},
         {"f":"img/1804_oddani_martin_lodl_katerina_osek.jpg","t":"Sňatek Martina Lodla a Kateřiny, Osek 7. 2. 1804"},
         {"f":"img/1814_oddani_martin_lodl_anna_osek.jpg","t":"Druhý sňatek Martina Lodla, Osek 9. 9. 1814"},
-        {"f":"img/1814_oddani_martin_lodl_anna_vdova_prokopa_laukoty_osek07_sn23_nativ.jpg","t":"Sňatek Martina Lodla a Anny, vdovy po Prokopu Laukotovi, Osek 9. 9. 1814"}
+        {"f":"img/1814_oddani_martin_lodl_anna_vdova_prokopa_laukoty_osek07_sn23_nativ.jpg","t":"Sňatek Martina Lodla a Anny, vdovy po Prokopu Laukotovi, Osek 9. 9. 1814"},
+        {"f":"img/1840_umrti_martin_lodl_mistr_sevcovsky_71let_osek10_sn91.jpg","t":"Úmrtí Martina Lodla, Osek 22. 6. 1840"}
       ]
     },
     {
@@ -3792,7 +3797,8 @@ window.RODOKMEN = {
         "Otec Kateřiny Lodlové (*1782).",
         "Podruhé oddán 10. 6. 1800 v Oseku jako sedlák č. 83 a vdovec, 42 let, s Kateřinou, dcerou Jana Kowry (?), 20 let. Z 2. manželství v č. 83 zemřeli syn Šimon (25. 11. 1803, 6 měsíců) a syn Jakub (VIII 1811, kojenec).",
         "Zemřel 9. 11. 1812 v Oseku č. 83 jako sedlák, 55 let, na souchotiny; pohřben 11. 11.",
-        "Bratr Matěj (*14. 2. 1760, Osek – „otce Jakuba Trgjka, matky Magdaleny“). KANDIDÁT: sestra Ludmila (*26. 9. 1762) má u otce Jakuba matku „Dorotu“ – buď chyba zápisu, nebo jiný Jakub; v Oseku žilo kolem 1760 několik rodin Trgjků (Josef, Prokop, Michal, Václav, starší Šimon)."
+        "Bratr Matěj (*14. 2. 1760, Osek – „otce Jakuba Trgjka, matky Magdaleny“). KANDIDÁT: sestra Ludmila (*26. 9. 1762) má u otce Jakuba matku „Dorotu“ – buď chyba zápisu, nebo jiný Jakub; v Oseku žilo kolem 1760 několik rodin Trgjků (Josef, Prokop, Michal, Václav, starší Šimon).",
+        "Sourozenci: Matěj (1760), Ludmila (1762), Kateřina (1767)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n",
@@ -5544,16 +5550,21 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1729)","year":1729,"approx":true},
+      d: {"date":"27. 1. 1789","year":1789,"place":"Osek u Rokycan č. p. 83"},
+      cause: "stáří",
       spouse: "jakub_tr",
       notes: [
-        "Manželka Jakuba Trgjka, matka Šimona (*1757).",
-        "KANDIDÁT úmrtí: 27. 1. 1789 zemřela v Oseku č. 83 „Magdalena Trgjk, vdova“, 60 let (*~1729) – čteno jen v montáži."
+        "Manželka Jakuba Trgjka; děti Šimon (1757), Matěj (1760), Kateřina (13. 3. 1767) a Ludmila (26. 9. 1762 – u ní zapsána matka „Dorota“, nejspíš chyba písaře: kmotři z Jakubovy rodiny, jiné dítě s Dorotou nemá).",
+        "Zemřela 27. 1. 1789 v Oseku č. 83 jako „Magdalena Begjrk (Trgjk), Wittib“, 60 let, stářím."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), str. 162, snímek 84 – https://www.portafontium.eu/iipimage/30066669/osek-03_0840-n"
+        "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), str. 162, snímek 84 – https://www.portafontium.eu/iipimage/30066669/osek-03_0840-n",
+        "SOA Plzeň, fara Osek, kniha Osek 08, oddíl Osek, str. 30, snímek 20 – https://www.portafontium.eu/iipimage/30066674/osek-08_0200-z",
+        "SOA Plzeň, fara Osek, kniha Osek 04, str. 51, snímek 28 – https://www.portafontium.eu/iipimage/30066670/osek-04_0280-n"
       ],
       scans: [
-        {"f":"img/1757_krest_simon_trgjk_otec_jakub_osek03_sn84.jpg","t":"Křest syna Šimona, Osek 1757"}
+        {"f":"img/1757_krest_simon_trgjk_otec_jakub_osek03_sn84.jpg","t":"Křest syna Šimona, Osek 1757"},
+        {"f":"img/1789_umrti_magdalena_trgjk_vdova_osek83_60let_a_magdalena_laukotova_osek77_osek08_sn20.jpg","t":"Úmrtí Magdaleny Trgjkové, vdovy, Osek 27. 1. 1789"}
       ]
     },
     {
