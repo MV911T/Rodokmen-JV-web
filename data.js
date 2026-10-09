@@ -55,7 +55,8 @@ window.RODOKMEN = {
     "stadler": "Stádler",
     "igla": "Igla (?)",
     "popp": "Popp",
-    "pitr": "Pitr"
+    "pitr": "Pitr",
+    "zahalka": "Zahálka (?)"
   },
   people: [
     {
@@ -1108,28 +1109,32 @@ window.RODOKMEN = {
       name: "Josef Klika",
       line: "klika",
       cert: "M",
-      b: {"date":"2. (?) 10. 1834","year":1834,"place":"Suchomasty č. p. 14"},
-      d: {"date":"před 24. 5. 1903","year":1903,"approx":true},
+      b: {"date":"26. 10. 1834","year":1834,"place":"Suchomasty č. p. 14"},
+      d: {"date":"4. 12. 1889 (?)","year":1889},
       father: "frantisek_kl",
       mother: "anna_sv",
       spouse: "marie_s",
       occ: "nádeník v Býkoši č. 38",
       marriage: "10. 2. 1874, Suchomasty – s Marií Svobodovou",
       notes: [
-        "Otec Karla Kliky. Syn † Františka Kliky, domkáře ze Suchomast č. 14, a † Anny roz. Svobodové ze Suchomast č. 14 (křest syna 1880). V roce 1903 už nežil.",
-        "Oddán 10. 2. 1874 v Suchomastech (č. 21) jako nádeník ze Suchomast č. 14, 39 let, svobodný; svědci Václav Jansa, rolník ze Suchomast č. 54, a František Klecka, mistr sedlářský. Datum narození podle křestní knihy citované v oddacím zápise."
+        "Pokřtěn 26. 10. 1834 v Suchomastech č. 14 (fara Borek); otec František Klika, domkář, syn † Václava Kliky ze Suchomast č. 11 (?) a Kateřiny roz. Šlikové (?) z Litně (?); matka Anna, dcera † Václava Svobody, domkáře ze Suchomast č. 14, a Josefy roz. Prajzové (?). Kmotři Matěj Dušek (?) a Anna Pfendal (?), mlynářka ze Suchomast. Přípis „† 4/12 1889 (?)“.",
+        "ROZPOR v datu narození: oddací zápis 1874 „2 (?) října“, křest 26. 10. 1834 – platí křest.",
+        "Oddán 10. 2. 1874 v Suchomastech jako nádeník ze Suchomast č. 14; 1880 nádeník v Býkoši č. 38. V roce 1903 už nežil."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126"
       ],
       scans: [
         {"f":"img/1880_krest_karel_klika_bykos_a.jpg","t":"Křest Karla Kliky, Býkoš 1880"},
         {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"},
         {"f":"img/1874_snatek_josef_klika_suchomasty_a.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové, Suchomasty 10. 2. 1874"},
-        {"f":"img/1874_snatek_josef_klika_suchomasty_b.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové 1874 – svědci, data narození"}
+        {"f":"img/1874_snatek_josef_klika_suchomasty_b.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové 1874 – svědci, data narození"},
+        {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
+        {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest Josefa Kliky 1834 – matka, kmotři"}
       ]
     },
     {
@@ -1144,20 +1149,23 @@ window.RODOKMEN = {
       spouse: "josef_k",
       marriage: "10. 2. 1874, Suchomasty – s Josefem Klikou",
       notes: [
-        "Matka Karla Kliky, ze Suchomast č. 21. Dcera Václava Svobody, domkáře ze Suchomast č. 21, a † Magdaleny, nemanželské dcery Ludmily Stádlerové ze Suchomast.",
-        "Při sňatku 1874 26 let; její babička Ludmila Stádlerová byla dcerou † Jana Stádlera, mistra polního (?) z Tetína (?)."
+        "Narozena 21., pokřtěna 23. 1. 1848 v Suchomastech jako nemanželská „Maria Stadler“; legitimována sňatkem rodičů 10. 2. 1851. Otec Václav Svoboda, domkář ze Suchomast, rodák z Malkova (statek Tmaň), syn Matěje Svobody, domkáře z Malkova, a Alžběty roz. Zahálkové (?); matka Magdalena, dcera Ludmily Stadlerové ze Suchomast.",
+        "Při sňatku 1874 26 let; babička Ludmila Stádlerová byla dcerou † Jana Stádlera, mistra polního (?) z Tetína (?), a Ludmily roz. Vadlejškové (?)."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
       ],
       scans: [
         {"f":"img/1880_krest_karel_klika_bykos_a.jpg","t":"Křest Karla Kliky, Býkoš 1880"},
         {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"},
         {"f":"img/1874_snatek_josef_klika_suchomasty_a.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové, Suchomasty 10. 2. 1874"},
-        {"f":"img/1874_snatek_josef_klika_suchomasty_b.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové 1874 – svědci, data narození"}
+        {"f":"img/1874_snatek_josef_klika_suchomasty_b.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové 1874 – svědci, data narození"},
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848"},
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"}
       ]
     },
     {
@@ -1363,25 +1371,28 @@ window.RODOKMEN = {
       maiden: "Otová",
       line: "ota",
       cert: "M",
-      b: {"date":"15. 12. 1830 (?)","year":1830,"place":"Krchleby"},
+      b: {"date":"15. 12. 1830","year":1830,"place":"Krchleby č. p. 17"},
       father: "vaclav_o",
       mother: "katerina_ma",
       spouse: "karel_c",
       marriage: "3. 3. 1851, Hrubý Jeseník – s Karlem Čapkem",
       notes: [
-        "Matka Josefa Čapka; dcera Václava Oty (1851 familiant v Jeseníku č. 74, 1874 † sedlák v Krchlebích č. 53) a Kateřiny roz. Málkové z Krchleb. Datum narození podle přípisu v oddacím zápise 1851."
+        "Narozena 15. 12. 1830 v Krchlebích č. 17 (fara Veleliby); otec Václav Otta, půlsedlák z Krchleb; matka Kateřina, dcera Pavla Málka, sedláka z Krchleb č. 53, a Anny. Kmotři Marie, manželka sedláka Václava Hanuše, a Václav Procházka z Krchleb.",
+        "Matka Josefa Čapka; oddána 3. 3. 1851 v Hrubém Jeseníku."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242",
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57"
       ],
       scans: [
         {"f":"img/1874_krest_josef_capek_rabakov_a.jpg","t":"Křest Josefa Čapka, Rabakov 1874"},
         {"f":"img/1874_krest_josef_capek_rabakov_b.jpg","t":"Křest Josefa Čapka, Rabakov 1874 – rodiče"},
         {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"},
-        {"f":"img/1851_snatek_karel_capek_hruby_jesenik_b.jpg","t":"Sňatek Karla Čapka a Marie Otové 1851 – svědci, souhlas otců"}
+        {"f":"img/1851_snatek_karel_capek_hruby_jesenik_b.jpg","t":"Sňatek Karla Čapka a Marie Otové 1851 – svědci, souhlas otců"},
+        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830"}
       ]
     },
     {
@@ -2095,17 +2106,19 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true},
       d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
       spouse: "katerina_ma",
-      occ: "familiant v Hrubém Jeseníku č. 74 (1851), sedlák v Krchlebích č. 53",
+      occ: "půlsedlák v Krchlebích (1830), familiant v Hrubém Jeseníku č. 74 (1851), sedlák v Krchlebích č. 53",
       notes: [
         "Otec Marie Čapkové, roz. Otové."
       ],
       sources: [
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242",
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57"
       ],
       scans: [
-        {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"}
+        {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"},
+        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830"}
       ]
     },
     {
@@ -2310,12 +2323,17 @@ window.RODOKMEN = {
       line: "malek",
       cert: "M",
       b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true,"place":"Krchleby"},
+      father: "pavel_ma",
       spouse: "vaclav_o",
       notes: [
-        "Matka Marie Čapkové, roz. Otové."
+        "Matka Marie Čapkové; dcera Pavla Málka, sedláka z Krchleb č. 53, a Anny."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142"
+        "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57"
+      ],
+      scans: [
+        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830"}
       ]
     },
     {
@@ -3057,10 +3075,14 @@ window.RODOKMEN = {
       spouse: "anna_sv",
       occ: "domkář v Suchomastech č. 14",
       notes: [
-        "Děd Karla Kliky. Usedlost Suchomasty č. 14 – tam bydlel i vnuk Karel s rodinou (1913)."
+        "Domkář v Suchomastech (1834), rodák ze Suchomast; syn † Václava Kliky ze Suchomast č. 11 (?) a Kateřiny roz. Šlikové (?) z Litně (?) – čtení nejisté. Usedlost Suchomasty č. 14."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126"
+      ],
+      scans: [
+        {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"}
       ]
     },
     {
@@ -3073,10 +3095,15 @@ window.RODOKMEN = {
       d: {"date":"před 20. 1. 1880","year":1880,"approx":true},
       spouse: "frantisek_kl",
       notes: [
-        "Babička Karla Kliky."
+        "Babička Karla Kliky; dcera † Václava Svobody, domkáře ze Suchomast č. 14, a Josefy roz. Prajzové (?) ze Suchomast."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126"
+      ],
+      scans: [
+        {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
+        {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest Josefa Kliky 1834 – matka, kmotři"}
       ]
     },
     {
@@ -3084,30 +3111,46 @@ window.RODOKMEN = {
       name: "Václav Svoboda",
       line: "svoboda",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Malkov (statek Tmaň)"},
+      father: "matej_sv",
+      mother: "alzbeta_za",
       spouse: "magdalena_st",
       occ: "domkář v Suchomastech č. 21",
+      marriage: "10. 2. 1851, Borek (Suchomasty) – s Magdalenou Stadlerovou",
       notes: [
-        "Otec Marie Klikové."
+        "Domkář v Suchomastech č. 21, rodák z Malkova; dodatečně uznal otcovství dcery Marie (1848) a 10. 2. 1851 se oženil s její matkou."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
+      ],
+      scans: [
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848"},
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"}
       ]
     },
     {
       id: "magdalena_st",
       name: "Magdalena Svobodová",
+      maiden: "Stadlerová",
       line: "svoboda",
       cert: "M",
       b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Suchomasty"},
       d: {"date":"před 20. 1. 1880","year":1880,"approx":true},
       mother: "ludmila_sta",
       spouse: "vaclav_sv",
+      marriage: "10. 2. 1851 – s Václavem Svobodou",
       notes: [
-        "Matka Marie Klikové; nemanželská dcera Ludmily Stádlerové ze Suchomast."
+        "Matka Marie Klikové; nemanželská dcera Ludmily Stádlerové ze Suchomast.",
+        "Podle rejstříku měla i starší dceru Annu Stadlerovou (*18. 10. 1846, Suchomasty 21) – nečteno."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
+      ],
+      scans: [
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848"},
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"}
       ]
     },
     {
@@ -3118,11 +3161,13 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true,"place":"Suchomasty"},
       father: "jan_sta",
       notes: [
-        "Matka Magdaleny Svobodové (nemanželské dcery); dcera † Jana Stádlera, mistra polního (?) z Tetína (?)."
+        "Matka Magdaleny Svobodové (nemanželské dcery); dcera † Jana Stádlera, mistra polního (?) z Tetína (?).",
+        "Matka Ludmila roz. Vadlejšková (?) z Hořaždovic (?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
       ]
     },
     {
@@ -3448,6 +3493,50 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n"
+      ]
+    },
+    {
+      id: "matej_sv",
+      name: "Matěj Svoboda",
+      line: "svoboda",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      spouse: "alzbeta_za",
+      occ: "domkář v Malkově (statek Tmaň)",
+      notes: [
+        "Otec Václava Svobody."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
+      ]
+    },
+    {
+      id: "alzbeta_za",
+      name: "Alžběta Svobodová",
+      maiden: "Zahálková (?)",
+      line: "zahalka",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Malkov"},
+      spouse: "matej_sv",
+      notes: [
+        "Matka Václava Svobody; čtení nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
+      ]
+    },
+    {
+      id: "pavel_ma",
+      name: "Pavel Málek",
+      line: "malek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      occ: "sedlák v Krchlebích č. 53",
+      notes: [
+        "Otec Kateřiny Otové; usedlost Krchleby č. 53 později převzal zeť Václav Ota."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57"
       ]
     }
   ]
