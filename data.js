@@ -4941,11 +4941,13 @@ window.RODOKMEN = {
       name: "Pavel Láníček",
       line: "lanicek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"asi 1773","year":1773,"approx":true},
       d: {"date":"před 1841","year":1841,"approx":true},
       spouse: "magdalena_wi",
       occ: "šenkýř (1813–1815), tesař (1822), domkář v Heršpicích",
+      marriage: "8. 11. 1808, Heršpice – s Magdalenou Willamovou",
       notes: [
+        "Oddán 8. 11. 1808 v Heršpicích jako podruh v č. 29, 35 let, svobodný, s Magdalenou, dcerou Františka Willama, domkáře (č. 18), 22 let; svědci Ondřej Valíček (?) a Martin Láníček, podruh.",
         "Otec Marianny Jeřábkové a Kateřiny Svobodové; synové Jan (*22. 8. 1813, č. 23) a Jan (*3. 6. 1815, č. 33). Manželka Magdalena Willamová (křty 1813, 1815, 1822)."
       ],
       sources: [
@@ -4954,10 +4956,12 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, N sign. 13124, oddíl Heršpice, str. 1, snímek 286 – https://www.mza.cz/actapublica/matrika/detail/1952",
-        "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 417, snímek 405 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 417, snímek 405 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959"
       ],
       scans: [
-        {"f":"img/1822_N_13124_sn286_str1_Herspice_Lanickova_Marianna_Willam_Magdalena.jpg","t":"Křest dcery Marianny, Heršpice 1822"}
+        {"f":"img/1822_N_13124_sn286_str1_Herspice_Lanickova_Marianna_Willam_Magdalena.jpg","t":"Křest dcery Marianny, Heršpice 1822"},
+        {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek Pavla Láníčka a Magdaleny Willamové, Heršpice 8. 11. 1808"}
       ]
     },
     {
@@ -5589,17 +5593,21 @@ window.RODOKMEN = {
       maiden: "Willamová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"asi 1786","year":1786,"approx":true,"place":"Heršpice"},
       spouse: "pavel_la",
+      marriage: "8. 11. 1808, Heršpice – s Pavlem Láníčkem",
       notes: [
-        "Dcera Františka Willama, čtvrtníka v Heršpicích (oddací zápis dcery Kateřiny 1841). Matka Marianny (*1822) a Kateřiny Láníčkových."
+        "Dcera Františka Willama, domkáře v Heršpicích (č. 18 v r. 1808; 1841 „čtvrtník“); oddána 8. 11. 1808 (22 let). Matka Kateřiny (*1812) a Marianny (*1822) Láníčkových.",
+        "KANDIDÁT křtu: 21. 5. 1784 v Heršpicích č. 38 Magdalena, dcera Františka Wilama, čtvrtníka, a Mariny (jediná Magdalena Wilam v indexu 1784–1790)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N sign. 13124, oddíl Heršpice, str. 1, snímek 286 – https://www.mza.cz/actapublica/matrika/detail/1952",
-        "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 417, snímek 405 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 417, snímek 405 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959"
       ],
       scans: [
-        {"f":"img/1822_N_13124_sn286_str1_Herspice_Lanickova_Marianna_Willam_Magdalena.jpg","t":"Křest dcery Marianny, Heršpice 1822"}
+        {"f":"img/1822_N_13124_sn286_str1_Herspice_Lanickova_Marianna_Willam_Magdalena.jpg","t":"Křest dcery Marianny, Heršpice 1822"},
+        {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek Pavla Láníčka a Magdaleny Willamové, Heršpice 8. 11. 1808"}
       ]
     },
     {
