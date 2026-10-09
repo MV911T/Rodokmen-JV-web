@@ -60,5 +60,12 @@ window.RODOKMEN_GAZ = [
   { n: 'Seymour (Texas)', a: ['Texas'], lat: 33.59, lon: -99.26, off: true },
   // Polouvsí = part of Bernartice nad Odrou, okr. Nový Jičín (position ±3 km, to be verified)
   { n: 'Polouvsí', a: ['Polouvsí'], lat: 49.6, lon: 17.96 },
-  { n: 'Heršpice', a: ['Heršpice'], lat: 49.118, lon: 16.914 }
+  { n: 'Heršpice', a: ['Heršpice'], lat: 49.118, lon: 16.914 },
+  { n: 'Drozdov', a: ['Drozdov'], lat: 49.862, lon: 13.851 },
+  { n: 'Hudlice', a: ['Hudlice'], lat: 49.962, lon: 13.970 },
+  { n: 'Knížkovice', a: ['Knížkovice'], lat: 49.902, lon: 14.003 },
+  { n: 'Křenovice (u Slavkova)', a: ['Křenovice'], lat: 49.142, lon: 16.776 },
+  { n: 'Nová Huť (u Nižboru)', a: ['Nová Huť'], lat: 50.002, lon: 13.987 },
+  { n: 'Špitálka (Slavkov u Brna)', a: ['Špitálka'], lat: 49.153, lon: 16.876 },
+  { n: 'Málkov', a: ['Málkov'], lat: 49.879, lon: 14.037 },
 ];
