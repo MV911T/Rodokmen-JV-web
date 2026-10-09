@@ -3823,7 +3823,7 @@ window.RODOKMEN = {
       name: "Františka Hrazdílková",
       line: "hrazdilek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1855)","year":1855,"approx":true,"place":"Heršpice"},
+      b: {"date":"neznámé (asi 1860/1861)","year":1861,"approx":true,"place":"Heršpice"},
       father: "martin_h",
       mother: "cecilie_ki",
       notes: [
@@ -3838,19 +3838,25 @@ window.RODOKMEN = {
       name: "Martin Hrazdílek",
       line: "hrazdilek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      b: {"date":"asi 1827/1828","year":1828,"approx":true,"place":"Hodějice"},
       d: {"date":"před 2. 1. 1913","year":1913,"approx":true},
+      father: "jan_hr",
+      mother: "apolonie_am",
       spouse: "cecilie_ki",
       occ: "domkář v Heršpicích",
+      marriage: "12. 2. 1860, Heršpice – s Cecilií Kirchnerovou",
       notes: [
-        "Děd Rajmunda Hrazdílka. Sňatek s Cecilií Kirchnerovou zatím nenalezen (rejstřík 1837 (?) nesedí s věkem)."
+        "Oddán 12. 2. 1860 v Heršpicích jako vysloužilý voják („Militär-Abschiedner“) a nádeník v Heršpicích, 32 let, svobodný; syn † Jana Hrazdílka, sedláka v Hodějicích, a † Apolonie roz. Ambrosové (?). Svědci Jan Říha (?) a Jan Jakubík (?), domkáři z Heršpic.",
+        "Později domkář v Heršpicích (č. 152); zemřel před 1913."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 104, snímek 54, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384"
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 104, snímek 54, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
       ],
       scans: [
-        {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Cecilie Hrazdílkové a vnuka Josefa, Heršpice 1913"}
+        {"f":"img/1860_O_13144_sn10_Hrazdilek_Martin_Kirchner_Cecilie_Herspice.jpg","t":"Sňatek Martina Hrazdílka a Cecilie Kirchnerové, Heršpice 12. 2. 1860"},
+        {"f":"img/1860_O_13144_sn10_Hrazdilek_Kirchner_rodice_plne.jpg","t":"Sňatek Martina Hrazdílka a Cecilie Kirchnerové 1860 – rodiče"}
       ]
     },
     {
@@ -3859,18 +3865,25 @@ window.RODOKMEN = {
       maiden: "Kirchnerová",
       line: "kirchner",
       cert: "M",
-      b: {"date":"asi 1823–1828","year":1825,"approx":true,"place":"Heršpice (?)"},
+      b: {"date":"asi 1828/1829","year":1828,"approx":true,"place":"Heršpice"},
       d: {"date":"2. 1. 1913","year":1913,"place":"Heršpice č. p. 152"},
       cause: "sešlost věkem",
+      father: "frantisek_ki",
+      mother: "ludmila_zi",
       spouse: "martin_h",
+      marriage: "12. 2. 1860, Heršpice – s Martinem Hrazdílkem",
       notes: [
+        "Při sňatku 1860 služebná v Heršpicích, 31 let; dcera Františka Kirchnera, domkáře v Heršpicích (tehdy žijícího), a † Ludmily roz. Žilkové (?).",
         "Výměnkářka a vdova po Martinu Hrazdílkovi; zemřela 2. 1. 1913 v Heršpicích č. 152 asi v 90 letech (rok narození tužkou nejistý)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 104, snímek 54, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384",
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
       ],
       scans: [
+        {"f":"img/1860_O_13144_sn10_Hrazdilek_Martin_Kirchner_Cecilie_Herspice.jpg","t":"Sňatek Martina Hrazdílka a Cecilie Kirchnerové, Heršpice 12. 2. 1860"},
+        {"f":"img/1860_O_13144_sn10_Hrazdilek_Kirchner_rodice_plne.jpg","t":"Sňatek Martina Hrazdílka a Cecilie Kirchnerové 1860 – rodiče"},
         {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Cecilie Hrazdílkové a vnuka Josefa, Heršpice 1913"}
       ]
     },
@@ -4390,6 +4403,69 @@ window.RODOKMEN = {
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 74, snímek 40 – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "jan_hr",
+      name: "Jan Hrazdílek",
+      line: "hrazdilek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      d: {"date":"před 12. 2. 1860","year":1860,"approx":true},
+      spouse: "apolonie_am",
+      occ: "sedlák v Hodějicích",
+      notes: [
+        "Otec Martina Hrazdílka."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "apolonie_am",
+      name: "Apolonie Hrazdílková",
+      maiden: "Ambrosová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true},
+      d: {"date":"před 12. 2. 1860","year":1860,"approx":true},
+      spouse: "jan_hr",
+      notes: [
+        "Matka Martina Hrazdílka; čtení příjmení nejisté."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "frantisek_ki",
+      name: "František Kirchner",
+      line: "kirchner",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      spouse: "ludmila_zi",
+      occ: "domkář v Heršpicích",
+      notes: [
+        "Otec Cecilie Hrazdílkové; v roce 1860 žil."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "ludmila_zi",
+      name: "Ludmila Kirchnerová",
+      maiden: "Žilková (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true},
+      d: {"date":"před 12. 2. 1860","year":1860,"approx":true},
+      spouse: "frantisek_ki",
+      notes: [
+        "Matka Cecilie Hrazdílkové; dcera Augustina Žilky (?)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
       ]
     }
   ]
