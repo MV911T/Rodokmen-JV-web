@@ -2359,22 +2359,24 @@ window.RODOKMEN = {
       maiden: "Laukotová (Loukotová)",
       line: "loukota",
       cert: "M",
-      b: {"date":"26. 8. 1822 (?)","year":1822,"place":"Osek u Rokycan č. p. 10"},
+      b: {"date":"26. 8. 1822","year":1822,"place":"Cerhovice (?)"},
       father: "jan_la",
       mother: "magdalena_la",
       spouse: "matej_f",
       marriage: "17. 2. 1846, Osek – s Matějem Forejtem",
       notes: [
-        "Dcera Jana Laukoty, domkáře a obecního sluhy (?) z Oseku č. 10 (poddaný panství Zbiroh), a Magdaleny roz. Lancíkové (?) z Drahoňova Újezdu. Datum narození podle oddacího zápisu (nejisté čtení), ověřit křtem."
+        "Narozena 26. 8. 1822 – podle oddacího zápisu 1846 „laut Originaltaufschein von Zerhowitz“ (křestní list z fary Cerhovice ?, panství Zbiroh), 23 let. Dcera Jana Laukoty, domkáře a obecního sluhy (?) v Oseku č. 10 (poddaný zbirožský), a Magdaleny roz. Lancíkové (?) z Drahoňova Újezdu. Křest v Drahoňově Újezdě a Zbirohu (1821–1823) nenalezen."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
+        "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o"
       ],
       scans: [
         {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_zenich.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 17. 2. 1846 – ženich"},
-        {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_nevesta.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 1846 – nevěsta"}
+        {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_nevesta.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 1846 – nevěsta"},
+        {"f":"img/1846_oddani_anna_laukotova_datum_narozeni_osek11_sn214.jpg","t":"Oddací zápis 1846 – Anna Laukotová, narozena 26. 8. 1822 (křestní list Cerhovice)"}
       ]
     },
     {
@@ -2639,7 +2641,8 @@ window.RODOKMEN = {
       occ: "sedlák ve Volduchách č. 67",
       notes: [
         "Otec Veroniky Forejtové; sedlák ve Volduchách č. 67, manželka Dorota.",
-        "Jiný Josef Trgjk (sedlák, Osek č. 67, manželka Kateřina, děti 1782–1785) není totožný."
+        "Jiný Josef Trgjk (sedlák, Osek č. 67, manželka Kateřina, děti 1782–1785) není totožný.",
+        "Měl dospělou dceru Magdalenu už 1782 (⚭ 30. 7. 1782 Václav Wilczyk, vdovec – Osek 07 Volduchy str. 44) → narozen nejpozději ~1740; Dorota je patrně jeho 2. manželka. Sňatek s Dorotou v Oseku 1772–1783 nenalezen."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
@@ -4032,23 +4035,26 @@ window.RODOKMEN = {
       name: "Matouš Kučera",
       line: "kucera",
       cert: "M",
-      b: {"date":"asi 1844/1845","year":1845,"approx":true,"place":"Heršpice č. p. 40"},
+      b: {"date":"11. 9. 1844","year":1844,"place":"Heršpice č. p. 40"},
       father: "jan_ku",
       mother: "veronika_sp",
       spouse: "anezka_sv",
       occ: "domkář v Heršpicích",
       marriage: "14. 7. 1872, Heršpice – s Anežkou Jakubcovou roz. Svobodovou",
       notes: [
+        "Narozen 11. 9., pokřtěn 12. 9. 1844 v Heršpicích č. 40 (fara Slavkov); otec Jan Kučera, třičtvrtník; matka Veronika, dcera Františka Spačila, pololáníka v Křenovicích (?). Kmotři František a Marianna Uhlrichovi (?), domkáři v Heršpicích.",
         "Oddán 14. 7. 1872 v Heršpicích (č. 40, v otcovském domě), 27 let; syn Jana Kučery, třičtvrtníka z Heršpic, a Veroniky, dcery Františka Spačila. Svědci Šimon Průdek (?), domkař, a Jan Svoboda.",
         "Domkář v Heršpicích (č. 37); otec Veroniky Jeřábkové (*1875)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 104, snímek 55, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 74, snímek 40 – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952"
       ],
       scans: [
-        {"f":"img/1872_O_13144_sn21_str36_Kucera_Matous_Jakubcova_Svobodova_Anezka_Herspice.jpg","t":"Sňatek Matouše Kučery a Anežky Jakubcové roz. Svobodové, Heršpice 14. 7. 1872"}
+        {"f":"img/1872_O_13144_sn21_str36_Kucera_Matous_Jakubcova_Svobodova_Anezka_Herspice.jpg","t":"Sňatek Matouše Kučery a Anežky Jakubcové roz. Svobodové, Heršpice 14. 7. 1872"},
+        {"f":"img/1844_N_13124_sn327_str83_Kucera_Matous_Herspice_c40.jpg","t":"Křest Matouše Kučery, Heršpice 1844"}
       ]
     },
     {
@@ -4460,7 +4466,8 @@ window.RODOKMEN = {
       marriage: "13. 5. 1873, Heršpice – s Magdalenou Hrabovskou",
       notes: [
         "Oddán 13. 5. 1873 v Heršpicích (č. 21), 23 let, nezletilý (souhlas otce); syn Františka Jeřábka, domkaře z Heršpic, a Marie, dcery Pavla Láníčka. Svědci Jakub … a Jakub Svoboda, domkaři z Heršpic.",
-        "Otec Aloise Jeřábka (*1873)."
+        "Otec Aloise Jeřábka (*1873).",
+        "Křest: rejstřík narozených fary Slavkov 1849 „Jeřabek Franz – Herspitz – str. 14“ (dvakrát – dvojčata ?); heršpická kniha narozených od 1845 není online (žádost MÚ Slavkov / MZA)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 74, snímek 40 – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -4810,12 +4817,14 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      father: "frantisek_sp",
       spouse: "jan_ku",
       notes: [
-        "Matka Matouše Kučery; dcera Františka Spačila."
+        "Matka Matouše Kučery; dcera Františka Spačila, pololáníka v Křenovicích (?)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952"
       ]
     },
     {
@@ -4855,13 +4864,18 @@ window.RODOKMEN = {
       name: "Jakub Trgjk",
       line: "lezak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
-      d: {"date":"před 28. 10. 1781","year":1781,"approx":true},
+      b: {"date":"asi 1722","year":1722,"approx":true},
+      d: {"date":"1. 9. 1772","year":1772,"place":"Osek u Rokycan č. p. 83"},
+      occ: "sedlák v Oseku č. 83",
       notes: [
-        "Otec Šimona Trgjka, z Oseka."
+        "Otec Šimona Trgjka. Zemřel (pohřben ?) 1. 9. 1772 v Oseku č. 83 jako sedlák, 50 let (farář Franz Engelthaler)."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), snímek 6 – https://www.portafontium.eu/iipimage/30066674/osek-08_0060-z"
+      ],
+      scans: [
+        {"f":"img/1772_umrti_jakub_trgjk_osek08_sn6.jpg","t":"Úmrtí Jakuba Trgjka, Osek 1772"}
       ]
     },
     {
@@ -4876,6 +4890,21 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
+      ]
+    },
+    {
+      id: "frantisek_sp",
+      name: "František Spačil",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      occ: "pololáník v Křenovicích (?)",
+      notes: [
+        "Otec Veroniky Kučerové."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
+        "MZA Brno, O Heršpice 13144, str. 36 (1872)"
       ]
     }
   ]
