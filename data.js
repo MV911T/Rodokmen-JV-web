@@ -2319,22 +2319,28 @@ window.RODOKMEN = {
       name: "Jan Čapek",
       line: "capek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      b: {"date":"asi 1795","year":1795,"approx":true},
       d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
+      father: "jan_c0",
       spouse: "marie_cc",
       occ: "familiant v Hrubém Jeseníku č. 48 (1829), výměnkář (1851)",
+      marriage: "13. 2. 1816, Hrubý Jeseník – s Marií Čapkovou",
       notes: [
+        "Oddán 13. 2. 1816 v Hrubém Jeseníku (č. 48) jako syn † Jana Čapka, familianta v Jeseníku, 21 let; oddával Jan Tobiáš Majer.",
         "Otec Karla Čapka; familiant v Jeseníku č. 48, 1851 výměnkář. V roce 1874 už nežil."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222"
       ],
       scans: [
         {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"},
         {"f":"img/1829_krest_karel_capek_hruby_jesenik_a.jpg","t":"Křest Karla Čapka, Hrubý Jeseník 1829"},
-        {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"}
+        {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"},
+        {"f":"img/1816_snatek_jan_capek_hruby_jesenik_a.jpg","t":"Sňatek Jana Čapka a Marie Čapkové, Hrubý Jeseník 13. 2. 1816 – ženich"},
+        {"f":"img/1816_snatek_jan_capek_hruby_jesenik_b.jpg","t":"Sňatek Jana Čapka a Marie Čapkové 1816 – nevěsta"}
       ]
     },
     {
@@ -2343,20 +2349,25 @@ window.RODOKMEN = {
       maiden: "Čapková",
       line: "capek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true,"place":"Jeseník"},
+      b: {"date":"asi 1798","year":1798,"approx":true,"place":"Hrubý Jeseník"},
       d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
       father: "karel_c0",
       spouse: "jan_c",
+      marriage: "13. 2. 1816, Hrubý Jeseník – s Janem Čapkem",
       notes: [
-        "Matka Karla Čapka; dcera † Karla Čapka, chalupníka z Jeseníka č. 30 (křest syna 1829)."
+        "Matka Karla Čapka; dcera † Karla Čapka, chalupníka z Jeseníka č. 30 (křest syna 1829).",
+        "Při sňatku 1816 18 let, dcera † Karla Čapka, chalupníka z Jeseníka."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222"
       ],
       scans: [
         {"f":"img/1829_krest_karel_capek_hruby_jesenik_a.jpg","t":"Křest Karla Čapka, Hrubý Jeseník 1829"},
-        {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"}
+        {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"},
+        {"f":"img/1816_snatek_jan_capek_hruby_jesenik_a.jpg","t":"Sňatek Jana Čapka a Marie Čapkové, Hrubý Jeseník 13. 2. 1816 – ženich"},
+        {"f":"img/1816_snatek_jan_capek_hruby_jesenik_b.jpg","t":"Sňatek Jana Čapka a Marie Čapkové 1816 – nevěsta"}
       ]
     },
     {
@@ -3123,19 +3134,26 @@ window.RODOKMEN = {
       name: "František Klika",
       line: "klika",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      b: {"date":"asi 1805","year":1805,"approx":true,"place":"Suchomasty"},
       d: {"date":"před 20. 1. 1880","year":1880,"approx":true},
+      father: "vaclav_kl",
+      mother: "katerina_sl",
       spouse: "anna_sv",
       occ: "domkář v Suchomastech č. 14",
+      marriage: "14. 2. 1832, Suchomasty (fara Borek) – s Annou Svobodovou",
       notes: [
-        "Domkář v Suchomastech (1834), rodák ze Suchomast; syn † Václava Kliky ze Suchomast č. 11 (?) a Kateřiny roz. Šlikové (?) z Litně (?) – čtení nejisté. Usedlost Suchomasty č. 14."
+        "Oddán 14. 2. 1832 v Suchomastech (27 let, svobodný): pozůstalý syn † Václava Kliky, vysloužilce (?) a podruha v Suchomastech č. 12, a Kateřiny roz. Šlikové (?) z Litně (?); svědci Matěj Klika, kostelník (?) z Litně (?), a Václav Bůh (?) z Velkých Suchomast.",
+        "Domkář v Suchomastech (1834); usedlost Suchomasty č. 14 (dům tchána). V roce 1874 už nežil."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
       ],
       scans: [
-        {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"}
+        {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
+        {"f":"img/1832_snatek_frantisek_klika_suchomasty_a.jpg","t":"Sňatek Františka Kliky a Anny Svobodové, Suchomasty 14. 2. 1832 – ženich"},
+        {"f":"img/1832_snatek_frantisek_klika_suchomasty_b.jpg","t":"Sňatek Františka Kliky a Anny Svobodové 1832 – nevěsta, svědci"}
       ]
     },
     {
@@ -3144,19 +3162,25 @@ window.RODOKMEN = {
       maiden: "Svobodová",
       line: "svoboda",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true,"place":"Suchomasty č. p. 14"},
+      b: {"date":"asi 1808","year":1808,"approx":true,"place":"Suchomasty č. p. 14"},
       d: {"date":"před 20. 1. 1880","year":1880,"approx":true},
+      father: "vaclav_sv0",
+      mother: "josefa_pr",
       spouse: "frantisek_kl",
+      marriage: "14. 2. 1832, Suchomasty – s Františkem Klikou",
       notes: [
-        "Babička Karla Kliky; dcera † Václava Svobody, domkáře ze Suchomast č. 14, a Josefy roz. Prajzové (?) ze Suchomast."
+        "Pozůstalá dcera † Václava Svobody, domkáře v Suchomastech č. 14, a Josefy roz. Prajzové (?) ze Suchomast; při sňatku 1832 24 let."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
       ],
       scans: [
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
-        {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest Josefa Kliky 1834 – matka, kmotři"}
+        {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest Josefa Kliky 1834 – matka, kmotři"},
+        {"f":"img/1832_snatek_frantisek_klika_suchomasty_a.jpg","t":"Sňatek Františka Kliky a Anny Svobodové, Suchomasty 14. 2. 1832 – ženich"},
+        {"f":"img/1832_snatek_frantisek_klika_suchomasty_b.jpg","t":"Sňatek Františka Kliky a Anny Svobodové 1832 – nevěsta, svědci"}
       ]
     },
     {
@@ -3915,6 +3939,83 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Josefa Hrazdílka, Heršpice 1913"}
+      ]
+    },
+    {
+      id: "vaclav_kl",
+      name: "Václav Klika",
+      line: "klika",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      d: {"date":"před 14. 2. 1832","year":1832,"approx":true},
+      spouse: "katerina_sl",
+      occ: "vysloužilec (?), podruh v Suchomastech č. 12",
+      notes: [
+        "Otec Františka Kliky."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
+      ]
+    },
+    {
+      id: "katerina_sl",
+      name: "Kateřina Kliková",
+      maiden: "Šliková (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true,"place":"Liteň (?)"},
+      spouse: "vaclav_kl",
+      notes: [
+        "Matka Františka Kliky; čtení příjmení a místa nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
+      ]
+    },
+    {
+      id: "vaclav_sv0",
+      name: "Václav Svoboda",
+      line: "svoboda",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      d: {"date":"před 14. 2. 1832","year":1832,"approx":true},
+      spouse: "josefa_pr",
+      occ: "domkář v Suchomastech č. 14",
+      notes: [
+        "Otec Anny Klikové (jiný Václav Svoboda než domkář z č. 21, otec Marie Klikové)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
+      ]
+    },
+    {
+      id: "josefa_pr",
+      name: "Josefa Svobodová",
+      maiden: "Prajzová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true,"place":"Suchomasty"},
+      spouse: "vaclav_sv0",
+      notes: [
+        "Matka Anny Klikové; čtení příjmení nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
+      ]
+    },
+    {
+      id: "jan_c0",
+      name: "Jan Čapek",
+      line: "capek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      d: {"date":"před 13. 2. 1816","year":1816,"approx":true},
+      occ: "familiant v Hrubém Jeseníku",
+      notes: [
+        "Otec Jana Čapka (*~1795)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222"
       ]
     }
   ]
