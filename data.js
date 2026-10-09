@@ -2601,22 +2601,26 @@ window.RODOKMEN = {
       name: "Josef Forejt",
       line: "forejt",
       cert: "M",
-      b: {"date":"asi 1781","year":1781,"approx":true},
+      b: {"date":"2. (?) 6. 1781","year":1781,"place":"Osek u Rokycan č. p. 66"},
+      mother: "barbora_fo",
       spouse: "marianna_le",
       occ: "horník (1801), domkář v Oseku č. 91 (poddaný Mirošov)",
       marriage: "27. 11. 1801, Osek – s Veronikou",
       notes: [
+        "Pokřtěn v červnu 1781 (den 2. ?) v Oseku č. 66; „Forejt Witwe, Barbara Mutter“ – pohrobek, matka Barbora, vdova po Forejtovi. Kmotři Daniel Schuha (?), Šimon Koßlau (?) a Kateřina Aubrechtová.",
         "Oddán 27. 11. 1801 v Oseku (dům č. 66): Josef Forejt, Bergmann, 20 let, svobodný; svědci Josef Uhlíř (?), podruh, a Jakub Šikora (?), voják; oddával kaplan P. Karl Gruler (?). Rodiče snoubenců zápis neuvádí.",
         "Otec Matěje Forejta (*1823); dal souhlas k jeho sňatku 1846."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 28, snímek 16 – https://www.portafontium.eu/iipimage/30066673/osek-07_0160-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 28, snímek 16 – https://www.portafontium.eu/iipimage/30066673/osek-07_0160-o",
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 14 – https://www.portafontium.eu/iipimage/30066671/osek-05_0140-n"
       ],
       scans: [
         {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"},
-        {"f":"img/1801_oddani_josef_forejt_veronika_osek.jpg","t":"Sňatek Josefa Forejta a Veroniky, Osek 27. 11. 1801"}
+        {"f":"img/1801_oddani_josef_forejt_veronika_osek.jpg","t":"Sňatek Josefa Forejta a Veroniky, Osek 27. 11. 1801"},
+        {"f":"img/1781_krest_josef_forejt_osek66_osek05_sn14.jpg","t":"Křest Josefa Forejta, Osek 1781"}
       ]
     },
     {
@@ -5195,6 +5199,21 @@ window.RODOKMEN = {
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960"
+      ]
+    },
+    {
+      id: "barbora_fo",
+      name: "Barbora Forejtová",
+      line: "forejt",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      notes: [
+        "Matka Josefa Forejta (*1781), v roce 1781 vdova po Forejtovi, Osek č. 66.",
+        "KANDIDÁT: manžel Vít Forejt, sedlák v Oseku č. 66 – v srpnu 1778 jim tam pokřtili dceru Barboru (Osek 05 str. 16); že je Vít otcem Josefa, je odvozené (stejný dům i matka), neověřeno – hledat úmrtí Víta 1778–1781 (Osek 08)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 14 – https://www.portafontium.eu/iipimage/30066671/osek-05_0140-n",
+        "SOA Plzeň, fara Osek, kniha Osek 05, str. 16, snímek 11 – https://www.portafontium.eu/iipimage/30066671/osek-05_0110-n"
       ]
     }
   ]
