@@ -52,7 +52,8 @@ window.RODOKMEN = {
     "grozman": "Grozman",
     "koc": "Koč",
     "pollak": "Pollak",
-    "stadler": "Stádler"
+    "stadler": "Stádler",
+    "igla": "Igla (?)"
   },
   people: [
     {
@@ -829,6 +830,7 @@ window.RODOKMEN = {
       notes: [
         "Narozen a pokřtěn 26. 12. 1836 v Těchobuzi č. 36 (fara Zhoř). Otec Jan Votava, nádeník, syn Martina Votavy, nádeníka z Jetřichovic č. 22, a Terezie roz. Mrkvové (?); matka Kateřina, dcera Matěje Flemra (?), chalupníka z Tučap č. 36, a Kateřiny roz. Křížové (?) z Chýšky (?) č. 18.",
         "Při sňatku 1865 (28 let) „reservní jízdní dělostřelec 2. třídy c. k. 5. dělostřeleckého pluku svobodného pána ze Hartmanu (?)“ a nádeník v Těchobuzi č. 13; povolení velitelství pluku ve Veroně z 10. 8. 1865. Svědci Jiří (?) Stříž, sedlák z Těchobuze č. 13, a Anton Michal, krejčí z Těchobuze č. 61.",
+        "V Souši (Karolinina šachta) už v březnu 1873 – mrtvě narozený syn Josef.",
         "Už v roce 1874 horník v kolonii Carolina u Souše (křest syna Josefa); v Souši žil i jeho bratr František.",
         "1866 nádeník v Těchobuzi č. 47 (mrtvě narozená dcera 14. 4. 1866); 1868 panský kočí v Pravoníně č. 74; později horník v Souši u Mostu č. 116 (1894, 1899).",
         "Podle rodinného rodokmenu měl nejméně dva další syny; syn jednoho z nich byl major armády USA, který v roce 1945 navštívil Václava Votavu (*1899) v Mostě."
@@ -843,7 +845,8 @@ window.RODOKMEN = {
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826",
-        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (N Souš 1811–1880), pag. 434, snímek 316"
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (N Souš 1811–1880), pag. 434, snímek 316",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, N), pag. 392, snímek 295"
       ],
       scans: [
         {"f":"img/dopis_vaclav_votava_techobuz.jpg","t":"Dopis Václava Votavy (*1933) obecnímu úřadu v Těchobuzi"},
@@ -855,7 +858,8 @@ window.RODOKMEN = {
         {"f":"img/1865_oddani_Votava_Stepan_Michalova_Antonie_Techobuz_b.jpg","t":"Sňatek Štěpána Votavy a Antonie Michalové, Těchobuz 1865 – nevěsta, svědci"},
         {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"},
         {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"},
-        {"f":"img/1874_N_Votava_Josef_Sous.jpg","t":"Křest Josefa Votavy, Souš 1874"}
+        {"f":"img/1874_N_Votava_Josef_Sous.jpg","t":"Křest Josefa Votavy, Souš 1874"},
+        {"f":"img/1873_N_Votava_Josef_mrtvorozeny_Sous_otec_Stepan.jpg","t":"Mrtvě narozený Josef, Souš 1873 – otec Štěpán"}
       ]
     },
     {
@@ -873,7 +877,8 @@ window.RODOKMEN = {
       notes: [
         "Narozena 16. 12., pokřtěna 17. 12. 1836 v Těchobuzi č. 19 (fara Zhoř). Otec Jan Michal, půlsedlák (sedlák) z Těchobuze č. 19, syn Vojtěcha Michala, sedláka z č. 19, a Kateřiny roz. Vrzalové (?) ze Zhoře (?); matka Marie, dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily roz. Lhotkové (?).",
         "Při sňatku 1865 28 let. Dcera narozená 14. 4. 1866 v Těchobuzi č. 47 byla mrtvě narozená.",
-        "V roce 1894 už nežila (oddací zápis syna: „+ Antonie geb. Michal“)."
+        "V roce 1894 už nežila (oddací zápis syna: „+ Antonie geb. Michal“).",
+        "KANDIDÁT úmrtí: rejstřík Souš uvádí k roku 1887 „Tschausch 63 (?) Wotawa Antonia – gestorben – Tom XIII pag. 83“ (kniha zemřelých Souš od 1881 není online; mohlo by jít i o dítě) – ověřit žádostí."
       ],
       sources: [
         "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
@@ -890,7 +895,8 @@ window.RODOKMEN = {
         {"f":"img/1865_oddani_Votava_Stepan_Michalova_Antonie_Techobuz_b.jpg","t":"Sňatek Štěpána Votavy a Antonie Michalové, Těchobuz 1865 – nevěsta, svědci"},
         {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"},
         {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"},
-        {"f":"img/1874_N_Votava_Josef_Sous.jpg","t":"Křest Josefa Votavy, Souš 1874"}
+        {"f":"img/1874_N_Votava_Josef_Sous.jpg","t":"Křest Josefa Votavy, Souš 1874"},
+        {"f":"img/1873_N_Votava_Josef_mrtvorozeny_Sous_otec_Stepan.jpg","t":"Mrtvě narozený Josef, Souš 1873 – otec Štěpán"}
       ]
     },
     {
@@ -2834,16 +2840,26 @@ window.RODOKMEN = {
       b: {"date":"neznámé (před 8/1841; odhad ~1839)","year":1839,"approx":true},
       father: "jan_v",
       mother: "katerina_f",
-      occ: "horník v kolonii Carolina u Souše (1874)",
+      spouse: "alzbeta_ig",
+      occ: "horník na Karolinině šachtě u Souše (1873–1878)",
       notes: [
-        "Bratr Štěpána: v křtu dcery Alžběty (Souš 1874) „rodák a příslušník Těchobuze, syn Johanna Votavy, nádeníka v Těchobuzi č. 13, a Kateřiny roz. Flemrové (?) z Tučap“. Manželka Alžběta (Elisabeth) z Vodochod (?) č. 52.",
-        "KANDIDÁT: rejstřík Souš uvádí 1873 sňatek „Wotawa Franz mit Maria …“ a další děti Votavů v kolonii (1873, 1878) – nečteno. Jeho potomci mohli být „americkou“ větví z rodinné tradice."
+        "Bratr Štěpána, rodák z Těchobuze č. 13, syn Jana Votavy, nádeníka v Těchobuzi č. 13, a Kateřiny roz. Flemrové (?) z Tučap (křty dětí v Souši 1873–1874). Manželka Alžběta, dcera Josefa Igly (?), podruha ve Vodochodech č. 52 (okr. Roudnice).",
+        "Děti v Souši: František Serafín (1. 1. 1873 – 20. 3. 1875), dvojčata Alžběta († 5. 11. 1874) a Anna Marie († 7. 11. 1874), Anna († 2. 1. 1878), František († 1878, 1½ dne) – žádné z nich se nedožilo dospělosti.",
+        "Kmotry syna 1873 byli Albert Wotawa, horník na Karolinině šachtě, a jeho žena Barbora – KANDIDÁT příbuzného (jiná rodina Wottawa z „Glognitz (?)“).",
+        "Rodinná tradice o „americké“ větvi: sestra prababičky Anežky Černochové odešla do Texasu (matčina strana); u Františkových dětí se odchod nepotvrdil."
       ],
       sources: [
-        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (N Souš 1811–1880), pag. 442, snímek 320"
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (N Souš 1811–1880), pag. 442, snímek 320",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, N), pag. 388, snímek 293",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, Z), pag. 157, snímek 506",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, Z), pag. 178, snímek 517",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, Z), pag. 185, snímek 520"
       ],
       scans: [
-        {"f":"img/1874_N_Votava_Elisabeth_Sous_otec_Frantisek.jpg","t":"Křest Alžběty Votavové, Souš 1874 – otec František"}
+        {"f":"img/1874_N_Votava_Elisabeth_Sous_otec_Frantisek.jpg","t":"Křest Alžběty Votavové, Souš 1874 – otec František"},
+        {"f":"img/1873_N_Votava_Frantisek_Ser_Sous_otec_Frantisek.jpg","t":"Křest Františka Serafína Votavy, Souš 1873 – otec František"},
+        {"f":"img/1874_Z_Votava_Elisabeth_Anna_Maria_Sous_otec_Frantisek.jpg","t":"Úmrtí dvojčat Alžběty a Anny Marie, Souš 1874"},
+        {"f":"img/1878_Z_Votava_Anna_Frantisek_Sous_otec_Frantisek.jpg","t":"Úmrtí Anny a Františka Votavových, Souš 1878"}
       ]
     },
     {
@@ -2852,16 +2868,19 @@ window.RODOKMEN = {
       line: "votava",
       cert: "M",
       b: {"date":"5. 11. (?) 1874","year":1874,"place":"kolonie Carolina u Souše"},
-      d: {"date":"5. 11. (?) 1874","year":1874},
+      d: {"date":"5. 11. 1874","year":1874,"place":"kolonie Karolinina šachta u Souše"},
       father: "frantisek_v",
+      mother: "alzbeta_ig",
       notes: [
-        "Pokřtěna z nouze porodní bábou, zemřela týž den (?)."
+        "Zemřela několik minut po narození; dvojče Anny Marie."
       ],
       sources: [
-        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (N Souš 1811–1880), pag. 442, snímek 320"
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (N Souš 1811–1880), pag. 442, snímek 320",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, Z), pag. 157, snímek 506"
       ],
       scans: [
-        {"f":"img/1874_N_Votava_Elisabeth_Sous_otec_Frantisek.jpg","t":"Křest Alžběty Votavové, Souš 1874 – otec František"}
+        {"f":"img/1874_N_Votava_Elisabeth_Sous_otec_Frantisek.jpg","t":"Křest Alžběty Votavové, Souš 1874 – otec František"},
+        {"f":"img/1874_Z_Votava_Elisabeth_Anna_Maria_Sous_otec_Frantisek.jpg","t":"Úmrtí dvojčat Alžběty a Anny Marie, Souš 1874"}
       ]
     },
     {
@@ -2987,6 +3006,120 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
+      ]
+    },
+    {
+      id: "josef1873v",
+      name: "Josef Votava",
+      line: "votava",
+      cert: "M",
+      b: {"date":"18. 3. 1873","year":1873,"place":"Souš (Karolinina šachta)"},
+      d: {"date":"18. 3. 1873","year":1873,"place":"Souš"},
+      father: "stepan_v",
+      mother: "antonie_m",
+      notes: [
+        "Mrtvě narozený syn Štěpána a Antonie, pokřtěn z nouze porodní bábou Františkou Kratsch."
+      ],
+      sources: [
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, N), pag. 392, snímek 295",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, Z), pag. 143, snímek 499"
+      ],
+      scans: [
+        {"f":"img/1873_N_Votava_Josef_mrtvorozeny_Sous_otec_Stepan.jpg","t":"Mrtvě narozený Josef, Souš 1873 – otec Štěpán"}
+      ]
+    },
+    {
+      id: "alzbeta_ig",
+      name: "Alžběta Votavová",
+      maiden: "Iglová (?)",
+      line: "igla",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1850)","year":1850,"approx":true,"place":"Vodochody č. p. 52, okr. Roudnice"},
+      spouse: "frantisek_v",
+      notes: [
+        "Manželka Františka Votavy; dcera Josefa Igly (?), podruha ve Vodochodech č. 52. Čtení příjmení nejisté."
+      ],
+      sources: [
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, N), pag. 388, snímek 293"
+      ],
+      scans: [
+        {"f":"img/1873_N_Votava_Frantisek_Ser_Sous_otec_Frantisek.jpg","t":"Křest Františka Serafína Votavy, Souš 1873 – otec František"}
+      ]
+    },
+    {
+      id: "frantisek1873v",
+      name: "František Serafín Votava",
+      line: "votava",
+      cert: "M",
+      b: {"date":"1. 1. 1873","year":1873,"place":"Karolinina šachta u Souše"},
+      d: {"date":"20. 3. 1875","year":1875},
+      father: "frantisek_v",
+      mother: "alzbeta_ig",
+      notes: [
+        "Kmotři Albert a Barbora Wotawovi."
+      ],
+      sources: [
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, N), pag. 388, snímek 293"
+      ],
+      scans: [
+        {"f":"img/1873_N_Votava_Frantisek_Ser_Sous_otec_Frantisek.jpg","t":"Křest Františka Serafína Votavy, Souš 1873 – otec František"}
+      ]
+    },
+    {
+      id: "annamarie1874v",
+      name: "Anna Marie Votavová",
+      line: "votava",
+      cert: "M",
+      b: {"date":"5. 11. 1874 (?)","year":1874,"place":"kolonie Karolinina šachta u Souše"},
+      d: {"date":"7. 11. 1874","year":1874},
+      father: "frantisek_v",
+      mother: "alzbeta_ig",
+      notes: [
+        "Dvojče Alžběty; zemřela ve věku 2 dnů."
+      ],
+      sources: [
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, Z), pag. 157, snímek 506"
+      ],
+      scans: [
+        {"f":"img/1874_Z_Votava_Elisabeth_Anna_Maria_Sous_otec_Frantisek.jpg","t":"Úmrtí dvojčat Alžběty a Anny Marie, Souš 1874"}
+      ]
+    },
+    {
+      id: "anna1877v",
+      name: "Anna Votavová",
+      line: "votava",
+      cert: "M",
+      b: {"date":"asi 1876/1877","year":1877,"approx":true},
+      d: {"date":"2. 1. 1878","year":1878,"place":"Souš"},
+      father: "frantisek_v",
+      mother: "alzbeta_ig",
+      notes: [
+        "Dcera Františka; křest nečten."
+      ],
+      sources: [
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, Z), pag. 178, snímek 517"
+      ],
+      scans: [
+        {"f":"img/1878_Z_Votava_Anna_Frantisek_Sous_otec_Frantisek.jpg","t":"Úmrtí Anny a Františka Votavových, Souš 1878"}
+      ]
+    },
+    {
+      id: "frantisek1878v",
+      name: "František Votava",
+      line: "votava",
+      cert: "M",
+      b: {"date":"1878","year":1878,"approx":true},
+      d: {"date":"1878 (září ?)","year":1878},
+      father: "frantisek_v",
+      mother: "alzbeta_ig",
+      notes: [
+        "Syn Františka a Alžběty; zemřel ve věku 1½ dne."
+      ],
+      sources: [
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, Z), pag. 185, snímek 520"
+      ],
+      scans: [
+        {"f":"img/1878_Z_Votava_Anna_Frantisek_Sous_otec_Frantisek.jpg","t":"Úmrtí Anny a Františka Votavových, Souš 1878"}
       ]
     }
   ]
