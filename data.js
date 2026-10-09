@@ -5077,21 +5077,24 @@ window.RODOKMEN = {
       maiden: "Spačilová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1814)","year":1814,"approx":true,"place":"Křenovice"},
+      b: {"date":"28. 1. 1814","year":1814,"place":"Křenovice č. p. 82"},
       father: "frantisek_sp",
       mother: "marianna_sp",
       spouse: "jan_ku",
       marriage: "9. 7. 1837, Křenovice – s Janem Kučerou",
       notes: [
-        "Matka Matouše Kučery; dcera † Františka Spačila, pololáníka v Křenovicích, a Marianny; při sňatku 1837 23 let."
+        "Narozena a pokřtěna 28. 1. 1814 v Křenovicích č. 82: otec František Spačil, domkář, matka Marianna Zrůnková (?); kmotři Kašpar Lotrab (?), třičtvrtník, a manželka Tekla.",
+        "Matka Matouše Kučery; dcera † Františka Spačila, pololáníka v Křenovicích, a Marianny; při sňatku 1837 uvedeno 23 let (ve skutečnosti 23)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 212, snímek 205 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ],
       scans: [
-        {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837"}
+        {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837"},
+        {"f":"img/1814_N_13123_sn205_str212_Krenovice_c82_Spacilova_Veronika_radek_plne_rozl.jpg","t":"Křest Veroniky Spačilové, Křenovice 28. 1. 1814"}
       ]
     },
     {
@@ -5189,17 +5192,24 @@ window.RODOKMEN = {
       name: "František Spačil",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"asi 1775","year":1775,"approx":true,"place":"Křenovice"},
       d: {"date":"před 9. 7. 1837","year":1837,"approx":true},
       spouse: "marianna_sp",
-      occ: "pololáník v Křenovicích",
+      occ: "patentální invalida (1805), domkář (1814), pololáník v Křenovicích č. 82",
+      marriage: "7. 5. 1805, Křenovice – s Mariannou Zrůnkovou (?)",
       notes: [
-        "Otec Veroniky Kučerové."
+        "Otec Veroniky Kučerové.",
+        "Oddán 7. 5. 1805 v Křenovicích (č. 82) jako „Patental Invalid“, 30 let, s Mariannou, dcerou Ondřeje Zrůnka (?) z č. 53 (22 let); svědci Matěj a Pavel Spačilové, třičtvrtníci. Pozor: na téže straně jiný František Spačil (č. 70) × Marianna Hložková."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
         "MZA Brno, O Heršpice 13144, str. 36 (1872)",
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 78, snímek 71 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 212, snímek 205 – https://www.mza.cz/actapublica/matrika/detail/1951"
+      ],
+      scans: [
+        {"f":"img/1805_O_13137_sn71_str78_Spacil_Frantisek_x_Marianna_Andreas_Zrunek_plne_rozl.jpg","t":"Sňatek Františka Spačila a Marianny Zrůnkové (?), Křenovice 7. 5. 1805"}
       ]
     },
     {
@@ -5281,7 +5291,8 @@ window.RODOKMEN = {
       spouse: "katerina_lo",
       occ: "třičtvrtník v Heršpicích",
       notes: [
-        "Otec Jana Kučery."
+        "Otec Jana Kučery.",
+        "POZOR: 15. 11. 1808 se v Heršpicích oženil Tobiáš, syn Tobiáše Kučery, třičtvrtníka (20 let, č. 65), s Teklou Hrabovskou (19) – je otcem Jana (*1816) Tobiáš st., nebo Tobiáš ml. ve 2. manželství s Kateřinou? Sňatek Tobiáš × Kateřina v indexu oddaných 1802–1820 není."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -5307,15 +5318,24 @@ window.RODOKMEN = {
     {
       id: "marianna_sp",
       name: "Marianna Spačilová",
+      maiden: "Zrůnková (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true,"place":"Křenovice"},
+      b: {"date":"asi 1783","year":1783,"approx":true,"place":"Křenovice č. p. 53"},
+      father: "ondrej_zr",
       spouse: "frantisek_sp",
+      marriage: "7. 5. 1805, Křenovice – s Františkem Spačilem",
       notes: [
-        "Matka Veroniky Kučerové; dcera Ondřeje (?) …, pololáníka v Křenovicích – rodné příjmení nečitelné."
+        "Dcera Ondřeje Zrůnka (?) z Křenovic č. 53; oddána 7. 5. 1805 (22 let). Matka Veroniky Kučerové (*1814). Rodné příjmení ve třech zápisech „Zrunek“ (?) – čtení nejisté."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 78, snímek 71 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 212, snímek 205 – https://www.mza.cz/actapublica/matrika/detail/1951"
+      ],
+      scans: [
+        {"f":"img/1805_O_13137_sn71_str78_Spacil_Frantisek_x_Marianna_Andreas_Zrunek_plne_rozl.jpg","t":"Sňatek Františka Spačila a Marianny Zrůnkové (?), Křenovice 7. 5. 1805"},
+        {"f":"img/1814_N_13123_sn205_str212_Krenovice_c82_Spacilova_Veronika_radek_plne_rozl.jpg","t":"Křest Veroniky Spačilové, Křenovice 28. 1. 1814"}
       ]
     },
     {
@@ -5581,7 +5601,7 @@ window.RODOKMEN = {
         "Oddán 29. 7. 1783 v Hodějicích: „Hrasdilek Wenceslaus, honestus juvenis, cum honesta puella Magdalena filia Josephi Roskopal, Hodj.“; svědci Karel Rozek (?) a Jiří Billi ze Slavkova. V roce 1827 „† Wenzel Hrazdirek, Hofschaffer (?) von Hodiejitz“.",
         "Otec Jana (*1790) a Matyldy (*1793). Zemřel před sňatkem syna 1827.",
         "V Hodějicích současně čtvrtník Vavřinec Hrazdílek × Kateřina (sňatek 1785; děti Terezie 1791, Martin 1793) – příbuznost neznámá.",
-        "KANDIDÁT křtu: 25. 9. 1762 pokřtěn v Hodějicích „Wenceslaus“, syn Martina Hrazdílka, sedláka, a Apolonie (kmotři Vavřinec Sekora z Rašovic a manželka Apolonie) – jediný Václav Hrazdílek ve faře Slavkov 1754–1765 (kromě nečtených IX 1755–1757); věk (20) sedí se sňatkem 1783, rodiče ženicha ale v oddacím zápisu nejsou. V Hodějicích současně i Matěj Hrazdílek × Kateřina.",
+        "KANDIDÁT křtu: 25. 9. 1762 pokřtěn v Hodějicích „Wenceslaus“, syn Martina Hrazdílka, sedláka, a Apolonie (kmotři Vavřinec Sekora z Rašovic a manželka Apolonie) – jediný Václav Hrazdílek ve faře Slavkov 1754–1765 (kromě nečtených IX 1755–1757); věk (20) sedí se sňatkem 1783, rodiče ženicha ale v oddacím zápisu nejsou. V Hodějicích současně i Matěj Hrazdílek × Kateřina. Kandidátní rodiče: Martin Hrazdílek, syn † Pavla Hrazdílka, sedláka v Hodějicích, oddán 22. 9. 1754 s Apolonií, vdovou po † Jakubu Krostlíkovi (?) z Heršpic (O 13121, sn. 295).",
         "V únoru 1799 žil v Hodějicích č. 63 („Wenzel Hrazdirek, Hofschaffer (?)“) – 9. 2. 1799 tam zemřel jeho syn Vincenc, 5 týdnů (Z 13149, str. 226).",
         "Ke kandidátnímu křtu 1762: jiný Václav Hrazdílek ve faře Slavkov IX 1754 – VIII 1765 není; Martin × Apolonie měli i dcery Annu (1755) a Apolonii (1757, „Herspicio“?). Martin Hrazdílek, domkář, zemřel 8. 4. 1791 v Hodějicích č. 1 ve věku 70 let – ve stejném domě se 5. 5. 1790 narodil Václavův syn Jan, což kandidátní otcovství Martina silně podporuje.",
         "Další děti s Magdalenou Roskopalovou v Hodějicích č. 63: Urban (20. 4. 1796), Vincenc (31. 12. 1798, † 9. 2. 1799), Antonín (10. 6. 1800), Apolonie (27. 1. 1803); kmotři Anton Majer s Mariannou (jako u Jana 1790) a Jiří Florián s Apolonií. Po 1803 v Hodějicích nedoložen.",
@@ -5598,7 +5618,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 335–349, snímky 324–338 – https://www.mza.cz/actapublica/matrika/detail/1951",
         "MZA Brno, fara Slavkov u Brna, Z 1784–1830, sign. 13149, oddíl Špitálka, str. 101–102, snímek 90 – https://www.mza.cz/actapublica/matrika/detail/1964",
         "MZA Brno, fara Slavkov u Brna, Z, sign. 13149, oddíl Špitálka, str. 106, snímek 92 – https://www.mza.cz/actapublica/matrika/detail/1964",
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Špitálka, str. 59, snímek 61 – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Špitálka, str. 59, snímek 61 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 295 – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
         {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"},
@@ -6141,6 +6162,23 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest Marie Semencové, Zbečno 28. 6. 1838"}
+      ]
+    },
+    {
+      id: "ondrej_zr",
+      name: "Ondřej Zrůnek (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      occ: "Křenovice č. 53",
+      notes: [
+        "Otec Marianny Spačilové (sňatek 1805); příjmení nejisté."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 78, snímek 71 – https://www.mza.cz/actapublica/matrika/detail/1959"
+      ],
+      scans: [
+        {"f":"img/1805_O_13137_sn71_str78_Spacil_Frantisek_x_Marianna_Andreas_Zrunek_plne_rozl.jpg","t":"Sňatek Františka Spačila a Marianny Zrůnkové (?), Křenovice 7. 5. 1805"}
       ]
     }
   ]
