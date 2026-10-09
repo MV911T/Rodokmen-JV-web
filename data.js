@@ -59,7 +59,8 @@ window.RODOKMEN = {
     "zahalka": "Zahálka (?)",
     "jelinek": "Jelínek",
     "kirchner": "Kirchner",
-    "kucera": "Kučera"
+    "kucera": "Kučera",
+    "pohl": "Pohl"
   },
   people: [
     {
@@ -672,21 +673,25 @@ window.RODOKMEN = {
       id: "frantisek_z",
       name: "František Zettelmann",
       line: "zettelmann",
-      cert: "D",
+      cert: "M",
       b: {"date":"11. 8. 1908","year":1908,"place":"Dobešov"},
       d: {"date":"15. 11. 1988","year":1988,"place":"Budišov nad Budisovkou"},
+      mother: "stepanka_z",
       spouse: "ludmila_b",
-      marriage: "24. 5. 1930 (matrika) / 30. 5. 1930 (Orsak), Veřovice – s Františkem Zettelmannem",
+      marriage: "24. 5. 1930, Veřovice – s Ludmilou Blažkovou",
       notes: [
-        "Otec Františka Zettelmanna (*1940) podle rodného listu Šárky Zettelmannové (1963).",
-        "Narození v Dobešově, sňatek ve Veřovicích a úmrtí v Budišově podle rodokmenu T. H. Orsaka.",
-        "Děti podle Orsaka: Božena (*1929), Josef (1931–2015, Leonberg), Eliška (1932–1989), Marie (1933–2002), Ludmila (*1936), František (1940–1999), Rudolf (*1943), Olin (*1951).",
-        "Údaje podle rodokmenu T. H. Orsaka (Cernoch.pdf) – ověřit v matrikách.",
-        "ROZPOR v datu sňatku: 24. 5. (přípisek v matrice) × 30. 5. 1930 (Orsak)."
+        "Narozen 11. 8. 1908 v Dobešově (pol. okres Opava) jako nemanželský syn Štěpánky Zettelmannové, dcery Františka Zettelmanna, domkaře v „Bölten“ (Bělotín ?), a Magdaleny roz. Pohlové; otec v oddacím zápise neuveden.",
+        "Oddán 24. 5. 1930 ve farním kostele ve Veřovicích (farář Josef Dráb) jako tovární dělník ve Veřovicích č. 118, 21 let; ohlášky ve Veřovicích a v Dobešově. Datum 30. 5. 1930 u Orsaka je chybné.",
+        "Zemřel 15. 11. 1988 v Budišově nad Budisovkou (Orsak).",
+        "Děti podle Orsaka: Božena (*1929), Josef (1931–2015, Leonberg), Eliška (1932–1989), Marie (1933–2002), Ludmila (*1936), František (1940–1999), Rudolf (*1943), Olin (*1951)."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
-        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů"
+        "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1930_O_Zettelmann_Blazkova_Verovice.jpg","t":"Sňatek Františka Zettelmanna a Ludmily Blažkové, Veřovice 24. 5. 1930"}
       ]
     },
     {
@@ -699,20 +704,22 @@ window.RODOKMEN = {
       d: {"date":"12. 9. 1986","year":1986,"place":"Vítkov"},
       father: "jan_bl",
       mother: "anezka_c",
-      marriage: "24. 5. 1930 (matrika) / 30. 5. 1930 (Orsak), Veřovice – s Františkem Zettelmannem",
+      marriage: "24. 5. 1930, Veřovice – s Františkem Zettelmannem",
       notes: [
         "Narozena 25. 9., pokřtěna 27. 9. 1903 ve Veřovicích č. 296; kmotři Vincenc Blažek (strýc) a Marie Černochová (teta).",
-        "ROZPOR v datu sňatku: přípisek v křestní matrice „sezd. 24. 5. 1930 s Zettelmanem Frant.“, Orsak uvádí 30. 5. 1930 – ověřit v oddací knize Veřovice (NJ XIV 13).",
         "Matka Františka Zettelmanna (*1940) podle rodného listu Šárky Zettelmannové (1963).",
-        "Nejstarší z jedenácti dětí Jana Blažka a Anežky Černochové z Veřovic (Orsak)."
+        "Nejstarší z jedenácti dětí Jana Blažka a Anežky Černochové z Veřovic (Orsak).",
+        "Oddána 24. 5. 1930 ve Veřovicích jako tovární dělnice (č. 198) – potvrzuje přípisek v křestní matrice; Orsakovo datum 30. 5. je chybné."
       ],
       sources: [
         "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
         "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1903_N_Ludmila_Blazkova_Verovice.jpg","t":"Křest Ludmily Blažkové, Veřovice 1903 (přípisek o sňatku 1930)"}
+        {"f":"img/1903_N_Ludmila_Blazkova_Verovice.jpg","t":"Křest Ludmily Blažkové, Veřovice 1903 (přípisek o sňatku 1930)"},
+        {"f":"img/1930_O_Zettelmann_Blazkova_Verovice.jpg","t":"Sňatek Františka Zettelmanna a Ludmily Blažkové, Veřovice 24. 5. 1930"}
       ]
     },
     {
@@ -2788,13 +2795,14 @@ window.RODOKMEN = {
       name: "Tomáš Černoch",
       line: "cernoch",
       cert: "M",
-      b: {"date":"20. 9. 1846","year":1846,"place":"Veřovice"},
+      b: {"date":"20. 9. 1846","year":1846,"place":"Veřovice č. p. 89"},
       d: {"date":"20. 5. 1902","year":1902,"place":"Veřovice"},
       father: "jan_ce",
       mother: "mariana_po",
       spouse: "magdalena_g",
       marriage: "8. 11. 1869, Veřovice – s Magdalenou Grozmanovou",
       notes: [
+        "Narozen a pokřtěn 20. 9. 1846 ve Veřovicích č. 89 (lokalista Johann Waniek); otec Johann Czernoch, domkař ve Veřovicích; matka Marianna, dcera † Josefa Poppa, domkaře z Veřovic, a Theresie roz. Ja… (?) z Lit…dorf (?). Kmotři Franz Pitz (?), domkař, a Anna Kopsch (?).",
         "Oddán 8. 11. 1869 ve Veřovicích jako chalupník z č. 89, 23 let, nezletilý (souhlas dal otec); syn Jana Černocha, chalupníka z Veřovic, a Mariany roz. Poppové. Svědci František Barton, chalupník, a František Kocián, sedlák. 1879 domkář v č. 198.",
         "Matriční údaje Veřovic potvrzují rodokmen T. H. Orsaka.",
         "Kmenová osoba rodokmenu „Descendants of Tomas Cernoch“ (T. H. Orsak, 2018), který vede přes 600 jeho potomků v Česku i v Texasu.",
@@ -2803,11 +2811,13 @@ window.RODOKMEN = {
       sources: [
         "Rodokmen „Descendants of Tomas Cernoch“, Family Tree Maker, sestavil Tim H. Orsak (2018), PDF 66 stran – rodinný podklad bez uvedení pramenů",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"},
-        {"f":"img/1879_N_Anezka_Cernochova_Verovice.jpg","t":"Křest Anežky Černochové, Veřovice 1879"}
+        {"f":"img/1879_N_Anezka_Cernochova_Verovice.jpg","t":"Křest Anežky Černochové, Veřovice 1879"},
+        {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest Tomáše Černocha, Veřovice 20. 9. 1846"}
       ]
     },
     {
@@ -3417,10 +3427,12 @@ window.RODOKMEN = {
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"}
+        {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"},
+        {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest Tomáše Černocha, Veřovice 20. 9. 1846"}
       ]
     },
     {
@@ -3432,11 +3444,15 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Veřovice"},
       spouse: "jan_ce",
       notes: [
-        "Matka Tomáše Černocha; dcera Josefa Poppa, chalupníka z Veřovic."
+        "Matka Tomáše Černocha; dcera † Josefa Poppa, domkaře z Veřovic, a Theresie roz. Ja… (?) z Lit…dorf (?) (křest syna 1846)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz",
+        "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest Tomáše Černocha, Veřovice 20. 9. 1846"}
       ]
     },
     {
@@ -4016,6 +4032,54 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222"
+      ]
+    },
+    {
+      id: "stepanka_z",
+      name: "Štěpánka Zettelmannová",
+      line: "zettelmann",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1885)","year":1885,"approx":true},
+      father: "frantisek_z0",
+      mother: "magdalena_poh",
+      notes: [
+        "Matka Františka Zettelmanna (*1908 Dobešov), nemanželského. Dcera Františka Zettelmanna, domkaře v „Bölten“ (Bělotín ?), a Magdaleny roz. Pohlové."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1930_O_Zettelmann_Blazkova_Verovice.jpg","t":"Sňatek Františka Zettelmanna a Ludmily Blažkové, Veřovice 24. 5. 1930"}
+      ]
+    },
+    {
+      id: "frantisek_z0",
+      name: "František Zettelmann",
+      line: "zettelmann",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1855)","year":1855,"approx":true},
+      spouse: "magdalena_poh",
+      occ: "domkář v „Bölten“ (Bělotín ?)",
+      notes: [
+        "Děd Františka Zettelmanna (*1908); místo „Bölten“ nejisté."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "magdalena_poh",
+      name: "Magdalena Zettelmannová",
+      maiden: "Pohlová",
+      line: "pohl",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1858)","year":1858,"approx":true},
+      spouse: "frantisek_z0",
+      notes: [
+        "Babička Františka Zettelmanna (*1908)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz"
       ]
     }
   ]
