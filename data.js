@@ -3715,14 +3715,16 @@ window.RODOKMEN = {
       name: "Šimon Trgjk",
       line: "lezak",
       cert: "M",
-      b: {"date":"asi 1757/1758","year":1757,"approx":true,"place":"Osek u Rokycan č. p. 83 (?)"},
+      b: {"date":"28. 10. 1757","year":1757,"place":"Osek u Rokycan"},
       d: {"date":"9. 11. 1812","year":1812,"place":"Osek u Rokycan č. p. 83"},
       cause: "souchotiny",
       father: "jakub_tr",
+      mother: "magdalena_tr",
       spouse: "anna_tr",
       occ: "sedlák v Oseku č. 83",
       marriage: "1. sňatek 28. 10. 1781, Osek – s Annou Košlauovou (?); 2. sňatek 10. 6. 1800, Osek – s Kateřinou Kowry (?)",
       notes: [
+        "Narozen a pokřtěn 28. 10. 1757 v Oseku jako „vlastní syn zákonného lože rodičů k Osku poddaných, otce Jakuba Trgjka, matky Magdaleny“; kmotři Jiří Suchý (?), Jakub Záda (?) z Volduch a Markéta Aubrechtová z Oseka; křtil farář Václav Pignusek.",
         "Oddán 28. 10. 1781 v Oseku (dům č. 83, kaplan Carolus Gruber): „Trgjk Simon, Sohn nach verst. Jakob Trgjk von Wossek, mit Anna, Tochter nach dem verst. Joann Koßlau (?) von Wolduch“; svědci Jakob Holub z Volduch, Johann Koßlau z Oseka, Martin Trgjk a Kateřina Viková.",
         "Otec Kateřiny Lodlové (*1782).",
         "Podruhé oddán 10. 6. 1800 v Oseku jako sedlák č. 83 a vdovec, 42 let, s Kateřinou, dcerou Jana Kowry (?), 20 let. Z 2. manželství v č. 83 zemřeli syn Šimon (25. 11. 1803, 6 měsíců) a syn Jakub (VIII 1811, kojenec).",
@@ -3734,9 +3736,11 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, snímek 33 – https://www.portafontium.eu/iipimage/30066674/osek-08_0330-z",
         "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, snímek 44 – https://www.portafontium.eu/iipimage/30066674/osek-08_0440-z",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, str. 25, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
-        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, str. 83, snímek 46 – https://www.portafontium.eu/iipimage/30066674/osek-08_0460-z"
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, str. 83, snímek 46 – https://www.portafontium.eu/iipimage/30066674/osek-08_0460-z",
+        "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), str. 162, snímek 84 – https://www.portafontium.eu/iipimage/30066669/osek-03_0840-n"
       ],
       scans: [
+        {"f":"img/1757_krest_simon_trgjk_otec_jakub_osek03_sn84.jpg","t":"Křest Šimona Trgjka, Osek 28. 10. 1757"},
         {"f":"img/1782_krest_katerina_trgjk_osek.jpg","t":"Křest Kateřiny Trgjkové, Osek 30. 6. 1782"},
         {"f":"img/1781_oddani_simon_trgjk_anna_osek07_sn8.jpg","t":"Sňatek Šimona Trgjka a Anny, Osek 28. 10. 1781"},
         {"f":"img/1800_oddani_simon_trgjk_vdovec_katerina_osek83_osek07_sn14.jpg","t":"Druhý sňatek Šimona Trgjka, Osek 10. 6. 1800"},
@@ -5015,17 +5019,19 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"asi 1722","year":1722,"approx":true},
       d: {"date":"1. 9. 1772","year":1772,"place":"Osek u Rokycan č. p. 83"},
+      spouse: "magdalena_tr",
       occ: "sedlák v Oseku č. 83",
       notes: [
-        "Otec Šimona Trgjka. Zemřel (pohřben ?) 1. 9. 1772 v Oseku č. 83 jako sedlák, 50 let (farář Franz Engelthaler).",
-        "KANDIDÁT manželky: 27. 1. 1789 zemřela v Oseku č. 83 „Magdalena Trgjk, vdova“, 60 let (*~1729) – nejspíš Jakubova vdova a matka Šimona; nečteno v plném rozlišení."
+        "Otec Šimona Trgjka. Zemřel (pohřben ?) 1. 9. 1772 v Oseku č. 83 jako sedlák, 50 let (farář Franz Engelthaler)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
-        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), snímek 6 – https://www.portafontium.eu/iipimage/30066674/osek-08_0060-z"
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), snímek 6 – https://www.portafontium.eu/iipimage/30066674/osek-08_0060-z",
+        "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), str. 162, snímek 84 – https://www.portafontium.eu/iipimage/30066669/osek-03_0840-n"
       ],
       scans: [
-        {"f":"img/1772_umrti_jakub_trgjk_osek08_sn6.jpg","t":"Úmrtí Jakuba Trgjka, Osek 1772"}
+        {"f":"img/1772_umrti_jakub_trgjk_osek08_sn6.jpg","t":"Úmrtí Jakuba Trgjka, Osek 1772"},
+        {"f":"img/1757_krest_simon_trgjk_otec_jakub_osek03_sn84.jpg","t":"Křest syna Šimona, Osek 1757"}
       ]
     },
     {
@@ -5295,6 +5301,24 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/Techobuz_rustik_pk_127651_sn85R_fol74_1804_Vojtech_Michal_po_otci_Jakubovi_full.jpg","t":"Pozemková kniha Těchobuz 1804: grunt č. 19 po zemřelém Jakubu Michalovi"}
+      ]
+    },
+    {
+      id: "magdalena_tr",
+      name: "Magdalena Trgjková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1729)","year":1729,"approx":true},
+      spouse: "jakub_tr",
+      notes: [
+        "Manželka Jakuba Trgjka, matka Šimona (*1757).",
+        "KANDIDÁT úmrtí: 27. 1. 1789 zemřela v Oseku č. 83 „Magdalena Trgjk, vdova“, 60 let (*~1729) – čteno jen v montáži."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), str. 162, snímek 84 – https://www.portafontium.eu/iipimage/30066669/osek-03_0840-n"
+      ],
+      scans: [
+        {"f":"img/1757_krest_simon_trgjk_otec_jakub_osek03_sn84.jpg","t":"Křest syna Šimona, Osek 1757"}
       ]
     }
   ]
