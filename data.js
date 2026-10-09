@@ -4830,7 +4830,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Apolonie Hrazdílkové.",
         "Manželka Terezie roz. Michálková (?) (sňatek dcery 1827).",
-        "Při křtu dcery Apolonie 1788 „Schullehrer (?)“ (čtení nejisté), Hodějice č. 59; manželka Marta (1788)."
+        "Při křtu dcery Apolonie 1788 „Schullehrer (?)“ (čtení nejisté), Hodějice č. 59; manželka Marta (1788).",
+        "KANDIDÁT otce: Tomáš Ambros, sedlák v Hodějicích († před 1772; dcery Rosina × Martin Hudeček 1772 a Anna 1777–78). Sňatek Antona s Martou ve Slavkově XI 1764 – IX 1774 nenalezen."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
@@ -5542,7 +5543,8 @@ window.RODOKMEN = {
       notes: [
         "Oddán 29. 7. 1783 v Hodějicích: „Hrasdilek Wenceslaus, honestus juvenis, cum honesta puella Magdalena filia Josephi Roskopal, Hodj.“; svědci Karel Rozek (?) a Jiří Billi ze Slavkova. V roce 1827 „† Wenzel Hrazdirek, Hofschaffer (?) von Hodiejitz“.",
         "Otec Jana (*1790) a Matyldy (*1793). Zemřel před sňatkem syna 1827.",
-        "V Hodějicích současně čtvrtník Vavřinec Hrazdílek × Kateřina (sňatek 1785; děti Terezie 1791, Martin 1793) – příbuznost neznámá."
+        "V Hodějicích současně čtvrtník Vavřinec Hrazdílek × Kateřina (sňatek 1785; děti Terezie 1791, Martin 1793) – příbuznost neznámá.",
+        "KANDIDÁT rodičů: 24. 1. 1759 pokřtěn ve Slavkově František, syn Josefa Hrazdílka, podruha na Lužovské ulici, a Rosiny – možná sourozenec; křest Václava ve Slavkově XII 1757 – VI 1760 nenalezen."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
@@ -5564,7 +5566,8 @@ window.RODOKMEN = {
       spouse: "vaclav_hz",
       marriage: "29. 7. 1783, Hodějice – s Václavem Hrazdílkem",
       notes: [
-        "Dcera Josefa Roskopala z Hodějic (sňatek 1783). Matka Jana (*1790) a Matyldy (*1793) – v křtech „Roßkopalin“ (dřívější čtení „Koschgelin / Kožgelová“ bylo chybné). Oddací zápis syna 1827 uvádí otce „Paul (?)“ – platí sňatek 1783 (Josef)."
+        "Dcera Josefa Roskopala z Hodějic (sňatek 1783). Matka Jana (*1790) a Matyldy (*1793) – v křtech „Roßkopalin“ (dřívější čtení „Koschgelin / Kožgelová“ bylo chybné). Oddací zápis syna 1827 uvádí otce „Paul (?)“ – platí sňatek 1783 (Josef).",
+        "KANDIDÁT rodičů: Josef Roskopal, podruh v Hruškách, × Kateřina (syn Matouš *16. 9. 1758) – křest Magdaleny zatím nenalezen."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
