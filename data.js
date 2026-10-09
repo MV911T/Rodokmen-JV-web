@@ -5539,7 +5539,7 @@ window.RODOKMEN = {
       name: "Václav Hrazdílek",
       line: "hrazdilek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      b: {"date":"asi 1762","year":1762,"approx":true,"place":"Hodějice (?)"},
       d: {"date":"před 20. 2. 1827","year":1827,"approx":true},
       spouse: "magdalena_kz",
       occ: "domkář v Hodějicích (č. 1 v roce 1790, č. 63 v roce 1793)",
@@ -5548,16 +5548,18 @@ window.RODOKMEN = {
         "Oddán 29. 7. 1783 v Hodějicích: „Hrasdilek Wenceslaus, honestus juvenis, cum honesta puella Magdalena filia Josephi Roskopal, Hodj.“; svědci Karel Rozek (?) a Jiří Billi ze Slavkova. V roce 1827 „† Wenzel Hrazdirek, Hofschaffer (?) von Hodiejitz“.",
         "Otec Jana (*1790) a Matyldy (*1793). Zemřel před sňatkem syna 1827.",
         "V Hodějicích současně čtvrtník Vavřinec Hrazdílek × Kateřina (sňatek 1785; děti Terezie 1791, Martin 1793) – příbuznost neznámá.",
-        "KANDIDÁT rodičů: 24. 1. 1759 pokřtěn ve Slavkově František, syn Josefa Hrazdílka, podruha na Lužovské ulici, a Rosiny – možná sourozenec; křest Václava ve Slavkově XII 1757 – VI 1760 nenalezen."
+        "KANDIDÁT křtu: 25. 9. 1762 pokřtěn v Hodějicích „Wenceslaus“, syn Martina Hrazdílka, sedláka, a Apolonie (kmotři Vavřinec Sekora z Rašovic a manželka Apolonie) – jediný Václav Hrazdílek ve faře Slavkov 1754–1765 (kromě nečtených IX 1755–1757); věk (20) sedí se sňatkem 1783, rodiče ženicha ale v oddacím zápisu nejsou. V Hodějicích současně i Matěj Hrazdílek × Kateřina."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 206, snímek 224 – https://www.mza.cz/actapublica/matrika/detail/1950",
-        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958"
+        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958",
+        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 156 – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
         {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"},
-        {"f":"img/1783_O_13136_sn16R_Hrasdilek_Wenceslaus_Magdalena_Josephi_Roskopal_Hodejice_29-VII.jpg","t":"Sňatek Václava Hrazdílka a Magdaleny Roskopalové, Hodějice 29. 7. 1783"}
+        {"f":"img/1783_O_13136_sn16R_Hrasdilek_Wenceslaus_Magdalena_Josephi_Roskopal_Hodejice_29-VII.jpg","t":"Sňatek Václava Hrazdílka a Magdaleny Roskopalové, Hodějice 29. 7. 1783"},
+        {"f":"img/1762_N_13121_sn156R_IX-25_Wenceslaus_Martinus_Hrazdilek_Appollonia_Hodejice_plne_rozl.jpg","t":"Kandidátní křest Václava Hrazdílka, Hodějice 25. 9. 1762"}
       ]
     },
     {
@@ -5566,21 +5568,24 @@ window.RODOKMEN = {
       maiden: "Roskopalová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1762)","year":1762,"approx":true},
+      b: {"date":"asi 1764","year":1764,"approx":true},
+      father: "josef_rk",
       spouse: "vaclav_hz",
       marriage: "29. 7. 1783, Hodějice – s Václavem Hrazdílkem",
       notes: [
         "Dcera Josefa Roskopala z Hodějic (sňatek 1783). Matka Jana (*1790) a Matyldy (*1793) – v křtech „Roßkopalin“ (dřívější čtení „Koschgelin / Kožgelová“ bylo chybné). Oddací zápis syna 1827 uvádí otce „Paul (?)“ – platí sňatek 1783 (Josef).",
-        "KANDIDÁT rodičů: Josef Roskopal, podruh v Hruškách, × Kateřina (syn Matouš *16. 9. 1758) – křest Magdaleny zatím nenalezen."
+        "KANDIDÁT křtu: 4. 7. 1764 pokřtěna Magdalena, dcera Josefa Roskopala, podruha v Hruškách, a Kateřiny (kmotři Jan Fiala a Marianna Paternoská, šenkýři z Hrušek) – jediná Magdalena Roskopalová ve faře 1754–1765; otec sedí se sňatkem 1783, místo (Hrušky × Hodějice) ne."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 206, snímek 224 – https://www.mza.cz/actapublica/matrika/detail/1950",
-        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958"
+        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958",
+        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 171 – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
         {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"},
-        {"f":"img/1783_O_13136_sn16R_Hrasdilek_Wenceslaus_Magdalena_Josephi_Roskopal_Hodejice_29-VII.jpg","t":"Sňatek Magdaleny Roskopalové a Václava Hrazdílka, Hodějice 1783"}
+        {"f":"img/1783_O_13136_sn16R_Hrasdilek_Wenceslaus_Magdalena_Josephi_Roskopal_Hodejice_29-VII.jpg","t":"Sňatek Magdaleny Roskopalové a Václava Hrazdílka, Hodějice 1783"},
+        {"f":"img/1764_N_13121_sn171R_VII-4_Magdalena_Josephus_Roskopal_Catharina_Hrusky_plne_rozl.jpg","t":"Kandidátní křest Magdaleny Roskopalové, Hrušky 4. 7. 1764"}
       ]
     },
     {
@@ -5906,6 +5911,22 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1796_snatek_josef_landsinger_anna_mottlova_drozdov_cerhovice12_sn9_a.jpg","t":"Sňatek Josefa Landsingera a Anny Mottlové, Drozdov 4. 9. 1796"}
+      ]
+    },
+    {
+      id: "josef_rk",
+      name: "Josef Roskopal",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
+      occ: "podruh (Hrušky 1758, 1764 ?)",
+      notes: [
+        "Otec Magdaleny Hrazdílkové (sňatek 1783: „filia Josephi Roskopal, Hodj.“).",
+        "KANDIDÁT: Josef Roskopal, podruh v Hruškách, × Kateřina – děti Matouš (16. 9. 1758) a Magdalena (4. 7. 1764)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958",
+        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 171 – https://www.mza.cz/actapublica/matrika/detail/1948"
       ]
     }
   ]
