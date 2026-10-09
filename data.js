@@ -2080,7 +2080,8 @@ window.RODOKMEN = {
         "Nádeník v Těchobuzi – č. 36 („Schelenberg“, 1834–1841), č. 24 (1844), č. 13 (1862); jurisdicent těchobuzského statku. Syn Martina Votavy, nádeníka (podle sňatku 1844 „bývalého chalupníka z Letů (?)“) z Jetřichovic č. 22, a Terezie roz. Marody / Mrkvové (?).",
         "ROZPOR ve věku: sňatek 1844 „41 let“ (*~1803), úmrtí 1862 „67 let“ (*~1795).",
         "Děti s 1. manželkou: Jan (*~1830, † 25. 8. 1839, 9 let), Kateřina (*27. 1. 1834), Štěpán (*26. 12. 1836); podle zápisů ze Souše i František (horník v Souši 1874). V Těchobuzi doloženi od 1834.",
-        "Zemřel 23. 1. 1862 v Těchobuzi č. 13; „byl 17 let ženatý“ (s druhou manželkou)."
+        "Zemřel 23. 1. 1862 v Těchobuzi č. 13; „byl 17 let ženatý“ (s druhou manželkou).",
+        "Křest ani sňatek nejsou ve fondu fary Pacov (index N 1783–1804 a O 1765–1833, písmeno W – bez Votavy). Místo původu ze sňatku 1844 „z Letův / Lstův (?)“ nejisté; matka Terezie „dcera Martina Marody, podruha z Lom… (?) č. 23“."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2178,7 +2179,8 @@ window.RODOKMEN = {
       spouse: "jan_m",
       marriage: "10. 11. 1835, Mezilesí – s Janem Michalem (vdovcem)",
       notes: [
-        "Dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily; při sňatku 1835 22 let. Rodné příjmení matky Ludmily: 1835 „Šimonová (?)“, 1836 „Lhotková (?)“ – ROZPOR / nejisté čtení."
+        "Dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily; při sňatku 1835 22 let. Rodné příjmení matky Ludmily: 1835 „Šimonová (?)“, 1836 „Lhotková (?)“ – ROZPOR / nejisté čtení.",
+        "KANDIDÁT / ROZPOR: v indexu narozených Mezilesí 1808–1816 není manželská Marie Václava a Ludmily Karafiátových; jsou tam dvě nemanželské Marie Karafiátové – *5. 10. 1809 (č. 2) a *8. 8. 1813 (č. 34), obě dcery Alžběty, dcery Šimona Karafiáta, šenkýře z Mezilesí (Lukavec 5370 pag. 49; 5371 fol. 3). Nevěsta 1835 (22 let) může být Marie *1813 – nebo se narodila po 1816. Nerozhodnuto."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2781,11 +2783,13 @@ window.RODOKMEN = {
       spouse: "ludmila_lh",
       occ: "šenkýř v Mezilesí č. 2",
       notes: [
-        "Otec Marie Michalové."
+        "Otec Marie Michalové.",
+        "Šenkýř v Mezilesí č. 2 (křest syna Františka Serafína 19. 8. 1813); manželka Ludmila, dcera Pavla Zelty/Peldy (?), mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?) – rodné příjmení Ludmily nejisté (srov. „Lhotková (?)“ 1836, „Šimonová (?)“ 1835)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (id 5371), fol. 3, snímek 3 – https://digi.ceskearchivy.cz/5371"
       ]
     },
     {
