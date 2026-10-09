@@ -1082,19 +1082,22 @@ window.RODOKMEN = {
       spouse: "karel_k",
       marriage: "24. 5. 1903, Borek (Suchomasty) – s Karlem Klikou",
       notes: [
-        "Narozena 8. 1. 1877 v Čepirohách (Tschöppern) č. 20 u Mostu (fara Zlatník / Deutsch-Zlatnik – křestní list ze 25. 4. 1903, č. 133). Dcera † Anny Valentové (svobodné), dcery Vitála Valenty, dělníka z Čepiroh č. 20, a Marie roz. Pollakové z Wirschin (?).",
+        "Narozena 8. 1. 1877 v 10 hodin ráno v Čepirohách (Tschöppern) č. 20, pokřtěna 9. 1. (fara Slatinice / Deutsch-Zlatnik, farář Fr. Al. Böhm (?)); nemanželská – sloupec otce prázdný. Matka Anna Valentová, dcera Vitála Valenty, nádeníka v Čepirohách č. 20, příslušného do „Wirschen / Kirschen (?)“, okres Manětín, a Marie roz. Pollakové z téže obce č. 16. Kmotra Rosina Sandnerová, manželka nádeníka Andrease Sandnera z Čepiroh č. 20; svědek Josef Chmelík, zedník ve Slatinicích.",
         "Při sňatku 1903 bydlela v Suchomastech č. 34 (26 let). V křestním listu dcery Anny (1913) uvedena jako Růžena."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
         "Rodný list Anny Červenkové (*1933), MNV Suchomasty, z rodné matriky fary Borek u Suchomast, sv. XIV, roč. 1933, str. 64, č. 2",
         "Oddací list Karla Červenky a Anny Klikové, fara Borek (u Suchomast), kniha oddaných IX, sv. 412, list 7 (vydán 15. 7. 1946)",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), fara Slatinice (Deutsch-Zlatnik), sign. 148/9 (N 1875–1885), oddíl Tschöppern, pag. 10/11, snímek 165"
       ],
       scans: [
         {"f":"img/1913_krestni_list_anna_klikova_suchomasty.jpg","t":"Křest dcery Anny, Suchomasty 1913"},
         {"f":"img/1903_snatek_karel_klika_suchomasty_a.jpg","t":"Sňatek Karla Kliky a Rosiny Valentové, Borek 24. 5. 1903"},
-        {"f":"img/1903_snatek_karel_klika_suchomasty_b.jpg","t":"Sňatek Karla Kliky a Rosiny Valentové 1903 – data narození, svědci"}
+        {"f":"img/1903_snatek_karel_klika_suchomasty_b.jpg","t":"Sňatek Karla Kliky a Rosiny Valentové 1903 – data narození, svědci"},
+        {"f":"img/1877_N_Valentova_Rosina_Cepirohy_jmeno_datum.jpg","t":"Křest Rosiny Valentové, Čepirohy 8. 1. 1877"},
+        {"f":"img/1877_N_Valentova_Rosina_Cepirohy_matka_kmotri.jpg","t":"Křest Rosiny Valentové 1877 – matka, kmotři"}
       ]
     },
     {
@@ -1164,11 +1167,16 @@ window.RODOKMEN = {
       father: "vital_v",
       mother: "marie_po",
       notes: [
-        "Matka Rosiny Valentové (nemanželské dcery); dcera Vitála Valenty, dělníka z Čepiroh č. 20, a Marie roz. Pollakové z Wirschin (?). V roce 1903 už nežila."
+        "Matka Rosiny Valentové (nemanželské dcery, 1877). Dcera Vitála Valenty, nádeníka v Čepirohách č. 20, a Marie roz. Pollakové. Rodina byla příslušná do obce „Wirschen / Kirschen (?)“ v okrese Manětín – do Čepiroh přišla odjinud; v rejstříku fary Slatinice 1855–1865 Valentovi nejsou. V roce 1903 už nežila."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), fara Slatinice (Deutsch-Zlatnik), sign. 148/9 (N 1875–1885), oddíl Tschöppern, pag. 10/11, snímek 165"
+      ],
+      scans: [
+        {"f":"img/1877_N_Valentova_Rosina_Cepirohy_jmeno_datum.jpg","t":"Křest Rosiny Valentové, Čepirohy 8. 1. 1877"},
+        {"f":"img/1877_N_Valentova_Rosina_Cepirohy_matka_kmotri.jpg","t":"Křest Rosiny Valentové 1877 – matka, kmotři"}
       ]
     },
     {
@@ -1178,13 +1186,18 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true},
       spouse: "marie_po",
-      occ: "dělník v Tschöppern (Čepirohy) č. p. 20, okr. Most",
+      occ: "nádeník v Čepirohách č. 20 (1877, 1903)",
       notes: [
-        "Děd Růženy Valentové z matčiny strany."
+        "Děd Rosiny Valentové; příslušný do „Wirschen / Kirschen (?)“, okres Manětín (Plzeňsko) – odtud rodina pochází."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), fara Slatinice (Deutsch-Zlatnik), sign. 148/9 (N 1875–1885), oddíl Tschöppern, pag. 10/11, snímek 165"
+      ],
+      scans: [
+        {"f":"img/1877_N_Valentova_Rosina_Cepirohy_jmeno_datum.jpg","t":"Křest Rosiny Valentové, Čepirohy 8. 1. 1877"},
+        {"f":"img/1877_N_Valentova_Rosina_Cepirohy_matka_kmotri.jpg","t":"Křest Rosiny Valentové 1877 – matka, kmotři"}
       ]
     },
     {
@@ -3009,13 +3022,14 @@ window.RODOKMEN = {
       maiden: "Pollaková",
       line: "pollak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1828)","year":1828,"approx":true,"place":"Wirschin (?)"},
+      b: {"date":"neznámé (odhad ~1828)","year":1828,"approx":true,"place":"„Wirschen / Kirschen (?)“ č. 16, okres Manětín"},
       spouse: "vital_v",
       notes: [
-        "Babička Rosiny Valentové; místo „Wirschin“ nejisté."
+        "Babička Rosiny Valentové; z obce „Wirschen / Kirschen (?)“ č. 16 v okrese Manětín – čtení obce nejisté."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
+        "SOA Litoměřice, Sbírka matrik (NAD 856), fara Slatinice (Deutsch-Zlatnik), sign. 148/9 (N 1875–1885), oddíl Tschöppern, pag. 10/11, snímek 165"
       ]
     },
     {
