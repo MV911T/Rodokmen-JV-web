@@ -2092,21 +2092,27 @@ window.RODOKMEN = {
       name: "Jan Michal",
       line: "michal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
+      b: {"date":"7. 4. 1803","year":1803,"place":"Těchobuz č. p. 19"},
       father: "vojtech_m",
       mother: "katerina_vr",
       spouse: "marie_k",
       occ: "půlník v Těchobuzi č. 19",
       notes: [
-        "Půlsedlák (sedlák) v Těchobuzi č. 19. Syn Vojtěcha Michala, sedláka z Těchobuze č. 19, a Kateřiny roz. Vrzalové (?) ze Zhoře (?). V roce 1868 už nežil."
+        "Narozen 7. 4., pokřtěn 8. 4. 1803 v Těchobuzi č. 19 (fara Zhoř); otec Vojtěch Michal, sedlák; matka Kateřina (rodné příjmení nejisté – „Vrz…/Voz…“).",
+        "Půlsedlák (sedlák) v Těchobuzi č. 19. V roce 1868 už nežil.",
+        "ROZPOR: 7. 2. 1825 se v Těchobuzi oženil (21 let, se svolením otce Vojtěcha) s Marií, vdovou po chalupníkovi z Těchobuze č. 22, dcerou Pavla Kr… (?) z č. 28 (*~1792) – nikoli s Marií Karafiátovou z Mezilesí, kterou jako matku Antonie (*1836) uvádějí zápisy 1836, 1865 a 1874. Nejspíš druhý sňatek po roce 1825 – hledat v oddaných Těchobuz 1826–1836.",
+        "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N-O-Z 1784–1822 (id 8824), fol. 23, snímek 28 – https://digi.ceskearchivy.cz/8824",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 2, snímek 3 – https://digi.ceskearchivy.cz/8825"
       ],
       scans: [
-        {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"}
+        {"f":"img/1803_krest_Michal_Jan_Techobuz19_8824.jpg","t":"Křest Jana Michala, Těchobuz 1803"},
+        {"f":"img/1825_oddani_Michal_Jan_vdova_Marie_Techobuz22_8825.jpg","t":"Sňatek Jana Michala s vdovou Marií, Těchobuz 1825 (rozpor)"}
       ]
     },
     {
@@ -2593,7 +2599,8 @@ window.RODOKMEN = {
       spouse: "terezie_mk",
       occ: "nádeník v Jetřichovicích č. 22",
       notes: [
-        "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Letů (?)“ – zemřel před 1844."
+        "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Letů (?)“ – zemřel před 1844.",
+        "KANDIDÁT: fara Pacov (Jetřichovec = Jetřichovice, kniha NOZ 1785–1843, id 6239) – index zemřelých uvádí „Wotawa Martin 1828 pag. 28“ a „Wotawa Terezie 1833 pag. 31“; nečteno."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -2656,10 +2663,13 @@ window.RODOKMEN = {
       spouse: "katerina_vr",
       occ: "sedlák v Těchobuzi č. 19",
       notes: [
-        "Otec Jana Michala; usedlost Těchobuz č. 19."
+        "Otec Jana Michala; usedlost Těchobuz č. 19.",
+        "Dal svolení k sňatku syna Jana 1825."
       ],
       sources: [
-        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N-O-Z 1784–1822 (id 8824), fol. 23, snímek 28 – https://digi.ceskearchivy.cz/8824",
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 2, snímek 3 – https://digi.ceskearchivy.cz/8825"
       ]
     },
     {
