@@ -4698,7 +4698,8 @@ window.RODOKMEN = {
       notes: [
         "Narozen a pokřtěn 5. 5. 1790 v Hodějicích č. 1; otec Václav Hrazdílek, domkář, matka Magdalena Roskopalová; kmotři Anton Majer (?) a manželka Marianna. Sestra Matylda (*13. 3. 1793, č. 63). Ztotožnění se ženichem 1827 potvrzeno: oddací zápis uvádí „Sohn des † Wenzel Hrazdirek … und der Magdalena“. ROZPOR věku: při sňatku 1827 uvedeno 33 let, podle křtu 36.",
         "Oddán 20. 2. 1827 v Hodějicích (č. 125) jako tesař z Hodějic, 33 let, svobodný; syn † Václava Hrazdílka z Hodějic a Magdaleny (dcery Pavla (?) – správně Josefa Roskopala). Svědci Václav Roth, měšťan ze Slavkova, a Jakub Pollach z Hodějic; oddal kaplan František Peschel (?).",
-        "Otec Martina Hrazdílka."
+        "Otec Martina Hrazdílka.",
+        "Sourozenci: Matylda (1793), Urban (1796 – domkář ve Špitálce č. 19, oddán 27. 7. 1817 s Kateřinou, dcerou Martina Böse (?)), Vincenc (1798 † 1799), Antonín (1800 † 1801), Apolonie (1803 † 1820)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -5557,9 +5558,10 @@ window.RODOKMEN = {
       line: "hrazdilek",
       cert: "M",
       b: {"date":"asi 1762","year":1762,"approx":true,"place":"Hodějice (?)"},
-      d: {"date":"před 20. 2. 1827","year":1827,"approx":true},
+      d: {"date":"27. 1. 1816","year":1816,"place":"Špitálka (Slavkov u Brna) č. p. 19"},
+      cause: "souchotiny („Lungensucht“)",
       spouse: "magdalena_kz",
-      occ: "domkář / „Hofstädtner (?)“ v Hodějicích (č. 1 v r. 1790, č. 63 v letech 1793–1803)",
+      occ: "domkář / „Hofstädtner (?)“ v Hodějicích (č. 1 1790, č. 63 1793–1803), pak soukeník (?) („Zeugmacher“) ve Špitálce č. 19",
       marriage: "29. 7. 1783, Hodějice – s Magdalenou Roskopalovou",
       notes: [
         "Oddán 29. 7. 1783 v Hodějicích: „Hrasdilek Wenceslaus, honestus juvenis, cum honesta puella Magdalena filia Josephi Roskopal, Hodj.“; svědci Karel Rozek (?) a Jiří Billi ze Slavkova. V roce 1827 „† Wenzel Hrazdirek, Hofschaffer (?) von Hodiejitz“.",
@@ -5568,8 +5570,9 @@ window.RODOKMEN = {
         "KANDIDÁT křtu: 25. 9. 1762 pokřtěn v Hodějicích „Wenceslaus“, syn Martina Hrazdílka, sedláka, a Apolonie (kmotři Vavřinec Sekora z Rašovic a manželka Apolonie) – jediný Václav Hrazdílek ve faře Slavkov 1754–1765 (kromě nečtených IX 1755–1757); věk (20) sedí se sňatkem 1783, rodiče ženicha ale v oddacím zápisu nejsou. V Hodějicích současně i Matěj Hrazdílek × Kateřina.",
         "V únoru 1799 žil v Hodějicích č. 63 („Wenzel Hrazdirek, Hofschaffer (?)“) – 9. 2. 1799 tam zemřel jeho syn Vincenc, 5 týdnů (Z 13149, str. 226).",
         "Ke kandidátnímu křtu 1762: jiný Václav Hrazdílek ve faře Slavkov IX 1754 – VIII 1765 není; Martin × Apolonie měli i dcery Annu (1755) a Apolonii (1757, „Herspicio“?). Martin Hrazdílek, domkář, zemřel 8. 4. 1791 v Hodějicích č. 1 ve věku 70 let – ve stejném domě se 5. 5. 1790 narodil Václavův syn Jan, což kandidátní otcovství Martina silně podporuje.",
-        "KANDIDÁT úmrtí: 27. 1. 1816 zemřel ve Špitálce (Slavkov) č. 19 „Wenzel Hrazdirek, Zeugmacher (?)“, 56 let, na souchotiny – jediný Václav Hrazdílek v indexu zemřelých 1807–1830; povolání a bydliště ale nesedí s Hodějicemi.",
-        "Další děti s Magdalenou Roskopalovou v Hodějicích č. 63: Urban (20. 4. 1796), Vincenc (31. 12. 1798, † 9. 2. 1799), Antonín (10. 6. 1800), Apolonie (27. 1. 1803); kmotři Anton Majer s Mariannou (jako u Jana 1790) a Jiří Florián s Apolonií. Po 1803 v Hodějicích nedoložen."
+        "Další děti s Magdalenou Roskopalovou v Hodějicích č. 63: Urban (20. 4. 1796), Vincenc (31. 12. 1798, † 9. 2. 1799), Antonín (10. 6. 1800), Apolonie (27. 1. 1803); kmotři Anton Majer s Mariannou (jako u Jana 1790) a Jiří Florián s Apolonií. Po 1803 v Hodějicích nedoložen.",
+        "Zemřel 27. 1. 1816 (pohřben 29. 1.) ve Špitálce č. 19 jako „Wenzel Hrazdirek, Zeugmacher (?)“, 56 let. Ztotožnění: v témže domě se 1817 oženil jeho syn Urban (*1796, s poručníkem) a 1820 zemřela dcera Apolonie (*1803) „nach Wenzel Hrazdilek, Zeugmacher“. Syn Antonín († 26. 12. 1801, Hodějice č. 63, 1 rok).",
+        "ROZPOR: povolání v Hodějicích „Hofstädtner (?)“ × ve Špitálce „Zeugmacher (?)“; věk 56 sedí na kandidátní křest 1762."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
@@ -5578,12 +5581,18 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 156 – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov u Brna, Z 1784–1830 (?), sign. 13149, oddíl Hodějice, str. 226, snímek 221 – https://www.mza.cz/actapublica/matrika/detail/1964",
         "MZA Brno, fara Slavkov u Brna, Z 1779–1793, sign. 13148, str. 208, snímek 160 – https://www.mza.cz/actapublica/matrika/detail/1962",
-        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 335–349, snímky 324–338 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 335–349, snímky 324–338 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, Z 1784–1830, sign. 13149, oddíl Špitálka, str. 101–102, snímek 90 – https://www.mza.cz/actapublica/matrika/detail/1964",
+        "MZA Brno, fara Slavkov u Brna, Z, sign. 13149, oddíl Špitálka, str. 106, snímek 92 – https://www.mza.cz/actapublica/matrika/detail/1964",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Špitálka, str. 59, snímek 61 – https://www.mza.cz/actapublica/matrika/detail/1959"
       ],
       scans: [
         {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"},
         {"f":"img/1783_O_13136_sn16R_Hrasdilek_Wenceslaus_Magdalena_Josephi_Roskopal_Hodejice_29-VII.jpg","t":"Sňatek Václava Hrazdílka a Magdaleny Roskopalové, Hodějice 29. 7. 1783"},
-        {"f":"img/1762_N_13121_sn156R_IX-25_Wenceslaus_Martinus_Hrazdilek_Appollonia_Hodejice_plne_rozl.jpg","t":"Kandidátní křest Václava Hrazdílka, Hodějice 25. 9. 1762"}
+        {"f":"img/1762_N_13121_sn156R_IX-25_Wenceslaus_Martinus_Hrazdilek_Appollonia_Hodejice_plne_rozl.jpg","t":"Kandidátní křest Václava Hrazdílka, Hodějice 25. 9. 1762"},
+        {"f":"img/1816_Z_13149_sn90L_str101_Spitalka_c19_Wenzel_Hrazdirek_Zeugmacher_56_let_plne_rozl.jpg","t":"Úmrtí Václava Hrazdílka, Špitálka 27. 1. 1816"},
+        {"f":"img/1820_Z_13149_sn92R_str106_Spitalka_c19_Apolonia_Tochter_nach_Wenzel_Hrazdilek_Zeugmacher_15let_plne_rozl.jpg","t":"Úmrtí dcery Apolonie, Špitálka 1820"},
+        {"f":"img/1817_O_13137_sn61_str59_Spitalka_c19_Urban_Hrazdirek_x_Katharina_Bose_plne_rozl.jpg","t":"Sňatek syna Urbana, Špitálka 1817"}
       ]
     },
     {
@@ -5593,25 +5602,29 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"asi 1764","year":1764,"approx":true},
+      d: {"date":"17. 2. 1817","year":1817,"place":"Špitálka (Slavkov u Brna) č. p. 19"},
+      cause: "píchání v boku („Seitenstich“ ?)",
       father: "josef_rk",
       spouse: "vaclav_hz",
       marriage: "29. 7. 1783, Hodějice – s Václavem Hrazdílkem",
       notes: [
         "Dcera Josefa Roskopala z Hodějic (sňatek 1783). Matka Jana (*1790), Matyldy (*1793), Urbana (1796), Vincence (1798), Antonína (1800) a Apolonie (1803) – v křtech „Roßkopalin“ (dřívější čtení „Koschgelin / Kožgelová“ bylo chybné). Oddací zápis syna 1827 uvádí otce „Paul (?)“ – platí sňatek 1783 (Josef).",
         "KANDIDÁT křtu: 4. 7. 1764 pokřtěna Magdalena, dcera Josefa Roskopala, podruha v Hruškách, a Kateřiny (kmotři Jan Fiala a Marianna Paternoská, šenkýři z Hrušek) – jediná Magdalena Roskopalová ve faře 1754–1765; otec sedí se sňatkem 1783, místo (Hrušky × Hodějice) ne.",
-        "KANDIDÁT úmrtí: 17. 2. 1817 zemřela ve Špitálce č. 19 „Magdalena Hrazdilek, Wittib“, 46 let – vdova po Václavovi (1816)? Věk (*~1771) nesedí s kandidátním křtem 1764."
+        "Zemřela 17. 2. 1817 (pohřbena 19. 2.) ve Špitálce č. 19 jako „Magdalena Hrazdilek, Wittib“, uvedeno 46 let. ROZPOR: věk 46 (*~1771) nesedí s kandidátním křtem 1764 – v této faře jsou věky často podhodnocené."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 206, snímek 224 – https://www.mza.cz/actapublica/matrika/detail/1950",
         "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958",
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 171 – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 335–349, snímky 324–338 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 335–349, snímky 324–338 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, Z 1784–1830, sign. 13149, oddíl Špitálka, str. 101–102, snímek 90 – https://www.mza.cz/actapublica/matrika/detail/1964"
       ],
       scans: [
         {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790"},
         {"f":"img/1783_O_13136_sn16R_Hrasdilek_Wenceslaus_Magdalena_Josephi_Roskopal_Hodejice_29-VII.jpg","t":"Sňatek Magdaleny Roskopalové a Václava Hrazdílka, Hodějice 1783"},
-        {"f":"img/1764_N_13121_sn171R_VII-4_Magdalena_Josephus_Roskopal_Catharina_Hrusky_plne_rozl.jpg","t":"Kandidátní křest Magdaleny Roskopalové, Hrušky 4. 7. 1764"}
+        {"f":"img/1764_N_13121_sn171R_VII-4_Magdalena_Josephus_Roskopal_Catharina_Hrusky_plne_rozl.jpg","t":"Kandidátní křest Magdaleny Roskopalové, Hrušky 4. 7. 1764"},
+        {"f":"img/1817_Z_13149_sn90R_str102_Spitalka_c19_Magdalena_Hrazdilek_Wittib_46_let.jpg","t":"Úmrtí Magdaleny Hrazdílkové, vdovy, Špitálka 1817"}
       ]
     },
     {
