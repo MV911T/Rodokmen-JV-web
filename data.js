@@ -715,9 +715,11 @@ window.RODOKMEN = {
       id: "vladimir_h",
       name: "Vladimír Hrazdílek",
       line: "hrazdilek",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1905; kandidát z rejstříku 1905)","year":1905,"approx":true},
+      occ: "zednický pomocník v Heršpicích (1924)",
       notes: [
+        "Manžel Marie roz. Jeřábkové nejpozději od roku 1924: syn Jaroslav (*5. 6., † 7. 6. 1924) se narodil v Heršpicích č. 37 jako „manželský syn Vladimíra Hrazdílka, zednického pomocníka v Heršpicích, a Marie roz. Jeřábek“.",
         "Otec Heleny Zettelmannové (*1940) podle rodného listu Šárky Zettelmannové (1963).",
         "Data narození a úmrtí zatím neznámá.",
         "KANDIDÁT: v rejstříku narozených fary Slavkov u Brna je k roku 1905 „Hrazdílek Vladimír Rajmund – Heršpice – str. 184“ (MZA 13159, sn. 81); samotný zápis online není.",
@@ -729,7 +731,11 @@ window.RODOKMEN = {
         "MZA Brno, Sbírka matrik, fara Slavkov u Brna, rejstřík narozených 1852–1949, sign. 13159, snímek 81 – https://www.mza.cz/actapublica/matrika/detail/1971",
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 77, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/12387",
         "MZA Brno, Z Heršpice 1837–1949, sign. 13155, str. 104 (1913) a str. 131 (1935) – https://www.mza.cz/actapublica/matrika/detail/12384",
-        "MZA Brno, N Uhřice 1847–1883 (fara Dambořice), sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944"
+        "MZA Brno, N Uhřice 1847–1883 (fara Dambořice), sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
+        "MZA Brno, Z Heršpice 1837–1949, sign. 13155, str. 116, snímek 60 – https://www.mza.cz/actapublica/matrika/detail/12384"
+      ],
+      scans: [
+        {"f":"img/1924_Z_Hrazdilek_Jaroslav_Herspice_str116.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1924 – syn Vladimíra a Marie roz. Jeřábkové"}
       ]
     },
     {
@@ -737,14 +743,19 @@ window.RODOKMEN = {
       name: "Marie Hrazdílková",
       maiden: "Jeřábková",
       line: "jerabek",
-      cert: "D",
-      b: {"date":"neznámé (odhad ~1915)","year":1915,"approx":true},
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1904; kandidát z rejstříku 1904)","year":1904,"approx":true},
       notes: [
+        "Manželka Vladimíra Hrazdílka nejpozději od roku 1924 (úmrtí syna Jaroslava, Heršpice č. 37). V rejstříku narozených fary Slavkov kandidátky Marie Jeřábkové z Heršpic: 1904 (str. 183), 1910 (str. 204).",
         "Matka Heleny Zettelmannové (*1940) podle rodného listu Šárky Zettelmannové (1963).",
         "Data narození a úmrtí zatím neznámá."
       ],
       sources: [
-        "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)"
+        "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
+        "MZA Brno, Z Heršpice 1837–1949, sign. 13155, str. 116, snímek 60 – https://www.mza.cz/actapublica/matrika/detail/12384"
+      ],
+      scans: [
+        {"f":"img/1924_Z_Hrazdilek_Jaroslav_Herspice_str116.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1924 – syn Vladimíra a Marie roz. Jeřábkové"}
       ]
     },
     {
@@ -3601,6 +3612,26 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
+      ]
+    },
+    {
+      id: "jaroslav1924h",
+      name: "Jaroslav Hrazdílek",
+      line: "hrazdilek",
+      cert: "M",
+      b: {"date":"5. 6. 1924","year":1924,"place":"Heršpice č. p. 37"},
+      d: {"date":"7. 6. 1924","year":1924,"place":"Heršpice č. p. 37"},
+      cause: "psotník (eklampsie)",
+      father: "vladimir_h",
+      mother: "marie_j",
+      notes: [
+        "Starší bratr Heleny Hrazdílkové (*1940); zemřel ve věku 2 dnů."
+      ],
+      sources: [
+        "MZA Brno, Z Heršpice 1837–1949, sign. 13155, str. 116, snímek 60 – https://www.mza.cz/actapublica/matrika/detail/12384"
+      ],
+      scans: [
+        {"f":"img/1924_Z_Hrazdilek_Jaroslav_Herspice_str116.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1924 – syn Vladimíra a Marie roz. Jeřábkové"}
       ]
     }
   ]
