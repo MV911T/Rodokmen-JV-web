@@ -2305,18 +2305,20 @@ window.RODOKMEN = {
       occ: "havíř a obuvník v Oseku č. 86",
       marriage: "asi září–listopad 1838, Osek – s Annou Aubrechtovou",
       notes: [
-        "Narozen v lednu 1811 (15. 1. ?) v Oseku č. 84; otec Martin Lodl, švec; matka Kateřina, dcera † Jakuba Lezáka (?) a † Magdaleny (Vandrlové ?). Kmotři Šimon Lam…r (?) a Magdalena Vandrlová (?).",
-        "Havíř a švec v Oseku č. 86. Syn † Martina Lodla, mistra ševcovského z Oseku č. 75, a † Kateřiny roz. Lezákové (?) z Oseku č. 83 (křest syna Martina 1849).",
+        "Narozen v lednu 1811 (15. 1. ?) v Oseku č. 84; otec Martin Lodl, švec; matka Kateřina, dcera † Jakuba Trgjka a † Magdaleny – správně Šimona Trgjka a Anny (viz ROZPOR u Kateřiny). Kmotři Šimon Lam…r (?) a Magdalena Vandrlová (?).",
+        "Havíř a švec v Oseku č. 86. Syn † Martina Lodla, mistra ševcovského z Oseku č. 75, a † Kateřiny roz. Trgjkové z Oseku č. 83 (křest syna Martina 1849).",
         "Sňatek s Annou Aubrechtovou je v rejstříku oddaných Osek 11 (str. 230), sama strana ale není nasnímána – podle sousedních stran mezi 9. 9. a 20. 11. 1838.",
         "V roce 1873 už nežil; v rejstříku zemřelých Osek 1848–1869 není.",
-        "Dcera Marie Lodlová byla kmotrou Barbory (1873)."
+        "Dcera Marie Lodlová byla kmotrou Barbory (1873).",
+        "V letech 1847–1848 bydlel s Annou v Oseku č. 60 a přišli o tři děti: Marie (29. 3. 1847, 7½ roku ?), Marie (14. 6. 1847, 9 týdnů), Josef (21. 4. 1848, 16 měsíců); otec zapsán jako „pastýř (?)“."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
         "SOA Plzeň, Sbírka matrik západních Čech (fond 10014), fara Osek, kniha Osek 20 (N 1868–1874), str. 204, snímek 109 – https://www.portafontium.eu/iipimage/30066686/osek-20_1090-n",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), rejstřík snímek 251: „Pawel Lodl s Annau Aubrechtowau … 230“ (strana 230 není nasnímána)",
-        "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n"
+        "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n",
+        "SOA Plzeň, fara Osek, kniha Osek 10 (Z), pag. 268 a 273, a Osek 17 (Z 1848–1869), pag. 4 – https://www.portafontium.eu/iipimage/30066683/osek-17_0060-z"
       ],
       scans: [
         {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest Martina Lodla, Osek 1849 – otec Pavel Lodl"},
@@ -2585,7 +2587,8 @@ window.RODOKMEN = {
         "Podruhé oddán 9. 9. 1814 v Oseku (č. 84) jako švec, 36 let, vdovec, s Annou (35), vdovou po † Prokopu Laukotovi, pastýři, dcerou Šimona Holuby z Oseka č. 83 – babičkou budoucí snachy Anny Laukotové.",
         "Zemřel 22. 6. 1840 (pohřben 24. 6.) v Oseku jako „bývalý mistr ševcovský“, uvedeno 71 let, na zimnici a souchotiny (?). ROZPOR věku: podle 2. sňatku 1814 *~1778, podle úmrtí ~1769. Další řádky zápisu („… b. vojáku … invalid (?) … pluk Plzeňského kraje“) naznačují, že byl vysloužilý voják / invalida, snad zemské obrany Plzeňského kraje – čtení nejisté; to by vysvětlovalo jeho příchod „odjinud“ (1804).",
         "S Annou Holubovou dcera Anna (20. 7. 1815, Osek č. 84).",
-        "KANDIDÁT příbuzného: Josef Lodl, podruh ve Volduchách č. 28 (syn Matěj *7. 1. 1821, manželka Marie Herglová (?)) – možná bratr nebo synovec. Děti Martina s Annou Holubovou po 1815 v Oseku nenalezeny."
+        "KANDIDÁT příbuzného: Josef Lodl, podruh ve Volduchách č. 28 (syn Matěj *7. 1. 1821, manželka Marie Herglová (?)) – možná bratr nebo synovec. Děti Martina s Annou Holubovou po 1815 v Oseku nenalezeny.",
+        "S Annou Holubovou měl i dceru Kateřinu – 19. 5. 1840 jí v Oseku č. 83 zemřel měsíční syn Jiří (otec neuveden)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
