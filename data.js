@@ -2576,7 +2576,7 @@ window.RODOKMEN = {
         "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Tück (?) / Türck (?)“ (dřívější čtení „Brück“ neplatí – stejné T jako v „Trgěk“; věk nevyplněn, rodiče neuvedeni); svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
         "Otec Pavla Lodla (*1811); švec v č. 84 (1811), později mistr ševcovský v č. 75.",
         "Podruhé oddán 9. 9. 1814 v Oseku (č. 84) jako švec, 36 let, vdovec; nevěsta Anna (35), vdova po † Jakubu Laukotovi, pastýři, dcera Šimona Holuby (?) z Oseku č. 83 – čtení rodičů nevěsty nejisté.",
-        "KANDIDÁT: Jakub Laukota mohl být otcem Jana Laukoty (otce Anny Forejtové *1822) – obě rodiny Lodl a Laukota by tak byly spojené už 1814."
+        "KANDIDÁT: nevěsta z r. 1814, „Anna, vdova po † Jakubu Laukotovi, pastýři, dcera Šimona Holuby“, je nejspíš Anna roz. Holubová, vdova po pastýři Prokopu Laukotovi (sňatek 1798) – babička Anny Laukotové, budoucí snachy Martina Lodla."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
@@ -2707,14 +2707,15 @@ window.RODOKMEN = {
       name: "Jan Laukota",
       line: "loukota",
       cert: "M",
-      b: {"date":"asi 1797","year":1797,"approx":true},
+      b: {"date":"15. (?) 10. 1798","year":1798,"place":"Osek u Rokycan č. p. 10"},
       father: "prokop_la",
       mother: "anna_zo",
       spouse: "magdalena_la",
       occ: "zedník (?) v Drozdově (1821–1822), později domkář v Oseku č. 10",
       marriage: "6. 11. 1821, Drozdov (fara Cerhovice) – s Magdalenou Landtyngrovou",
       notes: [
-        "Oddán 6. 11. 1821 v Drozdově (fara Cerhovice) jako zedník (?) v Drozdově, 24 let, svobodný, s Magdalenou, dcerou Josefa Landtyngra, kováře v Drozdově (24 let). Syn † Prokopa Laukoty, zahradníka (?) na Mýtě / Mýtku (?), a Anny roz. Žolibové (?) z Kařezu (?) (křest dcery 1822) – původ asi z okolí Mýta a Kařezu (SOA Plzeň), čtení nejisté.",
+        "Pokřtěn 15. (?) 10. 1798 v Oseku č. 10: otec Prokop Laukota, pastýř („Hirt“), matka Anna Holubová; kmotři Jan Aubrecht a Jan Forejt, sedláci, a Anna Trgjková, selka. Do Drozdova (fara Cerhovice) odešel před 1821, po 1822 se vrátil do Oseka č. 10.",
+        "Oddán 6. 11. 1821 v Drozdově (fara Cerhovice) jako zedník (?) v Drozdově, 24 let, svobodný, s Magdalenou, dcerou Josefa Landtyngra, kováře v Drozdově (24 let). Syn † Prokopa Laukoty a Anny roz. Holubové (křest dcery 1822; dřívější čtení „Žolibová“ a „Mýto“ byla chybná).",
         "Otec Anny Forejtové (*1822); dal souhlas k jejímu sňatku 1846.",
         "POZOR na záměnu: v Oseku č. 17 žil současně jiný pár Matěj Laukota × Magdalena roz. Wernerová (?); jejich syn Jan (*~1804) se 1826 oženil s Barborou Loserovou (?) z Oseka č. 81."
       ],
@@ -2722,11 +2723,13 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 16 (O 1812–1839), oddíl Drozdov, fol. 71, snímek 74 – https://ebadatelna.soapraha.cz/d/4559/74",
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107",
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n"
       ],
       scans: [
         {"f":"img/1821_snatek_jan_laukota_magdalena_landtyngr_drozdov_cerhovice16_sn74_a.jpg","t":"Sňatek Jana Laukoty a Magdaleny Landtyngrové, Drozdov 6. 11. 1821"},
-        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
+        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"},
+        {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"}
       ]
     },
     {
@@ -5730,35 +5733,47 @@ window.RODOKMEN = {
       name: "Prokop Laukota",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      b: {"date":"asi 1763","year":1763,"approx":true},
       d: {"date":"před 22. 9. 1822","year":1822,"approx":true},
+      mother: undefined,
       spouse: "anna_zo",
+      occ: "obecní pastýř v Oseku č. 10",
+      marriage: "16. 1. 1798, Osek – s Annou Holubovou",
       notes: [
-        "Otec Jana Laukoty; při křtu vnučky Anny (1822) zemřelý, „zahradník (?) na Mýtě / Mýtku (?)“ – čtení nejisté."
+        "Oddán 16. 1. 1798 v Oseku (č. 10) jako pastýř („Hyrd“), 35 let, s Annou, dcerou Šimona Holuba (23 let); svědci Václav Boušlav, sedlák, Matěj Reimer (?), družba, a Anna Laukotová, družička.",
+        "Otec Jana (*1798). Zemřel před 22. 9. 1822.",
+        "KANDIDÁT: v r. 1814 se Martin Lodl oženil s „Annou, vdovou po † Jakubu Laukotovi, pastýři, dcerou Šimona Holuby“ – nejspíš táž Anna, vdova po Prokopovi (jméno „Jakub“ chybné čtení nebo chyba zápisu); úmrtí Prokopa (Osek 1798–1814) zatím nehledáno."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n"
       ],
       scans: [
-        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
+        {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
+        {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"}
       ]
     },
     {
       id: "anna_zo",
       name: "Anna Laukotová",
-      maiden: "Žolibová (?)",
+      maiden: "Holubová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      b: {"date":"asi 1775","year":1775,"approx":true,"place":"Osek u Rokycan"},
+      father: "simon_hb",
       spouse: "prokop_la",
+      marriage: "16. 1. 1798, Osek – s Prokopem Laukotou",
       notes: [
-        "Matka Jana Laukoty; rodné příjmení nejisté."
+        "Dcera Šimona Holuba z Oseka; oddána 16. 1. 1798 (23 let) s pastýřem Prokopem Laukotou. Matka Jana Laukoty (*1798). V křtu vnučky 1822 čteno „Žolibová (?) z Kařezka (?)“ – správně Holubová.",
+        "KANDIDÁT: 9. 9. 1814 se jako vdova po pastýři Laukotovi (35 let) provdala za ševce Martina Lodla (Osek č. 84) – tím by byla předkyní dvakrát blízko: babička Anny Laukotové a nevlastní matka Pavla Lodla."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n"
       ],
       scans: [
-        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
+        {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
+        {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"}
       ]
     },
     {
@@ -5939,6 +5954,23 @@ window.RODOKMEN = {
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958",
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 171 – https://www.mza.cz/actapublica/matrika/detail/1948"
+      ]
+    },
+    {
+      id: "simon_hb",
+      name: "Šimon Holub",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      occ: "Osek (č. 83 ?)",
+      notes: [
+        "Otec Anny Laukotové (sňatek 1798)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o"
+      ],
+      scans: [
+        {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"}
       ]
     }
   ]
