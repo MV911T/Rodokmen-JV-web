@@ -2709,8 +2709,10 @@ window.RODOKMEN = {
       notes: [
         "Otec Anny Forejtové; dal souhlas k jejímu sňatku 1846.",
         "Křest dcery Anny (26. 8. 1822, podle oddacího zápisu 1846 „von Zer-/howitz“) nenalezen v Oseku 1822 (celý srpen), Cerhovicích, Hlohovicích, Hlohovičkách, Drahoňově Újezdě ani v obcích fary Mýto (Cheznovice, Svojkovice, Těškov, Cekov, Kařez).",
-        "Sňatek Jana Laukoty s Magdalenou nenalezen: Osek 1815–XI 1822 (všechny tři oddíly), Drahoňův Újezd XI 1819–X 1822.",
-        "KANDIDÁT původu: rodina Laukotů doložena v Terešově (fara Drahoňův Újezd, panství Zbiroh) – sňatky Anny Laukotové 1811 a Kateřiny 1816; ve Vitince 1758 Jakub Laukota."
+        "Sňatek Jana Laukoty s Magdalenou nenalezen: Osek 1815–XI 1822 (všechny tři oddíly), Drahoňův Újezd I 1815–X 1822. Křest Anny není ani v Drahoňově Újezdě (srpen–září 1822 celé farnosti); „Zerhowitz“ je běžný německý tvar Cerhovic.",
+        "KANDIDÁT původu: rodina Laukotů doložena v Terešově (fara Drahoňův Újezd, panství Zbiroh) – sňatky Anny Laukotové 1811 a Kateřiny 1816; ve Vitince 1758 Jakub Laukota.",
+        "POZOR na záměnu: v Oseku č. 17 žil současně jiný pár Matěj Laukota × Magdalena roz. Wernerová (?); jejich syn Jan (*~1804) se 1826 oženil s Barborou Loserovou (?) z Oseka č. 81.",
+        "KANDIDÁT matky: 1819 se v Drahoňově Újezdě vdávala Marie Magdalena, dcera Matěje Lanzera (?), podruha z Plískova č. 27 (za Václava Kuru) – příjmení připomíná „Lancík (?)“; vazba neověřena."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
