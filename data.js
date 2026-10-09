@@ -62,7 +62,8 @@ window.RODOKMEN = {
     "kucera": "Kučera",
     "hronek": "Hronek",
     "anders": "Anders",
-    "hrabovsky": "Hrabovský"
+    "hrabovsky": "Hrabovský",
+    "krejci": "Krejčí"
   },
   people: [
     {
@@ -1697,24 +1698,29 @@ window.RODOKMEN = {
       name: "Matěj Diviš",
       line: "divis",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"asi 1777","year":1777,"approx":true,"place":"Černín č. p. 7"},
       d: {"date":"před 22. 7. 1868","year":1868,"approx":true},
       father: "josef_di",
       mother: "anna_di",
       spouse: "josefa_m",
       occ: "gruntovník (rolník) v Černíně č. 7",
+      marriage: "28. 4. 1807, Zdice – s Josefou Merhautovou",
       notes: [
-        "Gruntovník v Černíně č. 7 (panství Králův Dvůr); syn Josefa Diviše a Anny z Hořovic (?) – čtení nejisté (křest dcery 1822). Zemřel před 1851."
+        "Oddán 28. 4. 1807 ve Zdicích (dům nevěsty č. 21), 30 let, svobodný; syn Josefa Diviše, sedláka z Černína č. 7, a Anny. Svědci Antonín David, mistr kovářský ze Zdic, a Vojtěch Grünwald (?).",
+        "Gruntovník v Černíně č. 7 (panství Králův Dvůr); zemřel před 1851."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4"
       ],
       scans: [
-        {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"}
+        {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"},
+        {"f":"img/1807_snatek_matej_divis_zdice_a.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové, Zdice 28. 4. 1807 – ženich"},
+        {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"}
       ]
     },
     {
@@ -1723,19 +1729,25 @@ window.RODOKMEN = {
       maiden: "Merhautová",
       line: "merhaut",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Zdice č. p. 21"},
+      b: {"date":"asi 1789","year":1789,"approx":true,"place":"Zdice č. p. 21"},
       father: "dominik_me",
       mother: "anna_hr",
       spouse: "matej_d",
+      marriage: "28. 4. 1807, Zdice – s Matějem Divišem",
       notes: [
-        "Matka Antonie Červenkové; dcera † Dominika Merhauta ze Zdic č. 21 a Anny roz. Hronkové (křty dětí 1819, 1822)."
+        "Dcera Dominika Merhauta, zdického rychtáře (1807 živ, 1819 už †), a Anny roz. Hronkové; při sňatku 1807 18 let."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4"
+      ],
+      scans: [
+        {"f":"img/1807_snatek_matej_divis_zdice_a.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové, Zdice 28. 4. 1807 – ženich"},
+        {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"}
       ]
     },
     {
@@ -3454,7 +3466,8 @@ window.RODOKMEN = {
       spouse: "dorota_ce",
       occ: "chalupník v Hrubém Jeseníku č. 30",
       notes: [
-        "Otec Marie Čapkové (manželky Jana Čapka) – oba rody Čapků z Hrubého Jeseníka."
+        "Otec Marie Čapkové (manželky Jana Čapka) – oba rody Čapků z Hrubého Jeseníka.",
+        "Podle indexu křtů Hrubý Jeseník děti od 1777 (Dorota 1777, Kateřina 1779, František 1781, Josef 1784/85, Kateřina 1788, Jan Kašpar 1790, Marie 1797) – sňatek s Dorotou Červinkovou nejpozději 1777."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
@@ -4084,30 +4097,45 @@ window.RODOKMEN = {
       name: "Václav Svoboda",
       line: "svoboda",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      b: {"date":"asi 1781","year":1781,"approx":true,"place":"Málkov"},
       d: {"date":"před 14. 2. 1832","year":1832,"approx":true},
+      father: "matej_sv0",
+      mother: "anna_sv0",
       spouse: "josefa_pr",
       occ: "domkář v Suchomastech č. 14",
+      marriage: "19. 1. 1806, Borek (Suchomasty č. 5) – s Josefou Krejčí",
       notes: [
-        "Otec Anny Klikové (jiný Václav Svoboda než domkář z č. 21, otec Marie Klikové)."
+        "Oddán 19. 1. 1806 (fara Borek, dům č. 5), 25 let; vlastní syn Matěje Svobody, sedláka v Málkově, a Anny. Svědci Matěj Janda z Málkova a Václav Zelenka, chalupník z Koněprus.",
+        "Domkář v Suchomastech č. 14; zemřel před 1832. Děti: Josef (*27. 2. 1808), Barbora (*8. 5. 1811), Anna (*~1808, ⚭ 1832 František Klika)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
+      ],
+      scans: [
+        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806"}
       ]
     },
     {
       id: "josefa_pr",
       name: "Josefa Svobodová",
-      maiden: "Prajzová (?)",
+      maiden: "Krejčí (Krejzí)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true,"place":"Suchomasty"},
+      b: {"date":"asi 1782","year":1782,"approx":true,"place":"Suchomasty"},
+      father: "jakub_kr",
+      mother: "katerina_kr2",
       spouse: "vaclav_sv0",
+      marriage: "19. 1. 1806 – s Václavem Svobodou",
       notes: [
-        "Matka Anny Klikové; čtení příjmení nejisté."
+        "Vlastní dcera Jakuba Krejčího (Krejzího), domkáře rodem ze Suchomast, a Kateřiny; při sňatku 1806 24 let. Čtení „Prajzová“ v oddacím zápise dcery 1832 a „Krejzí“ v křtu syna 1808 – správně nejspíš Krejčí."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
+      ],
+      scans: [
+        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806"}
       ]
     },
     {
@@ -4121,7 +4149,7 @@ window.RODOKMEN = {
       occ: "familiant v Hrubém Jeseníku",
       notes: [
         "Otec Jana Čapka (*~1795).",
-        "KANDIDÁT sňatku: 23. 6. 1788 Hrubý Jeseník č. 20 – „Jann Čapka (?)“, 19/21 let, × „Barbora Bzegjitkin (?)“ (HJ 06 sn. 40, HJ 08 sn. 205) – křestní jména sedí, příjmení nevěsty se liší od „Bukvajová (?)“ z křtu syna 1795 a dům č. 20 × č. 48; neověřeno."
+        "Děti podle indexu křtů Hrubý Jeseník: Anna (1793), Jan (1795), Anna (~1795/96). Sňatek s Barborou zatím nenalezen (kandidát 23. 6. 1788 se při čtení v plném rozlišení nepotvrdil – ženich „Peška/Pejška (?)“)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222",
@@ -4205,12 +4233,14 @@ window.RODOKMEN = {
       name: "Josef Diviš",
       line: "divis",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      occ: "sedlák v Černíně č. 7",
       notes: [
         "Otec Matěje Diviše; čtení nejisté."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4"
       ]
     },
     {
@@ -4218,7 +4248,7 @@ window.RODOKMEN = {
       name: "Anna Divišová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true,"place":"Hořovice (?)"},
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Hořovice (?)"},
       spouse: "josef_di",
       notes: [
         "Matka Matěje Diviše; rodné příjmení nečitelné."
@@ -4235,13 +4265,17 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
       d: {"date":"před 8. 12. 1819","year":1819,"approx":true},
       spouse: "anna_hr",
-      occ: "Zdice č. 21",
+      occ: "rychtář ve Zdicích (č. 21)",
       notes: [
         "Otec Josefy Divišové."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4"
+      ],
+      scans: [
+        {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"}
       ]
     },
     {
@@ -4466,6 +4500,64 @@ window.RODOKMEN = {
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
+      ]
+    },
+    {
+      id: "matej_sv0",
+      name: "Matěj Svoboda",
+      line: "svoboda",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      spouse: "anna_sv0",
+      occ: "sedlák v Málkově",
+      notes: [
+        "Otec Václava Svobody (*~1781)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
+      ]
+    },
+    {
+      id: "anna_sv0",
+      name: "Anna Svobodová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      spouse: "matej_sv0",
+      notes: [
+        "Matka Václava Svobody (*~1781); rodné příjmení neuvedeno."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
+      ]
+    },
+    {
+      id: "jakub_kr",
+      name: "Jakub Krejčí",
+      line: "krejci",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      spouse: "katerina_kr2",
+      occ: "domkář, rodák ze Suchomast",
+      notes: [
+        "Otec Josefy Svobodové."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
+      ]
+    },
+    {
+      id: "katerina_kr2",
+      name: "Kateřina Krejčí",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      spouse: "jakub_kr",
+      notes: [
+        "Matka Josefy Svobodové; rodné příjmení neuvedeno."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
       ]
     }
   ]
