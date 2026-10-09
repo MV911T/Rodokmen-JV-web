@@ -5396,11 +5396,13 @@ window.RODOKMEN = {
       maiden: "Čadová",
       line: "forejt",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Volduchy"},
+      b: {"date":"1. 12. 1745","year":1745,"place":"Osek u Rokycan"},
       father: "matej_ca",
+      mother: "eva_ho",
       spouse: "vit_fo",
       marriage: "1. sňatek VII 1771, Osek – s Vojtěchem Andrlem, sedlákem z Volduch (vdovcem); 2. sňatek 22. 7. 1772, Osek – s Vítem Forejtem",
       notes: [
+        "Narozena 1., pokřtěna 2. 12. 1745 v Oseku: „Barbora, vlastní dcera … otce Matouše Čady, matky Evy“; kmotři Kateřina Aubrechtová, Anna Boušlavová a Jakub Trgjk z Oseka. Ztotožnění: otec „Mattheus (= Matouš) Czada, rusticus Wolduchensis“ v oddacím zápisu 1771, rodina se 1750/51 přestěhovala do Volduch, jiná Barbora Čadová 1744–1752 není; v r. 1772 bydlela v domě č. 51, kde téhož roku zemřel její bratr Jakub (?).",
         "Dcera Matěje Čady, sedláka ve Volduchách. Poprvé oddána v červenci 1771 (?) s Vojtěchem Andrlem, vdovcem a sedlákem z Volduch č. 84 († 16. 4. 1772, 41 let); po jeho smrti se 22. 7. 1772 provdala za Víta Forejta, syna Pavla Forejta z Volduch, do Oseka č. 66.",
         "V Oseku č. 66: dcera Barbora (VIII 1778), syn Josef (VI 1781, pohrobek – „Forejt Witwe, Barbara Mutter“)."
       ],
@@ -5409,11 +5411,13 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 05, str. 16, snímek 11 – https://www.portafontium.eu/iipimage/30066671/osek-05_0110-n",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, snímek 3 – https://www.portafontium.eu/iipimage/30066673/osek-07_0030-o",
         "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o",
-        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Volduchy, snímek 72 – https://www.portafontium.eu/iipimage/30066674/osek-08_0720-z"
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Volduchy, snímek 72 – https://www.portafontium.eu/iipimage/30066674/osek-08_0720-z",
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl N, snímek 28 – https://www.portafontium.eu/iipimage/30066669/osek-03_0280-n"
       ],
       scans: [
         {"f":"img/1772_oddani_vit_forejt_barbora_vdova_anderle_osek66_osek07_sn3.jpg","t":"Sňatek Víta Forejta a Barbory, vdovy po Vojtěchu Andrlovi, Osek 22. 7. 1772"},
-        {"f":"img/1771_oddani_vojtech_andrle_barbora_cada_a_1772_duplikat_forejt_osek04_sn86.jpg","t":"První sňatek Barbory Čadové s Vojtěchem Andrlem (1771) a duplikát sňatku s Vítem Forejtem (1772)"}
+        {"f":"img/1771_oddani_vojtech_andrle_barbora_cada_a_1772_duplikat_forejt_osek04_sn86.jpg","t":"První sňatek Barbory Čadové s Vojtěchem Andrlem (1771) a duplikát sňatku s Vítem Forejtem (1772)"},
+        {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"}
       ]
     },
     {
@@ -5686,17 +5690,28 @@ window.RODOKMEN = {
     },
     {
       id: "matej_ca",
-      name: "Matouš (?) Čada",
+      name: "Matouš Čada",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
-      occ: "sedlák ve Volduchách",
+      b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true,"place":"Volduchy"},
+      father: "pavel_ca",
+      spouse: "eva_ho",
+      occ: "sedlák v Oseku, od 1751 ve Volduchách (č. 51 ?)",
+      marriage: "3. 11. 1744, Osek – s Evou Holubovou",
       notes: [
-        "Otec Barbory Forejtové („filia Mathei Czada rustici Wolduchensis“, 1771 – latinské Mattheus = Matouš; ve Volduchách současně žil i Matěj Čada, pozor na záměnu).",
-        "KANDIDÁT: křest Barbory 1. 12. 1745 v Oseku, „otce Mataušse Čady (?), matky Ewy“ – rodina tehdy v Oseku, ne ve Volduchách; neověřeno."
+        "Oddán 3. 11. 1744 v Oseku jako „počtivý mládenec Matouš Čada, vlastní syn Pavla Čady z Volduch“, s Evou Holubovou, dcerou † Matěje Holuba z Oseka; družba Jan Andrle z Volduch.",
+        "Děti: Barbora (1745), Jakub (1747), dvojčata Adam a Eva (1750) – v Oseku; Martin (1751) a Kateřina (1754) – ve Volduchách. V oddacím zápisu dcery 1771 „Mattheus Czada, rusticus Wolduchensis“. Pozor: ve Volduchách současně žil Matěj Čada.",
+        "KANDIDÁT úmrtí: 22. 6. 1780 ve Volduchách č. 69 „Czada Math., Bauer“, 72 let – „Math.“ může být i Matěj."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o"
+        "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o",
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o",
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl N, snímek 28 – https://www.portafontium.eu/iipimage/30066669/osek-03_0280-n",
+        "SOA Plzeň, fara Osek, kniha Osek 08, oddíl Volduchy, snímek 74 – https://www.portafontium.eu/iipimage/30066674/osek-08_0740-z"
+      ],
+      scans: [
+        {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"},
+        {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"}
       ]
     },
     {
@@ -5788,6 +5803,63 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"}
+      ]
+    },
+    {
+      id: "eva_ho",
+      name: "Eva Čadová",
+      maiden: "Holubová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1722)","year":1722,"approx":true,"place":"Osek u Rokycan"},
+      father: "matej_ho",
+      spouse: "matej_ca",
+      marriage: "3. 11. 1744, Osek – s Matoušem Čadou",
+      notes: [
+        "Dcera † Matěje Holuba z Oseka; matka Barbory Forejtové (*1745)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o",
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl N, snímek 28 – https://www.portafontium.eu/iipimage/30066669/osek-03_0280-n"
+      ],
+      scans: [
+        {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"},
+        {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"}
+      ]
+    },
+    {
+      id: "pavel_ca",
+      name: "Pavel Čada",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      occ: "Volduchy",
+      notes: [
+        "Otec Matouše Čady (sňatek 1744)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o"
+      ],
+      scans: [
+        {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"}
+      ]
+    },
+    {
+      id: "matej_ho",
+      name: "Matěj Holub",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      d: {"date":"před 3. 11. 1744","year":1744,"approx":true},
+      occ: "Osek",
+      notes: [
+        "Otec Evy Čadové (sňatek 1744: „po nebožtíkovi Matějovi Holubovi ze vsi Oseka“)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o"
+      ],
+      scans: [
+        {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"}
       ]
     }
   ]
