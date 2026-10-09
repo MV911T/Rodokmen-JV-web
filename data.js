@@ -5765,31 +5765,34 @@ window.RODOKMEN = {
       name: "Prokop Laukota",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1763","year":1763,"approx":true},
+      b: {"date":"asi 1760","year":1760,"approx":true,"place":"Osek u Rokycan (?)"},
       d: {"date":"6. 2. 1805","year":1805,"place":"Osek u Rokycan č. p. 10"},
       cause: "sněť („an Brand“)",
+      father: "simon_la",
       mother: undefined,
       spouse: "anna_zo",
       occ: "obecní pastýř v Oseku č. 10",
-      marriage: "1. sňatek s Annou († 26. 11. 1797); 2. sňatek 16. 1. 1798, Osek – s Annou Holubovou",
+      marriage: "1. sňatek 24. 11. 1782, Osek – s Annou Laukotovou († 1797); 2. sňatek 16. 1. 1798, Osek – s Annou Holubovou",
       notes: [
         "Oddán 16. 1. 1798 v Oseku (č. 10) jako pastýř („Hyrd“), 35 let, s Annou, dcerou Šimona Holuba (23 let); svědci Václav Boušlav, sedlák, Matěj Reimer (?), družba, a Anna Laukotová, družička.",
-        "První manželka Anna zemřela 26. 11. 1797 v Oseku č. 10 při porodu, 30 let („Anna, Eheweib des Prokop Laukota, Viehhirt“); o sedm týdnů později se Prokop oženil podruhé (stav ženicha v zápise 1798 nejasný – opravená čísla).",
+        "Poprvé oddán 24. 11. 1782 v Oseku (č. 10): „Laukota Prokob, Sohn des Simon Laukota von Wossek, mit Anna, Tochter des Antonij Laukota von Wossek“, s dispenzí ze 3. stupně pokrevenství (snoubenci byli příbuzní); svědci Jan Liebrecht, Václav Boušlav, Matěj Hlásník (?) a Ludmila Kirchaizk (?). Anna zemřela 26. 11. 1797 v č. 10 při porodu (uvedeno 30 let). Syn z 1. manželství † 1. 6. 1783.",
         "Děti s Annou Holubovou (Osek č. 10): Jan (1798), Marie (6. 3. 1801), Šimon (1. 3. 1802), Martin (29. 10. 1804).",
         "Zemřel 6. 2. 1805 v Oseku č. 10 jako obecní pastýř, 45 let, na sněť („an Brand“). Vdova Anna se 1814 provdala za ševce Martina Lodla.",
-        "KANDIDÁT rodičů: Šimon Laukota, pastýř v Oseku č. 10 (1774), a Magdalena († 5. 10. 1807 jako vdova po pastýři Šimonu Laukotovi, 69 let) – křest Prokopa nenalezen (rejstřík Osek 04 1760–1772 ho nemá). Křest Prokopa nenalezen ani v Oseku II 1758 – XII 1759 a v letních měsících 1760–1763; v rejstříku Osek 03 (1740–1759) chybí."
+        "Matka Prokopa nejspíš Magdalena († 5. 10. 1807 jako vdova po pastýři Šimonu Laukotovi, 69 let) – neověřeno, mohla být i 2. manželkou Šimona. Křest Prokopa nenalezen (Osek 1758–1763)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n",
         "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, str. 62, snímek 36 – https://www.portafontium.eu/iipimage/30066674/osek-08_0360-z",
-        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, rok 1797, snímek 25 – https://www.portafontium.eu/iipimage/30066674/osek-08_0250-z"
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, rok 1797, snímek 25 – https://www.portafontium.eu/iipimage/30066674/osek-08_0250-z",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, rok 1782, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
       ],
       scans: [
         {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
         {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"},
         {"f":"img/1805_umrti_prokop_laukota_gemeinhirt_osek10_osek08_sn36.jpg","t":"Úmrtí Prokopa Laukoty, Osek 6. 2. 1805"},
-        {"f":"img/1797_umrti_anna_manzelka_prokopa_laukoty_osek10_v_porodu_osek08_sn25.jpg","t":"Úmrtí 1. manželky Anny, Osek 26. 11. 1797"}
+        {"f":"img/1797_umrti_anna_manzelka_prokopa_laukoty_osek10_v_porodu_osek08_sn25.jpg","t":"Úmrtí 1. manželky Anny, Osek 26. 11. 1797"},
+        {"f":"img/1782_oddani_prokop_laukota_syn_simona_x_anna_dcera_antonina_laukoty_osek10_osek07_sn8.jpg","t":"První sňatek Prokopa Laukoty, Osek 24. 11. 1782"}
       ]
     },
     {
@@ -6054,6 +6057,25 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1775_krest_Michal_Vojtech_Techobuz19_otec_Jakub_matka_Katerina_8806_sn57.jpg","t":"Křest Vojtěcha Michala, Těchobuz 19. 4. 1775"}
+      ]
+    },
+    {
+      id: "simon_la",
+      name: "Šimon Laukota",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      d: {"date":"mezi 1801 a 1807 (?)","year":1804,"approx":true},
+      occ: "pastýř v Oseku (č. 10 v r. 1774)",
+      notes: [
+        "Otec Prokopa Laukoty (sňatek 1782). V r. 1774 pastýř v Oseku č. 10 (křest dcery Magdaleny, matka Magdalena); dcera Magdalena † I 1781. Podle rejstříku měl děti už 1747 a 1752 (možná z 1. manželství).",
+        "KANDIDÁT manželky: Magdalena († 5. 10. 1807, Osek č. 17, „vdova po † Šimonovi Laukotovi, pastýři“, 69 let). Úmrtí Šimona v Oseku 1772–1801 nenalezeno."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, rok 1782, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
+      ],
+      scans: [
+        {"f":"img/1782_oddani_prokop_laukota_syn_simona_x_anna_dcera_antonina_laukoty_osek10_osek07_sn8.jpg","t":"První sňatek Prokopa Laukoty, Osek 24. 11. 1782"}
       ]
     }
   ]
