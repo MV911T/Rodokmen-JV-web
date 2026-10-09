@@ -2588,7 +2588,7 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěna 30. 6. 1782 v Oseku č. 83; otec Šimon Trgjk, matka Anna. Sestra Barbora (*19. 5. 1784, č. 83).",
         "Při sňatku 1804 21 let, selská dcera. Zemřela 3. 2. 1814 v Oseku č. 84 („Kateřina, manželka Martina Lodla, ševce“), pohřbena 5. 2.; věk zapsán „25 (?)“ – podle křtu jí bylo 31.",
-        "ROZPOR: křest syna Pavla 1811 uvádí rodiče „† Šimona (dříve čteno Jakuba) a † Mag…“ – platí křest 1782 (Anna).",
+        "ROZPOR: křest syna Pavla (I 1811) uvádí jako její rodiče „† Jakuba Trgjka a † Magdalenu“ – to jsou podle křtu 1782 její prarodiče (otec Šimon žil až do 1812). Platí křest 1782.",
         "Příjmení „Trgjk“ (staročesky; výslovnost asi Trjík / Trejík) je doloženo ve všech šesti zápisech 1782–1849 – dřívější čtení „Lezák“ bylo chybné (velké T psané smyčkou připomíná L)."
       ],
       sources: [
@@ -3702,27 +3702,32 @@ window.RODOKMEN = {
       name: "Šimon Trgjk",
       line: "lezak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
-      d: {"date":"kolem 1811 (?)","year":1811,"approx":true},
+      b: {"date":"asi 1757/1758","year":1757,"approx":true,"place":"Osek u Rokycan č. p. 83 (?)"},
+      d: {"date":"9. 11. 1812","year":1812,"place":"Osek u Rokycan č. p. 83"},
+      cause: "souchotiny",
       father: "jakub_tr",
       spouse: "anna_tr",
-      occ: "sedlák (?) v Oseku č. 83",
-      marriage: "28. 10. 1781, Osek – s Annou Košlauovou (?)",
+      occ: "sedlák v Oseku č. 83",
+      marriage: "1. sňatek 28. 10. 1781, Osek – s Annou Košlauovou (?); 2. sňatek 10. 6. 1800, Osek – s Kateřinou Kowry (?)",
       notes: [
         "Oddán 28. 10. 1781 v Oseku (dům č. 83, kaplan Carolus Gruber): „Trgjk Simon, Sohn nach verst. Jakob Trgjk von Wossek, mit Anna, Tochter nach dem verst. Joann Koßlau (?) von Wolduch“; svědci Jakob Holub z Volduch, Johann Koßlau z Oseka, Martin Trgjk a Kateřina Viková.",
         "Otec Kateřiny Lodlové (*1782).",
-        "Po smrti manželky Anny (1800) se znovu oženil – v č. 83 zemřeli syn Šimon (25. 11. 1803, 6 měsíců) a syn Jakub, „syn Šymona Trgjka a Kateřiny“ (VIII 1811, kojenec).",
-        "ROZPOR: křest vnuka Pavla Lodla (I 1811) uvádí Kateřinu jako dceru „† Šimona“, zápis o úmrtí syna Jakuba (VIII 1811) otce jako zemřelého neoznačuje. Úmrtí Šimona v Oseku 1784–1811 nenalezeno."
+        "Podruhé oddán 10. 6. 1800 v Oseku jako sedlák č. 83 a vdovec, 42 let, s Kateřinou, dcerou Jana Kowry (?), 20 let. Z 2. manželství v č. 83 zemřeli syn Šimon (25. 11. 1803, 6 měsíců) a syn Jakub (VIII 1811, kojenec).",
+        "Zemřel 9. 11. 1812 v Oseku č. 83 jako sedlák, 55 let, na souchotiny; pohřben 11. 11."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
         "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, snímek 33 – https://www.portafontium.eu/iipimage/30066674/osek-08_0330-z",
-        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, snímek 44 – https://www.portafontium.eu/iipimage/30066674/osek-08_0440-z"
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, snímek 44 – https://www.portafontium.eu/iipimage/30066674/osek-08_0440-z",
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, str. 25, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, str. 83, snímek 46 – https://www.portafontium.eu/iipimage/30066674/osek-08_0460-z"
       ],
       scans: [
         {"f":"img/1782_krest_katerina_trgjk_osek.jpg","t":"Křest Kateřiny Trgjkové, Osek 30. 6. 1782"},
-        {"f":"img/1781_oddani_simon_trgjk_anna_osek07_sn8.jpg","t":"Sňatek Šimona Trgjka a Anny, Osek 28. 10. 1781"}
+        {"f":"img/1781_oddani_simon_trgjk_anna_osek07_sn8.jpg","t":"Sňatek Šimona Trgjka a Anny, Osek 28. 10. 1781"},
+        {"f":"img/1800_oddani_simon_trgjk_vdovec_katerina_osek83_osek07_sn14.jpg","t":"Druhý sňatek Šimona Trgjka, Osek 10. 6. 1800"},
+        {"f":"img/1812_umrti_simon_trgjk_osek83_osek08_sn46.jpg","t":"Úmrtí Šimona Trgjka, Osek 9. 11. 1812"}
       ]
     },
     {
