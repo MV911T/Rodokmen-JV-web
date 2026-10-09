@@ -1746,13 +1746,14 @@ window.RODOKMEN = {
       maiden: "Merhautová",
       line: "merhaut",
       cert: "M",
-      b: {"date":"asi 1789","year":1789,"approx":true,"place":"Zdice č. p. 21"},
+      b: {"date":"17. 3. 1791","year":1791,"place":"Zdice č. p. 21"},
       father: "dominik_me",
       mother: "anna_hr",
       spouse: "matej_d",
       marriage: "28. 4. 1807, Zdice – s Matějem Divišem",
       notes: [
-        "Dcera Dominika Merhauta, zdického rychtáře (1807 živ, 1819 už †), a Anny roz. Hronkové; při sňatku 1807 18 let."
+        "Narozena 17. 3., pokřtěna 18. 3. 1791 ve Zdicích č. 21; otec Dominik Merhaut, soused zdický, matka Anna. Bratr Jan (*III 1788 ?, č. 21).",
+        "Dcera Dominika Merhauta, zdického rychtáře (1807 živ, 1819 už †), a Anny roz. Hronkové. ROZPOR: při sňatku 28. 4. 1807 uvedeno 18 let, podle křtu jí bylo 16 – platí křest."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
@@ -1760,11 +1761,13 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 02, pag. 19, snímek 20 – https://ebadatelna.soapraha.cz/d/9096/20"
       ],
       scans: [
         {"f":"img/1807_snatek_matej_divis_zdice_a.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové, Zdice 28. 4. 1807 – ženich"},
-        {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"}
+        {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"},
+        {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest Josefy Merhautové, Zdice 18. 3. 1791"}
       ]
     },
     {
@@ -4204,18 +4207,20 @@ window.RODOKMEN = {
       name: "Václav Klika",
       line: "klika",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      b: {"date":"asi 1770","year":1770,"approx":true,"place":"Suchomasty"},
       d: {"date":"před 14. 2. 1832","year":1832,"approx":true},
       spouse: "katerina_sl",
       occ: "vysloužilec (?), podruh v Suchomastech č. 12",
       marriage: "2. sňatek 28. 1. (?) 1797, Suchomasty č. 12 – s Kateřinou; 1. sňatek před 1797",
       notes: [
         "Otec Františka Kliky.",
-        "Podruhé oddán 28. 1. (?) 1797 v Suchomastech jako sedlák č. 12 a vdovec, 27 let (*~1770)."
+        "Podruhé oddán 28. 1. (?) 1797 v Suchomastech jako sedlák č. 12 a vdovec, 27 let (*~1770).",
+        "KANDIDÁT 1. sňatku: 26. 10. 1790 v Suchomastech (č. 38) „Wáclaw Klika, syn Ondřeje Kliky, chalupníka suchomastského“, 20 let, s Annou, dcerou Matěje Billošínského (?), chalupníka suchomastského, 18 let – věk sedí, ale číslo domu (38 × 12) a stav (chalupnický syn × sedlák) se liší; nutno ověřit úmrtím 1. ženy 1790–1797."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 05, oddíl O, snímek 91 – https://ebadatelna.soapraha.cz/d/4074/91"
       ],
       scans: [
         {"f":"img/1797_snatek_vaclav_klika_katerina_slikova_suchomasty_a.jpg","t":"Druhý sňatek Václava Kliky s Kateřinou, Suchomasty 1797"}
@@ -4379,37 +4384,48 @@ window.RODOKMEN = {
       name: "Josef Diviš",
       line: "divis",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      b: {"date":"neznámé (odhad ~1748)","year":1748,"approx":true,"place":"Černín č. p. 7"},
+      father: "vaclav_di",
+      spouse: "anna_di",
       occ: "sedlák v Černíně č. 7",
+      marriage: "4. 10. 1773, Zdice (z Knížkovic do Černína) – s Annou Červenou (?)",
       notes: [
-        "Otec Matěje Diviše; čtení nejisté.",
-        "KANDIDÁTI – děti podle indexu narozených Zdice (Diviš, Černín): Anna (fol. 110), Josef (115), Matěj (123, 1776), Kateřina (127), Veronika (131), Anna (133–134), dvojčata (135) → sňatek asi 1770–1773."
+        "Oddán 4. 10. 1773 ve Zdicích: „Josephus filius Wenceslai Diwiš Rustici ex pago Gernin N. 7 cum sponsa Anna filia Adalberti Czerweny ex pago Knižkowicz N. 17“; svědci Václav Kučera (?) a Jakub Holeček (?) z Knížkovic. Otec Matěje Diviše (*1776), sedlák v Černíně č. 7.",
+        "KANDIDÁTI – děti podle indexu narozených Zdice (Diviš, Černín): Anna (fol. 110), Josef (115), Matěj (123, 1776), Kateřina (127), Veronika (131), Anna (133–134), dvojčata (135)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01 (N 1744–1784), fol. 123, snímek 126 – https://ebadatelna.soapraha.cz/d/9095/126"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01 (N 1744–1784), fol. 123, snímek 126 – https://ebadatelna.soapraha.cz/d/9095/126",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316"
       ],
       scans: [
-        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776"}
+        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776"},
+        {"f":"img/1773_snatek_josef_divis_anna_cervena_zdice01_sn316_a.jpg","t":"Sňatek Josefa Diviše a Anny Červené (?), Zdice 4. 10. 1773"}
       ]
     },
     {
       id: "anna_di",
       name: "Anna Divišová",
+      maiden: "Červená (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Hořovice (?)"},
+      b: {"date":"neznámé (odhad ~1752)","year":1752,"approx":true,"place":"Knížkovice č. p. 17"},
+      father: "vojtech_cv",
       spouse: "josef_di",
+      marriage: "4. 10. 1773, Zdice – s Josefem Divišem",
       notes: [
-        "Matka Matěje Diviše; rodné příjmení nečitelné."
+        "Dcera Vojtěcha Červeného (?) z Knížkovic č. 17; oddána 4. 10. 1773 do Černína č. 7. Matka Matěje Diviše.",
+        "KANDIDÁT: možná souvislost s rodem Červenků – v Knížkovicích 1776 sedlák „Jacobus Cherveneg“ (neověřeno)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01 (N 1744–1784), fol. 123, snímek 126 – https://ebadatelna.soapraha.cz/d/9095/126"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01 (N 1744–1784), fol. 123, snímek 126 – https://ebadatelna.soapraha.cz/d/9095/126",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316"
       ],
       scans: [
-        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776"}
+        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776"},
+        {"f":"img/1773_snatek_josef_divis_anna_cervena_zdice01_sn316_a.jpg","t":"Sňatek Anny Červené (?) a Josefa Diviše, Zdice 1773"}
       ]
     },
     {
@@ -4422,12 +4438,14 @@ window.RODOKMEN = {
       spouse: "anna_hr",
       occ: "rychtář ve Zdicích (č. 21)",
       notes: [
-        "Otec Josefy Divišové."
+        "Otec Josefy Divišové.",
+        "Soused (usedlík) ve Zdicích č. 21 (1788, 1791)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 02, pag. 19, snímek 20 – https://ebadatelna.soapraha.cz/d/9096/20"
       ],
       scans: [
         {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"}
@@ -5381,6 +5399,35 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1822_N_13124_sn286_str1_Herspice_Lanickova_Marianna_Willam_Magdalena.jpg","t":"Křest dcery Marianny, Heršpice 1822"}
+      ]
+    },
+    {
+      id: "vaclav_di",
+      name: "Václav Diviš",
+      line: "divis",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      occ: "sedlák v Černíně č. 7",
+      notes: [
+        "Otec Josefa Diviše (sňatek 1773).",
+        "KANDIDÁT: 1772 svědčí „Mathias Diwisch, Rusticus ex Gernin“, 62 let (*~1710) – příbuznost neznámá."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316"
+      ]
+    },
+    {
+      id: "vojtech_cv",
+      name: "Vojtěch Červený (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
+      occ: "Knížkovice č. 17",
+      notes: [
+        "Otec Anny Divišové (sňatek 1773); čtení příjmení „Czerweny“ nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316"
       ]
     }
   ]
