@@ -1712,7 +1712,7 @@ window.RODOKMEN = {
       name: "Matěj Diviš",
       line: "divis",
       cert: "M",
-      b: {"date":"asi 1777","year":1777,"approx":true,"place":"Černín č. p. 7"},
+      b: {"date":"červen 1776","year":1776,"place":"Černín č. p. 7"},
       d: {"date":"před 22. 7. 1868","year":1868,"approx":true},
       father: "josef_di",
       mother: "anna_di",
@@ -1720,6 +1720,7 @@ window.RODOKMEN = {
       occ: "gruntovník (rolník) v Černíně č. 7",
       marriage: "28. 4. 1807, Zdice – s Josefou Merhautovou",
       notes: [
+        "Pokřtěn v červnu 1776 (den ve hřbetu knihy nečitelný) ve Zdicích: „Mathias, Divisch Josephus Rusticus Czerninensis et Ux. Anna“, Černín č. 7; kmotři Jan Wosch (?), mlynář ze Zdic, a Kateřina, manželka Josefa Froňka (?), sedláka z Černína.",
         "Oddán 28. 4. 1807 ve Zdicích (dům nevěsty č. 21), 30 let, svobodný; syn Josefa Diviše, sedláka z Černína č. 7, a Anny. Svědci Antonín David, mistr kovářský ze Zdic, a Vojtěch Grünwald (?).",
         "Gruntovník v Černíně č. 7 (panství Králův Dvůr); zemřel před 1851."
       ],
@@ -1729,12 +1730,14 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01 (N 1744–1784), fol. 123, snímek 126 – https://ebadatelna.soapraha.cz/d/9095/126"
       ],
       scans: [
         {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"},
         {"f":"img/1807_snatek_matej_divis_zdice_a.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové, Zdice 28. 4. 1807 – ženich"},
-        {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"}
+        {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"},
+        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest Matěje Diviše, Zdice VI 1776"}
       ]
     },
     {
@@ -1860,17 +1863,20 @@ window.RODOKMEN = {
       marriage: "17. 9. 1769, Žebrák – s Annou Holickou",
       notes: [
         "Oddán 17. 9. 1769 v děkanském kostele sv. Vavřince v Žebráku (kaplan Joseph Kouba): „Jacobus filius Pauli Czerwenka z Hředl cum sponsa Anna filia Danielis Holeyzek (?) z Hředl“; poddaní panství Točník. Svědci Wenceslaus Hrouda a Catharina, dcera Joannese Cibulky, oba z Hředl.",
-        "Datum narození a úmrtí podle rodopisu."
+        "Datum narození a úmrtí podle rodopisu.",
+        "Ve „Nejvýš ustanovené kontribučenské subrepartici“ obce Hředle (1787) zapsán jako držitel domu č. 37 (top. č. 36): „Jakub Czerwenka“, 27 jiter 828 sáhů; v repartici obilního magacínu č. 37 mezi plnými grunty."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 12 (O 1760–1814), str. 48, snímek 27 – https://ebadatelna.soapraha.cz/d/9741/27"
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 12 (O 1760–1814), str. 48, snímek 27 – https://ebadatelna.soapraha.cz/d/9741/27",
+        "SOA Praha – SOkA Beroun, Archiv obce Hředle, obecní účty („Kronika obce Hředle 1778–1878“), archiválie 1598, snímek 29 – https://ebadatelna.soapraha.cz/a/1598/29"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
         {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
         {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
-        {"f":"img/1769_snatek_jakub_cervenka_hredle_a.jpg","t":"Sňatek Jakuba Červenky a Anny, Žebrák 17. 9. 1769"}
+        {"f":"img/1769_snatek_jakub_cervenka_hredle_a.jpg","t":"Sňatek Jakuba Červenky a Anny, Žebrák 17. 9. 1769"},
+        {"f":"img/Hredle_kronika_a1598_sn29_subrepartice_cp37_Jakub_Cervenka.jpg","t":"Hředle 1787: držitel č. 37 Jakub Červenka"}
       ]
     },
     {
@@ -1983,17 +1989,21 @@ window.RODOKMEN = {
       notes: [
         "Nejstarší známý Červenka. V rodopisu na 1. stránce chybně „oddán 30. 11. 1896“, na 2. stránce správně 1696.",
         "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách.",
-        "KANDIDÁT: v Soupisu poddaných 1651 je v Hředlích Červenka není; v sousední Bzové „Václav Červenka – rychtář – 41 let“ s ženou Žofií. Pozemková kniha panství Točník: „Grunt Václava Červenky, nyní Jiříka Smolaře“ v Bzové – 17. 1. 1654 jej koupil Jiřík Smolař „od Václava Andršta jinak Červenky“ (Červenka tu bylo přízvisko). V Hředlích mezi držiteli gruntů do 1730 Červenka není. Vazba na Václava *~1674 neověřena."
+        "KANDIDÁT: v Soupisu poddaných 1651 je v Hředlích Červenka není; v sousední Bzové „Václav Červenka – rychtář – 41 let“ s ženou Žofií. Pozemková kniha panství Točník: „Grunt Václava Červenky, nyní Jiříka Smolaře“ v Bzové – 17. 1. 1654 jej koupil Jiřík Smolař „od Václava Andršta jinak Červenky“ (Červenka tu bylo přízvisko). V Hředlích mezi držiteli gruntů do 1730 Červenka není. Vazba na Václava *~1674 neověřena.",
+        "ZA HRANICÍ MATRIK (KANDIDÁTI, vazba neprokázána): urbární rejstřík panství Točník 1653 uvádí v Hředlích hospodáře „Mateig Czerweny (?)“ (22 gr., slepice, 2 vejce) a v Bzové „Wáczlawa Czerwenky“. Václav Andršt jinak Červenka prodal 17. 1. 1654 grunt v Bzové Jiříku Smolařovi (z Hředlí) za 35 kop míš.; z peněz 2 kopy jeho matce Dorotě, splátky Václavovi ještě 1668. V Kublově 1687 hospodář „Krištoff Czerweneg“ (grunt kolem 1697 opustil)."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "Soupis poddaných podle víry 1651 – Berounsko (NA) – https://www.nacr.cz/wp-content/uploads/2019/01/Berounsko_cele_H_zamceno.pdf",
-        "SOA Praha, Velkostatek Zbiroh, Točník – pozemková kniha panství 1623–1730, inv. 5001, sign. OS Hořovice 195, fol. 297, snímek 188 – https://ebadatelna.soapraha.cz/a/1963/188"
+        "SOA Praha, Velkostatek Zbiroh, Točník – pozemková kniha panství 1623–1730, inv. 5001, sign. OS Hořovice 195, fol. 297, snímek 188 – https://ebadatelna.soapraha.cz/a/1963/188",
+        "SOA Praha, Velkostatek Točník, urbární rejstřík 1653, archiválie 745, snímky 7–8 – https://ebadatelna.soapraha.cz/a/745/8",
+        "SOA Praha, Velkostatek Točník, pozemková kniha 1623–1730, archiválie 1963, snímek 188–189 (Bzová) a 142–143 (Kublov) – https://ebadatelna.soapraha.cz/a/1963/188"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
         {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
-        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"}
+        {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
+        {"f":"img/Tocnik_urbar_1653_a745_sn8_Hredle_Matej_Czerweny.jpg","t":"Urbář Točník 1653 – Hředle: „Mateig Czerweny (?)“ (kandidát)"}
       ]
     },
     {
@@ -4370,11 +4380,16 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
       occ: "sedlák v Černíně č. 7",
       notes: [
-        "Otec Matěje Diviše; čtení nejisté."
+        "Otec Matěje Diviše; čtení nejisté.",
+        "KANDIDÁTI – děti podle indexu narozených Zdice (Diviš, Černín): Anna (fol. 110), Josef (115), Matěj (123, 1776), Kateřina (127), Veronika (131), Anna (133–134), dvojčata (135) → sňatek asi 1770–1773."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01 (N 1744–1784), fol. 123, snímek 126 – https://ebadatelna.soapraha.cz/d/9095/126"
+      ],
+      scans: [
+        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776"}
       ]
     },
     {
@@ -4388,7 +4403,11 @@ window.RODOKMEN = {
         "Matka Matěje Diviše; rodné příjmení nečitelné."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01 (N 1744–1784), fol. 123, snímek 126 – https://ebadatelna.soapraha.cz/d/9095/126"
+      ],
+      scans: [
+        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776"}
       ]
     },
     {
