@@ -707,10 +707,12 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1912)","year":1912,"approx":true},
       notes: [
         "Otec Heleny Zettelmannové (*1940) podle rodného listu Šárky Zettelmannové (1963).",
-        "Data narození a úmrtí zatím neznámá."
+        "Data narození a úmrtí zatím neznámá.",
+        "KANDIDÁT: v rejstříku narozených fary Slavkov u Brna je k roku 1905 „Hrazdílek Vladimír Rajmund – Heršpice – str. 184“ (MZA, sign. 13159, snímek 81); druhé jméno ukazuje na syna Rajmunda Hrazdílka, domkáře v Heršpicích (manželka Marie roz. Jelínková (?)). Samotný zápis (kniha narození Heršpice po 1856) online není – ověřit výpisem z matriky."
       ],
       sources: [
-        "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)"
+        "Rodný list Šárky Zettelmannové, MěNV Karviná (vydán 9. 6. 1963)",
+        "MZA Brno, Sbírka matrik, fara Slavkov u Brna, rejstřík narozených 1852–1949, sign. 13159, snímek 81 – https://www.mza.cz/actapublica/matrika/detail/1971"
       ]
     },
     {
