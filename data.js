@@ -812,7 +812,8 @@ window.RODOKMEN = {
         "KANDIDÁT: v Těchobuzi č. p. 76 žil roku 1951 František Votava (kronika obce) – příbuzenství neověřeno.",
         "21. 2. 1902 mu v Souši č. 102 pokřtili syna Josefa z 2. manželství s Barborou Zelenkovou.",
         "Pozor na záměnu – v Souši žili i jiní Václavové Votavové z Těchobuze: narozený 1864 (syn Vojtěcha) a narozený 1869 (syn Františka).",
-        "Podruhé oddán 5. 5. 1901 v Souši (č. 102) jako horník a vdovec po Barboře roz. Lodlové († 25. 11. 1900), narozen v Pravoníně č. 74, příslušný do Těchobuze, syn Štěpána Votavy, horníka v Souši č. 102, a † Antonie roz. Michalové; nevěsta Barbora Zelenková (svobodná, narozená 28. 6. 1869 ve Strašicích č. 133). Svědci Antonín Plešmíd a Josef Martan; oddal farář Anton Russ."
+        "Podruhé oddán 5. 5. 1901 v Souši (č. 102) jako horník a vdovec po Barboře roz. Lodlové († 25. 11. 1900), narozen v Pravoníně č. 74, příslušný do Těchobuze, syn Štěpána Votavy, horníka v Souši č. 102, a † Antonie roz. Michalové; nevěsta Barbora Zelenková (svobodná, narozená 28. 6. 1869 ve Strašicích č. 133). Svědci Antonín Plešmíd a Josef Martan; oddal farář Anton Russ.",
+        "Ve faře Pravonín nejsou další děti Štěpána a Antonie (index N 1852–1893) ani úmrtí Votavů 1860–1874 – rodina tu žila jen po dobu Štěpánovy služby panského kočího (~1866–1872)."
       ],
       sources: [
         "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
@@ -2809,7 +2810,7 @@ window.RODOKMEN = {
       occ: "nádeník v Jetřichovicích č. 22",
       notes: [
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Letů (?)“ – zemřel před 1844.",
-        "SLABÝ KANDIDÁT (spíš jiná rodina): úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42). „Getřichowice No 22“ z křtu vnučky 1834 je ale podle místopisu nejspíš Jetřichovice u Sedlce-Prčic (okr. Příbram, matriky SOA Praha) – tam hledat.",
+        "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Čísla domů (27/42 × 22) zatím nesedí.",
         "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno."
       ],
       sources: [
