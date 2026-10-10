@@ -2139,18 +2139,19 @@ window.RODOKMEN = {
       name: "Jan Votava",
       line: "votava",
       cert: "M",
-      b: {"date":"asi 1795–1803","year":1799,"approx":true},
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
       d: {"date":"23. 1. 1862","year":1862,"place":"Těchobuz č. p. 13"},
       cause: "zápal plic",
       father: "martin_v",
       mother: "terezie_mk",
       spouse: "katerina_f",
       occ: "nádeník v Těchobuzi č. 36",
-      marriage: "1) s Kateřinou Flemrovou (?) († 1841); 2) 6. 2. 1844, Těchobuz – s Kateřinou Kočovou",
+      marriage: "1) 10. 6. 1815, Jetřichovec u Pacova – s Kateřinou Hamrovou / Flemrovou (?) († 1841); 2) 6. 2. 1844, Těchobuz – s Kateřinou Kočovou",
       notes: [
+        "Oddán 10. 6. 1815 v Jetřichovci (fara Pacov) jako „Jan, syn Martina Wottawy, sedláka (?)“, Jetřichovec č. 23 (?), 25 let, svobodný, s Kateřinou, dcerou Matěje Hammera / Hamra (?), chalupníka z Tučap (?) č. 31, 22 let; svědci Matěj Blažek (?), rychtář, a Josef Fazejk (?), sedlák.",
         "Nádeník v Těchobuzi – č. 36 („Schelenberg“, 1834–1841), č. 24 (1844), č. 13 (1862); jurisdicent těchobuzského statku. Syn Martina Votavy, nádeníka (podle sňatku 1844 „bývalého chalupníka z Letů (?)“) z Jetřichovic č. 22, a Terezie roz. Marody / Mrkvové (?).",
         "Před Těchobuzí žil v Jetřichovci u Pacova č. 10, kde mu s Kateřinou pokřtili syny Vojtěcha (1816) a Matěje (1819) – manželé tedy už před 1816. V indexech fary Pacov (N 1783–1842, O 1765–1833) jeho křest ani sňatek rodičů není – rodina přišla odjinud (asi kolem 1815).",
-        "ROZPOR ve věku: sňatek 1844 „41 let“ (*~1803), úmrtí 1862 „67 let“ (*~1795).",
+        "ROZPOR ve věku: sňatek 1815 „25 let“ (*~1790), sňatek 1844 „41 let“ (*~1803), úmrtí 1862 „67 let“ (*~1795) – nejstarší zápis (1815) má největší váhu.",
         "Děti s 1. manželkou: Jan (*~1830, † 25. 8. 1839, 9 let), Kateřina (*27. 1. 1834), Štěpán (*26. 12. 1836); podle zápisů ze Souše i František (horník v Souši 1874). V Těchobuzi doloženi od 1834.",
         "Zemřel 23. 1. 1862 v Těchobuzi č. 13; „byl 17 let ženatý“ (s druhou manželkou).",
         "Křest ani sňatek nejsou ve fondu fary Pacov (index N 1783–1804 a O 1765–1833, písmeno W – bez Votavy). Místo původu ze sňatku 1844 „z Letův / Lstův (?)“ nejisté; matka Terezie „dcera Martina Marody, podruha z Lom… (?) č. 23“.",
@@ -2167,7 +2168,8 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 226, snímek 232 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 44, snímek 32; index 6256 sn. 14 – https://digi.ceskearchivy.cz/6239",
-        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 47, snímek 35 – https://digi.ceskearchivy.cz/6239"
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 47, snímek 35 – https://digi.ceskearchivy.cz/6239",
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), O fol. 8, snímek 66; index 6256 sn. 25 – https://digi.ceskearchivy.cz/6239"
       ],
       scans: [
         {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"},
@@ -2176,26 +2178,29 @@ window.RODOKMEN = {
         {"f":"img/1841_zemreni_Votavova_Katerina_Flemrova_Techobuz.jpg","t":"Úmrtí Kateřiny Votavové, Těchobuz 1841"},
         {"f":"img/1834_krest_Votavova_Katerina_Techobuz.jpg","t":"Křest dcery Kateřiny, Těchobuz 1834"},
         {"f":"img/1816_N_Votava_Vojtech_Jetrichovec.jpg","t":"Křest Vojtěcha Votavy, Jetřichovec č. 10, 1816"},
-        {"f":"img/1819_N_Votava_Matej_Jetrichovec.jpg","t":"Křest Matěje Votavy, Jetřichovec č. 10, 1819"}
+        {"f":"img/1819_N_Votava_Matej_Jetrichovec.jpg","t":"Křest Matěje Votavy, Jetřichovec č. 10, 1819"},
+        {"f":"img/1815_O_Votava_Jan_Hamrova_Katerina_Jetrichovec.jpg","t":"Sňatek Jana Votavy a Kateřiny Hamrové (Flemrové), Jetřichovec 10. 6. 1815"}
       ]
     },
     {
       id: "katerina_f",
       name: "Kateřina Votavová",
-      maiden: "Flemrová (?)",
+      maiden: "Hamrová / Flemrová (?)",
       line: "flemr",
       cert: "M",
-      b: {"date":"asi 1795","year":1795,"approx":true,"place":"Tučapy č. p. 36"},
+      b: {"date":"asi 1793","year":1793,"approx":true,"place":"Tučapy (?)"},
       d: {"date":"17. 8. 1841","year":1841,"place":"Těchobuz č. p. 36 („Schelenberg“)"},
       father: "matej_fl",
       mother: "katerina_kr",
       spouse: "jan_v",
       notes: [
+        "Oddána 10. 6. 1815 v Jetřichovci s Janem Votavou: „Kateřina, dcera Matěje Hammera (?), chalupníka“, z Tučap (?) č. 31, 22 let. Rodné příjmení v pramenech: Lemr (index 1815), Hammer / Hamr (sňatek 1815), Flemrová (křty 1816, 1819), Hamra / Flemra (1834) – ROZPOR čtení; také číslo domu 31 (1815) × 36 (1834).",
         "Dcera Matěje Flemra (?), chalupníka z Tučap č. 36, a Kateřiny, dcery Vojtěcha (?) Kříže, chalupníka z Chýšky č. 18.",
         "Synové Vojtěch (1816) a Matěj (1819) pokřtěni v Jetřichovci č. 10 (fara Pacov) – v zápisech „Kateřina roz. Matěje Flemrowa (?) z Tučap“.",
         "Zemřela 17. 8. 1841 v Těchobuzi č. 36 ve 46 letech, pohřbena ve Zhoři.",
         "Vdova Kateřina Votavová, která zemřela 1. 10. 1866, je druhá manželka Jana Votavy (Kateřina Kočová), ne Štěpánova matka – rozpor vyřešen.",
-        "KANDIDÁT původu: Velká Chyška (fara, okr. Pelhřimov, 6 km od Pacova) – listopad 1791 tam č. 45 sňatek Matěje Hamra (?), 23 let, a Kateřiny Křížové (?), 20 let (kniha 8195, sn. 4); příjmení otce lze v zápisu 1834 číst „Hamra“ i „Flemra“. Neověřeno (čísla domů nesedí)."
+        "KANDIDÁT původu: Velká Chyška (fara, okr. Pelhřimov, 6 km od Pacova) – listopad 1791 tam č. 45 sňatek Matěje Hamra (?), 23 let, a Kateřiny Křížové (?), 20 let (kniha 8195, sn. 4); příjmení otce lze v zápisu 1834 číst „Hamra“ i „Flemra“. Neověřeno (čísla domů nesedí).",
+        "KANDIDÁT: Křest ve Velké Chyšce 1792–1797 není (kniha 8195) – narodila se nejspíš v „Tučapech“ (?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2205,12 +2210,14 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 61, snímek 62 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 197, snímek 203 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 44, snímek 32; index 6256 sn. 14 – https://digi.ceskearchivy.cz/6239",
-        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 47, snímek 35 – https://digi.ceskearchivy.cz/6239"
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 47, snímek 35 – https://digi.ceskearchivy.cz/6239",
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), O fol. 8, snímek 66; index 6256 sn. 25 – https://digi.ceskearchivy.cz/6239"
       ],
       scans: [
         {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"},
         {"f":"img/1841_zemreni_Votavova_Katerina_Flemrova_Techobuz.jpg","t":"Úmrtí Kateřiny Votavové, Těchobuz 1841"},
-        {"f":"img/1834_krest_Votavova_Katerina_Techobuz.jpg","t":"Křest dcery Kateřiny, Těchobuz 1834"}
+        {"f":"img/1834_krest_Votavova_Katerina_Techobuz.jpg","t":"Křest dcery Kateřiny, Těchobuz 1834"},
+        {"f":"img/1815_O_Votava_Jan_Hamrova_Katerina_Jetrichovec.jpg","t":"Sňatek Jana Votavy a Kateřiny Hamrové (Flemrové), Jetřichovec 10. 6. 1815"}
       ]
     },
     {
@@ -2815,11 +2822,12 @@ window.RODOKMEN = {
       name: "Martin Votava",
       line: "votava",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      b: {"date":"neznámé (odhad ~1768)","year":1768,"approx":true},
       d: {"date":"před 6. 2. 1844","year":1844,"approx":true},
       spouse: "terezie_mk",
       occ: "nádeník v Jetřichovicích č. 22",
       notes: [
+        "Otcovství doloženo oddacím zápisem syna Jana 10. 6. 1815 v Jetřichovci (fara Pacov): „Jan, syn Martina Wottawy, sedláka (?)“, Jetřichovec č. 23 (?).",
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Letů (?)“ – zemřel před 1844.",
         "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Syn Jan žil v Jetřichovci (č. 10) už 1816–1819 – úmrtí 1828 (č. 27, 60 let) a 1833 (Terezie, č. 42, 60 let) tak patří nejspíš Janovým rodičům; číslo 22 zatím nedoloženo.",
         "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno."
@@ -2827,7 +2835,11 @@ window.RODOKMEN = {
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826",
-        "SOA Třeboň, fara Pacov, kniha Jetřichovec NOZ 1785–1843 (id 6239), zemřelí fol. 28 / 31, snímky 116 / 118 – https://digi.ceskearchivy.cz/6239"
+        "SOA Třeboň, fara Pacov, kniha Jetřichovec NOZ 1785–1843 (id 6239), zemřelí fol. 28 / 31, snímky 116 / 118 – https://digi.ceskearchivy.cz/6239",
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), O fol. 8, snímek 66; index 6256 sn. 25 – https://digi.ceskearchivy.cz/6239"
+      ],
+      scans: [
+        {"f":"img/1815_O_Votava_Jan_Hamrova_Katerina_Jetrichovec.jpg","t":"Sňatek Jana Votavy a Kateřiny Hamrové (Flemrové), Jetřichovec 10. 6. 1815"}
       ]
     },
     {
@@ -2836,7 +2848,7 @@ window.RODOKMEN = {
       maiden: "Marodová / Mrkvová (?)",
       line: "mrkva",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      b: {"date":"neznámé (odhad ~1773)","year":1773,"approx":true},
       spouse: "martin_v",
       notes: [
         "Matka Jana Votavy; „dcera Martina Marody / Mrkvy (?), podruha z Lom-nice / Lomné (?) č. 23“ (křest vnučky 1834, sňatek syna 1844).",
