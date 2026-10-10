@@ -131,6 +131,21 @@ dl.facts dd{margin:0;min-width:0}
 .tabs{display:flex;gap:4px}
 .tabs button{font:inherit;font-size:.85rem;padding:6px 12px;border:1px solid var(--rule);border-radius:6px;background:var(--surface);color:var(--muted);cursor:pointer}
 .tabs button[aria-selected="true"]{color:var(--ink);border-color:var(--ink);font-weight:600}
+#wideView{flex:1;overflow:auto;padding:16px;box-sizing:border-box}
+.wide{max-width:980px;margin:0 auto}
+.wintro{color:var(--muted);margin:0 0 10px;max-width:70ch}
+.wtools{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin-bottom:14px;font-size:.9rem}
+.wtools select{font:inherit}
+.wide h3{font-family:var(--f-name);font-weight:600;font-size:1.1rem;margin:22px 0 8px;border-bottom:1px solid var(--rule);padding-bottom:4px}
+.fam{background:var(--surface);border:1px solid var(--rule);border-left:4px solid var(--c,var(--rule));border-radius:8px;padding:10px 14px;margin:0 0 10px}
+.fam .fh{font-weight:600;margin-bottom:4px}
+.fam .fm{color:var(--muted);font-size:.85rem;margin-bottom:6px}
+.fam ul{margin:0;padding-left:20px}
+.fam li{margin:2px 0}
+.fam li.direct{font-weight:600}
+.fam li .tag{font-size:.75rem;font-weight:400;color:var(--muted);margin-left:6px}
+.fam li ul{margin-top:2px}
+.fam .none{color:var(--muted);font-style:italic;font-size:.88rem}
 #mapView{flex:1;overflow:auto;padding:16px;box-sizing:border-box}
 .mapwrap{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:24px;max-width:1300px;margin:0 auto}
 @media (max-width:900px){.mapwrap{grid-template-columns:1fr}}
@@ -222,7 +237,7 @@ dl.facts dd{margin:0;min-width:0}
     <h1>Rodokmen JV</h1>
     <div class="meta" id="meta"></div>
   </div>
-  <nav class="tabs" role="tablist"><button type="button" role="tab" id="tabTree" aria-selected="true" title="Jiří a jeho přímí předkové">Rodokmen</button><button type="button" role="tab" id="tabWide" aria-selected="false" title="Všichni v rodokmenu včetně sourozenců, jejich partnerů a dětí, bratranců a sestřenic">Širší okruh</button><button type="button" role="tab" id="tabMap" aria-selected="false">Odkud jsme</button></nav>
+  <nav class="tabs" role="tablist"><button type="button" role="tab" id="tabTree" aria-selected="true">Rodokmen</button><button type="button" role="tab" id="tabWide" aria-selected="false">Širší okruh</button><button type="button" role="tab" id="tabMap" aria-selected="false">Odkud jsme</button></nav>
   <div class="tools">
     <input id="q" type="search" placeholder="Najít osobu…" aria-label="Najít osobu">
     <button id="home" type="button">Na Jiřího</button>
@@ -241,6 +256,7 @@ dl.facts dd{margin:0;min-width:0}
   </div>
 </div>
 <section id="mapView" hidden><div class="mapwrap"><div class="mapfig"><div class="mapbox"><svg id="map" role="img" aria-label="Mapa původu rodových větví"></svg><div class="mapzoom" role="toolbar" aria-label="Přiblížení mapy"><button type="button" id="mzin" aria-label="Přiblížit mapu">+</button><button type="button" id="mzout" aria-label="Oddálit mapu">−</button><button type="button" id="mzreset">Celá mapa</button></div></div><div class="mlegend"><span><svg width="28" height="6"><line x1="0" y1="3" x2="28" y2="3" stroke="var(--muted)" stroke-width="2.2"/></svg>doložený přesun</span><span><svg width="28" height="6"><line x1="0" y1="3" x2="28" y2="3" stroke="var(--muted)" stroke-width="2.2" stroke-dasharray="7 5"/></svg>pravděpodobná trasa (vlakem)</span><span><svg width="28" height="6"><line x1="0" y1="3" x2="28" y2="3" stroke="var(--muted)" stroke-width="2.2" stroke-dasharray="2 5" stroke-linecap="round"/></svg>domněnka</span></div><p class="cap">Hranice podle dnešních států (Natural Earth). Čáry vedou po tehdejších železničních tratích, kde přesná cesta není známa. Po najetí myší se ukáže, kdo a kdy. Přiblížení: tlačítka, dvojklik, Ctrl/⌘ + kolečko nebo sevření prstů; posun tažením.</p><ol class="moves" id="moves"></ol></div><div id="story" class="story"></div></div><div class="tl"><h3>Časová osa</h3><ol id="tl"></ol></div></section>
+<section id="wideView" hidden><div class="wide"><p class="wintro" id="wideIntro"></p><div class="wtools"><label>Větev <select id="wLine"><option value="">všechny</option></select></label> <label><input type="checkbox" id="wOnly"> jen rodiny se známými sourozenci</label></div><div id="wideBody"></div></div></section>
 <div id="scroller">
   <div id="inner">
     <div id="stage"><div id="canvas"><svg class="links" id="links"></svg></div></div>
@@ -291,10 +307,9 @@ const kids = {}; D.people.forEach(p=>[p.father,p.mother].forEach(x=>{ if(x&&P[x]
 // spouses: explicit `spouse` field (both directions) + parents of a common child
 const spouses = {}; const addSp=(a,b)=>{ if(a&&b&&P[a]&&P[b]&&a!==b){ (spouses[a]=spouses[a]||new Set()).add(b); (spouses[b]=spouses[b]||new Set()).add(a); } };
 D.people.forEach(p=>{ addSp(p.id,p.spouse); addSp(p.father,p.mother); });
-// two views: 'anc' = the root and direct ancestors only (tab "Rodokmen"), 'wide' = everyone in the data incl. siblings,
-// their partners and children, cousins … (tab "Širší okruh")
-const ANC = new Set(); (function a(id){ if(!id||!P[id]||ANC.has(id)) return; ANC.add(id); a(P[id].father); a(P[id].mother); })(D.root);
-let mode = 'anc', VIS = D.people.filter(p=>ANC.has(p.id)), INVIS = new Set(VIS.map(p=>p.id));
+// direct ancestors with their generation (parents = 1); the tree shows everyone, the "Širší okruh" tab groups them by family
+const genOf = {}; (function a(id,g){ if(!id||!P[id]||(genOf[id]!==undefined&&genOf[id]<=g)) return; genOf[id]=g; a(P[id].father,g+1); a(P[id].mother,g+1); })(D.root,0);
+const VIS = D.people;
 let col = {}, leaf = 0;
 function layout(){
   col = {}; leaf = 0;
@@ -430,6 +445,36 @@ const genDepth = (()=>{ const memo={}; const g=id=>{ if(!id||!P[id]) return 0; i
 const genWord = n => n===1?'generace':(n>=2&&n<=4?'generace':'generací');
 meta.innerHTML = `<b title="Počítá se od Jiřího: rodiče = 1. generace zpět, prarodiče = 2., praprarodiče = 3. … Číslo je nejdelší doložená řada předků v rodokmenu.">${genDepth} ${genWord(genDepth)} zpět</b> <span class="genhint">(rodiče = 1, prarodiče = 2 …)</span> · ${D.people.length} osob · ${nM} doloženo přímo v matrikách · nejstarší doložený předek <button type="button" class="plink" id="oldest">${oldest.name}</button> (~${oldest.b.year}) · aktualizováno ${window.RODOKMEN_BUILD||D.updated}`;
 document.getElementById('oldest').addEventListener('click',()=>{ applyScale(Math.max(vs,0.6)); focusCard(oldest.id); });
+// "Širší okruh": every ancestral couple with all their known children (direct ancestor + siblings);
+// under each sibling their partners and descendants (nephews, cousins …) as far as they are in the data
+function renderWide(){
+  const sel=document.getElementById('wLine'), only=document.getElementById('wOnly');
+  if(!sel.dataset.ready){ Object.entries(D.lines).forEach(([k,l])=>{ if(k!=='nezname'&&D.people.some(p=>p.line===k)) sel.insertAdjacentHTML('beforeend',`<option value="${k}">${l}</option>`); }); sel.addEventListener('change',renderWide); only.addEventListener('change',renderWide); sel.dataset.ready=1; }
+  const line=sel.value, onlySib=only.checked;
+  const nm=x=>x&&P[x]?`<button type="button" class="plink" data-go="${x}">${P[x].name}</button>`:'?';
+  const dates=x=>` <span class="src">${span(P[x])}</span>`;
+  // a relative outside the direct line: partners and children nested below (children of siblings = cousins of the ancestor's children)
+  const item=(id,seen)=>{ if(seen.has(id)) return ''; seen.add(id); const p=P[id];
+    const sp=[...(spouses[id]||[])].filter(x=>genOf[x]===undefined);
+    const ch=(kids[id]||[]).filter(x=>genOf[x]===undefined).sort((a,b)=>P[a].b.year-P[b].b.year);
+    return `<li>${nm(id)}${p.maiden?` <span class="tag">roz. ${p.maiden}</span>`:''}${dates(id)}${sp.map(x=>` <span class="tag">∞ ${nm(x)}</span>`).join('')}${ch.length?`<ul>${ch.map(c=>item(c,seen)).join('')}</ul>`:''}</li>`; };
+  const fams=D.people.filter(x=>genOf[x.id]!==undefined&&((x.father&&P[x.father])||(x.mother&&P[x.mother])));
+  const groups={}; let nFam=0, nSib=0;
+  for(const x of fams){ const F=x.father&&P[x.father]?x.father:null, M=x.mother&&P[x.mother]?x.mother:null, g=genOf[x.id]+1;
+    const lineK=(P[F]||P[M]).line; if(line&&lineK!==line) continue;
+    const sibs=sibsOf(x).filter(q=>genOf[q.id]===undefined);
+    if(onlySib&&!sibs.length) continue;
+    nFam++; nSib+=sibs.length;
+    const mar=(F&&P[F].marriage)||(M&&P[M].marriage)||'';
+    const seen=new Set();
+    const all=[x,...sibs].sort((a,b)=>a.b.year-b.b.year);
+    const items=all.map(q=>q.id===x.id?`<li class="direct">${nm(x.id)}${dates(x.id)}<span class="tag">přímá linie</span></li>`:item(q.id,seen));
+    (groups[g]=groups[g]||[]).push(`<div class="fam" style="--c:var(--l-${lineK})"><div class="fh">${nm(F)} × ${nm(M)}</div>${mar?`<div class="fm">${mar}</div>`:''}<ul>${items.join('')}</ul>${sibs.length?'':'<div class="none">Sourozenci zatím nejsou známi.</div>'}</div>`); }
+  const head=g=>g===1?'Rodiče a jejich děti (1. generace zpět)':g===2?'Prarodiče a jejich děti – strýcové a tety (2. generace)':`${g}. generace zpět – rodiny předků`;
+  document.getElementById('wideIntro').textContent=`Každá karta je jedna rodina předků: rodiče a všechny jejich známé děti – přímý předek je tučně, ostatní jsou jeho sourozenci; pod nimi jejich manželé a děti (bratranci a sestřenice), pokud jsou známi. ${nFam} rodin, ${nSib} známých sourozenců. Generace se počítají od Jiřího (rodiče = 1).`;
+  document.getElementById('wideBody').innerHTML=Object.keys(groups).map(Number).sort((a,b)=>a-b).map(g=>`<h3>${head(g)}</h3>${groups[g].join('')}`).join('')||'<p class="none">Nic neodpovídá filtru.</p>';
+}
+window.renderWide = renderWide;
 window.RV_focus = id => { applyScale(Math.max(vs,0.6)); focusCard(id); };
 
 // dialog
@@ -477,15 +522,7 @@ document.getElementById('vx').addEventListener('click',()=>{ V.hidden=true; });
 document.addEventListener('keydown',e=>{ if(e.key==='Escape' && !V.hidden) V.hidden=true; });
 
 const sc = document.getElementById('scroller');
-function setMode(m){
-  if(m===mode) return; mode = m;
-  VIS = m==='wide' ? D.people : D.people.filter(p=>ANC.has(p.id)); INVIS = new Set(VIS.map(p=>p.id));
-  layout(); render(); applyScale(vs);
-  if(window.RV_tabs) window.RV_tabs(m);
-}
-window.RV_mode = setMode;
 function focusCard(id){
-  if(!INVIS.has(id) && P[id]) setMode('wide');   // a sibling / cousin is only in the wider view
   const c = document.querySelector(`.card[data-id="${id}"]`); if(!c) return;
   document.querySelectorAll('.card.hit').forEach(x=>x.classList.remove('hit')); c.classList.add('hit');
   sc.scrollTo({left: (c.offsetLeft + c.offsetWidth/2)*vs - sc.clientWidth/2, top: c.offsetTop*vs - sc.clientHeight/2 + 30, behavior:'smooth'});
@@ -675,17 +712,16 @@ requestAnimationFrame(()=>{ const c=document.querySelector(`.card[data-id="${D.r
   const TLs=[...D.timeline.map(e=>({...e,k:'fam'})),...auto,...hist].sort((a,b)=>a.y-b.y||(a.k==='hist')-(b.k==='hist'));
   document.getElementById('tl').innerHTML=TLs.map(e=>`<li class="${e.k}"><b>${e.y}</b>${e.t}</li>`).join('');
   document.getElementById('mapView').addEventListener('click',e=>{ const b=e.target.closest('[data-go]'); if(!b) return; show(false); window.RV_focus&&window.RV_focus(b.dataset.go); });
-  const tT=document.getElementById('tabTree'), tW=document.getElementById('tabWide'), tM=document.getElementById('tabMap'), MV=document.getElementById('mapView'), SC=document.getElementById('scroller'), LG=document.querySelector('.legend'), TL=document.querySelector('.tools'), ZB=document.getElementById('zoombar');
-  let treeMode='anc';
-  const mark = v => { tT.setAttribute('aria-selected',v==='anc'); tW.setAttribute('aria-selected',v==='wide'); tM.setAttribute('aria-selected',v==='map'); };
-  // v: 'anc' (Rodokmen), 'wide' (Širší okruh) or 'map' (Odkud jsme); true/false kept for the map links
-  function show(v){ if(v===true) v='map'; if(v===false) v=treeMode; const map=v==='map';
-    MV.hidden=!map; SC.hidden=map; LG.hidden=map; TL.hidden=map; ZB.hidden=map;
-    if(!map){ treeMode=v; window.RV_mode&&window.RV_mode(v); }
-    mark(v); try{localStorage.setItem('rv-tab',v)}catch(e){} }
-  window.RV_tabs = m => { treeMode=m; if(MV.hidden) { mark(m); try{localStorage.setItem('rv-tab',m)}catch(e){} } };
-  tT.addEventListener('click',()=>show('anc')); tW.addEventListener('click',()=>show('wide')); tM.addEventListener('click',()=>show('map'));
+  const tT=document.getElementById('tabTree'), tW=document.getElementById('tabWide'), tM=document.getElementById('tabMap'), MV=document.getElementById('mapView'), WV=document.getElementById('wideView'), SC=document.getElementById('scroller'), LG=document.querySelector('.legend'), TL=document.querySelector('.tools'), ZB=document.getElementById('zoombar');
+  // mode: false/'tree' = tree, true/'map' = map, 'wide' = wider family circle
+  function show(mode){ const m=mode===true?'map':mode===false?'tree':mode; const tree=m==='tree';
+    MV.hidden=m!=='map'; WV.hidden=m!=='wide'; SC.hidden=!tree; LG.hidden=!tree; TL.hidden=!tree; ZB.hidden=!tree;
+    tT.setAttribute('aria-selected',tree); tM.setAttribute('aria-selected',m==='map'); tW.setAttribute('aria-selected',m==='wide');
+    if(m==='wide') window.renderWide();
+    try{localStorage.setItem('rv-tab',m)}catch(e){} }
+  tT.addEventListener('click',()=>show('tree')); tM.addEventListener('click',()=>show('map')); tW.addEventListener('click',()=>show('wide'));
+  WV.addEventListener('click',e=>{ const b=e.target.closest('[data-go]'); if(!b) return; show('tree'); window.RV_focus&&window.RV_focus(b.dataset.go); });
   try{ const t=localStorage.getItem('rv-tab'); if(t==='map'||t==='wide') show(t); }catch(e){}
-  if(location.hash==='#mapa') show('map'); else if(location.hash==='#siroky') show('wide');
+  if(location.hash==='#mapa') show('map'); if(location.hash==='#okruh'||location.hash==='#siroky') show('wide');
 })();
 </script>
