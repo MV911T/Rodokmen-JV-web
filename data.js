@@ -2769,29 +2769,35 @@ window.RODOKMEN = {
       line: "loukota",
       cert: "M",
       b: {"date":"15. (?) 10. 1798","year":1798,"place":"Osek u Rokycan č. p. 10"},
+      d: {"date":"14. 3. 1854","year":1854,"place":"Osek č. p. 13"},
       father: "prokop_la",
       mother: "anna_zo",
       spouse: "magdalena_la",
       occ: "zedník (?) v Drozdově (1821–1822), později domkář v Oseku č. 10",
-      marriage: "6. 11. 1821, Drozdov (fara Cerhovice) – s Magdalenou Landtyngrovou",
+      marriage: "1) 6. 11. 1821, Drozdov (fara Cerhovice) – s Magdalenou Landtyngrovou († 1849); 2) 1. 5. 1849, Osek – s Magdalenou Aubrechtovou",
       notes: [
         "Pokřtěn 15. (?) 10. 1798 v Oseku č. 10: otec Prokop Laukota, pastýř („Hirt“), matka Anna Holubová; kmotři Jan Aubrecht a Jan Forejt, sedláci, a Anna Trgjková, selka. Do Drozdova (fara Cerhovice) odešel před 1821, po 1822 se vrátil do Oseka č. 10.",
         "Oddán 6. 11. 1821 v Drozdově (fara Cerhovice) jako zedník (?) v Drozdově, 24 let, svobodný, s Magdalenou, dcerou Josefa Landtyngra, kováře v Drozdově (24 let). Syn † Prokopa Laukoty a Anny roz. Holubové (křest dcery 1822; dřívější čtení „Žolibová“ a „Mýto“ byla chybná).",
         "Otec Anny Forejtové (*1822); dal souhlas k jejímu sňatku 1846.",
         "POZOR na záměnu: v Oseku č. 17 žil současně jiný pár Matěj Laukota × Magdalena roz. Wernerová (?); jejich syn Jan (*~1804) se 1826 oženil s Barborou Loserovou (?) z Oseka č. 81.",
-        "KANDIDÁT úmrtí: Jan Laukota, obecní pastýř, † 14. 3. 1854 Osek č. 13, 55 let – ale „muž Magdaleny roz. Aubrechtové“ (ta † 8. 3. 1881 Osek 14, 73 let); šlo by o 2. manželství po smrti Landsingerové (1822–1847?). Neověřeno (v Oseku žil i Jan *~1804 × Barbora Losová 1826). SOA Plzeň, Osek 17 sn. 40; Osek 19 sn. 78."
+        "Podruhé oddán 1. 5. 1849 v Oseku jako „vdovec, obecní sluha v obci Wosecké, syn † Prokopa Laukoty, též obecního sluhy ve Wosku č. 10, a matky Anny roz. Holub z Woska“, 50 let, s Magdalenou, dcerou Šimona Aubrechta, domkáře v Oseku č. 107, a Anny roz. Schejbalové (?) z Volduch (32 let); svědci Šimon Laukota, provazník (č. 72), a Matěj Konrýt (?), havíř.",
+        "Zemřel 14. 3. 1854 v Oseku č. 13 jako obecní pastýř, 55 let, „muž Magdaleny roz. Aubrecht“ (ta † 8. 3. 1881 Osek 14, uvedeno 73 let – ROZPOR s 32 lety při sňatku 1849).",
+        "KANDIDÁT: syn Jan, † VII 1828 v Oseku jako „syn Jana Laukoty, sluhy“ (Osek 10, pag. 151)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 16 (O 1812–1839), oddíl Drozdov, fol. 71, snímek 74 – https://ebadatelna.soapraha.cz/d/4559/74",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107",
-        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n",
+        "SOA Plzeň, fara Osek, O 1848–1874 (Osek 16), str. 9, snímek 11 – https://www.portafontium.eu/iipimage/30066682/osek-16_0110-o",
+        "SOA Plzeň, fara Osek, Z (Osek 17), pag. 39, snímek 40 – https://www.portafontium.eu/iipimage/30066683/osek-17_0400-z"
       ],
       scans: [
         {"f":"img/1821_snatek_jan_laukota_magdalena_landtyngr_drozdov_cerhovice16_sn74_a.jpg","t":"Sňatek Jana Laukoty a Magdaleny Landtyngrové, Drozdov 6. 11. 1821"},
         {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"},
-        {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"}
+        {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"},
+        {"f":"img/1849_O_Laukota_Jan_Aubrechtova_Osek.jpg","t":"Druhý sňatek Jana Laukoty (vdovce, syna † Prokopa) s Magdalenou Aubrechtovou, Osek 1. 5. 1849"}
       ]
     },
     {
@@ -2801,11 +2807,14 @@ window.RODOKMEN = {
       line: "lancik",
       cert: "M",
       b: {"date":"asi 1797","year":1797,"approx":true,"place":"Drozdov (fara Cerhovice)"},
+      d: {"date":"16. 1. 1849","year":1849,"place":"Osek č. p. 10"},
       father: "josef_ld",
       spouse: "jan_la",
       marriage: "6. 11. 1821, Drozdov – s Janem Laukotou",
       notes: [
         "Dcera Josefa Landsingera (Landtyngra), mistra kovářského v Drozdově (sňatek 1821 i křest dcery 1822); oddána 6. 11. 1821 (24 let). ROZPOR o matce: křest dcery 1822 uvádí „† Magdalena roz. Zvonařová z Drozdova“, ta je ale podle sňatku 1796 matkou Josefa (tedy babičkou); Josefovou manželkou byla od 1796 Anna Mottlová. Buď zápis 1822 zaměnil matku za babičku, nebo je Magdalena dcerou Václava Landsingera a Zvonařové (Josefova sestra – index uvádí „Mařenu“, dceru Václava). Nerozhodnuto; křest Magdaleny v Drozdově 1793–1805 nenalezen.",
+        "Zemřela 16. 1. 1849 v Oseku č. 10 (pohřeb 18. 1.) jako „žena Jana Laukoty, obecního sluhy, dcera Wáclawa (?) a … (?) z Drozdowa“, uvedeno 56 let, na zapálení střev; v rejstříku Osek 17 chybí. Jan se 1. 5. 1849 oženil podruhé jako vdovec.",
+        "ROZPOR: úmrtní zápis 1849 jmenuje otce Václava (?) – to podporuje kandidátku A (Marie Magdalena *1788, dcera Václava Landsingera a Zvonařové) proti oddacímu zápisu 1821 („dcera Josefa“, 24 let). Jméno matky v zápisu 1849 čteno nejistě; věk 56 (*~1793) nesedí ani na jednu variantu přesně. Rodiče zatím ponechány podle oddacího zápisu.",
         "Porodní bábou v Oseku byla 18. 8. 1822 „Magdal. Laukotowa“ – jiná Magdalena (tato byla tehdy v Drozdově).",
         "KANDIDÁT (varianta A, silnější): Marie Magdalena Landsingerová *2. 4. 1788 v Drozdově č. 31, dcera kováře Václava Landsingera a Marie Magdaleny Zvonařové († 1796) – sedí matka z křtu 1822, ne však otec „Josef“ a věk 24 ze sňatku 1821 (bylo by jí 33). Varianta B: dcera Josefa – pak by matkou byla Anna Mottlová, ale Magdalena mezi jejich dětmi 1797–1805 není.",
         "Oddací zápis 1821 v plném rozlišení: „dcera Jozefa Landtyngera, kowáře w Drozdowě“, 24 let – jednoznačné. Josefova dcera Marie Magdalena (pokřtěná v dubnu 1808) ale zemřela 22. 3. 1809 jako roční (Cerhovice 18, sn. 51) – odpadá. Zbývá Marie Magdalena, dcera Václava a Zvonařové (pokřtěná 1788, v r. 1821 by jí bylo 33), nebo jiná, dosud nenalezená Magdalena. Rozpor trvá."
@@ -2817,11 +2826,13 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, fol. 77, snímek 28 – https://ebadatelna.soapraha.cz/d/4555/28",
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 18 (Z 1800–1811), oddíl Drozdov, snímek 51 – https://ebadatelna.soapraha.cz/d/4561/51"
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 18 (Z 1800–1811), oddíl Drozdov, snímek 51 – https://ebadatelna.soapraha.cz/d/4561/51",
+        "SOA Plzeň, fara Osek, Z (Osek 17), pag. 7, snímek 9 – https://www.portafontium.eu/iipimage/30066683/osek-17_0090-z"
       ],
       scans: [
         {"f":"img/1821_snatek_jan_laukota_magdalena_landtyngr_drozdov_cerhovice16_sn74_b.jpg","t":"Sňatek Laukota × Landtyngrová 1821 – nevěsta a svědci"},
-        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
+        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"},
+        {"f":"img/1849_Z_Laukotova_Magdalena_Osek.jpg","t":"Úmrtí Magdaleny Laukotové z Drozdova, Osek 16. 1. 1849"}
       ]
     },
     {
@@ -6037,14 +6048,16 @@ window.RODOKMEN = {
         "Poprvé oddán 24. 11. 1782 v Oseku (č. 10): „Laukota Prokob, Sohn des Simon Laukota von Wossek, mit Anna, Tochter des Antonij Laukota von Wossek“, s dispenzí ze 3. stupně pokrevenství (snoubenci byli příbuzní); svědci Jan Liebrecht, Václav Boušlav, Matěj Hlásník (?) a Ludmila Kirchaizk (?). Anna zemřela 26. 11. 1797 v č. 10 při porodu (uvedeno 30 let). Syn z 1. manželství † 1. 6. 1783.",
         "Děti s Annou Holubovou (Osek č. 10): Jan (1798), Marie (6. 3. 1801), Šimon (1. 3. 1802), Martin (29. 10. 1804).",
         "Zemřel 6. 2. 1805 v Oseku č. 10 jako obecní pastýř, 45 let, na sněť („an Brand“). Vdova Anna se 1814 provdala za ševce Martina Lodla.",
-        "Matka Prokopa nejspíš Magdalena († 5. 10. 1807 jako vdova po pastýři Šimonu Laukotovi, 69 let) – neověřeno, mohla být i 2. manželkou Šimona. Křest Prokopa nenalezen (Osek 1758–1763)."
+        "Matka Prokopa nejspíš Magdalena († 5. 10. 1807 jako vdova po pastýři Šimonu Laukotovi, 69 let) – neověřeno, mohla být i 2. manželkou Šimona. Křest Prokopa nenalezen (Osek 1758–1763).",
+        "Otcovství k Janovi (*1798) potvrzeno oddacím zápisem syna 1849: „syn † Prokopa Laukoty, též obecního sluhy ve Wosku č. 10, a matky Anny roz. Holub“."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n",
         "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, str. 62, snímek 36 – https://www.portafontium.eu/iipimage/30066674/osek-08_0360-z",
         "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, rok 1797, snímek 25 – https://www.portafontium.eu/iipimage/30066674/osek-08_0250-z",
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, rok 1782, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, rok 1782, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
+        "SOA Plzeň, fara Osek, O 1848–1874 (Osek 16), str. 9, snímek 11 – https://www.portafontium.eu/iipimage/30066682/osek-16_0110-o"
       ],
       scans: [
         {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
