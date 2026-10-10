@@ -4450,9 +4450,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Františka Kliky.",
         "Podruhé oddán 28. 6. 1797 (dříve čteno „28. 1.“) v Suchomastech jako sedlák č. 12 a vdovec, 27 let (*~1770). První žena Marie, sedlačka č. 12, zemřela 9. 6. 1797 ve 30 letech (asi po porodu); syn Josef (*8. 1. 1797) zemřel 25. 1. 1797.",
-        "KANDIDÁT 1. sňatku: 26. 10. 1790 v Suchomastech (č. 38) „Wáclaw Klika, syn Ondřeje Kliky, chalupníka suchomastského“, 20 let, s Annou, dcerou Matěje Billošínského (?), chalupníka suchomastského, 18 let – věk sedí, ale číslo domu (38 × 12) a stav (chalupnický syn × sedlák) se liší; nutno ověřit úmrtím 1. ženy 1790–1797.",
-        "KANDIDÁTI (čteno jen zmenšeně): otec Ondřej Klika, chalupník v Suchomastech č. 50, † 19. 10. 1791; otcem 1. ženy Anny spíš Matěj Bělohoubek (?), chalupník č. 48, † 23. 11. 1790; úmrtí 1. ženy v Borku 1790–1794 nenalezeno. Nevěsta 1797 nejspíš z Bykoše („bikoský“), dcera Jana Kliky, sedláka v Bykoši (?).",
-        "ROZPOR ke kandidátu 1. sňatku 1790 (Václav, syn Ondřeje × Anna, 18 let): první žena Václava z č. 12 se jmenovala Marie a byla o 5 let starší – totožnost oslabena."
+        "S 1. ženou Marií (sňatek nenalezen – ve faře Borek 1787–1796 není, nejspíš ve faře nevěsty ~X 1792 – I 1793) děti v Suchomastech č. 12: Václav (22. 9. 1793), Matěj (2. 2. 1795), Josef (8. 1. 1797, † 25. 1. 1797).",
+        "Dřívější kandidát (Václav, syn Ondřeje Kliky, × 1790 Anna) vyloučen: šlo o jiného Václava Kliku (č. 50, × Anna, děti 1792 a 1794). Původ Václava z č. 12 je otevřený."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
@@ -4475,7 +4474,8 @@ window.RODOKMEN = {
       spouse: "vaclav_kl",
       marriage: "28. 6. 1797, Suchomasty – s Václavem Klikou (vdovcem)",
       notes: [
-        "Dcera Jana a Kateřiny Klikových, sedláka z Bykoše (?) č. 10; při sňatku 28. 6. 1797 18 let (*~1779). Příjmení čteno jako „Kliki“ (první písmeno shodné s K v „Katrina“), ne Šliková."
+        "Dcera Jana a Kateřiny Klikových, sedláka z Bykoše (?) č. 10; při sňatku 28. 6. 1797 18 let (*~1779). Příjmení čteno jako „Kliki“ (první písmeno shodné s K v „Katrina“), ne Šliková.",
+        "Rodiče Jan a Kateřina Klikovi, Bykoš č. 10 – děti Josef (1785), František (1789), František (1791) (index N Borek 11)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
