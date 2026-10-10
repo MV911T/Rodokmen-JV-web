@@ -2385,13 +2385,14 @@ window.RODOKMEN = {
       maiden: "Aubrechtová",
       line: "aubrecht",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Osek u Rokycan č. p. 72"},
+      b: {"date":"neznámé (odhad ~1814)","year":1814,"approx":true,"place":"Osek u Rokycan č. p. 72"},
       father: "kaspar_a",
       mother: "anna_ho",
       spouse: "pavel_l",
       marriage: "asi září–listopad 1838, Osek – s Pavlem Lodlem",
       notes: [
-        "Matka Martina Lodla; dcera Kašpara Aubrechta, výminkáře z Oseku č. 72, a Anny roz. Holubové z Oseku č. 3 (?)."
+        "Matka Martina Lodla; dcera Kašpara Aubrechta, výminkáře z Oseku č. 72, a Anny roz. Holubové z Oseku č. 3 (?).",
+        "KANDIDÁT křtu: v Oseku č. 72 pokřtěny dvě Anny Kašpara Aubrechta – v I 1813 a 13./14. 12. 1814; provdaná Lodlová je spíš ta mladší (úmrtí starší neověřeno)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
@@ -2399,7 +2400,8 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), rejstřík snímek 251: „Pawel Lodl s Annau Aubrechtowau … 230“ (strana 230 není nasnímána)"
       ],
       scans: [
-        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl)"}
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl)"},
+        {"f":"img/1813_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 1813 – matka Anna, dcera Mikuláše Holuby"}
       ]
     },
     {
@@ -2407,17 +2409,23 @@ window.RODOKMEN = {
       name: "Kašpar Aubrecht",
       line: "aubrecht",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
       spouse: "anna_ho",
       occ: "výminkář v Oseku č. 72 (1849)",
+      marriage: "28. 4. 1807, Osek č. 72 – s vdovou Annou (roz. Holubovou)",
       notes: [
-        "Otec Anny Lodlové."
+        "Oddán 28. 4. 1807 v Oseku č. 72 jako svobodný, 27 let, s Annou, vdovou po Josefu Hromesovi (?), selkou v č. 72 (27 let) – přiženil se na grunt; sedlák, později výminkář v Oseku č. 72.",
+        "Otec Anny Lodlové; děti v č. 72: Barbora (1809), Martin (1811), Anna (I 1813), Anna (14. 12. 1814) aj."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n"
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
+        "SOA Plzeň, fara Osek, Osek 07 (O), str. 34, snímek 19 vlevo – https://www.portafontium.eu/iipimage/30066673/osek-07_0190-o",
+        "SOA Plzeň, fara Osek, Osek 06 (N), str. 37 a 51, snímky 22 a 29 – https://www.portafontium.eu/iipimage/30066672/osek-06_0220-n"
       ],
       scans: [
-        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl) (dítě: Anna Lodlová)"}
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl) (dítě: Anna Lodlová)"},
+        {"f":"img/1807_O_Aubrecht_Kaspar_Anna_Osek.jpg","t":"Sňatek Kašpara Aubrechta s vdovou Annou, Osek č. 72, 28. 4. 1807"},
+        {"f":"img/1813_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 1813 – matka Anna, dcera Mikuláše Holuby"}
       ]
     },
     {
@@ -2426,16 +2434,23 @@ window.RODOKMEN = {
       maiden: "Holubová",
       line: "holub",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true,"place":"Osek u Rokycan č. p. 3 (?)"},
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true,"place":"Osek u Rokycan č. p. 3 (?)"},
+      father: "mikulas_hb",
+      mother: "dominika_hb",
       spouse: "kaspar_a",
+      marriage: "1) Josef Hromes (?) († I 1807, č. 72); 2) 28. 4. 1807, Osek – s Kašparem Aubrechtem",
       notes: [
-        "Matka Anny Lodlové; číslo domu nejisté."
+        "Dcera Mikuláše Holuby, sedláka z Oseka č. 3 (?), a Dominiky (?) (křty dcer 1813 a 1814). Vdova po Josefu Hromesovi (?), sedlákovi v Oseku č. 72 († I 1807, 26 let); podruhé se vdala 28. 4. 1807 za Kašpara Aubrechta."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n"
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
+        "SOA Plzeň, fara Osek, Osek 07 (O), str. 34, snímek 19 vlevo – https://www.portafontium.eu/iipimage/30066673/osek-07_0190-o",
+        "SOA Plzeň, fara Osek, Osek 06 (N), str. 37 a 51, snímky 22 a 29 – https://www.portafontium.eu/iipimage/30066672/osek-06_0220-n"
       ],
       scans: [
-        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl) (dítě: Anna Lodlová)"}
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl) (dítě: Anna Lodlová)"},
+        {"f":"img/1807_O_Aubrecht_Kaspar_Anna_Osek.jpg","t":"Sňatek Kašpara Aubrechta s vdovou Annou, Osek č. 72, 28. 4. 1807"},
+        {"f":"img/1813_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 1813 – matka Anna, dcera Mikuláše Holuby"}
       ]
     },
     {
@@ -7763,6 +7778,40 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1721_O_Hrazdirek_Pavel_Schustova_Katerina.jpg","t":"Sňatek Pavla Hrazdírka s Kateřinou, dcerou Jakuba Schusty, Hodějice 25. 5. 1721"}
+      ]
+    },
+    {
+      id: "mikulas_hb",
+      name: "Mikuláš Holub",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      spouse: "dominika_hb",
+      notes: [
+        "Sedlák v Oseku č. 3 (?); otec Anny Aubrechtové (křty vnuček 1813, 1814). Pozor: v Oseku 1774 žil i pár Mikuláš Holub × Kateřina – možná 1. manželka, neověřeno."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, Osek 06 (N), str. 37 a 51, snímky 22 a 29 – https://www.portafontium.eu/iipimage/30066672/osek-06_0220-n"
+      ],
+      scans: [
+        {"f":"img/1813_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 1813 – matka Anna, dcera Mikuláše Holuby"}
+      ]
+    },
+    {
+      id: "dominika_hb",
+      name: "Dominika (?) Holubová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      spouse: "mikulas_hb",
+      notes: [
+        "Manželka Mikuláše Holuba, sedláka v Oseku; matka Anny Aubrechtové. Jméno čteno nejistě („Domi-niky“)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, Osek 06 (N), str. 37 a 51, snímky 22 a 29 – https://www.portafontium.eu/iipimage/30066672/osek-06_0220-n"
+      ],
+      scans: [
+        {"f":"img/1813_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 1813 – matka Anna, dcera Mikuláše Holuby"}
       ]
     }
   ]
