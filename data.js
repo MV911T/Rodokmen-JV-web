@@ -6474,7 +6474,7 @@ window.RODOKMEN = {
         "Pokřtěn 24. (březen ?) 1744 v Hodějicích: „Paulus – Caspari Hrabowsky et Elisabetha ex Hodiegitz“; kmotři Pavel Kučera s Alžbětou z Hrušek (?). Věk 63 při úmrtí 1806 sedí (±1 rok).",
         "Oddán 10. 9. 1769 v Hodějicích: „H. Juvenis Paulus fil. Caspari Chrabowsky cum h. Catharina Joannis Paseta“; svědci Václav Dzetovský (?) a Josef Cigánek z Hodějic.",
         "Zemřel 9. 6. 1806 v č. 69 jako čtvrtník, 63 let (zápis stojí v oddílu Heršpice, číslo domu 69 je ale hodějický dům syna Jiřího 1806 i dcery Marianny † 1804 – identita velmi pravděpodobná).",
-        "Děti s Kateřinou v Hodějicích: Terezie (17. 9. 1770 ?), František (20. 3. 1773 ?, č. 26), Josef (14. 7. 1777 ?, č. 26), Marianna (1779 ?), Kateřina (1782), Pavel (1788), Vavřinec (1790), Vincenc (1792), Rosina (1793), Magdalena (~1803 † 1806), Jan (~1805 † 1806) a Jiří (*~1785, křest nenalezen).",
+        "Děti s Kateřinou v Hodějicích: Terezie (17. 9. 1770 ?), dvojčata Matouš a Marina (4. 9. 1771 ?), František (20. 3. 1773 ?, č. 26), Josef (14. 7. 1777 ?, č. 26), Marianna (1779 ?), Kateřina (1782), Pavel (1788), Vavřinec (1790), Vincenc (1792), Rosina (1793), Magdalena (~1803 † 1806), Jan (~1805 † 1806) a Jiří (*~1785, křest nenalezen).",
         "Otec Jiřího Hrabovského (sňatek 1806).",
         "Syn Pavel *6. 6. 1788 v Hodějicích č. 50 („Paul Hrabowsky, Viertler – Katharina“; N 13122, str. 74). Index narozených u Hodějic je neúplný."
       ],
