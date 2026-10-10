@@ -5851,7 +5851,8 @@ window.RODOKMEN = {
         "Ke kandidátnímu křtu 1762: jiný Václav Hrazdílek ve faře Slavkov IX 1754 – VIII 1765 není; Martin × Apolonie měli i dcery Annu (1755) a Apolonii (1757, „Herspicio“?). Martin Hrazdílek, domkář, zemřel 8. 4. 1791 v Hodějicích č. 1 ve věku 70 let – ve stejném domě se 5. 5. 1790 narodil Václavův syn Jan, což kandidátní otcovství Martina silně podporuje.",
         "Další děti s Magdalenou Roskopalovou v Hodějicích č. 63: Urban (20. 4. 1796), Vincenc (31. 12. 1798, † 9. 2. 1799), Antonín (10. 6. 1800), Apolonie (27. 1. 1803); kmotři Anton Majer s Mariannou (jako u Jana 1790) a Jiří Florián s Apolonií. Po 1803 v Hodějicích nedoložen.",
         "Zemřel 27. 1. 1816 (pohřben 29. 1.) ve Špitálce č. 19 jako „Wenzel Hrazdirek, Zeugmacher (?)“, 56 let. Ztotožnění: v témže domě se 1817 oženil jeho syn Urban (*1796, s poručníkem) a 1820 zemřela dcera Apolonie (*1803) „nach Wenzel Hrazdilek, Zeugmacher“. Syn Antonín († 26. 12. 1801, Hodějice č. 63, 1 rok).",
-        "ROZPOR: povolání v Hodějicích „Hofstädtner (?)“ × ve Špitálce „Zeugmacher (?)“; věk 56 sedí na kandidátní křest 1762."
+        "ROZPOR: povolání v Hodějicích „Hofstädtner (?)“ × ve Špitálce „Zeugmacher (?)“; věk 56 sedí na kandidátní křest 1762.",
+        "KANDIDÁT starších generací (Hodějice): Martinův otec Pavel Hrazdírek měl s Kateřinou děti Josefa (23. 1. 1722), Apolonii (I 1724) a Františka (X 1725); starší Pavel Hrazdírek († VII 1707, ~60 let) × Alžběta (ta se 1711 znovu vdala). Martinův křest 1718–1724 nenalezen. (MZA, Slavkov 13120, N sn. 80/90/101, O sn. 177, Z sn. 281.)"
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
