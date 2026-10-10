@@ -2149,6 +2149,7 @@ window.RODOKMEN = {
       marriage: "1) s Kateřinou Flemrovou (?) († 1841); 2) 6. 2. 1844, Těchobuz – s Kateřinou Kočovou",
       notes: [
         "Nádeník v Těchobuzi – č. 36 („Schelenberg“, 1834–1841), č. 24 (1844), č. 13 (1862); jurisdicent těchobuzského statku. Syn Martina Votavy, nádeníka (podle sňatku 1844 „bývalého chalupníka z Letů (?)“) z Jetřichovic č. 22, a Terezie roz. Marody / Mrkvové (?).",
+        "Před Těchobuzí žil v Jetřichovci u Pacova č. 10, kde mu s Kateřinou pokřtili syny Vojtěcha (1816) a Matěje (1819) – manželé tedy už před 1816. V indexech fary Pacov (N 1783–1842, O 1765–1833) jeho křest ani sňatek rodičů není – rodina přišla odjinud (asi kolem 1815).",
         "ROZPOR ve věku: sňatek 1844 „41 let“ (*~1803), úmrtí 1862 „67 let“ (*~1795).",
         "Děti s 1. manželkou: Jan (*~1830, † 25. 8. 1839, 9 let), Kateřina (*27. 1. 1834), Štěpán (*26. 12. 1836); podle zápisů ze Souše i František (horník v Souši 1874). V Těchobuzi doloženi od 1834.",
         "Zemřel 23. 1. 1862 v Těchobuzi č. 13; „byl 17 let ženatý“ (s druhou manželkou).",
@@ -2164,14 +2165,18 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 103, snímek 104 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 197, snímek 203 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 226, snímek 232 – https://digi.ceskearchivy.cz/8826"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 226, snímek 232 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 44, snímek 32; index 6256 sn. 14 – https://digi.ceskearchivy.cz/6239",
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 47, snímek 35 – https://digi.ceskearchivy.cz/6239"
       ],
       scans: [
         {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"},
         {"f":"img/1844_oddani_Votava_Jan_Kocova_Katerina_Techobuz.jpg","t":"Druhý sňatek Jana Votavy s Kateřinou Kočovou, Těchobuz 1844"},
         {"f":"img/1862_zemreni_Votava_Jan_Techobuz.jpg","t":"Úmrtí Jana Votavy, Těchobuz 1862"},
         {"f":"img/1841_zemreni_Votavova_Katerina_Flemrova_Techobuz.jpg","t":"Úmrtí Kateřiny Votavové, Těchobuz 1841"},
-        {"f":"img/1834_krest_Votavova_Katerina_Techobuz.jpg","t":"Křest dcery Kateřiny, Těchobuz 1834"}
+        {"f":"img/1834_krest_Votavova_Katerina_Techobuz.jpg","t":"Křest dcery Kateřiny, Těchobuz 1834"},
+        {"f":"img/1816_N_Votava_Vojtech_Jetrichovec.jpg","t":"Křest Vojtěcha Votavy, Jetřichovec č. 10, 1816"},
+        {"f":"img/1819_N_Votava_Matej_Jetrichovec.jpg","t":"Křest Matěje Votavy, Jetřichovec č. 10, 1819"}
       ]
     },
     {
@@ -2187,6 +2192,7 @@ window.RODOKMEN = {
       spouse: "jan_v",
       notes: [
         "Dcera Matěje Flemra (?), chalupníka z Tučap č. 36, a Kateřiny, dcery Vojtěcha (?) Kříže, chalupníka z Chýšky č. 18.",
+        "Synové Vojtěch (1816) a Matěj (1819) pokřtěni v Jetřichovci č. 10 (fara Pacov) – v zápisech „Kateřina roz. Matěje Flemrowa (?) z Tučap“.",
         "Zemřela 17. 8. 1841 v Těchobuzi č. 36 ve 46 letech, pohřbena ve Zhoři.",
         "Vdova Kateřina Votavová, která zemřela 1. 10. 1866, je druhá manželka Jana Votavy (Kateřina Kočová), ne Štěpánova matka – rozpor vyřešen."
       ],
@@ -2196,7 +2202,9 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 163 (snímek 167) a fol. 236 (snímek 243) – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 61, snímek 62 – https://digi.ceskearchivy.cz/8825",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 197, snímek 203 – https://digi.ceskearchivy.cz/8826"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 197, snímek 203 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 44, snímek 32; index 6256 sn. 14 – https://digi.ceskearchivy.cz/6239",
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 47, snímek 35 – https://digi.ceskearchivy.cz/6239"
       ],
       scans: [
         {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"},
@@ -2812,7 +2820,7 @@ window.RODOKMEN = {
       occ: "nádeník v Jetřichovicích č. 22",
       notes: [
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Letů (?)“ – zemřel před 1844.",
-        "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Čísla domů (27/42 × 22) zatím nesedí.",
+        "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Syn Jan žil v Jetřichovci (č. 10) už 1816–1819 – úmrtí 1828 (č. 27, 60 let) a 1833 (Terezie, č. 42, 60 let) tak patří nejspíš Janovým rodičům; číslo 22 zatím nedoloženo.",
         "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno."
       ],
       sources: [
@@ -6954,6 +6962,44 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1822_N_Anna_Michalek_Belotin_pag70.jpg","t":"Křest Anny Michalkové, Bělotín 22. 10. 1822"}
+      ]
+    },
+    {
+      id: "vojtech1816v",
+      name: "Vojtěch Votava",
+      line: "votava",
+      cert: "M",
+      b: {"date":"21. (III ?) 1816","year":1816,"place":"Jetřichovec č. p. 10 (fara Pacov)"},
+      father: "jan_v",
+      mother: "katerina_f",
+      notes: [
+        "Pokřtěn 21. (III ?) 1816 v Jetřichovci č. 10 (fara Pacov) jako Adalbertus: otec Jan Votava, matka Kateřina roz. Flemrová (?) z Tučap (dcera Matěje). Starší bratr Štěpána.",
+        "KANDIDÁT: „Albert Wotawa, horník“ – kmotr synovce Františka v Souši 1873 – a otec Václava Votavy *1864 (Souš) by mohl být on."
+      ],
+      sources: [
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 44, snímek 32; index 6256 sn. 14 – https://digi.ceskearchivy.cz/6239"
+      ],
+      scans: [
+        {"f":"img/1816_N_Votava_Vojtech_Jetrichovec.jpg","t":"Křest Vojtěcha Votavy, Jetřichovec č. 10, 1816"}
+      ]
+    },
+    {
+      id: "matej1819v",
+      name: "Matěj Votava",
+      line: "votava",
+      cert: "M",
+      b: {"date":"7. 1. 1819","year":1819,"place":"Jetřichovec č. p. 10 (fara Pacov)"},
+      father: "jan_v",
+      mother: "katerina_f",
+      notes: [
+        "Pokřtěn 7. 1. 1819 v Jetřichovci č. 10 (fara Pacov), manželský: otec Jan Votava, matka Kateřina roz. Flemrová (?) z Tučap. Přípis: křestní list vydán 5. 1. 1840. Starší bratr Štěpána.",
+        "KANDIDÁT: Matěj Votava oddaný v Těchobuzi 21. 1. 1840 (fara Zhoř) – vydání křestního listu 5. 1. 1840 tomu odpovídá."
+      ],
+      sources: [
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 47, snímek 35 – https://digi.ceskearchivy.cz/6239"
+      ],
+      scans: [
+        {"f":"img/1819_N_Votava_Matej_Jetrichovec.jpg","t":"Křest Matěje Votavy, Jetřichovec č. 10, 1819"}
       ]
     }
   ]
