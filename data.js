@@ -2919,11 +2919,13 @@ window.RODOKMEN = {
       name: "Matěj Hamr",
       line: "flemr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1768)","year":1768,"approx":true},
+      b: {"date":"28. 1. 1768","year":1768,"place":"Želeč (fara Planá nad Lužnicí)"},
       father: "tomas_hm",
+      mother: "rosina_hm",
       spouse: "katerina_kr",
       occ: "chalupník v Tučapech č. 36",
       notes: [
+        "Pokřtěn 28. 1. 1768 v Plané nad Lužnicí: „Mathias filius legitimus Thomae Hemmer excoriatoris Zelcensis et Rosinae uxoris ejus“; Tomáš je „superstes filius post defunctum Thomam Hemmer“. Ztotožnění s hospodářem Matějem Hamrem v Tučapech (jistota D): otec Tomáš z „Želče“, věk sedí; jiný Matěj Hamr v Želči 1763–1768 není. Bratr Šimon (*5. 8. 1765).",
         "Syn Tomáše Hamra, hospodáře z Holé (?); hospodář v Tučapech (u Soběslavi) č. 51.",
         "Manželky (podle křtů dětí v Tučapech): 1) Kateřina, dcera † Jana W…ského (?) – syn Jan *25. 8. 1791; zemřela 14. 5. 1792 ve 23 letech po porodu; 2) Kateřina, dcera Petra Lippa / Fippa (?), hospodáře v Lippě (?) – dcera Kateřina *29. 4. 1793; 3) Anna, dcera † Jakuba Turka (?) – dcera Veronika *12. 2. ~1796. Sňatky ve faře Tučapy nejsou (ženil se ve farnostech nevěst). ROZPOR: úmrtí 2. Kateřiny nenalezeno.",
         "Kandidátní sňatek XI 1791 ve Velké Chyšce vyloučen – Matěj byl ženatý už 1790/91."
@@ -2932,9 +2934,11 @@ window.RODOKMEN = {
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Tučapy, Tučapy N/O/Z 1784–1800 (kniha 8077), pag. 37, snímek 31; rejstřík 8092 sn. 11 – https://digi.ceskearchivy.cz/8077",
-        "SOA Třeboň, fara Tučapy, kniha 8077, Z pag. 14, snímek 57 (14. 5. 1792)"
+        "SOA Třeboň, fara Tučapy, kniha 8077, Z pag. 14, snímek 57 (14. 5. 1792)",
+        "SOA Třeboň, fara Planá nad Lužnicí, N 1749–1784 (kniha 6469), pag. 187, snímek 99 vpravo – https://digi.ceskearchivy.cz/6469"
       ],
       scans: [
+        {"f":"img/1768_N_Hamr_Matej_Zelec.jpg","t":"Křest Matěje Hemmera (Hamra), syna Tomáše, pohodného želečského, a Rosiny, 28. 1. 1768"},
         {"f":"img/1793_N_Hamrova_Katerina_Tucapy.jpg","t":"Křest Kateřiny Hamrové, Tučapy č. 51, 29. 4. 1793"}
       ]
     },
@@ -7368,15 +7372,19 @@ window.RODOKMEN = {
       line: "flemr",
       cert: "M",
       b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      spouse: "rosina_hm",
       notes: [
-        "Hospodář z „Holé (?)“ – nejspíš Želeč u Soběslavi (kurentní Ž čtené jako H; fara Planá nad Lužnicí, od 1787 Hlavatce, kde je rod Hamrů doložen – Václav Hammer ze Želče, sňatek ~1824). Otec Matěje Hamra (křty vnoučat v Tučapech 1791, 1793, 1796).",
-        "KANDIDÁT původu: Želeč – neověřeno křtem Matěje."
+        "Pohodný (excoriator) na pohodnici u Želče („Gaza prope Zelcz“, fara Planá nad Lužnicí); manželka Rosina. Synové Šimon (5. 8. 1765) a Matěj (28. 1. 1768). V tučapských křtech vnoučat 1791–1796 uveden jako „hospodář z Želče“.",
+        "Syn † Tomáše Hemmera (křest syna Matěje 1768: „superstes filius post defunctum Thomam Hemmer“).",
+        "Rod Hammerů v Želči trvá: Václav Hammer, syn Šimona, Želeč č. 60, oddán 1824 (Hlavatce)."
       ],
       sources: [
-        "SOA Třeboň, fara Tučapy, Tučapy N/O/Z 1784–1800 (kniha 8077), pag. 37, snímek 31; rejstřík 8092 sn. 11 – https://digi.ceskearchivy.cz/8077"
+        "SOA Třeboň, fara Tučapy, Tučapy N/O/Z 1784–1800 (kniha 8077), pag. 37, snímek 31; rejstřík 8092 sn. 11 – https://digi.ceskearchivy.cz/8077",
+        "SOA Třeboň, fara Planá nad Lužnicí, N 1749–1784 (kniha 6469), pag. 187, snímek 99 vpravo – https://digi.ceskearchivy.cz/6469"
       ],
       scans: [
-        {"f":"img/1793_N_Hamrova_Katerina_Tucapy.jpg","t":"Křest Kateřiny Hamrové, Tučapy č. 51, 29. 4. 1793"}
+        {"f":"img/1793_N_Hamrova_Katerina_Tucapy.jpg","t":"Křest Kateřiny Hamrové, Tučapy č. 51, 29. 4. 1793"},
+        {"f":"img/1768_N_Hamr_Matej_Zelec.jpg","t":"Křest Matěje Hemmera (Hamra), syna Tomáše, pohodného želečského, a Rosiny, 28. 1. 1768"}
       ]
     },
     {
@@ -7704,6 +7712,23 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"}
+      ]
+    },
+    {
+      id: "rosina_hm",
+      name: "Rosina Hamrová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      spouse: "tomas_hm",
+      notes: [
+        "Manželka Tomáše Hemmera (Hamra), pohodného u Želče; matka Šimona (1765) a Matěje (1768). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Třeboň, fara Planá nad Lužnicí, N 1749–1784 (kniha 6469), pag. 187, snímek 99 vpravo – https://digi.ceskearchivy.cz/6469"
+      ],
+      scans: [
+        {"f":"img/1768_N_Hamr_Matej_Zelec.jpg","t":"Křest Matěje Hemmera (Hamra), syna Tomáše, pohodného želečského, a Rosiny, 28. 1. 1768"}
       ]
     }
   ]
