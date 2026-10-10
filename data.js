@@ -6551,7 +6551,8 @@ window.RODOKMEN = {
         "Pokřtěn 24. (březen ?) 1744 v Hodějicích: „Paulus – Caspari Hrabowsky et Elisabetha ex Hodiegitz“; kmotři Pavel Kučera s Alžbětou z Hrušek (?). Věk 63 při úmrtí 1806 sedí (±1 rok).",
         "Oddán 10. 9. 1769 v Hodějicích: „H. Juvenis Paulus fil. Caspari Chrabowsky cum h. Catharina Joannis Paseta“; svědci Václav Dzetovský (?) a Josef Cigánek z Hodějic.",
         "Zemřel 9. 6. 1806 v č. 69 jako čtvrtník, 63 let (zápis stojí v oddílu Heršpice, číslo domu 69 je ale hodějický dům syna Jiřího 1806 i dcery Marianny † 1804 – identita velmi pravděpodobná).",
-        "Děti s Kateřinou v Hodějicích: Terezie (17. 9. 1770 ?), dvojčata Matouš a Marina (4. 9. 1771 ?), František (20. 3. 1773 ?, č. 26), Josef (14. 7. 1777 ?, č. 26), Marianna (1779 ?), Kateřina (1782), Pavel (1788), Vavřinec (1790), Vincenc (1792), Rosina (1793), Magdalena (~1803 † 1806), Jan (~1805 † 1806) a Jiří (*~1785, křest nenalezen).",
+        "Ovdověl 12. 9. 1792; podruhé oddán 7. 10. 1792 v Hodějicích (č. 69) jako vdovec, uveden 40 let (ROZPOR: podle křtu 1744 mu bylo 48), s Kristinou, dcerou Jakuba Fürowského (?), 24 let, svobodnou; svědci Andreas Weinert (?) a Andreas Holoušek (?).",
+        "Děti s Kateřinou v Hodějicích: Terezie (17. 9. 1770 ?), dvojčata Matouš a Marina (4. 9. 1771 ?), František (20. 3. 1773 ?, č. 26), Josef (14. 7. 1777 ?, č. 26), Marianna (1779 ?), Kateřina (1782), Jiří (*~1785, křest nenalezen), Pavel (1788), Vavřinec (1790), Vincenc (1792). Z 2. manželství s Kristinou: Rosina (1793), Marianna (~1797 ?), Magdalena (~1803 † 1806), Jan (~1805 † 1806).",
         "Otec Jiřího Hrabovského (sňatek 1806).",
         "Syn Pavel *6. 6. 1788 v Hodějicích č. 50 („Paul Hrabowsky, Viertler – Katharina“; N 13122, str. 74). Index narozených u Hodějic je neúplný."
       ],
@@ -6559,13 +6560,17 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959",
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, oddíl O, snímek 332 – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov u Brna, Z, sign. 13149, str. 265, snímek 256 – https://www.mza.cz/actapublica/matrika/detail/1964",
-        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, fara Slavkov, Z (sign. 13148), str. 210, snímek 162; index Z 13161 sn. 52 – https://www.mza.cz/actapublica",
+        "MZA Brno, fara Slavkov, O (sign. 13136), str. 89, snímek 77; index O 13160 sn. 44 – https://www.mza.cz/actapublica"
       ],
       scans: [
         {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"},
         {"f":"img/1769_O_13121_sn332L_Hrabovsky_Pavel_syn_Kaspara_x_Katerina_Paseta_Hodejice_10-9-1769_plne_rozl.jpg","t":"Sňatek Pavla Hrabovského a Kateřiny Pasetové, Hodějice 10. 9. 1769"},
         {"f":"img/1806_Z_13149_sn256R_str265_oddil_Herspice_c69_Hrabovsky_Pavel_ctvrtnik_63let_umrti_9-6-1806_plne_rozl.jpg","t":"Úmrtí Pavla Hrabovského, 9. 6. 1806"},
-        {"f":"img/1744_N_13121_sn41L_krest_Pavel_Hrabovsky_otec_Kaspar_24-3-1744_plne_rozl.jpg","t":"Křest Pavla Hrabovského, Hodějice 24. (III ?) 1744"}
+        {"f":"img/1744_N_13121_sn41L_krest_Pavel_Hrabovsky_otec_Kaspar_24-3-1744_plne_rozl.jpg","t":"Křest Pavla Hrabovského, Hodějice 24. (III ?) 1744"},
+        {"f":"img/1792_Z_Hrabovska_Katerina_Hodejice.jpg","t":"Úmrtí Kateřiny Hrabovské, Hodějice 12. 9. 1792"},
+        {"f":"img/1792_O_Hrabovsky_Pavel_Kristina_Hodejice.jpg","t":"Druhý sňatek Pavla Hrabovského s Kristinou, Hodějice 7. 10. 1792"}
       ]
     },
     {
@@ -6776,19 +6781,24 @@ window.RODOKMEN = {
       maiden: "Pasetová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1748)","year":1748,"approx":true},
+      b: {"date":"neznámé (odhad ~1752)","year":1752,"approx":true},
+      d: {"date":"12. 9. 1792","year":1792,"place":"Hodějice č. p. 69"},
       father: "jan_ps",
       spouse: "pavel_hb",
       marriage: "10. 9. 1769, Hodějice – s Pavlem Hrabovským",
       notes: [
-        "Dcera Jana Pasety z Hodějic; v křtu syna 1792 „Katharina Pasetin“ (dřívější čtení „Fischin“ bylo chybné). Matka Jiřího Hrabovského (kandidát – křest nenalezen).",
-        "Úmrtí nenalezeno – kandidátky z indexu (Heršpice 1813 a 1815) jsou jiné ženy (manželka Josefa Hrabovského, 52 let; dítě)."
+        "Dcera Jana Pasety z Hodějic; oddána 10. 9. 1769 s Pavlem Hrabovským; v křtu syna 1792 „Katharina Pasetin“ (dřívější čtení „Fischin“ bylo chybné).",
+        "Zemřela 12. 9. 1792 v Hodějicích č. 69 jako „Eheweib des Paul Hrabowsky, 1/4tlers“, 40 let.",
+        "Matka Jiřího Hrabovského (*~1785; křest nenalezen) – Pavlova druhá žena Kristina byla při sňatku 1792 svobodná, matkou Jiřího tedy být nemůže.",
+        "Křest nenalezen (fara Slavkov 1742 – III 1756 negativní)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, oddíl O, snímek 332 – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, oddíl O, snímek 332 – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, fara Slavkov, Z (sign. 13148), str. 210, snímek 162; index Z 13161 sn. 52 – https://www.mza.cz/actapublica"
       ],
       scans: [
-        {"f":"img/1769_O_13121_sn332L_Hrabovsky_Pavel_syn_Kaspara_x_Katerina_Paseta_Hodejice_10-9-1769_plne_rozl.jpg","t":"Sňatek Pavla Hrabovského a Kateřiny Pasetové, Hodějice 10. 9. 1769"}
+        {"f":"img/1769_O_13121_sn332L_Hrabovsky_Pavel_syn_Kaspara_x_Katerina_Paseta_Hodejice_10-9-1769_plne_rozl.jpg","t":"Sňatek Pavla Hrabovského a Kateřiny Pasetové, Hodějice 10. 9. 1769"},
+        {"f":"img/1792_Z_Hrabovska_Katerina_Hodejice.jpg","t":"Úmrtí Kateřiny Hrabovské, Hodějice 12. 9. 1792"}
       ]
     },
     {
