@@ -2791,13 +2791,15 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107",
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n",
         "SOA Plzeň, fara Osek, O 1848–1874 (Osek 16), str. 9, snímek 11 – https://www.portafontium.eu/iipimage/30066682/osek-16_0110-o",
-        "SOA Plzeň, fara Osek, Z (Osek 17), pag. 39, snímek 40 – https://www.portafontium.eu/iipimage/30066683/osek-17_0400-z"
+        "SOA Plzeň, fara Osek, Z (Osek 17), pag. 39, snímek 40 – https://www.portafontium.eu/iipimage/30066683/osek-17_0400-z",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 07 (N 1823–1831), oddíl Drozdov, fol. 141, snímek 142 – https://ebadatelna.soapraha.cz/d/4550/142"
       ],
       scans: [
         {"f":"img/1821_snatek_jan_laukota_magdalena_landtyngr_drozdov_cerhovice16_sn74_a.jpg","t":"Sňatek Jana Laukoty a Magdaleny Landtyngrové, Drozdov 6. 11. 1821"},
         {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"},
         {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"},
-        {"f":"img/1849_O_Laukota_Jan_Aubrechtova_Osek.jpg","t":"Druhý sňatek Jana Laukoty (vdovce, syna † Prokopa) s Magdalenou Aubrechtovou, Osek 1. 5. 1849"}
+        {"f":"img/1849_O_Laukota_Jan_Aubrechtova_Osek.jpg","t":"Druhý sňatek Jana Laukoty (vdovce, syna † Prokopa) s Magdalenou Aubrechtovou, Osek 1. 5. 1849"},
+        {"f":"img/1827_N_Laukota_Vaclav_matka_Landsingerova.jpg","t":"Křest syna Václava, Drozdov 1827"}
       ]
     },
     {
@@ -2806,18 +2808,18 @@ window.RODOKMEN = {
       maiden: "Landsingerová (Landtyngrová)",
       line: "lancik",
       cert: "M",
-      b: {"date":"asi 1797","year":1797,"approx":true,"place":"Drozdov (fara Cerhovice)"},
+      b: {"date":"2. 4. 1788","year":1788,"place":"Drozdov č. p. 31 (fara Cerhovice)"},
       d: {"date":"16. 1. 1849","year":1849,"place":"Osek č. p. 10"},
-      father: "josef_ld",
+      father: "vaclav_ls",
+      mother: "magdalena_zv",
       spouse: "jan_la",
       marriage: "6. 11. 1821, Drozdov – s Janem Laukotou",
       notes: [
-        "Dcera Josefa Landsingera (Landtyngra), mistra kovářského v Drozdově (sňatek 1821 i křest dcery 1822); oddána 6. 11. 1821 (24 let). ROZPOR o matce: křest dcery 1822 uvádí „† Magdalena roz. Zvonařová z Drozdova“, ta je ale podle sňatku 1796 matkou Josefa (tedy babičkou); Josefovou manželkou byla od 1796 Anna Mottlová. Buď zápis 1822 zaměnil matku za babičku, nebo je Magdalena dcerou Václava Landsingera a Zvonařové (Josefova sestra – index uvádí „Mařenu“, dceru Václava). Nerozhodnuto; křest Magdaleny v Drozdově 1793–1805 nenalezen.",
-        "Zemřela 16. 1. 1849 v Oseku č. 10 (pohřeb 18. 1.) jako „žena Jana Laukoty, obecního sluhy, dcera Wáclawa (?) a … (?) z Drozdowa“, uvedeno 56 let, na zapálení střev; v rejstříku Osek 17 chybí. Jan se 1. 5. 1849 oženil podruhé jako vdovec.",
-        "ROZPOR: úmrtní zápis 1849 jmenuje otce Václava (?) – to podporuje kandidátku A (Marie Magdalena *1788, dcera Václava Landsingera a Zvonařové) proti oddacímu zápisu 1821 („dcera Josefa“, 24 let). Jméno matky v zápisu 1849 čteno nejistě; věk 56 (*~1793) nesedí ani na jednu variantu přesně. Rodiče zatím ponechány podle oddacího zápisu.",
-        "Porodní bábou v Oseku byla 18. 8. 1822 „Magdal. Laukotowa“ – jiná Magdalena (tato byla tehdy v Drozdově).",
-        "KANDIDÁT (varianta A, silnější): Marie Magdalena Landsingerová *2. 4. 1788 v Drozdově č. 31, dcera kováře Václava Landsingera a Marie Magdaleny Zvonařové († 1796) – sedí matka z křtu 1822, ne však otec „Josef“ a věk 24 ze sňatku 1821 (bylo by jí 33). Varianta B: dcera Josefa – pak by matkou byla Anna Mottlová, ale Magdalena mezi jejich dětmi 1797–1805 není.",
-        "Oddací zápis 1821 v plném rozlišení: „dcera Jozefa Landtyngera, kowáře w Drozdowě“, 24 let – jednoznačné. Josefova dcera Marie Magdalena (pokřtěná v dubnu 1808) ale zemřela 22. 3. 1809 jako roční (Cerhovice 18, sn. 51) – odpadá. Zbývá Marie Magdalena, dcera Václava a Zvonařové (pokřtěná 1788, v r. 1821 by jí bylo 33), nebo jiná, dosud nenalezená Magdalena. Rozpor trvá."
+        "Pokřtěna 2. 4. 1788 v Drozdově č. 31 jako Marie Magdalena, dcera kováře Václava Landsingera a Marie Magdaleny roz. Zvonařové (Cerhovice 12, fol. 77).",
+        "Oddána 6. 11. 1821 v Drozdově s Janem Laukotou; zápis ji uvádí jako „dceru Jozefa Landtyngera, kowáře w Drozdowě“, 24 let – ROZPOR rozhodnut: jde o jejího bratra Josefa (tehdy kováře na č. 34) a věk je podhodnocený (bylo jí 33). Rodiče Václava a Zvonařovou shodně uvádějí křest dcery Anny 1822 (matka „Magdalena roz. Zvonařová“), křest syna Václava 1827 („dcera Wáclawa Landsingera, mistra kowářského, a matky Magdaleny rozený Zwonařowý z Drozdowa z N° 34“) i úmrtní zápis 1849.",
+        "Děti v Drozdově: Anna (*21. 9. 1822, č. 35) a Václav (*10. 4. 1827, č. 35); rodina přešla do Oseka mezi 1827 a 1832.",
+        "Zemřela 16. 1. 1849 v Oseku č. 10 (pohřeb 18. 1.) jako „žena Jana Laukoty, obecního sluhy, dcera Wáclawa a … Zvonařové (?) z Drozdowa“, uvedeno 56 let (ve skutečnosti 60), na zapálení střev; v rejstříku Osek 17 chybí. Jan se 1. 5. 1849 oženil podruhé jako vdovec.",
+        "Porodní bábou v Oseku byla 18. 8. 1822 „Magdal. Laukotowa“ – jiná Magdalena (tato byla tehdy v Drozdově)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
@@ -2827,12 +2829,14 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, fol. 77, snímek 28 – https://ebadatelna.soapraha.cz/d/4555/28",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 18 (Z 1800–1811), oddíl Drozdov, snímek 51 – https://ebadatelna.soapraha.cz/d/4561/51",
-        "SOA Plzeň, fara Osek, Z (Osek 17), pag. 7, snímek 9 – https://www.portafontium.eu/iipimage/30066683/osek-17_0090-z"
+        "SOA Plzeň, fara Osek, Z (Osek 17), pag. 7, snímek 9 – https://www.portafontium.eu/iipimage/30066683/osek-17_0090-z",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 07 (N 1823–1831), oddíl Drozdov, fol. 141, snímek 142 – https://ebadatelna.soapraha.cz/d/4550/142"
       ],
       scans: [
         {"f":"img/1821_snatek_jan_laukota_magdalena_landtyngr_drozdov_cerhovice16_sn74_b.jpg","t":"Sňatek Laukota × Landtyngrová 1821 – nevěsta a svědci"},
         {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"},
-        {"f":"img/1849_Z_Laukotova_Magdalena_Osek.jpg","t":"Úmrtí Magdaleny Laukotové z Drozdova, Osek 16. 1. 1849"}
+        {"f":"img/1849_Z_Laukotova_Magdalena_Osek.jpg","t":"Úmrtí Magdaleny Laukotové z Drozdova, Osek 16. 1. 1849"},
+        {"f":"img/1827_N_Laukota_Vaclav_matka_Landsingerova.jpg","t":"Křest syna Václava 1827 – matka „Magdalena, dcera Václava Landsingera a Magdaleny roz. Zvonařové“"}
       ]
     },
     {
@@ -7097,6 +7101,24 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1710_O_Hrabovsky_Kaspar_Novakova_Magdalena.jpg","t":"První sňatek Kašpara Hrabovského, syna † Pavla z Heršpic, s Magdalenou Novákovou, Slavkov 19. 8. 1710"}
+      ]
+    },
+    {
+      id: "vaclav1827la",
+      name: "Václav Laukota",
+      line: "loukota",
+      cert: "M",
+      b: {"date":"10. 4. 1827","year":1827,"place":"Drozdov č. p. 35 (fara Cerhovice)"},
+      father: "jan_la",
+      mother: "magdalena_la",
+      notes: [
+        "Narozen 10. 4., pokřtěn 11. 4. 1827 v Drozdově č. 35: otec Jan Laukota, obecní pastýř v Drozdově, syn † Prokopa Laukoty, pastýře v Oseku, a Anny roz. Holubové z Oseka; matka Magdalena, dcera Václava Landsingera, kováře v Drozdově, a Magdaleny roz. Zvonařové (č. 34). Bratr Anny Laukotové (*1822)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 07 (N 1823–1831), oddíl Drozdov, fol. 141, snímek 142 – https://ebadatelna.soapraha.cz/d/4550/142"
+      ],
+      scans: [
+        {"f":"img/1827_N_Laukota_Vaclav_matka_Landsingerova.jpg","t":"Křest syna Václava 1827 – matka „Magdalena, dcera Václava Landsingera a Magdaleny roz. Zvonařové“"}
       ]
     }
   ]
