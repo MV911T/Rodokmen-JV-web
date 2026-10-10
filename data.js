@@ -2778,7 +2778,8 @@ window.RODOKMEN = {
         "Pokřtěn 15. (?) 10. 1798 v Oseku č. 10: otec Prokop Laukota, pastýř („Hirt“), matka Anna Holubová; kmotři Jan Aubrecht a Jan Forejt, sedláci, a Anna Trgjková, selka. Do Drozdova (fara Cerhovice) odešel před 1821, po 1822 se vrátil do Oseka č. 10.",
         "Oddán 6. 11. 1821 v Drozdově (fara Cerhovice) jako zedník (?) v Drozdově, 24 let, svobodný, s Magdalenou, dcerou Josefa Landtyngra, kováře v Drozdově (24 let). Syn † Prokopa Laukoty a Anny roz. Holubové (křest dcery 1822; dřívější čtení „Žolibová“ a „Mýto“ byla chybná).",
         "Otec Anny Forejtové (*1822); dal souhlas k jejímu sňatku 1846.",
-        "POZOR na záměnu: v Oseku č. 17 žil současně jiný pár Matěj Laukota × Magdalena roz. Wernerová (?); jejich syn Jan (*~1804) se 1826 oženil s Barborou Loserovou (?) z Oseka č. 81."
+        "POZOR na záměnu: v Oseku č. 17 žil současně jiný pár Matěj Laukota × Magdalena roz. Wernerová (?); jejich syn Jan (*~1804) se 1826 oženil s Barborou Loserovou (?) z Oseka č. 81.",
+        "KANDIDÁT úmrtí: Jan Laukota, obecní pastýř, † 14. 3. 1854 Osek č. 13, 55 let – ale „muž Magdaleny roz. Aubrechtové“ (ta † 8. 3. 1881 Osek 14, 73 let); šlo by o 2. manželství po smrti Landsingerové (1822–1847?). Neověřeno (v Oseku žil i Jan *~1804 × Barbora Losová 1826). SOA Plzeň, Osek 17 sn. 40; Osek 19 sn. 78."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
