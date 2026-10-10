@@ -6359,7 +6359,8 @@ window.RODOKMEN = {
         "Otec mlynáře Jana Vlasáka (křest vnuka Františka 1838); manželka Marie (rodné příjmení nečitelné).",
         "V r. 1833 „Häusler aus Hudlitz (?)“, v r. 1838 nádeník ve Zbečně č. 8.",
         "V r. 1811 „Inwohner von Hudlitz No. 19“ – dcera Anna (*13. 5. 1811, Zbečno č. 20). Pochází tedy z Hudlic (vlastní fara).",
-        "Nejspíš pokřtěn 21. 10. 1759 v Hudlicích (fara Beroun): „Jan z otce Františka Wlasáka a matky Anny, poddaných křivoklátských“ (kmotr Jan …, šafář; svědci Josef Leber a Veronika). Sourozenci Kateřina (1764), Anna (1769). Druhý kandidát Jan Ondřej (*1760, rodina Františka × Kateřiny z č. 36) odpadá – jeho otec zemřel až 26. 3. 1803 (78 let), kdežto otec ženicha byl v r. 1795 už mrtvý. Třetí František (× Dorota) syna Jana neměl. Jistota K+ (úmrtí Františka × Anny nenalezeno)."
+        "Nejspíš pokřtěn 21. 10. 1759 v Hudlicích (fara Beroun): „Jan z otce Františka Wlasáka a matky Anny, poddaných křivoklátských“ (kmotr Jan …, šafář; svědci Josef Leber a Veronika). Sourozenci Kateřina (1764), Anna (1769). Druhý kandidát Jan Ondřej (*1760, rodina Františka × Kateřiny z č. 36) odpadá – jeho otec zemřel až 26. 3. 1803 (78 let), kdežto otec ženicha byl v r. 1795 už mrtvý. Třetí František (× Dorota) syna Jana neměl. Jistota K+ (úmrtí Františka × Anny nenalezeno).",
+        "Posíleno (Praha 14): druhý hudlický František Vlasák (č. 36, × Kateřina, † 1803) byl v r. 1798 živý „soused hudlický“ (sňatek dcery Anny 23. 10. 1798) – nemůže být „† František“ ze sňatku Jana 1795. Úmrtí Františka × Anny v Hudlicích 1785 – IV 1803 ani 2. sňatek vdovy Anny 1785–1800 nenalezeny."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
