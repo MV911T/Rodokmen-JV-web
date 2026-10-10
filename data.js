@@ -6778,18 +6778,21 @@ window.RODOKMEN = {
       notes: [
         "Z Heršpic. Oddán 9. 9. 1739 (fara Slavkov) jako vdovec s pannou Alžbětou, dcerou † Matěje Matulíka (?) z Hodějic: „Viduus Casparus Hrabowsky cum Virgine Elisabetha filia def. Mathiae Matulik, ille Herspicio, illa Hodejicio“; svědci Martin Červinka a Antonín Hrabovský (příbuzný?).",
         "Otec Pavla Hrabovského (*1744, sňatek 1769); další dítě 1746.",
-        "První sňatek nenalezen – O Slavkov 1726–1744 bez něj (dříve, nebo ve faře nevěsty).",
-        "KANDIDÁT původu: v Heršpicích žil Jan Hrabovský, jehož děti Rosina (× Josef Kamenický) a Tomáš (× Rosina Zabranová (?)) se oddaly 4. 2. 1727 (O 13120, sn. 212) – Kašpar a svědek Antonín mohou být jeho synové; neověřeno."
+        "První manželka Anna zemřela 18. 6. 1739 v Heršpicích („Anna Caspari Hrabowski uxor Hersp.“), uvedeno 80 let; Kašpar se znovu oženil po necelých 3 měsících. Jejich sňatek nenalezen (O Slavkov 1723–1744 bez něj – nejspíš před 1707).",
+        "KANDIDÁT původu: v Heršpicích žil Jan Hrabovský, jehož děti Rosina (× Josef Kamenický) a Tomáš (× Rosina Zabranová (?)) se oddaly 4. 2. 1727 (O 13120, sn. 212) – Kašpar a svědek Antonín mohou být jeho synové; Janova manželka Kateřina zemřela 28. 3. 1738 v Heršpicích (60 let). Neověřeno.",
+        "ROZPOR / otázka: při věku 1. ženy 80 let by i Kašpar byl v r. 1744 (narození syna Pavla) starý – věk v úmrtním zápisu může být nadsazený, jinak by šlo o dva Kašpary (kontrola: úmrtí Kašpara po 1739)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, oddíl O, snímek 332 – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 234 vlevo (září 1739) – https://www.mza.cz/actapublica"
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 234 vlevo (září 1739) – https://www.mza.cz/actapublica",
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), Z, str. 406, snímek 360 vpravo (červen 1739) – https://www.mza.cz/actapublica"
       ],
       scans: [
         {"f":"img/1769_O_13121_sn332L_Hrabovsky_Pavel_syn_Kaspara_x_Katerina_Paseta_Hodejice_10-9-1769_plne_rozl.jpg","t":"Sňatek Pavla Hrabovského a Kateřiny Pasetové, Hodějice 10. 9. 1769"},
         {"f":"img/1744_N_13121_sn41L_krest_Pavel_Hrabovsky_otec_Kaspar_24-3-1744_plne_rozl.jpg","t":"Křest Pavla Hrabovského, Hodějice 24. (III ?) 1744"},
-        {"f":"img/1739_O_Hrabovsky_Kaspar_Matulikova_Alzbeta.jpg","t":"Sňatek Kašpara Hrabovského a Alžběty Matulíkové, Slavkov 9. 9. 1739"}
+        {"f":"img/1739_O_Hrabovsky_Kaspar_Matulikova_Alzbeta.jpg","t":"Sňatek Kašpara Hrabovského a Alžběty Matulíkové, Slavkov 9. 9. 1739"},
+        {"f":"img/1739_Z_Hrabovska_Anna_Herspice.jpg","t":"Úmrtí Anny, 1. manželky Kašpara Hrabovského, Heršpice 18. 6. 1739"}
       ]
     },
     {
@@ -6838,14 +6841,14 @@ window.RODOKMEN = {
     {
       id: "alzbeta_hb",
       name: "Alžběta Hrabovská",
-      maiden: "Matulíková (?)",
+      maiden: "Matulíková",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true},
       father: "matej_mt",
       spouse: "kaspar_hb",
       notes: [
-        "Z Hodějic, dcera † Matěje Matulíka (?) (čtení příjmení nejisté); oddána 9. 9. 1739 jako panna s vdovcem Kašparem Hrabovským z Heršpic. Matka Pavla Hrabovského (*1744)."
+        "Z Hodějic, dcera Matěje Matulíka († 6. 3. 1738, 70 let); oddána 9. 9. 1739 jako panna s vdovcem Kašparem Hrabovským z Heršpic. Matka Pavla Hrabovského (*1744)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/1948",
@@ -7015,18 +7018,21 @@ window.RODOKMEN = {
     },
     {
       id: "matej_mt",
-      name: "Matěj Matulík (?)",
+      name: "Matěj Matulík",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      b: {"date":"neznámé (odhad ~1668)","year":1668,"approx":true},
+      d: {"date":"6. 3. 1738","year":1738,"place":"Hodějice"},
       notes: [
-        "Z Hodějic; v září 1739 už nežil (sňatek dcery Alžběty s Kašparem Hrabovským). Čtení příjmení nejisté."
+        "Zemřel 6. 3. 1738 v Hodějicích, 70 let („Mathias Matulik Hodiegicii provisus“) – potvrzuje „filia defuncti Mathiae Matulik“ ve sňatku dcery Alžběty s Kašparem Hrabovským 1739."
       ],
       sources: [
-        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 234 vlevo (září 1739) – https://www.mza.cz/actapublica"
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 234 vlevo (září 1739) – https://www.mza.cz/actapublica",
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), Z, snímek 355 vpravo (březen 1738) – https://www.mza.cz/actapublica"
       ],
       scans: [
-        {"f":"img/1739_O_Hrabovsky_Kaspar_Matulikova_Alzbeta.jpg","t":"Sňatek Kašpara Hrabovského a Alžběty Matulíkové, Slavkov 9. 9. 1739"}
+        {"f":"img/1739_O_Hrabovsky_Kaspar_Matulikova_Alzbeta.jpg","t":"Sňatek Kašpara Hrabovského a Alžběty Matulíkové, Slavkov 9. 9. 1739"},
+        {"f":"img/1738_Z_Matulik_Matej_Hodejice.jpg","t":"Úmrtí Matěje Matulíka, Hodějice 6. 3. 1738"}
       ]
     }
   ]
