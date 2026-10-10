@@ -2130,7 +2130,8 @@ window.RODOKMEN = {
         "ROZPOR ve věku: sňatek 1844 „41 let“ (*~1803), úmrtí 1862 „67 let“ (*~1795).",
         "Děti s 1. manželkou: Jan (*~1830, † 25. 8. 1839, 9 let), Kateřina (*27. 1. 1834), Štěpán (*26. 12. 1836); podle zápisů ze Souše i František (horník v Souši 1874). V Těchobuzi doloženi od 1834.",
         "Zemřel 23. 1. 1862 v Těchobuzi č. 13; „byl 17 let ženatý“ (s druhou manželkou).",
-        "Křest ani sňatek nejsou ve fondu fary Pacov (index N 1783–1804 a O 1765–1833, písmeno W – bez Votavy). Místo původu ze sňatku 1844 „z Letův / Lstův (?)“ nejisté; matka Terezie „dcera Martina Marody, podruha z Lom… (?) č. 23“."
+        "Křest ani sňatek nejsou ve fondu fary Pacov (index N 1783–1804 a O 1765–1833, písmeno W – bez Votavy). Místo původu ze sňatku 1844 „z Letův / Lstův (?)“ nejisté; matka Terezie „dcera Martina Marody, podruha z Lom… (?) č. 23“.",
+        "Křest ani sňatek nejsou ani ve faře Zhoř 1784–1816 (rejstřík 8839, písmeno W); v pozemkové knize domkářů Těchobuz (1805–1870) Votava není – v č. 24 (od 1816 Babičtí) a č. 36 jen bydlel (podruh / nájemník). V Těchobuzi žil 1797 jiný Votava – Jakub, domkář v č. 23. KANDIDÁT původu matky: obec Lomná (?) (fara Zhoř)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
