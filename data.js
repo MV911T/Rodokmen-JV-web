@@ -2791,7 +2791,7 @@ window.RODOKMEN = {
       notes: [
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Letů (?)“ – zemřel před 1844.",
         "SLABÝ KANDIDÁT (spíš jiná rodina): úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42). „Getřichowice No 22“ z křtu vnučky 1834 je ale podle místopisu nejspíš Jetřichovice u Sedlce-Prčic (okr. Příbram, matriky SOA Praha) – tam hledat.",
-        "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) 1784–1807 Votavové vůbec nejsou – sňatek Martina × Terezie ani křest Jana tam nejsou; buď přišli později, nebo jde o jiné „Getřichowice“. Další stopa: rodiště matky Terezie (Mladá Vožice / Krchova Lomná)."
+        "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
