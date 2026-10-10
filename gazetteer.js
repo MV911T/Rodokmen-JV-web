@@ -68,4 +68,11 @@ window.RODOKMEN_GAZ = [
   { n: 'Nová Huť (u Nižboru)', a: ['Nová Huť'], lat: 50.002, lon: 13.987 },
   { n: 'Špitálka (Slavkov u Brna)', a: ['Špitálka'], lat: 49.153, lon: 16.876 },
   { n: 'Málkov', a: ['Málkov'], lat: 49.879, lon: 14.037 },
+  { n: 'Jetřichovec', a: ['Jetřichovec'], lat: 49.476, lon: 14.998 },
+  { n: 'Strašice', a: ['Strašice'], lat: 49.736, lon: 13.757 },
+  { n: 'Vodochody (Roudnicko)', a: ['Vodochody'], lat: 50.480, lon: 14.300 },
+  { n: 'Žitovlice', a: ['Žitovlice'], lat: 50.164, lon: 15.100 },
+  { n: 'Pojedí', a: ['Pojedí'], lat: 50.360, lon: 15.210 },
+  { n: 'Vohraženice', a: ['Vohraženice'], lat: 50.470, lon: 15.170 },
+  { n: 'Březín (Manětínsko)', a: ['Březín'], lat: 50.003, lon: 13.258 },
 ];
