@@ -3067,14 +3067,15 @@ window.RODOKMEN = {
       marriage: "2. sňatek 24. 11. 1808, Salačova Lhota – s Ludmilou „Lhotkin“; 1. sňatek 1805, Mezilesí č. 5 – s Johannou (?)",
       notes: [
         "Otec Marie Michalové.",
-        "Šenkýř v Mezilesí č. 2 (křest syna Františka Serafína 19. 8. 1813); manželka Ludmila, dcera Pavla Zelty/Peldy (?), mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?) – rodné příjmení Ludmily nejisté (srov. „Lhotková (?)“ 1836, „Šimonová (?)“ 1835).",
+        "Šenkýř v Mezilesí č. 2 (křest syna Františka Serafína 19. 8. 1813); manželka Ludmila, dcera Pavla Lhotka, mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?).",
         "Oddán poprvé 1805 v Mezilesí (20 let, šenkýř) s Johannou (?), podruhé jako vdovec 24. 11. 1808 v Salačově Lhotě č. 24 (28 let) s Ludmilou „Lhotkin“ (23 let) – Lukavec O 5378, sn. 101 a 118. ROZPOR ve věku (1805: 20, 1808: 28). Manželské děti s Ludmilou dle indexu: Johann a Václav 1819, Marie 1825, Kristýna 1829, Vilém 1831."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (id 5371), fol. 3, snímek 3 – https://digi.ceskearchivy.cz/5371",
-        "SOA Třeboň, fara Lukavec, O 1786–1842 (id 5378), sn. 101 (1805) a 118 (1808) – https://digi.ceskearchivy.cz/5378"
+        "SOA Třeboň, fara Lukavec, O 1786–1842 (id 5378), sn. 101 (1805) a 118 (1808) – https://digi.ceskearchivy.cz/5378",
+        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371"
       ],
       scans: [
         {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835 (dítě: Marie Michalová)"}
@@ -3083,20 +3084,25 @@ window.RODOKMEN = {
     {
       id: "ludmila_lh",
       name: "Ludmila Karafiátová",
-      maiden: "Lhotková / Šimonová (?)",
+      maiden: "Lhotková",
       line: "lhotka",
       cert: "M",
       b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      father: "pavel_lh",
+      mother: "terezie_lh",
       spouse: "vaclav_ka",
       notes: [
-        "Matka Marie Michalové; čtení nejisté, „z mlýna …“."
+        "Dcera Pavla Lhotka (Lhotky), mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?) (křty dětí 1813 a 19. 4. 1819, Mezilesí č. 2 – dřívější čtení „Zelta / Pelda“ = Lhotek). Oddána 24. 11. 1808 v Salačově Lhotě č. 24 (23 let) s vdovcem Václavem Karafiátem, šenkýřem z Mezilesí. Matka Marie Michalové.",
+        "ROZPOR: sňatek dcery Marie 1835 uvádí matku jako „Šimonovou (?)“ – pozdější zápis, platí křty a vlastní sňatek („Lhotkin“)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
-        "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379"
+        "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379",
+        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371"
       ],
       scans: [
-        {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835 (dítě: Marie Michalová)"}
+        {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835 (dítě: Marie Michalová)"},
+        {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"}
       ]
     },
     {
@@ -7915,6 +7921,41 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
+      ]
+    },
+    {
+      id: "pavel_lh",
+      name: "Pavel Lhotka (Lhotek)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      spouse: "terezie_lh",
+      notes: [
+        "Mlynář v „Holzburger“ mlýně (?) – obec nejasná (snad u Salačovy Lhoty, fara Lukavec); otec Ludmily Karafiátové."
+      ],
+      sources: [
+        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371"
+      ],
+      scans: [
+        {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"}
+      ]
+    },
+    {
+      id: "terezie_lh",
+      name: "Terezie Lhotková",
+      maiden: "Hamannová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      spouse: "pavel_lh",
+      notes: [
+        "Manželka mlynáře Pavla Lhotka, rovněž z „Holzburger“ mlýna (?); matka Ludmily Karafiátové."
+      ],
+      sources: [
+        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371"
+      ],
+      scans: [
+        {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"}
       ]
     }
   ]
