@@ -7212,11 +7212,12 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
       notes: [
-        "Z Drozdova, poddaný točnický; manželka Dorota; dcera Marie Magdalena *1757 (dvojče s Kateřinou), syn Jan (*~1755). Zemřel před 23. 11. 1777 (sňatek dcery)."
+        "Z Drozdova, poddaný točnický; manželka Dorota. Děti: Jakub (*28. 4. 1752), Jan (*19. 6. ~1755), dvojčata Marie Magdalena a Kateřina (3./8. (?) 10. 1757). Zemřel před 23. 11. 1777 (sňatek dcery). Jeho sňatek ve faře Cerhovice 1727–1758 nenalezen (nejspíš ve faře nevěsty)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02, N pag. 326, snímek 167 – https://ebadatelna.soapraha.cz/d/4386/167",
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02, O pag. 120, snímek 291 – https://ebadatelna.soapraha.cz/d/4386/291"
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02, O pag. 120, snímek 291 – https://ebadatelna.soapraha.cz/d/4386/291",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02, N snímek 150 vlevo (křest Jakuba 28. 4. 1752) – https://ebadatelna.soapraha.cz/d/4386/150"
       ],
       scans: [
         {"f":"img/1757_N_Zvonarova_Magdalena_Drozdov.jpg","t":"Křest Marie Magdaleny Zvonařové, Drozdov 1757"}
