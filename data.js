@@ -4169,7 +4169,8 @@ window.RODOKMEN = {
       marriage: "20. 7. 1904, Heršpice – s Marií Julinkovou (Jelínkovou)",
       notes: [
         "Nemanželský syn Františky Hrazdílkové, dcery Martina Hrazdílka, domkaře v Heršpicích, a Cecilie roz. Kirchnerové. Rejstřík narozených: 1880 Heršpice str. 95.",
-        "Oddán 20. 7. 1904 v Heršpicích jako zedník, bydliště č. 152; svědci Jan Hrazdílek a Dominik (?) Střebek, domkáři v Heršpicích. Zemřel 4. 2. 1935 (54 let) v Heršpicích č. 147."
+        "Oddán 20. 7. 1904 v Heršpicích jako zedník, bydliště č. 152; svědci Jan Hrazdílek a Dominik (?) Střebek, domkáři v Heršpicích. Zemřel 4. 2. 1935 (54 let) v Heršpicích č. 147.",
+        "Otec: křestní kniha N Heršpice 1880 online není (jen rejstřík 13159) – okrajové přípisy jen doslovným výpisem z MÚ Slavkov; legitimace sňatkem matky nenastala (matka 1904 svobodná, Rajmund stále Hrazdílek)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -4294,11 +4295,13 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1850)","year":1850,"approx":true},
       d: {"date":"před 20. 7. 1904","year":1904,"approx":true},
       spouse: "mariana_bu",
-      occ: "podruh v Uhřicích",
+      occ: "kožešník (Kürschner), podruh v Uhřicích č. 64",
       marriage: "25. 7. 1875, Uhřice – s Marianou Buchlovskou (rejstřík)",
       notes: [
         "Otec Marie Hrazdílkové; syn † Františka Jelínka ze Ždánic. Sňatek 25. 7. 1875 podle rejstříku oddaných Dambořice/Uhřice (kniha O Uhřice před 1878 není online).",
-        "Ve Ždánicích 1817–1859 nepokřtěn (rejstřík J) – rodina přišla odjinud."
+        "Ve Ždánicích 1817–1859 nepokřtěn (rejstřík J) – rodina přišla odjinud.",
+        "Křty dětí v Uhřicích č. 64 (MZA, Dambořice, N Uhřice 5208, sn. 103 a 123): Josef 2./3. 3. 1876 (†), Ludvík 16./17. 8. 1880 († 26. 9. 1880), Mariana 1881. Jan „ehel. Sohn des Franz (1876) / † Georg (1880) Jelinek, Kürschner/Häusler in Zbanitz (?) Pfarre Steinitz (Ždánice), u. Franziska geb. Julinek (?)“ – ROZPOR ve jméně otce; otec zemřel mezi III 1876 a VIII 1880.",
+        "Otec nemanželského Rajmunda Hrazdílka (*1880) z křtu online nezjistitelný – N Heršpice 1857+ online není (jen index); Rajmund nebyl legitimován."
       ],
       sources: [
         "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
