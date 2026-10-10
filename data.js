@@ -2790,7 +2790,7 @@ window.RODOKMEN = {
       occ: "nádeník v Jetřichovicích č. 22",
       notes: [
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Letů (?)“ – zemřel před 1844.",
-        "KANDIDÁT úmrtí: 8. 8. 1828 v Jetřichovci č. 27 zemřel „Martin Wotawa, podruh“, 60 let (*~1768); 27. 6. 1833 tamtéž č. 42 „Terezie, vdova po Martinu (?) Wotawovi“, 60 let (*~1773). Jména sedí, čísla domů ne (1834: č. 22) – nedoloženo, že jde o rodiče Jana. Jan se v Jetřichovci nenarodil (index narození 1785–1842); Votavové tam jsou až od ~1816."
+        "SLABÝ KANDIDÁT (spíš jiná rodina): úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42). „Getřichowice No 22“ z křtu vnučky 1834 je ale podle místopisu nejspíš Jetřichovice u Sedlce-Prčic (okr. Příbram, matriky SOA Praha) – tam hledat."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -2807,7 +2807,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
       spouse: "martin_v",
       notes: [
-        "Matka Jana Votavy; „dcera Martina M…“ – Marody (1844) / Mrkvy (?) – čtení nejisté."
+        "Matka Jana Votavy; „dcera Martina Marody / Mrkvy (?), podruha z Lom-nice / Lomné (?) č. 23“ (křest vnučky 1834, sňatek syna 1844).",
+        "KANDIDÁT původu: Marodové / Maredové žili v Krchově Lomné (fara Mladá Vožice) – 7. 5. 1787 tam Martin Mareda, krejčí z Radvanova, × Anna Vondráková z Lomné č. 16; vazba na Terezii neověřena. Lomná sousedí s Jetřichovicemi (sňatek Jakuba Loudy z Jetřichovic č. 13 do Lomné 1788)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
