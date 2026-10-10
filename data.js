@@ -5990,8 +5990,7 @@ window.RODOKMEN = {
         "V únoru 1799 žil v Hodějicích č. 63 („Wenzel Hrazdirek, Hofschaffer (?)“) – 9. 2. 1799 tam zemřel jeho syn Vincenc, 5 týdnů (Z 13149, str. 226).",
         "Další děti s Magdalenou Roskopalovou v Hodějicích č. 63: Urban (20. 4. 1796), Vincenc (31. 12. 1798, † 9. 2. 1799), Antonín (10. 6. 1800), Apolonie (27. 1. 1803); kmotři Anton Majer s Mariannou (jako u Jana 1790) a Jiří Florián s Apolonií. Po 1803 v Hodějicích nedoložen.",
         "Zemřel 27. 1. 1816 (pohřben 29. 1.) ve Špitálce č. 19 jako „Wenzel Hrazdirek, Zeugmacher (?)“, 56 let. Ztotožnění: v témže domě se 1817 oženil jeho syn Urban (*1796, s poručníkem) a 1820 zemřela dcera Apolonie (*1803) „nach Wenzel Hrazdilek, Zeugmacher“. Syn Antonín († 26. 12. 1801, Hodějice č. 63, 1 rok).",
-        "ROZPOR: povolání v Hodějicích „Hofstädtner (?)“ × ve Špitálce „Zeugmacher (?)“; věk 56 sedí na kandidátní křest 1762.",
-        "KANDIDÁT starších generací: Pavel Hrazdírek (otec Martina?) měl s Kateřinou děti Josefa (23. 1. 1722), Apolonii (I 1724) a Františka (X 1725); starší Pavel Hrazdírek († VII 1707, ~60 let) × Alžběta (ta se 1711 znovu vdala). Martinův křest 1718–1724 nenalezen. (MZA, Slavkov 13120, N sn. 80/90/101, O sn. 177, Z sn. 281.)"
+        "ROZPOR: povolání v Hodějicích „Hofstädtner (?)“ × ve Špitálce „Zeugmacher (?)“; věk 56 sedí na kandidátní křest 1762."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
@@ -7440,21 +7439,25 @@ window.RODOKMEN = {
       name: "Martin Hrazdílek",
       line: "hrazdilek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1721)","year":1721,"approx":true},
+      b: {"date":"4. 10. 1727","year":1727,"place":"Hodějice"},
       d: {"date":"8. 4. 1791","year":1791,"place":"Hodějice č. p. 1"},
+      father: "pavel_hz",
+      mother: "katerina_hz",
       spouse: "apolonie_hz",
       marriage: "22. 9. 1754 (fara Slavkov) – s vdovou Apolonií Krostlíkovou",
       notes: [
-        "Oddán 22. 9. 1754 jako „Juvenis Martinus filius post defunctum Paulum Hrazdirek rusticum“ z Heršpic s vdovou Apolonií po † Jakubu Krostlíkovi z Hodějic; svědci Havel Schusta a Josef Hrazdílek, sedlák z Heršpic.",
-        "Sedlák, později domkář v Hodějicích; děti Anna (7. 6. 1755), Apolonie (20. 1. 1757), Václav (25. 9. 1762), Tomáš (22. 12. 1764). Zemřel 8. 4. 1791 v Hodějicích č. 1, 70 let.",
-        "Otec Pavel Hrazdírek – KANDIDÁT: Pavel × Kateřina (děti v Hodějicích 1722–1725); Martinův křest nenalezen."
+        "Pokřtěn 4. 10. 1727: „Paulus Hrazdilek, Catharina ex Hodegitz – Martinus“; kmotři Anton Marzulin a Anna ze Slavkova (titíž jako u bratra Josefa 1722).",
+        "Oddán 22. 9. 1754 jako „Juvenis Martinus filius post defunctum Paulum Hrazdirek rusticum“ z Hodějic s vdovou Apolonií po † Jakubu Krostlíkovi z Heršpic; svědci Havel Schusta a Josef Hrazdílek, sedlák z Heršpic.",
+        "Sedlák, později domkář v Hodějicích; děti Anna (7. 6. 1755), Apolonie (20. 1. 1757), Václav (25. 9. 1762), Tomáš (22. 12. 1764). Zemřel 8. 4. 1791 v Hodějicích č. 1, uvedeno 70 let (ve skutečnosti 63)."
       ],
       sources: [
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), O, snímek 295 vpravo (22. 9. 1754) – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), N, snímek 156 vpravo (25. 9. 1762) – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, fara Slavkov, Z (sign. 13148), snímek 160 vpravo (8. 4. 1791)"
+        "MZA Brno, fara Slavkov, Z (sign. 13148), snímek 160 vpravo (8. 4. 1791)",
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
+        {"f":"img/1727_N_Hrazdilek_Martin_Hodejice.jpg","t":"Křest Martina Hrazdílka, syna Pavla a Kateřiny, Hodějice 4. 10. 1727"},
         {"f":"img/1754_O_Hrazdilek_Martin_Apolonie.jpg","t":"Sňatek Martina Hrazdílka (syna † Pavla) s vdovou Apolonií Krostlíkovou, 22. 9. 1754"},
         {"f":"img/1762_N_Hrazdilek_Vaclav_Hodejice.jpg","t":"Křest Václava Hrazdílka, syna Martina a Apolonie, Hodějice 25. 9. 1762"}
       ]
@@ -7468,7 +7471,7 @@ window.RODOKMEN = {
       spouse: "martin_hz",
       marriage: "22. 9. 1754 – s Martinem Hrazdílkem (2. sňatek)",
       notes: [
-        "Vdova po † Jakubu Krostlíkovi z Hodějic; 22. 9. 1754 se vdala za Martina Hrazdílka z Heršpic. Matka Václava (*1762). Rodné příjmení neznámé."
+        "Vdova po † Jakubu Krostlíkovi z Heršpic; 22. 9. 1754 se vdala za Martina Hrazdílka z Hodějic. Matka Václava (*1762). Rodné příjmení neznámé."
       ],
       sources: [
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), O, snímek 295 vpravo (22. 9. 1754) – https://www.mza.cz/actapublica/matrika/detail/1948",
@@ -7545,6 +7548,45 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"}
+      ]
+    },
+    {
+      id: "pavel_hz",
+      name: "Pavel Hrazdírek",
+      line: "hrazdilek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1692)","year":1692,"approx":true},
+      d: {"date":"5. 5. 1747","year":1747,"place":"Hodějice"},
+      spouse: "katerina_hz",
+      notes: [
+        "Sedlák v Hodějicích; s Kateřinou děti Josef (23. 1. 1722), Apolonie (I 1724), František (X 1725), Martin (4. 10. 1727).",
+        "Zemřel 5. 5. 1747 v Hodějicích, 55 let (věk čten s jistotou D).",
+        "KANDIDÁT: syn Pavla Hrazdírka st. († VII 1707 Hodějice, ~60 let) × Alžběty (vdova se 1711 znovu vdala); sňatek s Kateřinou nenalezen."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, fara Slavkov, NOZ (sign. 13121), Z, snímek 355 vpravo (5. 5. 1747) – https://www.mza.cz/actapublica/matrika/detail/1948"
+      ],
+      scans: [
+        {"f":"img/1727_N_Hrazdilek_Martin_Hodejice.jpg","t":"Křest Martina Hrazdílka, syna Pavla a Kateřiny, Hodějice 4. 10. 1727"},
+        {"f":"img/1747_Z_Hrazdirek_Pavel_Hodejice.jpg","t":"Úmrtí Pavla Hrazdírka, Hodějice 5. 5. 1747"}
+      ]
+    },
+    {
+      id: "katerina_hz",
+      name: "Kateřina Hrazdírková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
+      spouse: "pavel_hz",
+      notes: [
+        "Manželka Pavla Hrazdírka z Hodějic; matka Martina (*1727). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946"
+      ],
+      scans: [
+        {"f":"img/1727_N_Hrazdilek_Martin_Hodejice.jpg","t":"Křest Martina Hrazdílka, syna Pavla a Kateřiny, Hodějice 4. 10. 1727"}
       ]
     }
   ]
