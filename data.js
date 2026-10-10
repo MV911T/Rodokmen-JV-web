@@ -6620,23 +6620,27 @@ window.RODOKMEN = {
       name: "František Semenec",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      b: {"date":"neznámé (odhad ~1766)","year":1766,"approx":true},
       d: {"date":"před 6. 11. 1827","year":1827,"approx":true},
       father: "jiri_se",
       mother: "veronika_se",
       spouse: "ludmila_hl",
       occ: "chalupník ve Zbečně č. 6",
+      marriage: "27. 10. 1793, Branov (fara Nezabudice) – s Ludmilou Hlavičkovou",
       notes: [
         "Sedlák ve Zbečně (č. 45; rodný dům č. 6), syn † Jiřího a Veroniky Semencových, sedláků ve Zbečně č. 6 (křest dcery Kateřiny 25. 11. 1817). Manželka Ludmila roz. Hlavičková; děti Martin (*1807), Kateřina (*1817). Zemřel před sňatkem syna Martina (1827).",
+        "Oddán 27. 10. 1793 v Branově č. 4 (fara Nezabudice) jako „Frantz Semenetz, Chalupner aus Zbečno“, 27 let, s Ludmilou, dcerou Václava Hlavičky, 22 let; svědci Josef Prokop (?) a Martin Grimas (?).",
         "Pozor: současně žil ve Zbečně druhý František Semenec (č. 6, syn Františka a Rozálie; manželka Kateřina † 28. 9. 1816; 2. sňatek 19. 11. 1816 s Barborou Hamannovou ?) – dřívější kandidátní ztotožnění zrušeno."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
+        "SOA Praha, ř.-k. fara Nezabudice, kniha Nezabudice 06 (9764, O 1785–1873), oddíl Branov, pag. 3, snímek 5 – https://ebadatelna.soapraha.cz/d/9764/5"
       ],
       scans: [
         {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest Marie Semencové, Zbečno 28. 6. 1838"},
-        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"}
+        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
+        {"f":"img/1793_O_Semenec_Frantisek_Hlavickova_Ludmila.jpg","t":"Sňatek Františka Semence a Ludmily Hlavičkové, Branov 27. 10. 1793"}
       ]
     },
     {
@@ -6726,18 +6730,25 @@ window.RODOKMEN = {
       maiden: "Hlavičková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      b: {"date":"11. 5. 1771","year":1771,"place":"Branov č. p. 4"},
       father: "vaclav_hl",
       mother: "barbora_hl0",
       spouse: "frantisek_sm",
+      marriage: "27. 10. 1793, Branov (fara Nezabudice) – s Františkem Semencem",
       notes: [
-        "Dcera Václava a Barbory Hlavičkových, sedláků (chalupníků) v Branově (?) / „Karnově“ (?) č. 4; manželka Františka Semence ze Zbečna. Děti Martin (*1807) a Kateřina (*25. 11. 1817) – v listopadu 1817 tedy žila. Sňatek ve Zbečně 1798–1816 není (asi ve faře nevěsty)."
+        "Narozena 11., pokřtěna 12. 5. 1771 v Branově č. 4 (fara Zbečno): rodiče Václav Hlavička a Barbora; kmotři Anna, manželka Františka Peltze z Branova, Barbora Jungmanová (?) z Nezabudic a Petr Dubský (?) z Branova.",
+        "Oddána 27. 10. 1793 v Branově (fara Nezabudice) s Františkem Semencem, chalupníkem ze Zbečna (22 let). Děti Martin (*1807), Kateřina (*25. 11. 1817) – v listopadu 1817 žila; starší děti 1794–1806 zatím nehledány.",
+        "Obec „Karnov / Krawno“ v zápisech dětí = Branov (okr. Rakovník)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 67, snímek 36 – https://ebadatelna.soapraha.cz/d/8855/36",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), pag. 463, snímek 237 – https://ebadatelna.soapraha.cz/d/8849/237",
+        "SOA Praha, ř.-k. fara Nezabudice, kniha Nezabudice 06 (9764, O 1785–1873), oddíl Branov, pag. 3, snímek 5 – https://ebadatelna.soapraha.cz/d/9764/5"
       ],
       scans: [
+        {"f":"img/1771_N_Hlavickova_Ludmila_Branov.jpg","t":"Křest Ludmily Hlavičkové, Branov č. 4, 12. 5. 1771"},
+        {"f":"img/1793_O_Semenec_Frantisek_Hlavickova_Ludmila.jpg","t":"Sňatek Františka Semence a Ludmily Hlavičkové, Branov 27. 10. 1793"},
         {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest syna Martina, Zbečno 1807"},
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"}
       ]
@@ -7487,7 +7498,7 @@ window.RODOKMEN = {
       name: "Jiří Semenec",
       line: "semenec",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      b: {"date":"neznámé (odhad ~1738)","year":1738,"approx":true},
       spouse: "veronika_se",
       notes: [
         "Sedlák ve Zbečně č. 6; zemřel před XI 1817 (křest vnučky Kateřiny). Manželka Veronika."
@@ -7504,7 +7515,7 @@ window.RODOKMEN = {
       name: "Veronika Semencová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1752)","year":1752,"approx":true},
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
       spouse: "jiri_se",
       notes: [
         "Manželka Jiřího Semence, sedláka ve Zbečně č. 6; rodné příjmení neznámé."
@@ -7524,13 +7535,15 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
       spouse: "barbora_hl0",
       notes: [
-        "Sedlák v Branově (?) č. 4 (1817); v r. 1807 uveden jako zemřelý chalupník z „Karnova“ (?) č. 4. Otec Ludmily Semencové."
+        "Sedlák (chalupník) v Branově č. 4 (okr. Rakovník; fara Zbečno, od 1785 Nezabudice); manželka Barbora; dcera Ludmila *11. 5. 1771. V r. 1807 uveden jako zemřelý. Sňatek nenalezen (index Zbečno 04 neúplný)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), pag. 463, snímek 237 – https://ebadatelna.soapraha.cz/d/8849/237"
       ],
       scans: [
-        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"}
+        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
+        {"f":"img/1771_N_Hlavickova_Ludmila_Branov.jpg","t":"Křest Ludmily Hlavičkové, Branov č. 4, 12. 5. 1771"}
       ]
     },
     {
@@ -7544,10 +7557,12 @@ window.RODOKMEN = {
         "Manželka Václava Hlavičky; matka Ludmily Semencové (křest vnučky 1817). Rodné příjmení neznámé."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), pag. 463, snímek 237 – https://ebadatelna.soapraha.cz/d/8849/237"
       ],
       scans: [
-        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"}
+        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
+        {"f":"img/1771_N_Hlavickova_Ludmila_Branov.jpg","t":"Křest Ludmily Hlavičkové, Branov č. 4, 12. 5. 1771"}
       ]
     },
     {
