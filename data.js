@@ -4470,19 +4470,24 @@ window.RODOKMEN = {
       maiden: "Kliková",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1779","year":1779,"approx":true},
+      b: {"date":"23. 11. 1776","year":1776,"place":"Bykoš č. p. 10"},
+      father: "jan_kl",
+      mother: "katerina_kl",
       spouse: "vaclav_kl",
       marriage: "28. 6. 1797, Suchomasty – s Václavem Klikou (vdovcem)",
       notes: [
-        "Dcera Jana a Kateřiny Klikových, sedláka z Bykoše (?) č. 10; při sňatku 28. 6. 1797 18 let (*~1779). Příjmení čteno jako „Kliki“ (první písmeno shodné s K v „Katrina“), ne Šliková.",
-        "Rodiče Jan a Kateřina Klikovi, Bykoš č. 10 – děti Josef (1785), František (1789), František (1791) (index N Borek 11)."
+        "Pokřtěna 23. 11. 1776 (farář Filip Bílek) v Bykoši č. 10: „Klika Joannes rusticus Bikoschensis, Catharina uxor, subditi Suchomastenses“; kmotra Kateřina, manželka Jana Staňka, kováře z Bykoše, svědek Jakub Chvátal, mlynář suchomastský.",
+        "Oddána 28. 6. 1797 s vdovcem Václavem Klikou ze Suchomast č. 12; ROZPOR věku: uvedeno 18 let, podle křtu 20½ (jiná Kateřina, dcera Jana Kliky z Bykoše, v indexu 1773–1784 není).",
+        "Sourozenci v Bykoši č. 10: Josef (1785), František (1789), František (1791)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075): O sn. 63 vlevo (28. 6. 1797), Z sn. 114 a 115 vlevo, N sn. 9 vlevo – https://ebadatelna.soapraha.cz/d/4075/63"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075): O sn. 63 vlevo (28. 6. 1797), Z sn. 114 a 115 vlevo, N sn. 9 vlevo – https://ebadatelna.soapraha.cz/d/4075/63",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20"
       ],
       scans: [
+        {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"},
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834 (dítě: František Klika)"},
         {"f":"img/1797_O_Klika_Vaclav_Katerina_Suchomasty.jpg","t":"Sňatek Václava Kliky (vdovce) s Kateřinou Klikovou z Bykoše (?), 28. 6. 1797"}
       ]
@@ -7665,6 +7670,40 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"}
+      ]
+    },
+    {
+      id: "jan_kl",
+      name: "Jan Klika",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      spouse: "katerina_kl",
+      notes: [
+        "Sedlák v Bykoši č. 10 (poddaný suchomastský); manželka Kateřina. Děti: Kateřina (1776), Josef (1785), František (1789), František (1791). Sňatek ve faře Borek II 1774 – VII 1777 není (spíš před 1774). Pozor: jiný Jan Klika, syn Václava, sedláka z Bykoše, se II 1775 oženil s Ludmilou Burianovou."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20"
+      ],
+      scans: [
+        {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"}
+      ]
+    },
+    {
+      id: "katerina_kl",
+      name: "Kateřina Kliková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1752)","year":1752,"approx":true},
+      spouse: "jan_kl",
+      notes: [
+        "Manželka Jana Kliky, sedláka v Bykoši č. 10; matka Kateřiny (*1776). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20"
+      ],
+      scans: [
+        {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"}
       ]
     }
   ]
