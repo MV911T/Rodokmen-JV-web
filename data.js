@@ -6148,22 +6148,25 @@ window.RODOKMEN = {
       name: "Pavel Forejt",
       line: "forejt",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      b: {"date":"neznámé (odhad ~1714)","year":1714,"approx":true},
+      d: {"date":"8. 9. 1772","year":1772,"place":"Volduchy č. p. 51"},
       spouse: "barbora_fp",
       occ: "Volduchy",
       marriage: "25. 11. 1743, Rokycany – s Barborou Riedlbauerovou (?)",
       notes: [
-        "Otec Víta Forejta; v roce 1772 žil (Volduchy).",
+        "Otec Víta Forejta; sedlák ve Volduchách č. 51. Zemřel 8. 9. 1772 (58 let), sedm týdnů po svatbě syna Víta.",
         "V květnu 1741 ještě svobodný (družba na svatbě Anny Forejtové, dcery † Martina Forejta z Volduch). Oddán 25. 11. 1743 v Rokycanech (ohlášky 11., 21. a 24. 11.; měsíc „9bris“) s Barborou Riedlbauerovou (?) z Dolejší Hutě (Klabava): „Pawel Foregt z Barborau Riedlbauerowau (?) w přítomnosti swědkům Wáclawa Pešti a Matěge Sedleckého (?)“. Děti ve Volduchách: (Kateřina 1744 – zapsán otec „Karel“, ROZPOR), Vít 1746, Anna 1748, Josef 1750, Barbora 1751, Veronika 1753, Anna 1755, Václav 1756; stálým kmotrem Václav Pešta z Hutí u Klabavy."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, snímek 3 – https://www.portafontium.eu/iipimage/30066673/osek-07_0030-o",
         "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), rok 1746, snímek 31 – https://www.portafontium.eu/iipimage/30066669/osek-03_0310-n",
-        "SOA Plzeň, fara Rokycany, kniha Rokycany 18 (O 1736–1770), str. 36, snímek 21 vlevo; rejstřík sn. 82 – https://www.portafontium.eu/iipimage/30067902/rokycany-18_0210-o"
+        "SOA Plzeň, fara Rokycany, kniha Rokycany 18 (O 1736–1770), str. 36, snímek 21 vlevo; rejstřík sn. 82 – https://www.portafontium.eu/iipimage/30067902/rokycany-18_0210-o",
+        "SOA Plzeň, fara Osek, Osek 08 (Z 1772–1820), oddíl Volduchy, fol. 5, snímek 74 vlevo; rejstřík sn. 142 – https://www.portafontium.eu/iipimage/30066674/osek-08_0740-z"
       ],
       scans: [
         {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"},
-        {"f":"img/1743_O_Forejt_Pavel_Barbora_Rokycany.jpg","t":"Sňatek Pavla Forejta s Barborou Riedlbauerovou (?), Rokycany 1743"}
+        {"f":"img/1743_O_Forejt_Pavel_Barbora_Rokycany.jpg","t":"Sňatek Pavla Forejta s Barborou Riedlbauerovou (?), Rokycany 1743"},
+        {"f":"img/1772_Z_Forejt_Pavel_Barbora_Volduchy.jpg","t":"Úmrtí Pavla (8. 9.) a Barbory (14. 9. 1772) Forejtových, Volduchy č. 51"}
       ]
     },
     {
@@ -6326,20 +6329,24 @@ window.RODOKMEN = {
       maiden: "Riedlbauerová (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
+      b: {"date":"neznámé (odhad ~1712)","year":1712,"approx":true},
+      d: {"date":"14. 9. 1772","year":1772,"place":"Volduchy č. p. 51"},
       spouse: "pavel_fo",
       marriage: "25. 11. 1743, Rokycany – s Pavlem Forejtem",
       notes: [
         "Z Dolejší Hutě u Klabavy (fara Rokycany); oddána 25. 11. 1743 v Rokycanech s Pavlem Forejtem z Volduch.",
-        "KANDIDÁT původu: rozená Riedlbauchová / Riedlbaucherová z Dolejší Hutě – rod tam doložen (Petr × 1743, svědek Matěj; Kateřina × 1738 Václav Peyzler (?), Anna × 1739 Jan Prokšant (?) – snad sestry); v indexu křtů Rokycany 1719–1732 není → narozena spíš před 1719 (N 1696–1718 online není)."
+        "Zemřela 14. 9. 1772 ve Volduchách č. 51 jako „Barbara Wittib nach dem verst. Paul Foreit Bauern“, 60 let – šest dní po manželovi.",
+        "KANDIDÁT původu: rozená Riedlbauchová / Riedlbaucherová z Dolejší Hutě – rod tam doložen (Petr × 1743, svědek Matěj; Kateřina × 1738 Václav Peyzler (?), Anna × 1739 Jan Prokšant (?) – snad sestry); v indexu křtů Rokycany 1719–1732 není → narozena kolem 1712 (N 1696–1718 online není)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), rok 1746, snímek 31 – https://www.portafontium.eu/iipimage/30066669/osek-03_0310-n",
-        "SOA Plzeň, fara Rokycany, kniha Rokycany 18 (O 1736–1770), str. 36, snímek 21 vlevo; rejstřík sn. 82 – https://www.portafontium.eu/iipimage/30067902/rokycany-18_0210-o"
+        "SOA Plzeň, fara Rokycany, kniha Rokycany 18 (O 1736–1770), str. 36, snímek 21 vlevo; rejstřík sn. 82 – https://www.portafontium.eu/iipimage/30067902/rokycany-18_0210-o",
+        "SOA Plzeň, fara Osek, Osek 08 (Z 1772–1820), oddíl Volduchy, fol. 5, snímek 74 vlevo; rejstřík sn. 142 – https://www.portafontium.eu/iipimage/30066674/osek-08_0740-z"
       ],
       scans: [
         {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"},
-        {"f":"img/1743_O_Forejt_Pavel_Barbora_Rokycany.jpg","t":"Sňatek Pavla Forejta s Barborou Riedlbauerovou (?), Rokycany 1743"}
+        {"f":"img/1743_O_Forejt_Pavel_Barbora_Rokycany.jpg","t":"Sňatek Pavla Forejta s Barborou Riedlbauerovou (?), Rokycany 1743"},
+        {"f":"img/1772_Z_Forejt_Pavel_Barbora_Volduchy.jpg","t":"Úmrtí Pavla (8. 9.) a Barbory (14. 9. 1772) Forejtových, Volduchy č. 51"}
       ]
     },
     {
@@ -7501,31 +7508,40 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1738)","year":1738,"approx":true},
       spouse: "veronika_se",
+      marriage: "25. 7. 1763 (fara Zbečno, kostel sv. Jakuba) – s Veronikou Matějovicovou (?) (2. sňatek)",
       notes: [
-        "Sedlák ve Zbečně č. 6; zemřel před XI 1817 (křest vnučky Kateřiny). Manželka Veronika."
+        "Sedlák ve Zbečně č. 6. Oddán 25. 7. 1763 jako „honestus viduus Georgius Semenec oriundus ex pago Zbečna“ s pannou Veronikou, dcerou Jana Matějovice (?) z Městečka, poddanou panství Křivoklát; svědci Jan Tichý z Městečka a Matěj Šípek (?), kovář ze Zbečna. Byl tedy podruhé ženatý; syn František (*~1766) je z 2. manželství.",
+        "Před XI 1817 už nežil (křest vnučky Kateřiny: „nach dem † Georg“).",
+        "Ztotožnění: jediný ženich Jiří Semenec v indexu sňatků Zbečno 04; jméno manželky Veronika sedí se zápisem 1817."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), O pag. 37, snímek 338 – https://ebadatelna.soapraha.cz/d/8849/338"
       ],
       scans: [
-        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"}
+        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
+        {"f":"img/1763_O_Semenec_Jiri_Veronika.jpg","t":"Sňatek Jiřího Semence (vdovce) s Veronikou, dcerou Jana Matějovice (?), 25. 7. 1763"}
       ]
     },
     {
       id: "veronika_se",
       name: "Veronika Semencová",
+      maiden: "Matějovicová (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      b: {"date":"neznámé (odhad ~1742)","year":1742,"approx":true},
       spouse: "jiri_se",
+      marriage: "25. 7. 1763 – s Jiřím Semencem",
       notes: [
-        "Manželka Jiřího Semence, sedláka ve Zbečně č. 6; rodné příjmení neznámé."
+        "Dcera Jana Matějovice (?) z Městečka (panství Křivoklát); 25. 7. 1763 se provdala za vdovce Jiřího Semence ze Zbečna. Matka Františka Semence (*~1766)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), O pag. 37, snímek 338 – https://ebadatelna.soapraha.cz/d/8849/338"
       ],
       scans: [
-        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"}
+        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
+        {"f":"img/1763_O_Semenec_Jiri_Veronika.jpg","t":"Sňatek Jiřího Semence (vdovce) s Veronikou, dcerou Jana Matějovice (?), 25. 7. 1763"}
       ]
     },
     {
