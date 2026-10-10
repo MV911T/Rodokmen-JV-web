@@ -6776,7 +6776,8 @@ window.RODOKMEN = {
       notes: [
         "Z Heršpic. Oddán 9. 9. 1739 (fara Slavkov) jako vdovec s pannou Alžbětou, dcerou † Matěje Matulíka (?) z Hodějic: „Viduus Casparus Hrabowsky cum Virgine Elisabetha filia def. Mathiae Matulik, ille Herspicio, illa Hodejicio“; svědci Martin Červinka a Antonín Hrabovský (příbuzný?).",
         "Otec Pavla Hrabovského (*1744, sňatek 1769); další dítě 1746.",
-        "První sňatek před 1733 (O 1733–1744 bez Hrabovského) – nenalezen."
+        "První sňatek nenalezen – O Slavkov 1726–1744 bez něj (dříve, nebo ve faře nevěsty).",
+        "KANDIDÁT původu: v Heršpicích žil Jan Hrabovský, jehož děti Rosina (× Josef Kamenický) a Tomáš (× Rosina Zabranová (?)) se oddaly 4. 2. 1727 (O 13120, sn. 212) – Kašpar a svědek Antonín mohou být jeho synové; neověřeno."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, oddíl O, snímek 332 – https://www.mza.cz/actapublica/matrika/detail/1948",
