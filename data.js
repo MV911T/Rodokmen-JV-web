@@ -6771,28 +6771,32 @@ window.RODOKMEN = {
       name: "Kašpar Hrabovský",
       line: "hrabovsky",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      b: {"date":"neznámé (odhad ~1688)","year":1688,"approx":true},
+      d: {"date":"1. 1. 1748","year":1748,"place":"Hodějice"},
       spouse: "alzbeta_hb",
       occ: "Hodějice",
       marriage: "9. 9. 1739 (fara Slavkov) – s Alžbětou Matulíkovou (?) (2. sňatek)",
       notes: [
         "Z Heršpic. Oddán 9. 9. 1739 (fara Slavkov) jako vdovec s pannou Alžbětou, dcerou † Matěje Matulíka (?) z Hodějic: „Viduus Casparus Hrabowsky cum Virgine Elisabetha filia def. Mathiae Matulik, ille Herspicio, illa Hodejicio“; svědci Martin Červinka a Antonín Hrabovský (příbuzný?).",
+        "Zemřel 1. 1. 1748 v Hodějicích, 60 let („Casparus Hrabovsky Hodiegicio“) – narozen tedy asi 1688.",
         "Otec Pavla Hrabovského (*1744, sňatek 1769); další dítě 1746.",
         "První manželka Anna zemřela 18. 6. 1739 v Heršpicích („Anna Caspari Hrabowski uxor Hersp.“), uvedeno 80 let; Kašpar se znovu oženil po necelých 3 měsících. Jejich sňatek nenalezen (O Slavkov 1723–1744 bez něj – nejspíš před 1707).",
-        "KANDIDÁT původu: v Heršpicích žil Jan Hrabovský, jehož děti Rosina (× Josef Kamenický) a Tomáš (× Rosina Zabranová (?)) se oddaly 4. 2. 1727 (O 13120, sn. 212) – Kašpar a svědek Antonín mohou být jeho synové; Janova manželka Kateřina zemřela 28. 3. 1738 v Heršpicích (60 let). Neověřeno.",
-        "ROZPOR / otázka: při věku 1. ženy 80 let by i Kašpar byl v r. 1744 (narození syna Pavla) starý – věk v úmrtním zápisu může být nadsazený, jinak by šlo o dva Kašpary (kontrola: úmrtí Kašpara po 1739)."
+        "KANDIDÁT příbuzenstva: v Heršpicích žil Jan Hrabovský (děti Rosina a Tomáš oddány 4. 2. 1727; manželka Kateřina † 28. 3. 1738, 60 let; děti Kateřina a Šebestián † I 1741) – spíš Kašparův bratr než otec; svědek Antonín Hrabovský (1739) také příbuzný. Neověřeno.",
+        "ROZPOR: věk 1. ženy Anny při úmrtí 1739 uveden 80 let, Kašparovi bylo při úmrtí 1748 jen 60 – věk Anny je nejspíš nadsazený (věk Kašpara je čitelný jasně)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, oddíl O, snímek 332 – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 234 vlevo (září 1739) – https://www.mza.cz/actapublica",
-        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), Z, str. 406, snímek 360 vpravo (červen 1739) – https://www.mza.cz/actapublica"
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), Z, str. 406, snímek 360 vpravo (červen 1739) – https://www.mza.cz/actapublica",
+        "MZA Brno, fara Slavkov, NOZ (sign. 13121), Z, snímek 359 vlevo (leden 1748) – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
         {"f":"img/1769_O_13121_sn332L_Hrabovsky_Pavel_syn_Kaspara_x_Katerina_Paseta_Hodejice_10-9-1769_plne_rozl.jpg","t":"Sňatek Pavla Hrabovského a Kateřiny Pasetové, Hodějice 10. 9. 1769"},
         {"f":"img/1744_N_13121_sn41L_krest_Pavel_Hrabovsky_otec_Kaspar_24-3-1744_plne_rozl.jpg","t":"Křest Pavla Hrabovského, Hodějice 24. (III ?) 1744"},
         {"f":"img/1739_O_Hrabovsky_Kaspar_Matulikova_Alzbeta.jpg","t":"Sňatek Kašpara Hrabovského a Alžběty Matulíkové, Slavkov 9. 9. 1739"},
-        {"f":"img/1739_Z_Hrabovska_Anna_Herspice.jpg","t":"Úmrtí Anny, 1. manželky Kašpara Hrabovského, Heršpice 18. 6. 1739"}
+        {"f":"img/1739_Z_Hrabovska_Anna_Herspice.jpg","t":"Úmrtí Anny, 1. manželky Kašpara Hrabovského, Heršpice 18. 6. 1739"},
+        {"f":"img/1748_Z_Hrabovsky_Kaspar_Hodejice.jpg","t":"Úmrtí Kašpara Hrabovského, Hodějice 1. 1. 1748"}
       ]
     },
     {
