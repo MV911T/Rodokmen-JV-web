@@ -1512,14 +1512,16 @@ window.RODOKMEN = {
       notes: [
         "Narozen 5. 9. 1849 v Oseku č. 86, pokřtěn 6. 9. Syn Pavla Lodla, havíře a obuvníka z Oseku č. 86 († před 1873), a Anny roz. Aubrechtové z Oseku č. 72.",
         "Při sňatku 1873 nezletilý (23 let) – povolení okresního soudu v Rokycanech z 12. 1. 1873, č. 259. Svědci Anton Vondrák, cihlář, a Matěj Lucyák (?), dělník.",
-        "Později s rodinou na Mostecku – horník v Souši č. 57 (1894, 1899)."
+        "Později s rodinou na Mostecku – horník v Souši č. 57 (1894, 1899).",
+        "Syn Jan Lodl (*24. 6. 1875 Osek), horník v Souši č. 38 – 21. 10. 1901 mu tam pokřtili dceru Marii (manželka Antonie Káclová (?) z Doks, sňatek 17. 11. 1900); v r. 1901 bydleli rodiče „in Osek N° 14“."
       ],
       sources: [
         "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
         "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
         "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/",
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
-        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n"
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
+        "SOA Litoměřice, fara Souš, kniha 150/26 (N 1894–1903), snímek 386 – https://digi.soalitomerice.cz"
       ],
       scans: [
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899"},
@@ -1542,14 +1544,16 @@ window.RODOKMEN = {
       spouse: "martin_l",
       marriage: "3. 2. 1873, Osek – s Martinem Lodlem",
       notes: [
-        "Narozena 17. 9. 1848 v Oseku č. 91, pokřtěna 18. 9. Dcera Matěje Forejta, havíře z Oseku č. 91, a Anny roz. Loukotové z Oseku č. 10."
+        "Narozena 17. 9. 1848 v Oseku č. 91, pokřtěna 18. 9. Dcera Matěje Forejta, havíře z Oseku č. 91, a Anny roz. Loukotové z Oseku č. 10.",
+        "Syn Jan Lodl (*24. 6. 1875 Osek), horník v Souši č. 38 – 21. 10. 1901 mu tam pokřtili dceru Marii (manželka Antonie Káclová (?) z Doks, sňatek 17. 11. 1900); v r. 1901 bydleli rodiče „in Osek N° 14“."
       ],
       sources: [
         "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
         "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
         "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/",
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
-        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n"
+        "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
+        "SOA Litoměřice, fara Souš, kniha 150/26 (N 1894–1903), snímek 386 – https://digi.soalitomerice.cz"
       ],
       scans: [
         {"f":"img/1873_krest_barbora_lodlova_osek.jpg","t":"Křest Barbory Lodlové, Osek 27. 1. 1873"},
