@@ -6533,7 +6533,8 @@ window.RODOKMEN = {
       occ: "Hudlice (poddaný panství Křivoklát)",
       notes: [
         "Otec Jana Vlasáka st. (sňatek 1795).",
-        "Manželka Anna (křty dětí 1759, 1764, 1769; kmotři Kulhánkovi). Pozor: v Hudlicích současně František Vlasák × Kateřina (č. 36, rychtář, † 26. 3. 1803) a František × Dorota (č. 18). Úmrtí tohoto Františka nenalezeno (Hudlice 1756–1802)."
+        "Manželka Anna (křty dětí 1759, 1764, 1769; kmotři Kulhánkovi). Pozor: v Hudlicích současně František Vlasák × Kateřina (č. 36, rychtář, † 26. 3. 1803) a František × Dorota (č. 18). Úmrtí tohoto Františka nenalezeno (Hudlice 1756–1802).",
+        "KANDIDÁT úmrtí před X 1779: 31. 10. 1779 se v Hudlicích č. 31 vdávala „Anna filia defuncti Francisci Wlassak“ (Beroun 09, sn. 68) – nejspíš jeho dcera (ostatní hudličtí Františkové Vlasákové tehdy žili). V Beroun 09 Z 1771–1784 ani Hudlice 12 (1785–1803) jeho úmrtí není – zemřel spíš před 1771."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6"
