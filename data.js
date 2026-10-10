@@ -6153,12 +6153,15 @@ window.RODOKMEN = {
       name: "Pavel Forejt",
       line: "forejt",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1714)","year":1714,"approx":true},
+      b: {"date":"10. 5. 1716","year":1716,"place":"Volduchy (fara Osek)"},
       d: {"date":"8. 9. 1772","year":1772,"place":"Volduchy č. p. 51"},
+      father: "martin_fo",
+      mother: "alzbeta_fo",
       spouse: "barbora_fp",
       occ: "Volduchy",
       marriage: "25. 11. 1743, Rokycany – s Barborou Riedlbauerovou (?)",
       notes: [
+        "Pokřtěn 10. 5. 1716 ve Volduchách: „Pokřtěn Pawel Syn Martina Foregta a Alžbětj Manželky geho“; kmotr Pavel Galbreht, svědci Václav Naffazík (?) a Anna Slomandová (?). Věk 58 při úmrtí 1772 je o 2 roky nadsazený.",
         "Otec Víta Forejta; sedlák ve Volduchách č. 51. Zemřel 8. 9. 1772 (58 let), sedm týdnů po svatbě syna Víta.",
         "V květnu 1741 ještě svobodný (družba na svatbě Anny Forejtové, dcery † Martina Forejta z Volduch). Oddán 25. 11. 1743 v Rokycanech (ohlášky 11., 21. a 24. 11.; měsíc „9bris“) s Barborou Riedlbauerovou (?) z Dolejší Hutě (Klabava): „Pawel Foregt z Barborau Riedlbauerowau (?) w přítomnosti swědkům Wáclawa Pešti a Matěge Sedleckého (?)“. Děti ve Volduchách: (Kateřina 1744 – zapsán otec „Karel“, ROZPOR), Vít 1746, Anna 1748, Josef 1750, Barbora 1751, Veronika 1753, Anna 1755, Václav 1756; stálým kmotrem Václav Pešta z Hutí u Klabavy."
       ],
@@ -6166,9 +6169,11 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, snímek 3 – https://www.portafontium.eu/iipimage/30066673/osek-07_0030-o",
         "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), rok 1746, snímek 31 – https://www.portafontium.eu/iipimage/30066669/osek-03_0310-n",
         "SOA Plzeň, fara Rokycany, kniha Rokycany 18 (O 1736–1770), str. 36, snímek 21 vlevo; rejstřík sn. 82 – https://www.portafontium.eu/iipimage/30067902/rokycany-18_0210-o",
-        "SOA Plzeň, fara Osek, Osek 08 (Z 1772–1820), oddíl Volduchy, fol. 5, snímek 74 vlevo; rejstřík sn. 142 – https://www.portafontium.eu/iipimage/30066674/osek-08_0740-z"
+        "SOA Plzeň, fara Osek, Osek 08 (Z 1772–1820), oddíl Volduchy, fol. 5, snímek 74 vlevo; rejstřík sn. 142 – https://www.portafontium.eu/iipimage/30066674/osek-08_0740-z",
+        "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n"
       ],
       scans: [
+        {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"},
         {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"},
         {"f":"img/1743_O_Forejt_Pavel_Barbora_Rokycany.jpg","t":"Sňatek Pavla Forejta s Barborou Riedlbauerovou (?), Rokycany 1743"},
         {"f":"img/1772_Z_Forejt_Pavel_Barbora_Volduchy.jpg","t":"Úmrtí Pavla (8. 9.) a Barbory (14. 9. 1772) Forejtových, Volduchy č. 51"}
@@ -7624,6 +7629,41 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1727_N_Hrazdilek_Martin_Hodejice.jpg","t":"Křest Martina Hrazdílka, syna Pavla a Kateřiny, Hodějice 4. 10. 1727"}
+      ]
+    },
+    {
+      id: "martin_fo",
+      name: "Martin Forejt",
+      line: "forejt",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1685)","year":1685,"approx":true},
+      spouse: "alzbeta_fo",
+      notes: [
+        "Z Volduch (fara Osek); manželka Alžběta. Děti: Václav (10. 9. 1712), Matouš (21. 9. 1714), Pavel (10. 5. 1716); snad i Anna (× 1741 Martin Hajzar – „pozůstalá dcera po neb. Martinovi Foregtovi“) a Jakub. Zemřel před V 1741."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
+        "SOA Plzeň, fara Osek, Osek 01 (N), str. 119 a 133, snímky 61 vpravo a 68 vpravo"
+      ],
+      scans: [
+        {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"}
+      ]
+    },
+    {
+      id: "alzbeta_fo",
+      name: "Alžběta Forejtová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      spouse: "martin_fo",
+      notes: [
+        "Manželka Martina Forejta z Volduch; matka Pavla (*1716). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n"
+      ],
+      scans: [
+        {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"}
       ]
     }
   ]
