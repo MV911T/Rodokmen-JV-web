@@ -6461,13 +6461,14 @@ window.RODOKMEN = {
       line: "hrabovsky",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
-      d: {"date":"před 20. 7. 1806","year":1806,"approx":true},
+      d: {"date":"mezi 1804 a VIII 1806","year":1806,"approx":true},
       occ: "čtvrtník v Hodějicích",
       notes: [
         "Otec Jiřího Hrabovského (sňatek 1806).",
         "Manželka Kateřina; děti v Hodějicích 1779–1793 (Marianna ?, Kateřina 1782, Vavřinec 1790, Vincenc 1792 …). Křest Jiřího (*~1785) v indexu 1784–1794 chybí.",
         "Syn Pavel *6. 6. 1788 v Hodějicích č. 50 („Paul Hrabowsky, Viertler – Katharina“; N 13122, str. 74). Index narozených u Hodějic je neúplný.",
-        "Manželka Kateřina roz. Fischová (?) (křest syna Vavřince 1790, jedno čtení). Svědek na sňatku Martina Šimoníka 1783."
+        "Manželka Kateřina roz. Fischová (?) (křest syna Vavřince 1790, jedno čtení). Svědek na sňatku Martina Šimoníka 1783.",
+        "Zemřel před srpnem 1806 – 23. 8. 1806 zemřela v Hodějicích č. 99 „Magdalena, Tochter des † Paul Hrabowsky“ (3 roky), 16. 11. 1806 č. 60 syn Jan (1 rok)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
@@ -6505,19 +6506,22 @@ window.RODOKMEN = {
       maiden: "Spačilová",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1798","year":1798,"approx":true,"place":"Křenovice č. p. 35"},
+      b: {"date":"25. 7. 1799","year":1799,"place":"Křenovice č. p. 30"},
       father: "matej_spa",
+      mother: "johanna_lb",
       spouse: "valentin_ma",
       marriage: "6. 7. 1819, Křenovice – s Valentinem Maláčem",
       notes: [
-        "Dcera † Matěje Spačila z Křenovic č. 35; matka Františky Hrabovské.",
-        "KANDIDÁT křtu: 25. 7. 1799 Křenovice č. 30 – Anna, dcera Matěje Spačila, třičtvrtníka, a Johanny roz. Lebnerové (?) (N 13123, str. 182 A); číslo domu (30 × 35) a věk o rok nesedí. Pozor: v Křenovicích současně Matouš Spačil × Juliana."
+        "Pokřtěna 25. 7. 1799 v Křenovicích č. 30: otec Matěj Spačil, třičtvrtník, matka Johanna Lebnerová / Leblová (?); kmotři Bartoloměj Doležal a Anna z Hrušek. Sourozenci: Marianna (1788), Anna (1790), Matěj (1792), Pavel (1793) a další 1794–1798; rodina střídá čísla domů 30–38, v r. 1813 a 1819 č. 35.",
+        "Dcera † Matěje Spačila z Křenovic č. 35; matka Františky Hrabovské."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 87, snímek 80 – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 87, snímek 80 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 182 A, snímek 174 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ],
       scans: [
-        {"f":"img/1819_O_13137_sn80_str87_Krenovice_Malac_Valentin_x_Spacilova_Anna.jpg","t":"Sňatek Valentina Maláče a Anny Spačilové, Křenovice 6. 7. 1819"}
+        {"f":"img/1819_O_13137_sn80_str87_Krenovice_Malac_Valentin_x_Spacilova_Anna.jpg","t":"Sňatek Valentina Maláče a Anny Spačilové, Křenovice 6. 7. 1819"},
+        {"f":"img/1799_N_13123_sn174_Krenovice30_Spacilova_Anna_Mathias_Johanna_Lebner_plne_rozl_offset0.jpg","t":"Křest Anny Spačilové, Křenovice 25. 7. 1799"}
       ]
     },
     {
@@ -6603,13 +6607,15 @@ window.RODOKMEN = {
       b: {"date":"asi 1759","year":1759,"approx":true},
       d: {"date":"29. 6. 1813","year":1813,"place":"Křenovice č. p. 35"},
       cause: "tyfus („Nervenfieber“)",
+      spouse: "johanna_lb",
       occ: "třičtvrtník v Křenovicích č. 35",
       notes: [
         "Otec Anny Maláčové (sňatek 1819: „Tochter nach Mathias Spačil“, č. 35). Zemřel 29. 6. 1813 (pohřben 1. 7.) v Křenovicích č. 35, 54 let, na tyfus; 19. 7. 1813 mu zemřel dvanáctidenní syn Vavřinec.",
-        "KANDIDÁT manželky: Johanna Lebnerová (?) (křest dcery Anny 25. 7. 1799)."
+        "Manželka Johanna Leblová / Lebnerová (?) (křty 1788–1799). KANDIDÁT sňatku: 28. 1. 1783 Křenovice č. 4 – „Spačil Martinus, honestus juvenis, cum … Joanna filia Simeonis Lebek (?)“ – ženich zapsán jako Martin (ROZPOR jména; jiný Martin Spačil × Johanna v Křenovicích 1784–1799 neexistuje)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, Z, sign. 13149, oddíl Křenovice, str. 145, snímek 126 – https://www.mza.cz/actapublica/matrika/detail/1964"
+        "MZA Brno, fara Slavkov u Brna, Z, sign. 13149, oddíl Křenovice, str. 145, snímek 126 – https://www.mza.cz/actapublica/matrika/detail/1964",
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 182 A, snímek 174 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ],
       scans: [
         {"f":"img/1813_Z_13149_sn126R_str145_Krenovice35_Spacil_Matej_umrti_plne_rozl.jpg","t":"Úmrtí Matěje Spačila, Křenovice 29. 6. 1813"}
@@ -6618,20 +6624,38 @@ window.RODOKMEN = {
     {
       id: "johanna_mg",
       name: "Johanna Šimoníková",
-      maiden: "Magková (?)",
+      maiden: "Magková",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
       spouse: "martin_si",
       marriage: "6. 5. 1783, Hodějice – s Martinem Šimoníkem (vdovcem)",
       notes: [
-        "Dcera † Antonína Magka (?) z Hodějic; matka Jana (1784) a Magdaleny (kandidát 1785). Příjmení čteno jen v nižším rozlišení."
+        "Dcera † Antonína Magka z Hodějic (sňatek 1783 – příjmení ověřeno v plném rozlišení); matka Jana (1784) a Magdaleny (kandidát 1785)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 15 – https://www.mza.cz/actapublica/matrika/detail/1958"
       ],
       scans: [
         {"f":"img/1783_O_13136_sn15R_Simonik_Martin_x_Johanna_Magek_svedek_Pavel_Hrabovsky_offset1.jpg","t":"Sňatek Martina Šimoníka a Johanny Magkové (?), Hodějice 6. 5. 1783"}
+      ]
+    },
+    {
+      id: "johanna_lb",
+      name: "Johanna Spačilová",
+      maiden: "Leblová / Lebnerová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1762)","year":1762,"approx":true},
+      spouse: "matej_spa",
+      notes: [
+        "Matka Anny Maláčové (*1799) a jejích sourozenců (1788–1798); příjmení psáno „Leblin / Lebnin / Lebner“. KANDIDÁT: dcera Šimona Lebka (?) z Křenovic (sňatek 28. 1. 1783)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 182 A, snímek 174 – https://www.mza.cz/actapublica/matrika/detail/1951"
+      ],
+      scans: [
+        {"f":"img/1799_N_13123_sn174_Krenovice30_Spacilova_Anna_Mathias_Johanna_Lebner_plne_rozl_offset0.jpg","t":"Křest Anny Spačilové, Křenovice 25. 7. 1799"}
       ]
     }
   ]
