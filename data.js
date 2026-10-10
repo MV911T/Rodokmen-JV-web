@@ -6151,10 +6151,10 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
       spouse: "barbora_fp",
       occ: "Volduchy",
-      marriage: "1743 (25. 7. ?), Rokycany – s Barborou Riedlbauerovou (?)",
+      marriage: "25. 11. 1743, Rokycany – s Barborou Riedlbauerovou (?)",
       notes: [
         "Otec Víta Forejta; v roce 1772 žil (Volduchy).",
-        "V květnu 1741 ještě svobodný (družba na svatbě Anny Forejtové, dcery † Martina Forejta z Volduch). Oddán 1743 (25. 7. ?) v Rokycanech s Barborou Riedlbauerovou (?) z Dolejší Hutě (Klabava): „Pawel Foregt z Barborau Riedlbauerowau (?) w přítomnosti swědkům Wáclawa Pešti a Matěge Sedleckého (?)“. Děti ve Volduchách: (Kateřina 1744 – zapsán otec „Karel“, ROZPOR), Vít 1746, Anna 1748, Josef 1750, Barbora 1751, Veronika 1753, Anna 1755, Václav 1756; stálým kmotrem Václav Pešta z Hutí u Klabavy."
+        "V květnu 1741 ještě svobodný (družba na svatbě Anny Forejtové, dcery † Martina Forejta z Volduch). Oddán 25. 11. 1743 v Rokycanech (ohlášky 11., 21. a 24. 11.; měsíc „9bris“) s Barborou Riedlbauerovou (?) z Dolejší Hutě (Klabava): „Pawel Foregt z Barborau Riedlbauerowau (?) w přítomnosti swědkům Wáclawa Pešti a Matěge Sedleckého (?)“. Děti ve Volduchách: (Kateřina 1744 – zapsán otec „Karel“, ROZPOR), Vít 1746, Anna 1748, Josef 1750, Barbora 1751, Veronika 1753, Anna 1755, Václav 1756; stálým kmotrem Václav Pešta z Hutí u Klabavy."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, snímek 3 – https://www.portafontium.eu/iipimage/30066673/osek-07_0030-o",
@@ -6328,9 +6328,10 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
       spouse: "pavel_fo",
-      marriage: "1743 (25. 7. ?), Rokycany – s Pavlem Forejtem",
+      marriage: "25. 11. 1743, Rokycany – s Pavlem Forejtem",
       notes: [
-        "Z Dolejší Hutě u Klabavy (fara Rokycany); oddána 1743 v Rokycanech s Pavlem Forejtem z Volduch („Barbora Riedlbauerová (?)“ – zda rodné jméno, nebo vdova po Riedlbauerovi, nejisté; rodina snad příbuzná Peštům z Klabavy, kmotrům jejích dětí)."
+        "Z Dolejší Hutě u Klabavy (fara Rokycany); oddána 25. 11. 1743 v Rokycanech s Pavlem Forejtem z Volduch.",
+        "KANDIDÁT původu: rozená Riedlbauchová / Riedlbaucherová z Dolejší Hutě – rod tam doložen (Petr × 1743, svědek Matěj; Kateřina × 1738 Václav Peyzler (?), Anna × 1739 Jan Prokšant (?) – snad sestry); v indexu křtů Rokycany 1719–1732 není → narozena spíš před 1719 (N 1696–1718 online není)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 03 (NOZ 1740–1760), rok 1746, snímek 31 – https://www.portafontium.eu/iipimage/30066669/osek-03_0310-n",
