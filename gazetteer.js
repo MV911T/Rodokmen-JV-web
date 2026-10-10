@@ -75,4 +75,6 @@ window.RODOKMEN_GAZ = [
   { n: 'Pojedí', a: ['Pojedí'], lat: 50.360, lon: 15.210 },
   { n: 'Vohraženice', a: ['Vohraženice'], lat: 50.470, lon: 15.170 },
   { n: 'Březín (Manětínsko)', a: ['Březín'], lat: 50.003, lon: 13.258 },
+  { n: 'Džbánice', a: ['Džbánice'], lat: 49.043, lon: 16.208 },
+  { n: 'Branov', a: ['Branov'], lat: 50.010, lon: 13.843 },
 ];
