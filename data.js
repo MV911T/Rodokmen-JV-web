@@ -4417,24 +4417,27 @@ window.RODOKMEN = {
       name: "František Zettelmann",
       line: "zettelmann",
       cert: "M",
-      b: {"date":"asi 1846","year":1846,"approx":true,"place":"Bělotín"},
+      b: {"date":"1. 8. 1846","year":1846,"place":"Bělotín č. p. 149"},
       father: "johann_ze",
       mother: "anna_mi",
       spouse: "magdalena_poh",
       occ: "domkář v Bělotíně č. 149",
       marriage: "2. sňatek 7. 10. 1879, Polom – s Magdalenou Andersovou; 1. sňatek před 1879 (manželka neznámá)",
       notes: [
+        "Narozen 1. 8., pokřtěn 2. 8. 1846 v Bělotíně č. 149: otec Johann Zettelmann, domkář v Bělotíně, matka Anna, dcera Karla Michalka a Anny roz. Kipperové (?); bába Alžběta Zettelmannová z Bělotína č. 49.",
         "Domkář v Bělotíně č. 149; syn Johanna Zettelmanna, domkáře v Bělotíně, a Anny roz. Michalkové. Podruhé oddán 7. 10. 1879 v Polomi jako vdovec (33 let).",
         "V oddacím zápise vnuka 1930 „domkář v Bölten“ = Bělotín."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz",
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz",
-        "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz"
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, fol. 265, snímek 134 – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1879_O_Zettelmann_Anders_Polom.jpg","t":"Sňatek Františka Zettelmanna a Magdaleny Andersové, Polom 1879"},
-        {"f":"img/1884_N_Stepanka_Zettelmannova_Belotin.jpg","t":"Křest dcery Štěpánky, Bělotín 1884"}
+        {"f":"img/1884_N_Stepanka_Zettelmannova_Belotin.jpg","t":"Křest dcery Štěpánky, Bělotín 1884"},
+        {"f":"img/1846_N_Franz_Zettelmann_Belotin_fol265.jpg","t":"Křest Františka Zettelmanna, Bělotín 2. 8. 1846"}
       ]
     },
     {
@@ -4618,11 +4621,16 @@ window.RODOKMEN = {
       spouse: "anna_mi",
       occ: "domkář v Bělotíně",
       notes: [
-        "Otec Františka Zettelmanna (*~1846)."
+        "Otec Františka Zettelmanna (*~1846).",
+        "Domkář v Bělotíně č. 149 (1846). Sňatek s Annou Michalkovou zatím nenalezen (Bělotín O, L II 13, asi 1832–1845)."
       ],
       sources: [
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
-        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz"
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, fol. 265, snímek 134 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1846_N_Franz_Zettelmann_Belotin_fol265.jpg","t":"Křest syna Františka, Bělotín 1846"}
       ]
     },
     {
@@ -4634,11 +4642,16 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Bělotín"},
       spouse: "johann_ze",
       notes: [
-        "Dcera Karla Michalka, domkáře v Bělotíně."
+        "Dcera Karla Michalka, domkáře v Bělotíně.",
+        "Matka Anna roz. Kipperová (?) (křest syna 1846 – čtení nejisté)."
       ],
       sources: [
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
-        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz"
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, fol. 265, snímek 134 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1846_N_Franz_Zettelmann_Belotin_fol265.jpg","t":"Křest syna Františka, Bělotín 1846"}
       ]
     },
     {
