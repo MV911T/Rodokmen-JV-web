@@ -4311,22 +4311,26 @@ window.RODOKMEN = {
       name: "Jan Jelínek",
       line: "jelinek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1850)","year":1850,"approx":true},
+      b: {"date":"1. 4. 1849","year":1849,"place":"Džbánice č. p. 8 (fara Trstěnice, okr. Znojmo)"},
       d: {"date":"před 20. 7. 1904","year":1904,"approx":true},
+      father: "jiri_je",
+      mother: "frantiska_je",
       spouse: "mariana_bu",
       occ: "kožešník (Kürschner), podruh v Uhřicích č. 64",
       marriage: "25. 7. 1875, Uhřice – s Marianou Buchlovskou (rejstřík)",
       notes: [
+        "Pokřtěn 1. 4. 1849 v Džbánicích č. 8 (fara Trstěnice): otec Jiří (Georg) Jelínek, čtvrtník z Džbánic, matka Františka, manželská dcera Václava a Marianny Jelínkových, podruhů z Džbánic. Ztotožnění s kožešníkem v Uhřicích: ve křtech jeho dětí „Sohn des Georg Jelinek … in Žbanitz Pfarre Stiegnitz u. Franziska geb. Jelinek“ (dřívější čtení „Zbanitz Pfarre Steinitz“ = Ždánice bylo chybné). Sourozenci: Františka 1840, Cecílie 1843, Klára 1846, Kateřina 1851.",
         "Otec Marie Hrazdílkové; syn † Františka Jelínka ze Ždánic. Sňatek 25. 7. 1875 podle rejstříku oddaných Dambořice/Uhřice (kniha O Uhřice před 1878 není online).",
-        "Ve Ždánicích 1817–1859 nepokřtěn (rejstřík J) – rodina přišla odjinud.",
-        "Křty dětí v Uhřicích č. 64 (MZA, Dambořice, N Uhřice 5208, sn. 103 a 123): Josef 2./3. 3. 1876 (†), Ludvík 16./17. 8. 1880 († 26. 9. 1880), Mariana 1881. Jan „ehel. Sohn des Franz (1876) / † Georg (1880) Jelinek, Kürschner/Häusler in Zbanitz (?) Pfarre Steinitz (Ždánice), u. Franziska geb. Julinek (?)“ – ROZPOR ve jméně otce; otec zemřel mezi III 1876 a VIII 1880.",
+        "Křty dětí v Uhřicích č. 64 (MZA, Dambořice, N Uhřice 5208, sn. 103 a 123): Josef 2./3. 3. 1876 (†), Ludvík 16./17. 8. 1880 († 26. 9. 1880), Mariana 1881. Jan „ehel. Sohn des Franz (1876) / † Georg (1880) Jelinek, Kürschner/Häusler in Žbanitz (Džbánice) Pfarre Stiegnitz (Trstěnice), u. Franziska geb. Jelinek“ – ROZPOR rozhodnut křtem 1849: otec Jiří; „Franz“ 1876/1881 je omyl. Jiří zemřel mezi III 1876 a VIII 1880 (úmrtí zatím nenalezeno).",
         "Otec nemanželského Rajmunda Hrazdílka (*1880) z křtu online nezjistitelný – N Heršpice 1857+ online není (jen index); Rajmund nebyl legitimován."
       ],
       sources: [
         "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217"
       ],
       scans: [
+        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"},
         {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest Mariany Jelínkové, Uhřice 1881"}
       ]
     },
@@ -7956,6 +7960,78 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"}
+      ]
+    },
+    {
+      id: "jiri_je",
+      name: "Jiří Jelínek",
+      line: "jelinek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      spouse: "frantiska_je",
+      occ: "čtvrtník v Džbánicích č. 8, kožešník",
+      notes: [
+        "Čtvrtník v Džbánicích č. 8 (fara Trstěnice); manželka Františka roz. Jelínková; děti 1840–1851. Zemřel mezi III 1876 a VIII 1880. (Pozor: Franz Jelínek, čtvrtník z Džbánic č. 7, † 12. 7. 1880 ve 40 letech, je jiný člověk.)"
+      ],
+      sources: [
+        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217"
+      ],
+      scans: [
+        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
+      ]
+    },
+    {
+      id: "frantiska_je",
+      name: "Františka Jelínková",
+      maiden: "Jelínková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      father: "vaclav_je",
+      mother: "marianna_je",
+      spouse: "jiri_je",
+      notes: [
+        "Dcera Václava a Marianny Jelínkových, podruhů v Džbánicích; manželka Jiřího Jelínka. V pozdějších zápisech zkomoleně „Julinková“."
+      ],
+      sources: [
+        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217"
+      ],
+      scans: [
+        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
+      ]
+    },
+    {
+      id: "vaclav_je",
+      name: "Václav Jelínek",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      spouse: "marianna_je",
+      notes: [
+        "Podruh v Džbánicích; otec Františky Jelínkové (křest vnuka Jana 1849)."
+      ],
+      sources: [
+        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217"
+      ],
+      scans: [
+        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
+      ]
+    },
+    {
+      id: "marianna_je",
+      name: "Marianna Jelínková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      spouse: "vaclav_je",
+      notes: [
+        "Manželka Václava Jelínka, podruha v Džbánicích; rodné příjmení neznámé."
+      ],
+      sources: [
+        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217"
+      ],
+      scans: [
+        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
       ]
     }
   ]
