@@ -800,7 +800,7 @@ window.RODOKMEN = {
       mother: "antonie_m",
       spouse: "barbora_l",
       occ: "horník",
-      marriage: "16. 7. 1894, Souš – s Barborou Lodlovou",
+      marriage: "1. sňatek 16. 7. 1894, Souš – s Barborou Lodlovou; 2. sňatek 5. (?) 5./6. 1901, Souš – s Barborou Zelenkovou (?)",
       notes: [
         "Pokřtěn 26. 8. 1868 v Pravoníně (kooperátor P. Ig. Chlumecký). Otec Štěpán Votava, panský kočí v Pravoníně č. 74; matka Antonie roz. Michalová z Těchobuze č. 19. Kmotři Václav Zunařík (?), šafář v Pravoníně, a Františka Jirušková, kuchyňská v pravonínském zámku.",
         "Přípis na okraji: podle oznámení okresní politické správy v Mostě z roku 1921 (č. 21.382) vystoupil z římskokatolické církve, bez vyznání.",
@@ -809,7 +809,9 @@ window.RODOKMEN = {
         "Domovské právo v Těchobuzi (okr. Pelhřimov) měl do 27. 4. 1919.",
         "Zemřel 9. 11. 1963 v 95 letech (dopis vnuka Václava, rodinná paměť).",
         "Děti podle rodinného rodokmenu: Václav (*1899), Eda, Josef, Zdeňka, Anna.",
-        "KANDIDÁT: v Těchobuzi č. p. 76 žil roku 1951 František Votava (kronika obce) – příbuzenství neověřeno."
+        "KANDIDÁT: v Těchobuzi č. p. 76 žil roku 1951 František Votava (kronika obce) – příbuzenství neověřeno.",
+        "21. 2. 1902 mu v Souši č. 102 pokřtili syna Josefa: otec „Votava Wenzel, Bergmann, zuständig in Těchobuz, ehel. Sohn des Stefan Votava, Bergmann in Tschausch N° 102, und der † Antonia geb. Michal“, nar. 25. 8. 1868 – matka „Barbara, Tochter des Karl Zelenka, Schmied in Strašic N° 193, und der Katharina geb. Huml“ (nar. 28. 6. 1869), sňatek rodičů 1901. ROZPOR / KANDIDÁT: sňatek 1894 a křest syna Václava 1899 uvádějí manželku Barboru Lodlovou – nejspíš zemřela 1899–1901 a Václav se oženil podruhé (oddací zápis 1901 a úmrtí Lodlové zatím nečteny). Děti z rodinné paměti (Eda, Josef, Zdeňka, Anna) proto mohou být z 2. manželství.",
+        "Pozor na záměnu – v Souši žili i jiní Václavové Votavové z Těchobuze: narozený 1864 (syn Vojtěcha) a narozený 1869 (syn Františka)."
       ],
       sources: [
         "Dopis Václava Votavy (*1933, Chomutov) Obecnímu úřadu Těchobuz, okr. Pelhřimov (nedatováno) – cituje křestní list Václava Votavy (*1899) z 9. 9. 1924 a výměr o domovském právu z 8. 9. 1940",
@@ -820,7 +822,8 @@ window.RODOKMEN = {
         "Výměr Okresního úřadu v Pelhřimově č. 30435/40 o určení domovského práva (8. 9. 1940)",
         "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
-        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78"
+        "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
+        "SOA Litoměřice, fara Souš, kniha 150/26 (N 1894–1903), Post-Nr. 39, snímek 406 – https://digi.soalitomerice.cz"
       ],
       scans: [
         {"f":"img/1951_kronika_techobuz_frantisek_votava.jpg","t":"Kronika Těchobuze 1951 – František Votava č. p. 76"},
@@ -833,7 +836,8 @@ window.RODOKMEN = {
         {"f":"img/1868_krest_vaclav_votava_pravonin_b.jpg","t":"Křest Václava Votavy, Pravonín 1868 (pravá část – matka, kmotři)"},
         {"f":"img/1899_N_Votava_Vaclav_Sous_rodice.jpg","t":"Křest Václava Votavy, Souš 1899 – rodiče"},
         {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 16. 7. 1894 – ženich"},
-        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"}
+        {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"},
+        {"f":"img/1902_N_Votava_Josef_sn406_otec_matka.jpg","t":"Křest syna Josefa, Souš 1902 – rodiče Václav Votava a Barbora Zelenková"}
       ]
     },
     {
@@ -852,7 +856,8 @@ window.RODOKMEN = {
         "Narozena a pokřtěna 27. 1. 1873 v Oseku (Vosek) č. 91 u Rokycan (farář Karel Lamina, bába Barbora Beranová). Narodila se jako nemanželská; otec Martin Lodl se k otcovství přihlásil a sňatkem rodičů 3. 2. 1873 byla legitimována. Kmotři Barbora Holubová, Johan Forejt a Marie Lodlová.",
         "V roce 1894 bydlela v Souši č. 57, kam se rodina Lodlových přestěhovala za prací v dolech; otec dal souhlas ke sňatku nezletilé a podepsal se.",
         "ROZPOR rozhodnut: matriky (křest 1873, sňatek 1894, křest syna 1899) shodně 27. 1. 1873; datum 29. 6. 1869 z dopisu vnuka je chybné.",
-        "Zemřela 16. 5. 1918 (dopis vnuka – rodinná paměť)."
+        "Zemřela 16. 5. 1918 (dopis vnuka – rodinná paměť).",
+        "KANDIDÁT: zemřela asi mezi X 1899 a 1901 – v r. 1901 se Václav Votava oženil s Barborou Zelenkovou ze Strašic (úmrtí zatím nenalezeno; úmrtní matrika Souš není online)."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
