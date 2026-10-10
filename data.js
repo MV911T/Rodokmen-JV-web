@@ -7639,7 +7639,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1685)","year":1685,"approx":true},
       spouse: "alzbeta_fo",
       notes: [
-        "Z Volduch (fara Osek); manželka Alžběta. Děti: Václav (10. 9. 1712), Matouš (21. 9. 1714), Pavel (10. 5. 1716); snad i Anna (× 1741 Martin Hajzar – „pozůstalá dcera po neb. Martinovi Foregtovi“) a Jakub. Zemřel před V 1741."
+        "Z Volduch (fara Osek); manželka Alžběta. Děti: Václav (10. 9. 1712), Matouš (21. 9. 1714), Pavel (10. 5. 1716); snad i Anna (× 1741 Martin Hajzar – „pozůstalá dcera po neb. Martinovi Foregtovi“) a Jakub. Zemřel nejspíš před 22. 8. 1737 – toho dne zemřela ve Volduchách „Kateřina, vlastní dcera Alžběty Foregtky“, 28 let (zapsána jen po matce; Osek 02 Z, sn. 115). Úmrtí Martina v Osek Z V 1736 – II 1742 není.",
+        "Ve stejné době žil ve Volduchách Matěj Lomryk (?) × Kateřina (syn Václav 18. 9. 1712) – dřívější čtení „Matěj Forejt“ chybné."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
