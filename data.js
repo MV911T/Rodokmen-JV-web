@@ -6257,6 +6257,8 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1757)","year":1757,"approx":true},
       d: {"date":"9. 8. 1827","year":1827,"place":"Drozdov č. p. 8"},
+      father: "matej_ls",
+      mother: "magdalena_hl",
       spouse: "magdalena_zv",
       occ: "obecní kovář v Drozdově",
       marriage: "1) 23. 11. 1777, Drozdov č. 34 – s Magdalenou Zvonařovou († 1796); 2) 3. (?) 7. 1798, Drozdov – s Kateřinou Šaldovou (?)",
@@ -7232,6 +7234,42 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1757_N_Zvonarova_Magdalena_Drozdov.jpg","t":"Křest Marie Magdaleny Zvonařové, Drozdov 1757"}
+      ]
+    },
+    {
+      id: "matej_ls",
+      name: "Matěj Landsinger",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1717)","year":1717,"approx":true},
+      d: {"date":"6. 5. 1791","year":1791,"place":"Drozdov č. p. 8"},
+      spouse: "magdalena_hl",
+      marriage: "2. 11. 1738, fara Cerhovice (z Újezda) – s Magdalenou Hlavatou",
+      notes: [
+        "KANDIDÁT otce Václava Landsingera (*1759): Václav byl pokřtěn 3. 5. 1759 v Drozdově jako syn Matěje Landsingra a Magdaleny – jediný Landsinger v křtech Drozdova 1754–1761; oba byli kováři a oba zemřeli v Drozdově č. 8. Oddací zápis Václava 1777 rodiče neuvádí.",
+        "Kovář; zemřel 6. 5. 1791 v Drozdově č. 8, 74 let. Oddán 2. 11. 1738 s Magdalenou Hlavatou z Újezda. Děti s Magdalenou: Jan (XI 1739), Barbora (1745), Dorota (1749), Marie Magdalena (1752), Václav (1759).",
+        "Možná syn či vnuk Štěpána Landsingera z Drozdova († před 1729; syn František × 1729 Dorota Wellerová)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02 (4386): O sn. 257 (sňatek 2. 11. 1738), N sn. 116/128/141/150/172 (děti 1739–1759) – https://ebadatelna.soapraha.cz/d/4386/257",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, oddíl Drozdov, Z fol. 158, snímek 76 – https://ebadatelna.soapraha.cz/d/4555/76"
+      ]
+    },
+    {
+      id: "magdalena_hl",
+      name: "Magdalena Landsingerová",
+      maiden: "Hlavatá",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true},
+      spouse: "matej_ls",
+      marriage: "2. 11. 1738 – s Matějem Landsingerem",
+      notes: [
+        "KANDIDÁT matky Václava Landsingera (*1759) – viz Matěj Landsinger.",
+        "Z Újezda (fara Cerhovice); oddána 2. 11. 1738; matka dětí 1739–1759."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02 (4386): O sn. 257 (sňatek 2. 11. 1738), N sn. 116/128/141/150/172 (děti 1739–1759) – https://ebadatelna.soapraha.cz/d/4386/257"
       ]
     }
   ]
