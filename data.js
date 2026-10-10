@@ -2206,7 +2206,7 @@ window.RODOKMEN = {
         "Zemřela 17. 8. 1841 v Těchobuzi č. 36 ve 46 letech, pohřbena ve Zhoři.",
         "Vdova Kateřina Votavová, která zemřela 1. 10. 1866, je druhá manželka Jana Votavy (Kateřina Kočová), ne Štěpánova matka – rozpor vyřešen.",
         "KANDIDÁT původu: Velká Chyška (fara, okr. Pelhřimov, 6 km od Pacova) – listopad 1791 tam č. 45 sňatek Matěje Hamra (?), 23 let, a Kateřiny Křížové (?), 20 let (kniha 8195, sn. 4); příjmení otce lze v zápisu 1834 číst „Hamra“ i „Flemra“. Neověřeno (čísla domů nesedí).",
-        "ROZPOR: zápis 1834 uvádí matku jako „Kateřinu, dceru Vojtěcha Kříže z Chýšky č. 18“ – platí křest 1793; Křížová / „Kinstr…“ z Velké Chyšky (sňatek XI 1791) byla nejspíš 1. manželka Matěje Hamra († 14. 5. 1792 po porodu)."
+        "ROZPOR: zápis 1834 uvádí matku jako „Kateřinu, dceru Vojtěcha Kříže z Chýšky č. 18“ – platí křest 1793 (matka Kateřina, dcera Petra Lippa (?)). Nevlastní sourozenci Jan (*1791) a Veronika (*~1796)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2894,8 +2894,9 @@ window.RODOKMEN = {
       spouse: "katerina_kr",
       occ: "chalupník v Tučapech č. 36",
       notes: [
-        "Syn Tomáše Hamra, sedláka z Holé (?); sedlák v Tučapech (u Soběslavi) č. 51 (křest dcery Kateřiny 1793).",
-        "Dvakrát ženatý: 1. manželka Kateřina zemřela 14. 5. 1792 v Tučapech č. 51 ve 23 letech po porodu (nejspíš Kateřina „Kinstr…“ / Křížová (?) z Velké Chyšky, sňatek XI 1791 č. 45 – K); 2. manželka Kateřina, dcera Petra Lippa (?), matka Kateřiny (*1793)."
+        "Syn Tomáše Hamra, hospodáře z Holé (?); hospodář v Tučapech (u Soběslavi) č. 51.",
+        "Manželky (podle křtů dětí v Tučapech): 1) Kateřina, dcera † Jana W…ského (?) – syn Jan *25. 8. 1791; zemřela 14. 5. 1792 ve 23 letech po porodu; 2) Kateřina, dcera Petra Lippa / Fippa (?), hospodáře v Lippě (?) – dcera Kateřina *29. 4. 1793; 3) Anna, dcera † Jakuba Turka (?) – dcera Veronika *12. 2. ~1796. Sňatky ve faře Tučapy nejsou (ženil se ve farnostech nevěst). ROZPOR: úmrtí 2. Kateřiny nenalezeno.",
+        "Kandidátní sňatek XI 1791 ve Velké Chyšce vyloučen – Matěj byl ženatý už 1790/91."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -2917,7 +2918,7 @@ window.RODOKMEN = {
       spouse: "matej_fl",
       notes: [
         "Druhá manželka Matěje Hamra, matka Kateřiny (*29. 4. 1793 Tučapy č. 51); dcera Petra Lippa (?), sedláka z Lipé (?) – čtení nejisté.",
-        "ROZPOR: zápis 1834 ji uvádí jako „dceru Vojtěcha Kříže z Chýšky č. 18“ – to patří spíš 1. manželce Matěje († 1792)."
+        "ROZPOR: zápis 1834 ji uvádí jako „dceru Vojtěcha Kříže z Chýšky č. 18“ – křest 1793 jmenuje Petra Lippa (?); původ údaje z 1834 nevysvětlen."
       ],
       sources: [
         "SOA Třeboň, fara Tučapy, Tučapy N/O/Z 1784–1800 (kniha 8077), pag. 37, snímek 31; rejstřík 8092 sn. 11 – https://digi.ceskearchivy.cz/8077"
