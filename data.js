@@ -4104,7 +4104,8 @@ window.RODOKMEN = {
       occ: "podruh v Uhřicích",
       marriage: "25. 7. 1875, Uhřice – s Marianou Buchlovskou (rejstřík)",
       notes: [
-        "Otec Marie Hrazdílkové; syn † Františka Jelínka ze Ždánic. Sňatek 25. 7. 1875 podle rejstříku oddaných Dambořice/Uhřice (kniha O Uhřice před 1878 není online)."
+        "Otec Marie Hrazdílkové; syn † Františka Jelínka ze Ždánic. Sňatek 25. 7. 1875 podle rejstříku oddaných Dambořice/Uhřice (kniha O Uhřice před 1878 není online).",
+        "Ve Ždánicích 1817–1859 nepokřtěn (rejstřík J) – rodina přišla odjinud."
       ],
       sources: [
         "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
@@ -4780,14 +4781,22 @@ window.RODOKMEN = {
       name: "František Kirchner",
       line: "kirchner",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      b: {"date":"asi 1786","year":1786,"approx":true},
+      d: {"date":"9. 10. 1874","year":1874,"place":"Heršpice č. p. 90"},
+      cause: "stáří",
       spouse: "ludmila_zi",
       occ: "domkář v Heršpicích",
       notes: [
-        "Otec Cecilie Hrazdílkové; v roce 1860 žil."
+        "Otec Cecilie Hrazdílkové; v roce 1860 žil.",
+        "Zemřel 9. 10. 1874 (pohřben 11. 10.) v Heršpicích č. 90 jako podruh, 88 let, věkem sešlý.",
+        "Sňatek s Ludmilou ve faře Slavkov 1784–1842 není; křest dcery Cecilie v indexu narozených 1820–1836 chybí – rodina asi přišla odjinud."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, sign. 13155, str. 54, snímek 29 – https://www.mza.cz/actapublica/matrika/detail/12384"
+      ],
+      scans: [
+        {"f":"img/1874_Z_13155_sn29L_str54_Kirchner_Frantisek_Herspice_88let.jpg","t":"Úmrtí Františka Kirchnera, Heršpice 9. 10. 1874"}
       ]
     },
     {
@@ -6710,7 +6719,8 @@ window.RODOKMEN = {
       spouse: "pavel_hb",
       marriage: "10. 9. 1769, Hodějice – s Pavlem Hrabovským",
       notes: [
-        "Dcera Jana Pasety z Hodějic; v křtu syna 1792 „Katharina Pasetin“ (dřívější čtení „Fischin“ bylo chybné). Matka Jiřího Hrabovského (kandidát – křest nenalezen)."
+        "Dcera Jana Pasety z Hodějic; v křtu syna 1792 „Katharina Pasetin“ (dřívější čtení „Fischin“ bylo chybné). Matka Jiřího Hrabovského (kandidát – křest nenalezen).",
+        "KANDIDÁT úmrtí: index zemřelých uvádí v Heršpicích „Hrabowski Katharina“ 1813 (str. 274) a 1815 (str. 276) – nečteno."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, oddíl O, snímek 332 – https://www.mza.cz/actapublica/matrika/detail/1948"
