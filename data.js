@@ -3014,6 +3014,7 @@ window.RODOKMEN = {
       line: "michal",
       cert: "M",
       b: {"date":"19. 4. 1775","year":1775,"place":"Těchobuz č. p. 19"},
+      d: {"date":"13. 9. 1848","year":1848,"place":"Těchobuz č. p. 19"},
       father: "jakub_mi",
       mother: "katerina_mi",
       spouse: "katerina_vr",
@@ -3026,7 +3027,8 @@ window.RODOKMEN = {
         "13. 1. 1825 prodal grunt č. 19 synovi Janovi a jeho nastávající manželce Marii (vdově) za 2000 zl. v. m.; sobě a manželce Kateřině si vymínil světničku a komoru.",
         "Usedlost Těchobuz č. 19 = stavební parcela 33 na indikační skice stabilního katastru (1829), k ní zahrada parc. 34 („N° 19“).",
         "Sňatek s Kateřinou není ve faře Zhoř 1783–1802 (8806 a 8824) – asi v okolní faře (Pacov, Obrataň, Lukavec ?).",
-        "Děti s Kateřinou (Těchobuz): František (XI 1800), Jan (7. 4. 1803), Antonie (9. 10. 1805), Anna (6. 2. 1808) a další. Sňatek není v Těchobuzi 1789–1802 ani ve faře Zhoř XI 1794 – X 1802 – asi před 1794 nebo ve Velké Černé."
+        "Děti s Kateřinou (Těchobuz): František (XI 1800), Jan (7. 4. 1803), Antonie (9. 10. 1805), Anna (6. 2. 1808) a další. Sňatek není v Těchobuzi 1789–1802 ani ve faře Zhoř XI 1794 – X 1802 – asi před 1794 nebo ve Velké Černé.",
+        "Zemřel 13. 9. 1848 (pohřeb 15. 9.) v Těchobuzi č. 19 jako výminkář sedlák, uvedeno 81 let (podle křtu 1775 mu bylo 73 – věk nadsazený)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3036,36 +3038,44 @@ window.RODOKMEN = {
         "SOkA Jindřichův Hradec, statek Těchobuz, Rustikální pozemková kniha 1785–1850, inv. č. 9, fol. 73, snímek 84 – https://digi.ceskearchivy.cz/127651",
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 74, snímek 85 – https://digi.ceskearchivy.cz/127651",
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 79v, snímek 91 – https://digi.ceskearchivy.cz/127651",
-        "SOA Třeboň, Sbírka matrik, fara Zhoř, NOZ 1759–1817 (kn. 8806), pag. 65, snímek 57 – https://digi.ceskearchivy.cz/8806"
+        "SOA Třeboň, Sbírka matrik, fara Zhoř, NOZ 1759–1817 (kn. 8806), pag. 65, snímek 57 – https://digi.ceskearchivy.cz/8806",
+        "SOA Třeboň, fara Zhoř, kniha 8826 (Z), fol. 207–208, snímky 213–214 – https://digi.ceskearchivy.cz/8826"
       ],
       scans: [
         {"f":"img/Techobuz_rustik_pozemkova_kniha_127651_sn84_cp19_Jakub_Michal_fol73.jpg","t":"Pozemková kniha statku Těchobuz – grunt č. 19, Jakub Michal (asi 1795/96)"},
         {"f":"img/Techobuz_rustik_pk_127651_sn85R_fol74_1804_Vojtech_Michal_po_otci_Jakubovi_full.jpg","t":"Pozemková kniha Těchobuz 1804: Vojtěch Michal přebírá grunt č. 19 po zemřelém otci Jakubovi"},
         {"f":"img/Techobuz_rustik_pk_127651_sn91L_fol79v_1825_vyminek_Vojtech_a_Katerina_full.jpg","t":"Pozemková kniha Těchobuz 1825: výminek Vojtěcha a Kateřiny Michalových"},
-        {"f":"img/1775_krest_Michal_Vojtech_Techobuz19_otec_Jakub_matka_Katerina_8806_sn57.jpg","t":"Křest Vojtěcha Michala, Těchobuz 19. 4. 1775"}
+        {"f":"img/1775_krest_Michal_Vojtech_Techobuz19_otec_Jakub_matka_Katerina_8806_sn57.jpg","t":"Křest Vojtěcha Michala, Těchobuz 19. 4. 1775"},
+        {"f":"img/1848_Z_Michal_Vojtech_Techobuz.jpg","t":"Úmrtí Vojtěcha Michala, výminkáře, Těchobuz č. 19, 13. 9. 1848"}
       ]
     },
     {
       id: "katerina_vr",
       name: "Kateřina Michalová",
-      maiden: "Vojtová (?)",
+      maiden: "Vojtová",
       line: "vrzal",
       cert: "M",
       b: {"date":"neznámé (odhad ~1778)","year":1778,"approx":true,"place":"Velká Černá (?) (fara Zhoř)"},
+      d: {"date":"2. 10. 1848","year":1848,"place":"Těchobuz č. p. 19"},
       spouse: "vojtech_m",
       notes: [
         "Matka Jana Michala. Ve křtech dětí v Těchobuzi (František XI 1800, Antonie 9. 10. 1805, Anna 6. 2. 1808) třikrát „Kateřina rozená Wojtowa (?) z (Velké) Črmy“ = Velká Černá (fara Zhoř); v oddacím zápisu syna Jana 1825 „dcera Matěje Voj… č. 3“ – otcem tedy nejspíš Matěj Vojta (?) z Velké Černé č. 3.",
         "V lednu 1825 žila – výminek „Wogtiechu a Kateřině Michalowským Manželům“ (pozemková kniha Těchobuz fol. 79v).",
-        "ROZPOR čtení: 1835 „Kroužilová (?)“, 1836 „Vrzalová (?)“ – nejspíš chybná čtení; rozhodne křest Kateřiny (Velká Černá, ~1775–1780). Křest Kateřiny Vojtové v rejstříku narozených Velké Černé 1763–1784 není (příjmení Vojta tam vůbec není)."
+        "ROZPOR čtení: 1835 „Kroužilová (?)“, 1836 „Vrzalová (?)“ – nejspíš chybná čtení; rozhodne křest Kateřiny (Velká Černá, ~1775–1780). Křest Kateřiny Vojtové v rejstříku narozených Velké Černé 1763–1784 není (příjmení Vojta tam vůbec není).",
+        "Zemřela 2. 10. 1848 (pohřeb 4. 10.) v Těchobuzi č. 19 jako výminkářka, uvedeno 82 let (věky v těchto zápisech nadsazené – narozena spíš 1766–1778), tři týdny po manželovi.",
+        "Rodné příjmení: čtyři křty dětí (1798, 1800, 1805, 1808) shodně „Kateřina rozená Vojtová z Velké (?) Črmy“ – nejstarší dítě Barbora *4. 12. 1798 Těchobuz 19. KANDIDÁT obce: Malá Černá (fara Lukavec) – ve Velké Černé (fara Zhoř) Vojtové 1763–1816 nejsou."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379",
         "SOkA Jindřichův Hradec, Velkostatek Těchobuz, Rustikální pozemková kniha statku Těchobuz 1785–1850 (inv. 9), fol. 79v, snímek 91 – https://digi.ceskearchivy.cz/127651",
-        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (kn. 8824), fol. 20, 27, 31, snímky 27, 30, 33 – https://digi.ceskearchivy.cz/8824"
+        "SOA Třeboň, Sbírka matrik, NOZ Těchobuz 1784–1822 (kn. 8824), fol. 20, 27, 31, snímky 27, 30, 33 – https://digi.ceskearchivy.cz/8824",
+        "SOA Třeboň, fara Zhoř, kniha 8826 (Z), fol. 207–208, snímky 213–214 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Zhoř, kniha 8824 (N), fol. 17, snímek 25 vpravo (4. 12. 1798)"
       ],
       scans: [
-        {"f":"img/1805_krest_Michalova_Antonie_Techobuz_8824_sn30.jpg","t":"Křest dcery Antonie, Těchobuz 1805 – matka „Kateřina roz. Vojtová z Črmy“"}
+        {"f":"img/1805_krest_Michalova_Antonie_Techobuz_8824_sn30.jpg","t":"Křest dcery Antonie, Těchobuz 1805 – matka „Kateřina roz. Vojtová z Črmy“"},
+        {"f":"img/1848_Z_Michalova_Katerina_Techobuz.jpg","t":"Úmrtí Kateřiny Michalové, výminkářky, Těchobuz č. 19, 2. 10. 1848"}
       ]
     },
     {
