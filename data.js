@@ -2665,21 +2665,24 @@ window.RODOKMEN = {
       maiden: "Šulcová",
       line: "sulc",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1821)","year":1821,"approx":true,"place":"Žitovlice č. p. 8"},
+      b: {"date":"22. 12. 1822","year":1822,"place":"Žitovlice č. p. 8 (fara Rožďalovice)"},
       father: "jan_su",
       mother: "anna_hf",
       spouse: "vaclav_sn",
       marriage: "5. 2. 1839 – s Václavem Šnejdrem",
       notes: [
+        "Pokřtěna 22. 12. 1822 ve Žitovlicích č. 8: otec Jan Šulc, baráčník, matka Anna, dcera Jana Hofmana z Dobrovan; kmotři Kateřina, vdova po † Vojtěchu Sobolovi (?), a Václav Pautník (?), baráčník ze Žitovlic. Při sňatku 1839 uvedeno 17 let (ve skutečnosti 16).",
         "Dcera Jana Šulce, baráčníka ze Žitovlic č. 8 (?) / 18, a Anny roz. Hofmanové, dcery půlsedláka z Dobrovan (křest syna 1846; ROZPOR čísla domu 8 × 18).",
         "Matka Františky Ťukalové, roz. Šnejdrové."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Žitovlice, fol. 85, snímek 85 (22. 12. 1822) – https://ebadatelna.soapraha.cz/d/11184/85"
       ],
       scans: [
+        {"f":"img/1822_N_Sulcova_Katerina_Zitovlice.jpg","t":"Křest Kateřiny Šulcové, Žitovlice č. 8, 22. 12. 1822"},
         {"f":"img/1839_O_Snejdr_Vaclav_Sulcova_Katerina.jpg","t":"Sňatek Václava Šnejdra a Kateřiny Šulcové, Rožďalovice 5. 2. 1839"},
         {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874 (dítě: Františka Tůkalová)"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
@@ -7884,10 +7887,12 @@ window.RODOKMEN = {
       maiden: undefined,
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true},
       d: {"date":"před 5. 2. 1839","year":1838,"approx":true},
       spouse: "anna_sd",
+      marriage: "24. 7. 1796, Seletice (fara Mcely) – s Annou Jírkovou",
       notes: [
+        "Oddán 24. 7. 1796 v Seleticích č. 62 (fara Mcely) jako chalupník ze vsi Pojed, 24 let, s Annou, vlastní dcerou Jiříka Jírka, chalupníka ze Seletic, 18 let; svědci František Kaňourek (?) ze Sovolusk a Marie Anna Neumannová; oddal farář František Ferdinand Tachecký. Rodiče ženicha neuvedeni.",
         "Chalupník v Pojedech č. 9; manželka Anna roz. Jírková ze Seletic; syn Václav (*1817).",
         "Zemřel před 5. 2. 1839 (sňatek syna: „syn † Jana“; také 1846 „†“). ROZPOR: křest vnučky 1852 ho uvádí jako „výměníka“ (bez †) – zřejmě chyba zápisu."
       ],
@@ -7895,9 +7900,11 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 282, snímek 271; index N Rožďalovice 22 sn. 225 – https://ebadatelna.soapraha.cz/d/11187/271",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Pojedy, fol. 99, snímek 98 vpravo – https://ebadatelna.soapraha.cz/d/11184/98",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95",
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 11 (8412, O Seletice), fol. 7, snímek 6 vpravo (24. 7. 1796) – https://ebadatelna.soapraha.cz/d/8412/6"
       ],
       scans: [
+        {"f":"img/1796_O_Snejdr_Jan_Jirkova_Anna.jpg","t":"Sňatek Jana Šnejdra z Pojed s Annou Jírkovou, Seletice 24. 7. 1796"},
         {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
         {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"}
@@ -7909,9 +7916,11 @@ window.RODOKMEN = {
       maiden: "Jírková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (odhad ~1778)","year":1778,"approx":true,"place":"Seletice"},
       father: "jiri_jr",
+      marriage: "24. 7. 1796 – s Janem Šnejdrem",
       notes: [
+        "Oddána 24. 7. 1796 v Seleticích č. 62 (fara Mcely), 18 let, s Janem Šnejdrem z Pojed.",
         "Dcera † Jiřího Jírka, chalupníka ze Seletic (křest syna Václava 1817; také sňatek 1839 a křest vnučky 1852). Manželka Jana Šnejdra z Pojed č. 9.",
         "„Šídková (?)“ z křtu vnuka 1846 = chybné čtení (J a Š si v ruce děkana Horetzkého podobné)."
       ],
@@ -7919,9 +7928,11 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 282, snímek 271; index N Rožďalovice 22 sn. 225 – https://ebadatelna.soapraha.cz/d/11187/271",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Pojedy, fol. 99, snímek 98 vpravo – https://ebadatelna.soapraha.cz/d/11184/98",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95",
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 11 (8412, O Seletice), fol. 7, snímek 6 vpravo (24. 7. 1796) – https://ebadatelna.soapraha.cz/d/8412/6"
       ],
       scans: [
+        {"f":"img/1796_O_Snejdr_Jan_Jirkova_Anna.jpg","t":"Sňatek Jana Šnejdra z Pojed s Annou Jírkovou, Seletice 24. 7. 1796"},
         {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
         {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"}
@@ -7933,15 +7944,21 @@ window.RODOKMEN = {
       maiden: undefined,
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (odhad ~1789)","year":1789,"approx":true},
+      father: "jakub_sl",
       spouse: "anna_hf",
+      marriage: "26. 5. 1818, Dobrovany (fara Rožďalovice) – s Annou Hofmanovou",
       notes: [
-        "Baráčník ve Žitovlicích č. 8 (?) / 18; manželka Anna roz. Hofmanová z Dobrovan."
+        "Baráčník ve Žitovlicích č. 8; oddán 26. 5. 1818 v Dobrovanech (č. 16) jako syn † Jakuba Šulce, baráčníka, 29 let, s Annou, dcerou † Jana Hofmana, sedláka z Dobrovan, 24 (?) let; svědci Václav Šulc, chalupník ze Žitovlic, a Jan Dobrý (?). Děti František (1820), Kateřina (1822)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Žitovlice, fol. 85, snímek 85 (22. 12. 1822) – https://ebadatelna.soapraha.cz/d/11184/85"
       ],
       scans: [
+        {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"},
+        {"f":"img/1822_N_Sulcova_Katerina_Zitovlice.jpg","t":"Křest Kateřiny Šulcové, Žitovlice č. 8, 22. 12. 1822"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
       ]
     },
@@ -7951,14 +7968,19 @@ window.RODOKMEN = {
       maiden: "Hofmanová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      b: {"date":"neznámé (odhad ~1794)","year":1794,"approx":true,"place":"Dobrovany"},
+      father: "jan_hf",
+      marriage: "26. 5. 1818 – s Janem Šulcem",
       notes: [
-        "Dcera půlsedláka Hofmana z Dobrovan; manželka Jana Šulce ze Žitovlic."
+        "Dcera † Jana Hofmana, sedláka (půlsedláka) z Dobrovan; oddána 26. 5. 1818 s Janem Šulcem ze Žitovlic."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Žitovlice, fol. 85, snímek 85 (22. 12. 1822) – https://ebadatelna.soapraha.cz/d/11184/85"
       ],
       scans: [
+        {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
       ]
     },
@@ -8228,6 +8250,38 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1805_N_Jelinek_Jiri_Dzbanice.jpg","t":"Křest Jiřího Jelínka, Džbánice č. 8, 12. 4. 1805"}
+      ]
+    },
+    {
+      id: "jakub_sl",
+      name: "Jakub Šulc",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      notes: [
+        "Baráčník ve Žitovlicích; zemřel před V 1818 (sňatek syna Jana)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118"
+      ],
+      scans: [
+        {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"}
+      ]
+    },
+    {
+      id: "jan_hf",
+      name: "Jan Hofman",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      notes: [
+        "Sedlák (půlsedlák) v Dobrovanech; zemřel před V 1818 (sňatek dcery Anny)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118"
+      ],
+      scans: [
+        {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"}
       ]
     }
   ]
