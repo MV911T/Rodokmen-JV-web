@@ -6263,7 +6263,7 @@ window.RODOKMEN = {
         "Otec mlynáře Jana Vlasáka (křest vnuka Františka 1838); manželka Marie (rodné příjmení nečitelné).",
         "V r. 1833 „Häusler aus Hudlitz (?)“, v r. 1838 nádeník ve Zbečně č. 8.",
         "V r. 1811 „Inwohner von Hudlitz No. 19“ – dcera Anna (*13. 5. 1811, Zbečno č. 20). Pochází tedy z Hudlic (vlastní fara).",
-        "KANDIDÁTI křtu (fara Beroun, Hudlice): 21. 10. 1759 „Jan z otce Františka Wl…ka a matky Anny“ (přesně 35 let k sňatku 1795) a 4. 5. 1760 „Jan Ondřej, syn Františka [stejné příjmení] a Kateřiny“ – dva různí František Wl…k; nerozhodnuto (Beroun 07, sn. 256 a 262)."
+        "KANDIDÁTI křtu (fara Beroun, Hudlice): v Hudlicích žili současně dva František Vlasák – rodina A (× Anna; děti Jan 21. 10. 1759, Kateřina 1764, Anna 1769; kmotři Kulhánkovi) a rodina B (× Kateřina; děti Jan Ondřej 4. 5. 1760, Václav 1762, Antonín Tadeáš 1765 † 1765, Antonín Tomáš 1766, Veronika 1769; kmotři Neuwirtovi), případně i František × Dorota (děti 1763, ~1778). Žádný z obou Janů v Hudlicích 1756–1784 nezemřel – nerozhodnuto (věk 35 v r. 1795 sedí přesněji na Jana *1759)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
