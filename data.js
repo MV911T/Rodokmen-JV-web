@@ -826,7 +826,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
         "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/13 (O Souš 1881–1908), snímek 110 – https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
         "SOA Litoměřice, fara Souš, kniha 150/26 (N 1894–1903), Post-Nr. 39, snímek 406 – https://digi.soalitomerice.cz",
-        "SOA Litoměřice, fara Souš, kniha 150/13 (O 1881–1908), fol. 213, snímek 215 – https://digi.soalitomerice.cz"
+        "SOA Litoměřice, fara Souš, kniha 150/13 (O 1881–1908), fol. 213, snímek 215 – https://digi.soalitomerice.cz",
+        "SOA Litoměřice, fara Souš, N 1903–1914 (sign. 150/32), snímek 38, Post-Nr. 86 – https://digi.soalitomerice.cz"
       ],
       scans: [
         {"f":"img/1951_kronika_techobuz_frantisek_votava.jpg","t":"Kronika Těchobuze 1951 – František Votava č. p. 76"},
@@ -841,7 +842,8 @@ window.RODOKMEN = {
         {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 16. 7. 1894 – ženich"},
         {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"},
         {"f":"img/1902_N_Votava_Josef_sn406_otec_matka.jpg","t":"Křest syna Josefa, Souš 1902 – rodiče Václav Votava a Barbora Zelenková"},
-        {"f":"img/1901_O_Votava_Vaclav_Zelenka_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy (vdovce po Barboře Lodlové † 25. 11. 1900) a Barbory Zelenkové, Souš 5. 5. 1901"}
+        {"f":"img/1901_O_Votava_Vaclav_Zelenka_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy (vdovce po Barboře Lodlové † 25. 11. 1900) a Barbory Zelenkové, Souš 5. 5. 1901"},
+        {"f":"img/1904_N_Votava_Anna_Sous.jpg","t":"Křest dcery Anny (z 2. manželství), Souš 1904"}
       ]
     },
     {
@@ -1332,15 +1334,19 @@ window.RODOKMEN = {
       id: "anna_v",
       name: "Anna Votavová",
       line: "votava",
-      cert: "R",
-      b: {"date":"neznámé (odhad ~1903)","year":1903,"approx":true},
+      cert: "M",
+      b: {"date":"26. 6. 1904","year":1904,"place":"Souš č. p. 105"},
       father: "vaclav1868",
       mother: "barbora_ze",
       notes: [
-        "Sourozenec Václava Votavy (*1899) podle rodinného rodokmenu – nejspíš nevlastní (z 2. manželství otce s Barborou Zelenkovou, po 1901); data neznámá."
+        "Narozena 26. 6., pokřtěna 29. 6. 1904 v Souši č. 105 (kaplan W. Holub): otec Václav Votava, horník příslušný do Těchobuze (okr. Pacov), syn Štěpána Votavy, horníka v Souši č. 102, a † Antonie roz. Michalové; matka Barbora, dcera Karla Zelenky, kováře ve Strašicích č. 193, a Kateřiny roz. Humlové (sňatek rodičů 5. 5. 1901). Kmotra Marie Slapničková. Přípis: 14. 2. 1921 vystoupila z církve (Bh. Brüx).",
+        "Nevlastní sestra Václava Votavy (*1899); potvrzuje „Annu“ z rodinného rodokmenu."
       ],
       sources: [
-        "Ručně kreslený rodokmen Votavů (rodina, nedatováno)"
+        "SOA Litoměřice, fara Souš, N 1903–1914 (sign. 150/32), snímek 38, Post-Nr. 86 – https://digi.soalitomerice.cz"
+      ],
+      scans: [
+        {"f":"img/1904_N_Votava_Anna_Sous.jpg","t":"Křest Anny Votavové, Souš 1904"}
       ]
     },
     {
@@ -6920,7 +6926,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1901_O_Votava_Vaclav_Zelenka_Barbora_Sous_nevesta.jpg","t":"Sňatek 1901 – nevěsta Barbora Zelenková ze Strašic"},
         {"f":"img/1902_N_Votava_Josef_sn406_otec_matka.jpg","t":"Křest syna Josefa, Souš 1902"},
-        {"f":"img/1869_N_Zelenkova_Barbora_Strasice.jpg","t":"Křest Barbory Zelenkové, Strašice 1869 (legitimace 1879)"}
+        {"f":"img/1869_N_Zelenkova_Barbora_Strasice.jpg","t":"Křest Barbory Zelenkové, Strašice 1869 (legitimace 1879)"},
+        {"f":"img/1904_N_Votava_Anna_Sous.jpg","t":"Křest dcery Anny, Souš 1904"}
       ]
     },
     {
