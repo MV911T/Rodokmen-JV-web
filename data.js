@@ -2632,7 +2632,8 @@ window.RODOKMEN = {
       spouse: "terezie_mr",
       occ: "baráčník v Kosíku č. 55 (?)",
       notes: [
-        "Otec Jana Ťukala (*~1845)."
+        "Otec Jana Ťukala (*~1845).",
+        "KANDIDÁT původu: 14. 11. 1848 se v Ohrazenicích u Turnova č. 8 (fara Přepeře, SOA Zámrsk, O 5814 sn. 107) oženil Jiří Ťůkal (24 let), syn Jana Ťůkala, chalupníka z …šina (?) č. 34 (panství Svijany), a Marie roz. Kubové (?) / Kořánové (?) z Vlastibořic č. 27, s Annou, dcerou Jana Mráze z Ohrazenic č. 8 – možná bratr Jana st. a sestra Terezie; nedoloženo. V Ohrazenicích 1834–1850 sňatek Jana × Terezie není."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
@@ -2650,7 +2651,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Vohraženice č. p. 40, okr. Turnov"},
       spouse: "jan_t2",
       notes: [
-        "Matka Jana Ťukala (*~1845)."
+        "Matka Jana Ťukala (*~1845).",
+        "V Ohrazenicích (Vohraženice) u Turnova žili Mrázové na č. 8 a 36 (Jan Mráz, půlsedlák/chalupník); číslo 40 z křtu vnučky 1874 zatím nepotvrzeno."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
