@@ -6146,24 +6146,33 @@ window.RODOKMEN = {
       maiden: "Zvonařová",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1759","year":1759,"approx":true},
+      b: {"date":"3. (?) 10. 1757","year":1757,"place":"Drozdov (fara Cerhovice)"},
       d: {"date":"24. 6. 1796","year":1796,"place":"Drozdov č. p. 34"},
       cause: "náhle po porodu",
+      father: "martin_zv",
+      mother: "dorota_zv",
       spouse: "vaclav_ls",
+      marriage: "23. 11. 1777, Drozdov č. 34 – s Václavem Landsingerem",
       notes: [
+        "Narozena a pokřtěna 3. (?) 10. 1757 v Drozdově jako Mařy Magdalena (dvojče s Kateřinou): otec Martin Zvonař, matka Dorota, poddaní točničtí. Věk 37 při úmrtí 1796 sedí.",
+        "Oddána 23. 11. 1777 jako dcera † Martina Zvonaře s kovářem Václavem Landsingerem.",
         "Zemřela 24. 6. 1796 v Drozdově č. 34 jako manželka kováře Václava Landsingera, 37 let, „improvisa post partum mortua“; o tři dny dřív zemřela její novorozená dcera Dorota.",
         "Manželka Václava Landsingera, obecního kováře v Drozdově; matka Josefa Landsingera; zemřela před 4. 9. 1796.",
-        "Křest vnučky Anny Laukotové (1822) ji uvádí jako matku Magdaleny Laukotové – podle sňatku 1796 je to ale matka jejího otce Josefa (ROZPOR, viz Magdalena Laukotová)."
+        "Matka Josefa (kováře) i Marie Magdaleny (*1788, provdané Laukotové)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9",
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, oddíl Z, snímek 85 – https://ebadatelna.soapraha.cz/d/4555/85",
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, fol. 77, snímek 28 – https://ebadatelna.soapraha.cz/d/4555/28"
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12, fol. 77, snímek 28 – https://ebadatelna.soapraha.cz/d/4555/28",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02, N pag. 326, snímek 167 – https://ebadatelna.soapraha.cz/d/4386/167",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02, O pag. 120, snímek 291 – https://ebadatelna.soapraha.cz/d/4386/291"
       ],
       scans: [
         {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"},
-        {"f":"img/1796_snatek_josef_landsinger_anna_mottlova_drozdov_cerhovice12_sn9_a.jpg","t":"Sňatek Josefa Landsingera a Anny Mottlové, Drozdov 4. 9. 1796"}
+        {"f":"img/1796_snatek_josef_landsinger_anna_mottlova_drozdov_cerhovice12_sn9_a.jpg","t":"Sňatek Josefa Landsingera a Anny Mottlové, Drozdov 4. 9. 1796"},
+        {"f":"img/1757_N_Zvonarova_Magdalena_Drozdov.jpg","t":"Křest Marie Magdaleny Zvonařové, Drozdov 1757"},
+        {"f":"img/1777_O_Landsinger_Vaclav_Zvonarova_Magdalena.jpg","t":"Sňatek Václava Landsingera, kováře, s Magdalenou Zvonařovou, Drozdov 23. 11. 1777"}
       ]
     },
     {
@@ -6246,19 +6255,28 @@ window.RODOKMEN = {
       name: "Václav Landsinger",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1760","year":1760,"approx":true},
+      b: {"date":"neznámé (odhad ~1757)","year":1757,"approx":true},
+      d: {"date":"9. 8. 1827","year":1827,"place":"Drozdov č. p. 8"},
       spouse: "magdalena_zv",
       occ: "obecní kovář v Drozdově",
+      marriage: "1) 23. 11. 1777, Drozdov č. 34 – s Magdalenou Zvonařovou († 1796); 2) 3. (?) 7. 1798, Drozdov – s Kateřinou Šaldovou (?)",
       notes: [
+        "Oddán 23. 11. 1777 v Drozdově (č. 34): „Landsinger Wenceslaus faber cum Magdalena post Zwonař Martinum, sub jurisdictione Tocznicensi“; svědci Josef Mottl a Václav Fabes (?) z Drozdova.",
         "Otec Josefa Landsingera (sňatek 1796); podle indexu narozených Cerhovice 12 i děti Kateřina, Mařena, Matěj, František (1785–1799).",
         "POZOR: kolem 1797 žil v okolí další kovář Václav Landsinger × Mariana Jedličková (?) – jejich syn Josef (23) se 13. 9. 1820 oženil v Cerhovicích s Josefou Švarcerovou (?).",
-        "Podruhé oddán 3. (?) 7. 1798 v Drozdově jako podsedník a kovář, vdovec, 38 let (*~1760), s Kateřinou, dcerou Josefa Šaldy (?), krčmáře z Drozdova; děti Tomáš (1805) a Jan Křtitel (1807), Drozdov č. 4."
+        "Podruhé oddán 3. (?) 7. 1798 v Drozdově jako podsedník a kovář, vdovec, 38 let (*~1760), s Kateřinou, dcerou Josefa Šaldy (?), krčmáře z Drozdova; děti Tomáš (1805) a Jan Křtitel (1807), Drozdov č. 4.",
+        "Zemřel 9. 8. 1827 v Drozdově č. 8 jako „mistr kowářský ze wsi Drozdowa, z panstwí Točnického poddaný“, 73 let (ROZPOR věku: 1798 uvedeno 38 let). Identifikace velmi pravděpodobná (pozor na druhého kováře Václava × Jedličková).",
+        "KANDIDÁT křtu: 3. 5. 1759 Drozdov – Václav, syn Matěje Landsingra a Magdaleny, poddaných točnických (Cerhovice 02, sn. 172) – jediný Landsinger v křtech Drozdova 1754–1761; oddací zápis 1777 rodiče ženicha neuvádí."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9"
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02, O pag. 120, snímek 291 – https://ebadatelna.soapraha.cz/d/4386/291",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 19 (Z 1812–1839), oddíl Drozdov, pag. 188, snímek 98 – https://ebadatelna.soapraha.cz/d/4562/98"
       ],
       scans: [
-        {"f":"img/1796_snatek_josef_landsinger_anna_mottlova_drozdov_cerhovice12_sn9_a.jpg","t":"Sňatek Josefa Landsingera a Anny Mottlové, Drozdov 4. 9. 1796"}
+        {"f":"img/1796_snatek_josef_landsinger_anna_mottlova_drozdov_cerhovice12_sn9_a.jpg","t":"Sňatek Josefa Landsingera a Anny Mottlové, Drozdov 4. 9. 1796"},
+        {"f":"img/1777_O_Landsinger_Vaclav_Zvonarova_Magdalena.jpg","t":"Sňatek Václava Landsingera, kováře, s Magdalenou Zvonařovou, Drozdov 23. 11. 1777"},
+        {"f":"img/1827_Z_Landsinger_Vaclav_Drozdov.jpg","t":"Úmrtí Václava Landsingera, mistra kovářského, Drozdov 9. 8. 1827"}
       ]
     },
     {
@@ -7175,6 +7193,39 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"}
+      ]
+    },
+    {
+      id: "martin_zv",
+      name: "Martin Zvonař",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      notes: [
+        "Z Drozdova, poddaný točnický; manželka Dorota; dcera Marie Magdalena *1757 (dvojče s Kateřinou), syn Jan (*~1755). Zemřel před 23. 11. 1777 (sňatek dcery)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02, N pag. 326, snímek 167 – https://ebadatelna.soapraha.cz/d/4386/167",
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02, O pag. 120, snímek 291 – https://ebadatelna.soapraha.cz/d/4386/291"
+      ],
+      scans: [
+        {"f":"img/1757_N_Zvonarova_Magdalena_Drozdov.jpg","t":"Křest Marie Magdaleny Zvonařové, Drozdov 1757"}
+      ]
+    },
+    {
+      id: "dorota_zv",
+      name: "Dorota Zvonařová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
+      notes: [
+        "Manželka Martina Zvonaře z Drozdova; matka Marie Magdaleny (*1757). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 02, N pag. 326, snímek 167 – https://ebadatelna.soapraha.cz/d/4386/167"
+      ],
+      scans: [
+        {"f":"img/1757_N_Zvonarova_Magdalena_Drozdov.jpg","t":"Křest Marie Magdaleny Zvonařové, Drozdov 1757"}
       ]
     }
   ]
