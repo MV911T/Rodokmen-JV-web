@@ -7132,13 +7132,15 @@ window.RODOKMEN = {
       name: "Pavel Hrabovský",
       line: "hrabovsky",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1660)","year":1660,"approx":true},
+      b: {"date":"neznámé (odhad ~1645)","year":1645,"approx":true},
       notes: [
         "Z Heršpic; zemřel před srpnem 1710 (oddací zápis syna Kašpara: „filius post defunctum Paulum Hrabowsky ex Herspitz“).",
-        "Úmrtí nenalezeno v Z Slavkov VII 1704 – V 1711 → zemřel nejspíš před VII 1704 (starší úmrtní matrika 1665 – VI 1704 se nedochovala). Sňatek zatím nenalezen."
+        "Dcera Juliana se 9. 2. 1694 vdala za Jana Janíka z Heršpic („Juliana Pauli Hrabowsky filia ex Herspitz“; MZA, Slavkov 13119, sn. 124) – Pavel tehdy nejspíš žil; ženil se tedy asi před 1674. KANDIDÁT: syn Martin Hrabovský (× II 1695 Anna, dcera Jana Schusti (?); † před XII 1708 v Rašovicích).",
+        "Úmrtí nenalezeno v Z Slavkov VII 1704 – V 1711 → zemřel nejspíš před VII 1704 (starší úmrtní matrika 1665 – VI 1704 se nedochovala). Sňatek nenalezen v O Slavkov 1675–1704."
       ],
       sources: [
-        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 175 vpravo – 176 vlevo (srpen 1710) – https://www.mza.cz/actapublica/matrika/detail/1946"
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 175 vpravo – 176 vlevo (srpen 1710) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, fara Slavkov, NOZ 1690–1707 (sign. 13119), O, snímek 124 vlevo (únor 1694) – https://www.mza.cz/actapublica/matrika/detail/1942"
       ],
       scans: [
         {"f":"img/1710_O_Hrabovsky_Kaspar_Novakova_Magdalena.jpg","t":"První sňatek Kašpara Hrabovského, syna † Pavla z Heršpic, s Magdalenou Novákovou, Slavkov 19. 8. 1710"}
@@ -7268,7 +7270,14 @@ window.RODOKMEN.moves = [
 
 // Historical events for the context column right of the year ruler; y2 = end year of a period (drawn as a band), major = shown even when zoomed out
 window.RODOKMEN.events = [
+  {"y":1618,"y2":1648,"t":"Třicetiletá válka – vylidnění venkova, ztráta starých matrik","s":"třicetiletá válka","major":true},
+  {"y":1654,"t":"Berní rula – první soupis poddaných v Čechách","s":"berní rula"},
+  {"y":1680,"t":"Selské povstání a první robotní patent","s":"robotní patent"},
+  {"y":1748,"t":"Tereziánský katastr","s":"tereziánský katastr"},
+  {"y":1781,"t":"Zrušení nevolnictví","s":"konec nevolnictví"},
+  {"y":1848,"t":"Zrušení roboty","s":"konec roboty"},
   {"y":1867,"t":"Rakousko-uherské vyrovnání","s":"Rakousko-Uhersko"},
+  {"y":1872,"t":"Rozmach těžby hnědého uhlí na Mostecku","s":"uhlí na Mostecku"},
   {"y":1914,"y2":1918,"t":"První světová válka","s":"1. sv. válka","major":true},
   {"y":1918,"t":"Vznik Československa","s":"ČSR","major":true},
   {"y":1938,"t":"Mnichovská dohoda – Most a Chomutov připadly Německu","s":"Mnichov"},
@@ -7278,10 +7287,5 @@ window.RODOKMEN.events = [
   {"y":1968,"t":"Pražské jaro a okupace","s":"srpen 1968"},
   {"y":1989,"t":"Sametová revoluce","s":"listopad 1989","major":true},
   {"y":1993,"t":"Vznik České republiky","s":"vznik ČR"},
-  {"y":2004,"t":"Vstup do Evropské unie","s":"vstup do EU"},
-  {"y":1848,"t":"Zrušení roboty","s":"konec roboty"},
-  {"y":1872,"t":"Rozmach těžby hnědého uhlí na Mostecku","s":"uhlí na Mostecku"},
-  {"y":1680,"t":"Selské povstání a první robotní patent","s":"robotní patent"},
-  {"y":1748,"t":"Tereziánský katastr","s":"tereziánský katastr"},
-  {"y":1781,"t":"Zrušení nevolnictví","s":"konec nevolnictví"}
+  {"y":2004,"t":"Vstup do Evropské unie","s":"vstup do EU"}
 ];
