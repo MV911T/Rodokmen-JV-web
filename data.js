@@ -8002,16 +8002,25 @@ window.RODOKMEN = {
       name: "Jiří Jelínek",
       line: "jelinek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      b: {"date":"12. 4. 1805","year":1805,"place":"Džbánice č. p. 8 (fara Trstěnice)"},
+      father: "alexandr_je",
+      mother: "marianna_hb",
       spouse: "frantiska_je",
       occ: "čtvrtník v Džbánicích č. 8, kožešník",
+      marriage: "6. 2. 1833, Džbánice (fara Trstěnice) – s Františkou Jelínkovou",
       notes: [
+        "Pokřtěn 12. 4. 1805 v Džbánicích č. 8: otec Alexander Jelínek, čtvrtník, matka Marianna roz. Holbová; kmotři Jakub Vřesný (?) a Barbora, pololáníci ve Stiegnitz (Trstěnice).",
+        "Oddán 6. 2. 1833 jako čtvrtník z Džbánic č. 8, syn † Alexandra Jelínka, čtvrtníka, a Marianny roz. Holbové, 27 let, s Františkou, dcerou Václava Jelínka, domkáře v Džbánicích č. 33, 20 let („cognomen idem, nulla tamen consanguinitas nec affinitas“); otec nevěsty dal písemný souhlas.",
         "Čtvrtník v Džbánicích č. 8 (fara Trstěnice); manželka Františka roz. Jelínková; děti 1840–1851. Zemřel mezi III 1876 a VIII 1880. (Pozor: Franz Jelínek, čtvrtník z Džbánic č. 7, † 12. 7. 1880 ve 40 letech, je jiný člověk.)"
       ],
       sources: [
-        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217"
+        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217",
+        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220",
+        "MZA Brno, fara Trstěnice, N 1784–1828 (sign. 14733), oddíl Žbanitz, snímek 156 vpravo (12. 4. 1805) – https://www.mza.cz/actapublica/matrika/detail/2216"
       ],
       scans: [
+        {"f":"img/1805_N_Jelinek_Jiri_Dzbanice.jpg","t":"Křest Jiřího Jelínka, Džbánice č. 8, 12. 4. 1805"},
+        {"f":"img/1833_O_Jelinek_Jiri_Frantiska.jpg","t":"Sňatek Jiřího Jelínka s Františkou Jelínkovou, Džbánice 6. 2. 1833"},
         {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
       ]
     },
@@ -8021,17 +8030,20 @@ window.RODOKMEN = {
       maiden: "Jelínková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      b: {"date":"neznámé (odhad ~1813)","year":1813,"approx":true},
       father: "vaclav_je",
       mother: "marianna_je",
       spouse: "jiri_je",
+      marriage: "6. 2. 1833 – s Jiřím Jelínkem",
       notes: [
-        "Dcera Václava a Marianny Jelínkových, podruhů v Džbánicích; manželka Jiřího Jelínka. V pozdějších zápisech zkomoleně „Julinková“."
+        "Dcera Václava Jelínka, domkáře v Džbánicích č. 33, a Marianny roz. Miechslové (?); oddána 6. 2. 1833 (20 let). V pozdějších zápisech zkomoleně „Julinková“."
       ],
       sources: [
-        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217"
+        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217",
+        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220"
       ],
       scans: [
+        {"f":"img/1833_O_Jelinek_Jiri_Frantiska.jpg","t":"Sňatek Jiřího Jelínka s Františkou Jelínkovou, Džbánice 6. 2. 1833"},
         {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
       ]
     },
@@ -8043,10 +8055,11 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
       spouse: "marianna_je",
       notes: [
-        "Podruh v Džbánicích; otec Františky Jelínkové (křest vnuka Jana 1849)."
+        "Domkář (podruh) v Džbánicích č. 33; otec Františky Jelínkové (sňatek 1833, křest vnuka Jana 1849)."
       ],
       sources: [
-        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217"
+        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217",
+        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220"
       ],
       scans: [
         {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
@@ -8055,6 +8068,7 @@ window.RODOKMEN = {
     {
       id: "marianna_je",
       name: "Marianna Jelínková",
+      maiden: "Miechslová (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
@@ -8063,7 +8077,8 @@ window.RODOKMEN = {
         "Manželka Václava Jelínka, podruha v Džbánicích; rodné příjmení neznámé."
       ],
       sources: [
-        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217"
+        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217",
+        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220"
       ],
       scans: [
         {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
@@ -8174,6 +8189,45 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"}
+      ]
+    },
+    {
+      id: "alexandr_je",
+      name: "Alexandr Jelínek",
+      line: "jelinek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1767)","year":1767,"approx":true},
+      spouse: "marianna_hb",
+      marriage: "4. (?) 5. 1790, Džbánice – s Marií Holbovou",
+      notes: [
+        "Čtvrtník v Džbánicích č. 8; oddán 4. (?) 5. 1790 (23 let) s Marií, dcerou Josefa Holba (?), 18 let. Děti Marianna (1803), Jiří (1805), snad Jakub (1809). Zemřel před 1833."
+      ],
+      sources: [
+        "MZA Brno, fara Trstěnice, N 1784–1828 (sign. 14733), oddíl Žbanitz, snímek 156 vpravo (12. 4. 1805) – https://www.mza.cz/actapublica/matrika/detail/2216",
+        "MZA Brno, fara Trstěnice, O (sign. 14739), pag. 2, snímek 138 vlevo (4. (?) 5. 1790)",
+        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220"
+      ],
+      scans: [
+        {"f":"img/1805_N_Jelinek_Jiri_Dzbanice.jpg","t":"Křest Jiřího Jelínka, Džbánice č. 8, 12. 4. 1805"}
+      ]
+    },
+    {
+      id: "marianna_hb",
+      name: "Marianna Jelínková",
+      maiden: "Holbová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true},
+      spouse: "alexandr_je",
+      notes: [
+        "Dcera Josefa Holba (?); manželka Alexandra Jelínka, čtvrtníka v Džbánicích č. 8."
+      ],
+      sources: [
+        "MZA Brno, fara Trstěnice, N 1784–1828 (sign. 14733), oddíl Žbanitz, snímek 156 vpravo (12. 4. 1805) – https://www.mza.cz/actapublica/matrika/detail/2216",
+        "MZA Brno, fara Trstěnice, O (sign. 14739), pag. 2, snímek 138 vlevo (4. (?) 5. 1790)"
+      ],
+      scans: [
+        {"f":"img/1805_N_Jelinek_Jiri_Dzbanice.jpg","t":"Křest Jiřího Jelínka, Džbánice č. 8, 12. 4. 1805"}
       ]
     }
   ]
