@@ -2333,17 +2333,22 @@ window.RODOKMEN = {
       line: "snajdr",
       cert: "M",
       b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      father: "jan_sn",
+      mother: "anna_sd",
       spouse: "katerina_su",
       occ: "chalupník v Pojedí č. 9, okr. Libáň",
       notes: [
+        "Chalupník v Pojedech č. 9 (fara Rožďalovice); syn † Jana Šnejdra, chalupníka z Pojed č. 9, a Anny roz. Šídkové (?) z K… (?). Manželka Kateřina roz. Šulcová ze Žitovlic. Děti: Františka (× Ťukal), František Serafín (21. 12. 1846), Václav (1849), Marie (1851).",
         "Otec Františky Tůkalové, roz. Šnajdrové."
       ],
       sources: [
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253"
       ],
       scans: [
-        {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874 (dítě: Františka Tůkalová)"}
+        {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874 (dítě: Františka Tůkalová)"},
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
       ]
     },
     {
@@ -2652,15 +2657,20 @@ window.RODOKMEN = {
       line: "sulc",
       cert: "M",
       b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Žitovlice č. p. 18"},
+      father: "jan_su",
+      mother: "anna_hf",
       spouse: "vaclav_sn",
       notes: [
+        "Dcera Jana Šulce, baráčníka ze Žitovlic č. 8 (?) / 18, a Anny roz. Hofmanové, dcery půlsedláka z Dobrovan (křest syna 1846; ROZPOR čísla domu 8 × 18).",
         "Matka Františky Ťukalové, roz. Šnejdrové."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253"
       ],
       scans: [
-        {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874 (dítě: Františka Tůkalová)"}
+        {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874 (dítě: Františka Tůkalová)"},
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
       ]
     },
     {
@@ -7828,6 +7838,76 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1779_N_Holubova_Anna_Osek.jpg","t":"Křest Anny Holubové, Osek č. 8, 25. 7. 1779"},
         {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"}
+      ]
+    },
+    {
+      id: "jan_sn",
+      name: "Jan Šnejdr",
+      maiden: undefined,
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      spouse: "anna_sd",
+      notes: [
+        "Chalupník v Pojedech č. 9; zemřel před XII 1846. Manželka Anna roz. Šídková (?). Děti Václav (*~1815) a Marie."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253"
+      ],
+      scans: [
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
+      ]
+    },
+    {
+      id: "anna_sd",
+      name: "Anna Šnejdrová",
+      maiden: "Šídková (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      notes: [
+        "Manželka Jana Šnejdra z Pojed č. 9; z obce K… (?) – čtení nejisté."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253"
+      ],
+      scans: [
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
+      ]
+    },
+    {
+      id: "jan_su",
+      name: "Jan Šulc",
+      maiden: undefined,
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      spouse: "anna_hf",
+      notes: [
+        "Baráčník ve Žitovlicích č. 8 (?) / 18; manželka Anna roz. Hofmanová z Dobrovan."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253"
+      ],
+      scans: [
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
+      ]
+    },
+    {
+      id: "anna_hf",
+      name: "Anna Šulcová",
+      maiden: "Hofmanová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      notes: [
+        "Dcera půlsedláka Hofmana z Dobrovan; manželka Jana Šulce ze Žitovlic."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253"
+      ],
+      scans: [
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
       ]
     }
   ]
