@@ -2194,7 +2194,8 @@ window.RODOKMEN = {
         "Dcera Matěje Flemra (?), chalupníka z Tučap č. 36, a Kateřiny, dcery Vojtěcha (?) Kříže, chalupníka z Chýšky č. 18.",
         "Synové Vojtěch (1816) a Matěj (1819) pokřtěni v Jetřichovci č. 10 (fara Pacov) – v zápisech „Kateřina roz. Matěje Flemrowa (?) z Tučap“.",
         "Zemřela 17. 8. 1841 v Těchobuzi č. 36 ve 46 letech, pohřbena ve Zhoři.",
-        "Vdova Kateřina Votavová, která zemřela 1. 10. 1866, je druhá manželka Jana Votavy (Kateřina Kočová), ne Štěpánova matka – rozpor vyřešen."
+        "Vdova Kateřina Votavová, která zemřela 1. 10. 1866, je druhá manželka Jana Votavy (Kateřina Kočová), ne Štěpánova matka – rozpor vyřešen.",
+        "KANDIDÁT původu: Velká Chyška (fara, okr. Pelhřimov, 6 km od Pacova) – listopad 1791 tam č. 45 sňatek Matěje Hamra (?), 23 let, a Kateřiny Křížové (?), 20 let (kniha 8195, sn. 4); příjmení otce lze v zápisu 1834 číst „Hamra“ i „Flemra“. Neověřeno (čísla domů nesedí)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2855,7 +2856,8 @@ window.RODOKMEN = {
       spouse: "katerina_kr",
       occ: "chalupník v Tučapech č. 36",
       notes: [
-        "Otec Kateřiny Votavové; čtení příjmení nejisté."
+        "Otec Kateřiny Votavové; čtení příjmení nejisté.",
+        "KANDIDÁT: Matěj Hamr (?) oddaný XI 1791 ve Velké Chyšce č. 45 s Kateřinou Křížovou (?) (SOA Třeboň, kniha 8195, sn. 4)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
