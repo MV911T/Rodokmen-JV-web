@@ -7613,16 +7613,20 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1692)","year":1692,"approx":true},
       d: {"date":"5. 5. 1747","year":1747,"place":"Hodějice"},
       spouse: "katerina_hz",
+      marriage: "25. 5. 1721 (fara Slavkov) – s Kateřinou Schustovou",
       notes: [
+        "Oddán 25. 5. 1721 jako „hon. Juvenis Paulus Hrazdirek cum hon. Virg. Catharina filia Jacobi Schusta, Hodegiciis“; svědci Jiří Florián a Pavel Němčanský z Hodějic.",
         "Sedlák v Hodějicích; s Kateřinou děti Josef (23. 1. 1722), Apolonie (I 1724), František (X 1725), Martin (4. 10. 1727).",
         "Zemřel 5. 5. 1747 v Hodějicích, 55 let (věk čten s jistotou D).",
         "KANDIDÁT: syn Pavla Hrazdírka st. († VII 1707 Hodějice, ~60 let) × Alžběty (vdova se 1711 znovu vdala); sňatek s Kateřinou nenalezen."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
-        "MZA Brno, fara Slavkov, NOZ (sign. 13121), Z, snímek 355 vpravo (5. 5. 1747) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov, NOZ (sign. 13121), Z, snímek 355 vpravo (5. 5. 1747) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
+        {"f":"img/1721_O_Hrazdirek_Pavel_Schustova_Katerina.jpg","t":"Sňatek Pavla Hrazdírka s Kateřinou, dcerou Jakuba Schusty, Hodějice 25. 5. 1721"},
         {"f":"img/1727_N_Hrazdilek_Martin_Hodejice.jpg","t":"Křest Martina Hrazdílka, syna Pavla a Kateřiny, Hodějice 4. 10. 1727"},
         {"f":"img/1747_Z_Hrazdirek_Pavel_Hodejice.jpg","t":"Úmrtí Pavla Hrazdírka, Hodějice 5. 5. 1747"}
       ]
@@ -7630,17 +7634,22 @@ window.RODOKMEN = {
     {
       id: "katerina_hz",
       name: "Kateřina Hrazdírková",
+      maiden: "Schustová (Šustová ?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
+      father: "jakub_su",
       spouse: "pavel_hz",
+      marriage: "25. 5. 1721 – s Pavlem Hrazdírkem",
       notes: [
-        "Manželka Pavla Hrazdírka z Hodějic; matka Martina (*1727). Rodné příjmení neznámé."
+        "Dcera Jakuba Schusty z Hodějic; oddána 25. 5. 1721 s Pavlem Hrazdírkem. Matka Martina (*1727). Úmrtí 1748–1754 nenalezeno."
       ],
       sources: [
-        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946"
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
+        {"f":"img/1721_O_Hrazdirek_Pavel_Schustova_Katerina.jpg","t":"Sňatek Pavla Hrazdírka s Kateřinou, dcerou Jakuba Schusty, Hodějice 25. 5. 1721"},
         {"f":"img/1727_N_Hrazdilek_Martin_Hodejice.jpg","t":"Křest Martina Hrazdílka, syna Pavla a Kateřiny, Hodějice 4. 10. 1727"}
       ]
     },
@@ -7729,6 +7738,22 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1768_N_Hamr_Matej_Zelec.jpg","t":"Křest Matěje Hemmera (Hamra), syna Tomáše, pohodného želečského, a Rosiny, 28. 1. 1768"}
+      ]
+    },
+    {
+      id: "jakub_su",
+      name: "Jakub Schusta (Šusta ?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1670)","year":1670,"approx":true},
+      notes: [
+        "Z Hodějic; otec Kateřiny (sňatek s Pavlem Hrazdírkem 25. 5. 1721). Pozor: v Heršpicích žili Schustové také (Anna, dcera Jana Schusti × 1695 Martin Hrabovský; Havel Schusta, svědek 1754)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946"
+      ],
+      scans: [
+        {"f":"img/1721_O_Hrazdirek_Pavel_Schustova_Katerina.jpg","t":"Sňatek Pavla Hrazdírka s Kateřinou, dcerou Jakuba Schusty, Hodějice 25. 5. 1721"}
       ]
     }
   ]
