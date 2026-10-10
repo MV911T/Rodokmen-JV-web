@@ -6253,8 +6253,9 @@ window.RODOKMEN = {
       name: "Jan Vlasák",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1760","year":1760,"approx":true,"place":"Hudlice"},
+      b: {"date":"21. 10. 1759 (?)","year":1759,"approx":true,"place":"Hudlice"},
       father: "frantisek_vh",
+      mother: "anna_vh",
       spouse: "marie_ja",
       occ: "nádeník ve Zbečně č. 8",
       marriage: "11. 10. 1795, Sýkořice (fara Zbečno) – s Marií Jonášovou",
@@ -6263,17 +6264,20 @@ window.RODOKMEN = {
         "Otec mlynáře Jana Vlasáka (křest vnuka Františka 1838); manželka Marie (rodné příjmení nečitelné).",
         "V r. 1833 „Häusler aus Hudlitz (?)“, v r. 1838 nádeník ve Zbečně č. 8.",
         "V r. 1811 „Inwohner von Hudlitz No. 19“ – dcera Anna (*13. 5. 1811, Zbečno č. 20). Pochází tedy z Hudlic (vlastní fara).",
-        "KANDIDÁTI křtu (fara Beroun, Hudlice): v Hudlicích žili současně dva František Vlasák – rodina A (× Anna; děti Jan 21. 10. 1759, Kateřina 1764, Anna 1769; kmotři Kulhánkovi) a rodina B (× Kateřina; děti Jan Ondřej 4. 5. 1760, Václav 1762, Antonín Tadeáš 1765 † 1765, Antonín Tomáš 1766, Veronika 1769; kmotři Neuwirtovi), případně i František × Dorota (děti 1763, ~1778). Žádný z obou Janů v Hudlicích 1756–1784 nezemřel – nerozhodnuto (věk 35 v r. 1795 sedí přesněji na Jana *1759)."
+        "Nejspíš pokřtěn 21. 10. 1759 v Hudlicích (fara Beroun): „Jan z otce Františka Wlasáka a matky Anny, poddaných křivoklátských“ (kmotr Jan …, šafář; svědci Josef Leber a Veronika). Sourozenci Kateřina (1764), Anna (1769). Druhý kandidát Jan Ondřej (*1760, rodina Františka × Kateřiny z č. 36) odpadá – jeho otec zemřel až 26. 3. 1803 (78 let), kdežto otec ženicha byl v r. 1795 už mrtvý. Třetí František (× Dorota) syna Jana neměl. Jistota K+ (úmrtí Františka × Anny nenalezeno)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 79, snímek 42 – https://ebadatelna.soapraha.cz/d/8855/42",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6",
+        "SOA Praha, ř.-k. fara Beroun, kniha Beroun 07 (N 1739–1760), oddíl Hudlice, snímek 256 – https://ebadatelna.soapraha.cz/d/3909/256",
+        "SOA Praha, ř.-k. fara Hudlice, kniha Hudlice 12 (Z 1785–1833), pag. 28, snímek 17 – https://ebadatelna.soapraha.cz/d/5798/17"
       ],
       scans: [
         {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"},
-        {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"}
+        {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"},
+        {"f":"img/1759_krest_jan_vlasak_hudlice_beroun07_sn256.jpg","t":"Kandidátní křest Jana Vlasáka, Hudlice 21. 10. 1759"}
       ]
     },
     {
@@ -6422,9 +6426,11 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
       d: {"date":"před 11. 10. 1795","year":1795,"approx":true},
+      spouse: "anna_vh",
       occ: "Hudlice (poddaný panství Křivoklát)",
       notes: [
-        "Otec Jana Vlasáka st. (sňatek 1795)."
+        "Otec Jana Vlasáka st. (sňatek 1795).",
+        "Manželka Anna (křty dětí 1759, 1764, 1769; kmotři Kulhánkovi). Pozor: v Hudlicích současně František Vlasák × Kateřina (č. 36, rychtář, † 26. 3. 1803) a František × Dorota (č. 18). Úmrtí tohoto Františka nenalezeno (Hudlice 1756–1802)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6"
@@ -6745,6 +6751,20 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1744_N_13121_sn41L_krest_Pavel_Hrabovsky_otec_Kaspar_24-3-1744_plne_rozl.jpg","t":"Křest Pavla Hrabovského, Hodějice 24. (III ?) 1744"}
+      ]
+    },
+    {
+      id: "anna_vh",
+      name: "Anna Vlasáková",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1735)","year":1735,"approx":true},
+      spouse: "frantisek_vh",
+      notes: [
+        "KANDIDÁT: matka Jana Vlasáka st. podle křtu 21. 10. 1759 (Hudlice) – ztotožnění velmi pravděpodobné, neověřené."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Beroun, kniha Beroun 07 (N 1739–1760), oddíl Hudlice, snímek 256 – https://ebadatelna.soapraha.cz/d/3909/256"
       ]
     }
   ]
