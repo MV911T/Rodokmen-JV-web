@@ -7188,7 +7188,9 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
       notes: [
         "Z Oseku; zemřel před únorem 1763 (sňatek syna Šimona). Dvakrát ženatý: s Ludmilou (syn Šimon *1732) a s Kateřinou (syn Šimon *1746).",
-        "Vazba na Matěje Holuba (~1690) zatím nedoložena."
+        "KANDIDÁT: syn Matěje Holuba (~1690) – Matějův syn Pavel zemřel 27. 4. 1740 ve 22 letech „po neb. Matějovi Holubovi“ (Osek 03 Z, sn. 156); vazba Kašpar → Matěj nedoložena.",
+        "ROZPOR / otázka: Ludmila Holubová zemřela 6. 3. 1753 (51 let) a Kateřina Holubová 26. 5. 1759 (45 let), obě z Oseka bez uvedení manžela – pokud byla Ludmila Kašparovou ženou (syn Šimon 1732), nemohl týž Kašpar mít 1746 manželku Kateřinu; možná dva Kašparové Holubové. Úmrtí Kašpara v Oseku X 1746 – II 1763 nenalezeno.",
+        "Vnuk Kašpar (syn Šimona, *21. 6. 1771) zemřel 10. 7. 1771 v Oseku č. 85."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 04 (O), snímek 75 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_0750-o"
