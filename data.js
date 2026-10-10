@@ -5507,7 +5507,7 @@ window.RODOKMEN = {
       marriage: "20. 7. 1806, Hodějice – s Jiřím Hrabovským",
       notes: [
         "Dcera Martina Šimoníka, čtvrtníka v Hodějicích č. 35; oddána 20. 7. 1806 (20 let). Matka Josefa Hrabovského (*1819).",
-        "KANDIDÁT křtu: 22. 7. 1785 Hodějice č. 52 – Magdalena, dcera Martina Šimoníka a Johanny (N 13122, str. 20) – věk 20 v r. 1806 sedí, číslo domu ne (52 × 35). Pozor: jiná Magdalena Šimoníková *14. 7. 1788 (otec Josef)."
+        "KANDIDÁT křtu: 22. 7. 1785 Hodějice č. 52 – Magdalena, dcera Martina Šimoníka a Johanny (N 13122, str. 20) – věk 20 v r. 1806 sedí, číslo domu ne (52 × 35). Pozor: jiná Magdalena Šimoníková *14. 7. 1788 (otec Josef). Rodiče se vzali 6. 5. 1783 v č. 52 – číslo domu 52 sedí s křtem 1785."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -6466,7 +6466,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Jiřího Hrabovského (sňatek 1806).",
         "Manželka Kateřina; děti v Hodějicích 1779–1793 (Marianna ?, Kateřina 1782, Vavřinec 1790, Vincenc 1792 …). Křest Jiřího (*~1785) v indexu 1784–1794 chybí.",
-        "Syn Pavel *6. 6. 1788 v Hodějicích č. 50 („Paul Hrabowsky, Viertler – Katharina“; N 13122, str. 74). Index narozených u Hodějic je neúplný."
+        "Syn Pavel *6. 6. 1788 v Hodějicích č. 50 („Paul Hrabowsky, Viertler – Katharina“; N 13122, str. 74). Index narozených u Hodějic je neúplný.",
+        "Manželka Kateřina roz. Fischová (?) (křest syna Vavřince 1790, jedno čtení). Svědek na sňatku Martina Šimoníka 1783."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
@@ -6481,16 +6482,21 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      spouse: "johanna_mg",
       occ: "čtvrtník v Hodějicích č. 35",
+      marriage: "2. sňatek 6. 5. 1783, Hodějice – s Johannou Magkovou (?)",
       notes: [
         "Otec Magdaleny Hrabovské (sňatek 1806).",
-        "Manželka Johanna (křty 1784, 1785)."
+        "Manželka Johanna (křty 1784, 1785).",
+        "Podruhé oddán 6. 5. 1783 v Hodějicích (č. 52) jako vdovec s Johannou, dcerou † Antonína Magka (?) z Hodějic; svědci Pavel Hrabovský (budoucí tchán dcery Magdaleny) a Jakub Ambrosík."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 15 – https://www.mza.cz/actapublica/matrika/detail/1958"
       ],
       scans: [
-        {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"}
+        {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"},
+        {"f":"img/1783_O_13136_sn15R_Simonik_Martin_x_Johanna_Magek_svedek_Pavel_Hrabovsky_offset1.jpg","t":"Sňatek Martina Šimoníka a Johanny Magkové (?), Hodějice 6. 5. 1783"}
       ]
     },
     {
@@ -6607,6 +6613,25 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1813_Z_13149_sn126R_str145_Krenovice35_Spacil_Matej_umrti_plne_rozl.jpg","t":"Úmrtí Matěje Spačila, Křenovice 29. 6. 1813"}
+      ]
+    },
+    {
+      id: "johanna_mg",
+      name: "Johanna Šimoníková",
+      maiden: "Magková (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      spouse: "martin_si",
+      marriage: "6. 5. 1783, Hodějice – s Martinem Šimoníkem (vdovcem)",
+      notes: [
+        "Dcera † Antonína Magka (?) z Hodějic; matka Jana (1784) a Magdaleny (kandidát 1785). Příjmení čteno jen v nižším rozlišení."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 15 – https://www.mza.cz/actapublica/matrika/detail/1958"
+      ],
+      scans: [
+        {"f":"img/1783_O_13136_sn15R_Simonik_Martin_x_Johanna_Magek_svedek_Pavel_Hrabovsky_offset1.jpg","t":"Sňatek Martina Šimoníka a Johanny Magkové (?), Hodějice 6. 5. 1783"}
       ]
     }
   ]
