@@ -2633,7 +2633,8 @@ window.RODOKMEN = {
         "Zemřel 22. 6. 1840 (pohřben 24. 6.) v Oseku jako „bývalý mistr ševcovský“, uvedeno 71 let, na zimnici a souchotiny (?). ROZPOR věku: podle 2. sňatku 1814 *~1778, podle úmrtí ~1769. Další řádky zápisu („… b. vojáku … invalid (?) … pluk Plzeňského kraje“) naznačují, že byl vysloužilý voják / invalida, snad zemské obrany Plzeňského kraje – čtení nejisté; to by vysvětlovalo jeho příchod „odjinud“ (1804).",
         "S Annou Holubovou dcera Anna (20. 7. 1815, Osek č. 84).",
         "KANDIDÁT příbuzného: Josef Lodl, podruh ve Volduchách č. 28 (syn Matěj *7. 1. 1821, manželka Marie Herglová (?)) – možná bratr nebo synovec. Děti Martina s Annou Holubovou po 1815 v Oseku nenalezeny.",
-        "S Annou Holubovou měl i dceru Kateřinu – 19. 5. 1840 jí v Oseku č. 83 zemřel měsíční syn Jiří (otec neuveden)."
+        "S Annou Holubovou měl i dceru Kateřinu – 19. 5. 1840 jí v Oseku č. 83 zemřel měsíční syn Jiří (otec neuveden).",
+        "Původ: ve faře Osek se nenarodil – rejstříky N celé fary 1760–1805 (Osek 04, Osek 05 Volduchy a Vitinka) i listování Volduch 1772–1781 bez Lodla. Oddací zápis 1814 (Osek 07) rodiče neuvádí. Nejspíš vysloužilý voják odjinud – další stopa: VÚA (kmenové listy IR 35 / Landwehr Plzeňsko 1808–1815)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
