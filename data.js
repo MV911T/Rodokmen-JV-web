@@ -6931,7 +6931,8 @@ window.RODOKMEN = {
         "Narozena 28. 6., pokřtěna 29. 6. 1869 ve Strašicích č. 133 jako nemanželská dcera Kateřiny Humlové (dcery † Petra Humla, souseda ve Strašicích č. 133, a Barbory roz. Švambergové z č. 138); otec Karel Zelenka, kovář ve Strašicích č. 193 (syn kováře Karla Zelenky a Johanny roz. Žákové z č. 192), se k otcovství přihlásil 19. 7. 1879 (legitimace). Rodiče se vzali 30. 5. 1871 ve Strašicích.",
         "Při sňatku 1901 svobodná, bytem Souš č. 102. Syn Josef (*21. 2. 1902, Souš č. 102).",
         "Nevlastní babička Václava Votavy (*1899).",
-        "KANDIDÁT: úmrtí 16. 5. 1918 z rodinné paměti (dopis vnuka) patří nejspíš jí."
+        "KANDIDÁT: úmrtí 16. 5. 1918 z rodinné paměti (dopis vnuka) patří nejspíš jí.",
+        "Mladší sestra Marie Zelenková (*15. 4. 1883 Strašice č. 193) bydlela u Votavů v Souši č. 105; 8. 9. 1905 se jí tam narodil nemanželský syn Ladislav († 21. 6. 1906) (SOA Litoměřice, N Souš 150/32, sn. 87)."
       ],
       sources: [
         "SOA Litoměřice, fara Souš, kniha 150/13 (O 1881–1908), fol. 213, snímek 215 – https://digi.soalitomerice.cz",
