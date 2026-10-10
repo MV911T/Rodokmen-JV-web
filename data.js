@@ -7135,12 +7135,14 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1645)","year":1645,"approx":true},
       notes: [
         "Z Heršpic; zemřel před srpnem 1710 (oddací zápis syna Kašpara: „filius post defunctum Paulum Hrabowsky ex Herspitz“).",
+        "Oddán (II 1674, fara Slavkov) jako vdovec: „Pawel Hrabowsky wdowecz z Herspicz pojal sobie Alzbietu dieweczku s. n. Adamowi Tisse (?) z Hrussek (?)“ (MZA, Slavkov 13118, sn. 28 vlevo). KANDIDÁT: Alžběta je matkou Kašpara (*~1688); první sňatek Pavla před 1674 (O 1662–1668 se nedochovaly).",
         "Dcera Juliana se 9. 2. 1694 vdala za Jana Janíka z Heršpic („Juliana Pauli Hrabowsky filia ex Herspitz“; MZA, Slavkov 13119, sn. 124) – Pavel tehdy nejspíš žil; ženil se tedy asi před 1674. KANDIDÁT: syn Martin Hrabovský (× II 1695 Anna, dcera Jana Schusti (?); † před XII 1708 v Rašovicích).",
         "Úmrtí nenalezeno v Z Slavkov VII 1704 – V 1711 → zemřel nejspíš před VII 1704 (starší úmrtní matrika 1665 – VI 1704 se nedochovala). Sňatek nenalezen v O Slavkov 1675–1704."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 175 vpravo – 176 vlevo (srpen 1710) – https://www.mza.cz/actapublica/matrika/detail/1946",
-        "MZA Brno, fara Slavkov, NOZ 1690–1707 (sign. 13119), O, snímek 124 vlevo (únor 1694) – https://www.mza.cz/actapublica/matrika/detail/1942"
+        "MZA Brno, fara Slavkov, NOZ 1690–1707 (sign. 13119), O, snímek 124 vlevo (únor 1694) – https://www.mza.cz/actapublica/matrika/detail/1942",
+        "MZA Brno, fara Slavkov, NOZ 1659–1683 (sign. 13118), O, snímek 28 vlevo (únor 1674) – https://www.mza.cz/actapublica/matrika/detail/1935"
       ],
       scans: [
         {"f":"img/1710_O_Hrabovsky_Kaspar_Novakova_Magdalena.jpg","t":"První sňatek Kašpara Hrabovského, syna † Pavla z Heršpic, s Magdalenou Novákovou, Slavkov 19. 8. 1710"}
