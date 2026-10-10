@@ -6781,8 +6781,9 @@ window.RODOKMEN = {
         "Zemřel 1. 1. 1748 v Hodějicích, 60 let („Casparus Hrabovsky Hodiegicio“) – narozen tedy asi 1688.",
         "Otec Pavla Hrabovského (*1744, sňatek 1769); další dítě 1746.",
         "První manželka Anna zemřela 18. 6. 1739 v Heršpicích („Anna Caspari Hrabowski uxor Hersp.“), uvedeno 80 let; Kašpar se znovu oženil po necelých 3 měsících. Jejich sňatek nenalezen (O Slavkov 1723–1744 bez něj – nejspíš před 1707).",
-        "KANDIDÁT příbuzenstva: v Heršpicích žil Jan Hrabovský (děti Rosina a Tomáš oddány 4. 2. 1727; manželka Kateřina † 28. 3. 1738, 60 let; děti Kateřina a Šebestián † I 1741) – spíš Kašparův bratr než otec; svědek Antonín Hrabovský (1739) také příbuzný. Neověřeno.",
-        "ROZPOR: věk 1. ženy Anny při úmrtí 1739 uveden 80 let, Kašparovi bylo při úmrtí 1748 jen 60 – věk Anny je nejspíš nadsazený (věk Kašpara je čitelný jasně)."
+        "KANDIDÁT příbuzenstva: v Heršpicích žil Jan Hrabovský (× Kateřina; syn Tomáš *16. 12. 1705 Heršpice, děti Rosina a Tomáš oddány 4. 2. 1727; manželka Kateřina † 28. 3. 1738, 60 let; děti Kateřina a Šebestián † I 1741) – spíš Kašparův bratr než otec; svědek Antonín Hrabovský (1739) také příbuzný. Neověřeno.",
+        "ROZPOR: věk 1. ženy Anny při úmrtí 1739 uveden 80 let, Kašparovi bylo při úmrtí 1748 jen 60 – věk Anny je nejspíš nadsazený (věk Kašpara je čitelný jasně).",
+        "Křest nedohledatelný: matrika narozených fary Slavkov za 1665–1689 se ztratila (poznámka v N 13119, sn. 2: „prior Matrica deperiit“). N 1690–1693 bez Kašpara."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, oddíl O, snímek 332 – https://www.mza.cz/actapublica/matrika/detail/1948",
