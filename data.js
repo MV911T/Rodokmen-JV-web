@@ -6799,8 +6799,8 @@ window.RODOKMEN = {
       occ: "Hodějice",
       marriage: "1) 19. 8. 1710 – s Magdalenou Novákovou; 2) 2. 2. 1712 – s Annou, vdovou po Jiřím Bartoňovi († 1739); 3) 9. 9. 1739 – s Alžbětou Matulíkovou (fara Slavkov)",
       notes: [
-        "Oddán poprvé 19. 8. 1710 (fara Slavkov) jako „Juvenis Casparus filius post defunctum Paulum Hrabowsky ex Herspitz“ s pannou Magdalenou, dcerou † Martina Nováka ze Slavkova (ulice Hospitál- ?); svědci Martin Rychlý a Matěj Novák z Heršpic.",
-        "Podruhé oddán 2. 2. 1712 jako „Casparus Hrabowsky ex Herspitz“ s vdovou Annou po † Jiřím Bartoňovi z Heršpic; svědci Mikuláš Janík a Jan Hrabovský z Heršpic. (Totožnost s Kašparem 1710 velmi pravděpodobná, „viduus“ v zápisu chybí.) Anna zemřela 18. 6. 1739 v Heršpicích, uvedeno 80 let – jako vdova mohla být výrazně starší.",
+        "Oddán poprvé 19. 8. 1710 (fara Slavkov) jako „Juvenis Casparus filius post defunctum Paulum Hrabowsky ex Herspitz“ s pannou Magdalenou, dcerou † Martina Nováka ze Slavkova (ulice Hospitál- ?); svědci Martin Rychlý a Matěj Novák z Heršpic. Magdalena zemřela 24. 3. 1711 ve 24 letech, pohřbena v Hodějicích (Z 13120, sn. 294).",
+        "Podruhé oddán 2. 2. 1712 jako „Casparus Hrabowsky ex Herspitz“ s vdovou Annou po † Jiřím Bartoňovi z Heršpic; svědci Mikuláš Janík a Jan Hrabovský z Heršpic. (Jako vdovec po Magdaleně – totožnost s Kašparem 1710 jistá.) Anna zemřela 18. 6. 1739 v Heršpicích, uvedeno 80 let – jako vdova mohla být výrazně starší.",
         "Z Heršpic. Oddán 9. 9. 1739 (fara Slavkov) jako vdovec s pannou Alžbětou, dcerou † Matěje Matulíka (?) z Hodějic: „Viduus Casparus Hrabowsky cum Virgine Elisabetha filia def. Mathiae Matulik, ille Herspicio, illa Hodejicio“; svědci Martin Červinka a Antonín Hrabovský (příbuzný?).",
         "Zemřel 1. 1. 1748 v Hodějicích, 60 let („Casparus Hrabovsky Hodiegicio“) – narozen tedy asi 1688.",
         "Otec Pavla Hrabovského (*1744, sňatek 1769); další dítě 1746.",
@@ -6814,7 +6814,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), Z, str. 406, snímek 360 vpravo (červen 1739) – https://www.mza.cz/actapublica",
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), Z, snímek 359 vlevo (leden 1748) – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 175 vpravo – 176 vlevo (srpen 1710) – https://www.mza.cz/actapublica/matrika/detail/1946",
-        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 178 vpravo (únor 1712) – https://www.mza.cz/actapublica/matrika/detail/1946"
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 178 vpravo (únor 1712) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), Z, snímek 294 vpravo (březen 1711) – https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
         {"f":"img/1769_O_13121_sn332L_Hrabovsky_Pavel_syn_Kaspara_x_Katerina_Paseta_Hodejice_10-9-1769_plne_rozl.jpg","t":"Sňatek Pavla Hrabovského a Kateřiny Pasetové, Hodějice 10. 9. 1769"},
@@ -7075,7 +7076,7 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1660)","year":1660,"approx":true},
       notes: [
         "Z Heršpic; zemřel před srpnem 1710 (oddací zápis syna Kašpara: „filius post defunctum Paulum Hrabowsky ex Herspitz“).",
-        "Úmrtí ani sňatek zatím nenalezeny (N Slavkov 1665–1689 ztracena)."
+        "Úmrtí nenalezeno v Z Slavkov VII 1704 – V 1711 → zemřel nejspíš před VII 1704 (starší úmrtní matrika 1665 – VI 1704 se nedochovala). Sňatek zatím nenalezen."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 175 vpravo – 176 vlevo (srpen 1710) – https://www.mza.cz/actapublica/matrika/detail/1946"
