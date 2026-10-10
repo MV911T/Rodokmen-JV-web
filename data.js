@@ -3908,18 +3908,24 @@ window.RODOKMEN = {
       name: "Antonín Blažek",
       line: "blazek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true,"place":"Životice (Seitendorf) u Nového Jičína"},
+      father: "anton_bs",
+      mother: "anna_lr",
       spouse: "monika_pi",
-      occ: "kovář ve Veřovicích",
+      occ: "kovář (Schmiedgeselle) ve Veřovicích",
+      marriage: "2. (?) 10. 1866, Veřovice – s Monikou Pitrovou",
       notes: [
-        "Otec Jana Blažka; syn Vincenc byl kmotrem vnučky Ludmily (1903)."
+        "Oddán 2. (?) 10. 1866 ve Veřovicích jako „Anton Blaschke, Schmiedgeselle aus Seitendorf“ (Životice u Nového Jičína), 26 let, syn Antona Blaschkeho, podkováře (Hufschmied) ze Životic, a Anny roz. Lareš (?); nevěsta Monika, nemanželská dcera Marianny Pitrové (21 let; svolení poručenského soudu Nový Jičín).",
+        "Kovář ve Veřovicích č. 260; syn Jan *11. 9. 1874 († 28. 7. 1954 Veřovice). Syn Vincenc byl kmotrem vnučky Ludmily (1903)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek)"}
+        {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek)"},
+        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"}
       ]
     },
     {
@@ -3928,18 +3934,21 @@ window.RODOKMEN = {
       maiden: "Pitrová",
       line: "pitr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Veřovice"},
+      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true,"place":"Veřovice"},
       mother: "marianna_pi",
       spouse: "antonin_bl",
+      marriage: "2. (?) 10. 1866, Veřovice – s Antonínem Blažkem",
       notes: [
-        "Matka Jana Blažka; nemanželská dcera Marianny Pitrové, podruhyně z Veřovic."
+        "Nemanželská dcera Marianny Pitrové, podruhyně z Veřovic, dcery domkáře Jiřího Pitra; oddána 2. (?) 10. 1866 (21 let) s kovářským tovaryšem Antonínem Blažkem ze Životic."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek)"}
+        {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek)"},
+        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"}
       ]
     },
     {
@@ -4666,20 +4675,24 @@ window.RODOKMEN = {
       maiden: "Andersová",
       line: "anders",
       cert: "M",
-      b: {"date":"asi 1860","year":1860,"approx":true,"place":"Polom (Pohl)"},
+      b: {"date":"21. 4. 1860","year":1860,"place":"Polom (Pohl) č. p. 31"},
       father: "franz_an",
+      mother: "lucie_we",
       spouse: "frantisek_z0",
       marriage: "7. 10. 1879, Polom – s Františkem Zettelmannem",
       notes: [
-        "Dcera Františka Anderse, zahradníka v Polomi (Pohl), a Lucie (?) / Bar… (?) roz. Stanzlové / Kunzlové (?) – čtení matky nejisté. Při sňatku 1879 19 let, nezletilá (souhlas otce).",
+        "Pokřtěna (nar. 21. 4. 1860) v Polomi č. 31: otec Franz Anders, domkář v Polomi; matka Lucie, dcera Josefa Wenzela, sedláka v Polomi, a Magdaleny roz. Kloseové; kmotři Johann Schmid a Ludmila, manželka Franze Wenzela.",
+        "Při sňatku 1879 19 let, nezletilá (souhlas otce). ROZPOR čtení příjmení matky: „Stanzel (?)“ (1879), „Kunzel (?)“ (1884) – platí křest: Wenzel (?).",
         "ROZPOR: oddací zápis vnuka (Veřovice 1930) ji uvádí jako „Magdalenu Pohlovou“ – záměna místa původu (Pohl = Polom) za příjmení; platí křest dcery 1884 a sňatek 1879."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz",
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz",
-        "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz"
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"},
         {"f":"img/1879_O_Zettelmann_Anders_Polom.jpg","t":"Sňatek Františka Zettelmanna a Magdaleny Andersové, Polom 1879"}
       ]
     },
@@ -4908,16 +4921,19 @@ window.RODOKMEN = {
       line: "anders",
       cert: "M",
       b: {"date":"neznámé (odhad ~1830)","year":1830,"approx":true},
+      spouse: "lucie_we",
       occ: "zahradník v Polomi (Pohl)",
       notes: [
         "Otec Magdaleny Zettelmannové; dal souhlas k jejímu sňatku 1879."
       ],
       sources: [
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
-        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz"
+        "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1879_O_Zettelmann_Anders_Polom.jpg","t":"Sňatek Františka Zettelmanna a Magdaleny Andersové, Polom 1879 (dítě: Magdalena Zettelmannová)"}
+        {"f":"img/1879_O_Zettelmann_Anders_Polom.jpg","t":"Sňatek Františka Zettelmanna a Magdaleny Andersové, Polom 1879 (dítě: Magdalena Zettelmannová)"},
+        {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"}
       ]
     },
     {
@@ -8032,6 +8048,97 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
+      ]
+    },
+    {
+      id: "lucie_we",
+      name: "Lucie Andersová",
+      maiden: "Wenzelová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1835)","year":1835,"approx":true},
+      father: "josef_we",
+      mother: "magdalena_kl",
+      spouse: "franz_an",
+      notes: [
+        "Dcera Josefa Wenzela, sedláka v Polomi, a Magdaleny roz. Kloseové; manželka Franze Anderse, domkáře v Polomi č. 31."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"}
+      ]
+    },
+    {
+      id: "josef_we",
+      name: "Josef Wenzel",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
+      spouse: "magdalena_kl",
+      notes: [
+        "Sedlák v Polomi (Pohl); otec Lucie Andersové."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"}
+      ]
+    },
+    {
+      id: "magdalena_kl",
+      name: "Magdalena Wenzelová",
+      maiden: "Kloseová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      spouse: "josef_we",
+      notes: [
+        "Dcera Franze Klose, sedláka v Polomi; manželka Josefa Wenzela."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"}
+      ]
+    },
+    {
+      id: "anton_bs",
+      name: "Antonín Blažek (Blaschke)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      spouse: "anna_lr",
+      occ: "podkovář v Životicích (Seitendorf)",
+      notes: [
+        "Podkovář (Hufschmied) v Životicích u Nového Jičína; manželka Anna roz. Lareš (?). Otec Antonína Blažka (*~1840)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"}
+      ]
+    },
+    {
+      id: "anna_lr",
+      name: "Anna Blažková",
+      maiden: "Larešová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      spouse: "anton_bs",
+      notes: [
+        "Dcera Josefa Lareše (?); manželka podkováře Antonína Blažka v Životicích."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"}
       ]
     }
   ]
