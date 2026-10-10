@@ -6849,17 +6849,21 @@ window.RODOKMEN = {
       spouse: "vaclav1868",
       marriage: "5. 5. 1901, Souš – s Václavem Votavou (vdovcem)",
       notes: [
-        "Druhá manželka Václava Votavy (*1868); dcera Karla Zelenky, kováře ve Strašicích č. 193, a Kateřiny roz. Humlové. Při sňatku 1901 svobodná, bytem Souš č. 102. Syn Josef (*21. 2. 1902, Souš č. 102).",
+        "Narozena 28. 6., pokřtěna 29. 6. 1869 ve Strašicích č. 133 jako nemanželská dcera Kateřiny Humlové (dcery † Petra Humla, souseda ve Strašicích č. 133, a Barbory roz. Švambergové z č. 138); otec Karel Zelenka, kovář ve Strašicích č. 193 (syn kováře Karla Zelenky a Johanny roz. Žákové z č. 192), se k otcovství přihlásil 19. 7. 1879 (legitimace). Rodiče se vzali 30. 5. 1871 ve Strašicích.",
+        "Při sňatku 1901 svobodná, bytem Souš č. 102. Syn Josef (*21. 2. 1902, Souš č. 102).",
         "Nevlastní babička Václava Votavy (*1899).",
         "KANDIDÁT: úmrtí 16. 5. 1918 z rodinné paměti (dopis vnuka) patří nejspíš jí."
       ],
       sources: [
         "SOA Litoměřice, fara Souš, kniha 150/13 (O 1881–1908), fol. 213, snímek 215 – https://digi.soalitomerice.cz",
-        "SOA Litoměřice, fara Souš, kniha 150/26 (N 1894–1903), snímek 406 – https://digi.soalitomerice.cz"
+        "SOA Litoměřice, fara Souš, kniha 150/26 (N 1894–1903), snímek 406 – https://digi.soalitomerice.cz",
+        "SOA Plzeň, fara Strašice, N 1864–1872 (Strašice 21), fol. 202, snímek 205 – https://www.portafontium.eu/iipimage/30068821/strasice-21_2050-n",
+        "SOA Plzeň, fara Strašice, O 1870–1911 (Strašice 25), fol. 13, snímek 16 – https://www.portafontium.eu/iipimage/30068825/strasice-25_0160-o"
       ],
       scans: [
         {"f":"img/1901_O_Votava_Vaclav_Zelenka_Barbora_Sous_nevesta.jpg","t":"Sňatek 1901 – nevěsta Barbora Zelenková ze Strašic"},
-        {"f":"img/1902_N_Votava_Josef_sn406_otec_matka.jpg","t":"Křest syna Josefa, Souš 1902"}
+        {"f":"img/1902_N_Votava_Josef_sn406_otec_matka.jpg","t":"Křest syna Josefa, Souš 1902"},
+        {"f":"img/1869_N_Zelenkova_Barbora_Strasice.jpg","t":"Křest Barbory Zelenkové, Strašice 1869 (legitimace 1879)"}
       ]
     },
     {
