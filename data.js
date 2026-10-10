@@ -34,7 +34,7 @@ window.RODOKMEN = {
     "drapal": "Drapal",
     "novy": "Nový",
     "semenec": "Semenec",
-    "flemr": "Flemr (?)",
+    "flemr": "Hamr (Flemr)",
     "karafiat": "Karafiát",
     "aubrecht": "Aubrecht",
     "holub": "Holub",
@@ -2191,22 +2191,22 @@ window.RODOKMEN = {
     {
       id: "katerina_f",
       name: "Kateřina Votavová",
-      maiden: "Hamrová / Flemrová (?)",
+      maiden: "Hamrová",
       line: "flemr",
       cert: "M",
-      b: {"date":"asi 1793","year":1793,"approx":true,"place":"Tučapy (?)"},
+      b: {"date":"29. 4. 1793","year":1793,"place":"Tučapy (u Soběslavi) č. p. 51"},
       d: {"date":"17. 8. 1841","year":1841,"place":"Těchobuz č. p. 36 („Schelenberg“)"},
       father: "matej_fl",
       mother: "katerina_kr",
       spouse: "jan_v",
       notes: [
-        "Oddána 10. 6. 1815 v Jetřichovci s Janem Votavou: „Kateřina, dcera Matěje Hammera (?), chalupníka“, z Tučap (?) č. 31, 22 let. Rodné příjmení v pramenech: Lemr (index 1815), Hammer / Hamr (sňatek 1815), Flemrová (křty 1816, 1819), Hamra / Flemra (1834) – ROZPOR čtení; také číslo domu 31 (1815) × 36 (1834).",
-        "Dcera Matěje Flemra (?), chalupníka z Tučap č. 36, a Kateřiny, dcery Vojtěcha (?) Kříže, chalupníka z Chýšky č. 18.",
+        "Pokřtěna 29. 4. 1793 v Tučapech (u Soběslavi) č. 51: otec Matěj, syn Tomáše Hamra, sedláka z Holé (?), sedlák v Tučapech; matka Kateřina, dcera Petra Lippa (?), sedláka z Lipé (?); kmotra Veronika Šindlerová (?). Rodné příjmení v dalších pramenech komoleno: Lemr, Hammer, Flemrová, Hamra.",
+        "Oddána 10. 6. 1815 v Jetřichovci s Janem Votavou: „Kateřina, dcera Matěje Hammera (?), chalupníka“, z Tučap č. 51 (?), 22 let. Rodné příjmení v pramenech: Lemr (index 1815), Hammer / Hamr (sňatek 1815), Flemrová (křty 1816, 1819), Hamra / Flemra (1834) – ROZPOR čtení; také číslo domu 31 (1815) × 36 (1834).",
         "Synové Vojtěch (1816) a Matěj (1819) pokřtěni v Jetřichovci č. 10 (fara Pacov) – v zápisech „Kateřina roz. Matěje Flemrowa (?) z Tučap“.",
         "Zemřela 17. 8. 1841 v Těchobuzi č. 36 ve 46 letech, pohřbena ve Zhoři.",
         "Vdova Kateřina Votavová, která zemřela 1. 10. 1866, je druhá manželka Jana Votavy (Kateřina Kočová), ne Štěpánova matka – rozpor vyřešen.",
         "KANDIDÁT původu: Velká Chyška (fara, okr. Pelhřimov, 6 km od Pacova) – listopad 1791 tam č. 45 sňatek Matěje Hamra (?), 23 let, a Kateřiny Křížové (?), 20 let (kniha 8195, sn. 4); příjmení otce lze v zápisu 1834 číst „Hamra“ i „Flemra“. Neověřeno (čísla domů nesedí).",
-        "KANDIDÁT: Křest ve Velké Chyšce 1792–1797 není (kniha 8195) – narodila se nejspíš v „Tučapech“ (?)."
+        "ROZPOR: zápis 1834 uvádí matku jako „Kateřinu, dceru Vojtěcha Kříže z Chýšky č. 18“ – platí křest 1793; Křížová / „Kinstr…“ z Velké Chyšky (sňatek XI 1791) byla nejspíš 1. manželka Matěje Hamra († 14. 5. 1792 po porodu)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2217,13 +2217,15 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 197, snímek 203 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 44, snímek 32; index 6256 sn. 14 – https://digi.ceskearchivy.cz/6239",
         "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 47, snímek 35 – https://digi.ceskearchivy.cz/6239",
-        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), O fol. 8, snímek 66; index 6256 sn. 25 – https://digi.ceskearchivy.cz/6239"
+        "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), O fol. 8, snímek 66; index 6256 sn. 25 – https://digi.ceskearchivy.cz/6239",
+        "SOA Třeboň, fara Tučapy, Tučapy N/O/Z 1784–1800 (kniha 8077), pag. 37, snímek 31; rejstřík 8092 sn. 11 – https://digi.ceskearchivy.cz/8077"
       ],
       scans: [
         {"f":"img/1866_narozeni_zemreni_Votava_Techobuz_a.jpg","t":"Mrtvě narozená dcera Štěpána a Antonie, Těchobuz 1866"},
         {"f":"img/1841_zemreni_Votavova_Katerina_Flemrova_Techobuz.jpg","t":"Úmrtí Kateřiny Votavové, Těchobuz 1841"},
         {"f":"img/1834_krest_Votavova_Katerina_Techobuz.jpg","t":"Křest dcery Kateřiny, Těchobuz 1834"},
-        {"f":"img/1815_O_Votava_Jan_Hamrova_Katerina_Jetrichovec.jpg","t":"Sňatek Jana Votavy a Kateřiny Hamrové (Flemrové), Jetřichovec 10. 6. 1815"}
+        {"f":"img/1815_O_Votava_Jan_Hamrova_Katerina_Jetrichovec.jpg","t":"Sňatek Jana Votavy a Kateřiny Hamrové (Flemrové), Jetřichovec 10. 6. 1815"},
+        {"f":"img/1793_N_Hamrova_Katerina_Tucapy.jpg","t":"Křest Kateřiny Hamrové, Tučapy č. 51, 29. 4. 1793"}
       ]
     },
     {
@@ -2884,34 +2886,44 @@ window.RODOKMEN = {
     },
     {
       id: "matej_fl",
-      name: "Matěj Flemr (?)",
+      name: "Matěj Hamr",
       line: "flemr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      b: {"date":"neznámé (odhad ~1768)","year":1768,"approx":true},
+      father: "tomas_hm",
       spouse: "katerina_kr",
       occ: "chalupník v Tučapech č. 36",
       notes: [
-        "Otec Kateřiny Votavové; čtení příjmení nejisté.",
-        "KANDIDÁT: Matěj Hamr (?) oddaný XI 1791 ve Velké Chyšce č. 45 s Kateřinou Křížovou (?) (SOA Třeboň, kniha 8195, sn. 4)."
+        "Syn Tomáše Hamra, sedláka z Holé (?); sedlák v Tučapech (u Soběslavi) č. 51 (křest dcery Kateřiny 1793).",
+        "Dvakrát ženatý: 1. manželka Kateřina zemřela 14. 5. 1792 v Tučapech č. 51 ve 23 letech po porodu (nejspíš Kateřina „Kinstr…“ / Křížová (?) z Velké Chyšky, sňatek XI 1791 č. 45 – K); 2. manželka Kateřina, dcera Petra Lippa (?), matka Kateřiny (*1793)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
-        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826"
+        "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
+        "SOA Třeboň, fara Tučapy, Tučapy N/O/Z 1784–1800 (kniha 8077), pag. 37, snímek 31; rejstřík 8092 sn. 11 – https://digi.ceskearchivy.cz/8077",
+        "SOA Třeboň, fara Tučapy, kniha 8077, Z pag. 14, snímek 57 (14. 5. 1792)"
+      ],
+      scans: [
+        {"f":"img/1793_N_Hamrova_Katerina_Tucapy.jpg","t":"Křest Kateřiny Hamrové, Tučapy č. 51, 29. 4. 1793"}
       ]
     },
     {
       id: "katerina_kr",
-      name: "Kateřina Flemrová (?)",
-      maiden: "Křížová (?)",
-      line: "kriz",
+      name: "Kateřina Hamrová",
+      maiden: "Lippová (?)",
+      line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true,"place":"Chýška (?) č. p. 18"},
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
       spouse: "matej_fl",
       notes: [
-        "Matka Kateřiny Votavové; čtení nejisté."
+        "Druhá manželka Matěje Hamra, matka Kateřiny (*29. 4. 1793 Tučapy č. 51); dcera Petra Lippa (?), sedláka z Lipé (?) – čtení nejisté.",
+        "ROZPOR: zápis 1834 ji uvádí jako „dceru Vojtěcha Kříže z Chýšky č. 18“ – to patří spíš 1. manželce Matěje († 1792)."
       ],
       sources: [
-        "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825"
+        "SOA Třeboň, fara Tučapy, Tučapy N/O/Z 1784–1800 (kniha 8077), pag. 37, snímek 31; rejstřík 8092 sn. 11 – https://digi.ceskearchivy.cz/8077"
+      ],
+      scans: [
+        {"f":"img/1793_N_Hamrova_Katerina_Tucapy.jpg","t":"Křest Kateřiny Hamrové, Tučapy č. 51, 29. 4. 1793"}
       ]
     },
     {
@@ -7120,6 +7132,22 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1827_N_Laukota_Vaclav_matka_Landsingerova.jpg","t":"Křest syna Václava 1827 – matka „Magdalena, dcera Václava Landsingera a Magdaleny roz. Zvonařové“"}
+      ]
+    },
+    {
+      id: "tomas_hm",
+      name: "Tomáš Hamr",
+      line: "flemr",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      notes: [
+        "Sedlák z Holé (?) – otec Matěje Hamra (křest vnučky Kateřiny, Tučapy 1793)."
+      ],
+      sources: [
+        "SOA Třeboň, fara Tučapy, Tučapy N/O/Z 1784–1800 (kniha 8077), pag. 37, snímek 31; rejstřík 8092 sn. 11 – https://digi.ceskearchivy.cz/8077"
+      ],
+      scans: [
+        {"f":"img/1793_N_Hamrova_Katerina_Tucapy.jpg","t":"Křest Kateřiny Hamrové, Tučapy č. 51, 29. 4. 1793"}
       ]
     }
   ]
