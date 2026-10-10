@@ -1504,19 +1504,22 @@ window.RODOKMEN = {
       maiden: "Šnajdrová (Šnejdrová)",
       line: "snajdr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1848)","year":1848,"approx":true,"place":"Pojedí č. p. 9, okr. Libáň"},
+      b: {"date":"22. 11. 1852","year":1852,"place":"Pojedy č. p. 9 (fara Rožďalovice)"},
       father: "vaclav_sn",
       mother: "katerina_su",
       spouse: "jan_t",
       notes: [
+        "Narozena 22. 11. 1852 v 10 hod. večer, pokřtěna 23. 11. v Pojedech č. 9 (děkan Fr. Šoregš): otec Václav Šnejdr, chalupník, syn Jana Šnejdra, výměníka z Pojed č. 9, a Anny roz. Jírkové, chalupnické dcery ze Seletic; matka Kateřina, dcera Jana Šulce, baráčníka ze Žitovlic č. 8, a Anny roz. Hofmanové z Dobrovan; bába Anna Veselá.",
         "Matka Marie Čapkové, roz. Ťukalové; dcera Václava Šnejdra, chalupníka z Pojed č. 9 (okres Libáňský), a Kateřiny roz. Šulcové ze Žitovlic č. 18."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 282, snímek 271; index N Rožďalovice 22 sn. 225 – https://ebadatelna.soapraha.cz/d/11187/271"
       ],
       scans: [
+        {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"},
         {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874"},
         {"f":"img/1874_krest_marie_tukalova_kosik_b.jpg","t":"Křest Marie Ťukalové, Kosík 1874 – rodiče, kmotři"}
       ]
@@ -7849,30 +7852,34 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
       spouse: "anna_sd",
       notes: [
-        "Chalupník v Pojedech č. 9; zemřel před XII 1846. Manželka Anna roz. Šídková (?). Děti Václav (*~1815) a Marie."
+        "Chalupník, později výměník v Pojedech č. 9; v XI 1852 žil (křest vnučky Františky) – „†“ v zápise 1846 je zřejmě chyba čtení nebo zápisu. Manželka Anna roz. Jírková ze Seletic."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 282, snímek 271; index N Rožďalovice 22 sn. 225 – https://ebadatelna.soapraha.cz/d/11187/271"
       ],
       scans: [
-        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
+        {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"}
       ]
     },
     {
       id: "anna_sd",
       name: "Anna Šnejdrová",
-      maiden: "Šídková (?)",
+      maiden: "Jírková",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
       notes: [
-        "Manželka Jana Šnejdra z Pojed č. 9; z obce K… (?) – čtení nejisté."
+        "Manželka Jana Šnejdra z Pojed č. 9; chalupnická dcera ze Seletic (křest vnučky Františky 1852, čitelně „Anny rozené Jírkové“). ROZPOR: křest vnuka 1846 čten „Šídková (?) z K…“ – nejasný zápis, platí čitelnější 1852."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 282, snímek 271; index N Rožďalovice 22 sn. 225 – https://ebadatelna.soapraha.cz/d/11187/271"
       ],
       scans: [
-        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
+        {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"}
       ]
     },
     {
