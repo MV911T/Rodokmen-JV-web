@@ -4446,40 +4446,45 @@ window.RODOKMEN = {
       d: {"date":"před 14. 2. 1832","year":1832,"approx":true},
       spouse: "katerina_sl",
       occ: "vysloužilec (?), podruh v Suchomastech č. 12",
-      marriage: "2. sňatek 28. 1. (?) 1797, Suchomasty č. 12 – s Kateřinou; 1. sňatek před 1797",
+      marriage: "2. sňatek 28. 6. 1797, Suchomasty č. 12 (fara Borek) – s Kateřinou Klikovou; 1. sňatek (nenalezen) s Marií († 9. 6. 1797)",
       notes: [
         "Otec Františka Kliky.",
-        "Podruhé oddán 28. 1. (?) 1797 v Suchomastech jako sedlák č. 12 a vdovec, 27 let (*~1770).",
+        "Podruhé oddán 28. 6. 1797 (dříve čteno „28. 1.“) v Suchomastech jako sedlák č. 12 a vdovec, 27 let (*~1770). První žena Marie, sedlačka č. 12, zemřela 9. 6. 1797 ve 30 letech (asi po porodu); syn Josef (*8. 1. 1797) zemřel 25. 1. 1797.",
         "KANDIDÁT 1. sňatku: 26. 10. 1790 v Suchomastech (č. 38) „Wáclaw Klika, syn Ondřeje Kliky, chalupníka suchomastského“, 20 let, s Annou, dcerou Matěje Billošínského (?), chalupníka suchomastského, 18 let – věk sedí, ale číslo domu (38 × 12) a stav (chalupnický syn × sedlák) se liší; nutno ověřit úmrtím 1. ženy 1790–1797.",
-        "KANDIDÁTI (čteno jen zmenšeně): otec Ondřej Klika, chalupník v Suchomastech č. 50, † 19. 10. 1791; otcem 1. ženy Anny spíš Matěj Bělohoubek (?), chalupník č. 48, † 23. 11. 1790; úmrtí 1. ženy v Borku 1790–1794 nenalezeno. Nevěsta 1797 nejspíš z Bykoše („bikoský“), dcera Jana Kliky, sedláka v Bykoši (?)."
+        "KANDIDÁTI (čteno jen zmenšeně): otec Ondřej Klika, chalupník v Suchomastech č. 50, † 19. 10. 1791; otcem 1. ženy Anny spíš Matěj Bělohoubek (?), chalupník č. 48, † 23. 11. 1790; úmrtí 1. ženy v Borku 1790–1794 nenalezeno. Nevěsta 1797 nejspíš z Bykoše („bikoský“), dcera Jana Kliky, sedláka v Bykoši (?).",
+        "ROZPOR ke kandidátu 1. sňatku 1790 (Václav, syn Ondřeje × Anna, 18 let): první žena Václava z č. 12 se jmenovala Marie a byla o 5 let starší – totožnost oslabena."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 05, oddíl O, snímek 91 – https://ebadatelna.soapraha.cz/d/4074/91"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 05, oddíl O, snímek 91 – https://ebadatelna.soapraha.cz/d/4074/91",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075): O sn. 63 vlevo (28. 6. 1797), Z sn. 114 a 115 vlevo, N sn. 9 vlevo – https://ebadatelna.soapraha.cz/d/4075/63"
       ],
       scans: [
-        {"f":"img/1797_snatek_vaclav_klika_katerina_slikova_suchomasty_a.jpg","t":"Druhý sňatek Václava Kliky s Kateřinou, Suchomasty 1797"}
+        {"f":"img/1797_snatek_vaclav_klika_katerina_slikova_suchomasty_a.jpg","t":"Druhý sňatek Václava Kliky s Kateřinou, Suchomasty 1797"},
+        {"f":"img/1797_O_Klika_Vaclav_Katerina_Suchomasty.jpg","t":"Sňatek Václava Kliky (vdovce) s Kateřinou Klikovou z Bykoše (?), 28. 6. 1797"}
       ]
     },
     {
       id: "katerina_sl",
       name: "Kateřina Kliková",
-      maiden: "Kliková / Šliková (?)",
+      maiden: "Kliková",
       line: "nezname",
       cert: "M",
       b: {"date":"asi 1779","year":1779,"approx":true},
       spouse: "vaclav_kl",
-      marriage: "28. 1. (?) 1797, Suchomasty – s Václavem Klikou (vdovcem)",
+      marriage: "28. 6. 1797, Suchomasty – s Václavem Klikou (vdovcem)",
       notes: [
-        "Dcera Jana a Kateřiny (příjmení „Kliků“ nebo „Šliků“ – v této ruce je první písmeno spíše K) ze vsi … č. 10 (nečitelné; srov. „z Litky / Litně (?)“ 1832/34); při sňatku 1797 18 let."
+        "Dcera Jana a Kateřiny Klikových, sedláka z Bykoše (?) č. 10; při sňatku 28. 6. 1797 18 let (*~1779). Příjmení čteno jako „Kliki“ (první písmeno shodné s K v „Katrina“), ne Šliková."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075): O sn. 63 vlevo (28. 6. 1797), Z sn. 114 a 115 vlevo, N sn. 9 vlevo – https://ebadatelna.soapraha.cz/d/4075/63"
       ],
       scans: [
-        {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834 (dítě: František Klika)"}
+        {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834 (dítě: František Klika)"},
+        {"f":"img/1797_O_Klika_Vaclav_Katerina_Suchomasty.jpg","t":"Sňatek Václava Kliky (vdovce) s Kateřinou Klikovou z Bykoše (?), 28. 6. 1797"}
       ]
     },
     {
