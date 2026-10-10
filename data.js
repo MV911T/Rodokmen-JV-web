@@ -4793,6 +4793,7 @@ window.RODOKMEN = {
       line: "zettelmann",
       cert: "M",
       b: {"date":"10. 3. 1822","year":1822,"place":"Bělotín č. p. 149"},
+      d: {"date":"16. 7. 1869","year":1869,"place":"Bělotín č. p. 149"},
       father: "andreas_ze",
       mother: "elisabeth_sch",
       spouse: "anna_mi",
@@ -4802,19 +4803,22 @@ window.RODOKMEN = {
         "Narozen a pokřtěn 10. 3. 1822 v Bělotíně č. 149 (kooperátor Anton Schrom): otec Andreas Zettelmann, domkář, matka Alžběta, dcera † Johanna Schindlera, sedláka; kmotři Andreas Jakesch (?) a Alžběta, manželka Tomáše Michalka.",
         "Oddán 6. 8. 1844 v Bělotíně jako syn Andrease Zettelmanna, domkáře, a Alžběty roz. Schindlerové, 22 let, nezletilý – se souhlasem otce.",
         "Domkář v Bělotíně č. 149; syn František (*1. 8. 1846).",
-        "Bratr (?) Franz Zettelmann, vdovec, oddán v Bělotíně asi 1840–41."
+        "Bratr (?) Franz Zettelmann, vdovec, oddán v Bělotíně asi 1840–41.",
+        "Zemřel 16. 7. 1869 (pohřeb 18. 7.) v Bělotíně č. 149 jako „Häusler in Bölten, Sohn nach † Andreas Zettelmann, Häusler in Bölten“, 47 let; příčina „Blutschlag“ (?)."
       ],
       sources: [
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, fol. 265, snímek 134 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 64, snímek 33 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 64, snímek 33 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik, fara Bělotín, Z 1863–1915, sign. L II 20, pag. 35, snímek 18 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1846_N_Franz_Zettelmann_Belotin_fol265.jpg","t":"Křest syna Františka, Bělotín 1846"},
         {"f":"img/1844_O_Johann_Zettelmann_Anna_Michalek_Belotin_fol116.jpg","t":"Sňatek Johanna Zettelmanna a Anny Michalkové, Bělotín 6. 8. 1844"},
-        {"f":"img/1822_N_Johann_Zettelmann_Belotin_pag64.jpg","t":"Křest Johanna Zettelmanna, Bělotín 10. 3. 1822"}
+        {"f":"img/1822_N_Johann_Zettelmann_Belotin_pag64.jpg","t":"Křest Johanna Zettelmanna, Bělotín 10. 3. 1822"},
+        {"f":"img/1869_Z_Zettelmann_Johann_Belotin.jpg","t":"Úmrtí Johanna Zettelmanna, Bělotín č. 149, 16. 7. 1869"}
       ]
     },
     {
@@ -4824,6 +4828,7 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"22. 10. 1822","year":1822,"place":"Bělotín č. p. 12"},
+      d: {"date":"18. 7. 1895","year":1895,"place":"Bělotín č. p. 173"},
       father: "karl_mi",
       mother: "anna_zi",
       spouse: "johann_ze",
@@ -4831,20 +4836,22 @@ window.RODOKMEN = {
       notes: [
         "Narozena a pokřtěna 22. 10. 1822 v Bělotíně č. 12 (farář Franz Aßmann (?)): otec Karel Michalek, domkář, matka Anna, dcera † Josefa Ziegnera, sedláka; kmotři Andreas Schindler, sedlák, a Terezie, manželka Antona Wehnera (?), oba z Bělotína; bába Alžběta Zettelmannová.",
         "Oddána 6. 8. 1844 v Bělotíně s Johannem Zettelmannem (21 let, nezletilá – se souhlasem otce).",
-        "ROZPOR rozhodnut: matka roz. Ziegnerová (křest 1822 i sňatek 1844); „Kipperová“ v křtu syna 1846 je chyba písaře.",
-        "KANDIDÁT: tužkou u křtu „† 19/7 1895“ – možné datum úmrtí (neověřeno v matrice zemřelých)."
+        "Zemřela 18. 7. 1895 (pohřeb 20. 7.) v Bělotíně č. 173 jako vdova po Johannu Zettelmannovi, 73 let, na Brightovu chorobu (tužkový přípis u křtu „19/7“ je o den posunutý); zápis uvádí matku „Anna geb. Josef Kipper (?)“ – ROZPOR s křtem 1822 (Ziegner), platí křest.",
+        "ROZPOR rozhodnut: matka roz. Ziegnerová (křest 1822 i sňatek 1844); „Kipperová“ v křtu syna 1846 je chyba písaře."
       ],
       sources: [
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, fol. 265, snímek 134 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 70, snímek 36 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 70, snímek 36 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik, fara Bělotín, Z 1863–1915, sign. L II 20, fol. 195, snímek 100 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1846_N_Franz_Zettelmann_Belotin_fol265.jpg","t":"Křest syna Františka, Bělotín 1846"},
         {"f":"img/1844_O_Johann_Zettelmann_Anna_Michalek_Belotin_fol116.jpg","t":"Sňatek Johanna Zettelmanna a Anny Michalkové, Bělotín 6. 8. 1844"},
-        {"f":"img/1822_N_Anna_Michalek_Belotin_pag70.jpg","t":"Křest Anny Michalkové, Bělotín 22. 10. 1822"}
+        {"f":"img/1822_N_Anna_Michalek_Belotin_pag70.jpg","t":"Křest Anny Michalkové, Bělotín 22. 10. 1822"},
+        {"f":"img/1895_Z_Zettelmannova_Anna_Belotin.jpg","t":"Úmrtí Anny Zettelmannové roz. Michalkové, Bělotín č. 173, 18. 7. 1895"}
       ]
     },
     {
@@ -7202,7 +7209,8 @@ window.RODOKMEN = {
       occ: "domkář v Bělotíně",
       notes: [
         "Domkář v Bělotíně (č. 149 v r. 1822). Otec Johanna Zettelmanna (*1822); při synově sňatku 1844 dal souhlas, žil.",
-        "KANDIDÁT: porodní bába Alžběta Zettelmannová (1822, 1846) je nejspíš jeho manželka."
+        "KANDIDÁT: porodní bába Alžběta Zettelmannová (1822, 1846) je nejspíš jeho manželka.",
+        "V červenci 1869 už nežil (úmrtí syna Johanna: „Sohn nach † Andreas Zettelmann“). Sňatek s Alžbětou Schindlerovou ve faře Bělotín 1784–~1825 není (ženil se jinde)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
@@ -7210,7 +7218,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1844_O_Johann_Zettelmann_Anna_Michalek_Belotin_fol116.jpg","t":"Sňatek Johanna Zettelmanna a Anny Michalkové, Bělotín 6. 8. 1844"},
-        {"f":"img/1822_N_Johann_Zettelmann_Belotin_pag64.jpg","t":"Křest Johanna Zettelmanna, Bělotín 10. 3. 1822"}
+        {"f":"img/1822_N_Johann_Zettelmann_Belotin_pag64.jpg","t":"Křest Johanna Zettelmanna, Bělotín 10. 3. 1822"},
+        {"f":"img/1869_Z_Zettelmann_Johann_Belotin.jpg","t":"Úmrtí Johanna Zettelmanna, Bělotín č. 149, 16. 7. 1869"}
       ]
     },
     {
