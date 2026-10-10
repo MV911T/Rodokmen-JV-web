@@ -5234,17 +5234,24 @@ window.RODOKMEN = {
       name: "Fabián Buchlovský",
       line: "buchlovsky",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true},
+      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Uhřice"},
+      d: {"date":"27. 11. 1881","year":1881,"place":"Uhřice č. p. 69"},
       spouse: "frantiska_be",
       occ: "čtvrtláník v Uhřicích (č. 30)",
+      marriage: "1841, Uhřice – s Františkou Bělohoubkovou",
       notes: [
-        "Otec Mariany Jelínkové."
+        "Otec Mariany Jelínkové.",
+        "Oddán 1841 v Uhřicích s Františkou Bělohoubkovou (index O, fol. 54 – kniha online není). KANDIDÁT křtu: 1820 Uhřice, fol. 103 (jediný Fabián v indexu 1813–1827; kniha N 1784–1846 online není).",
+        "Zemřel 27. 11. 1881 (pohřeb 29. 11.) v Uhřicích č. 69 jako domkář, 64 let, na vodnatelnost (ztotožnění D – mladší Fabián z č. 11 by byl mladší)."
       ],
       sources: [
-        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 12, snímek 7 – https://www.mza.cz/actapublica/matrika/detail/4944"
+        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 12, snímek 7 – https://www.mza.cz/actapublica/matrika/detail/4944",
+        "MZA Brno, fara Dambořice, index N/O/Z Uhřice (sign. 5221), O sn. 8 vpravo (1841, fol. 54), N sn. 52 (1818 fol. 98, 1820 fol. 103) – https://www.mza.cz/actapublica/matrika/detail/4948",
+        "MZA Brno, fara Dambořice, Z Uhřice 1865–1949 (sign. 5220), str. 51, snímek 27 vpravo – https://www.mza.cz/actapublica/matrika/detail/12953"
       ],
       scans: [
-        {"f":"img/1851_N_Uhrice_5208_sn7_str12_Buchlovska_Mariana.jpg","t":"Křest Mariany Buchlovské, Uhřice 1851 (dítě: Mariana Jelínková)"}
+        {"f":"img/1851_N_Uhrice_5208_sn7_str12_Buchlovska_Mariana.jpg","t":"Křest Mariany Buchlovské, Uhřice 1851 (dítě: Mariana Jelínková)"},
+        {"f":"img/1881_Z_Buchlovsky_Fabian_Uhrice.jpg","t":"Úmrtí Fabiána Buchlovského, domkáře, Uhřice č. 69, 27. 11. 1881"}
       ]
     },
     {
@@ -5253,13 +5260,16 @@ window.RODOKMEN = {
       maiden: "Bělohoubková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Uhřice"},
+      b: {"date":"neznámé (odhad ~1818)","year":1818,"approx":true,"place":"Uhřice"},
       spouse: "fabian_bu",
+      marriage: "1841, Uhřice – s Fabiánem Buchlovským",
       notes: [
-        "Matka Mariany Jelínkové; dcera Josefa Bělohoubka, čtvrtláníka v Uhřicích."
+        "Matka Mariany Jelínkové; dcera Josefa Bělohoubka, čtvrtláníka v Uhřicích.",
+        "KANDIDÁT křtu: 1818 Uhřice, fol. 98 (jediná Františka Bělohoubková v indexu 1813–1827). Roku 1841 se v Uhřicích ženil i Josef Bělohoubek (× Anna Aswanetz ?) – otec nebo bratr. V indexu zemřelých 1878–1882 není."
       ],
       sources: [
-        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 12, snímek 7 – https://www.mza.cz/actapublica/matrika/detail/4944"
+        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 12, snímek 7 – https://www.mza.cz/actapublica/matrika/detail/4944",
+        "MZA Brno, fara Dambořice, index N/O/Z Uhřice (sign. 5221), O sn. 8 vpravo (1841, fol. 54), N sn. 52 (1818 fol. 98, 1820 fol. 103) – https://www.mza.cz/actapublica/matrika/detail/4948"
       ],
       scans: [
         {"f":"img/1851_N_Uhrice_5208_sn7_str12_Buchlovska_Mariana.jpg","t":"Křest Mariany Buchlovské, Uhřice 1851 (dítě: Mariana Jelínková)"}
