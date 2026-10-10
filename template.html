@@ -222,7 +222,7 @@ dl.facts dd{margin:0;min-width:0}
     <h1>Rodokmen JV</h1>
     <div class="meta" id="meta"></div>
   </div>
-  <nav class="tabs" role="tablist"><button type="button" role="tab" id="tabTree" aria-selected="true">Rodokmen</button><button type="button" role="tab" id="tabMap" aria-selected="false">Odkud jsme</button></nav>
+  <nav class="tabs" role="tablist"><button type="button" role="tab" id="tabTree" aria-selected="true" title="Jiří a jeho přímí předkové">Rodokmen</button><button type="button" role="tab" id="tabWide" aria-selected="false" title="Všichni v rodokmenu včetně sourozenců, jejich partnerů a dětí, bratranců a sestřenic">Širší okruh</button><button type="button" role="tab" id="tabMap" aria-selected="false">Odkud jsme</button></nav>
   <div class="tools">
     <input id="q" type="search" placeholder="Najít osobu…" aria-label="Najít osobu">
     <button id="home" type="button">Na Jiřího</button>
@@ -288,35 +288,43 @@ const MAT = chain(D.root,'mother'), PAT = chain(D.root,'father');
 // children index
 const kids = {}; D.people.forEach(p=>[p.father,p.mother].forEach(x=>{ if(x&&P[x]) (kids[x]=kids[x]||[]).push(p.id); }));
 
-// x layout: ancestors' leaves in DFS order (father first), child = mean of parents
-const col = {}; let leaf = 0;
-(function place(id){
-  const p = P[id]; const ps = [p.father,p.mother].filter(x=>x&&P[x]);
-  if(!ps.length){ col[id]=leaf++; return col[id]; }
-  ps.forEach(place);
-  col[id] = ps.reduce((s,x)=>s+col[x],0)/ps.length; return col[id];
-})(D.root);
 // spouses: explicit `spouse` field (both directions) + parents of a common child
 const spouses = {}; const addSp=(a,b)=>{ if(a&&b&&P[a]&&P[b]&&a!==b){ (spouses[a]=spouses[a]||new Set()).add(b); (spouses[b]=spouses[b]||new Set()).add(a); } };
 D.people.forEach(p=>{ addSp(p.id,p.spouse); addSp(p.father,p.mother); });
-// collateral relatives (siblings, their partners and children): nearest free column next to the anchor
-// (parent or partner already placed); a column is free when no card there is within 9 years
-const CLEAR = 9;
-const free = (c,yr) => !D.people.some(q=>col[q.id]!==undefined && Math.abs(col[q.id]-c)<1 && Math.abs(q.b.year-yr)<CLEAR);
-for(let pass=0, todo=D.people.filter(p=>col[p.id]===undefined); todo.length && pass<50; pass++){
-  todo.sort((a,b)=>a.b.year-b.b.year);
-  todo.forEach(p=>{
-    const sp=[...(spouses[p.id]||[])].find(s=>col[s]!==undefined);
-    const anchor = [p.father,p.mother].find(x=>x&&col[x]!==undefined) || sp;
-    if(anchor===undefined) return;
-    const a = col[anchor];
-    // partners sit right of their spouse, children of collateral relatives start right of the parent
-    for(let k=1;k<60;k++){ for(const c of (sp?[a+k,a-k]:[a+k,a-k])) if(free(c,p.b.year)){ col[p.id]=c; return; } }
-  });
-  todo = todo.filter(p=>col[p.id]===undefined);
+// two views: 'anc' = the root and direct ancestors only (tab "Rodokmen"), 'wide' = everyone in the data incl. siblings,
+// their partners and children, cousins … (tab "Širší okruh")
+const ANC = new Set(); (function a(id){ if(!id||!P[id]||ANC.has(id)) return; ANC.add(id); a(P[id].father); a(P[id].mother); })(D.root);
+let mode = 'anc', VIS = D.people.filter(p=>ANC.has(p.id)), INVIS = new Set(VIS.map(p=>p.id));
+let col = {}, leaf = 0;
+function layout(){
+  col = {}; leaf = 0;
+  // x layout: ancestors' leaves in DFS order (father first), child = mean of parents
+  (function place(id){
+    const p = P[id]; const ps = [p.father,p.mother].filter(x=>x&&P[x]);
+    if(!ps.length){ col[id]=leaf++; return col[id]; }
+    ps.forEach(place);
+    col[id] = ps.reduce((s,x)=>s+col[x],0)/ps.length; return col[id];
+  })(D.root);
+  // collateral relatives (siblings, their partners and children): nearest free column next to the anchor
+  // (parent or partner already placed); a column is free when no card there is within 9 years
+  const CLEAR = 9;
+  const free = (c,yr) => !VIS.some(q=>col[q.id]!==undefined && Math.abs(col[q.id]-c)<1 && Math.abs(q.b.year-yr)<CLEAR);
+  for(let pass=0, todo=VIS.filter(p=>col[p.id]===undefined); todo.length && pass<50; pass++){
+    todo.sort((a,b)=>a.b.year-b.b.year);
+    todo.forEach(p=>{
+      const sp=[...(spouses[p.id]||[])].find(s=>col[s]!==undefined);
+      const anchor = [p.father,p.mother].find(x=>x&&col[x]!==undefined) || sp;
+      if(anchor===undefined) return;
+      const a = col[anchor];
+      // partners sit right of their spouse, children of collateral relatives start right of the parent
+      for(let k=1;k<60;k++){ for(const c of [a+k,a-k]) if(free(c,p.b.year)){ col[p.id]=c; return; } }
+    });
+    todo = todo.filter(p=>col[p.id]===undefined);
+  }
+  VIS.forEach(p=>{ if(col[p.id]===undefined) col[p.id]=leaf++; });
+  const mn=Math.min(...VIS.map(p=>col[p.id])); VIS.forEach(p=>col[p.id]-=mn); leaf=Math.max(...VIS.map(p=>col[p.id]))+1;
 }
-D.people.forEach(p=>{ if(col[p.id]===undefined) col[p.id]=leaf++; });
-{ const mn=Math.min(...Object.values(col)); Object.keys(col).forEach(k=>col[k]-=mn); leaf=Math.max(...Object.values(col))+1; }
+layout();
 // siblings: same father or mother, plus the explicit `siblings` field
 const sibsOf = p => D.people.filter(q=>q.id!==p.id && ((p.father&&q.father===p.father)||(p.mother&&q.mother===p.mother)||(p.siblings||[]).includes(q.id)||(q.siblings||[]).includes(p.id))).sort((a,b)=>a.b.year-b.b.year);
 
@@ -351,7 +359,7 @@ function render(){
     ev.appendChild(lb);
   });
   const pos = {};
-  D.people.forEach(p=>{
+  VIS.forEach(p=>{
     const x = gap + col[p.id]*(cw+gap), y = (y1-p.b.year)*ppy;
     pos[p.id] = {x,y,cw};
     const c = document.createElement('button'); c.type='button';
@@ -366,8 +374,8 @@ function render(){
   });
   // links
   const svg = document.getElementById('links'); svg.setAttribute('width',W); svg.setAttribute('height',H); svg.innerHTML='';
-  D.people.forEach(p=>{
-    const ch = pos[p.id]; const ps=[p.father,p.mother].filter(x=>x&&P[x]); if(!ps.length) return;
+  VIS.forEach(p=>{
+    const ch = pos[p.id]; const ps=[p.father,p.mother].filter(x=>x&&pos[x]); if(!ps.length) return;
     const own = document.querySelector(`.card[data-id="${p.id}"]`);
     const cx = ch.x+cw/2, cy = ch.y-14 + (own?own.offsetHeight:56);
     ps.forEach(pid=>{
@@ -383,8 +391,8 @@ function render(){
     });
   });
   // partners without a common child in the tree: dashed connector between the cards
-  D.people.forEach(p=>{ if(!p.spouse||!pos[p.spouse]) return;
-    if(D.people.some(c=>[c.father,c.mother].includes(p.id)&&[c.father,c.mother].includes(p.spouse))) return;
+  VIS.forEach(p=>{ if(!p.spouse||!pos[p.spouse]) return;
+    if(VIS.some(c=>[c.father,c.mother].includes(p.id)&&[c.father,c.mother].includes(p.spouse))) return;
     const a=pos[p.id], b=pos[p.spouse], l=a.x<b.x?a:b, r=a.x<b.x?b:a;
     const path=document.createElementNS('http://www.w3.org/2000/svg','path');
     path.setAttribute('d',`M${l.x+cw},${l.y+6} H${(l.x+cw+r.x)/2} V${r.y+6} H${r.x}`); path.setAttribute('stroke-dasharray','4 4');
@@ -469,7 +477,15 @@ document.getElementById('vx').addEventListener('click',()=>{ V.hidden=true; });
 document.addEventListener('keydown',e=>{ if(e.key==='Escape' && !V.hidden) V.hidden=true; });
 
 const sc = document.getElementById('scroller');
+function setMode(m){
+  if(m===mode) return; mode = m;
+  VIS = m==='wide' ? D.people : D.people.filter(p=>ANC.has(p.id)); INVIS = new Set(VIS.map(p=>p.id));
+  layout(); render(); applyScale(vs);
+  if(window.RV_tabs) window.RV_tabs(m);
+}
+window.RV_mode = setMode;
 function focusCard(id){
+  if(!INVIS.has(id) && P[id]) setMode('wide');   // a sibling / cousin is only in the wider view
   const c = document.querySelector(`.card[data-id="${id}"]`); if(!c) return;
   document.querySelectorAll('.card.hit').forEach(x=>x.classList.remove('hit')); c.classList.add('hit');
   sc.scrollTo({left: (c.offsetLeft + c.offsetWidth/2)*vs - sc.clientWidth/2, top: c.offsetTop*vs - sc.clientHeight/2 + 30, behavior:'smooth'});
@@ -659,10 +675,17 @@ requestAnimationFrame(()=>{ const c=document.querySelector(`.card[data-id="${D.r
   const TLs=[...D.timeline.map(e=>({...e,k:'fam'})),...auto,...hist].sort((a,b)=>a.y-b.y||(a.k==='hist')-(b.k==='hist'));
   document.getElementById('tl').innerHTML=TLs.map(e=>`<li class="${e.k}"><b>${e.y}</b>${e.t}</li>`).join('');
   document.getElementById('mapView').addEventListener('click',e=>{ const b=e.target.closest('[data-go]'); if(!b) return; show(false); window.RV_focus&&window.RV_focus(b.dataset.go); });
-  const tT=document.getElementById('tabTree'), tM=document.getElementById('tabMap'), MV=document.getElementById('mapView'), SC=document.getElementById('scroller'), LG=document.querySelector('.legend'), TL=document.querySelector('.tools'), ZB=document.getElementById('zoombar');
-  function show(map){ MV.hidden=!map; SC.hidden=map; LG.hidden=map; TL.hidden=map; ZB.hidden=map; tT.setAttribute('aria-selected',!map); tM.setAttribute('aria-selected',map); try{localStorage.setItem('rv-tab',map?'map':'tree')}catch(e){} }
-  tT.addEventListener('click',()=>show(false)); tM.addEventListener('click',()=>show(true));
-  try{ if(localStorage.getItem('rv-tab')==='map') show(true); }catch(e){}
-  if(location.hash==='#mapa') show(true);
+  const tT=document.getElementById('tabTree'), tW=document.getElementById('tabWide'), tM=document.getElementById('tabMap'), MV=document.getElementById('mapView'), SC=document.getElementById('scroller'), LG=document.querySelector('.legend'), TL=document.querySelector('.tools'), ZB=document.getElementById('zoombar');
+  let treeMode='anc';
+  const mark = v => { tT.setAttribute('aria-selected',v==='anc'); tW.setAttribute('aria-selected',v==='wide'); tM.setAttribute('aria-selected',v==='map'); };
+  // v: 'anc' (Rodokmen), 'wide' (Širší okruh) or 'map' (Odkud jsme); true/false kept for the map links
+  function show(v){ if(v===true) v='map'; if(v===false) v=treeMode; const map=v==='map';
+    MV.hidden=!map; SC.hidden=map; LG.hidden=map; TL.hidden=map; ZB.hidden=map;
+    if(!map){ treeMode=v; window.RV_mode&&window.RV_mode(v); }
+    mark(v); try{localStorage.setItem('rv-tab',v)}catch(e){} }
+  window.RV_tabs = m => { treeMode=m; if(MV.hidden) { mark(m); try{localStorage.setItem('rv-tab',m)}catch(e){} } };
+  tT.addEventListener('click',()=>show('anc')); tW.addEventListener('click',()=>show('wide')); tM.addEventListener('click',()=>show('map'));
+  try{ const t=localStorage.getItem('rv-tab'); if(t==='map'||t==='wide') show(t); }catch(e){}
+  if(location.hash==='#mapa') show('map'); else if(location.hash==='#siroky') show('wide');
 })();
 </script>
