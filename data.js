@@ -6772,17 +6772,21 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
       spouse: "alzbeta_hb",
       occ: "Hodějice",
+      marriage: "9. 9. 1739 (fara Slavkov) – s Alžbětou Matulíkovou (?) (2. sňatek)",
       notes: [
-        "Otec Pavla Hrabovského (sňatek 1769).",
-        "Manželka Alžběta (křest syna Pavla 1744; další dítě 1746)."
+        "Z Heršpic. Oddán 9. 9. 1739 (fara Slavkov) jako vdovec s pannou Alžbětou, dcerou † Matěje Matulíka (?) z Hodějic: „Viduus Casparus Hrabowsky cum Virgine Elisabetha filia def. Mathiae Matulik, ille Herspicio, illa Hodejicio“; svědci Martin Červinka a Antonín Hrabovský (příbuzný?).",
+        "Otec Pavla Hrabovského (*1744, sňatek 1769); další dítě 1746.",
+        "První sňatek před 1733 (O 1733–1744 bez Hrabovského) – nenalezen."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, oddíl O, snímek 332 – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 234 vlevo (září 1739) – https://www.mza.cz/actapublica"
       ],
       scans: [
         {"f":"img/1769_O_13121_sn332L_Hrabovsky_Pavel_syn_Kaspara_x_Katerina_Paseta_Hodejice_10-9-1769_plne_rozl.jpg","t":"Sňatek Pavla Hrabovského a Kateřiny Pasetové, Hodějice 10. 9. 1769"},
-        {"f":"img/1744_N_13121_sn41L_krest_Pavel_Hrabovsky_otec_Kaspar_24-3-1744_plne_rozl.jpg","t":"Křest Pavla Hrabovského, Hodějice 24. (III ?) 1744"}
+        {"f":"img/1744_N_13121_sn41L_krest_Pavel_Hrabovsky_otec_Kaspar_24-3-1744_plne_rozl.jpg","t":"Křest Pavla Hrabovského, Hodějice 24. (III ?) 1744"},
+        {"f":"img/1739_O_Hrabovsky_Kaspar_Matulikova_Alzbeta.jpg","t":"Sňatek Kašpara Hrabovského a Alžběty Matulíkové, Slavkov 9. 9. 1739"}
       ]
     },
     {
@@ -6831,18 +6835,22 @@ window.RODOKMEN = {
     {
       id: "alzbeta_hb",
       name: "Alžběta Hrabovská",
+      maiden: "Matulíková (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true},
+      father: "matej_mt",
       spouse: "kaspar_hb",
       notes: [
-        "Matka Pavla Hrabovského (křest 1744); rodné příjmení neuvedeno."
+        "Z Hodějic, dcera † Matěje Matulíka (?) (čtení příjmení nejisté); oddána 9. 9. 1739 jako panna s vdovcem Kašparem Hrabovským z Heršpic. Matka Pavla Hrabovského (*1744)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 234 vlevo (září 1739) – https://www.mza.cz/actapublica"
       ],
       scans: [
-        {"f":"img/1744_N_13121_sn41L_krest_Pavel_Hrabovsky_otec_Kaspar_24-3-1744_plne_rozl.jpg","t":"Křest Pavla Hrabovského, Hodějice 24. (III ?) 1744"}
+        {"f":"img/1744_N_13121_sn41L_krest_Pavel_Hrabovsky_otec_Kaspar_24-3-1744_plne_rozl.jpg","t":"Křest Pavla Hrabovského, Hodějice 24. (III ?) 1744"},
+        {"f":"img/1739_O_Hrabovsky_Kaspar_Matulikova_Alzbeta.jpg","t":"Sňatek Kašpara Hrabovského a Alžběty Matulíkové, Slavkov 9. 9. 1739"}
       ]
     },
     {
@@ -7000,6 +7008,22 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1819_N_Votava_Matej_Jetrichovec.jpg","t":"Křest Matěje Votavy, Jetřichovec č. 10, 1819"}
+      ]
+    },
+    {
+      id: "matej_mt",
+      name: "Matěj Matulík (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      notes: [
+        "Z Hodějic; v září 1739 už nežil (sňatek dcery Alžběty s Kašparem Hrabovským). Čtení příjmení nejisté."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 234 vlevo (září 1739) – https://www.mza.cz/actapublica"
+      ],
+      scans: [
+        {"f":"img/1739_O_Hrabovsky_Kaspar_Matulikova_Alzbeta.jpg","t":"Sňatek Kašpara Hrabovského a Alžběty Matulíkové, Slavkov 9. 9. 1739"}
       ]
     }
   ]
