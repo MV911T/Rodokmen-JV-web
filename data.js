@@ -4079,8 +4079,9 @@ window.RODOKMEN = {
       spouse: "martin_h",
       marriage: "12. 2. 1860, Heršpice – s Martinem Hrazdílkem",
       notes: [
-        "Při sňatku 1860 služebná v Heršpicích, 31 let; dcera Františka Kirchnera, domkáře v Heršpicích (tehdy žijícího), a † Ludmily roz. Žilkové (?).",
-        "Výměnkářka a vdova po Martinu Hrazdílkovi; zemřela 2. 1. 1913 v Heršpicích č. 152 asi v 90 letech (rok narození tužkou nejistý)."
+        "Při sňatku 1860 služebná v Heršpicích, 31 let; dcera Františka Kirchnera, domkáře v Heršpicích (tehdy žijícího), a † Petronily roz. Žilkové (dcery Augustina).",
+        "Výměnkářka a vdova po Martinu Hrazdílkovi; zemřela 2. 1. 1913 v Heršpicích č. 152 asi v 90 letech (rok narození tužkou nejistý).",
+        "Sestra Františka (její nemanželská dcera Marianna † IX 1858, Heršpice č. 90)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 104, snímek 54, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384",
@@ -4801,18 +4802,25 @@ window.RODOKMEN = {
     },
     {
       id: "ludmila_zi",
-      name: "Ludmila Kirchnerová",
-      maiden: "Žilková (?)",
+      name: "Petronila Kirchnerová",
+      maiden: "Žilková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true},
-      d: {"date":"před 12. 2. 1860","year":1860,"approx":true},
+      b: {"date":"asi 1798","year":1798,"approx":true},
+      d: {"date":"10. 8. 1858","year":1858,"place":"Heršpice č. p. 90"},
+      cause: "plicní sněť („Lungenbrand“ ?)",
       spouse: "frantisek_ki",
       notes: [
-        "Matka Cecilie Hrazdílkové; dcera Augustina Žilky (?)."
+        "Matka Cecilie Hrazdílkové a Františky (nemanželská dcera Marianna † 1858); dcera Augustina Žilky (oddací zápis Cecilie 1860: „… Eheweibes Petro-nilla geb. Augustin Zilka“ – dřívější čtení „Ludmila“ bylo chybné, jméno je rozdělené na konci řádku).",
+        "Zemřela 10. 8. 1858 (pohřbena 12. 8.) v Heršpicích č. 90 jako „Petronilla, Eheweib des Franz Krchner, Häuslers von Herspitz“, 60 let.",
+        "KANDIDÁT původu: Žilkové žili v Uhřicích (fara Uhřice/Dambořice) – křest a sňatek zatím nenalezeny."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387"
+        "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, snímek 10 (1860) – https://www.mza.cz/actapublica/matrika/detail/12387",
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, sign. 13155, str. 29, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/12384"
+      ],
+      scans: [
+        {"f":"img/1858_Z_13155_sn16R_str29_Herspice_c90_Petronilla_manzelka_Frantiska_Kirchnera_60let_10-8-1858_plne_rozl.jpg","t":"Úmrtí Petronily Kirchnerové, Heršpice 10. 8. 1858"}
       ]
     },
     {
@@ -6720,7 +6728,7 @@ window.RODOKMEN = {
       marriage: "10. 9. 1769, Hodějice – s Pavlem Hrabovským",
       notes: [
         "Dcera Jana Pasety z Hodějic; v křtu syna 1792 „Katharina Pasetin“ (dřívější čtení „Fischin“ bylo chybné). Matka Jiřího Hrabovského (kandidát – křest nenalezen).",
-        "KANDIDÁT úmrtí: index zemřelých uvádí v Heršpicích „Hrabowski Katharina“ 1813 (str. 274) a 1815 (str. 276) – nečteno."
+        "Úmrtí nenalezeno – kandidátky z indexu (Heršpice 1813 a 1815) jsou jiné ženy (manželka Josefa Hrabovského, 52 let; dítě)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, oddíl O, snímek 332 – https://www.mza.cz/actapublica/matrika/detail/1948"
