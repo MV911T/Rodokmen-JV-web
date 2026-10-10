@@ -6266,7 +6266,7 @@ window.RODOKMEN = {
         "POZOR: kolem 1797 žil v okolí další kovář Václav Landsinger × Mariana Jedličková (?) – jejich syn Josef (23) se 13. 9. 1820 oženil v Cerhovicích s Josefou Švarcerovou (?).",
         "Podruhé oddán 3. (?) 7. 1798 v Drozdově jako podsedník a kovář, vdovec, 38 let (*~1760), s Kateřinou, dcerou Josefa Šaldy (?), krčmáře z Drozdova; děti Tomáš (1805) a Jan Křtitel (1807), Drozdov č. 4.",
         "Zemřel 9. 8. 1827 v Drozdově č. 8 jako „mistr kowářský ze wsi Drozdowa, z panstwí Točnického poddaný“, 73 let (ROZPOR věku: 1798 uvedeno 38 let). Identifikace velmi pravděpodobná (pozor na druhého kováře Václava × Jedličková).",
-        "KANDIDÁT křtu: 3. 5. 1759 Drozdov – Václav, syn Matěje Landsingra a Magdaleny, poddaných točnických (Cerhovice 02, sn. 172) – jediný Landsinger v křtech Drozdova 1754–1761; oddací zápis 1777 rodiče ženicha neuvádí."
+        "KANDIDÁT křtu: 3. 5. 1759 Drozdov – Václav, syn Matěje Landsingra a Magdaleny, poddaných točnických (Cerhovice 02, sn. 172) – jediný Landsinger v křtech Drozdova 1754–1761; oddací zápis 1777 rodiče ženicha neuvádí. Posíleno: Matěj Landsinger, kovář, zemřel 6. 5. 1791 v Drozdově č. 8, 74 let (Cerhovice 12, sn. 76) – ve stejném domě č. 8 zemřel 1827 i Václav, mistr kovářský; Matěj se 2. 11. 1738 oženil s Magdalenou Hlavatou z Újezda (Cerhovice 02, sn. 257)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 12 (NOZ 1785–1799, Drozdov), oddíl O, fol. 8, snímek 9 – https://ebadatelna.soapraha.cz/d/4555/9",
