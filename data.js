@@ -7336,7 +7336,8 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
       notes: [
-        "Sedlák z Holé (?) – otec Matěje Hamra (křest vnučky Kateřiny, Tučapy 1793)."
+        "Hospodář z „Holé (?)“ – nejspíš Želeč u Soběslavi (kurentní Ž čtené jako H; fara Planá nad Lužnicí, od 1787 Hlavatce, kde je rod Hamrů doložen – Václav Hammer ze Želče, sňatek ~1824). Otec Matěje Hamra (křty vnoučat v Tučapech 1791, 1793, 1796).",
+        "KANDIDÁT původu: Želeč – neověřeno křtem Matěje."
       ],
       sources: [
         "SOA Třeboň, fara Tučapy, Tučapy N/O/Z 1784–1800 (kniha 8077), pag. 37, snímek 31; rejstřík 8092 sn. 11 – https://digi.ceskearchivy.cz/8077"
