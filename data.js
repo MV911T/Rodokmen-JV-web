@@ -6242,17 +6242,15 @@ window.RODOKMEN = {
       name: "Šimon Laukota",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1731 (?)","year":1731,"approx":true},
+      b: {"date":"říjen 1732 (?)","year":1732,"approx":true,"place":"Osek u Rokycan"},
       d: {"date":"10. 9. 1806","year":1806,"place":"Osek u Rokycan č. p. 17"},
       cause: "mrtvice („Schlag“)",
       occ: "pastýř v Oseku (č. 10 v r. 1774)",
       notes: [
-        "Otec Prokopa Laukoty (sňatek 1782). Děti s Magdalenou: Eva (16. 9. 1740), Anna (8. 4. 1743), Vít (1746), Matouš (1749), Šimon (1752), Marie (1757), Matěj (1764), Magdalena (1774) – sňatek před XII 1739. Pastýř v Oseku – v r. 1774 v č. 10 (křest dcery Magdaleny, matka Magdalena); dcera Magdalena † I 1781; dcera Marie pokřtěna 24. 3. 1757 („otce Šymona Laukota, matky Magdaleny“). Další děti s Magdalenou: Šimon (18. 10. 1752), Matěj (4. 8. 1764, „filius Simonis Laukota Pastoris gregis et uxoris ejus Magdalenae“ – později v č. 17, oddán 1792).",
-        "Zemřel 10. 9. 1806 v Oseku č. 17, 75 let, na mrtvici. Ztotožnění: v témže domě zemřela 5. 10. 1807 „Magdalena, vdova po † Šimonovi Laukotovi, pastýři“, 69 let – nejspíš jeho manželka a matka Prokopa (neověřeno, křest Prokopa nenalezen v Oseku 1756–1762).",
-        "POZOR: v Oseku současně žil jiný Šimon Laukota, podruh, × Anna (dcera Dorota 1761).",
-        "Křest Prokopa ve faře Osek XI 1751 – II 1765 není – narodil se asi před 1752 (věky 35 a 45 v pozdějších zápisech by byly podhodnocené) nebo jinde. Sňatek Šimona s Magdalenou v Oseku XI 1748 – II 1757 také není. Magdalena byla vdaná už 1752, věk 69 při úmrtí 1807 je tedy podhodnocený.",
-        "Křest Prokopa ve faře Osek VI 1745 – II 1765 není; další cesta: fary Radnice (Březina – odkud byli kmotři), Mýto, Drahoňův Újezd.",
-        "KANDIDÁT – pravděpodobně dva Šimonové: (1) Šimon, syn Jana Laukoty, oddán 20. (?) 10. 1739 s Magdalenou, dcerou Martina Bydlatého (?) z Oseka – děti od 1740 (Eva, Anna, Vít, Matouš, Šimon 1752 …); (2) Šimon pokřtěný v říjnu 1732, syn Josefa Laukoty a Roziny (Osek 02, str. 44) – sedí na úmrtí 10. 9. 1806 ve věku 75; manželka Magdalena († 1807, 69 let, *~1738) by pak byla jiná Magdalena a děti 1757–1774 (Marie, Matěj, Magdalena) i Prokop (*~1760) by patřily tomuto mladšímu páru. Otcem Prokopa je podle sňatku 1782 Šimon – který z nich, nerozhodnuto; sňatek Šimona *1732 (asi 1755–1762) zatím nenalezen."
+        "Otec Prokopa Laukoty (sňatek 1782: „Sohn des Simon Laukota von Wossek“). Obecní pastýř v Oseku (č. 10 v r. 1774, „Pastor gregis“ 1764).",
+        "KANDIDÁT (K+): pokřtěn v říjnu 1732 v Oseku jako syn Josefa Laukoty a Roziny (Osek 02, str. 44) – sedí na úmrtí 10. 9. 1806 v č. 17 ve věku 75; v r. 1757 dvakrát družbou (ještě svobodný). Manželka Magdalena (*~1738, † 5. 10. 1807 jako vdova po pastýři Šimonovi, 69 let); děti Matěj (4. 8. 1764), Magdalena (1774, č. 10) a Prokop (*~1760, křest nenalezen – sňatek rodičů asi 1758–1763 mimo faru Osek).",
+        "Zemřel 10. 9. 1806 v Oseku č. 17, 75 let, na mrtvici.",
+        "POZOR – jiný Šimon Laukota: syn Jana, oddán 20. (?) 10. 1739 s Magdalenou, dcerou Martina Bydlatého (?); děti Eva (1740), Anna (1743, provdaná 1765 jako „dcera † Šimona Laukoty“), Vít (1746), Matouš (1749), Šimon (1752), Marie (1757) – zemřel před XI 1765. Dále Šimon Laukota, podruh × Anna (dcera Dorota 1761)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, rok 1782, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
@@ -6262,7 +6260,8 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 04, str. 36, snímek 21 – https://www.portafontium.eu/iipimage/30066670/osek-04_0210-n",
         "SOA Plzeň, fara Osek, kniha Osek 03, str. 53 a 81, snímky 29 a 43 – https://www.portafontium.eu/iipimage/30066669/osek-03_0290-n",
         "SOA Plzeň, fara Osek, kniha Osek 03, str. 5 a 28, snímky 5 a 17 – https://www.portafontium.eu/iipimage/30066669/osek-03_0050-n",
-        "SOA Plzeň, fara Osek, kniha Osek 02, O str. 169–170, snímky 87–88, a N str. 44, snímek 24 – https://www.portafontium.eu/iipimage/30066668/osek-02_0870-o"
+        "SOA Plzeň, fara Osek, kniha Osek 02, O str. 169–170, snímky 87–88, a N str. 44, snímek 24 – https://www.portafontium.eu/iipimage/30066668/osek-02_0870-o",
+        "SOA Plzeň, fara Osek, kniha Osek 04, oddíl O, str. 27, snímek 79 – https://www.portafontium.eu/iipimage/30066670/osek-04_0790-o"
       ],
       scans: [
         {"f":"img/1782_oddani_prokop_laukota_syn_simona_x_anna_dcera_antonina_laukoty_osek10_osek07_sn8.jpg","t":"První sňatek Prokopa Laukoty, Osek 24. 11. 1782"},
