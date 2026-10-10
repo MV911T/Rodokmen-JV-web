@@ -6786,16 +6786,17 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1688)","year":1688,"approx":true},
       d: {"date":"1. 1. 1748","year":1748,"place":"Hodějice"},
+      father: "pavel_hb0",
       spouse: "alzbeta_hb",
       occ: "Hodějice",
-      marriage: "9. 9. 1739 (fara Slavkov) – s Alžbětou Matulíkovou (?) (2. sňatek)",
+      marriage: "1) 19. 8. 1710 – s Magdalenou Novákovou; 2) 2. 2. 1712 – s Annou, vdovou po Jiřím Bartoňovi († 1739); 3) 9. 9. 1739 – s Alžbětou Matulíkovou (fara Slavkov)",
       notes: [
+        "Oddán poprvé 19. 8. 1710 (fara Slavkov) jako „Juvenis Casparus filius post defunctum Paulum Hrabowsky ex Herspitz“ s pannou Magdalenou, dcerou † Martina Nováka ze Slavkova (ulice Hospitál- ?); svědci Martin Rychlý a Matěj Novák z Heršpic.",
+        "Podruhé oddán 2. 2. 1712 jako „Casparus Hrabowsky ex Herspitz“ s vdovou Annou po † Jiřím Bartoňovi z Heršpic; svědci Mikuláš Janík a Jan Hrabovský z Heršpic. (Totožnost s Kašparem 1710 velmi pravděpodobná, „viduus“ v zápisu chybí.) Anna zemřela 18. 6. 1739 v Heršpicích, uvedeno 80 let – jako vdova mohla být výrazně starší.",
         "Z Heršpic. Oddán 9. 9. 1739 (fara Slavkov) jako vdovec s pannou Alžbětou, dcerou † Matěje Matulíka (?) z Hodějic: „Viduus Casparus Hrabowsky cum Virgine Elisabetha filia def. Mathiae Matulik, ille Herspicio, illa Hodejicio“; svědci Martin Červinka a Antonín Hrabovský (příbuzný?).",
         "Zemřel 1. 1. 1748 v Hodějicích, 60 let („Casparus Hrabovsky Hodiegicio“) – narozen tedy asi 1688.",
         "Otec Pavla Hrabovského (*1744, sňatek 1769); další dítě 1746.",
-        "První manželka Anna zemřela 18. 6. 1739 v Heršpicích („Anna Caspari Hrabowski uxor Hersp.“), uvedeno 80 let; Kašpar se znovu oženil po necelých 3 měsících. Jejich sňatek nenalezen (O Slavkov 1723–1744 bez něj – nejspíš před 1707).",
-        "KANDIDÁT příbuzenstva: v Heršpicích žil Jan Hrabovský (× Kateřina; syn Tomáš *16. 12. 1705 Heršpice, děti Rosina a Tomáš oddány 4. 2. 1727; manželka Kateřina † 28. 3. 1738, 60 let; děti Kateřina a Šebestián † I 1741) – spíš Kašparův bratr než otec; svědek Antonín Hrabovský (1739) také příbuzný. Neověřeno.",
-        "ROZPOR: věk 1. ženy Anny při úmrtí 1739 uveden 80 let, Kašparovi bylo při úmrtí 1748 jen 60 – věk Anny je nejspíš nadsazený (věk Kašpara je čitelný jasně).",
+        "KANDIDÁT příbuzenstva: v Heršpicích žil Jan Hrabovský (× Kateřina; syn Tomáš *16. 12. 1705 Heršpice, děti Rosina a Tomáš oddány 4. 2. 1727; manželka Kateřina † 28. 3. 1738, 60 let; děti Kateřina a Šebestián † I 1741) – spíš Kašparův bratr (svědek jeho sňatku 1712; sám oddán 15. 9. 1705 s Kateřinou, dcerou Friedricha Chládka); svědek Antonín Hrabovský (1739) také příbuzný. Neověřeno.",
         "Křest nedohledatelný: matrika narozených fary Slavkov za 1665–1689 se ztratila (poznámka v N 13119, sn. 2: „prior Matrica deperiit“). N 1690–1693 bez Kašpara."
       ],
       sources: [
@@ -6803,14 +6804,18 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 41 – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 234 vlevo (září 1739) – https://www.mza.cz/actapublica",
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), Z, str. 406, snímek 360 vpravo (červen 1739) – https://www.mza.cz/actapublica",
-        "MZA Brno, fara Slavkov, NOZ (sign. 13121), Z, snímek 359 vlevo (leden 1748) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov, NOZ (sign. 13121), Z, snímek 359 vlevo (leden 1748) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 175 vpravo – 176 vlevo (srpen 1710) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 178 vpravo (únor 1712) – https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
         {"f":"img/1769_O_13121_sn332L_Hrabovsky_Pavel_syn_Kaspara_x_Katerina_Paseta_Hodejice_10-9-1769_plne_rozl.jpg","t":"Sňatek Pavla Hrabovského a Kateřiny Pasetové, Hodějice 10. 9. 1769"},
         {"f":"img/1744_N_13121_sn41L_krest_Pavel_Hrabovsky_otec_Kaspar_24-3-1744_plne_rozl.jpg","t":"Křest Pavla Hrabovského, Hodějice 24. (III ?) 1744"},
         {"f":"img/1739_O_Hrabovsky_Kaspar_Matulikova_Alzbeta.jpg","t":"Sňatek Kašpara Hrabovského a Alžběty Matulíkové, Slavkov 9. 9. 1739"},
         {"f":"img/1739_Z_Hrabovska_Anna_Herspice.jpg","t":"Úmrtí Anny, 1. manželky Kašpara Hrabovského, Heršpice 18. 6. 1739"},
-        {"f":"img/1748_Z_Hrabovsky_Kaspar_Hodejice.jpg","t":"Úmrtí Kašpara Hrabovského, Hodějice 1. 1. 1748"}
+        {"f":"img/1748_Z_Hrabovsky_Kaspar_Hodejice.jpg","t":"Úmrtí Kašpara Hrabovského, Hodějice 1. 1. 1748"},
+        {"f":"img/1710_O_Hrabovsky_Kaspar_Novakova_Magdalena.jpg","t":"První sňatek Kašpara Hrabovského, syna † Pavla z Heršpic, s Magdalenou Novákovou, Slavkov 19. 8. 1710"},
+        {"f":"img/1712_O_Hrabovsky_Kaspar_Bartonova_Anna.jpg","t":"Druhý sňatek Kašpara Hrabovského s vdovou Annou Bartoňovou, Slavkov 2. 2. 1712"}
       ]
     },
     {
@@ -7051,6 +7056,23 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1739_O_Hrabovsky_Kaspar_Matulikova_Alzbeta.jpg","t":"Sňatek Kašpara Hrabovského a Alžběty Matulíkové, Slavkov 9. 9. 1739"},
         {"f":"img/1738_Z_Matulik_Matej_Hodejice.jpg","t":"Úmrtí Matěje Matulíka, Hodějice 6. 3. 1738"}
+      ]
+    },
+    {
+      id: "pavel_hb0",
+      name: "Pavel Hrabovský",
+      line: "hrabovsky",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1660)","year":1660,"approx":true},
+      notes: [
+        "Z Heršpic; zemřel před srpnem 1710 (oddací zápis syna Kašpara: „filius post defunctum Paulum Hrabowsky ex Herspitz“).",
+        "Úmrtí ani sňatek zatím nenalezeny (N Slavkov 1665–1689 ztracena)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 175 vpravo – 176 vlevo (srpen 1710) – https://www.mza.cz/actapublica/matrika/detail/1946"
+      ],
+      scans: [
+        {"f":"img/1710_O_Hrabovsky_Kaspar_Novakova_Magdalena.jpg","t":"První sňatek Kašpara Hrabovského, syna † Pavla z Heršpic, s Magdalenou Novákovou, Slavkov 19. 8. 1710"}
       ]
     }
   ]
