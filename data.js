@@ -1153,7 +1153,8 @@ window.RODOKMEN = {
       marriage: "24. 5. 1903, Borek (Suchomasty) – s Karlem Klikou",
       notes: [
         "Narozena 8. 1. 1877 v 10 hodin ráno v Čepirohách (Tschöppern) č. 20, pokřtěna 9. 1. (fara Slatinice / Deutsch-Zlatnik, farář Fr. Al. Böhm (?)); nemanželská – sloupec otce prázdný. Matka Anna Valentová, dcera Vitála Valenty, nádeníka v Čepirohách č. 20, příslušného do „Wirschen / Kirschen (?)“, okres Manětín, a Marie roz. Pollakové z téže obce č. 16. Kmotra Rosina Sandnerová, manželka nádeníka Andrease Sandnera z Čepiroh č. 20; svědek Josef Chmelík, zedník ve Slatinicích.",
-        "Při sňatku 1903 bydlela v Suchomastech č. 34 (26 let). V křestním listu dcery Anny (1913) uvedena jako Růžena."
+        "Při sňatku 1903 bydlela v Suchomastech č. 34 (26 let). V křestním listu dcery Anny (1913) uvedena jako Růžena.",
+        "Otec nezjistitelný z matrik: na křestním zápisu 1877 není žádný přípis o legitimaci ani otcovství; matka Anna Valentová se v Čepirohách 1876–1897 nevdala (O 148/11) a v r. 1903 je uvedena jako zemřelá svobodná „Anna Valentová“."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
