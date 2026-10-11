@@ -8372,20 +8372,22 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1752)","year":1752,"approx":true},
       spouse: "katerina_sz",
-      marriage: "18. 1. 1778, fara Rožďalovice – s Kateřinou (Čihulovou ?)",
+      marriage: "18. 1. 1778, Žitovlice č. 8 (fara Rožďalovice) – s Kateřinou Čihalovou",
       notes: [
         "Baráčník ve Žitovlicích; zemřel před V 1818 (sňatek syna Jana).",
         "S manželkou Kateřinou děti Kateřina (24. 2. 1787) a Jan (10. 8. 1789) ve Žitovlicích č. 8.",
-        "Oddán 18. 1. 1778 (index O: „Šulcz Jakub, nádeník (?) z Žitt. – Katrzina, dcera Jana Čihuly (?)“, oba svobodní; zápis v matrice O pag. 185 nečten). Jediný Jakub Šulc ze Žitovlic v indexu 1774–1783."
+        "Oddán 18. 1. 1778 (Žitovlice č. 8): „Jacobus Schulcz operarius cum Catharina post Henricum Czihal filia“; svědci Petr Holý, nádeník, a Kateřina, dcera † Jana Kuse (?); oddal kaplan Metoděj Wisinger. Rodiče ženicha a věky neuvedeny."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Žitovlice, pag. 9, snímek 8 vpravo (10. 8. 1789); index Rožďalovice 22 sn. 207 – https://ebadatelna.soapraha.cz/d/11182/8",
-        "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 58 vlevo (18. 1. 1778, odkaz na pag. 185)"
+        "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 58 vlevo (18. 1. 1778, odkaz na pag. 185)",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 185, snímek 96 vpravo (18. 1. 1778) – https://ebadatelna.soapraha.cz/d/11192/96"
       ],
       scans: [
         {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"},
-        {"f":"img/1789_N_Sulc_Jan_Zitovlice8.jpg","t":"Křest Jana Šulce, Žitovlice č. 8, 10. 8. 1789"}
+        {"f":"img/1789_N_Sulc_Jan_Zitovlice8.jpg","t":"Křest Jana Šulce, Žitovlice č. 8, 10. 8. 1789"},
+        {"f":"img/1778_O_Sulc_Jakub_Cihalova_Katerina_Zitovlice8.jpg","t":"Sňatek Jakuba Šulce s Kateřinou Čihalovou, Žitovlice č. 8, 18. 1. 1778"}
       ]
     },
     {
@@ -8393,41 +8395,45 @@ window.RODOKMEN = {
       name: "Jan Hofman",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      b: {"date":"neznámé (odhad ~1746)","year":1746,"approx":true},
       spouse: "marie_zj",
-      marriage: "13. 1. 1788, fara Rožďalovice – s Marií Zajíčkovou",
+      marriage: "13. 1. 1788, Nová Hasina č. 6 (fara Rožďalovice) – s Marií Zajíčkovou (2. sňatek)",
       notes: [
         "Sedlák (půlsedlák) v Dobrovanech; zemřel před V 1818 (sňatek dcery Anny).",
         "Sedlák v Dobrovanech č. 16; s manželkou Marií roz. Zajíčkovou (?) děti František (1790), Jiří (1793), Anna (1795). Matěj (1797, matka Kateřina Bayerová ?) – jiný Jan nebo 2. manželství, neověřeno.",
-        "Oddán 13. 1. 1788 (index O: „Hoffman Jan z Hasyny (?) – Marie Zagiczkowa z Hasyny (?)“; zápis pag. 222 nečten)."
+        "Oddán 13. 1. 1788 v Nové Hasině č. 6 jako vdovec, 42 let (→ *~1746), s Marií Zajíčkovou, svobodnou, 23 let; svědci František Kaubek (?), chalupník z Křince, a Anna Dvořáková; oddal Václav Pokorný. Rodiče neuvedeni. Mezi 1788 a 1790 se přestěhoval do Dobrovan č. 16. První manželství zatím nedohledáno."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Dobrovany, pag. 95, snímek 51 vpravo (22. 1. 1795); index Rožďalovice 22 sn. 73 – https://ebadatelna.soapraha.cz/d/11182/51",
-        "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 26 vpravo (13. 1. 1788, odkaz na pag. 222)"
+        "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 26 vpravo (13. 1. 1788, odkaz na pag. 222)",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 222/223, snímek 115 (13. 1. 1788) – https://ebadatelna.soapraha.cz/d/11192/115"
       ],
       scans: [
         {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"},
-        {"f":"img/1795_N_Hofmanova_Anna_Dobrovany16.jpg","t":"Křest Anny Hofmanové, Dobrovany č. 16, 22. 1. 1795"}
+        {"f":"img/1795_N_Hofmanova_Anna_Dobrovany16.jpg","t":"Křest Anny Hofmanové, Dobrovany č. 16, 22. 1. 1795"},
+        {"f":"img/1788_O_Hofman_Jan_Zajickova_Marie_Hasina6.jpg","t":"Sňatek Jana Hofmana (vdovce) s Marií Zajíčkovou, Nová Hasina č. 6, 13. 1. 1788"}
       ]
     },
     {
       id: "katerina_sz",
       name: "Kateřina Šulcová",
-      maiden: "Čihulová (?)",
+      maiden: "Čihalová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
       spouse: "jakub_sl",
       marriage: "18. 1. 1778 – s Jakubem Šulcem",
       notes: [
-        "Manželka Jakuba Šulce, baráčníka ve Žitovlicích č. 8; matka Kateřiny (1787) a Jana (1789). Podle indexu oddaných 18. 1. 1778 „Katrzina, dcera Jana Čihuly (?)“ – příjmení nejisté, zápis v matrice nečten."
+        "Dcera † Jindřicha Čihala; oddána 18. 1. 1778 v Žitovlicích č. 8 s Jakubem Šulcem, nádeníkem. Matka Kateřiny (1787) a Jana (1789)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Žitovlice, pag. 9, snímek 8 vpravo (10. 8. 1789); index Rožďalovice 22 sn. 207 – https://ebadatelna.soapraha.cz/d/11182/8",
-        "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 58 vlevo"
+        "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 58 vlevo",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 185, snímek 96 vpravo (18. 1. 1778) – https://ebadatelna.soapraha.cz/d/11192/96"
       ],
       scans: [
+        {"f":"img/1778_O_Sulc_Jakub_Cihalova_Katerina_Zitovlice8.jpg","t":"Sňatek Jakuba Šulce s Kateřinou Čihalovou, Žitovlice č. 8, 18. 1. 1778"},
         {"f":"img/1789_N_Sulc_Jan_Zitovlice8.jpg","t":"Křest Jana Šulce, Žitovlice č. 8, 10. 8. 1789"}
       ]
     },
@@ -8437,17 +8443,19 @@ window.RODOKMEN = {
       maiden: "Zajíčková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1768)","year":1768,"approx":true},
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
       spouse: "jan_hf",
-      marriage: "13. 1. 1788 – s Janem Hofmanem",
+      marriage: "13. 1. 1788, Nová Hasina č. 6 – s Janem Hofmanem (vdovcem)",
       notes: [
-        "Manželka Jana Hofmana, sedláka v Dobrovanech č. 16; matka Anny (*1795). Příjmení Zajíčková potvrzuje index oddaných (13. 1. 1788, „Marie Zagiczkowa z Hasyny (?)“)."
+        "Oddána 13. 1. 1788 v Nové Hasině č. 6 (fara Rožďalovice), svobodná, 23 let (→ *~1765), s vdovcem Janem Hofmanem (42); rodiče neuvedeni. Matka Františka (1790), Jiřího (1793) a Anny (1795), Dobrovany č. 16."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Dobrovany, pag. 95, snímek 51 vpravo (22. 1. 1795); index Rožďalovice 22 sn. 73 – https://ebadatelna.soapraha.cz/d/11182/51",
-        "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 26 vpravo"
+        "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 26 vpravo",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 222/223, snímek 115 (13. 1. 1788) – https://ebadatelna.soapraha.cz/d/11192/115"
       ],
       scans: [
+        {"f":"img/1788_O_Hofman_Jan_Zajickova_Marie_Hasina6.jpg","t":"Sňatek Jana Hofmana (vdovce) s Marií Zajíčkovou, Nová Hasina č. 6, 13. 1. 1788"},
         {"f":"img/1795_N_Hofmanova_Anna_Dobrovany16.jpg","t":"Křest Anny Hofmanové, Dobrovany č. 16, 22. 1. 1795"}
       ]
     },
