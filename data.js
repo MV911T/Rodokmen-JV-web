@@ -8092,7 +8092,9 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1805_N_Jelinek_Jiri_Dzbanice.jpg","t":"Křest Jiřího Jelínka, Džbánice č. 8, 12. 4. 1805"},
         {"f":"img/1833_O_Jelinek_Jiri_Frantiska.jpg","t":"Sňatek Jiřího Jelínka s Františkou Jelínkovou, Džbánice 6. 2. 1833"},
-        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
+        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"},
+        {"f":"img/1831_Z_Jelinek_Alexandr_Dzbanice8.jpg","t":"Úmrtí otce Alexandra, Džbánice č. 8, 15. 12. 1831"},
+        {"f":"img/1810_Z_Jelinkova_Marianna_Dzbanice8.jpg","t":"Úmrtí matky Marianny, Džbánice č. 8, 9. 7. 1810"}
       ]
     },
     {
@@ -8126,14 +8128,17 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
       spouse: "marianna_je",
       notes: [
-        "Domkář (podruh) v Džbánicích č. 33; otec Františky Jelínkové (sňatek 1833, křest vnuka Jana 1849)."
+        "Domkář (podruh) v Džbánicích č. 33; otec Františky Jelínkové (sňatek 1833, křest vnuka Jana 1849).",
+        "Ovdověl 23. 9. 1830. Děti v Džbánicích 1807–1815 nepokřtěny a sňatek v indexu O Džbánice není → rodina se nejspíš přistěhovala po 1815 (Františka narozena mimo faru Trstěnice ?)."
       ],
       sources: [
         "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217",
-        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220"
+        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220",
+        "MZA Brno, ř.-k. fara Trstěnice, matrika Z 14743 (Acta Publica), snímek 154 vlevo, str. 36 (23. 9. 1830)"
       ],
       scans: [
-        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
+        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"},
+        {"f":"img/1830_Z_Jelinkova_Marianna_Dzbanice33.jpg","t":"Úmrtí Marianny, manželky Václava Jelínka, Džbánice č. 33, 23. 9. 1830"}
       ]
     },
     {
@@ -8142,17 +8147,21 @@ window.RODOKMEN = {
       maiden: "Miechslová (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (odhad ~1781)","year":1781,"approx":true},
+      d: {"date":"23. 9. 1830","year":1830,"place":"Džbánice č. p. 33 (fara Trstěnice)"},
       spouse: "vaclav_je",
       notes: [
-        "Manželka Václava Jelínka, podruha v Džbánicích; rodné příjmení neznámé."
+        "Manželka Václava Jelínka, podruha v Džbánicích; rodné příjmení neznámé.",
+        "Zemřela 23. 9. 1830 v Džbánicích č. 33 jako manželka Václava Jelínka, domkáře, 49 let; pohřbena 25. 9. (farář Ignác Tinger). Václav v indexu úmrtí Džbánice do 1839 není."
       ],
       sources: [
         "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217",
-        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220"
+        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220",
+        "MZA Brno, ř.-k. fara Trstěnice, matrika Z 14743 (Acta Publica), snímek 154 vlevo, str. 36 (23. 9. 1830)"
       ],
       scans: [
-        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"}
+        {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"},
+        {"f":"img/1830_Z_Jelinkova_Marianna_Dzbanice33.jpg","t":"Úmrtí Marianny, manželky Václava Jelínka, Džbánice č. 33, 23. 9. 1830"}
       ]
     },
     {
@@ -8268,18 +8277,27 @@ window.RODOKMEN = {
       line: "jelinek",
       cert: "M",
       b: {"date":"neznámé (odhad ~1767)","year":1767,"approx":true},
+      d: {"date":"15. 12. 1831","year":1831,"place":"Džbánice č. p. 8 (fara Trstěnice)"},
       spouse: "marianna_hb",
       marriage: "4. (?) 5. 1790, Džbánice – s Marií Holbovou",
       notes: [
-        "Čtvrtník v Džbánicích č. 8; oddán 4. (?) 5. 1790 (23 let) s Marií, dcerou Josefa Holba (?), 18 let. Děti Marianna (1803), Jiří (1805), snad Jakub (1809). Zemřel před 1833."
+        "Oddán 4. 5. 1790 v Džbánicích (č. 8) jako syn tesaře (?) z Trstěnice („Sohn [eines] Zimmermanns zu Stiegnitz“), 25 (?) let (dřív čteno 23), s Marií, dcerou Josefa Holba (?), 18 let; svědci Matouš Gindling (?) a Jiří Jedlička (?), oddal farář Josef Novák. Jména rodičů ženicha neuvedena.",
+        "Čtvrtník v Džbánicích č. 8. S Mariannou děti Marianna (1803), Jiří (1805), Jakub (24. 5. 1809 – † 30. 8. 1810).",
+        "Ovdověl 9. 7. 1810; podruhé ženatý s Magdalenou roz. Kudlagel (?) – děti Terezie (IX 1810) a Jakub (10. 4. 1814), Džbánice č. 8 (sňatek nehledán).",
+        "Zemřel 15. 12. 1831 v Džbánicích č. 8 jako čtvrtník („Viertler v. Žbanitz“), 60 let, na souchotiny („Lungensucht“); pohřben 17. 12. ROZPOR věku: sňatek 1790 (25) → ~1765, úmrtí 1831 (60) → ~1771; křest v N 14731 1761–1770 nenalezen."
       ],
       sources: [
         "MZA Brno, fara Trstěnice, N 1784–1828 (sign. 14733), oddíl Žbanitz, snímek 156 vpravo (12. 4. 1805) – https://www.mza.cz/actapublica/matrika/detail/2216",
         "MZA Brno, fara Trstěnice, O (sign. 14739), pag. 2, snímek 138 vlevo (4. (?) 5. 1790)",
-        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220"
+        "MZA Brno, fara Trstěnice, O 1784–1863 (sign. 14739), pag. 16, snímek 145 vlevo (6. 2. 1833) – https://www.mza.cz/actapublica/matrika/detail/2220",
+        "MZA Brno, ř.-k. fara Trstěnice, matrika Z 14743 (Acta Publica), snímek 154 vpravo, str. 37 (15. 12. 1831); index Z 14751 sn. 66",
+        "MZA Brno, fara Trstěnice, O 14739, snímek 138 vlevo, pag. 2 (4. 5. 1790)",
+        "MZA Brno, fara Trstěnice, N 14733, snímky 160 vpravo (IX 1810) a 162 vlevo (10. 4. 1814)"
       ],
       scans: [
-        {"f":"img/1805_N_Jelinek_Jiri_Dzbanice.jpg","t":"Křest Jiřího Jelínka, Džbánice č. 8, 12. 4. 1805"}
+        {"f":"img/1805_N_Jelinek_Jiri_Dzbanice.jpg","t":"Křest Jiřího Jelínka, Džbánice č. 8, 12. 4. 1805"},
+        {"f":"img/1831_Z_Jelinek_Alexandr_Dzbanice8.jpg","t":"Úmrtí Alexandra Jelínka, Džbánice č. 8, 15. 12. 1831"},
+        {"f":"img/1810_Z_Jelinkova_Marianna_Dzbanice8.jpg","t":"Úmrtí Marianny Jelínkové roz. Holbové, Džbánice č. 8, 9. 7. 1810"}
       ]
     },
     {
@@ -8289,16 +8307,20 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true},
+      d: {"date":"9. 7. 1810","year":1810,"place":"Džbánice č. p. 8 (fara Trstěnice)"},
       spouse: "alexandr_je",
       notes: [
-        "Dcera Josefa Holba (?); manželka Alexandra Jelínka, čtvrtníka v Džbánicích č. 8."
+        "Dcera Josefa Holba (?); manželka Alexandra Jelínka, čtvrtníka v Džbánicích č. 8.",
+        "Zemřela 9. 7. 1810 v Džbánicích č. 8 jako manželka Alexandra Jelínka, čtvrtníka, 36 let (→ *~1774; sňatek 1790 uvádí 18 let → ~1772), na vysílení („Abzehrung“); pohřbena 11. 7. Syn Jakub zemřel 30. 8. 1810 (1 rok)."
       ],
       sources: [
         "MZA Brno, fara Trstěnice, N 1784–1828 (sign. 14733), oddíl Žbanitz, snímek 156 vpravo (12. 4. 1805) – https://www.mza.cz/actapublica/matrika/detail/2216",
-        "MZA Brno, fara Trstěnice, O (sign. 14739), pag. 2, snímek 138 vlevo (4. (?) 5. 1790)"
+        "MZA Brno, fara Trstěnice, O (sign. 14739), pag. 2, snímek 138 vlevo (4. (?) 5. 1790)",
+        "MZA Brno, ř.-k. fara Trstěnice, matrika Z 14743 (Acta Publica), snímek 144 vlevo, str. 16 (9. 7. 1810)"
       ],
       scans: [
-        {"f":"img/1805_N_Jelinek_Jiri_Dzbanice.jpg","t":"Křest Jiřího Jelínka, Džbánice č. 8, 12. 4. 1805"}
+        {"f":"img/1805_N_Jelinek_Jiri_Dzbanice.jpg","t":"Křest Jiřího Jelínka, Džbánice č. 8, 12. 4. 1805"},
+        {"f":"img/1810_Z_Jelinkova_Marianna_Dzbanice8.jpg","t":"Úmrtí Marianny Jelínkové roz. Holbové, Džbánice č. 8, 9. 7. 1810"}
       ]
     },
     {
