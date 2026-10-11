@@ -2435,7 +2435,7 @@ window.RODOKMEN = {
         "Otec Anny Lodlové; děti v č. 72: Barbora (1809), Martin (1811), Anna (I 1813), Anna (14. 12. 1814) aj.",
         "Oddací zápis 1807 rodiče ženicha neuvádí (tabulková kniha); svědkyně Barbora (?) z Volduch.",
         "Vyvrácený kandidát: Kašpar, syn Matěje Aubrechta, sedláka z Oseka č. 55 (* 18. 12. 1777), zemřel v prosinci 1777 ve věku 10 dní (Osek 08, sn. 9).",
-        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784."
+        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
@@ -2462,20 +2462,21 @@ window.RODOKMEN = {
       father: "mikulas_hb",
       mother: "dominika_hb",
       spouse: "kaspar_a",
-      marriage: "1) Josef Hromes (?) († I 1807, č. 72); 2) 28. 4. 1807, Osek – s Kašparem Aubrechtem",
+      marriage: "28. 4. 1807, Osek – s Kašparem Aubrechtem (2. sňatek); 1. sňatek 1799, Osek č. 72 – s Josefem Kromesem (?) († I 1807)",
       notes: [
         "Pokřtěna 25. 7. 1779 v Oseku č. 8: otec Václav (Wentzl) Holub, sedlák, matka Veronika; kmotři Magdalena Tomášková a Josef Kremel (?).",
-        "Vdova po Josefu Hromesovi (?), sedlákovi v Oseku č. 72 († I 1807, 26 let); podruhé se vdala 28. 4. 1807 za Kašpara Aubrechta.",
-        "KANDIDÁT: první manžel spíš Josef Kromer (?), *11. 1. 1781 Osek č. 72, syn Matěje Kromera (?) a Anny (Matěj, sedlák v č. 72, † 21. 3. 1801) – čteno z náhledů, sňatek s Annou (~1799–1800) neověřen."
+        "1. sňatek 29. 1. 1799 v Oseku č. 72: Josef, syn Matěje Kromese (?) (psáno „Kromeß“, v rejstříku „Kromer“, 1807 „Hromes“), 18 let, s Annou, dcerou Václava Holuba, 19 let; svědci Jan Bošlav (?), Josef Uhlíř (?) a Dorota Zustová (?); oddal kaplan Karel Gruber. Josef (narozený v Oseku č. 72 podle křtu z ledna 1781) zemřel v lednu 1807 ve 26 letech; 28. 4. 1807 se Anna znovu vdala za Kašpara Aubrechta."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, Osek 07 (O), str. 34, snímek 19 vlevo – https://www.portafontium.eu/iipimage/30066673/osek-07_0190-o",
         "SOA Plzeň, fara Osek, Osek 06 (N), str. 37 a 51, snímky 22 a 29 – https://www.portafontium.eu/iipimage/30066672/osek-06_0220-n",
-        "SOA Plzeň, fara Osek, Osek 05 (N), str. 17, snímek 11 vpravo (25. 7. 1779) – https://www.portafontium.eu/iipimage/30066672/osek-05_0110-n"
+        "SOA Plzeň, fara Osek, Osek 05 (N), str. 17, snímek 11 vpravo (25. 7. 1779) – https://www.portafontium.eu/iipimage/30066672/osek-05_0110-n",
+        "SOA Plzeň, fara Osek, Osek 07 (O), str. 24, snímek 14 vlevo (29. 1. 1799); rejstřík O písm. K sn. 33 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o"
       ],
       scans: [
         {"f":"img/1779_N_Holubova_Anna_Osek.jpg","t":"Křest Anny Holubové, Osek č. 8, 25. 7. 1779"},
+        {"f":"img/1799_O_Kromes_Josef_Holubova_Anna_Osek72.jpg","t":"1. sňatek Anny Holubové s Josefem Kromesem (?), Osek č. 72, 29. 1. 1799"},
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl) (dítě: Anna Lodlová)"},
         {"f":"img/1807_O_Aubrecht_Kaspar_Anna_Osek.jpg","t":"Sňatek Kašpara Aubrechta s vdovou Annou, Osek č. 72, 28. 4. 1807"},
         {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"}
@@ -7886,11 +7887,13 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 05 (N), str. 17, snímek 11 vpravo (25. 7. 1779) – https://www.portafontium.eu/iipimage/30066672/osek-05_0110-n",
-        "SOA Plzeň, fara Osek, Osek 06 (N), str. 51, snímek 29 (13./14. 12. 1814) – https://www.portafontium.eu/iipimage/30066672/osek-06_0290-n"
+        "SOA Plzeň, fara Osek, Osek 06 (N), str. 51, snímek 29 (13./14. 12. 1814) – https://www.portafontium.eu/iipimage/30066672/osek-06_0290-n",
+        "SOA Plzeň, fara Osek, Osek 07 (O), str. 24, snímek 14 vlevo (29. 1. 1799); rejstřík O písm. K sn. 33 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o"
       ],
       scans: [
         {"f":"img/1779_N_Holubova_Anna_Osek.jpg","t":"Křest Anny Holubové, Osek č. 8, 25. 7. 1779"},
-        {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"}
+        {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"},
+        {"f":"img/1799_O_Kromes_Josef_Holubova_Anna_Osek72.jpg","t":"Sňatek dcery Anny s Josefem Kromesem (?), Osek 29. 1. 1799"}
       ]
     },
     {
