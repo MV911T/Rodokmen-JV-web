@@ -1895,12 +1895,14 @@ window.RODOKMEN = {
       spouse: "jiri_s",
       notes: [
         "Rozená Kliková (křest dcery Veroniky 1791, M: „Ewa rozená Klikowa“); z Býkoše, panství Suchomasty (křest vnuka Matěje 1825). ROZPOR: strojopisný rodopis uvádí „Kalousová“ – platí křest.",
-        "Manželka Jiřího Skály ve Vinařicích; děti Jiří (IV 1789, č. 37) a Veronika (VIII 1791, č. 27 ?). Sňatek zatím nenalezen: fara Borek O 1774 – VIII 1790 (kniha i rejstřík) a Všeradice 07 1785–1791 bez nálezu – nejspíš před 1784 (Všeradice 01).",
-        "KANDIDÁT původu: Klikové z Býkoše jsou ve stromu i jinou větví (Jan Klika, sedlák v Býkoši č. 10, × Kateřina – děti od 1776; Karel Klika *1880 Býkoš). Je-li Eva z téže rodiny, šlo by o další dvojí původ – neověřeno. V Býkoši žilo víc Kliků – sedláci Jan (č. 10), Matěj a Václav (dcery provdané 1786, 1787). Skálové z Vinařic měli vazby na Býkoš už 1755 (Matěj Skála z Vinařic kmotrem v Býkoši)."
+        "Manželka Jiřího Skály ve Vinařicích; děti Jiří (IV 1789, č. 37) a Veronika (VIII 1791, č. 27 ?). Sňatek zatím nenalezen: fara Borek O 1774 – VIII 1790 (kniha i rejstřík) a Všeradice 07 1785–1791 bez nálezu – ani ve Všeradicích 01 VI 1777 – V 1784 (zbývá 1756 – V 1777).",
+        "KANDIDÁT původu: Klikové z Býkoše jsou ve stromu i jinou větví (Jan Klika, sedlák v Býkoši č. 10, × Kateřina – děti od 1776; Karel Klika *1880 Býkoš). Je-li Eva z téže rodiny, šlo by o další dvojí původ – neověřeno. V Býkoši žilo víc Kliků – sedláci Jan (č. 10), Matěj a Václav (dcery provdané 1786, 1787). Skálové z Vinařic měli vazby na Býkoš už 1755 (Matěj Skála z Vinařic kmotrem v Býkoši).",
+        "KANDIDÁT křtu (slabý): XII 1753 Býkoš (fara Borek, Borek 03 sn. 26 vlevo, str. 46) – „Eva, dcera Stanislava (?) Kliky a Kateřiny (?)“, kmotr Stanislav (?) Klika z Býkoše; jediná Eva Kliková z Býkoše v rejstříku suchomastského panství ~1748–1770. Proti: v r. 1791 by jí bylo ~38; čtení otce nejisté; rejstřík „Klika Eva 59/85“ (Borek 03 sn. 258, asi úmrtí) neověřen."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Všeradice, kniha Všeradice 02 (7907, N 1784–1799), oddíl Vinařice, snímek 39 vlevo (VIII 1791) – https://ebadatelna.soapraha.cz/d/7907/39",
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), str. 46, snímek 26 vlevo (XII 1753) – https://ebadatelna.soapraha.cz/d/4072/26"
       ],
       scans: [
         {"f":"img/1791_N_Skalova_Veronika_Vinarice.jpg","t":"Křest Veroniky Skálové, Vinařice, 20. 8. 1791 (otec Jiří Skála, matka Eva roz. Kliková)"}
