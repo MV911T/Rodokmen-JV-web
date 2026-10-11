@@ -8524,10 +8524,13 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
       notes: [
         "Z Volduch (fara Osek); otec Anny, provdané 15. 2. 1745 za Martina Holuba. V r. 1745 zřejmě živ (bez „nebožtík“).",
-        "KANDIDÁTKA na manželku a matku Anny: Magdalena – 28. 11. 1722 Volduchy „Kateřina, dcera Josefa Aubrechta a Mandaleny manželky jeho“ († 9. 2. 1725), čteno jen v náhledu. Křest Anny (~1720–1725) zatím nenalezen (prohlédnuty jen července 1718–1727)."
+        "Manželka Magdalena (M): 28. 11. 1722 Volduchy „Kateřina, vlastní dcera Josefa Aubrechta a Magdaleny manželky jeho“ († 9. 2. 1725); též Václav 17. 9. 1713 (čteno v náhledu).",
+        "KANDIDÁT sňatku: 20. 10. 1709 Osek – „Josef Aubrecht z Volduch s Magdalenou Řehmovou (?) též z Volduch“; družba Jiří Gyšt, družička Marta Andrlová (Osek 01 O, sn. 154 vpravo, rok podle pořadí stran). Že je Magdalena matkou Anny (* 1710–1727), neověřeno – křest Anny zatím nenalezen."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, Osek 03 (O), str. 18, snímek 118 vlevo (15. 2. 1745); rejstřík O H sn. 152 – https://www.portafontium.eu/iipimage/30066669/osek-03_1180-o"
+        "SOA Plzeň, fara Osek, Osek 03 (O), str. 18, snímek 118 vlevo (15. 2. 1745); rejstřík O H sn. 152 – https://www.portafontium.eu/iipimage/30066669/osek-03_1180-o",
+        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 105 vpravo (28. 11. 1722) – https://www.portafontium.eu/iipimage/30066667/osek-01_1051-n",
+        "SOA Plzeň, fara Osek, Osek 01 (O), str. 304, snímek 154 vpravo (20. 10. 1709) – https://www.portafontium.eu/iipimage/30066667/osek-01_1541-o"
       ],
       scans: [
         {"f":"img/1745_O_Holub_Martin_Aubrechtova_Anna_Osek.jpg","t":"Sňatek Martina Holuba s Annou Aubrechtovou, Osek 15. 2. 1745"}
@@ -8585,7 +8588,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
       spouse: "pavel_hl",
       notes: [
-        "Manželka Pavla Holuba z Volduch; matka Martina (*1719). Rodné příjmení neznámé (sňatek nehledán)."
+        "Manželka Pavla Holuba z Volduch; matka Martina (*1719). Rodné příjmení neznámé (sňatek nehledán).",
+        "ROZPOR: 3. 9. 1712 pokřtěna Magdalena, dcera Pavla Holuba z Volduch a „Marty“ manželky jeho (Osek 01 N, sn. 61) – záměna jména písařem, nebo 1. manželka Pavla. Sňatek Pavla × Marie/Marta v O X 1705 – XII 1723 není."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), snímek 92 vpravo (7./8. 11. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_0921-n"
