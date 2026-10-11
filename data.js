@@ -7634,11 +7634,13 @@ window.RODOKMEN = {
       spouse: "martin_hz",
       marriage: "22. 9. 1754 – s Martinem Hrazdílkem (2. sňatek)",
       notes: [
-        "Vdova po † Jakubu Krostlíkovi z Heršpic; 22. 9. 1754 se vdala za Martina Hrazdílka z Hodějic. Matka Václava (*1762). Rodné příjmení neznámé."
+        "Vdova po † Jakubu Krostlíkovi z Heršpic; 22. 9. 1754 se vdala za Martina Hrazdílka z Hodějic. Matka Václava (*1762). Rodné příjmení neznámé.",
+        "1. manžel Jakub Zrostlík (Krostlík ?) z Heršpic zemřel 12. 9. 1751 ve věku 48 let (*~1703) – „Jacobus Zrostlik Herspicij“, NOZ 13121 sn. 372 vpravo (ztotožnění D: jméno, obec, úmrtí 3 roky před 2. sňatkem). Jejich sňatek v O 13120 1739–1751 (náhledy, neúplně) nenalezen; rodné příjmení Apolonie zatím neznámé."
       ],
       sources: [
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), O, snímek 295 vpravo (22. 9. 1754) – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, fara Slavkov, NOZ (sign. 13121), N, snímek 156 vpravo (25. 9. 1762) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov, NOZ (sign. 13121), N, snímek 156 vpravo (25. 9. 1762) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, ř.-k. fara Slavkov, NOZ 13121, snímek 372 vpravo (12. 9. 1751) – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
         {"f":"img/1754_O_Hrazdilek_Martin_Apolonie.jpg","t":"Sňatek Martina Hrazdílka (syna † Pavla) s vdovou Apolonií Krostlíkovou, 22. 9. 1754"},
