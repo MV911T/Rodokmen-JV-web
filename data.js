@@ -1895,8 +1895,8 @@ window.RODOKMEN = {
       spouse: "jiri_s",
       notes: [
         "Rozená Kliková (křest dcery Veroniky 1791, M: „Ewa rozená Klikowa“); z Býkoše, panství Suchomasty (křest vnuka Matěje 1825). ROZPOR: strojopisný rodopis uvádí „Kalousová“ – platí křest.",
-        "Manželka Jiřího Skály ve Vinařicích; děti Jiří (IV 1789, č. 37) a Veronika (VIII 1791, č. 27 ?). Sňatek (~1786–1789) zatím nenalezen (Všeradice 07 I 1785 – I 1788 bez nálezu; Borek nehledán).",
-        "KANDIDÁT původu: Klikové z Býkoše jsou ve stromu i jinou větví (Jan Klika, sedlák v Býkoši č. 10, × Kateřina – děti od 1776; Karel Klika *1880 Býkoš). Je-li Eva z téže rodiny, šlo by o další dvojí původ – neověřeno."
+        "Manželka Jiřího Skály ve Vinařicích; děti Jiří (IV 1789, č. 37) a Veronika (VIII 1791, č. 27 ?). Sňatek zatím nenalezen: fara Borek O 1774 – VIII 1790 (kniha i rejstřík) a Všeradice 07 1785–1791 bez nálezu – nejspíš před 1784 (Všeradice 01).",
+        "KANDIDÁT původu: Klikové z Býkoše jsou ve stromu i jinou větví (Jan Klika, sedlák v Býkoši č. 10, × Kateřina – děti od 1776; Karel Klika *1880 Býkoš). Je-li Eva z téže rodiny, šlo by o další dvojí původ – neověřeno. V Býkoši žilo víc Kliků – sedláci Jan (č. 10), Matěj a Václav (dcery provdané 1786, 1787). Skálové z Vinařic měli vazby na Býkoš už 1755 (Matěj Skála z Vinařic kmotrem v Býkoši)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Všeradice, kniha Všeradice 02 (7907, N 1784–1799), oddíl Vinařice, snímek 39 vlevo (VIII 1791) – https://ebadatelna.soapraha.cz/d/7907/39",
