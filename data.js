@@ -8297,8 +8297,9 @@ window.RODOKMEN = {
       notes: [
         "Oddán 4. 5. 1790 v Džbánicích (č. 8) jako syn tesaře (?) z Trstěnice („Sohn [eines] Zimmermanns zu Stiegnitz“), 25 (?) let (dřív čteno 23), s Marií, dcerou Josefa Holba (?), 18 let; svědci Matouš Gindling (?) a Jiří Jedlička (?), oddal farář Josef Novák. Jména rodičů ženicha neuvedena.",
         "Čtvrtník v Džbánicích č. 8. S Mariannou děti Marianna (1803), Jiří (1805), Jakub (24. 5. 1809 – † 30. 8. 1810).",
-        "Ovdověl 9. 7. 1810; podruhé ženatý s Magdalenou roz. Kudlagel (?) – děti Terezie (IX 1810) a Jakub (10. 4. 1814), Džbánice č. 8 (sňatek nehledán).",
-        "Zemřel 15. 12. 1831 v Džbánicích č. 8 jako čtvrtník („Viertler v. Žbanitz“), 60 let, na souchotiny („Lungensucht“); pohřben 17. 12. ROZPOR věku: sňatek 1790 (25) → ~1765, úmrtí 1831 (60) → ~1771; křest v N 14731 1761–1770 nenalezen."
+        "Ovdověl 9. 7. 1810; podruhé ženatý s Magdalenou roz. Kudlagel (?) („Magdalena geborne Kudlagel“) – děti Terezie (září, rok čten jako 1810 – ROZPOR: jen 2 měsíce po smrti Marianny, rok na snímku neověřen) a Jakub (10. 4. 1814), Džbánice č. 8. Sňatek ve faře Trstěnice není (O 1810–1811 a indexy všech obcí) – asi ve faře nevěsty.",
+        "Zemřel 15. 12. 1831 v Džbánicích č. 8 jako čtvrtník („Viertler v. Žbanitz“), 60 let, na souchotiny („Lungensucht“); pohřben 17. 12. ROZPOR věku: sňatek 1790 (25) → ~1765, úmrtí 1831 (60) → ~1771; křest v N 14731 1761–1770 nenalezen.",
+        "Křest Alexandra ve faře Trstěnice 1761 – ~1775 není (N 14731) – asi pokřtěn mimo faru; rodina Holb ve faře 1761–1775 nedoložena. Otcové Jelínkové 1771–72: Jakub (podruh, Trstěnice), Josef (švec, Višňové), František, Václav (sedlák) – tesař mezi nimi výslovně není."
       ],
       sources: [
         "MZA Brno, fara Trstěnice, N 1784–1828 (sign. 14733), oddíl Žbanitz, snímek 156 vpravo (12. 4. 1805) – https://www.mza.cz/actapublica/matrika/detail/2216",
