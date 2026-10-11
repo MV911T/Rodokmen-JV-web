@@ -7628,21 +7628,25 @@ window.RODOKMEN = {
     {
       id: "apolonie_hz",
       name: "Apolonie Hrazdílková",
+      maiden: "Doležalová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      b: {"date":"neznámé (odhad ~1728)","year":1728,"approx":true,"place":"Rašovice (?)"},
       spouse: "martin_hz",
       marriage: "22. 9. 1754 – s Martinem Hrazdílkem (2. sňatek)",
       notes: [
-        "Vdova po † Jakubu Krostlíkovi z Heršpic; 22. 9. 1754 se vdala za Martina Hrazdílka z Hodějic. Matka Václava (*1762). Rodné příjmení neznámé.",
-        "1. manžel Jakub Zrostlík (Krostlík ?) z Heršpic zemřel 12. 9. 1751 ve věku 48 let (*~1703) – „Jacobus Zrostlik Herspicij“, NOZ 13121 sn. 372 vpravo (ztotožnění D: jméno, obec, úmrtí 3 roky před 2. sňatkem). Jejich sňatek v O 13120 1739–1751 (náhledy, neúplně) nenalezen; rodné příjmení Apolonie zatím neznámé."
+        "Vdova po † Jakubu Zrostlíkovi z Heršpic; 22. 9. 1754 se vdala za Martina Hrazdílka z Hodějic. Matka Václava (*1762). ",
+        "Rozená Doležalová z Rašovic: 15. 10. 1748 oddána ve faře Slavkov jako „honesta puella Apollonia Doležalin Raschovicio“ s vdovcem Jakubem Zrostlíkem z Heršpic; svědci Jan a Jakub Kužča (?) z Heršpic. Otec neuveden. Jakub Zrostlík zemřel 12. 9. 1751 (48 let); 22. 9. 1754 se Apolonie vdala za Martina Hrazdílka. Ztotožnění D (jména, obec, data; kmotra dětí „Apolonie z Rašovic“). Čtení „Krostlík“ ze sňatku 1754 = Zrostlík.",
+        "Křest Apolonie ve faře Slavkov I 1725 – X 1727 není (Rašovice tehdy asi k jiné faře)."
       ],
       sources: [
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), O, snímek 295 vpravo (22. 9. 1754) – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), N, snímek 156 vpravo (25. 9. 1762) – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, ř.-k. fara Slavkov, NOZ 13121, snímek 372 vpravo (12. 9. 1751) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, ř.-k. fara Slavkov, NOZ 13121, snímek 372 vpravo (12. 9. 1751) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, ř.-k. fara Slavkov, O 13120, snímek 264 vpravo (15. 10. 1748) – https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
+        {"f":"img/1748_O_Zrostlik_Jakub_Dolezalova_Apolonie.jpg","t":"1. sňatek Apolonie Doležalové z Rašovic s Jakubem Zrostlíkem, Slavkov 15. 10. 1748"},
         {"f":"img/1754_O_Hrazdilek_Martin_Apolonie.jpg","t":"Sňatek Martina Hrazdílka (syna † Pavla) s vdovou Apolonií Krostlíkovou, 22. 9. 1754"},
         {"f":"img/1762_N_Hrazdilek_Vaclav_Hodejice.jpg","t":"Křest Václava Hrazdílka, syna Martina a Apolonie, Hodějice 25. 9. 1762"}
       ]
@@ -7765,7 +7769,7 @@ window.RODOKMEN = {
       spouse: "pavel_hz",
       marriage: "25. 5. 1721 – s Pavlem Hrazdírkem",
       notes: [
-        "Dcera Jakuba Schusty z Hodějic; oddána 25. 5. 1721 s Pavlem Hrazdírkem. Matka Martina (*1727). Úmrtí 1748–1754 nenalezeno."
+        "Dcera Jakuba Schusty z Hodějic; oddána 25. 5. 1721 s Pavlem Hrazdírkem. Matka Martina (*1727). Úmrtí 1748–1754 ani XII 1755 – VII 1765 nenalezeno."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
