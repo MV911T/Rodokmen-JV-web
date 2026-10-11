@@ -1812,22 +1812,25 @@ window.RODOKMEN = {
       father: "jakub1750",
       mother: "anna_h",
       occ: "rolník ve Hředlích č. p. 37",
-      marriage: "24. 2. 1811, Všeradice – s Veronikou Skálovou",
+      marriage: "24. 2. 1811, Vinařice č. 28 (fara Všeradice) – s Veronikou Skálovou",
       notes: [
         "Sedlák ve Hředlích č. 37 (1825). Jeho rodiče † Jakub Červenka, sedlák z Hředl č. 37, a † Anna (roz. Holická ?, v matrice „Chollryzková“ – nejisté čtení) z Hředl č. 8 – oba zemřeli před 1825 (křest syna Matěje).",
-        "Datum narození a sňatku podle rodopisu.",
+        "Oddán 24. 2. 1811 ve Vinařicích č. 28 (fara Všeradice): „Jakob, syn Jakuba Czerwenky ze Hředl, panství Zbirovského, z čísla 13 (?)“, 23 let, svobodný, s Veronikou, vlastní dcerou Jiříka Skály z Vinařic č. 28, 20 let; svědci Václav Prušek (?), rychtář z Vinařic, a František Vondrák (?), rychtář z Točníka. Datum shodné s rodopisem. ROZPOR: dům ženicha „13 (?)“ × pozdější Hředle 37.",
+        "Datum narození podle rodopisu.",
         "Usedlost Hředle č. 37 = patrně stavební parcela 82 na indikační skice stabilního katastru (1840) – ověřit. Gruntovní knihy panství Točník: SOA Praha, Velkostatek Zbiroh (NAD 397) – neprohlédnuto."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77",
-        "Stabilní katastr – indikační skica Hředle 1840 (NA), BER137018400 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=BER137018400"
+        "Stabilní katastr – indikační skica Hředle 1840 (NA), BER137018400 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=BER137018400",
+        "SOA Praha, ř.-k. fara Všeradice, kniha Všeradice 08 (O 1804–1834), oddíl Vinařice, snímek 30 vlevo (24. 2. 1811) – https://ebadatelna.soapraha.cz/d/7931/30"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
         {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
         {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
-        {"f":"img/1825_krest_matej_cervenka_hredle_a.jpg","t":"Křest Matěje Červenky, Hředle 1825 – rodiče"}
+        {"f":"img/1825_krest_matej_cervenka_hredle_a.jpg","t":"Křest Matěje Červenky, Hředle 1825 – rodiče"},
+        {"f":"img/1811_O_Cervenka_Jakub_Skalova_Veronika_Vinarice28.jpg","t":"Sňatek Jakuba Červenky a Veroniky Skálové, Vinařice č. 28, 24. 2. 1811"}
       ]
     },
     {
@@ -1840,33 +1843,40 @@ window.RODOKMEN = {
       d: {"date":"8. 4. 1851","year":1851,"place":"Hředle č. p. 37"},
       father: "jiri_s",
       mother: "eva_k",
-      marriage: "24. 2. 1811, Všeradice – s Jakubem Červenkou",
+      marriage: "24. 2. 1811, Vinařice č. 28 (fara Všeradice) – s Jakubem Červenkou",
       notes: [
         "Dcera Jiřího Skály, sedláka z Vinařic, a Evy z Býkoše (panství Suchomasty) – křest syna Matěje 1825; rodopis uvádí Evu roz. Kalousovou.",
-        "Z Vinařic č. 28."
+        "Z Vinařic č. 28.",
+        "Oddána 24. 2. 1811 ve Vinařicích č. 28 jako „vlastní dcera Jiříka Skály z Vinařic, z čísla 28“, 20 let (→ *II 1790 – II 1791; rodopis 19. 8. 1791 – drobný ROZPOR). Křest ve Všeradicích 02 (N 1784–1799) při prohlídce v náhledu 1790–1791 nenalezen – datum a dům č. 24 z rodopisu zatím neověřeny."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
-        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77"
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77",
+        "SOA Praha, ř.-k. fara Všeradice, kniha Všeradice 08 (O 1804–1834), oddíl Vinařice, snímek 30 vlevo (24. 2. 1811) – https://ebadatelna.soapraha.cz/d/7931/30"
       ],
       scans: [
         {"f":"img/1825_krest_matej_cervenka_hredle_a.jpg","t":"Křest Matěje Červenky, Hředle 1825 – rodiče"},
-        {"f":"img/1825_krest_matej_cervenka_hredle_b.jpg","t":"Křest Matěje Červenky, Hředle 1825 – matka, kmotři"}
+        {"f":"img/1825_krest_matej_cervenka_hredle_b.jpg","t":"Křest Matěje Červenky, Hředle 1825 – matka, kmotři"},
+        {"f":"img/1811_O_Cervenka_Jakub_Skalova_Veronika_Vinarice28.jpg","t":"Sňatek Jakuba Červenky a Veroniky Skálové, Vinařice č. 28, 24. 2. 1811"}
       ]
     },
     {
       id: "jiri_s",
       name: "Jiří Skála",
       line: "skala",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
       spouse: "eva_k",
       occ: "Vinařice č. p. 28",
       notes: [
-        "Údaje podle strojopisného rodopisu Červenků – ověřit v matrikách."
+        "Sedlák (?) ve Vinařicích č. 28 (fara Všeradice) – oddací zápis dcery Veroniky 24. 2. 1811 (M). Manželka Eva z Býkoše (křest vnuka Matěje 1825); rodné příjmení Kalousová jen podle strojopisného rodopisu."
       ],
       sources: [
-        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)"
+        "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
+        "SOA Praha, ř.-k. fara Všeradice, kniha Všeradice 08 (O 1804–1834), oddíl Vinařice, snímek 30 vlevo (24. 2. 1811) – https://ebadatelna.soapraha.cz/d/7931/30"
+      ],
+      scans: [
+        {"f":"img/1811_O_Cervenka_Jakub_Skalova_Veronika_Vinarice28.jpg","t":"Sňatek Jakuba Červenky a Veroniky Skálové, Vinařice č. 28, 24. 2. 1811"}
       ]
     },
     {
