@@ -2435,14 +2435,15 @@ window.RODOKMEN = {
         "Otec Anny Lodlové; děti v č. 72: Barbora (1809), Martin (1811), Anna (I 1813), Anna (14. 12. 1814) aj.",
         "Oddací zápis 1807 rodiče ženicha neuvádí (tabulková kniha); svědkyně Barbora (?) z Volduch.",
         "Vyvrácený kandidát: Kašpar, syn Matěje Aubrechta, sedláka z Oseka č. 55 (* 18. 12. 1777), zemřel v prosinci 1777 ve věku 10 dní (Osek 08, sn. 9).",
-        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110)."
+        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110). Sourozenci z téže rodiny (Petr × Dorota, Volduchy, kmotři Vitorovi a Aubrechtovi): Anna 30. 5. 1774 (č. 11), Bartoloměj 17. 8. 1776 (č. 11), Jan Nepomuk (?) 14. 4. 1779 (č. 20), Josef 28. 3. 1783 († 17. 1. 1784). Petr Aubrecht z č. 20 v rejstříku úmrtí Volduchy do 1820 není; sňatek Petr × Dorota (~1772–73) ve faře Osek není – asi ve faře nevěsty."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, Osek 07 (O), str. 34, snímek 19 vlevo – https://www.portafontium.eu/iipimage/30066673/osek-07_0190-o",
         "SOA Plzeň, fara Osek, Osek 06 (N), str. 37 a 51, snímky 22 a 29 – https://www.portafontium.eu/iipimage/30066672/osek-06_0220-n",
         "SOA Plzeň, fara Osek, Osek 08 (Z 1772–1820), snímek 9 vpravo (XII 1777) – https://www.portafontium.eu/iipimage/30066674/osek-08_0090-z",
-        "SOA Plzeň, fara Osek, Osek 05 (N), Volduchy, snímek 77 vlevo (3. 2. 1781) – https://www.portafontium.eu/iipimage/30066671/osek-05_0770-n"
+        "SOA Plzeň, fara Osek, Osek 05 (N), Volduchy, snímek 77 vlevo (3. 2. 1781) – https://www.portafontium.eu/iipimage/30066671/osek-05_0770-n",
+        "SOA Plzeň, fara Osek, Osek 05 (N), Volduchy, snímky 65, 69, 74, 80 (křty dětí Petra Aubrechta 1774–1783) – https://www.portafontium.eu/iipimage/30066671/osek-05_0650-n"
       ],
       scans: [
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl) (dítě: Anna Lodlová)"},
