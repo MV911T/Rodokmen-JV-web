@@ -7647,7 +7647,7 @@ window.RODOKMEN = {
       notes: [
         "Vdova po † Jakubu Zrostlíkovi z Heršpic; 22. 9. 1754 se vdala za Martina Hrazdílka z Hodějic. Matka Václava (*1762). ",
         "Rozená Doležalová z Rašovic: 15. 10. 1748 oddána ve faře Slavkov jako „honesta puella Apollonia Doležalin Raschovicio“ s vdovcem Jakubem Zrostlíkem z Heršpic; svědci Jan a Jakub Kužča (?) z Heršpic. Otec neuveden. Jakub Zrostlík zemřel 12. 9. 1751 (48 let); 22. 9. 1754 se Apolonie vdala za Martina Hrazdílka. Ztotožnění D (jména, obec, data; kmotra dětí „Apolonie z Rašovic“). Čtení „Krostlík“ ze sňatku 1754 = Zrostlík.",
-        "Rašovice patřily k faře Křižanovice. KANDIDÁTKY křtu (obě z Rašovic, stejní kmotři Jan Vítek × Kateřina z Křižanovic): (B) 14. 1. 1732 „Apollonia – Jacobi Dolezel, Marina“ (NOZ 12750 sn. 129, s. 250) – přednost (otec jistě Jakub; 1748 by jí bylo 16); (A) 28. 4. 1724 „Apolonia – Dolezalek, mat. Anna“ (sn. 104, s. 200). Jakub Doležálek × I 1719 Dorota Klečáková (?) (index), Dorota † V 1726; 2. sňatek s Marinou nenalezen. Rozhodnutí zatím nelze."
+        "Rašovice patřily k faře Křižanovice. KANDIDÁTKY křtu (obě z Rašovic, stejní kmotři Jan Vítek × Kateřina z Křižanovic): (B) 14. 1. 1732 „Apollonia – Jacobi Dolezel, Marina“ (NOZ 12750 sn. 129, s. 250) – přednost (otec jistě Jakub; 1748 by jí bylo 16); (A) 28. 4. 1724 „Apolonia – Dolezalek, mat. Anna“ (sn. 104, s. 200). Jakub Doležálek × I 1719 Dorota Klečáková (?) (index), Dorota † V 1726; 2. sňatek s Marinou nenalezen. Rozhodnutí zatím nelze. Doplnění (MZA 36): Jakub Doležálek, syn Pavla, × 29. 1. 1719 Dorota, dcera † Pavla Klížníka z Rašovic (M); Jakub † 5. 9. 1731 Rašovice (36 let) → Apolonie B (křest 14. 1. 1732) je pohrobek; Pavel Doležálek † 27. 11. 1735 (75). Apolonie A (matka Anna) nemůže být Jakubova (žena tehdy Dorota) – patří asi příbuzné domácnosti; její úmrtí 1728–1735 není. Přednost B (K–D)."
       ],
       sources: [
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), O, snímek 295 vpravo (22. 9. 1754) – https://www.mza.cz/actapublica/matrika/detail/1948",
@@ -7780,11 +7780,13 @@ window.RODOKMEN = {
       spouse: "pavel_hz",
       marriage: "25. 5. 1721 – s Pavlem Hrazdírkem",
       notes: [
-        "Dcera Jakuba Schusty z Hodějic; oddána 25. 5. 1721 s Pavlem Hrazdírkem. Matka Martina (*1727). Úmrtí 1748–1754 ani XII 1755 – VII 1765 nenalezeno."
+        "Dcera Jakuba Schusty z Hodějic; oddána 25. 5. 1721 s Pavlem Hrazdírkem. Matka Martina (*1727). Úmrtí 1748–1754 ani XII 1755 – VII 1765 nenalezeno.",
+        "KANDIDÁT křtu: IV 1701 Rašovice (fara Křižanovice) – „Kateřina, otec Jakub Šusta, matka Maryna z Rašovic“; kmotři Kryštof Ježebek s manželkou Kateřinou (NOZ 12750 sn. 33 vpravo, s. 59). Jediná Kateřina Jakuba Šusty 1695–1703; v r. 1721 by jí bylo 20. Proti: zápis 1721 uvádí Jakuba „z Hodějic“, Jakub Šusta je ale doložen v sousedních Rašovicích 1696–1729 – ztotožnění D."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
-        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946"
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, ř.-k. fara Křižanovice, NOZ 12750, snímek 33 vpravo (IV 1701); index 12764 sn. 80–81 – https://www.mza.cz/actapublica/matrika/detail/1495"
       ],
       scans: [
         {"f":"img/1721_O_Hrazdirek_Pavel_Schustova_Katerina.jpg","t":"Sňatek Pavla Hrazdírka s Kateřinou, dcerou Jakuba Schusty, Hodějice 25. 5. 1721"},
@@ -7886,7 +7888,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1670)","year":1670,"approx":true},
       notes: [
         "Z Hodějic; otec Kateřiny (sňatek s Pavlem Hrazdírkem 25. 5. 1721). Pozor: v Heršpicích žili Schustové také (Anna, dcera Jana Schusti × 1695 Martin Hrabovský; Havel Schusta, svědek 1754).",
-        "KANDIDÁT: Jakub Schusta s manželkou Marinou žil 1723–24 v Rašovicích (fara Křižanovice) – kmotr XI 1723, dcera Kateřina IV 1724 (NOZ 12750 sn. 102–103, čteno v polovičním rozlišení); vztah k Jakubovi z Hodějic (otci Kateřiny × 1721) neověřen."
+        "KANDIDÁT: Jakub Schusta s manželkou Marinou žil 1723–24 v Rašovicích (fara Křižanovice) – kmotr XI 1723, dcera Kateřina IV 1724 (NOZ 12750 sn. 102–103, čteno v polovičním rozlišení); vztah k Jakubovi z Hodějic (otci Kateřiny × 1721) neověřen.",
+        "Jakub Šusta, soused z Rašovic, × Maryna: syn Pavel 6. 10. 1696, dcera Kateřina IV 1701 (kandidátka), dále Rozina 1701, Kristián 1702 (index); Marina, manželka Jakuba Šusty, † XI 1729 Rašovice (42 let – ROZPOR s dětmi 1696: dvě Mariny nebo otec × syn)."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946",
