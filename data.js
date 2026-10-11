@@ -2433,17 +2433,23 @@ window.RODOKMEN = {
       notes: [
         "Oddán 28. 4. 1807 v Oseku č. 72 jako svobodný, 27 let, s Annou, vdovou po Josefu Hromesovi (?), selkou v č. 72 (27 let) – přiženil se na grunt; sedlák, později výminkář v Oseku č. 72.",
         "Otec Anny Lodlové; děti v č. 72: Barbora (1809), Martin (1811), Anna (I 1813), Anna (14. 12. 1814) aj.",
-        "KANDIDÁT křtu: 18. 12. 1777 Osek č. 55 – Kašpar, syn Matěje Aubrechta, sedláka, a Kateřiny (Osek 05, str. 14, sn. 10); věk 27 v r. 1807 by spíš ukazoval na ~1780."
+        "Oddací zápis 1807 rodiče ženicha neuvádí (tabulková kniha); svědkyně Barbora (?) z Volduch.",
+        "Vyvrácený kandidát: Kašpar, syn Matěje Aubrechta, sedláka z Oseka č. 55 (* 18. 12. 1777), zemřel v prosinci 1777 ve věku 10 dní (Osek 08, sn. 9).",
+        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, Osek 07 (O), str. 34, snímek 19 vlevo – https://www.portafontium.eu/iipimage/30066673/osek-07_0190-o",
-        "SOA Plzeň, fara Osek, Osek 06 (N), str. 37 a 51, snímky 22 a 29 – https://www.portafontium.eu/iipimage/30066672/osek-06_0220-n"
+        "SOA Plzeň, fara Osek, Osek 06 (N), str. 37 a 51, snímky 22 a 29 – https://www.portafontium.eu/iipimage/30066672/osek-06_0220-n",
+        "SOA Plzeň, fara Osek, Osek 08 (Z 1772–1820), snímek 9 vpravo (XII 1777) – https://www.portafontium.eu/iipimage/30066674/osek-08_0090-z",
+        "SOA Plzeň, fara Osek, Osek 05 (N), Volduchy, snímek 77 vlevo (3. 2. 1781) – https://www.portafontium.eu/iipimage/30066671/osek-05_0770-n"
       ],
       scans: [
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl) (dítě: Anna Lodlová)"},
         {"f":"img/1807_O_Aubrecht_Kaspar_Anna_Osek.jpg","t":"Sňatek Kašpara Aubrechta s vdovou Annou, Osek č. 72, 28. 4. 1807"},
-        {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"}
+        {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"},
+        {"f":"img/1781_N_Aubrecht_Kaspar_Volduchy20.jpg","t":"KANDIDÁT: křest Kašpara Aubrechta, Volduchy č. 20, 3. 2. 1781 (otec Petr, matka Dorota)"},
+        {"f":"img/1777_Z_Aubrecht_Kaspar_syn_Mateje_Osek55.jpg","t":"Úmrtí Kašpara, syna Matěje Aubrechta, Osek č. 55, XII 1777 (10 dní) – vyvrácený kandidát"}
       ]
     },
     {
@@ -2459,7 +2465,8 @@ window.RODOKMEN = {
       marriage: "1) Josef Hromes (?) († I 1807, č. 72); 2) 28. 4. 1807, Osek – s Kašparem Aubrechtem",
       notes: [
         "Pokřtěna 25. 7. 1779 v Oseku č. 8: otec Václav (Wentzl) Holub, sedlák, matka Veronika; kmotři Magdalena Tomášková a Josef Kremel (?).",
-        "Vdova po Josefu Hromesovi (?), sedlákovi v Oseku č. 72 († I 1807, 26 let); podruhé se vdala 28. 4. 1807 za Kašpara Aubrechta."
+        "Vdova po Josefu Hromesovi (?), sedlákovi v Oseku č. 72 († I 1807, 26 let); podruhé se vdala 28. 4. 1807 za Kašpara Aubrechta.",
+        "KANDIDÁT: první manžel spíš Josef Kromer (?), *11. 1. 1781 Osek č. 72, syn Matěje Kromera (?) a Anny (Matěj, sedlák v č. 72, † 21. 3. 1801) – čteno z náhledů, sňatek s Annou (~1799–1800) neověřen."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
@@ -7873,6 +7880,7 @@ window.RODOKMEN = {
       spouse: "dominika_hb",
       notes: [
         "Sedlák v Oseku č. 8; manželka Veronika († před 1810); děti Kašpar (5. 12. 1777), Anna (25. 7. 1779) aj. Kolem 1809/10 se jako vdovec znovu oženil s Kateřinou …ilerovou (?). Sňatek s Veronikou nenalezen (rejstříky Osek 04 a 07).",
+        "Děti zemřelé v č. 8: Dorota († 15. 5. 1799, dítě), Veronika († 11. 7. 1807, 16 let – dcera, ne manželka). Úmrtí manželky Veroniky v č. 8 není 1798 – VII 1807.",
         "Dřívější čtení „Mikuláš Holub“ (křest vnučky 1813) bylo chybné – kurentní W čteno jako M; křest 1814 i křest Anny 1779 jasně „Wáclaw / Wentzl Holub“.",
         "KANDIDÁT původu: syn Mikuláše Holuba × Magdaleny Gisové (sňatek ~1760) – neověřeno."
       ],
