@@ -2966,7 +2966,7 @@ window.RODOKMEN = {
         "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno.",
         "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Syn Jan žil v Jetřichovci (č. 10) už 1816–1819 – úmrtí 1828 (č. 27, 60 let) a 1833 (Terezie, č. 42, 60 let) tak patří nejspíš Janovým rodičům; číslo 22 zatím nedoloženo.",
         "Vyloučeno: „Martin Votava, jehlář v Lukavci č. 71“ (děti 1794–1804) je ve skutečnosti Martin Vokoun (Wokoun) – jiná rodina. Údaj „bývalý chalupník z Lstůh / Letůh (?)“ a „Terezie roz. Martina Marody též z Lstůh (?)“ pochází z 2. sňatku syna Jana (Těchobuz 6. 2. 1844) a patří tedy Votavům – obec neurčena (snad „z Luhů“ ?).",
-        "Fara Pacov prohledána celá (indexy všech obcí 1765–1842): křest Jana (~1788–1795), sňatek Martina × Terezie ani křest Martina (1765–1784) tam nejsou → Votavové přišli do Jetřichovce kolem 1815 odjinud. Další stopy: obec „Lstůh/Letůh“ a „Lomnice (?) č. 23“ (Krchova Lomná ?), kniha O Mladá Vožice 5647 (bez indexu před 1824)."
+        "Fara Pacov prohledána celá (indexy všech obcí 1765–1842): křest Jana (~1788–1795), sňatek Martina × Terezie ani křest Martina (1765–1784) tam nejsou → Votavové přišli do Jetřichovce kolem 1815 odjinud. Další stopy: obec „Lstůh/Letůh“ a „Lomnice (?) č. 23“ (Krchova Lomná ?), kniha O Mladá Vožice 5647 (bez indexu před 1824). Třeboň 23: slovo ze sňatku 1844 na plném rozlišení „z L?tůh“ (Letůh / Lstůh, poslední písmeno h nebo k) – v lokalitách far Mladá Vožice, Cetoraz, Chýnov a Lukavec obec tohoto tvaru není; O Mladá Vožice 5647 (oddíly I–VII, 1785 – ~1796) bez Votavy i Marodové. ROZPOR věku Jana: 1815 „25 let“, 1844 „41 let“."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -2988,7 +2988,8 @@ window.RODOKMEN = {
       spouse: "martin_v",
       notes: [
         "Matka Jana Votavy; „dcera Martina Marody / Mrkvy (?), podruha z Lom-nice / Lomné (?) č. 23“ (křest vnučky 1834, sňatek syna 1844).",
-        "KANDIDÁT původu: Marodové / Maredové žili v Krchově Lomné (fara Mladá Vožice) – 7. 5. 1787 tam Martin Mareda, krejčí z Radvanova, × Anna Vondráková z Lomné č. 16; vazba na Terezii neověřena. Lomná sousedí s Jetřichovicemi (sňatek Jakuba Loudy z Jetřichovic č. 13 do Lomné 1788)."
+        "KANDIDÁT původu: Marodové / Maredové žili v Krchově Lomné (fara Mladá Vožice) – 7. 5. 1787 tam Martin Mareda, krejčí z Radvanova, × Anna Vondráková z Lomné č. 16; vazba na Terezii neověřena. Lomná sousedí s Jetřichovicemi (sňatek Jakuba Loudy z Jetřichovic č. 13 do Lomné 1788).",
+        "Terezie † 1833 (60 let → *~1773) nemůže být dcerou Martina Maredy oddaného 1787 v Lomné (24 let) – buď starší Martin Maroda, nebo chybné věky. „Lom-nice č. 23“ (1834) / „z Lomnic č. 23“ (1836) – obec neověřena."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
