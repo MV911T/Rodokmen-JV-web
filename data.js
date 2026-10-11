@@ -7982,14 +7982,15 @@ window.RODOKMEN = {
       maiden: "Jírková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1778)","year":1778,"approx":true,"place":"Seletice"},
+      b: {"date":"18. 12. 1776 (?)","year":1776,"place":"Seletice č. p. 40 (fara Mcely)"},
       father: "jiri_jr",
+      mother: "marie_vk",
       marriage: "24. 7. 1796 – s Janem Šnejdrem",
       notes: [
+        "Pokřtěna nejspíš 18. 12. 1776 v Seleticích č. 40 (fara Mcely): Anna, dcera Jiřího Jírka (Girsku) a Marie; kmotři Marie Kaněrová (?) a Jan Sobota; křtil Václav Schrámek. Ztotožnění D: otec Jiří sedí s oddacím zápisem 1796, věk 1796 (18) o 1½ roku podhodnocen; jiná Anna, dcera Jiřího, XII 1774 – II 1781 není. Vyloučena Anna pokřtěná 18. 8. 1777 v Seleticích č. 11 (otec Jan × Kateřina). Neověřeno: úmrtí v dětství; dům 1776 č. 40, 1796 č. 62.",
         "Oddána 24. 7. 1796 v Seleticích č. 62 (fara Mcely), 18 let, s Janem Šnejdrem z Pojed.",
         "Dcera † Jiřího Jírka, chalupníka ze Seletic (křest syna Václava 1817; také sňatek 1839 a křest vnučky 1852). Manželka Jana Šnejdra z Pojed č. 9.",
-        "„Šídková (?)“ z křtu vnuka 1846 = chybné čtení (J a Š si v ruce děkana Horetzkého podobné).",
-        "KANDIDÁT křtu: 18. 8. 1777 Seletice č. 11 (fara Mcely, kniha Mcely 01, sn. 49) – Anna, dcera Jana Jírka a Kateřiny; věk 1796 (18) sedí a jiná Anna Jírková I 1777 – X 1778 není. ROZPOR: oddací zápis 1796 i pozdější zápisy uvádějí otce Jiříka; v Seleticích současně Jiří Jírek × Marie (č. 40, dcera Dorota 1778). Neověřeno."
+        "„Šídková (?)“ z křtu vnuka 1846 = chybné čtení (J a Š si v ruce děkana Horetzkého podobné)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
@@ -7997,9 +7998,11 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Pojedy, fol. 99, snímek 98 vpravo – https://ebadatelna.soapraha.cz/d/11184/98",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95",
         "SOA Praha, ř.-k. fara Mcely, kniha Mcely 11 (8412, O Seletice), fol. 7, snímek 6 vpravo (24. 7. 1796) – https://ebadatelna.soapraha.cz/d/8412/6",
-        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402, N 1759–1784), fol. 95, snímek 49 vpravo (18. 8. 1777) – https://ebadatelna.soapraha.cz/d/8402/49"
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402, N 1759–1784), fol. 95, snímek 49 vpravo (18. 8. 1777) – https://ebadatelna.soapraha.cz/d/8402/49",
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 91, snímek 47 vpravo (18. 12. 1776) – https://ebadatelna.soapraha.cz/d/8402/47"
       ],
       scans: [
+        {"f":"img/1776_N_Jirkova_Anna_Seletice40.jpg","t":"Křest Anny Jírkové, Seletice č. 40, 18. 12. 1776 (otec Jiří, matka Marie)"},
         {"f":"img/1796_O_Snejdr_Jan_Jirkova_Anna.jpg","t":"Sňatek Jana Šnejdra z Pojed s Annou Jírkovou, Seletice 24. 7. 1796"},
         {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
@@ -8287,15 +8290,23 @@ window.RODOKMEN = {
       name: "Jiří Jírek",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      spouse: "marie_vk",
+      marriage: "9. 6. 1765, Seletice (fara Mcely) – s Marií Volkovou",
       notes: [
-        "Chalupník v Seleticích (fara Rožďalovice); zemřel před XI 1817. Otec Anny Šnejdrové."
+        "Oddán 9. 6. 1765 v kostele v Seleticích: „Georgius Girsko … cum sua honesta sponsa Maria Wolkova ex pago Seletiz, ambo subditi ad Dominium Krzinecense“; svědci Jan Volek, Šimon Hofmann a Anna Jírková; oddal administrátor Václav Schrámek. Rodiče a věk neuvedeny.",
+        "Chalupník v Seleticích (fara Rožďalovice); zemřel před XI 1817. Otec Anny Šnejdrové.",
+        "S manželkou Marií v Seleticích č. 40: Anna (18. 12. 1776), Dorota (9. 8. 1778), Marie (30. 3. 1780)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Pojedy, fol. 99, snímek 98 vpravo – https://ebadatelna.soapraha.cz/d/11184/98"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Pojedy, fol. 99, snímek 98 vpravo – https://ebadatelna.soapraha.cz/d/11184/98",
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 326, snímek 72 vlevo (9. 6. 1765); rejstřík O sn. 86 – https://ebadatelna.soapraha.cz/d/8402/72",
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 91, snímek 47 vpravo (18. 12. 1776) – https://ebadatelna.soapraha.cz/d/8402/47"
       ],
       scans: [
-        {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"}
+        {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"},
+        {"f":"img/1765_O_Jirek_Jiri_Volkova_Marie_Seletice.jpg","t":"Sňatek Jiřího Jírka s Marií Volkovou, Seletice 9. 6. 1765"},
+        {"f":"img/1776_N_Jirkova_Anna_Seletice40.jpg","t":"Křest Anny Jírkové, Seletice č. 40, 18. 12. 1776 (otec Jiří, matka Marie)"}
       ]
     },
     {
@@ -8520,6 +8531,27 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1745_O_Holub_Martin_Aubrechtova_Anna_Osek.jpg","t":"Sňatek Martina Holuba s Annou Aubrechtovou, Osek 15. 2. 1745"}
+      ]
+    },
+    {
+      id: "marie_vk",
+      name: "Marie Jírková",
+      maiden: "Volková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      spouse: "jiri_jr",
+      marriage: "9. 6. 1765 – s Jiřím Jírkem",
+      notes: [
+        "Ze Seletic (panství Křinec); oddána 9. 6. 1765 s Jiřím Jírkem. Matka Anny (1776), Doroty (1778) a Marie (1780), Seletice č. 40. Vazba na Annu Šnejdrovou D (viz její karta)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 326, snímek 72 vlevo (9. 6. 1765); rejstřík O sn. 86 – https://ebadatelna.soapraha.cz/d/8402/72",
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 91, snímek 47 vpravo (18. 12. 1776) – https://ebadatelna.soapraha.cz/d/8402/47"
+      ],
+      scans: [
+        {"f":"img/1765_O_Jirek_Jiri_Volkova_Marie_Seletice.jpg","t":"Sňatek Jiřího Jírka s Marií Volkovou, Seletice 9. 6. 1765"},
+        {"f":"img/1776_N_Jirkova_Anna_Seletice40.jpg","t":"Křest Anny Jírkové, Seletice č. 40, 18. 12. 1776 (otec Jiří, matka Marie)"}
       ]
     }
   ]
