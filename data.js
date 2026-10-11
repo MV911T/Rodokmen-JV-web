@@ -7637,13 +7637,14 @@ window.RODOKMEN = {
       notes: [
         "Vdova po † Jakubu Zrostlíkovi z Heršpic; 22. 9. 1754 se vdala za Martina Hrazdílka z Hodějic. Matka Václava (*1762). ",
         "Rozená Doležalová z Rašovic: 15. 10. 1748 oddána ve faře Slavkov jako „honesta puella Apollonia Doležalin Raschovicio“ s vdovcem Jakubem Zrostlíkem z Heršpic; svědci Jan a Jakub Kužča (?) z Heršpic. Otec neuveden. Jakub Zrostlík zemřel 12. 9. 1751 (48 let); 22. 9. 1754 se Apolonie vdala za Martina Hrazdílka. Ztotožnění D (jména, obec, data; kmotra dětí „Apolonie z Rašovic“). Čtení „Krostlík“ ze sňatku 1754 = Zrostlík.",
-        "Křest Apolonie ve faře Slavkov I 1725 – X 1727 není (Rašovice tehdy asi k jiné faře)."
+        "Rašovice patřily k faře Křižanovice. KANDIDÁTKY křtu (obě z Rašovic, stejní kmotři Jan Vítek × Kateřina z Křižanovic): (B) 14. 1. 1732 „Apollonia – Jacobi Dolezel, Marina“ (NOZ 12750 sn. 129, s. 250) – přednost (otec jistě Jakub; 1748 by jí bylo 16); (A) 28. 4. 1724 „Apolonia – Dolezalek, mat. Anna“ (sn. 104, s. 200). Jakub Doležálek × I 1719 Dorota Klečáková (?) (index), Dorota † V 1726; 2. sňatek s Marinou nenalezen. Rozhodnutí zatím nelze."
       ],
       sources: [
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), O, snímek 295 vpravo (22. 9. 1754) – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), N, snímek 156 vpravo (25. 9. 1762) – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, ř.-k. fara Slavkov, NOZ 13121, snímek 372 vpravo (12. 9. 1751) – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, ř.-k. fara Slavkov, O 13120, snímek 264 vpravo (15. 10. 1748) – https://www.mza.cz/actapublica/matrika/detail/1946"
+        "MZA Brno, ř.-k. fara Slavkov, O 13120, snímek 264 vpravo (15. 10. 1748) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, ř.-k. fara Křižanovice, NOZ 12750 (1690–1740) a index 12764 – https://www.mza.cz/actapublica/matrika/detail/1495"
       ],
       scans: [
         {"f":"img/1748_O_Zrostlik_Jakub_Dolezalova_Apolonie.jpg","t":"1. sňatek Apolonie Doležalové z Rašovic s Jakubem Zrostlíkem, Slavkov 15. 10. 1748"},
@@ -7874,10 +7875,12 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1670)","year":1670,"approx":true},
       notes: [
-        "Z Hodějic; otec Kateřiny (sňatek s Pavlem Hrazdírkem 25. 5. 1721). Pozor: v Heršpicích žili Schustové také (Anna, dcera Jana Schusti × 1695 Martin Hrabovský; Havel Schusta, svědek 1754)."
+        "Z Hodějic; otec Kateřiny (sňatek s Pavlem Hrazdírkem 25. 5. 1721). Pozor: v Heršpicích žili Schustové také (Anna, dcera Jana Schusti × 1695 Martin Hrabovský; Havel Schusta, svědek 1754).",
+        "KANDIDÁT: Jakub Schusta s manželkou Marinou žil 1723–24 v Rašovicích (fara Křižanovice) – kmotr XI 1723, dcera Kateřina IV 1724 (NOZ 12750 sn. 102–103, čteno v polovičním rozlišení); vztah k Jakubovi z Hodějic (otci Kateřiny × 1721) neověřen."
       ],
       sources: [
-        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946"
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, ř.-k. fara Křižanovice, NOZ 12750 (1690–1740) a index 12764 – https://www.mza.cz/actapublica/matrika/detail/1495"
       ],
       scans: [
         {"f":"img/1721_O_Hrazdirek_Pavel_Schustova_Katerina.jpg","t":"Sňatek Pavla Hrazdírka s Kateřinou, dcerou Jakuba Schusty, Hodějice 25. 5. 1721"}
