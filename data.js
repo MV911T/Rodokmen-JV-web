@@ -8464,15 +8464,17 @@ window.RODOKMEN = {
       name: "Martin Holub",
       line: "holub",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1723)","year":1723,"approx":true},
+      b: {"date":"7. 11. 1719","year":1719,"place":"Volduchy (fara Osek)"},
       d: {"date":"24. 12. 1778 (?)","year":1778,"place":"Osek u Rokycan č. p. 8"},
       father: "pavel_hl",
+      mother: "marie_hl",
       spouse: "anna_au",
       marriage: "15. 2. 1745, Osek – s Annou Aubrechtovou z Volduch",
       notes: [
+        "Narozen 7. 11., pokřtěn 8. 11. 1719 ve Volduchách: „Martin, vlastní syn Pavla Holuby a Marie manželky jeho“; kmotr Matěj (?) Střecha (?) z Volduch, svědci Bartoloměj Hrantz (?) z Oseka a Magdalena Hrantzová (?) z Volduch. Jiný Martin, syn Pavla, v listopadech 1718–1722 není.",
         "Oddán 15. 2. 1745 v kostele v Oseku: „počestný mládenec Martin, vlastní syn pozůstalý po nebožtíkovi Pavlovi Holubovi z Volduch, s počestnou děvečkou Annou, vlastní dcerou Josefa Aubrechta též z Volduch“; družba Václav Černý z Oseka, družička Anna Forejtová z Volduch; oddal farář Václav Pignušek.",
         "Žil ve Volduchách (děti Martin 1745, Jan 1751, Václav 1754), později sedlák v Oseku č. 8. Otec Václava Holuba (sňatek 1776: „Wentzl Sohn des Martin Holub von Wossek“).",
-        "Zemřel nejspíš 24. 12. 1778 v Oseku č. 8 jako „Martin Holub Bauer“, 55 let (→ *~1723) – ztotožnění podle domu a věku.",
+        "Zemřel nejspíš 24. 12. 1778 v Oseku č. 8 jako „Martin Holub Bauer“, 55 let (ve skutečnosti 59) – ztotožnění podle domu a věku.",
         "KANDIDÁT: týž Martin Holub, oddaný 10. 8. 1772 v Oseku (dům č. 8) s Barborou, dcerou † Jana Laukoty, chalupníka z Oseka – 2. sňatek (úmrtí Anny 1754–1772 nehledáno)."
       ],
       sources: [
@@ -8480,9 +8482,11 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, Osek 07 (O), oddíl Osek, str. 6, snímek 6 vlevo (22. 10. 1776) – https://www.portafontium.eu/iipimage/30066673/osek-07_0060-o",
         "SOA Plzeň, fara Osek, Osek 07 (O), str. 2, snímek 4 vlevo (10. 8. 1772) – https://www.portafontium.eu/iipimage/30066673/osek-07_0040-o",
         "SOA Plzeň, fara Osek, Osek 08 (Z), str. 13, snímek 10 vpravo (24. 12. 1778) – https://www.portafontium.eu/iipimage/30066674/osek-08_0100-z",
-        "SOA Plzeň, fara Osek, Osek 03 (N), str. 135, snímek 70 vpravo (23. 9. 1754) – https://www.portafontium.eu/iipimage/30066669/osek-03_0700-n"
+        "SOA Plzeň, fara Osek, Osek 03 (N), str. 135, snímek 70 vpravo (23. 9. 1754) – https://www.portafontium.eu/iipimage/30066669/osek-03_0700-n",
+        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 92 vpravo (7./8. 11. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_0921-n"
       ],
       scans: [
+        {"f":"img/1719_N_Holub_Martin_Volduchy.jpg","t":"Křest Martina Holuba, Volduchy, 8. 11. 1719 (otec Pavel, matka Marie)"},
         {"f":"img/1745_O_Holub_Martin_Aubrechtova_Anna_Osek.jpg","t":"Sňatek Martina Holuba s Annou Aubrechtovou, Osek 15. 2. 1745"},
         {"f":"img/1776_O_Holub_Vaclav_Forejtova_Veronika_Osek8.jpg","t":"Sňatek syna Václava s Veronikou Forejtovou, Osek č. 8, 22. 10. 1776"},
         {"f":"img/1778_Z_Holub_Martin_Osek8.jpg","t":"Úmrtí Martina Holuba, sedláka, Osek č. 8, 24. 12. 1778"},
@@ -8518,7 +8522,8 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
       notes: [
-        "Z Volduch (fara Osek); otec Anny, provdané 15. 2. 1745 za Martina Holuba. V r. 1745 zřejmě živ (bez „nebožtík“)."
+        "Z Volduch (fara Osek); otec Anny, provdané 15. 2. 1745 za Martina Holuba. V r. 1745 zřejmě živ (bez „nebožtík“).",
+        "KANDIDÁTKA na manželku a matku Anny: Magdalena – 28. 11. 1722 Volduchy „Kateřina, dcera Josefa Aubrechta a Mandaleny manželky jeho“ († 9. 2. 1725), čteno jen v náhledu. Křest Anny (~1720–1725) zatím nenalezen (prohlédnuty jen července 1718–1727)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 03 (O), str. 18, snímek 118 vlevo (15. 2. 1745); rejstřík O H sn. 152 – https://www.portafontium.eu/iipimage/30066669/osek-03_1180-o"
@@ -8532,15 +8537,21 @@ window.RODOKMEN = {
       name: "Pavel Holub",
       line: "holub",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
-      d: {"date":"před 15. 2. 1745","year":1744,"approx":true},
+      b: {"date":"neznámé (odhad ~1682)","year":1682,"approx":true},
+      d: {"date":"13. 9. 1727 (?)","year":1727,"place":"Volduchy (fara Osek)"},
+      spouse: "marie_hl",
       notes: [
-        "Z Volduch (fara Osek); otec Martina Holuba – při jeho sňatku 15. 2. 1745 už nebožtík. KANDIDÁT úmrtí 27. 4. 1740 (Osek 03 Z, sn. 156) – neověřeno."
+        "Z Volduch (fara Osek); manželka Marie; syn Martin (*7. 11. 1719). Při sňatku syna 15. 2. 1745 už nebožtík.",
+        "Zemřel 13. září (na okraji „8ber“ – snad 13. 10.) 1727 ve Volduchách, pohřben 15., „týden před smrtí zaopatřený svátostmi“, „stáří okolo 45 let“ (→ *~1682); pohřbil kaplan rokycanský Jan Patera. Ztotožnění D: jediný dospělý Pavel Holub z Volduch v úmrtích VII 1722 – II 1745 (1728–1745 čteno v náhledech). Vyloučeni: Pavel † 27. 4. 1740 (22 let) a Ondřej Holub † 15. 8. 1741."
       ],
       sources: [
+        "SOA Plzeň, fara Osek, Osek 01 (Z), snímek 193 vlevo (13. 9. 1727) – https://www.portafontium.eu/iipimage/30066667/osek-01_1931-z",
+        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 92 vpravo (7./8. 11. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_0921-n",
         "SOA Plzeň, fara Osek, Osek 03 (O), str. 18, snímek 118 vlevo (15. 2. 1745); rejstřík O H sn. 152 – https://www.portafontium.eu/iipimage/30066669/osek-03_1180-o"
       ],
       scans: [
+        {"f":"img/1727_Z_Holub_Pavel_Volduchy.jpg","t":"Úmrtí Pavla Holuba, Volduchy, 13. 9. (10. ?) 1727, asi 45 let"},
+        {"f":"img/1719_N_Holub_Martin_Volduchy.jpg","t":"Křest Martina Holuba, Volduchy, 8. 11. 1719 (otec Pavel, matka Marie)"},
         {"f":"img/1745_O_Holub_Martin_Aubrechtova_Anna_Osek.jpg","t":"Sňatek Martina Holuba s Annou Aubrechtovou, Osek 15. 2. 1745"}
       ]
     },
@@ -8563,6 +8574,23 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1765_O_Jirek_Jiri_Volkova_Marie_Seletice.jpg","t":"Sňatek Jiřího Jírka s Marií Volkovou, Seletice 9. 6. 1765"},
         {"f":"img/1776_N_Jirkova_Anna_Seletice40.jpg","t":"Křest Anny Jírkové, Seletice č. 40, 18. 12. 1776 (otec Jiří, matka Marie)"}
+      ]
+    },
+    {
+      id: "marie_hl",
+      name: "Marie Holubová",
+      line: "holub",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      spouse: "pavel_hl",
+      notes: [
+        "Manželka Pavla Holuba z Volduch; matka Martina (*1719). Rodné příjmení neznámé (sňatek nehledán)."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 92 vpravo (7./8. 11. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_0921-n"
+      ],
+      scans: [
+        {"f":"img/1719_N_Holub_Martin_Volduchy.jpg","t":"Křest Martina Holuba, Volduchy, 8. 11. 1719 (otec Pavel, matka Marie)"}
       ]
     }
   ]
