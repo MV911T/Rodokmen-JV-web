@@ -2435,7 +2435,7 @@ window.RODOKMEN = {
         "Otec Anny Lodlové; děti v č. 72: Barbora (1809), Martin (1811), Anna (I 1813), Anna (14. 12. 1814) aj.",
         "Oddací zápis 1807 rodiče ženicha neuvádí (tabulková kniha); svědkyně Barbora (?) z Volduch.",
         "Vyvrácený kandidát: Kašpar, syn Matěje Aubrechta, sedláka z Oseka č. 55 (* 18. 12. 1777), zemřel v prosinci 1777 ve věku 10 dní (Osek 08, sn. 9).",
-        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110). Sourozenci z téže rodiny (Petr × Dorota, Volduchy, kmotři Vitorovi a Aubrechtovi): Anna 30. 5. 1774 (č. 11), Bartoloměj 17. 8. 1776 (č. 11), Jan Nepomuk (?) 14. 4. 1779 (č. 20), Josef 28. 3. 1783 († 17. 1. 1784). Petr Aubrecht z č. 20 v rejstříku úmrtí Volduchy do 1820 není; sňatek Petr × Dorota (~1772–73) ve faře Osek není – asi ve faře nevěsty."
+        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110). Sourozenci z téže rodiny (Petr × Dorota, Volduchy, kmotři Vitorovi a Aubrechtovi): Anna 30. 5. 1774 (č. 11), Bartoloměj 17. 8. 1776 (č. 11), Jan Nepomuk (?) 14. 4. 1779 (č. 20), Josef 28. 3. 1783 († 17. 1. 1784). Petr Aubrecht z č. 20 v rejstříku úmrtí Volduchy do 1820 není; sňatek nalezen jen v přeškrtnuté kopii Osek 04 (sn. 86 vpravo): 22. 7. 1772 Volduchy č. 11 – Petr Aubrecht, sedlák ve Volduchách, syn Bartoloměje Aubrechta, s Dorotou, dcerou † Martina (?) Zady (?), sedláka z Volduch (čtení nevěsty nejisté; originál v Osek 07 neověřen)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
@@ -2480,7 +2480,8 @@ window.RODOKMEN = {
         {"f":"img/1799_O_Kromes_Josef_Holubova_Anna_Osek72.jpg","t":"1. sňatek Anny Holubové s Josefem Kromesem (?), Osek č. 72, 29. 1. 1799"},
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl) (dítě: Anna Lodlová)"},
         {"f":"img/1807_O_Aubrecht_Kaspar_Anna_Osek.jpg","t":"Sňatek Kašpara Aubrechta s vdovou Annou, Osek č. 72, 28. 4. 1807"},
-        {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"}
+        {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"},
+        {"f":"img/1776_O_Holub_Vaclav_Forejtova_Veronika_Osek8.jpg","t":"Sňatek rodičů Václava Holuba a Veroniky Forejtové, Osek 22. 10. 1776"}
       ]
     },
     {
@@ -7879,19 +7880,24 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      father: "martin_hl",
       spouse: "dominika_hb",
+      marriage: "22. 10. 1776, Osek č. 8 – s Veronikou Forejtovou z Volduch",
       notes: [
-        "Sedlák v Oseku č. 8; manželka Veronika († před 1810); děti Kašpar (5. 12. 1777), Anna (25. 7. 1779) aj. Kolem 1809/10 se jako vdovec znovu oženil s Kateřinou …ilerovou (?). Sňatek s Veronikou nenalezen (rejstříky Osek 04 a 07).",
+        "Sedlák v Oseku č. 8; manželka Veronika († před 1810); děti Kašpar (5. 12. 1777), Anna (25. 7. 1779) aj. Kolem 1809/10 se jako vdovec znovu oženil s Kateřinou …ilerovou (?).",
+        "Oddán 22. 10. 1776 v Oseku č. 8: „Wentzl Sohn des Martin Holub von Wossek, mit Veronica Tochter nach dem verst. Paul Foreit v. Woldauch, beide auf Wossek unterthänig“; svědci Jan Košař (?) a Daniel Schücha (?); kaplan Mikuláš Fonar (?). Příjmení „Aubrecht“ přeškrtnuto a nad řádkem opraveno na „Holub“; ROZPOR: přeškrtnutá kopie v Osek 04 má jen „Aubrecht“ – platí opravený originál (křty a úmrtí dětí v č. 8 jsou „Holub“). Věky neuvedeny. První dítě Kašpar 5. 12. 1777.",
         "Děti zemřelé v č. 8: Dorota († 15. 5. 1799, dítě), Veronika († 11. 7. 1807, 16 let – dcera, ne manželka). Úmrtí manželky Veroniky v č. 8 není 1798 – VII 1807.",
-        "Dřívější čtení „Mikuláš Holub“ (křest vnučky 1813) bylo chybné – kurentní W čteno jako M; křest 1814 i křest Anny 1779 jasně „Wáclaw / Wentzl Holub“.",
-        "KANDIDÁT původu: syn Mikuláše Holuba × Magdaleny Gisové (sňatek ~1760) – neověřeno."
+        "Dřívější čtení „Mikuláš Holub“ (křest vnučky 1813) bylo chybné – kurentní W čteno jako M; křest 1814 i křest Anny 1779 jasně „Wáclaw / Wentzl Holub“."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 05 (N), str. 17, snímek 11 vpravo (25. 7. 1779) – https://www.portafontium.eu/iipimage/30066672/osek-05_0110-n",
         "SOA Plzeň, fara Osek, Osek 06 (N), str. 51, snímek 29 (13./14. 12. 1814) – https://www.portafontium.eu/iipimage/30066672/osek-06_0290-n",
-        "SOA Plzeň, fara Osek, Osek 07 (O), str. 24, snímek 14 vlevo (29. 1. 1799); rejstřík O písm. K sn. 33 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o"
+        "SOA Plzeň, fara Osek, Osek 07 (O), str. 24, snímek 14 vlevo (29. 1. 1799); rejstřík O písm. K sn. 33 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
+        "SOA Plzeň, fara Osek, Osek 07 (O), oddíl Osek, str. 6, snímek 6 vlevo (22. 10. 1776) – https://www.portafontium.eu/iipimage/30066673/osek-07_0060-o",
+        "SOA Plzeň, fara Osek, Osek 04 (O), snímek 89 vlevo – přeškrtnutá kopie s chybným „Aubrecht“ – https://www.portafontium.eu/iipimage/30066670/osek-04_0890-o"
       ],
       scans: [
+        {"f":"img/1776_O_Holub_Vaclav_Forejtova_Veronika_Osek8.jpg","t":"Sňatek Václava Holuba s Veronikou Forejtovou, Osek č. 8, 22. 10. 1776"},
         {"f":"img/1779_N_Holubova_Anna_Osek.jpg","t":"Křest Anny Holubové, Osek č. 8, 25. 7. 1779"},
         {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"},
         {"f":"img/1799_O_Kromes_Josef_Holubova_Anna_Osek72.jpg","t":"Sňatek dcery Anny s Josefem Kromesem (?), Osek 29. 1. 1799"}
@@ -7900,18 +7906,23 @@ window.RODOKMEN = {
     {
       id: "dominika_hb",
       name: "Veronika Holubová",
+      maiden: "Forejtová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
       spouse: "mikulas_hb",
       notes: [
-        "Manželka Václava Holuba, sedláka v Oseku č. 8; matka Anny (*1779). Zemřela před 1810. Rodné příjmení neznámé. (Dřívější čtení „Dominika“ chybné.)"
+        "Dcera † Pavla Forejta z Volduch; oddána 22. 10. 1776 v Oseku č. 8 s Václavem Holubem (věk neuveden). Matka Kašpara (1777), Anny (1779), Doroty († 1799) a Veroniky (*~1791, † 1807). Zemřela před 1810 (úmrtí v č. 8 není 1798 – VII 1807).",
+        "KANDIDÁT: otec = Pavel Forejt (*1716, † 8. 9. 1772 Volduchy č. 51) – jediný známý Pavel Forejt z Volduch, v r. 1776 „verst.“ sedí; Veronika by pak byla sestrou Víta Forejta (*1746) a Jirka by od Pavla Forejta pocházel dvakrát (přes Anny Forejtovou i Holubovou). Křest Veroniky (~1748–1757) zatím nenalezen – vazba v rodokmenu zatím nenastavena.",
+        "(Dřívější čtení „Dominika“ chybné.)"
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 05 (N), str. 17, snímek 11 vpravo (25. 7. 1779) – https://www.portafontium.eu/iipimage/30066672/osek-05_0110-n",
-        "SOA Plzeň, fara Osek, Osek 06 (N), str. 51, snímek 29 (13./14. 12. 1814) – https://www.portafontium.eu/iipimage/30066672/osek-06_0290-n"
+        "SOA Plzeň, fara Osek, Osek 06 (N), str. 51, snímek 29 (13./14. 12. 1814) – https://www.portafontium.eu/iipimage/30066672/osek-06_0290-n",
+        "SOA Plzeň, fara Osek, Osek 07 (O), oddíl Osek, str. 6, snímek 6 vlevo (22. 10. 1776) – https://www.portafontium.eu/iipimage/30066673/osek-07_0060-o"
       ],
       scans: [
+        {"f":"img/1776_O_Holub_Vaclav_Forejtova_Veronika_Osek8.jpg","t":"Sňatek Václava Holuba s Veronikou Forejtovou, Osek č. 8, 22. 10. 1776"},
         {"f":"img/1779_N_Holubova_Anna_Osek.jpg","t":"Křest Anny Holubové, Osek č. 8, 25. 7. 1779"},
         {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"}
       ]
@@ -8397,6 +8408,24 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1795_N_Hofmanova_Anna_Dobrovany16.jpg","t":"Křest Anny Hofmanové, Dobrovany č. 16, 22. 1. 1795"}
+      ]
+    },
+    {
+      id: "martin_hl",
+      name: "Martin Holub",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      notes: [
+        "Otec Václava Holuba (sňatek syna 22. 10. 1776: „Wentzl Sohn des Martin Holub von Wossek“), z Oseka.",
+        "KANDIDÁT: týž Martin Holub, oddaný 10. 8. 1772 v Oseku (dům č. 8) s Barborou, dcerou † Jana Laukoty, chalupníka z Oseka (svědci Jan a Matěj Aubrechtové, Dorota Laukotová) – zřejmě 2. sňatek; stav ženicha a jeho rodiče neuvedeny (Osek 07, str. 2, sn. 4). V X 1774 svědci „Holub Martin, Holub Wenzl“."
+      ],
+      sources: [
+        "SOA Plzeň, fara Osek, Osek 07 (O), oddíl Osek, str. 6, snímek 6 vlevo (22. 10. 1776) – https://www.portafontium.eu/iipimage/30066673/osek-07_0060-o",
+        "SOA Plzeň, fara Osek, Osek 07 (O), str. 2, snímek 4 vlevo (10. 8. 1772) – https://www.portafontium.eu/iipimage/30066673/osek-07_0040-o"
+      ],
+      scans: [
+        {"f":"img/1776_O_Holub_Vaclav_Forejtova_Veronika_Osek8.jpg","t":"Sňatek syna Václava s Veronikou Forejtovou, Osek č. 8, 22. 10. 1776"}
       ]
     }
   ]
