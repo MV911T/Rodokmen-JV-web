@@ -7957,7 +7957,7 @@ window.RODOKMEN = {
         "Oddán 24. 7. 1796 v Seleticích č. 62 (fara Mcely) jako chalupník ze vsi Pojed, 24 let, s Annou, vlastní dcerou Jiříka Jírka, chalupníka ze Seletic, 18 let; svědci František Kaňourek (?) ze Sovolusk a Marie Anna Neumannová; oddal farář František Ferdinand Tachecký. Rodiče ženicha neuvedeni.",
         "Chalupník v Pojedech č. 9; manželka Anna roz. Jírková ze Seletic; syn Václav (*1817).",
         "Zemřel 29. 11. 1826 v Pojedech č. 9 jako chalupník z Pojed, poddaný panství Rožďalovice, „63 let“, na zimnici (?); pohřben 1. 12. 1826 (děkan Řehoř Horetzký). Pozdější zápisy (1839, 1846) ho správně uvádějí jako zemřelého; „výměník“ v křtu vnučky 1852 je chyba zápisu.",
-        "KANDIDÁT křtu (téměř jistý): 25. 3. 1770 Pojedy – Jan, syn Jana Šnejdra, chalupníka (incola), a Doroty, narozen 24. 3.; kmotr Jan Uhlíř (?) ze Žitovlic (Rožďalovice 03, sn. 119). Otec Jan st. zemřel 17. 2. 1780 ve Žitovlicích č. 17 ve 40 letech; syn Jan narozený tamtéž 27. 2. 1780 je pohrobek – jméno se proto opakuje. Jan *1770 v indexu úmrtí 1770–1794 není a jiný Jan z Pojed v indexu křtů 1770–1784 není. ROZPOR věku: 1796 „24 let“, 1826 „63 let“ – platí křest (1770). Sourozenci (index): Václav a Anna 1773, Kateřina Magdalena 1776, Dorota 1777, Václav 1779, Jan 1780."
+        "KANDIDÁT křtu (téměř jistý): 25. 3. 1770 Pojedy – Jan, syn Jana Šnejdra, chalupníka (incola), a Doroty, narozen 24. 3.; kmotr Jan Uhlíř (?) ze Žitovlic (Rožďalovice 03, sn. 119). Otec Jan st. zemřel 17. 2. 1780 ve Žitovlicích č. 17 ve 40 letech; syn Jan narozený tamtéž 27. 2. 1780 je pohrobek – jméno se proto opakuje. Jan *1770 v indexu úmrtí 1770–1794 není a jiný Jan z Pojed v indexu křtů 1770–1784 není. ROZPOR věku: 1796 „24 let“, 1826 „63 let“ – platí křest (1770). Sourozenci (index): Václav a Anna 1773, Kateřina Magdalena 1776, Dorota 1777, Václav 1779, Jan 1780. Starší Šnejdrové v Pojedech: Jan († před IX 1766; dcera Kateřina × 14. 9. 1766 Josef Ulrich ze Zámostí) a Tomáš, podruh (1766–67) – vztah k Janovi st. (*~1740) neurčen. Sňatek Jana st. × Doroty II 1766 – I 1770 není."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
@@ -7990,7 +7990,7 @@ window.RODOKMEN = {
       mother: "marie_vk",
       marriage: "24. 7. 1796 – s Janem Šnejdrem",
       notes: [
-        "Pokřtěna nejspíš 18. 12. 1776 v Seleticích č. 40 (fara Mcely): Anna, dcera Jiřího Jírka (Girsku) a Marie; kmotři Marie Kaněrová (?) a Jan Sobota; křtil Václav Schrámek. Ztotožnění D: otec Jiří sedí s oddacím zápisem 1796, věk 1796 (18) o 1½ roku podhodnocen; jiná Anna, dcera Jiřího, XII 1774 – II 1781 není. Vyloučena Anna pokřtěná 18. 8. 1777 v Seleticích č. 11 (otec Jan × Kateřina). Neověřeno: úmrtí v dětství; dům 1776 č. 40, 1796 č. 62.",
+        "Pokřtěna nejspíš 18. 12. 1776 v Seleticích č. 40 (fara Mcely): Anna, dcera Jiřího Jírka (Girsku) a Marie; kmotři Marie Kaněrová (?) a Jan Sobota; křtil Václav Schrámek. Ztotožnění D: otec Jiří sedí s oddacím zápisem 1796, věk 1796 (18) o 1½ roku podhodnocen; jiná Anna, dcera Jiřího, XII 1774 – II 1781 není. Vyloučena Anna pokřtěná 18. 8. 1777 v Seleticích č. 11 (otec Jan × Kateřina). V úmrtích Mcely XII 1776 – VI 1781 není (sestra Marie *30. 3. 1780 zemřela 7. 4. 1780, Seletice 40); neověřeno: dům 1776 č. 40, 1796 č. 62.",
         "Oddána 24. 7. 1796 v Seleticích č. 62 (fara Mcely), 18 let, s Janem Šnejdrem z Pojed.",
         "Dcera † Jiřího Jírka, chalupníka ze Seletic (křest syna Václava 1817; také sňatek 1839 a křest vnučky 1852). Manželka Jana Šnejdra z Pojed č. 9.",
         "„Šídková (?)“ z křtu vnuka 1846 = chybné čtení (J a Š si v ruce děkana Horetzkého podobné)."
@@ -8299,12 +8299,13 @@ window.RODOKMEN = {
       notes: [
         "Oddán 9. 6. 1765 v kostele v Seleticích: „Georgius Girsko … cum sua honesta sponsa Maria Wolkova ex pago Seletiz, ambo subditi ad Dominium Krzinecense“; svědci Jan Volek, Šimon Hofmann a Anna Jírková; oddal administrátor Václav Schrámek. Rodiče a věk neuvedeny.",
         "Chalupník v Seleticích (fara Rožďalovice); zemřel před XI 1817. Otec Anny Šnejdrové.",
-        "S manželkou Marií v Seleticích č. 40: Anna (18. 12. 1776), Dorota (9. 8. 1778), Marie (30. 3. 1780)."
+        "S manželkou Marií v Seleticích č. 40: Anna (18. 12. 1776), Dorota (9. 8. 1778), Marie (30. 3. 1780, † 7. 4. 1780)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Pojedy, fol. 99, snímek 98 vpravo – https://ebadatelna.soapraha.cz/d/11184/98",
         "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 326, snímek 72 vlevo (9. 6. 1765); rejstřík O sn. 86 – https://ebadatelna.soapraha.cz/d/8402/72",
-        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 91, snímek 47 vpravo (18. 12. 1776) – https://ebadatelna.soapraha.cz/d/8402/47"
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 91, snímek 47 vpravo (18. 12. 1776) – https://ebadatelna.soapraha.cz/d/8402/47",
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), pag. 587, snímek 129 vpravo (7. 4. 1780) – https://ebadatelna.soapraha.cz/d/8402/129"
       ],
       scans: [
         {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"},
