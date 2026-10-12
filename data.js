@@ -4028,23 +4028,28 @@ window.RODOKMEN = {
       name: "Marianna Pitrová",
       line: "pitr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Veřovice"},
+      b: {"date":"27. 9. 1814","year":1814,"place":"Veřovice č. p. 145"},
       father: "jiri_pi",
       mother: "rosina_zu",
       occ: "podruhyně ve Veřovicích",
       notes: [
-        "Svobodná dcera Jiřího (Georga) Pitra, domkaře z Veřovic, a Rosiny roz. Zugner (?) (křest dcery Moniky 1845). Matka Moniky (*1. 4. 1845, č. 145).",
-        "KANDIDÁTKY křtu (obě M, obě Veřovice č. 145, otec Georg Pitr, matka Rosina, dcera † Josefa Zuczner/Ziegnera ?, stejní kmotři Jan Barton s manželkou Annou): (a) 25. 3. 1808 (sn. 90), (b) 27. 9. 1814 „Marianne +“ (sn. 101). Opakované jméno ukazuje, že jedna zemřela – křížek u 1814 by svědčil pro (a), opakování spíš pro (b); rozhodne úmrtní matrika (NJ XIV 5). Sourozenci: Martin 1797 (č. 69), Johann 1798, Rosina 1801, Josef 1801, Rosina 1803, Magdalena 1805, Magdalena 1812, Rosina 1817 (č. 145; část jen z rejstříku)."
+        "Pokřtěna 27. 9. 1814 ve Veřovicích č. 145: otec Georg Pitr, domkář ve Veřovicích, matka Rosina, dcera † Josefa Zuczner / Ziegnera (?), domkáře; kmotři Jan Barton, domkář, a jeho manželka Anna. Ztotožnění s matkou Moniky (1845, č. 145) M/D: starší sestra Marianna (*25. 3. 1808) zemřela v XII 1812 (4½ roku, neštovice) a jiná Marianna Georga × Rosiny není; Marianna *1814 do 1840 v úmrtích Veřovic není. (Křížek u jména v křtu je značka písaře, ne úmrtí – mají ho i sousední zápisy.)",
+        "Sourozenci (č. 145, část jen z rejstříku): Martin 1797 (č. 69), Johann 1798, Rosina 1801 († 1801), Josef 1801, Rosina 1803 († 1807), Magdalena 1805 († 1807), Marianna 1808 († 1812), Magdalena 1812, Rosina 1817 († XII 1818).",
+        "Svobodná dcera Jiřího (Georga) Pitra, domkaře z Veřovic, a Rosiny roz. Zugner (?) (křest dcery Moniky 1845). Matka Moniky (*1. 4. 1845, č. 145)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1825 (sign. NJ XIV 1, inv. 2141), snímky 90, 98, 101, 106; rejstřík sn. 158 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1825 (sign. NJ XIV 1, inv. 2141), snímky 90, 98, 101, 106; rejstřík sn. 158 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1825 (sign. NJ XIV 1), fol. 203, snímek 101 vpravo (27. 9. 1814) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), fol. 120, snímek 59 vlevo (XII 1812); rejstřík sn. 133 – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1814_N_Pitrova_Marianna_Verovice145.jpg","t":"Křest Marianny Pitrové, Veřovice č. 145, 27. 9. 1814"},
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek) (dítě: Monika Blažková)"},
-        {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"}
+        {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"},
+        {"f":"img/1812_Z_Pitrova_Marianna_Verovice145.jpg","t":"Úmrtí starší sestry Marianny (*1808), Veřovice č. 145, XII 1812"}
       ]
     },
     {
@@ -4066,11 +4071,15 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1825 (sign. NJ XIV 1), fol. 203, snímek 101 vpravo (27. 9. 1814) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), fol. 120, snímek 59 vlevo (XII 1812); rejstřík sn. 133 – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Ziegnerové (?), Veřovice č. 69, 8. 1. 1797"},
-        {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek) (dítě: Monika Blažková) (dítě: Marianna Pitrová)"}
+        {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek) (dítě: Monika Blažková) (dítě: Marianna Pitrová)"},
+        {"f":"img/1814_N_Pitrova_Marianna_Verovice145.jpg","t":"Křest dcery Marianny, Veřovice č. 145, 27. 9. 1814"},
+        {"f":"img/1812_Z_Pitrova_Marianna_Verovice145.jpg","t":"Úmrtí dcery Marianny (*1808), Veřovice XII 1812"}
       ]
     },
     {
@@ -8753,11 +8762,15 @@ window.RODOKMEN = {
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1825 (sign. NJ XIV 1), fol. 203, snímek 101 vpravo (27. 9. 1814) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), fol. 120, snímek 59 vlevo (XII 1812); rejstřík sn. 133 – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Ziegnerové (?), Veřovice č. 69, 8. 1. 1797"},
-        {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"}
+        {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"},
+        {"f":"img/1814_N_Pitrova_Marianna_Verovice145.jpg","t":"Křest dcery Marianny, Veřovice č. 145, 27. 9. 1814"},
+        {"f":"img/1812_Z_Pitrova_Marianna_Verovice145.jpg","t":"Úmrtí dcery Marianny (*1808), Veřovice XII 1812"}
       ]
     },
     {
