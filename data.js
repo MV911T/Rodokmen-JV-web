@@ -3999,19 +3999,23 @@ window.RODOKMEN = {
       maiden: "Pitrová",
       line: "pitr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true,"place":"Veřovice"},
+      b: {"date":"1. 4. 1845","year":1845,"place":"Veřovice č. p. 145"},
+      d: {"date":"12. 6. 1923","year":1923},
       mother: "marianna_pi",
       spouse: "antonin_bl",
       marriage: "2. (?) 10. 1866, Veřovice – s Antonínem Blažkem",
       notes: [
+        "Narozena a pokřtěna 1. 4. 1845 ve Veřovicích č. 145 (lokalista Johann Waniek), nemanželská (otec neuveden); matka Marianna, dcera Georga Pitra, domkaře z Veřovic, a Rosiny roz. Zugner (?) (dcery Josefa, domkaře ve Veřovicích); kmotři Franz Czernik (?) a Marianna Matuschová, porodní bába Susanna Matuschová (č. 86). Přípis: † 12. 6. 1923.",
         "Nemanželská dcera Marianny Pitrové, podruhyně z Veřovic, dcery domkáře Jiřího Pitra; oddána 2. (?) 10. 1866 (21 let) s kovářským tovaryšem Antonínem Blažkem ze Životic."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"},
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek)"},
         {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"}
       ]
@@ -4023,16 +4027,19 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Veřovice"},
       father: "jiri_pi",
+      mother: "rosina_zu",
       occ: "podruhyně ve Veřovicích",
       notes: [
-        "Svobodná dcera Jiřího Pitra, domkaře z Veřovic."
+        "Svobodná dcera Jiřího (Georga) Pitra, domkaře z Veřovic, a Rosiny roz. Zugner (?) (křest dcery Moniky 1845). Matka Moniky (*1. 4. 1845, č. 145)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek) (dítě: Monika Blažková)"}
+        {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek) (dítě: Monika Blažková)"},
+        {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"}
       ]
     },
     {
@@ -4041,13 +4048,16 @@ window.RODOKMEN = {
       line: "pitr",
       cert: "M",
       b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      spouse: "rosina_zu",
       occ: "domkař ve Veřovicích",
       notes: [
-        "Otec Marianny Pitrové."
+        "Domkář ve Veřovicích; manželka Rosina roz. Zugner (?). Otec Marianny Pitrové (křest vnučky Moniky 1845).",
+        "Hypotéza „Jiří Pitr × Anna Černochová“ tímto zápisem nepodpořena (Anna roz. Černoch je matkou Roziny Bartoňové, ne Marianny)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek) (dítě: Monika Blažková) (dítě: Marianna Pitrová)"}
@@ -4746,8 +4756,8 @@ window.RODOKMEN = {
       spouse: "frantisek_z0",
       marriage: "7. 10. 1879, Polom – s Františkem Zettelmannem",
       notes: [
-        "Pokřtěna (nar. 21. 4. 1860) v Polomi č. 31: otec Franz Anders, domkář v Polomi; matka Lucie, dcera Josefa Wenzela, sedláka v Polomi, a Magdaleny roz. Kloseové; kmotři Johann Schmid a Ludmila, manželka Franze Wenzela.",
-        "Při sňatku 1879 19 let, nezletilá (souhlas otce). ROZPOR čtení příjmení matky: „Stanzel (?)“ (1879), „Kunzel (?)“ (1884) – platí křest: Wenzel (?).",
+        "Pokřtěna (nar. 21. 4. 1860) v Polomi č. 31: otec Franz Anders, domkář v Polomi; matka Beata, dcera Josefa (?) Stanzela, sedláka v Polomi, a Magdaleny roz. Klose (dříve chybně čteno „Lucie Wenzel“); kmotři Johann Schmid a Ludmila, manželka Franze Wenzela.",
+        "Při sňatku 1879 19 let, nezletilá (souhlas otce). Příjmení matky: Stanzel (1859, 1860, 1879; „Kunzel“ 1884).",
         "ROZPOR: oddací zápis vnuka (Veřovice 1930) ji uvádí jako „Magdalenu Pohlovou“ – záměna místa původu (Pohl = Polom) za příjmení; platí křest dcery 1884 a sňatek 1879."
       ],
       sources: [
@@ -4985,18 +4995,24 @@ window.RODOKMEN = {
       name: "František Anders",
       line: "anders",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1830)","year":1830,"approx":true},
+      b: {"date":"neznámé (odhad ~1836)","year":1836,"approx":true},
+      father: "johann_an",
+      mother: "magdalena_pr",
       spouse: "lucie_we",
       occ: "zahradník v Polomi (Pohl)",
+      marriage: "25. 10. 1859, Polom č. 31 (fara Bělotín) – s Beatou Stanzlovou",
       notes: [
-        "Otec Magdaleny Zettelmannové; dal souhlas k jejímu sňatku 1879."
+        "Oddán 25. 10. 1859 v Polomi (Pohl) č. 31 jako domkář v Polomi, 23 let, syn Johanna Anderse, domkáře v Polomi, a Magdaleny roz. Preitrach (?) / Teubel (?), dcery Franze, sedláka v Polomi; nevěsta Beata, dcera Franze Stanzela, sedláka v Polomi, a Magdaleny roz. Klösel (dcery Georga, sedláka v Polomi), 17 let (poručenské povolení).",
+        "Otec Magdaleny Zettelmannové (*1860); dal souhlas k jejímu sňatku 1879."
       ],
       sources: [
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 25 (O Polom 1862–1940), Buch V S. 54, snímek 28 – https://digi.archives.cz",
         "ZA Opava (NAD 165), fara Bělotín, sign. L II 42 (N Bělotín 1884–1915), fol. 6, snímek 4 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"},
         {"f":"img/1879_O_Zettelmann_Anders_Polom.jpg","t":"Sňatek Františka Zettelmanna a Magdaleny Andersové, Polom 1879 (dítě: Magdalena Zettelmannová)"},
         {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"}
       ]
@@ -8236,54 +8252,62 @@ window.RODOKMEN = {
     },
     {
       id: "lucie_we",
-      name: "Lucie Andersová",
-      maiden: "Wenzelová (?)",
+      name: "Beata Andersová",
+      maiden: "Stanzlová (Stanzel)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1835)","year":1835,"approx":true},
+      b: {"date":"neznámé (odhad ~1842)","year":1842,"approx":true,"place":"Polom (Pohl)"},
       father: "josef_we",
       mother: "magdalena_kl",
       spouse: "franz_an",
+      marriage: "25. 10. 1859, Polom – s Franzem Andersem",
       notes: [
-        "Dcera Josefa Wenzela, sedláka v Polomi, a Magdaleny roz. Kloseové; manželka Franze Anderse, domkáře v Polomi č. 31."
+        "Dcera Franze Stanzela, sedláka v Polomi, a Magdaleny roz. Klösel (Klose), dcery Georga, sedláka v Polomi; oddána 25. 10. 1859 v Polomi č. 31 s Franzem Andersem, 17 let (→ *~1842; odkaz na křest „IV/113“). Bratr Franz Stanzel (× 8. 11. 1859).",
+        "OPRAVA: dřívější čtení „Lucie, dcera Josefa Wenzela“ (křest dcery 1860) bylo chybné – zápis zní „Beata, Tochter des Josef (?) Stanzel“. Shoduje se s „Stanzel“ (1879) a „Kunzel“ (1884). ROZPOR: otec v sňatku 1859 Franz, v křtu dcery 1860 Josef – rozhodne křest Beaty (~1842, Polom, kniha IV pag. 113)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"},
         {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"}
       ]
     },
     {
       id: "josef_we",
-      name: "Josef Wenzel",
+      name: "František Stanzel",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
       spouse: "magdalena_kl",
       notes: [
-        "Sedlák v Polomi (Pohl); otec Lucie Andersové."
+        "Sedlák v Polomi (Pohl); otec Beaty Andersové (sňatek 1859: „Franz Stanzel, Bauer in Pohl“) a Franze (× 8. 11. 1859). ROZPOR: v křtu vnučky 1860 jako „Josef“ – platí sňatek dcery, ověřit křtem Beaty.",
+        "OPRAVA: dříve veden jako „Josef Wenzel“ (chybné čtení)."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"}
+        {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"},
+        {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"}
       ]
     },
     {
       id: "magdalena_kl",
-      name: "Magdalena Wenzelová",
-      maiden: "Kloseová",
+      name: "Magdalena Stanzlová",
+      maiden: "Klösel (Klose)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
       spouse: "josef_we",
       notes: [
-        "Dcera Franze Klose, sedláka v Polomi; manželka Josefa Wenzela."
+        "Dcera Georga Klösela (Klose), sedláka v Polomi (sňatek dcery Beaty 1859, křest vnučky 1860); manželka Franze Stanzela. (Dřívější „dcera Franze Klose“ – chybné.)"
       ],
       sources: [
-        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"}
@@ -8633,6 +8657,59 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1719_N_Holub_Martin_Volduchy.jpg","t":"Křest Martina Holuba, Volduchy, 8. 11. 1719 (otec Pavel, matka Marie)"}
+      ]
+    },
+    {
+      id: "johann_an",
+      name: "Johann Anders",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
+      spouse: "magdalena_pr",
+      notes: [
+        "Domkář v Polomi (Pohl); otec Franze Anderse (sňatek 1859)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"}
+      ]
+    },
+    {
+      id: "magdalena_pr",
+      name: "Magdalena Andersová",
+      maiden: "Preitrach (?) / Teubel (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      spouse: "johann_an",
+      notes: [
+        "Dcera Franze Preitracha (?) / Teubela (?), sedláka v Polomi; manželka Johanna Anderse; matka Franze (sňatek 1859). Příjmení čteno nejistě."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"}
+      ]
+    },
+    {
+      id: "rosina_zu",
+      name: "Rosina Pitrová",
+      maiden: "Zugner (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true},
+      spouse: "jiri_pi",
+      notes: [
+        "Dcera Josefa Zugnera (?), domkaře ve Veřovicích; manželka Jiřího Pitra; matka Marianny (křest vnučky Moniky 1845). Příjmení čteno nejistě (Zugner / Ziegner ?)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"}
       ]
     }
   ]
