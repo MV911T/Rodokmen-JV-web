@@ -8630,7 +8630,8 @@ window.RODOKMEN = {
         {"f":"img/1745_O_Holub_Martin_Aubrechtova_Anna_Osek.jpg","t":"Sňatek Martina Holuba s Annou Aubrechtovou, Osek 15. 2. 1745"},
         {"f":"img/1776_O_Holub_Vaclav_Forejtova_Veronika_Osek8.jpg","t":"Sňatek syna Václava s Veronikou Forejtovou, Osek č. 8, 22. 10. 1776"},
         {"f":"img/1778_Z_Holub_Martin_Osek8.jpg","t":"Úmrtí Martina Holuba, sedláka, Osek č. 8, 24. 12. 1778"},
-        {"f":"img/1754_N_Holub_Vaclav_Volduchy.jpg","t":"Křest Václava Holuba, Volduchy, 23. 9. 1754 (otec Martin, matka Anna)"}
+        {"f":"img/1754_N_Holub_Vaclav_Volduchy.jpg","t":"Křest Václava Holuba, Volduchy, 23. 9. 1754 (otec Martin, matka Anna)"},
+        {"f":"img/1719_N_Aubrechtova_Anna_Osek.jpg","t":"Křest manželky Anny Aubrechtové, Osek, 30. 4. 1719"}
       ]
     },
     {
@@ -8639,20 +8640,22 @@ window.RODOKMEN = {
       maiden: "Aubrechtová",
       line: "aubrecht",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1722)","year":1722,"approx":true},
+      b: {"date":"29. 4. 1719","year":1719,"place":"Osek u Rokycan (zápis „z Oseka“; rodina z Volduch)"},
       father: "josef_au",
       mother: "magdalena_au",
       spouse: "martin_hl",
       marriage: "15. 2. 1745, Osek – s Martinem Holubem",
       notes: [
-        "Dcera Josefa Aubrechta z Volduch a Magdaleny (sňatek rodičů 1709; vazba na matku D – křest Anny v Osek 01 N II 1709 – IV 1717 není, zbývá 1717–1727). Sourozenci: Jiří (1710), Václav (1713), Barbora (1716), Kateřina (1722–1725).",
-        "Oddána 15. 2. 1745 v Oseku s Martinem Holubem. Matka Martina (1745), Jana (1751) a Václava (1754). Zemřela nejspíš před VIII 1772 (2. sňatek Martina – kandidát); úmrtí 1754 – VIII 1772 v rejstříku Z nenalezeno."
+        "Narozena 29. 4., pokřtěna 30. 4. 1719 (farář Jan Šebestián Říha): „z Oseka … Anna, vlastní dcera Josefa Aubrechta a Magdaleny manželky jeho“; kmotra Anna Gyšová z Volduch, svědci Marta Pikorová (?) a Prokop Hauzka z Volduch (M). Jediná Anna Josefa × Magdaleny v Osek 01 N 1709 – V 1726; zapadá do řady sourozenců Jiří (1710), Václav (1713), Barbora (1716), Kateřina (1722–1725), stejní kmotři (Gyšt, Hauzka) jako u nich – ztotožnění s nevěstou 1745 (dcera Josefa Aubrechta z Volduch) D+.",
+        "Oddána 15. 2. 1745 v Oseku s Martinem Holubem (oba ročník 1719). Matka Martina (1745), Jana (1751) a Václava (1754). Zemřela nejspíš před VIII 1772 (2. sňatek Martina – kandidát); úmrtí 1754 – VIII 1772 v rejstříku Z nenalezeno."
       ],
       sources: [
+        "SOA Plzeň, fara Osek, Osek 01 (N), str. 175, snímek 89 vpravo (29./30. 4. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_0891-n",
         "SOA Plzeň, fara Osek, Osek 03 (O), str. 18, snímek 118 vlevo (15. 2. 1745); rejstřík O H sn. 152 – https://www.portafontium.eu/iipimage/30066669/osek-03_1180-o",
         "SOA Plzeň, fara Osek, Osek 03 (N), str. 135, snímek 70 vpravo (23. 9. 1754) – https://www.portafontium.eu/iipimage/30066669/osek-03_0700-n"
       ],
       scans: [
+        {"f":"img/1719_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek, 30. 4. 1719 (otec Josef, matka Magdalena)"},
         {"f":"img/1745_O_Holub_Martin_Aubrechtova_Anna_Osek.jpg","t":"Sňatek Martina Holuba s Annou Aubrechtovou, Osek 15. 2. 1745"},
         {"f":"img/1754_N_Holub_Vaclav_Volduchy.jpg","t":"Křest Václava Holuba, Volduchy, 23. 9. 1754 (otec Martin, matka Anna)"}
       ]
@@ -8665,17 +8668,19 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1685)","year":1685,"approx":true},
       notes: [
         "Z Volduch (fara Osek); otec Anny, provdané 15. 2. 1745 za Martina Holuba. V r. 1745 zřejmě živ (bez „nebožtík“).",
-        "Oddán 20. 10. 1709 v Oseku: „Josef Aubrecht z Volduch s Magdalenou Řehmovou (?) též z Volduch“; družba Jiří Gyšt, družička Marta Andrlová (rok podle pořadí stran). Děti s Magdalenou: Jiří (5. 10. 1710, Volduchy; kmotr Jiří Gyšt), Václav (17. 9. 1713, zapsán pod nadpisem „z Oseka“, kmotři z Volduch), Barbora (1. 8. 1716, „z Oseka“), Kateřina (28. 11. 1722 Volduchy, † 9. 2. 1725). Křest Anny v N Osek 01 II 1709 – IV 1717 není – narodila se nejspíš 1717–1727 (zbývá prohlédnout)."
+        "Oddán 20. 10. 1709 v Oseku: „Josef Aubrecht z Volduch s Magdalenou Řehmovou (?) též z Volduch“; družba Jiří Gyšt, družička Marta Andrlová (rok podle pořadí stran). Děti s Magdalenou: Jiří (5. 10. 1710, Volduchy; kmotr Jiří Gyšt), Václav (17. 9. 1713, zapsán pod nadpisem „z Oseka“, kmotři z Volduch), Barbora (1. 8. 1716, „z Oseka“), Anna (29. 4. 1719, „z Oseka“), Kateřina (28. 11. 1722 Volduchy, † 9. 2. 1725); další děti do V 1726 nejsou."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 03 (O), str. 18, snímek 118 vlevo (15. 2. 1745); rejstřík O H sn. 152 – https://www.portafontium.eu/iipimage/30066669/osek-03_1180-o",
         "SOA Plzeň, fara Osek, Osek 01 (N), snímek 105 vpravo (28. 11. 1722) – https://www.portafontium.eu/iipimage/30066667/osek-01_1051-n",
         "SOA Plzeň, fara Osek, Osek 01 (O), str. 304, snímek 154 vpravo (20. 10. 1709) – https://www.portafontium.eu/iipimage/30066667/osek-01_1541-o",
-        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 55 vpravo (5. 10. 1710), 66 vlevo (17. 9. 1713), 76 vpravo (1. 8. 1716) – https://www.portafontium.eu/iipimage/30066667/osek-01_0551-n"
+        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 55 vpravo (5. 10. 1710), 66 vlevo (17. 9. 1713), 76 vpravo (1. 8. 1716) – https://www.portafontium.eu/iipimage/30066667/osek-01_0551-n",
+        "SOA Plzeň, fara Osek, Osek 01 (N), str. 175, snímek 89 vpravo (29./30. 4. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_0891-n"
       ],
       scans: [
         {"f":"img/1745_O_Holub_Martin_Aubrechtova_Anna_Osek.jpg","t":"Sňatek Martina Holuba s Annou Aubrechtovou, Osek 15. 2. 1745"},
-        {"f":"img/1710_N_Aubrecht_Jiri_Volduchy.jpg","t":"Křest Jiřího Aubrechta, Volduchy, 5. 10. 1710 (otec Josef, matka Magdalena)"}
+        {"f":"img/1710_N_Aubrecht_Jiri_Volduchy.jpg","t":"Křest Jiřího Aubrechta, Volduchy, 5. 10. 1710 (otec Josef, matka Magdalena)"},
+        {"f":"img/1719_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek, 30. 4. 1719 (otec Josef, matka Magdalena)"}
       ]
     },
     {
@@ -8687,7 +8692,7 @@ window.RODOKMEN = {
       d: {"date":"13. 9. 1727 (?)","year":1727,"place":"Volduchy (fara Osek)"},
       spouse: "marie_hl",
       notes: [
-        "Z Volduch (fara Osek); manželka Marta. Děti ve Volduchách: Josef (14. 3. 1710), Magdalena (3. 9. 1712), Matouš/Matěj (?) (27. 9. 1714), Jan (12. 5. 1716), Martin (7. 11. 1719). Při sňatku syna Martina 15. 2. 1745 už nebožtík.",
+        "Z Volduch (fara Osek); manželka Marta. Děti ve Volduchách: Josef (1710), Magdalena (1712), Matouš/Matěj (?) (1714), Jan (1716), Martin (7. 11. 1719), Kateřina (1722), Bartoloměj (1724), Kašpar (1725), Matěj (1726). Při sňatku syna Martina 15. 2. 1745 už nebožtík.",
         "Zemřel 13. září (na okraji „8ber“ – snad 13. 10.) 1727 ve Volduchách, pohřben 15., „týden před smrtí zaopatřený svátostmi“, „stáří okolo 45 let“ (→ *~1682); pohřbil kaplan rokycanský Jan Patera. Ztotožnění D: jediný dospělý Pavel Holub z Volduch v úmrtích VII 1722 – II 1745 (1728–1745 čteno v náhledech). Vyloučeni: Pavel † 27. 4. 1740 (22 let) a Ondřej Holub † 15. 8. 1741."
       ],
       sources: [
@@ -8732,12 +8737,13 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1688)","year":1688,"approx":true},
       spouse: "pavel_hl",
       notes: [
-        "Manželka Pavla Holuba z Volduch; v křtech dětí 1710–1719 vždy „Marta“: Josef (14. 3. 1710), Magdalena (3. 9. 1712), Matouš/Matěj (?) (27. 9. 1714), Jan (12. 5. 1716), Martin (7. 11. 1719). Rodné příjmení neznámé; sňatek v O Osek X 1705 – XII 1723 není (před X 1703 nehledán).",
+        "Manželka Pavla Holuba z Volduch; v křtech dětí 1710–1726 vždy „Marta“: Josef (14. 3. 1710), Magdalena (3. 9. 1712), Matouš/Matěj (?) (27. 9. 1714), Jan (12. 5. 1716), Martin (7. 11. 1719), Kateřina (27./29. 11. 1722; písař nejdřív napsal „Aubrechta“ a opravil na „Holuba“), Bartoloměj (23./25. 5. 1724), Kašpar (3. 4. 1725), Matěj (5./6. 5. 1726; poslední tři čteny v montáži, D). Rodné příjmení neznámé; sňatek v O Osek X 1705 – XII 1723 není (před X 1703 nehledán).",
         "OPRAVA: dřívější čtení „Marie“ u křtu Martina 1719 bylo chybné – na výřezu v plném rozlišení stojí „a Marty manželky jeho“, stejně jako u Jana 1716 (nativně ověřeno 12. 10. 2026). Svědkyně Marta Holubová IX 1713."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), snímek 92 vpravo (7./8. 11. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_0921-n",
-        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 54 vlevo (14. 3. 1710), 61 (3. 9. 1712), 68 vpravo (27. 9. 1714), 76 vlevo (12. 5. 1716) – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n"
+        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 54 vlevo (14. 3. 1710), 61 (3. 9. 1712), 68 vpravo (27. 9. 1714), 76 vlevo (12. 5. 1716) – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
+        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 105 vlevo (27./29. 11. 1722), 113 vlevo (1724), 118 vlevo (1725), 123 vpravo (1726) – https://www.portafontium.eu/iipimage/30066667/osek-01_1051-n"
       ],
       scans: [
         {"f":"img/1719_N_Holub_Martin_Volduchy.jpg","t":"Křest Martina Holuba, Volduchy, 8. 11. 1719 (otec Pavel, matka Marta)"},
@@ -9008,15 +9014,17 @@ window.RODOKMEN = {
       spouse: "josef_au",
       marriage: "20. 10. 1709, Osek – s Josefem Aubrechtem",
       notes: [
-        "Z Volduch; oddána 20. 10. 1709 v Oseku s Josefem Aubrechtem z Volduch (rodné příjmení čteno „Řehmová / Rzehmbau (?)“, nejisté). Matka Jiřího (1710), Václava (1713), Barbory (1716) a Kateřiny (1722, † 1725).",
-        "Matka Anny Holubové roz. Aubrechtové (D): Annin křest zatím nenalezen, ale Josef Aubrecht z Volduch má 1709–1722 doloženu jen tuto manželku."
+        "Z Volduch; oddána 20. 10. 1709 v Oseku s Josefem Aubrechtem z Volduch (rodné příjmení čteno „Řehmová / Rzehmbau (?)“, nejisté). Matka Jiřího (1710), Václava (1713), Barbory (1716), Anny (1719) a Kateřiny (1722, † 1725); další děti do V 1726 nejsou.",
+        "Matka Anny Holubové roz. Aubrechtové (křest 29. 4. 1719, M)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (O), str. 304, snímek 154 vpravo (20. 10. 1709) – https://www.portafontium.eu/iipimage/30066667/osek-01_1541-o",
-        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 55 vpravo (5. 10. 1710), 66 vlevo (17. 9. 1713), 76 vpravo (1. 8. 1716), 105 vpravo (28. 11. 1722) – https://www.portafontium.eu/iipimage/30066667/osek-01_0551-n"
+        "SOA Plzeň, fara Osek, Osek 01 (N), snímek 55 vpravo (5. 10. 1710), 66 vlevo (17. 9. 1713), 76 vpravo (1. 8. 1716), 105 vpravo (28. 11. 1722) – https://www.portafontium.eu/iipimage/30066667/osek-01_0551-n",
+        "SOA Plzeň, fara Osek, Osek 01 (N), str. 175, snímek 89 vpravo (29./30. 4. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_0891-n"
       ],
       scans: [
-        {"f":"img/1710_N_Aubrecht_Jiri_Volduchy.jpg","t":"Křest Jiřího Aubrechta, Volduchy, 5. 10. 1710 (otec Josef, matka Magdalena)"}
+        {"f":"img/1710_N_Aubrecht_Jiri_Volduchy.jpg","t":"Křest Jiřího Aubrechta, Volduchy, 5. 10. 1710 (otec Josef, matka Magdalena)"},
+        {"f":"img/1719_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek, 30. 4. 1719 (otec Josef, matka Magdalena)"}
       ]
     },
     {
