@@ -8754,16 +8754,21 @@ window.RODOKMEN = {
       name: "Anton Blaschke",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      b: {"date":"neznámé (odhad ~1774)","year":1774,"approx":true,"place":"Hynčice (Heinzendorf) č. p. 55 (?)"},
+      father: "joseph_bs",
       spouse: "juliana_bs",
+      marriage: "30. 4. 1798, Hynčice (Heinzendorf) – s vdovou Julianou (roz. Schwirtlich)",
       notes: [
-        "Domkář (Häusler) v Hynčicích (Heinzendorf) u Vražného č. 16 (1808); 1833 „zahradník (?) v Heinzendorf č. 18 (?)“. Manželka Juliana roz. Schwirtlich. Otec kováře Antona (*8. 10. 1808)."
+        "Oddán 30. 4. 1798 v Hynčicích (fara Vražné; kooperátor Josef Kunz ?): „Anton, des Joseph Blaschke Bauers Sohn von hier“, z č. 55, 24 let (→ *~1774), svobodný, s Julianou, vdovou po Michalu …mannovi (?), domkářkou z č. 16, 29 (?) let; svědci † Melchior Schwirtlich, zahradník (?), a † František Matitke (?), rychtář. Jiný Anton Blaschke v rejstříku O Hynčice 1786–1813 je jen z č. 12 (1806, manželka Alžběta).",
+        "Domkář v Hynčicích č. 16 (1808); 1833 „zahradník (?) v Heinzendorf č. 18 (?)“. Otec kováře Antona (*8. 10. 1808)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Vražné, O 1785–1843 (sign. Od III 8), oddíl Heinzendorf, pag. 6, snímek 96 vlevo (30. 4. 1798); index Od III 5 sn. 79 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Vražné, N 1785–1820 (sign. Od III 4), oddíl Heinzendorf, pag. 51, snímek 118 vpravo (8. 10. 1808); index Od III 5 sn. 36 – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1798_O_Blaschke_Anton_Juliana_Hyncice.jpg","t":"Sňatek Antona Blaschkeho a vdovy Juliany, Hynčice (Heinzendorf) 30. 4. 1798"},
         {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"},
         {"f":"img/1808_N_Blaschke_Anton_Hyncice16.jpg","t":"Křest Antona Blaschkeho, Hynčice (Heinzendorf) č. 16, 8. 10. 1808"}
       ]
@@ -8774,16 +8779,20 @@ window.RODOKMEN = {
       maiden: "Schwirtlich",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      b: {"date":"neznámé (odhad ~1769–1771)","year":1770,"approx":true},
       spouse: "anton_bs0",
+      marriage: "2) 30. 4. 1798, Hynčice – s Antonem Blaschkem; 1) s Michalem …mannem (?)",
       notes: [
-        "Dcera Davida Schwirtlicha (čtení D); manželka Antona Blaschkeho, domkáře v Hynčicích č. 16; matka Antona (*8. 10. 1808). Rod Schwirtlich doložen v Malém Vražném / Emauzích."
+        "Rozená Schwirtlich, dcera Davida (křest syna 1808). Podruhé oddána 30. 4. 1798 v Hynčicích jako vdova po Michalu …mannovi (?), domkářka z č. 16, 29 (?) let, s Antonem Blaschkem; svědek † Melchior Schwirtlich (příbuzný ?). Matka Antona (*8. 10. 1808, č. 16).",
+        "KANDIDÁT 1. sňatku: 9. 1. 1792 Malé Vražné/Emauzy (Od III 8 sn. 70) – Josef Nitschmann (?), 22 let, × Juliana Schwirtlichová, 21 (?) let – ROZPOR se jménem 1. manžela „Michal“ (1798); neověřeno."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Vražné, N 1785–1820 (sign. Od III 4), oddíl Heinzendorf, pag. 51, snímek 118 vpravo (8. 10. 1808); index Od III 5 sn. 36 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Vražné, N 1785–1820 (sign. Od III 4), oddíl Heinzendorf, pag. 51, snímek 118 vpravo (8. 10. 1808); index Od III 5 sn. 36 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Vražné, O 1785–1843 (sign. Od III 8), oddíl Heinzendorf, pag. 6, snímek 96 vlevo (30. 4. 1798); index Od III 5 sn. 79 – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1798_O_Blaschke_Anton_Juliana_Hyncice.jpg","t":"Sňatek Antona Blaschkeho a vdovy Juliany, Hynčice (Heinzendorf) 30. 4. 1798"},
         {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"},
         {"f":"img/1808_N_Blaschke_Anton_Hyncice16.jpg","t":"Křest Antona Blaschkeho, Hynčice (Heinzendorf) č. 16, 8. 10. 1808"}
       ]
@@ -8869,6 +8878,22 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1787_O_Lares_Joseph_Starke_Elisabeth_Zivotice79.jpg","t":"Sňatek Josefa Laresa a Alžběty Starkeové, Životice č. 79, 25. 11. 1787"},
         {"f":"img/1799_N_Lares_Anna_Zivotice79.jpg","t":"Křest Anny Laresové, Životice č. 79, 26. 1. 1799"}
+      ]
+    },
+    {
+      id: "joseph_bs",
+      name: "Josef Blaschke",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      notes: [
+        "Sedlák (?) v Hynčicích (Heinzendorf) u Vražného; otec Antona Blaschkeho (sňatek 1798, ženich z č. 55)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Vražné, O 1785–1843 (sign. Od III 8), oddíl Heinzendorf, pag. 6, snímek 96 vlevo (30. 4. 1798); index Od III 5 sn. 79 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1798_O_Blaschke_Anton_Juliana_Hyncice.jpg","t":"Sňatek Antona Blaschkeho a vdovy Juliany, Hynčice (Heinzendorf) 30. 4. 1798"}
       ]
     }
   ]
