@@ -4050,12 +4050,13 @@ window.RODOKMEN = {
       name: "Jiří Pitr",
       line: "pitr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
       spouse: "rosina_zu",
       occ: "domkař ve Veřovicích",
       notes: [
         "Domkář ve Veřovicích; manželka Rosina roz. Zugner (?). Otec Marianny Pitrové (křest vnučky Moniky 1845).",
-        "Hypotéza „Jiří Pitr × Anna Černochová“ tímto zápisem nepodpořena (Anna roz. Černoch je matkou Roziny Bartoňové, ne Marianny)."
+        "Hypotéza „Jiří Pitr × Anna Černochová“ tímto zápisem nepodpořena (Anna roz. Černoch je matkou Roziny Bartoňové, ne Marianny).",
+        "KANDIDÁT (D): týž Georg Pitr, domkář ve Veřovicích, dal 19. 8. 1821 souhlas ke sňatku syna Johanna (23 let, zeměbranec) s Rosinou Matuschovou, č. 115 (NJ XIV 3 sn. 28) → narozen nejpozději ~1775. Sňatek Jiří × Rosina Zugner (?) ve Veřovicích 1816 – V 1828 není; rodina Zugner ve Veřovicích doložena (Josef, domkář č. 69)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
