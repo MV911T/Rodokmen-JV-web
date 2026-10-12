@@ -4091,14 +4091,16 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1825 (sign. NJ XIV 1), fol. 203, snímek 101 vpravo (27. 9. 1814) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), fol. 120, snímek 59 vlevo (XII 1812); rejstřík sn. 133 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), pag. 197, snímek 97 vpravo (19. 6. 1834)"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), pag. 197, snímek 97 vpravo (19. 6. 1834)",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1841–1882 (sign. NJ XIV 6), pag. 19, snímek 10 vpravo (3. 8. 1844); rejstřík P sn. 139 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Lacinové, Veřovice č. 69, 8. 1. 1797"},
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek) (dítě: Monika Blažková) (dítě: Marianna Pitrová)"},
         {"f":"img/1814_N_Pitrova_Marianna_Verovice145.jpg","t":"Křest dcery Marianny, Veřovice č. 145, 27. 9. 1814"},
         {"f":"img/1812_Z_Pitrova_Marianna_Verovice145.jpg","t":"Úmrtí dcery Marianny (*1808), Veřovice XII 1812"},
-        {"f":"img/1834_Z_Pitr_Georg_Verovice145.jpg","t":"Úmrtí Georga Pitra, domkáře, Veřovice č. 145, 19. 6. 1834"}
+        {"f":"img/1834_Z_Pitr_Georg_Verovice145.jpg","t":"Úmrtí Georga Pitra, domkáře, Veřovice č. 145, 19. 6. 1834"},
+        {"f":"img/1844_Z_Pitrova_Rosina_Verovice145.jpg","t":"Úmrtí vdovy Rosiny, Veřovice č. 145, 3. 8. 1844"}
       ]
     },
     {
@@ -7407,20 +7409,23 @@ window.RODOKMEN = {
       occ: "domkář v Bělotíně",
       notes: [
         "Domkář v Bělotíně (č. 149 v r. 1822). Otec Johanna Zettelmanna (*1822); při synově sňatku 1844 dal souhlas, žil.",
-        "KANDIDÁT: porodní bába Alžběta Zettelmannová (1822, 1846) je nejspíš jeho manželka.",
+        "Manželka Alžběta roz. Schindlerová, porodní bába (1822, 1846), zemřela jako jeho vdova 15. 5. 1855 v č. 49 (M).",
         "Sňatek s Alžbětou Schindlerovou ve faře Bělotín 1784–~1825 není (ženil se jinde).",
-        "Zemřel 13. 1. 1848 (pohřben 15. 1.) v Bělotíně č. 49 jako výměnkář (Ausgedinger), 68 let (→ *~1779/80), na nervovou horečku; zaopatřil a pohřbil kooperátor Franz Brossmann. Jediný Andreas Zettelmann v rejstříku zemřelých Bělotín 1784–1851. Č. 49 je i dům porodní báby Elisabeth Zettelmann (1846) – nejspíš jeho manželky (K)."
+        "Zemřel 13. 1. 1848 (pohřben 15. 1.) v Bělotíně č. 49 jako výměnkář (Ausgedinger), 68 let (→ *~1779/80), na nervovou horečku; zaopatřil a pohřbil kooperátor Franz Brossmann. Jediný Andreas Zettelmann v rejstříku zemřelých Bělotín 1784–1851. Č. 49 je i dům porodní báby Elisabeth Zettelmann (1846) – nejspíš jeho manželky (K).",
+        "KANDIDÁT syna: Franz Zettelmann, mistr tkadlec, † 8. 5. 1854 Bělotín č. 49, 44 let (D) – zřejmě starší syn (*~1810), sňatek Andrease × Alžběty tedy před ~1810."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 64, snímek 33 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, Z 1814–1862 (sign. L II 16), Böltner Sterbregister fol. 136, snímek 69 vlevo (13. 1. 1848); rejstřík L II 18 sn. 195 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, Z 1814–1862 (sign. L II 16), Böltner Sterbregister fol. 136, snímek 69 vlevo (13. 1. 1848); rejstřík L II 18 sn. 195 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, Z 1814–1862 (sign. L II 16), fol. 165, snímek 83 vpravo (15. 5. 1855) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1848_Z_Zettelmann_Andreas_Belotin49.jpg","t":"Úmrtí Andrease Zettelmanna, Bělotín č. 49, 13. 1. 1848"},
         {"f":"img/1844_O_Johann_Zettelmann_Anna_Michalek_Belotin_fol116.jpg","t":"Sňatek Johanna Zettelmanna a Anny Michalkové, Bělotín 6. 8. 1844"},
         {"f":"img/1822_N_Johann_Zettelmann_Belotin_pag64.jpg","t":"Křest Johanna Zettelmanna, Bělotín 10. 3. 1822"},
-        {"f":"img/1869_Z_Zettelmann_Johann_Belotin.jpg","t":"Úmrtí Johanna Zettelmanna, Bělotín č. 149, 16. 7. 1869"}
+        {"f":"img/1869_Z_Zettelmann_Johann_Belotin.jpg","t":"Úmrtí Johanna Zettelmanna, Bělotín č. 149, 16. 7. 1869"},
+        {"f":"img/1855_Z_Zettelmannova_Alzbeta_Belotin49.jpg","t":"Úmrtí vdovy Alžběty, Bělotín č. 49, 15. 5. 1855"}
       ]
     },
     {
@@ -7449,17 +7454,22 @@ window.RODOKMEN = {
       maiden: "Schindlerová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      b: {"date":"neznámé (odhad ~1779)","year":1779,"approx":true,"place":"Bělotín (?)"},
+      d: {"date":"15. 5. 1855","year":1855,"place":"Bělotín (Bölten) č. p. 49"},
       spouse: "andreas_ze",
       notes: [
+        "Zemřela 15. 5. 1855 (pohřbena 17. 5., kooperátor August Renner (?)) v Bělotíně č. 49 jako „Elisabeth, Wittwe nach Andreas Zettelmann, Ausgedingerin in Bölten“, 76 let, sešlost věkem (M; č. 49 = dům Andrease † 1848 a porodní báby 1846). Podle věku *~1779 – dřívější odhad ~1795 byl o generaci mladší; Elisabeth Jüngerová (× 1793 Johann Schindler) by tedy byla nanejvýš macecha (K).",
         "Dcera Johanna Schindlera, sedláka v Bělotíně († před III 1822). Matka Johanna Zettelmanna (*10. 3. 1822).",
-        "KANDIDÁT: Andreas Schindler, sedlák v Bělotíně (kmotr 1822), může být její bratr."
+        "KANDIDÁT: Andreas Schindler, sedlák v Bělotíně (kmotr 1822), může být její bratr.",
+        "KANDIDÁT syna: Franz Zettelmann, mistr tkadlec v Bělotíně, † 8. 5. 1854 č. 49, 44 let (→ *~1810) – zřejmě syn Andrease a Alžběty, bratr Johanna (*1822); nedoloženo křtem."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 64, snímek 33 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 64, snímek 33 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, Z 1814–1862 (sign. L II 16), fol. 165, snímek 83 vpravo (15. 5. 1855) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1822_N_Johann_Zettelmann_Belotin_pag64.jpg","t":"Křest Johanna Zettelmanna, Bělotín 10. 3. 1822"}
+        {"f":"img/1822_N_Johann_Zettelmann_Belotin_pag64.jpg","t":"Křest Johanna Zettelmanna, Bělotín 10. 3. 1822"},
+        {"f":"img/1855_Z_Zettelmannova_Alzbeta_Belotin49.jpg","t":"Úmrtí Alžběty Zettelmannové, vdovy po Andreasovi, Bělotín č. 49, 15. 5. 1855 (76 let)"}
       ]
     },
     {
@@ -8798,13 +8808,14 @@ window.RODOKMEN = {
       maiden: "Lacinová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true,"place":"Veřovice"},
+      b: {"date":"neznámé (odhad ~1774)","year":1774,"approx":true,"place":"Veřovice"},
+      d: {"date":"3. 8. 1844","year":1844,"place":"Veřovice č. p. 145"},
       father: "josef_zg",
       spouse: "jiri_pi",
       marriage: "8. 1. 1797, Veřovice – s Georgem Pitrem",
       notes: [
         "Dcera Josefa Laciny (Laczÿna), domkáře ve Veřovicích č. 69; oddána 8. 1. 1797 s Georgem Pitrem, 22 let (→ *~1775), s dispenzí pro pokrevenství 2./3. stupně (Pitrové a Lacinové tedy byli příbuzní – K). Matka Marianny (*1814) a babička Moniky (křest 1845).",
-        "V roce 1834 ovdověla; do konce 1840 ve Veřovicích nezemřela (rejstřík Z).",
+        "V roce 1834 ovdověla; zemřela 3. 8. 1844 (pohřbena 5. 8., lokalista Johann Wanick) ve Veřovicích č. 145 jako „Rosina, Häuslers Witwe nach Georg Pitter allhier“, 70 let, sešlost věkem (M; → *~1774, sedí s 22 lety při sňatku 1797). Jiné Rosiny Pitrovy † 1844 (č. 115, č. 29) a 1847 (č. 184) vyloučeny podle domu.",
         "OPRAVA čtení příjmení (12. 10. 2026): dřívější „Ziegner / Zugner / Lützner (?)“ bylo chybné čtení kurentu – v oddacím zápisu 1797 stojí „des Joseph Laczÿna, Häuslers Tochter“, v křtu 1808 „nach Joseph Lu=czÿna“; rejstříky N i Z fary Veřovice 1784–1840 znají pod písmenem L jen početný rod Lacina (č. d. 2, 6, 28, 30, 41, 49, 50, 62, 63, 69) a žádného Ziegnera/Lütznera. Rozhodnuto podle srovnání výřezů 1797 (O), 1829 (Z, „Johann Laczÿna“) a rejstříku."
       ],
       sources: [
@@ -8812,13 +8823,15 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1825 (sign. NJ XIV 1), fol. 203, snímek 101 vpravo (27. 9. 1814) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), fol. 120, snímek 59 vlevo (XII 1812); rejstřík sn. 133 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), rejstřík písm. L, snímek 127–128 vpravo; N 1784–1807 (sign. NJ XIV 1), rejstřík písm. L, snímek 153 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), rejstřík písm. L, snímek 127–128 vpravo; N 1784–1807 (sign. NJ XIV 1), rejstřík písm. L, snímek 153 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1841–1882 (sign. NJ XIV 6), pag. 19, snímek 10 vpravo (3. 8. 1844); rejstřík P sn. 139 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Lacinové, Veřovice č. 69, 8. 1. 1797"},
         {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"},
         {"f":"img/1814_N_Pitrova_Marianna_Verovice145.jpg","t":"Křest dcery Marianny, Veřovice č. 145, 27. 9. 1814"},
-        {"f":"img/1812_Z_Pitrova_Marianna_Verovice145.jpg","t":"Úmrtí dcery Marianny (*1808), Veřovice XII 1812"}
+        {"f":"img/1812_Z_Pitrova_Marianna_Verovice145.jpg","t":"Úmrtí dcery Marianny (*1808), Veřovice XII 1812"},
+        {"f":"img/1844_Z_Pitrova_Rosina_Verovice145.jpg","t":"Úmrtí Rosiny Pitrové, vdovy po Georgovi, Veřovice č. 145, 3. 8. 1844 (70 let)"}
       ]
     },
     {
