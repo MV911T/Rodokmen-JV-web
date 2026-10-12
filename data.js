@@ -8361,20 +8361,23 @@ window.RODOKMEN = {
       maiden: "Laresová (Lares)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1799)","year":1799,"approx":true,"place":"Životice (Seitendorf)"},
+      b: {"date":"26. 1. 1799","year":1799,"place":"Životice (Seitendorf) č. p. 79"},
       father: "josef_lr",
       mother: "elisabeth_st",
       spouse: "anton_bs",
       marriage: "12. 11. 1833, Životice – s Antonem Blaschkem",
       notes: [
-        "Dcera Josefa Laresa, domkáře v Životicích č. 79, a Alžběty roz. Starke (dcery Matouše, sedláka v Životicích); oddána 12. 11. 1833, 34 let (? – čti i 24) → *~1799 (?). Matka Antonína (*1838)."
+        "Pokřtěna 26. 1. 1799 v Životicích č. 79 (farář Carl Bayer): otec Josef Lares, domkář, matka Alžběta, dcera Matouše Starkeho, sedláka; kmotři Martin Stitz (?), sedlák, a Kateřina, manželka Matouše Starkeho (?); porodní bába Anna Maria Königová (č. 27). Bratr Georg (IV 1796).",
+        "Oddána 12. 11. 1833 v Životicích s kovářem Antonem Blaschkem, 34 let (věk sedí s křtem). Matka Antonína (*1838)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), fol. 49, snímek 26 vpravo (26. 1. 1799) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1799_N_Lares_Anna_Zivotice79.jpg","t":"Křest Anny Laresové, Životice č. 79, 26. 1. 1799"},
         {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"},
         {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"},
         {"f":"img/1838_N_Blaschke_Anton_Zivotice100.jpg","t":"Křest Antonína Blažka (Blaschke), Životice č. 100, 7. 10. 1838"}
@@ -8782,18 +8785,23 @@ window.RODOKMEN = {
       name: "Josef Lares",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      b: {"date":"neznámé (odhad ~1757)","year":1757,"approx":true},
+      father: "wenzel_lr",
       spouse: "elisabeth_st",
+      marriage: "25. 11. 1787, Životice č. 79 – s Alžbětou Starkeovou",
       notes: [
-        "Domkář v Životicích (Seitendorf) č. 79; otec Anny Blaschkeové (sňatek 1833, křest vnuka 1838)."
+        "Oddán 25. 11. 1787 v Životicích (č. 79, oddával kooperátor) jako „Joseph, nach dem verstorbenen Wenzel Lares, Bauers Sohn“, 30 let (→ *~1757), svobodný, s Alžbětou, dcerou Matouše Starkeho, sedláka, 19 let; svědci Matouš Grössl (?) a Martin Görig (?), domkáři.",
+        "Domkář v Životicích č. 79; děti Georg (IV 1796), Anna (26. 1. 1799)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 3 vlevo (25. 11. 1787) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), fol. 49, snímek 26 vpravo (26. 1. 1799) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"},
-        {"f":"img/1838_N_Blaschke_Anton_Zivotice100.jpg","t":"Křest Antonína Blažka (Blaschke), Životice č. 100, 7. 10. 1838"}
+        {"f":"img/1787_O_Lares_Joseph_Starke_Elisabeth_Zivotice79.jpg","t":"Sňatek Josefa Laresa a Alžběty Starkeové, Životice č. 79, 25. 11. 1787"},
+        {"f":"img/1799_N_Lares_Anna_Zivotice79.jpg","t":"Křest Anny Laresové, Životice č. 79, 26. 1. 1799"}
       ]
     },
     {
@@ -8802,18 +8810,57 @@ window.RODOKMEN = {
       maiden: "Starke",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      b: {"date":"neznámé (odhad ~1768)","year":1768,"approx":true},
+      father: "mathes_st",
       spouse: "josef_lr",
+      marriage: "25. 11. 1787, Životice – s Josefem Laresem",
       notes: [
-        "Dcera Matouše Starkeho, sedláka v Životicích; manželka Josefa Laresa; matka Anny (sňatek 1833, křest vnuka 1838)."
+        "Dcera Matouše Starkeho, sedláka v Životicích; oddána 25. 11. 1787 s Josefem Laresem, 19 let (→ *~1768). Matka Georga (1796) a Anny (1799)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 3 vlevo (25. 11. 1787) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), fol. 49, snímek 26 vpravo (26. 1. 1799) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"},
-        {"f":"img/1838_N_Blaschke_Anton_Zivotice100.jpg","t":"Křest Antonína Blažka (Blaschke), Životice č. 100, 7. 10. 1838"}
+        {"f":"img/1787_O_Lares_Joseph_Starke_Elisabeth_Zivotice79.jpg","t":"Sňatek Josefa Laresa a Alžběty Starkeové, Životice č. 79, 25. 11. 1787"},
+        {"f":"img/1799_N_Lares_Anna_Zivotice79.jpg","t":"Křest Anny Laresové, Životice č. 79, 26. 1. 1799"}
+      ]
+    },
+    {
+      id: "wenzel_lr",
+      name: "Václav (Wenzel) Lares",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      d: {"date":"před 25. 11. 1787","year":1787,"approx":true},
+      notes: [
+        "Sedlák v Životicích; při sňatku syna Josefa 25. 11. 1787 už nebožtík."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 3 vlevo (25. 11. 1787) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1787_O_Lares_Joseph_Starke_Elisabeth_Zivotice79.jpg","t":"Sňatek Josefa Laresa a Alžběty Starkeové, Životice č. 79, 25. 11. 1787"}
+      ]
+    },
+    {
+      id: "mathes_st",
+      name: "Matouš Starke",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      notes: [
+        "Sedlák v Životicích; otec Alžběty Laresové (sňatek 1787, křest vnučky 1799). Manželka Kateřina (?) – kmotra 1799."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 3 vlevo (25. 11. 1787) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), fol. 49, snímek 26 vpravo (26. 1. 1799) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1787_O_Lares_Joseph_Starke_Elisabeth_Zivotice79.jpg","t":"Sňatek Josefa Laresa a Alžběty Starkeové, Životice č. 79, 25. 11. 1787"},
+        {"f":"img/1799_N_Lares_Anna_Zivotice79.jpg","t":"Křest Anny Laresové, Životice č. 79, 26. 1. 1799"}
       ]
     }
   ]
