@@ -34,6 +34,7 @@ window.RODOKMEN_GAZ = [
   { n: 'Mladá Boleslav', a: ['Mladá Boleslav'], lat: 50.411, lon: 14.906 },
   { n: 'Kolín', a: ['Kolín'], lat: 50.028, lon: 15.2 },
   { n: 'Býkoš', a: ['Býkoš'], lat: 49.88, lon: 14.06 },
+  { n: 'Lounín', a: ['Lounín', 'Launin'], lat: 49.902, lon: 14.045 },
   { n: 'Sýkořice', a: ['Sýkořice'], lat: 50.03, lon: 13.93 },
   // Vysočina: Votava origins (positions ±3 km, to be verified)
   { n: 'Pravonín', a: ['Pravonín'], lat: 49.635, lon: 14.945 },
