@@ -4954,7 +4954,8 @@ window.RODOKMEN = {
         {"f":"img/1846_N_Franz_Zettelmann_Belotin_fol265.jpg","t":"Křest syna Františka, Bělotín 1846"},
         {"f":"img/1844_O_Johann_Zettelmann_Anna_Michalek_Belotin_fol116.jpg","t":"Sňatek Johanna Zettelmanna a Anny Michalkové, Bělotín 6. 8. 1844"},
         {"f":"img/1822_N_Johann_Zettelmann_Belotin_pag64.jpg","t":"Křest Johanna Zettelmanna, Bělotín 10. 3. 1822"},
-        {"f":"img/1869_Z_Zettelmann_Johann_Belotin.jpg","t":"Úmrtí Johanna Zettelmanna, Bělotín č. 149, 16. 7. 1869"}
+        {"f":"img/1869_Z_Zettelmann_Johann_Belotin.jpg","t":"Úmrtí Johanna Zettelmanna, Bělotín č. 149, 16. 7. 1869"},
+        {"f":"img/1848_Z_Zettelmann_Andreas_Belotin49.jpg","t":"Úmrtí otce Andrease, Bělotín 1848"}
       ]
     },
     {
@@ -7359,20 +7360,24 @@ window.RODOKMEN = {
       name: "Andreas Zettelmann",
       line: "zettelmann",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (asi 1779/1780)","year":1780,"approx":true},
+      d: {"date":"13. 1. 1848","year":1848,"place":"Bělotín (Bölten) č. p. 49"},
+      cause: "nervová horečka (Nervenfieber)",
       spouse: "elisabeth_sch",
       occ: "domkář v Bělotíně",
       notes: [
         "Domkář v Bělotíně (č. 149 v r. 1822). Otec Johanna Zettelmanna (*1822); při synově sňatku 1844 dal souhlas, žil.",
         "KANDIDÁT: porodní bába Alžběta Zettelmannová (1822, 1846) je nejspíš jeho manželka.",
-        "V červenci 1869 už nežil (úmrtí syna Johanna: „Sohn nach † Andreas Zettelmann“). Sňatek s Alžbětou Schindlerovou ve faře Bělotín 1784–~1825 není (ženil se jinde).",
-        "Úmrtí v L II 20 (Bělotín Z) III 1863 – V 1869 nenalezeno (Opava 14); zbývá 1844–1862 (L II 16 sn. ~58–100, rejstřík L II 18)."
+        "Sňatek s Alžbětou Schindlerovou ve faře Bělotín 1784–~1825 není (ženil se jinde).",
+        "Zemřel 13. 1. 1848 (pohřben 15. 1.) v Bělotíně č. 49 jako výměnkář (Ausgedinger), 68 let (→ *~1779/80), na nervovou horečku; zaopatřil a pohřbil kooperátor Franz Brossmann. Jediný Andreas Zettelmann v rejstříku zemřelých Bělotín 1784–1851. Č. 49 je i dům porodní báby Elisabeth Zettelmann (1846) – nejspíš jeho manželky (K)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 64, snímek 33 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 64, snímek 33 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, Z 1814–1862 (sign. L II 16), Böltner Sterbregister fol. 136, snímek 69 vlevo (13. 1. 1848); rejstřík L II 18 sn. 195 – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1848_Z_Zettelmann_Andreas_Belotin49.jpg","t":"Úmrtí Andrease Zettelmanna, Bělotín č. 49, 13. 1. 1848"},
         {"f":"img/1844_O_Johann_Zettelmann_Anna_Michalek_Belotin_fol116.jpg","t":"Sňatek Johanna Zettelmanna a Anny Michalkové, Bělotín 6. 8. 1844"},
         {"f":"img/1822_N_Johann_Zettelmann_Belotin_pag64.jpg","t":"Křest Johanna Zettelmanna, Bělotín 10. 3. 1822"},
         {"f":"img/1869_Z_Zettelmann_Johann_Belotin.jpg","t":"Úmrtí Johanna Zettelmanna, Bělotín č. 149, 16. 7. 1869"}
