@@ -4058,6 +4058,7 @@ window.RODOKMEN = {
       line: "pitr",
       cert: "M",
       b: {"date":"neznámé (odhad ~1774)","year":1774,"approx":true,"place":"Veřovice"},
+      d: {"date":"19. 6. 1834","year":1834,"place":"Veřovice č. p. 145"},
       father: "josef_pt",
       spouse: "rosina_zu",
       occ: "domkař ve Veřovicích",
@@ -4065,7 +4066,8 @@ window.RODOKMEN = {
       notes: [
         "Oddán 8. 1. 1797 ve Veřovicích č. 69 (lokální kaplan Josef Hikel ?): „Georg, des Joseph Pitter, Ausgedingers Sohn“, 23 let (→ *~1774), svobodný, s Rosinou, dcerou Josefa Ziegnera (?) / Zugnera (?), domkáře, 22 let; svědci † Johann Pitter, zahradník, a † Johann Mazzurek (?), domkář. „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – snoubenci byli pokrevně příbuzní (2./3. stupeň).",
         "Chalupník / domkář ve Veřovicích č. 145 (1801–1817); otec Marianny (křest vnučky Moniky 1845) a nejspíš Johanna (*~1798; Georg dal souhlas k jeho sňatku 19. 8. 1821). Jiný sňatek Georga Pitra ve Veřovicích 1784 – V 1828 není.",
-        "„Anna roz. Černochová“ (N 1874) je matkou Roziny Bartoňové – pokud jde o manželku Jiřího Pitra, pak jiného Jiřího nebo 2. manželství po 1828 (K)."
+        "„Anna roz. Černochová“ (N 1874) je matkou Roziny Bartoňové – pokud jde o manželku Jiřího Pitra, pak jiného Jiřího nebo 2. manželství po 1828 (K).",
+        "Zemřel 19. 6. 1834 (pohřben 21. 6.) ve Veřovicích č. 145 jako domkář, uvedeno 81 let, na „Brust-…“ (nemoc hrudi). ROZPOR věku: podle sňatku 1797 (23 let) mu bylo ~60 – věk v úmrtí je zjevně chybný. Vyloučeni jiní Georgové Pitrové († 1832 č. 171, 44 let; † 1839 č. 151, 71 let)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
@@ -4073,13 +4075,15 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1825 (sign. NJ XIV 1), fol. 203, snímek 101 vpravo (27. 9. 1814) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), fol. 120, snímek 59 vlevo (XII 1812); rejstřík sn. 133 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), fol. 120, snímek 59 vlevo (XII 1812); rejstřík sn. 133 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), pag. 197, snímek 97 vpravo (19. 6. 1834)"
       ],
       scans: [
         {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Ziegnerové (?), Veřovice č. 69, 8. 1. 1797"},
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek) (dítě: Monika Blažková) (dítě: Marianna Pitrová)"},
         {"f":"img/1814_N_Pitrova_Marianna_Verovice145.jpg","t":"Křest dcery Marianny, Veřovice č. 145, 27. 9. 1814"},
-        {"f":"img/1812_Z_Pitrova_Marianna_Verovice145.jpg","t":"Úmrtí dcery Marianny (*1808), Veřovice XII 1812"}
+        {"f":"img/1812_Z_Pitrova_Marianna_Verovice145.jpg","t":"Úmrtí dcery Marianny (*1808), Veřovice XII 1812"},
+        {"f":"img/1834_Z_Pitr_Georg_Verovice145.jpg","t":"Úmrtí Georga Pitra, domkáře, Veřovice č. 145, 19. 6. 1834"}
       ]
     },
     {
@@ -8750,7 +8754,7 @@ window.RODOKMEN = {
     {
       id: "rosina_zu",
       name: "Rosina Pitrová",
-      maiden: "Ziegner (?) / Zugner (?)",
+      maiden: "Lützner / Ziegner (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true,"place":"Veřovice"},
@@ -8758,7 +8762,8 @@ window.RODOKMEN = {
       spouse: "jiri_pi",
       marriage: "8. 1. 1797, Veřovice – s Georgem Pitrem",
       notes: [
-        "Dcera Josefa Ziegnera (?) / Zugnera (?), domkáře ve Veřovicích; oddána 8. 1. 1797 s Georgem Pitrem, 22 let (→ *~1775), s dispenzí pro pokrevenství 2./3. stupně. Matka Marianny (křest vnučky Moniky 1845). Příjmení: 1797 „Ziegner (?)“, 1845 „Zugner / Ziegner (?)“."
+        "Dcera Josefa Ziegnera (?) / Zugnera (?), domkáře ve Veřovicích; oddána 8. 1. 1797 s Georgem Pitrem, 22 let (→ *~1775), s dispenzí pro pokrevenství 2./3. stupně. Matka Marianny (křest vnučky Moniky 1845). Příjmení: 1797 „Ziegner (?)“, 1845 „Zugner / Ziegner (?)“.",
+        "V roce 1834 ovdověla; do konce 1840 ve Veřovicích nezemřela (rejstřík Z)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
@@ -8925,31 +8930,40 @@ window.RODOKMEN = {
       name: "Josef Pitr (Pitter)",
       line: "pitr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      b: {"date":"neznámé (asi 1725)","year":1725,"approx":true},
+      d: {"date":"15. 4. 1805","year":1805,"place":"Veřovice č. p. 29"},
       notes: [
-        "Výměnkář (Ausgedinger) ve Veřovicích; otec Georga Pitra (sňatek syna 8. 1. 1797, č. 69)."
+        "Výměnkář (Ausgedinger) ve Veřovicích; otec Georga Pitra (sňatek syna 8. 1. 1797, č. 69).",
+        "Zemřel 15. 4. 1805 ve Veřovicích č. 29 jako výměnkář, 80 let (→ *~1725), na hektiku; zaopatřil a pohřbil Johann Pilatschke (?), (evangelický ?) farář z Hodslavic – snad evangelík. Ztotožnění D: jediný Josef Pitr výměnkář v rejstříku 1784–1807.",
+        "KANDIDÁTKA manželky: Juliana, manželka Josefa Pitra, výměnkáře, č. 29, † 16. 2. 1801, 68 (?) let (sn. 42) – snad matka Georga."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), pag. 100, snímek 49 vlevo (15. 4. 1805)"
       ],
       scans: [
-        {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Ziegnerové (?), Veřovice č. 69, 8. 1. 1797"}
+        {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Ziegnerové (?), Veřovice č. 69, 8. 1. 1797"},
+        {"f":"img/1805_Z_Pitr_Josef_Lutzner_Josef_Verovice.jpg","t":"Úmrtí Josefa Lütznera (?) (č. 69) a Josefa Pitra, výměnkáře (č. 29), Veřovice 1805"}
       ]
     },
     {
       id: "josef_zg",
-      name: "Josef Ziegner (?)",
+      name: "Josef Lützner / Ziegner (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      b: {"date":"neznámé (asi 1725)","year":1725,"approx":true},
+      d: {"date":"21. 1. 1805","year":1805,"place":"Veřovice č. p. 69"},
       notes: [
-        "Domkář ve Veřovicích; otec Rosiny Pitrové (sňatek 1797, křest pravnučky Moniky 1845). Příjmení Ziegner / Zugner (?) – rodina Zugner ve Veřovicích doložena (Josef, domkář č. 69, ~1818)."
+        "Domkář ve Veřovicích č. 69; otec Rosiny Pitrové (sňatek 1797 v č. 69; v křtech vnoučat 1814 a 1817 „+ Joseph“).",
+        "Zemřel 21. 1. 1805 ve Veřovicích č. 69 jako „Joseph Lützner (?), Häusler“, 80 let (→ *~1725), na vodnatelnost hrudi (ztotožnění D – dům č. 69). ROZPOR příjmení: 1797 „Ziegner (?)“, 1808–1817 „Zuczner (?)“, 1805 „Lützner (?)“; 1829 zemřel Johann Luczner (?), domkář č. 6 – snad Lutzner / Lucner."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), pag. 100, snímek 49 vlevo (21. 1. 1805)"
       ],
       scans: [
-        {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Ziegnerové (?), Veřovice č. 69, 8. 1. 1797"}
+        {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Ziegnerové (?), Veřovice č. 69, 8. 1. 1797"},
+        {"f":"img/1805_Z_Pitr_Josef_Lutzner_Josef_Verovice.jpg","t":"Úmrtí Josefa Lütznera (?) (č. 69) a Josefa Pitra, výměnkáře (č. 29), Veřovice 1805"}
       ]
     }
   ]
