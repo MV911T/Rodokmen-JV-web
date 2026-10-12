@@ -4756,7 +4756,7 @@ window.RODOKMEN = {
       spouse: "frantisek_z0",
       marriage: "7. 10. 1879, Polom – s Františkem Zettelmannem",
       notes: [
-        "Pokřtěna (nar. 21. 4. 1860) v Polomi č. 31: otec Franz Anders, domkář v Polomi; matka Beata, dcera Josefa (?) Stanzela, sedláka v Polomi, a Magdaleny roz. Klose (dříve chybně čteno „Lucie Wenzel“); kmotři Johann Schmid a Ludmila, manželka Franze Wenzela.",
+        "Pokřtěna (nar. 21. 4. 1860) v Polomi č. 31: otec Franz Anders, domkář v Polomi; matka Beata, dcera „Josefa“ (správně Franze) Stanzela, sedláka v Polomi, a Magdaleny roz. Klose (dříve chybně čteno „Lucie Wenzel“); kmotři Johann Schmid a Ludmila, manželka Franze Wenzela.",
         "Při sňatku 1879 19 let, nezletilá (souhlas otce). Příjmení matky: Stanzel (1859, 1860, 1879; „Kunzel“ 1884).",
         "ROZPOR: oddací zápis vnuka (Veřovice 1930) ji uvádí jako „Magdalenu Pohlovou“ – záměna místa původu (Pohl = Polom) za příjmení; platí křest dcery 1884 a sňatek 1879."
       ],
@@ -7365,7 +7365,8 @@ window.RODOKMEN = {
       notes: [
         "Domkář v Bělotíně (č. 149 v r. 1822). Otec Johanna Zettelmanna (*1822); při synově sňatku 1844 dal souhlas, žil.",
         "KANDIDÁT: porodní bába Alžběta Zettelmannová (1822, 1846) je nejspíš jeho manželka.",
-        "V červenci 1869 už nežil (úmrtí syna Johanna: „Sohn nach † Andreas Zettelmann“). Sňatek s Alžbětou Schindlerovou ve faře Bělotín 1784–~1825 není (ženil se jinde)."
+        "V červenci 1869 už nežil (úmrtí syna Johanna: „Sohn nach † Andreas Zettelmann“). Sňatek s Alžbětou Schindlerovou ve faře Bělotín 1784–~1825 není (ženil se jinde).",
+        "Úmrtí v L II 20 (Bělotín Z) III 1863 – V 1869 nenalezeno (Opava 14); zbývá 1844–1862 (L II 16 sn. ~58–100, rejstřík L II 18)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
@@ -8256,20 +8257,23 @@ window.RODOKMEN = {
       maiden: "Stanzlová (Stanzel)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1842)","year":1842,"approx":true,"place":"Polom (Pohl)"},
+      b: {"date":"22. 1. 1843","year":1843,"place":"Polom (Pohl) č. p. 48"},
       father: "josef_we",
       mother: "magdalena_kl",
       spouse: "franz_an",
       marriage: "25. 10. 1859, Polom – s Franzem Andersem",
       notes: [
-        "Dcera Franze Stanzela, sedláka v Polomi, a Magdaleny roz. Klösel (Klose), dcery Georga, sedláka v Polomi; oddána 25. 10. 1859 v Polomi č. 31 s Franzem Andersem, 17 let (→ *~1842; odkaz na křest „IV/113“). Bratr Franz Stanzel (× 8. 11. 1859).",
-        "OPRAVA: dřívější čtení „Lucie, dcera Josefa Wenzela“ (křest dcery 1860) bylo chybné – zápis zní „Beata, Tochter des Josef (?) Stanzel“. Shoduje se s „Stanzel“ (1879) a „Kunzel“ (1884). ROZPOR: otec v sňatku 1859 Franz, v křtu dcery 1860 Josef – rozhodne křest Beaty (~1842, Polom, kniha IV pag. 113)."
+        "Narozena a pokřtěna 22. 1. 1843 v Polomi č. 48: otec Franz Stanzel, sedlák z Polomi, matka Magdalena, dcera † Georga Klösela, sedláka z Polomi; kmotři Terezie, manželka Matyáše (?) Stanzela, a Josef Reiner, sedlák z Polomi (týž byl svědkem na její svatbě 1859).",
+        "Oddána 25. 10. 1859 v Polomi č. 31 s Franzem Andersem, 17 let (poručenské povolení). Bratr Franz Stanzel (× 8. 11. 1859).",
+        "OPRAVA: dřívější čtení „Lucie, dcera Josefa Wenzela“ (křest dcery 1860) bylo chybné – zápis zní „Beata, Tochter des Josef Stanzel“; „Josef“ je chyba zápisu 1860, platí Franz (křest 1843 i sňatek 1859)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, N 1814–1846 (sign. L II 7), oddíl Pohl, fol. 119, snímek 229 vpravo (22. 1. 1843) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1843_N_Stanzel_Beata_Polom48.jpg","t":"Křest Beaty Stanzlové, Polom č. 48, 22. 1. 1843"},
         {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"},
         {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"}
       ]
@@ -8282,14 +8286,16 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
       spouse: "magdalena_kl",
       notes: [
-        "Sedlák v Polomi (Pohl); otec Beaty Andersové (sňatek 1859: „Franz Stanzel, Bauer in Pohl“) a Franze (× 8. 11. 1859). ROZPOR: v křtu vnučky 1860 jako „Josef“ – platí sňatek dcery, ověřit křtem Beaty.",
+        "Sedlák v Polomi (Pohl); manželka Magdalena roz. Klösel; děti Beata (*22. 1. 1843, č. 48) a Franz (× 8. 11. 1859). Jméno Franz potvrzeno křtem Beaty 1843 a jejím sňatkem 1859 („Josef“ v křtu vnučky 1860 je chyba).",
         "OPRAVA: dříve veden jako „Josef Wenzel“ (chybné čtení)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, N 1814–1846 (sign. L II 7), oddíl Pohl, fol. 119, snímek 229 vpravo (22. 1. 1843) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1843_N_Stanzel_Beata_Polom48.jpg","t":"Křest Beaty Stanzlové, Polom č. 48, 22. 1. 1843"},
         {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"},
         {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"}
       ]
@@ -8303,14 +8309,16 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
       spouse: "josef_we",
       notes: [
-        "Dcera Georga Klösela (Klose), sedláka v Polomi (sňatek dcery Beaty 1859, křest vnučky 1860); manželka Franze Stanzela. (Dřívější „dcera Franze Klose“ – chybné.)"
+        "Dcera † Georga Klösela (Klose), sedláka v Polomi (křest dcery Beaty 1843, její sňatek 1859); manželka Franze Stanzela."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, N 1814–1846 (sign. L II 7), oddíl Pohl, fol. 119, snímek 229 vpravo (22. 1. 1843) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"}
+        {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"},
+        {"f":"img/1843_N_Stanzel_Beata_Polom48.jpg","t":"Křest Beaty Stanzlové, Polom č. 48, 22. 1. 1843"}
       ]
     },
     {
