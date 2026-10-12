@@ -1894,7 +1894,8 @@ window.RODOKMEN = {
         {"f":"img/1791_N_Skalova_Veronika_Vinarice.jpg","t":"Křest Veroniky Skálové, Vinařice, 20. 8. 1791 (otec Jiří Skála, matka Eva roz. Kliková)"},
         {"f":"img/1811_O_Cervenka_Jakub_Skalova_Veronika_Vinarice28.jpg","t":"Sňatek Jakuba Červenky a Veroniky Skálové, Vinařice č. 28, 24. 2. 1811"},
         {"f":"img/1770_O_Skala_Jiri_Klikova_Eva_Borek.jpg","t":"Sňatek Jiřího Skály z Lounína s Evou Klikovou z Býkoše, Borek, 16. 9. 1770"},
-        {"f":"img/1781_N_Skala_Jan_Vinarice28.jpg","t":"Křest Jana Skály, Vinařice č. 28, 21. 5. 1781 (otec Jiří Skála, matka Eva)"}
+        {"f":"img/1781_N_Skala_Jan_Vinarice28.jpg","t":"Křest Jana Skály, Vinařice č. 28, 21. 5. 1781 (otec Jiří Skála, matka Eva)"},
+        {"f":"img/1760_Z_Skala_Jiri_st_Lounin_Tman.jpg","t":"Úmrtí otce Jiřího Skály st., Lounín, 16. 1. 1760"}
       ]
     },
     {
@@ -9083,20 +9084,25 @@ window.RODOKMEN = {
       name: "Jiří Skála",
       line: "skala",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
-      d: {"date":"před 16. 9. 1770","year":1770,"approx":true},
+      b: {"date":"neznámé (odhad ~1703)","year":1703,"approx":true},
+      d: {"date":"16. 1. 1760","year":1760,"place":"Lounín (fara Tmaň)"},
+      cause: "„infirmitas hemoroidica“",
       spouse: "veronika_sk",
       occ: "Lounín (panství Tmaň)",
       notes: [
-        "Z Lounína, 1751 poddaný panství Tmaň („subditi Dominio Tmanensi“; syn 1770 „Suchomastium subditus“ – Lounín patřil k oběma panstvím ?); manželka Veronika. Otec Jiřího Skály (*1. 2. 1751), který se 16. 9. 1770 v Borku oženil s Evou Klikovou („filius post defunctum Georgium Skala ex pago Launin“). Kmotr dětí Jakuba Staňka z Lounína 14. 11. 1750 a 1752/53 (Tmaň 02 sn. 38 vpravo, 44 vlevo) → žil ještě 1752/53; zemřel před IX 1770. Sňatek, křest a úmrtí zatím nehledány (Tmaň 02 O sn. ~165–190, Z sn. ~223–251; před 1728 Tmaň 01, Borek 02)."
+        "Z Lounína, 1751 poddaný panství Tmaň („subditi Dominio Tmanensi“; syn 1770 „Suchomastium subditus“ – Lounín patřil k oběma panstvím ?); manželka Veronika. Otec Jiřího Skály (*1. 2. 1751), který se 16. 9. 1770 v Borku oženil s Evou Klikovou („filius post defunctum Georgium Skala ex pago Launin“). Kmotr dětí Jakuba Staňka z Lounína 14. 11. 1750 a 1752/53 (Tmaň 02 sn. 38 vpravo, 44 vlevo) → žil ještě 1752/53. Zemřel 16. 1. 1760 v Louníně, zaopatřen svátostmi, „in infirmitate hemoroidica“, pohřben u sv. Jiří v Tmani, „aetatis circiter 57“ (→ *~1703) – M zápis, ztotožnění D (jediný Skála v lounínských úmrtích 1753–1760). Sňatek s Veronikou (~1725–50, Tmaň 02 O sn. 160–169) a křest (~1703, Tmaň 01) zatím nehledány.",
+        "KANDIDÁT dalšího syna: Václav Skála z Lounína, „honestus juvenis“, × 20. 11. 1753 Tmaň (Tmaň 02 O sn. 170 vpravo, p. 179; nevěsta nedočtena) – snad starší bratr Jiřího (*1751)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), O, oddíl Býkoš, str. 87, snímek 234 vpravo (16. 9. 1770); rejstřík O sn. 242 vpravo – https://ebadatelna.soapraha.cz/d/4072/234",
-        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456, N/O/Z 1728–1784), N, oddíl Lounín, snímek 39 vlevo (1. 2. 1751) – https://ebadatelna.soapraha.cz/d/10456/39"
+        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456, N/O/Z 1728–1784), N, oddíl Lounín, snímek 39 vlevo (1. 2. 1751) – https://ebadatelna.soapraha.cz/d/10456/39",
+        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), Z, oddíl Lounín, snímek 234 vpravo (16. 1. 1760) – https://ebadatelna.soapraha.cz/d/10456/234",
+        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), O, p. 179, snímek 170 vpravo (20. 11. 1753, Václav Skála) – https://ebadatelna.soapraha.cz/d/10456/170"
       ],
       scans: [
         {"f":"img/1770_O_Skala_Jiri_Klikova_Eva_Borek.jpg","t":"Sňatek Jiřího Skály z Lounína s Evou Klikovou z Býkoše, Borek, 16. 9. 1770"},
-        {"f":"img/1751_N_Skala_Jiri_Lounin_Tman.jpg","t":"Křest Jiřího Skály z Lounína, Tmaň, 1. 2. 1751 (otec Jiří Skála, matka Veronika)"}
+        {"f":"img/1751_N_Skala_Jiri_Lounin_Tman.jpg","t":"Křest Jiřího Skály z Lounína, Tmaň, 1. 2. 1751 (otec Jiří Skála, matka Veronika)"},
+        {"f":"img/1760_Z_Skala_Jiri_st_Lounin_Tman.jpg","t":"Úmrtí Jiřího Skály st. z Lounína, Tmaň, 16. 1. 1760 (~57 let)"}
       ]
     },
     {
@@ -9109,12 +9115,13 @@ window.RODOKMEN = {
       occ: "sedlák v Býkoši",
       notes: [
         "Z Býkoše, sedlák, poddaný suchomastský; otec Evy, provdané 16. 9. 1770 za Jiřího Skálu („propria filia Wenceslai Klika ex pago Bikosch“, M). Děti s Kateřinou (Borek 03 N): Jan 12. 9. 1748, Lidmila 25./26. 12. 1749 (× 24. 10. 1769), Kateřina 5. 7. 1751, Anna 5. 5. 1752. Doložen 1767, 1769, 1787.",
-        "ROZPOR / KANDIDÁT: od r. 1753 je v Býkoši psán „Stanislav Klika × Kateřina“ (Eva 10. 12. 1753, Marie Magdalena 1757, Kateřina 1759; svědek 1761) se stejnými kmotry – nejspíš týž muž (písař zaměňuje jméno), nedoloženo; Stanislav Klika v úmrtích Borek 1748–73 není. Vztah k Janu Klikovi (č. 10) a Matějovi nedoložen."
+        "ROZPOR / KANDIDÁT: od r. 1753 je v Býkoši psán „Stanislav Klika × Kateřina“ (Eva 10. 12. 1753, Marie Magdalena 1757, Kateřina 1759; svědek 1761) se stejnými kmotry. Ve faře Borek 1710–1773 ale žádný Stanislav Klika nemá sňatek, křest ani úmrtí → „Stanislav“ je nejspíš písařská/alternativní podoba jména Václava (nedoloženo). Sňatky Václavů Kliků v Borku 02: 24. 8. 1728 Suchomasty × Kateřina Duchoňová; **1730 (12. 12. ?) Býkoš × Kateřina Krejčová** (družba Matěj Kolaček) – jediný Václav × Kateřina z Býkoše = KANDIDÁT rodičů Evy (Kateřina ~*1710–14, v r. 1759 45–49 let). Křty Václavů Kliků z Býkoše ~1716 a ~1743 (rejstřík N Borek 02). Vztah k Janu Klikovi (č. 10) a Matějovi (× 1748 Barbora Chvátalová) nedoložen."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), O, oddíl Býkoš, str. 87, snímek 234 vpravo (16. 9. 1770); rejstřík O sn. 242 vpravo – https://ebadatelna.soapraha.cz/d/4072/234",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), O, snímek 232 vpravo (24. 10. 1769, dcera Ludmila) – https://ebadatelna.soapraha.cz/d/4072/232",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), N, str. 4, 13, 24, 33 (1748–1752) a str. 46, 72, 87 (1753–1759, „Stanislav“); rejstřík N sn. 252–253 – https://ebadatelna.soapraha.cz/d/4072/26"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), N, str. 4, 13, 24, 33 (1748–1752) a str. 46, 72, 87 (1753–1759, „Stanislav“); rejstřík N sn. 252–253 – https://ebadatelna.soapraha.cz/d/4072/26",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 02 (4071), O, p. 19–20, snímky 12 vpravo – 13 vlevo (1728, 1730); rejstřík O sn. 26 vlevo, rejstřík N sn. 98 – https://ebadatelna.soapraha.cz/d/4071/13"
       ],
       scans: [
         {"f":"img/1770_O_Skala_Jiri_Klikova_Eva_Borek.jpg","t":"Sňatek Jiřího Skály z Lounína s Evou Klikovou z Býkoše, Borek, 16. 9. 1770"}
@@ -9146,13 +9153,15 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
       spouse: "jiri_sk_st",
       notes: [
-        "Manželka Jiřího Skály st. z Lounína (fara Tmaň); matka Jiřího (*1. 2. 1751). Rodné příjmení neznámé (sňatek v Tmaň 02 O nehledán). Kateřina Skálová z Lounína, kmotra 1754, může být příbuzná (K)."
+        "Manželka Jiřího Skály st. z Lounína (fara Tmaň); matka Jiřího (*1. 2. 1751). Rodné příjmení neznámé (sňatek v Tmaň 02 O nehledán). Kateřina Skálová z Lounína, kmotra 1754, může být příbuzná (K).",
+        "Ovdověla 16. 1. 1760; úmrtí nehledáno (Z Tmaň 02 1760–69 staženo, lounínská okna nečtena)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456, N/O/Z 1728–1784), N, oddíl Lounín, snímek 39 vlevo (1. 2. 1751) – https://ebadatelna.soapraha.cz/d/10456/39"
       ],
       scans: [
-        {"f":"img/1751_N_Skala_Jiri_Lounin_Tman.jpg","t":"Křest Jiřího Skály z Lounína, Tmaň, 1. 2. 1751 (otec Jiří Skála, matka Veronika)"}
+        {"f":"img/1751_N_Skala_Jiri_Lounin_Tman.jpg","t":"Křest Jiřího Skály z Lounína, Tmaň, 1. 2. 1751 (otec Jiří Skála, matka Veronika)"},
+        {"f":"img/1760_Z_Skala_Jiri_st_Lounin_Tman.jpg","t":"Úmrtí manžela Jiřího Skály st., Lounín, 16. 1. 1760"}
       ]
     },
     {
@@ -9164,7 +9173,8 @@ window.RODOKMEN = {
       spouse: "vaclav_kb",
       notes: [
         "Manželka Václava Kliky z Býkoše (děti 1748–1752) a – je-li to týž muž – i „Stanislava Kliky“ (děti 1753–1759 vč. Evy). Rodné příjmení neznámé (sňatek ~1745–48, Borek 02).",
-        "Vazba na Evu (× 1770 Skála) je odvozená: Eva je podle sňatku dcera Václava Kliky, jehož manželkou je 1748–1752 Kateřina; přímo ji dokládá jen kandidátní křest 1753 (D)."
+        "Vazba na Evu (× 1770 Skála) je odvozená: Eva je podle sňatku dcera Václava Kliky, jehož manželkou je 1748–1752 Kateřina; přímo ji dokládá jen kandidátní křest 1753 (D).",
+        "KANDIDÁT: Kateřina Krejčová, „poctivá děvečka“ z Býkoše, × 1730 Václav Klika (Borek 02 p. 20) – jediný sňatek Václava Kliky s Kateřinou v Býkoši 1710–1748; totožnost s matkou dětí 1748–1759 rozhodnou křty Kliků 1731–1747 (Borek 02 N)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), N, str. 4–87 (1748–1759) – https://ebadatelna.soapraha.cz/d/4072/26"
