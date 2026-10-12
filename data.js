@@ -2668,7 +2668,8 @@ window.RODOKMEN = {
       occ: "baráčník v Kosíku č. 55 (?)",
       notes: [
         "Otec Jana Ťukala (*~1845).",
-        "KANDIDÁT původu: 14. 11. 1848 se v Ohrazenicích u Turnova č. 8 (fara Přepeře, SOA Zámrsk, O 5814 sn. 107) oženil Jiří Ťůkal (24 let), syn Jana Ťůkala, chalupníka z …šina (?) č. 34 (panství Svijany), a Marie roz. Kubové (?) / Kořánové (?) z Vlastibořic č. 27, s Annou, dcerou Jana Mráze z Ohrazenic č. 8 – možná bratr Jana st. a sestra Terezie; nedoloženo. V Ohrazenicích 1834–1850 sňatek Jana × Terezie není."
+        "KANDIDÁT původu: 14. 11. 1848 se v Ohrazenicích u Turnova č. 8 (fara Přepeře, SOA Zámrsk, O 5814 sn. 107) oženil Jiří Ťůkal (24 let), syn Jana Ťůkala, chalupníka z …šina (?) č. 34 (panství Svijany), a Marie roz. … Kořánové (?) ze Soběslavic č. 27 (panství Svijany; dřívější čtení „z Vlastibořic“ chybné – přečteno znovu na výřezu), s Annou, dcerou Jana Mráze z Ohrazenic č. 8 – možná bratr Jana st. a sestra Terezie; nedoloženo. V Ohrazenicích 1834–1850 sňatek Jana × Terezie není.",
+        "SOA Litoměřice, fara Vlastibořice (Litoměřice 17–18): oddavky oddíl Vlastibořice 1800 – II 1827 a Jivina 1829 – XI 1847 bez Ťukala; křty Jivina X 1812 – III 1817 a Vlastibořice I 1824 – III 1825 bez Ťukala; dům č. 34 v Jivině kolem 1815 neexistoval → „…šina č. 34“ asi není Jivina."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
