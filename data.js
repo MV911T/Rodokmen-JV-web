@@ -8902,11 +8902,13 @@ window.RODOKMEN = {
       name: "Josef Lares",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1757)","year":1757,"approx":true},
+      b: {"date":"9. 1. 1757","year":1757,"place":"Životice (Seitendorf) u Nového Jičína"},
       father: "wenzel_lr",
+      mother: "juliana_lr",
       spouse: "elisabeth_st",
       marriage: "25. 11. 1787, Životice č. 79 – s Alžbětou Starkeovou",
       notes: [
+        "Pokřtěn 9. 1. 1757 v Životicích (kooperátor Karl Schindler): „Josephus – Wenceslaus Lares, rusticus, Julianna; patrini Wenceslaus Blaschke, rusticus, Rosina, Thomae Neisser domuncularii uxor“ (M). Jediný Josef Lares v N Životice 1754–1763; věk 30 při sňatku 1787 sedí přesně (ztotožnění D). Sourozenci: Jan (6. 5. 1746), Rosina (14. 12. 1752 ?), Matouš († II 1756 jako dítě), Anna (~1753–54, K).",
         "Oddán 25. 11. 1787 v Životicích (č. 79, oddával kooperátor) jako „Joseph, nach dem verstorbenen Wenzel Lares, Bauers Sohn“, 30 let (→ *~1757), svobodný, s Alžbětou, dcerou Matouše Starkeho, sedláka, 19 let; svědci Matouš Grössl (?) a Martin Görig (?), domkáři.",
         "Domkář v Životicích č. 79; děti Georg (IV 1796), Anna (26. 1. 1799)."
       ],
@@ -8914,9 +8916,11 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 3 vlevo (25. 11. 1787) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), fol. 49, snímek 26 vpravo (26. 1. 1799) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), fol. 49, snímek 26 vpravo (26. 1. 1799) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, N pag. 50, snímek 26 vlevo (9. 1. 1757) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1757_N_Lares_Josef_Zivotice.jpg","t":"Křest Josefa Larese, Životice, 9. 1. 1757 (otec Václav Lares, sedlák, matka Juliana)"},
         {"f":"img/1787_O_Lares_Joseph_Starke_Elisabeth_Zivotice79.jpg","t":"Sňatek Josefa Laresa a Alžběty Starkeové, Životice č. 79, 25. 11. 1787"},
         {"f":"img/1799_N_Lares_Anna_Zivotice79.jpg","t":"Křest Anny Laresové, Životice č. 79, 26. 1. 1799"}
       ]
@@ -8950,16 +8954,24 @@ window.RODOKMEN = {
       name: "Václav (Wenzel) Lares",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
       d: {"date":"před 25. 11. 1787","year":1787,"approx":true},
+      father: "georg_lr",
+      spouse: "juliana_lr",
+      marriage: "20. 11. 1740, Životice – s Julianou Ritzovou (?)",
       notes: [
-        "Sedlák v Životicích; při sňatku syna Josefa 25. 11. 1787 už nebožtík."
+        "Sedlák v Životicích. Oddán 20. 11. 1740 v Životicích: „der ehrbare Junggesell Wenzel, Georg Lares Sohn, mit der ehr- und tugendsamen Jungfer Julianna, Mathes Rÿtz (?) ehel. Tochter“; svědci Hanß Görig, Wenzel Hikel (?); „cum dispensatione in 3tio gradu consanguinitatis“ – Laresové a Ritzové byli příbuzní (M).",
+        "Děti s Julianou: Jan (1746), Rosina (1752 ?), Anna (~1753, K), Matouš († 1756), Josef (9. 1. 1757). Při sňatku syna Josefa 25. 11. 1787 už nebožtík; v Z Životice 1750–1765 nezemřel → † 1766–1787 (další kniha)."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 3 vlevo (25. 11. 1787) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 3 vlevo (25. 11. 1787) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, O pag. 83, snímek 42 vpravo (20. 11. 1740) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, N pag. 50, snímek 26 vlevo (9. 1. 1757) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1787_O_Lares_Joseph_Starke_Elisabeth_Zivotice79.jpg","t":"Sňatek Josefa Laresa a Alžběty Starkeové, Životice č. 79, 25. 11. 1787"}
+        {"f":"img/1787_O_Lares_Joseph_Starke_Elisabeth_Zivotice79.jpg","t":"Sňatek Josefa Laresa a Alžběty Starkeové, Životice č. 79, 25. 11. 1787"},
+        {"f":"img/1740_O_Lares_Wenzel_Ritz_Julianna_Zivotice.jpg","t":"Sňatek Václava Larese (syna Jiřího) s Julianou Ritzovou (?), Životice, 20. 11. 1740"},
+        {"f":"img/1757_N_Lares_Josef_Zivotice.jpg","t":"Křest Josefa Larese, Životice, 9. 1. 1757 (otec Václav Lares, sedlák, matka Juliana)"}
       ]
     },
     {
@@ -9158,6 +9170,61 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), N, str. 4–87 (1748–1759) – https://ebadatelna.soapraha.cz/d/4072/26"
       ],
       scans: []
+    },
+    {
+      id: "juliana_lr",
+      name: "Juliana Laresová",
+      maiden: "Ritzová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true},
+      father: "mathes_rz",
+      spouse: "wenzel_lr",
+      marriage: "20. 11. 1740, Životice – s Václavem Laresem",
+      notes: [
+        "Dcera Matouše Ritze (?) ze Životic; oddána 20. 11. 1740 s Václavem Laresem (dispenz 3. stupně pokrevenství). Matka Jana (1746), Rosiny (1752 ?), Matouše († 1756) a Josefa (1757). Čtení příjmení „Rÿtz“ nejisté – rod Ritz je v Životicích doložen (Paulus Ritz 1757)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, O pag. 83, snímek 42 vpravo (20. 11. 1740) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, N pag. 50, snímek 26 vlevo (9. 1. 1757) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1740_O_Lares_Wenzel_Ritz_Julianna_Zivotice.jpg","t":"Sňatek Václava Larese (syna Jiřího) s Julianou Ritzovou (?), Životice, 20. 11. 1740"},
+        {"f":"img/1757_N_Lares_Josef_Zivotice.jpg","t":"Křest Josefa Larese, Životice, 9. 1. 1757 (otec Václav Lares, sedlák, matka Juliana)"}
+      ]
+    },
+    {
+      id: "georg_lr",
+      name: "Jiří (Georg) Lares",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1685)","year":1685,"approx":true},
+      notes: [
+        "Otec Václava Larese (sňatek syna 20. 11. 1740: „Wenzel, Georg Lares Sohn“, M). V Životicích žili dva Georgové Laresové (otec a syn ?): Georg Lares † 12. 1. 1761 (78 let, *~1683); Juliana, manželka Georga Larese, † 28. 11. 1755; Kristina, vdova po Georgu Laresovi, † 2. 10. 1758 (55 let) – který je otcem Václava, nerozhodnuto (rozhodne křest Václava ~1705–1718)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, O pag. 83, snímek 42 vpravo (20. 11. 1740) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, Z Životice 1750–1765, snímky 61–64 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1740_O_Lares_Wenzel_Ritz_Julianna_Zivotice.jpg","t":"Sňatek Václava Larese (syna Jiřího) s Julianou Ritzovou (?), Životice, 20. 11. 1740"}
+      ]
+    },
+    {
+      id: "mathes_rz",
+      name: "Matouš (Mathes) Ritz (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      notes: [
+        "Ze Životic; otec Juliany, provdané 20. 11. 1740 za Václava Larese („Mathes Rÿtz (?) ehel. Tochter“, M – čtení příjmení nejisté). Příbuzný Laresů (dispenz 3. stupně)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, O pag. 83, snímek 42 vpravo (20. 11. 1740) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1740_O_Lares_Wenzel_Ritz_Julianna_Zivotice.jpg","t":"Sňatek Václava Larese (syna Jiřího) s Julianou Ritzovou (?), Životice, 20. 11. 1740"}
+      ]
     }
   ]
 };
