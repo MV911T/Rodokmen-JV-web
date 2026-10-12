@@ -3973,22 +3973,25 @@ window.RODOKMEN = {
       name: "Antonín Blažek",
       line: "blazek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1840)","year":1840,"approx":true,"place":"Životice (Seitendorf) u Nového Jičína"},
+      b: {"date":"7. 10. 1838","year":1838,"place":"Životice (Seitendorf) u Nového Jičína č. p. 100"},
       father: "anton_bs",
       mother: "anna_lr",
       spouse: "monika_pi",
       occ: "kovář (Schmiedgeselle) ve Veřovicích",
       marriage: "2. (?) 10. 1866, Veřovice – s Monikou Pitrovou",
       notes: [
+        "Narozen 7. 10., pokřtěn 8. 10. 1838 v Životicích č. 100 (farář Franz Till): otec Anton Blaschke, domkář a podkovář (Häusler und Hufschmied) v Životicích; matka Anna, dcera Josefa Laresa, domkáře v Životicích, a Alžběty roz. Starke (dcery Matouše, sedláka v Životicích); kmotři Franz König (?) a Marianna Ganzebek (?) z Mořkova (?). ROZPOR: při sňatku 1866 uvedeno 26 let – platí křest (28).",
         "Oddán 2. (?) 10. 1866 ve Veřovicích jako „Anton Blaschke, Schmiedgeselle aus Seitendorf“ (Životice u Nového Jičína), 26 let, syn Antona Blaschkeho, podkováře (Hufschmied) ze Životic, a Anny roz. Lareš (?); nevěsta Monika, nemanželská dcera Marianny Pitrové (21 let; svolení poručenského soudu Nový Jičín).",
         "Kovář ve Veřovicích č. 260; syn Jan *11. 9. 1874 († 28. 7. 1954 Veřovice). Syn Vincenc byl kmotrem vnučky Ludmily (1903)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1838_N_Blaschke_Anton_Zivotice100.jpg","t":"Křest Antonína Blažka (Blaschke), Životice č. 100, 7. 10. 1838"},
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek)"},
         {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"}
       ]
@@ -8331,35 +8334,50 @@ window.RODOKMEN = {
       name: "Antonín Blažek (Blaschke)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      b: {"date":"neznámé (odhad ~1808)","year":1808,"approx":true,"place":"Hynčice (Heinzendorf) (?)"},
+      father: "anton_bs0",
+      mother: "juliana_bs",
       spouse: "anna_lr",
       occ: "podkovář v Životicích (Seitendorf)",
+      marriage: "12. 11. 1833, Životice – s Annou Laresovou",
       notes: [
-        "Podkovář (Hufschmied) v Životicích u Nového Jičína; manželka Anna roz. Lareš (?). Otec Antonína Blažka (*~1840)."
+        "Kovář (Schmied), syn Antona Blaschkeho, zahradníka (?) v „Heinzendorf“ č. 18 (Hynčice ?), a Juliany (rodné jméno nevyplněno); oddán 12. 11. 1833 v Životicích (č. 64 „in Mürk“ ?), 25 let (→ *~1808), s Annou, dcerou Josefa Laresa, domkáře v Životicích č. 79, a Alžběty roz. Starke; svědci Andreas Neisser (?) a Johann Starke.",
+        "Domkář a podkovář (Hufschmied) v Životicích (1838). Otec Antonína Blažka (*1838)."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"}
+        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"},
+        {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"},
+        {"f":"img/1838_N_Blaschke_Anton_Zivotice100.jpg","t":"Křest Antonína Blažka (Blaschke), Životice č. 100, 7. 10. 1838"}
       ]
     },
     {
       id: "anna_lr",
       name: "Anna Blažková",
-      maiden: "Larešová (?)",
+      maiden: "Laresová (Lares)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      b: {"date":"neznámé (odhad ~1799)","year":1799,"approx":true,"place":"Životice (Seitendorf)"},
+      father: "josef_lr",
+      mother: "elisabeth_st",
       spouse: "anton_bs",
+      marriage: "12. 11. 1833, Životice – s Antonem Blaschkem",
       notes: [
-        "Dcera Josefa Lareše (?); manželka podkováře Antonína Blažka v Životicích."
+        "Dcera Josefa Laresa, domkáře v Životicích č. 79, a Alžběty roz. Starke (dcery Matouše, sedláka v Životicích); oddána 12. 11. 1833, 34 let (? – čti i 24) → *~1799 (?). Matka Antonína (*1838)."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"}
+        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"},
+        {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"},
+        {"f":"img/1838_N_Blaschke_Anton_Zivotice100.jpg","t":"Křest Antonína Blažka (Blaschke), Životice č. 100, 7. 10. 1838"}
       ]
     },
     {
@@ -8723,6 +8741,79 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"}
+      ]
+    },
+    {
+      id: "anton_bs0",
+      name: "Anton Blaschke",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      spouse: "juliana_bs",
+      notes: [
+        "Zahradník (?) v „Heinzendorf“ č. 18 (Hynčice ?); otec kováře Antona Blaschkeho (sňatek syna 1833)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"}
+      ]
+    },
+    {
+      id: "juliana_bs",
+      name: "Juliana Blaschke",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      spouse: "anton_bs0",
+      notes: [
+        "Manželka Antona Blaschkeho z „Heinzendorf“; matka kováře Antona (sňatek 1833 – rodné jméno nevyplněno)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"}
+      ]
+    },
+    {
+      id: "josef_lr",
+      name: "Josef Lares",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      spouse: "elisabeth_st",
+      notes: [
+        "Domkář v Životicích (Seitendorf) č. 79; otec Anny Blaschkeové (sňatek 1833, křest vnuka 1838)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"},
+        {"f":"img/1838_N_Blaschke_Anton_Zivotice100.jpg","t":"Křest Antonína Blažka (Blaschke), Životice č. 100, 7. 10. 1838"}
+      ]
+    },
+    {
+      id: "elisabeth_st",
+      name: "Alžběta Laresová",
+      maiden: "Starke",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      spouse: "josef_lr",
+      notes: [
+        "Dcera Matouše Starkeho, sedláka v Životicích; manželka Josefa Laresa; matka Anny (sňatek 1833, křest vnuka 1838)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 20 vpravo (12. 11. 1833) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1833_O_Blaschke_Anton_Lares_Anna_Zivotice.jpg","t":"Sňatek Antona Blaschkeho a Anny Laresové, Životice 12. 11. 1833"},
+        {"f":"img/1838_N_Blaschke_Anton_Zivotice100.jpg","t":"Křest Antonína Blažka (Blaschke), Životice č. 100, 7. 10. 1838"}
       ]
     }
   ]
