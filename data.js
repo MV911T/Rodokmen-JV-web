@@ -6205,7 +6205,8 @@ window.RODOKMEN = {
         "V únoru 1799 žil v Hodějicích č. 63 („Wenzel Hrazdirek, Hofschaffer (?)“) – 9. 2. 1799 tam zemřel jeho syn Vincenc, 5 týdnů (Z 13149, str. 226).",
         "Další děti s Magdalenou Roskopalovou v Hodějicích č. 63: Urban (20. 4. 1796), Vincenc (31. 12. 1798, † 9. 2. 1799), Antonín (10. 6. 1800), Apolonie (27. 1. 1803); kmotři Anton Majer s Mariannou (jako u Jana 1790) a Jiří Florián s Apolonií. Po 1803 v Hodějicích nedoložen.",
         "Zemřel 27. 1. 1816 (pohřben 29. 1.) ve Špitálce č. 19 jako „Wenzel Hrazdirek, Zeugmacher (?)“, 56 let. Ztotožnění: v témže domě se 1817 oženil jeho syn Urban (*1796, s poručníkem) a 1820 zemřela dcera Apolonie (*1803) „nach Wenzel Hrazdilek, Zeugmacher“. Syn Antonín († 26. 12. 1801, Hodějice č. 63, 1 rok).",
-        "ROZPOR: povolání v Hodějicích „Hofstädtner (?)“ × ve Špitálce „Zeugmacher (?)“; věk 56 sedí na kandidátní křest 1762."
+        "ROZPOR: povolání v Hodějicích „Hofstädtner (?)“ × ve Špitálce „Zeugmacher (?)“; věk 56 sedí na kandidátní křest 1762.",
+        "Syn Anton († 2. 2. 1787 Hodějice č. 1, 14 dní, psotník; *~2. pol. ledna 1787, křest nehledán) – M pro zápis úmrtí."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
@@ -6219,7 +6220,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, Z, sign. 13149, oddíl Špitálka, str. 106, snímek 92 – https://www.mza.cz/actapublica/matrika/detail/1964",
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Špitálka, str. 59, snímek 61 – https://www.mza.cz/actapublica/matrika/detail/1959",
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 295 – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, fara Slavkov, NOZ (sign. 13121), N, snímek 156 vpravo (25. 9. 1762) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov, NOZ (sign. 13121), N, snímek 156 vpravo (25. 9. 1762) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, Acta Publica, fara Slavkov u Brna, Z 1784–1812 (sign. 13148), str. 46, snímek 76 (2. 2. 1787, syn Anton)"
       ],
       scans: [
         {"f":"img/1762_N_Hrazdilek_Vaclav_Hodejice.jpg","t":"Křest Václava Hrazdílka, syna Martina a Apolonie, Hodějice 25. 9. 1762"},
@@ -7704,12 +7706,14 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), O, snímek 295 vpravo (22. 9. 1754) – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), N, snímek 156 vpravo (25. 9. 1762) – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, fara Slavkov, Z (sign. 13148), snímek 160 vpravo (8. 4. 1791)",
-        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946"
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, Acta Publica, fara Slavkov u Brna, Z 1784–1812 (sign. 13148), str. 46, snímek 76 (7. 2. 1787); index Z 13161 sn. 50 vpravo"
       ],
       scans: [
         {"f":"img/1727_N_Hrazdilek_Martin_Hodejice.jpg","t":"Křest Martina Hrazdílka, syna Pavla a Kateřiny, Hodějice 4. 10. 1727"},
         {"f":"img/1754_O_Hrazdilek_Martin_Apolonie.jpg","t":"Sňatek Martina Hrazdílka (syna † Pavla) s vdovou Apolonií Krostlíkovou, 22. 9. 1754"},
-        {"f":"img/1762_N_Hrazdilek_Vaclav_Hodejice.jpg","t":"Křest Václava Hrazdílka, syna Martina a Apolonie, Hodějice 25. 9. 1762"}
+        {"f":"img/1762_N_Hrazdilek_Vaclav_Hodejice.jpg","t":"Křest Václava Hrazdílka, syna Martina a Apolonie, Hodějice 25. 9. 1762"},
+        {"f":"img/1787_Z_Hrazdilkova_Apolonie_Hodejice1.jpg","t":"Úmrtí manželky Apolonie, Hodějice č. 1, 7. 2. 1787"}
       ]
     },
     {
@@ -7718,14 +7722,16 @@ window.RODOKMEN = {
       maiden: "Doležalová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1728)","year":1728,"approx":true,"place":"Rašovice (?)"},
+      b: {"date":"neznámé (odhad ~1727)","year":1727,"approx":true,"place":"Rašovice (?)"},
+      d: {"date":"7. 2. 1787","year":1787,"place":"Hodějice č. p. 1"},
       spouse: "martin_hz",
       marriage: "22. 9. 1754 – s Martinem Hrazdílkem (2. sňatek)",
       notes: [
         "Vdova po † Jakubu Zrostlíkovi z Heršpic; 22. 9. 1754 se vdala za Martina Hrazdílka z Hodějic. Matka Václava (*1762). ",
         "Rozená Doležalová z Rašovic: 15. 10. 1748 oddána ve faře Slavkov jako „honesta puella Apollonia Doležalin Raschovicio“ s vdovcem Jakubem Zrostlíkem z Heršpic; svědci Jan a Jakub Kužča (?) z Heršpic. Otec neuveden. Jakub Zrostlík zemřel 12. 9. 1751 (48 let); 22. 9. 1754 se Apolonie vdala za Martina Hrazdílka. Ztotožnění D (jména, obec, data; kmotra dětí „Apolonie z Rašovic“). Čtení „Krostlík“ ze sňatku 1754 = Zrostlík.",
         "Rašovice patřily k faře Křižanovice. KANDIDÁTKY křtu (obě z Rašovic, stejní kmotři Jan Vítek × Kateřina z Křižanovic): (B) 14. 1. 1732 „Apollonia – Jacobi Dolezel, Marina“ (NOZ 12750 sn. 129, s. 250) – přednost (otec jistě Jakub; 1748 by jí bylo 16); (A) 28. 4. 1724 „Apolonia – Dolezalek, mat. Anna“ (sn. 104, s. 200). Jakub Doležálek × I 1719 Dorota Klečáková (?) (index), Dorota † V 1726; 2. sňatek s Marinou nenalezen. Rozhodnutí zatím nelze. Doplnění (MZA 36): Jakub Doležálek, syn Pavla, × 29. 1. 1719 Dorota, dcera † Pavla Klížníka z Rašovic (M); Jakub † 5. 9. 1731 Rašovice (36 let) → Apolonie B (křest 14. 1. 1732) je pohrobek; Pavel Doležálek † 27. 11. 1735 (75). Apolonie A (matka Anna) nemůže být Jakubova (žena tehdy Dorota) – patří asi příbuzné domácnosti; její úmrtí 1728–1735 není. Přednost B (K–D).",
-        "Úmrtí Apolonie A (*1724) není ani 1736 – IX 1751 (Z 12750 sn. 267–274, NOZ 12751 sn. 96–101) – A se tedy mohla 1748 vdát; A × B dál nerozhodnuto, přednost B. Rozhodne věk Apolonie Hrazdílkové při úmrtí (fara Slavkov) nebo určení rodiny „Doležálek × Anna“ 1724."
+        "Úmrtí Apolonie A (*1724) není ani 1736 – IX 1751 (Z 12750 sn. 267–274, NOZ 12751 sn. 96–101) – A se tedy mohla 1748 vdát; A × B dál nerozhodnuto, přednost B. Rozhodne věk Apolonie Hrazdílkové při úmrtí (fara Slavkov) nebo určení rodiny „Doležálek × Anna“ 1724.",
+        "Zemřela 7. 2. 1787 v Hodějicích č. 1 jako „Apolonia, Eheweib des Martin Hrazdilek, Häuslers“, 60 let, na vodnatelnost (M; ztotožnění D silné – týž dům č. 1, kde Martin † 1791). Podle věku *~1727 – mezi kandidátkami A (1724, 62¾ let) a B (1732, 55 let); zaokrouhlený věk mírně svědčí pro A, rozhodnuto není – obě varianty křtu zůstávají v poznámce."
       ],
       sources: [
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), O, snímek 295 vpravo (22. 9. 1754) – https://www.mza.cz/actapublica/matrika/detail/1948",
@@ -7733,12 +7739,14 @@ window.RODOKMEN = {
         "MZA Brno, ř.-k. fara Slavkov, NOZ 13121, snímek 372 vpravo (12. 9. 1751) – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA Brno, ř.-k. fara Slavkov, O 13120, snímek 264 vpravo (15. 10. 1748) – https://www.mza.cz/actapublica/matrika/detail/1946",
         "MZA Brno, ř.-k. fara Křižanovice, NOZ 12750 (1690–1740) a index 12764 – https://www.mza.cz/actapublica/matrika/detail/1495",
-        "MZA Brno, Acta Publica, fara Křižanovice, Z 1736–1740 (sign. 12750, sn. 267–274) a NOZ 1741–1784 (sign. 12751, Z sn. 96–101) – negativní"
+        "MZA Brno, Acta Publica, fara Křižanovice, Z 1736–1740 (sign. 12750, sn. 267–274) a NOZ 1741–1784 (sign. 12751, Z sn. 96–101) – negativní",
+        "MZA Brno, Acta Publica, fara Slavkov u Brna, Z 1784–1812 (sign. 13148), str. 46, snímek 76 (7. 2. 1787); index Z 13161 sn. 50 vpravo"
       ],
       scans: [
         {"f":"img/1748_O_Zrostlik_Jakub_Dolezalova_Apolonie.jpg","t":"1. sňatek Apolonie Doležalové z Rašovic s Jakubem Zrostlíkem, Slavkov 15. 10. 1748"},
         {"f":"img/1754_O_Hrazdilek_Martin_Apolonie.jpg","t":"Sňatek Martina Hrazdílka (syna † Pavla) s vdovou Apolonií Krostlíkovou, 22. 9. 1754"},
-        {"f":"img/1762_N_Hrazdilek_Vaclav_Hodejice.jpg","t":"Křest Václava Hrazdílka, syna Martina a Apolonie, Hodějice 25. 9. 1762"}
+        {"f":"img/1762_N_Hrazdilek_Vaclav_Hodejice.jpg","t":"Křest Václava Hrazdílka, syna Martina a Apolonie, Hodějice 25. 9. 1762"},
+        {"f":"img/1787_Z_Hrazdilkova_Apolonie_Hodejice1.jpg","t":"Úmrtí Apolonie Hrazdílkové, Hodějice č. 1, 7. 2. 1787 (60 let)"}
       ]
     },
     {
@@ -7961,25 +7969,24 @@ window.RODOKMEN = {
     },
     {
       id: "jakub_su",
-      name: "Jakub Schusta (Šusta ?)",
+      name: "Jakub Šusta (Schusta) st.",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1670)","year":1670,"approx":true},
       notes: [
-        "Z Hodějic; otec Kateřiny (sňatek s Pavlem Hrazdírkem 25. 5. 1721). Pozor: v Heršpicích žili Schustové také (Anna, dcera Jana Schusti × 1695 Martin Hrabovský; Havel Schusta, svědek 1754).",
-        "KANDIDÁT: Jakub Schusta s manželkou Marinou žil 1723–24 v Rašovicích (fara Křižanovice) – kmotr XI 1723, dcera Kateřina IV 1724 (NOZ 12750 sn. 102–103, čteno v polovičním rozlišení); vztah k Jakubovi z Hodějic (otci Kateřiny × 1721) neověřen.",
-        "Jakub Šusta, soused z Rašovic, × Maryna: syn Pavel 6. 10. 1696, dcera Kateřina IV 1701 (kandidátka), dále Rozina 1701, Kristián 1702 (index); Marina, manželka Jakuba Šusty, † XI 1729 Rašovice (42 let – ROZPOR s dětmi 1696: dvě Mariny nebo otec × syn).",
-        "2. manželka Rosina (*~1713): „Rosina uxor Jacobi Šusta, Rašovicio“ † 1. 1. 1746 Rašovice, 33 let, zaopatřena 25. 12. 1745 (M pro zápis; který Jakub Šusta – otec, nebo syn – nerozhodnuto, K). Děti Šustů v Rašovicích 1733 (Anna Rozálie), 1736 (Johanna), 1739 (Marie) podle rejstříku asi z tohoto manželství (K). Jakub Šusta žil ještě 1746; úmrtí do IX 1751 v Křižanovicích nenalezeno.",
-        "Sňatek Jakuba Šusty v rejstříku O fary Křižanovice 1690–1727 není (jen Jan Šusta × Anna Hořínková (?) 1693 – jiná domácnost, rodiče Kateřiny *IX 1696; Rosina Šustová × Matěj Přerovský 1709) → ženil se před 1690 nebo mimo faru. Jiná Kateřina Šustová se v Rašovicích 1704–1740 nenarodila (rejstřík N) – podporuje ztotožnění Kateřiny *IV 1701 s Kateřinou Hrazdírkovou."
+        "Z Hodějic (sňatek dcery 1721: „filia Jacobi Schusta, Hodegiciis“); jako „Jakub Šusta, soused z Rašovic“ × Maryna: syn Pavel 6. 10. 1696, dcera Kateřina IV 1701 (kandidátka = Kateřina Hrazdírková, D), dále Rozina 1701, Kristián 1702 (index). Sňatek v O-index fary Křižanovice 1690–1727 není (jen Jan Šusta × Anna Hořínková (?) 1693 – jiná domácnost) → ženil se před 1690 nebo mimo faru. Úmrtí Jakuba st. ani Maryny nenalezeno (Z 12750 1702–1728 neprohlédnuto). Pozor: v Heršpicích žili Schustové také (Anna, dcera Jana Schusti × 1695 Martin Hrabovský; Havel Schusta, svědek 1754).",
+        "DVA JAKUBOVÉ ŠUSTOVÉ v Rašovicích (rozhodnuto 12. 10. 2026): mladší Jakub Šusta, „incola Rašovicio“, † 26. 3. 1755 ve věku 58 let (→ *~1697) – nemůže být otcem dětí 1696–1701. Jakub ml. × (1) Marina († XI 1729, 42 let; dcera Kateřina IV 1724) × (2) 24. 1. 1731 Rašovice „honestus viduus Jacobus Schusta cum virgine Rosina post pie defunctum Jacobum Blahutka“ (svědci Martin Slezák, Kašpar Hopčupa) – Rosina † 1. 1. 1746 (33); děti 1733 Anna Rozálie, 1736 Johanna, 1739 Marie (K). Jakub ml. je nejspíš syn Jakuba st. (KANDIDÁT, křest ~1697 nehledán). Jiná Kateřina Šustová se v Rašovicích 1704–1740 nenarodila kromě Kateřiny 1724 (dcera Jakuba ml., v r. 1721 ještě nenarozená) – podporuje ztotožnění Kateřiny Hrazdírkové s Kateřinou *IV 1701."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946",
         "MZA Brno, ř.-k. fara Křižanovice, NOZ 12750 (1690–1740) a index 12764 – https://www.mza.cz/actapublica/matrika/detail/1495",
-        "MZA Brno, Acta Publica, fara Křižanovice, NOZ 1741–1784 (sign. 12751), Z, s. 99, snímek 98 vpravo (1. 1. 1746); O-index 12764 písm. S sn. 30–34; N-index 12764 písm. S sn. 81–85"
+        "MZA Brno, Acta Publica, fara Křižanovice, NOZ 1741–1784 (sign. 12751), Z, s. 99, snímek 98 vpravo (1. 1. 1746); O-index 12764 písm. S sn. 30–34; N-index 12764 písm. S sn. 81–85",
+        "MZA Brno, Acta Publica, fara Křižanovice, NOZ 1741–1784 (sign. 12751), Z, snímek 103 vpravo (26. 3. 1755, Jakub ml.); O 1690–1740 (sign. 12750), s. 77, snímek 192 vpravo (24. 1. 1731); O-index 12764 sn. 32 vpravo"
       ],
       scans: [
         {"f":"img/1721_O_Hrazdirek_Pavel_Schustova_Katerina.jpg","t":"Sňatek Pavla Hrazdírka s Kateřinou, dcerou Jakuba Schusty, Hodějice 25. 5. 1721"},
-        {"f":"img/1746_Z_Sustova_Rosina_Rasovice.jpg","t":"Úmrtí Rosiny, manželky Jakuba Šusty, Rašovice, 1. 1. 1746 (33 let)"}
+        {"f":"img/1746_Z_Sustova_Rosina_Rasovice.jpg","t":"Úmrtí Rosiny, 2. manželky Jakuba Šusty ml., Rašovice, 1. 1. 1746 (33 let)"},
+        {"f":"img/1755_Z_Susta_Jakub_ml_Rasovice.jpg","t":"Úmrtí Jakuba Šusty ml., Rašovice, 26. 3. 1755 (58 let)"}
       ]
     },
     {
