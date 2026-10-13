@@ -9002,7 +9002,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
       spouse: "anna_st",
       notes: [
-        "Sedlák v Životicích č. 22 (1780); otec Alžběty Laresové (křest XI 1768, sňatek 1787, křest vnučky 1799). Manželka Anna (křest 1768). ROZPOR/otázka: kmotrou 1799 je „Kateřina, manželka Matouše Starkeho“ – buď 2. manželka, nebo jiný Matouš Starke. Syn František † 13. 10. 1780."
+        "Sedlák v Životicích č. 22; otec Alžběty Laresové (křest XI 1768, sňatek 1787, křest vnučky 1799). Manželka Anna – žila ještě X 1781 (syn František *7. 10. 1781, č. 22); v Z 1780 – IV 1784 není. Kmotra 1799 „Kateřina, manželka Matouše Starkeho“ = nejspíš 2. manželka (K). Děti † 1780–83: František, Jan, Jiří.",
+        "KANDIDÁT původu: starší Matouš Starke, sedlák, zemřel před IX 1755 (dcera Anna × 7. 9. 1755 Georg Ritz; syn Kristián × 1762 „syn † Mathiase Starkeho“) – náš Matouš je spíš jeho syn (K). Sňatek Matouše × Anny v O Životice 1745–1765 není (1766–73 nečteno)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 3 vlevo (25. 11. 1787) – https://digi.archives.cz",
@@ -9226,21 +9227,25 @@ window.RODOKMEN = {
       maiden: "Ritzová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true},
+      b: {"date":"10. 10. 1719","year":1719,"place":"Životice (Seitendorf) u Nového Jičína"},
       father: "mathes_rz",
+      mother: "rosina_rz",
       spouse: "wenzel_lr",
       marriage: "20. 11. 1740, Životice – s Václavem Laresem",
       notes: [
         "Dcera Matouše Ritze (Rÿtz) ze Životic; oddána 20. 11. 1740 s Václavem Laresem (dispenz 3. stupně pokrevenství). Příjmení ověřeno srovnáním s dalšími zápisy Rÿtz na téže straně (M). Bratr Vavřinec (Lorentz), syn Mathese Rÿtze, × 15. 5. 1740 Dorota Zÿpel (?). Matka Jana (1746), Rosiny (1752 ?), Matouše († 1756) a Josefa (1757).",
-        "Ovdověla 29. 5. 1779; v Z Životice 1766–1784 není († před 1766, nebo po 1784).",
-        "KANDIDÁT křtu (silný): 10. 10. 1719 Životice – „Matthias / Rosina Rÿtz – Julianna“, kmotři Andreas Peter, učitel, Anna, manželka Zachariáše Zÿpa (NJ XVI 1 pag. 13, sn. 7 vpravo; M zápis). Rodiče oddáni 19. 11. 1713. Ztotožnění D – v obci ale žil i druhý pár Matthias × Julianna Rÿtz (děti ~1721–22); rozhodnou křty 1723–30."
+        "Pokřtěna 10. 10. 1719 v Životicích: „Matthias / Rosina Rÿtz – Julianna“, kmotři Andreas Peter, učitel, a Anna, manželka Zachariáše Zÿpa (M zápis). Ztotožnění s nevěstou 1740 D: druhý pár Matthias Rÿtz × Julianna (roz. König) se vzal až 8. 10. 1719 a dceru Juliannu nemá (děti 1721–1727); jiná Julianna Rÿtz 1709–1730 není. Sourozenci: Vavřinec (1714), další děti 1722, 1724, 1726, 1729.",
+        "Ovdověla 29. 5. 1779; v Z Životice 1766–1784 není († před 1766, nebo po 1784)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, O pag. 83, snímek 42 vpravo (20. 11. 1740) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, N pag. 50, snímek 26 vlevo (9. 1. 1757) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), N pag. 13, snímek 7 vpravo (10. 10. 1719); O pag. 83, snímek 42 vpravo (1740, Ritzové) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), N pag. 13, snímek 7 vpravo (10. 10. 1719); O pag. 83, snímek 42 vpravo (1740, Ritzové) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), N pag. 13, snímek 7 vpravo (10. 10. 1719) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), O pag. 74, snímek 38 vlevo (19. 11. 1713) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1719_N_Ritz_Juliana_Zivotice.jpg","t":"Křest Juliany Ritzové, Životice, 10. 10. 1719 (rodiče Matouš a Rosina Ritzovi)"},
         {"f":"img/1740_O_Lares_Wenzel_Ritz_Julianna_Zivotice.jpg","t":"Sňatek Václava Larese (syna Jiřího) s Julianou Ritzovou (?), Životice, 20. 11. 1740"},
         {"f":"img/1757_N_Lares_Josef_Zivotice.jpg","t":"Křest Josefa Larese, Životice, 9. 1. 1757 (otec Václav Lares, sedlák, matka Juliana)"},
         {"f":"img/1779_Z_Lares_Wenzel_Zivotice30.jpg","t":"Úmrtí manžela Václava Larese, Životice č. 30, 29. 5. 1779"}
@@ -9274,14 +9279,21 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      father: "hans_rz",
+      spouse: "rosina_rz",
+      marriage: "19. 11. 1713, Životice – s Rosinou Neisserovou",
       notes: [
-        "Ze Životic; otec Juliany, provdané 20. 11. 1740 za Václava Larese („Mathes Rÿtz ehel. Tochter“, M), a Vavřince (× 15. 5. 1740). Příbuzný Laresů (dispenz 3. stupně). KANDIDÁT: Matthias Rÿtz × 19. 11. 1713 Rosina (dcera Julianna *10. 10. 1719, syn Laurentius 1714) – v obci ale i druhý Matthias Rÿtz × Julianna (K)."
+        "Ze Životic; oddán 19. 11. 1713: „Mathes Rÿtz mit Rosina, Jungfrau – Hanß Rÿtz Schm. (?) leibl. Sohn, Jacob Neissers leibl. Tochter“; svědci Václav a Tomáš Neisserovi (M). Děti s Rosinou: Vavřinec (1714; × 15. 5. 1740), Juliana (10. 10. 1719; × 20. 11. 1740 Václav Lares), další 1722, 1724, 1726, 1729. Příbuzný Laresů (dispenz 3. stupně 1740).",
+        "Pozor: jiný Matouš Ritz, tesař, syn † Georga Ritze, × 8. 10. 1719 Juliana Königová (děti 1721–1727) – není náš."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, O pag. 83, snímek 42 vpravo (20. 11. 1740) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), O pag. 74, snímek 38 vlevo (19. 11. 1713) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), O pag. 76, snímek 39 vlevo (8. 10. 1719, druhý Matouš Ritz) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), N pag. 13, snímek 7 vpravo (10. 10. 1719) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1740_O_Lares_Wenzel_Ritz_Julianna_Zivotice.jpg","t":"Sňatek Václava Larese (syna Jiřího) s Julianou Ritzovou (?), Životice, 20. 11. 1740"}
+        {"f":"img/1713_O_Ritz_Mathes_Neisser_Rosina_Zivotice.jpg","t":"Sňatek Matouše Ritze (syna Hanse) s Rosinou Neisserovou (dcerou Jakuba), Životice, 19. 11. 1713"},
+        {"f":"img/1719_N_Ritz_Juliana_Zivotice.jpg","t":"Křest Juliany Ritzové, Životice, 10. 10. 1719 (rodiče Matouš a Rosina Ritzovi)"}
       ]
     },
     {
@@ -9310,13 +9322,67 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
       spouse: "mathes_st",
       notes: [
-        "Manželka Matouše Starkeho, sedláka v Životicích; matka Alžběty (XI 1768). Rodné příjmení neznámé. (V r. 1799 je manželkou Matouše Starkeho Kateřina – Anna zemřela, nebo jde o jiného Matouše.)"
+        "Manželka Matouše Starkeho, sedláka v Životicích č. 22; matka Alžběty (XI 1768) a Františka (7. 10. 1781). Rodné příjmení neznámé; v Z Životice 1780 – IV 1784 není (zemřela později, nebo jinde)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1766–1784 (sign. NJ XVI 2, inv. č. 2155), N Životice pag. 3, snímek 2 vpravo (XI 1768) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1768_N_Starke_Alzbeta_Zivotice.jpg","t":"Křest Alžběty Starke, Životice, 27. (?) 11. 1768 (otec Matouš Starke, sedlák, matka Anna)"}
+      ]
+    },
+    {
+      id: "rosina_rz",
+      name: "Rosina Ritzová",
+      maiden: "Neisserová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1693)","year":1693,"approx":true},
+      father: "jakub_ns",
+      spouse: "mathes_rz",
+      marriage: "19. 11. 1713, Životice – s Matoušem Ritzem",
+      notes: [
+        "Dcera Jakuba Neissera ze Životic; oddána 19. 11. 1713 s Matoušem Ritzem (M). Matka Vavřince (1714), Juliany (1719) a dalších dětí do 1729."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), O pag. 74, snímek 38 vlevo (19. 11. 1713) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), N pag. 13, snímek 7 vpravo (10. 10. 1719) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1713_O_Ritz_Mathes_Neisser_Rosina_Zivotice.jpg","t":"Sňatek Matouše Ritze (syna Hanse) s Rosinou Neisserovou (dcerou Jakuba), Životice, 19. 11. 1713"},
+        {"f":"img/1719_N_Ritz_Juliana_Zivotice.jpg","t":"Křest Juliany Ritzové, Životice, 10. 10. 1719 (rodiče Matouš a Rosina Ritzovi)"}
+      ]
+    },
+    {
+      id: "hans_rz",
+      name: "Hans Ritz",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1660)","year":1660,"approx":true},
+      notes: [
+        "Ze Životic; otec Matouše Ritze (sňatek syna 19. 11. 1713, M; povolání „Schm.“ – kovář ?). KANDIDÁT: dispenzní rodokmenová tabulka „des alten Hanßl Rytzes“ z 21. 2. 1711 (NJ XVI 1 sn. 3 vlevo, nečteno celé) se syny Merte (?), Michel a Jüra – možná jeho otec nebo on sám (K)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), O pag. 74, snímek 38 vlevo (19. 11. 1713) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1713_O_Ritz_Mathes_Neisser_Rosina_Zivotice.jpg","t":"Sňatek Matouše Ritze (syna Hanse) s Rosinou Neisserovou (dcerou Jakuba), Životice, 19. 11. 1713"}
+      ]
+    },
+    {
+      id: "jakub_ns",
+      name: "Jakub Neisser",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1665)","year":1665,"approx":true},
+      notes: [
+        "Ze Životic; otec Rosiny, provdané 19. 11. 1713 za Matouše Ritze (M). Neisserové v Životicích četní (svědci Václav a Tomáš Neisserovi)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), O pag. 74, snímek 38 vlevo (19. 11. 1713) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1713_O_Ritz_Mathes_Neisser_Rosina_Zivotice.jpg","t":"Sňatek Matouše Ritze (syna Hanse) s Rosinou Neisserovou (dcerou Jakuba), Životice, 19. 11. 1713"}
       ]
     }
   ]
