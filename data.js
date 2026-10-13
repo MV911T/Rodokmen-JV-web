@@ -7994,14 +7994,16 @@ window.RODOKMEN = {
       notes: [
         "Z Hodějic (sňatek dcery 1721: „filia Jacobi Schusta, Hodegiciis“); jako „Jakub Šusta, soused z Rašovic“ × Maryna: syn Pavel 6. 10. 1696, dcera Kateřina IV 1701 (kandidátka = Kateřina Hrazdírková, D), dále Rozina 1701, Kristián 1702 (index). Sňatek v O-index fary Křižanovice 1690–1727 není (jen Jan Šusta × Anna Hořínková (?) 1693 – jiná domácnost) → ženil se před 1690 nebo mimo faru. Úmrtí Jakuba st. ani Maryny nenalezeno (Z 12750 1702–1728 neprohlédnuto). Pozor: v Heršpicích žili Schustové také (Anna, dcera Jana Schusti × 1695 Martin Hrabovský; Havel Schusta, svědek 1754).",
         "DVA JAKUBOVÉ ŠUSTOVÉ v Rašovicích (rozhodnuto 12. 10. 2026): mladší Jakub = syn Jakuba st. a Maryny, pokřtěn 22. 7. 1692 v Rašovicích (kmotři Pavel Řezníček a Rozyna, jeho manželka, z Hodějic) – jediný Jakub Šusta pokřtěný ve faře 1691–1740 (M zápis, rok z indexu; ztotožnění D). Jakub ml., „incola Rašovicio“, † 26. 3. 1755 (zapsáno 58 let – ROZPOR, podle křtu 62). × (1) Marina († XI 1729, 42; dcera Kateřina IV 1724) × (2) 24. 1. 1731 „honestus viduus Jacobus Schusta cum virgine Rosina post pie defunctum Jacobum Blahutka“ (svědci Martin Slezák, Kašpar Hopčupa); Rosina † 1. 1. 1746 (33); děti 1733 Anna Rozálie, 1736 Johanna, 1739 Marie (K). Kateřina Hrazdírková (*IV 1701) je tedy jeho sestra. Jiná Kateřina Šustová se v Rašovicích 1704–1740 nenarodila (kromě Kateřiny 1724, dcery Jakuba ml.).",
-        "Děti Jakuba st. × Maryny podle indexu N Rašovice: Jakub (22. 7. 1692), Pavel (6. 10. 1696), Kateřina (IV 1701), Rozina (1701), Kristián (1702); dále Šustové 1694 Jan, 1698 Anna, 1699 Josef, 1700 Johanna (rodiče nečteny – Jakub, nebo Jan Šusta × Anna). Úmrtí Jakuba st. a Maryny: 1714 – III 1728 v Z Křižanovice není (zbývá 1702–1713 a 1728–1735, nebo jinde)."
+        "Děti Jakuba st. × Maryny podle indexu N Rašovice: Jakub (22. 7. 1692), Pavel (6. 10. 1696), Kateřina (IV 1701), Rozina (1701), Kristián (1702); dále Šustové 1694 Jan, 1698 Anna, 1699 Josef, 1700 Johanna (rodiče nečteny – Jakub, nebo Jan Šusta × Anna). Úmrtí Jakuba st. a Maryny: 1714 – III 1728 v Z Křižanovice není (zbývá 1702–1713 a 1728–1735, nebo jinde).",
+        "Úmrtí dětí (Z Křižanovice 12750): Kristián, „dítě Jakubovy Šustovy, 14 neděl“, † XI 1703 (sn. 222 vpravo; M – ROZPOR s indexem N „VIII 1702“, podle věku *~VIII 1703); K: Anna, dítě Jakubovy Šustovy (?), 12 hodin, † 23. 4. 1705 Rašovice; K: Josef, „pacholík Jakuba Šusty (?) z Rašovic“, † 29. 4. 1707 (= *II 1699 ?) → Maryna žila asi do IV 1705, Jakub st. do IV 1707. Úmrtí Jakuba st. ani Maryny v Z 1702 – VI 1711 a 1728 – I 1736 nenalezeno (od 1709 zápisy často beze jména; vybledlé úseky 1702, 1707, 1708)."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946",
         "MZA Brno, ř.-k. fara Křižanovice, NOZ 12750 (1690–1740) a index 12764 – https://www.mza.cz/actapublica/matrika/detail/1495",
         "MZA Brno, Acta Publica, fara Křižanovice, NOZ 1741–1784 (sign. 12751), Z, s. 99, snímek 98 vpravo (1. 1. 1746); O-index 12764 písm. S sn. 30–34; N-index 12764 písm. S sn. 81–85",
         "MZA Brno, Acta Publica, fara Křižanovice, NOZ 1741–1784 (sign. 12751), Z, snímek 103 vpravo (26. 3. 1755, Jakub ml.); O 1690–1740 (sign. 12750), s. 77, snímek 192 vpravo (24. 1. 1731); O-index 12764 sn. 32 vpravo",
-        "MZA Brno, Acta Publica, fara Křižanovice, N 1690–1740 (sign. 12750), s. 8, snímek 8 vlevo (22. 7. 1692); N-index 12764 písm. S, snímek 79 vpravo"
+        "MZA Brno, Acta Publica, fara Křižanovice, N 1690–1740 (sign. 12750), s. 8, snímek 8 vlevo (22. 7. 1692); N-index 12764 písm. S, snímek 79 vpravo",
+        "MZA Brno, Acta Publica, fara Křižanovice, NOZ 1690–1740 (sign. 12750), Z s. 39, snímek 222 vpravo (XI 1703); s. 42, 48 (1705, 1707)"
       ],
       scans: [
         {"f":"img/1721_O_Hrazdirek_Pavel_Schustova_Katerina.jpg","t":"Sňatek Pavla Hrazdírka s Kateřinou, dcerou Jakuba Schusty, Hodějice 25. 5. 1721"},
@@ -9158,7 +9160,7 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1670)","year":1670,"approx":true},
       spouse: "jakub_su",
       notes: [
-        "Manželka Jakuba Šusty st. z Rašovic (křty dětí 1692, 1696, 1701); matka Kateřiny Hrazdírkové (*IV 1701; ztotožnění D, viz karta Kateřiny). Rodné příjmení neznámé – sňatek v Křižanovicích 1690–1727 není (před 1690 nebo jinde). Úmrtí 1714–1728 v Křižanovicích není. Pozor: Marina, manželka Jakuba Šusty, † XI 1729 (42 let) je žena Jakuba ml., ne tato Maryna."
+        "Manželka Jakuba Šusty st. z Rašovic (křty dětí 1692, 1696, 1701); matka Kateřiny Hrazdírkové (*IV 1701; ztotožnění D, viz karta Kateřiny). Rodné příjmení neznámé – sňatek v Křižanovicích 1690–1727 není (před 1690 nebo jinde). Žila asi ještě IV 1705 (dítě Anna, 12 hodin – K); úmrtí v Z Křižanovice 1702 – VI 1711, 1714–1728 a 1728–1736 nenalezeno (od 1709 zápisy často beze jména). Pozor: Marina, manželka Jakuba Šusty, † XI 1729 (42 let) je žena Jakuba ml., ne tato Maryna."
       ],
       sources: [
         "MZA Brno, Acta Publica, fara Křižanovice, N 1690–1740 (sign. 12750), s. 8, snímek 8 vlevo (22. 7. 1692); N-index 12764 písm. S, snímek 79 vpravo",
