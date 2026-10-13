@@ -9710,12 +9710,14 @@ window.RODOKMEN = {
       occ: "chalupník (casarius, incola) v Pojedech č. 9",
       notes: [
         "Chalupník v Pojedech č. 9 (fara Rožďalovice); manželka Dorota. Děti (M): Kateřina (*~XII 1765, † 1780), Anna Barbora (*28. 11. 1767), Jan (25. 3. 1770 – přímý předek), dvojčata Václav a Anna Kateřina (10. 6. 1773; Anna Kateřina † 1793), Dorota (8. 1. 1777), Václav (13. 5. 1779). Ztotožnění otce Jana *1770 s chalupníkem z Pojed 9 – D (obec, stav a dům rodiny souvisle 1773–1826).",
-        "Oddán nejpozději ~1765, ne v Rožďalovicích (O VIII 1760 – I 1770 negativní) – snad ve farnosti nevěsty. Žil asi ještě VIII 1793 (u dcery bez „zemřelý“); zemřel před 31. 5. 1804 (Dorota vdovou). Úmrtí v indexu Z 1780–1806 nenalezeno.",
-        "PAST: ve faře současně další Janové Šnejdrové – chalupník v Žitovlicích č. 17 († 17. 2. 1780, 40), podruh v Rožďalovicích, Jan z Pojed č. 8 († 8. 11. 1789, 58) – žádný z nich není tento Jan. Starší Šnejdrové v Pojedech: Karel, usedlý (1760), Tomáš, podruh, Jan († před IX 1766) – vztah K."
+        "Oddán nejpozději ~1765, ne v Rožďalovicích (O VIII 1760 – I 1770 negativní) – snad ve farnosti nevěsty. Žil asi ještě VIII 1793 (u dcery bez „zemřelý“); zemřel před 31. 5. 1804 (Dorota vdovou), snad už před VIII 1798 (K). Úmrtí v indexu Z 1780–1806 ani v knize Z XI 1793 – XI 1799 (Pojedy 9, Podolí) nenalezeno.",
+        "PAST: ve faře současně další Janové Šnejdrové – chalupník v Žitovlicích č. 17 († 17. 2. 1780, 40), podruh v Rožďalovicích, Jan z Pojed č. 8 († 8. 11. 1789, 58) – žádný z nich není tento Jan. Starší Šnejdrové v Pojedech: Karel, usedlý (1760), Tomáš, podruh, Jan († před IX 1766) – vztah K.",
+        "Syn Václav, chalupník, Pojedy č. 9, svobodný, 24 let, × 28. 8. 1798 Anna Drösslerová (?), dcera Jana ze Žitovlic (Rožďalovice 10 sn. 141, M; ztotožnění D) – ROZPOR věku: 24 let = dvojče *1773, ale v rodině i Václav *1779 (dvojče snad zemřelo). Chalupu č. 9 tedy 1798 drží Václav, později (1817–1826) Jan *1770 – předávání v rodině (K)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 03 (11181), N, snímky 102 vpravo (1767), 119 (25. 3. 1770), 133 vlevo (1773), 147 vlevo (1777), 155 vpravo (1779) – https://ebadatelna.soapraha.cz/d/11181/119",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 13 (11196), Z, snímky 159 vlevo (5. 8. 1780), 204 vlevo (7. 8. 1793), 250 vlevo (31. 5. 1804) – https://ebadatelna.soapraha.cz/d/11196/250"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 13 (11196), Z, snímky 159 vlevo (5. 8. 1780), 204 vlevo (7. 8. 1793), 250 vlevo (31. 5. 1804) – https://ebadatelna.soapraha.cz/d/11196/250",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192), O, pag. 274/275, snímek 141 (28. 8. 1798) – https://ebadatelna.soapraha.cz/d/11192/141"
       ],
       scans: [
         {"f":"img/1770_N_Snejdr_Jan_Pojedy.jpg","t":"Křest Jana Šnejdra, Pojedy, 25. 3. 1770 (otec Jan, chalupník, matka Dorota)"},
