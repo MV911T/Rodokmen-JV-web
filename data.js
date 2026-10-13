@@ -4083,19 +4083,22 @@ window.RODOKMEN = {
       name: "Jiří Pitr",
       line: "pitr",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1774)","year":1774,"approx":true,"place":"Veřovice"},
+      b: {"date":"22. 8. 1771","year":1771,"place":"Veřovice č. p. 29"},
       d: {"date":"19. 6. 1834","year":1834,"place":"Veřovice č. p. 145"},
       father: "josef_pt",
+      mother: "rosina_pc",
       spouse: "rosina_zu",
       occ: "domkař ve Veřovicích",
       marriage: "8. 1. 1797, Veřovice č. 69 – s Rosinou Lacinovou",
       notes: [
+        "Pokřtěn 22. 8. 1771 ve Veřovicích č. 29 (fara Životice): „Georgius – Pÿter Josephus hortulanus, Rosina“, kmotři Jan Matuš, podruh, a Anna, manželka rychtáře Jana Besedy (M). Ztotožnění D: dům č. 29 = dům výměnkáře Josefa Pitra († 1805); jiný Georg Pitr 1769–1776 není. ROZPOR věku: při sňatku 1797 „23 let“, podle křtu 25. Sourozenci: Jan (17. 12. 1775), Anna (× 1773 Johann Maciczek, D).",
         "Oddán 8. 1. 1797 ve Veřovicích č. 69 (lokální kaplan Josef Hikel ?): „Georg, des Joseph Pitter, Ausgedingers Sohn“, 23 let (→ *~1774), svobodný, s Rosinou, dcerou Josefa Laciny (dříve čteno „Ziegner“), domkáře, 22 let; svědci † Johann Pitter, zahradník, a † Johann Mazzurek (?), domkář. „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – snoubenci byli pokrevně příbuzní (2./3. stupeň).",
         "Chalupník / domkář ve Veřovicích č. 145 (1801–1817); otec Marianny (křest vnučky Moniky 1845) a nejspíš Johanna (*~1798; Georg dal souhlas k jeho sňatku 19. 8. 1821). Jiný sňatek Georga Pitra ve Veřovicích 1784 – V 1828 není.",
         "„Anna roz. Černochová“ (N 1874) je matkou Roziny Bartoňové – pokud jde o manželku Jiřího Pitra, pak jiného Jiřího nebo 2. manželství po 1828 (K).",
         "Zemřel 19. 6. 1834 (pohřben 21. 6.) ve Veřovicích č. 145 jako domkář, uvedeno 81 let, na „Brust-…“ (nemoc hrudi). ROZPOR věku: podle sňatku 1797 (23 let) mu bylo ~60 – věk v úmrtí je zjevně chybný. Vyloučeni jiní Georgové Pitrové († 1832 č. 171, 44 let; † 1839 č. 151, 71 let)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), N pag. 134, snímek 68 vlevo (22. 8. 1771) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
@@ -4106,6 +4109,7 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1841–1882 (sign. NJ XIV 6), pag. 19, snímek 10 vpravo (3. 8. 1844); rejstřík P sn. 139 vpravo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1771_N_Pitr_Jiri_Verovice29.jpg","t":"Křest Jiřího (Georga) Pitra, Veřovice č. 29, 22. 8. 1771 (otec Josef, zahradník, matka Rosina)"},
         {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Lacinové, Veřovice č. 69, 8. 1. 1797"},
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek) (dítě: Monika Blažková) (dítě: Marianna Pitrová)"},
         {"f":"img/1814_N_Pitrova_Marianna_Verovice145.jpg","t":"Křest dcery Marianny, Veřovice č. 145, 27. 9. 1814"},
@@ -8835,17 +8839,20 @@ window.RODOKMEN = {
       maiden: "Lacinová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1774)","year":1774,"approx":true,"place":"Veřovice"},
+      b: {"date":"10. 10. 1773","year":1773,"place":"Veřovice č. p. 6"},
       d: {"date":"3. 8. 1844","year":1844,"place":"Veřovice č. p. 145"},
       father: "josef_zg",
+      mother: "katerina_lc",
       spouse: "jiri_pi",
       marriage: "8. 1. 1797, Veřovice – s Georgem Pitrem",
       notes: [
+        "Pokřtěna 10. 10. 1773 ve Veřovicích č. 6 (fara Životice): „Rosina – Latzina Josephus inquilinus, Catharina“, kmotři Augustin Meltsch, mlynář, a Juliana, manželka Martina Göriga (M). Ztotožnění D: věk sedí s úmrtím 1844 (70); druhá Rosina Lacinová 1774 (otec Jan) vyloučena; č. 6 = pozdější dům Jana Laciny († 1829).",
         "Dcera Josefa Laciny (Laczÿna), domkáře ve Veřovicích č. 69; oddána 8. 1. 1797 s Georgem Pitrem, 22 let (→ *~1775), s dispenzí pro pokrevenství 2./3. stupně (Pitrové a Lacinové tedy byli příbuzní – K). Matka Marianny (*1814) a babička Moniky (křest 1845).",
         "V roce 1834 ovdověla; zemřela 3. 8. 1844 (pohřbena 5. 8., lokalista Johann Wanick) ve Veřovicích č. 145 jako „Rosina, Häuslers Witwe nach Georg Pitter allhier“, 70 let, sešlost věkem (M; → *~1774, sedí s 22 lety při sňatku 1797). Jiné Rosiny Pitrovy † 1844 (č. 115, č. 29) a 1847 (č. 184) vyloučeny podle domu.",
         "OPRAVA čtení příjmení (12. 10. 2026): dřívější „Ziegner / Zugner / Lützner (?)“ bylo chybné čtení kurentu – v oddacím zápisu 1797 stojí „des Joseph Laczÿna, Häuslers Tochter“, v křtu 1808 „nach Joseph Lu=czÿna“; rejstříky N i Z fary Veřovice 1784–1840 znají pod písmenem L jen početný rod Lacina (č. d. 2, 6, 28, 30, 41, 49, 50, 62, 63, 69) a žádného Ziegnera/Lütznera. Rozhodnuto podle srovnání výřezů 1797 (O), 1829 (Z, „Johann Laczÿna“) a rejstříku."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), N pag. 136, snímek 69 vlevo (10. 10. 1773) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1825 (sign. NJ XIV 1), fol. 203, snímek 101 vpravo (27. 9. 1814) – https://digi.archives.cz",
@@ -8854,6 +8861,7 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1841–1882 (sign. NJ XIV 6), pag. 19, snímek 10 vpravo (3. 8. 1844); rejstřík P sn. 139 vpravo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1773_N_Lacinova_Rosina_Verovice6.jpg","t":"Křest Rosiny Lacinové, Veřovice č. 6, 10. 10. 1773 (otec Josef, podruh, matka Kateřina)"},
         {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Lacinové, Veřovice č. 69, 8. 1. 1797"},
         {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"},
         {"f":"img/1814_N_Pitrova_Marianna_Verovice145.jpg","t":"Křest dcery Marianny, Veřovice č. 145, 27. 9. 1814"},
@@ -9052,18 +9060,25 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1725)","year":1725,"approx":true},
       d: {"date":"15. 4. 1805","year":1805,"place":"Veřovice č. p. 29"},
+      father: "vaclav_pt",
+      spouse: "rosina_pc",
+      marriage: "10. 9. 1752, Veřovice – s Rosinou Černochovou",
       notes: [
-        "Výměnkář (Ausgedinger) ve Veřovicích; otec Georga Pitra (sňatek syna 8. 1. 1797, č. 69).",
+        "Zahradník (hortulanus) ve Veřovicích č. 29, později výměnkář. Oddán 10. 9. 1752: „honestus juvenis Josephus legitimus filius Wenceslai Pÿter cum honesta ancilla Rosina legitima filia Martini Czernoch“; svědci Pavel Barthon, Jan Beseda (M; ztotožnění D). Otec Georga (*22. 8. 1771) a Jana (1775).",
         "Zemřel 15. 4. 1805 ve Veřovicích č. 29 jako výměnkář, 80 let (→ *~1725), na hektiku; zaopatřil a pohřbil Johann Pilatschke (?), (evangelický ?) farář z Hodslavic – snad evangelík. Ztotožnění D: jediný Josef Pitr výměnkář v rejstříku 1784–1807.",
-        "KANDIDÁTKA manželky: Juliana, manželka Josefa Pitra, výměnkáře, č. 29, † 16. 2. 1801, 68 (?) let (sn. 42) – snad matka Georga."
+        "Juliana, manželka Josefa Pitra, výměnkáře, č. 29, † 16. 2. 1801, 68 (?) let – nejspíš 2. manželka (matkou Georga je podle křtu 1771 Rosina) – K."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice (Wermersdorf), O pag. 448, snímek 225 vlevo (10. 9. 1752) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), N pag. 134, snímek 68 vlevo (22. 8. 1771) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), pag. 100, snímek 49 vlevo (15. 4. 1805)"
       ],
       scans: [
         {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Lacinové, Veřovice č. 69, 8. 1. 1797"},
-        {"f":"img/1805_Z_Pitr_Josef_Lutzner_Josef_Verovice.jpg","t":"Úmrtí Josefa Laciny (č. 69) a Josefa Pitra, výměnkáře (č. 29), Veřovice 1805"}
+        {"f":"img/1805_Z_Pitr_Josef_Lutzner_Josef_Verovice.jpg","t":"Úmrtí Josefa Laciny (č. 69) a Josefa Pitra, výměnkáře (č. 29), Veřovice 1805"},
+        {"f":"img/1752_O_Pitr_Josef_Cernoch_Rosina_Verovice.jpg","t":"Sňatek Josefa Pitra (syna Václava) s Rosinou Černochovou (dcerou Martina), Veřovice, 10. 9. 1752"},
+        {"f":"img/1771_N_Pitr_Jiri_Verovice29.jpg","t":"Křest Jiřího (Georga) Pitra, Veřovice č. 29, 22. 8. 1771 (otec Josef, zahradník, matka Rosina)"}
       ]
     },
     {
@@ -9073,17 +9088,24 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1725)","year":1725,"approx":true},
       d: {"date":"21. 1. 1805","year":1805,"place":"Veřovice č. p. 69"},
+      spouse: "katerina_lc",
+      marriage: "4. 5. 1766, Veřovice – s Kateřinou Grigarovou (2. sňatek)",
       notes: [
+        "Oddán 4. 5. 1766 ve Veřovicích jako „honestus viduus Josephus Lazina, domuncularius, cum honesta ancilla Catharina Wenceslai Grigar domuncularii legitima filia“; svědci Martin Černoch a Josef Grigar, domkáři (M). Otec Rosiny (*10. 10. 1773, č. 6). KANDIDÁT 1. sňatku: Josef Lacina, syn Jana Laciny, × 15. 10. 1747 Anna, vdova po Janu Görigovi (K – ve Veřovicích víc Josefů Lacinů).",
         "Domkář (Häusler) ve Veřovicích č. 69; otec Rosiny Pitrové (sňatek 1797 v č. 69: „Rosina des Joseph Laczÿna, Häuslers Tochter“; v křtech vnoučat 1808–1817 „nach Joseph Lu=czÿna“ = již zemřelý).",
         "Zemřel 21. 1. 1805 ve Veřovicích č. 69 jako „Joseph Lüczÿna / Lützner (?), Häusler“, 80 let (→ *~1725), na vodnatelnost hrudi; ztotožnění D – dům č. 69, jméno a stav (zápis v rejstříku L 1784–1807 chybí – vynechávka indexátora). Příjmení dříve čteno „Ziegner / Zuczner / Lützner“ – oprava viz karta Rosiny.",
         "KANDIDÁT: 1792 se v č. 69 narodil Johann Lacina (rejstřík N, S. 74) – syn nebo vnuk Josefa; Johann Lacina, domkář č. 6, † 17. 1. 1829 (pohřeb 19. 1.) může být týž rod (K)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), O pag. 171, snímek 86 vpravo (4. 5. 1766) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), N pag. 136, snímek 69 vlevo (10. 10. 1773) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), pag. 100, snímek 49 vlevo (21. 1. 1805)",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1807 (sign. NJ XIV 1), rejstřík písm. L, snímek 153 vlevo (1792 Laczina Johann, č. 69, S. 74); Z 1784–1840 (sign. NJ XIV 5), fol. 173, snímek 85 (17. 1. 1829, Johann Laczÿna) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1766_O_Lacina_Josef_Grigar_Katerina_Verovice.jpg","t":"Sňatek vdovce Josefa Laciny s Kateřinou Grigarovou (dcerou Václava), Veřovice, 4. 5. 1766"},
+        {"f":"img/1773_N_Lacinova_Rosina_Verovice6.jpg","t":"Křest Rosiny Lacinové, Veřovice č. 6, 10. 10. 1773 (otec Josef, podruh, matka Kateřina)"},
         {"f":"img/1797_O_Pitr_Georg_Ziegner_Rosina_Verovice69.jpg","t":"Sňatek Georga Pitra a Rosiny Lacinové, Veřovice č. 69, 8. 1. 1797"},
         {"f":"img/1805_Z_Pitr_Josef_Lutzner_Josef_Verovice.jpg","t":"Úmrtí Josefa Laciny (č. 69) a Josefa Pitra, výměnkáře (č. 29), Veřovice 1805"}
       ]
@@ -9564,6 +9586,99 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1739_O_Gorig_Zacharias_Ritz_Juliana_Zivotice.jpg","t":"Sňatek Zachariáše Göriga (syna Hanse) s Julianou Ritzovou (dcerou Hanse), Životice, 18. 11. 1739"}
+      ]
+    },
+    {
+      id: "rosina_pc",
+      name: "Rosina Pitrová",
+      maiden: "Černochová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
+      father: "martin_cn",
+      spouse: "josef_pt",
+      marriage: "10. 9. 1752, Veřovice – s Josefem Pitrem",
+      notes: [
+        "Dcera Martina Černocha z Veřovic; oddána 10. 9. 1752 s Josefem Pitrem (M). Matka Georga (22. 8. 1771) a Jana (1775). Úmrtí (1775–1801) nehledáno. Pozor: Černochové jsou ve stromu i jinou větví (Anežka Černochová *1879, Tomáš Černoch *1846 – Veřovice) – možná další dvojí původ, nedoloženo."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice (Wermersdorf), O pag. 448, snímek 225 vlevo (10. 9. 1752) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), N pag. 134, snímek 68 vlevo (22. 8. 1771) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1752_O_Pitr_Josef_Cernoch_Rosina_Verovice.jpg","t":"Sňatek Josefa Pitra (syna Václava) s Rosinou Černochovou (dcerou Martina), Veřovice, 10. 9. 1752"},
+        {"f":"img/1771_N_Pitr_Jiri_Verovice29.jpg","t":"Křest Jiřího (Georga) Pitra, Veřovice č. 29, 22. 8. 1771 (otec Josef, zahradník, matka Rosina)"}
+      ]
+    },
+    {
+      id: "vaclav_pt",
+      name: "Václav Pitr",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
+      notes: [
+        "Z Veřovic; otec Josefa Pitra (sňatek syna 10. 9. 1752 „legitimus filius Wenceslai Pÿter“, M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice (Wermersdorf), O pag. 448, snímek 225 vlevo (10. 9. 1752) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1752_O_Pitr_Josef_Cernoch_Rosina_Verovice.jpg","t":"Sňatek Josefa Pitra (syna Václava) s Rosinou Černochovou (dcerou Martina), Veřovice, 10. 9. 1752"}
+      ]
+    },
+    {
+      id: "martin_cn",
+      name: "Martin Černoch",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
+      notes: [
+        "Z Veřovic; otec Rosiny, provdané 10. 9. 1752 za Josefa Pitra (M). Vztah k pozdějším Černochům ve Veřovicích (Tomáš *1846, Anežka *1879 – jiná větev stromu) nedoložen; Martin Černoch, domkář, svědek 1766 (snad syn)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice (Wermersdorf), O pag. 448, snímek 225 vlevo (10. 9. 1752) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1752_O_Pitr_Josef_Cernoch_Rosina_Verovice.jpg","t":"Sňatek Josefa Pitra (syna Václava) s Rosinou Černochovou (dcerou Martina), Veřovice, 10. 9. 1752"}
+      ]
+    },
+    {
+      id: "katerina_lc",
+      name: "Kateřina Lacinová",
+      maiden: "Grigarová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      father: "vaclav_gg",
+      spouse: "josef_zg",
+      marriage: "4. 5. 1766, Veřovice – s Josefem Lacinou",
+      notes: [
+        "Dcera Václava Grigara, domkáře ve Veřovicích; oddána 4. 5. 1766 s vdovcem Josefem Lacinou (M). Matka Rosiny (10. 10. 1773)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), O pag. 171, snímek 86 vpravo (4. 5. 1766) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), N pag. 136, snímek 69 vlevo (10. 10. 1773) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1766_O_Lacina_Josef_Grigar_Katerina_Verovice.jpg","t":"Sňatek vdovce Josefa Laciny s Kateřinou Grigarovou (dcerou Václava), Veřovice, 4. 5. 1766"},
+        {"f":"img/1773_N_Lacinova_Rosina_Verovice6.jpg","t":"Křest Rosiny Lacinové, Veřovice č. 6, 10. 10. 1773 (otec Josef, podruh, matka Kateřina)"}
+      ]
+    },
+    {
+      id: "vaclav_gg",
+      name: "Václav Grigar",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
+      occ: "domkář ve Veřovicích",
+      notes: [
+        "Domkář ve Veřovicích; otec Kateřiny, provdané 4. 5. 1766 za Josefa Lacinu (M). Josef Grigar, domkář, svědek 1766 (snad syn). Grigarové a Pitrové/Lacinové – pokrevenství 2./3. stupně při sňatku 1797 (společný předek nezjištěn)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), O pag. 171, snímek 86 vpravo (4. 5. 1766) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1766_O_Lacina_Josef_Grigar_Katerina_Verovice.jpg","t":"Sňatek vdovce Josefa Laciny s Kateřinou Grigarovou (dcerou Václava), Veřovice, 4. 5. 1766"}
       ]
     }
   ]
