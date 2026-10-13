@@ -9002,17 +9002,22 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      father: "mathias_st",
       spouse: "anna_st",
+      marriage: "8. 6. 1766, Životice – s Annou Görigovou",
       notes: [
-        "Sedlák v Životicích č. 22; otec Alžběty Laresové (křest XI 1768, sňatek 1787, křest vnučky 1799). Manželka Anna – žila ještě X 1781 (syn František *7. 10. 1781, č. 22); v Z 1780 – IV 1784 není. Kmotra 1799 „Kateřina, manželka Matouše Starkeho“ = nejspíš 2. manželka (K). Děti † 1780–83: František, Jan, Jiří.",
-        "KANDIDÁT původu: starší Matouš Starke, sedlák, zemřel před IX 1755 (dcera Anna × 7. 9. 1755 Georg Ritz; syn Kristián × 1762 „syn † Mathiase Starkeho“) – náš Matouš je spíš jeho syn (K). Sňatek Matouše × Anny v O Životice 1745–1765 není (1766–73 nečteno)."
+        "Oddán 8. 6. 1766 v Životicích: „honestus juvenis Mathaeus, defuncti Mathiae Starke rustici legitimus filius, cum honesta ancilla Anna, Zachariae Görig hortulani legitima filia“; svědci Tomáš Neisser, sedlák, a Tomáš Görig, podruh (M). Sedlák v Životicích č. 22; děti Alžběta (XI 1768), František (7. 10. 1781), dále František, Jan a Jiří († 1780–83). Sourozenci: Anna (× 7. 9. 1755 Georg Ritz, syn † Georga) a Kristián (× 1. 2. 1762 Rosina Pudmenská).",
+        "Kmotra 1799 „Kateřina, manželka Matouše Starkeho“ = nejspíš 2. manželka (Anna žila ještě X 1781; v Z 1780 – IV 1784 není) – K."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1766–1784 (sign. NJ XVI 2), O pag. 23, snímek 12 vpravo (8. 6. 1766) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1), O pag. 88, snímek 45 vlevo (7. 9. 1755) a pag. 94, snímek 48 vlevo (1. 2. 1762) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, O 1784–1878 (sign. NJ XVI 5), snímek 3 vlevo (25. 11. 1787) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), fol. 49, snímek 26 vpravo (26. 1. 1799) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1766–1784 (sign. NJ XVI 2, inv. č. 2155), N Životice pag. 3, snímek 2 vpravo (XI 1768) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1766_O_Starke_Matous_Gorig_Anna_Zivotice.jpg","t":"Sňatek Matouše Starkeho (syna † Matyáše) s Annou Görigovou (dcerou zahradníka Zachariáše), Životice, 8. 6. 1766"},
         {"f":"img/1787_O_Lares_Joseph_Starke_Elisabeth_Zivotice79.jpg","t":"Sňatek Josefa Laresa a Alžběty Starkeové, Životice č. 79, 25. 11. 1787"},
         {"f":"img/1799_N_Lares_Anna_Zivotice79.jpg","t":"Křest Anny Laresové, Životice č. 79, 26. 1. 1799"},
         {"f":"img/1768_N_Starke_Alzbeta_Zivotice.jpg","t":"Křest Alžběty Starke, Životice, 27. (?) 11. 1768 (otec Matouš Starke, sedlák, matka Anna)"}
@@ -9325,17 +9330,22 @@ window.RODOKMEN = {
     {
       id: "anna_st",
       name: "Anna Starke",
+      maiden: "Görigová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      father: "zachar_gr",
       spouse: "mathes_st",
+      marriage: "8. 6. 1766, Životice – s Matoušem Starkem",
       notes: [
-        "Manželka Matouše Starkeho, sedláka v Životicích č. 22; matka Alžběty (XI 1768) a Františka (7. 10. 1781). Rodné příjmení neznámé; v Z Životice 1780 – IV 1784 není (zemřela později, nebo jinde)."
+        "Dcera Zachariáše Göriga, zahradníka v Životicích; oddána 8. 6. 1766 s Matoušem Starkem (M). Matka Alžběty (XI 1768) a Františka (7. 10. 1781). V Z Životice 1780 – IV 1784 není (zemřela později, nebo jinde). Křest (~1740–48) nehledán."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1766–1784 (sign. NJ XVI 2), O pag. 23, snímek 12 vpravo (8. 6. 1766) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1766–1784 (sign. NJ XVI 2, inv. č. 2155), N Životice pag. 3, snímek 2 vpravo (XI 1768) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1766_O_Starke_Matous_Gorig_Anna_Zivotice.jpg","t":"Sňatek Matouše Starkeho (syna † Matyáše) s Annou Görigovou (dcerou zahradníka Zachariáše), Životice, 8. 6. 1766"},
         {"f":"img/1768_N_Starke_Alzbeta_Zivotice.jpg","t":"Křest Alžběty Starke, Životice, 27. (?) 11. 1768 (otec Matouš Starke, sedlák, matka Anna)"}
       ]
     },
@@ -9368,7 +9378,7 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1660)","year":1660,"approx":true},
       notes: [
-        "Ze Životic; otec Matouše Ritze (sňatek syna 19. 11. 1713, M; povolání „Schm.“ – kovář ?). KANDIDÁT: dispenzní rodokmenová tabulka „des alten Hanßl Rytzes“ z 21. 2. 1711 (NJ XVI 1 sn. 3 vlevo, nečteno celé) se syny Merte (?), Michel a Jüra – možná jeho otec nebo on sám (K)."
+        "Ze Životic; otec Matouše Ritze (sňatek syna 19. 11. 1713, M; povolání „Schm.“ – kovář ?). Dispenzní rodokmenová tabulka „des alten Hanßl Rytzes“ z 21. 2. 1711 (NJ XVI 1 sn. 3 vlevo, D): starý Hanßl Rytz měl syny Merteho (?), Michla a Jüru (Georga) a dcery (Annle × Hansl Görig, Judith × Hansl Proxop (?), Justina × Hansl Peter aj.); mezi vnuky několik Hanslů – kterým z nich je otec Matouše, tabulka nerozhodne (K). Dvojí pokrevenství Ritz–König (Merte a Jüra × sestry Königovy)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), O pag. 74, snímek 38 vlevo (19. 11. 1713) – https://digi.archives.cz"
@@ -9391,6 +9401,42 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1713_O_Ritz_Mathes_Neisser_Rosina_Zivotice.jpg","t":"Sňatek Matouše Ritze (syna Hanse) s Rosinou Neisserovou (dcerou Jakuba), Životice, 19. 11. 1713"}
+      ]
+    },
+    {
+      id: "mathias_st",
+      name: "Matyáš Starke",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      d: {"date":"před 7. 9. 1755","year":1755,"approx":true},
+      occ: "sedlák v Životicích",
+      notes: [
+        "Sedlák v Životicích; otec Matouše (× 1766 „defuncti Mathiae Starke rustici filius“), Anny (× 7. 9. 1755 „filia defuncti Mathaei Starke rustici“) a Kristiána (× 1. 2. 1762) – vše M. Zemřel před IX 1755. Sňatek (~1725–40) a křest nehledány."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1766–1784 (sign. NJ XVI 2), O pag. 23, snímek 12 vpravo (8. 6. 1766) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1), O pag. 88, snímek 45 vlevo (7. 9. 1755) a pag. 94, snímek 48 vlevo (1. 2. 1762) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1766_O_Starke_Matous_Gorig_Anna_Zivotice.jpg","t":"Sňatek Matouše Starkeho (syna † Matyáše) s Annou Görigovou (dcerou zahradníka Zachariáše), Životice, 8. 6. 1766"}
+      ]
+    },
+    {
+      id: "zachar_gr",
+      name: "Zachariáš Görig",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      occ: "zahradník v Životicích",
+      notes: [
+        "Zahradník (hortulanus) v Životicích; otec Anny, provdané 8. 6. 1766 za Matouše Starkeho (M). Görigové v Životicích četní (dispenzní tabulka Ritzů 1711: Annle Ritzová × Hansl Görig)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1766–1784 (sign. NJ XVI 2), O pag. 23, snímek 12 vpravo (8. 6. 1766) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1766_O_Starke_Matous_Gorig_Anna_Zivotice.jpg","t":"Sňatek Matouše Starkeho (syna † Matyáše) s Annou Görigovou (dcerou zahradníka Zachariáše), Životice, 8. 6. 1766"}
       ]
     }
   ]
