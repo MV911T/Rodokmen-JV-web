@@ -8093,14 +8093,16 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true},
       d: {"date":"29. 11. 1826","year":1826,"place":"Pojedy č. p. 9 (fara Rožďalovice)"},
+      father: "jan_sn_st",
+      mother: "dorota_sn",
       spouse: "anna_sd",
       marriage: "24. 7. 1796, Seletice (fara Mcely) – s Annou Jírkovou",
       notes: [
         "Oddán 24. 7. 1796 v Seleticích č. 62 (fara Mcely) jako chalupník ze vsi Pojed, 24 let, s Annou, vlastní dcerou Jiříka Jírka, chalupníka ze Seletic, 18 let; svědci František Kaňourek (?) ze Sovolusk a Marie Anna Neumannová; oddal farář František Ferdinand Tachecký. Rodiče ženicha neuvedeni.",
         "Chalupník v Pojedech č. 9; manželka Anna roz. Jírková ze Seletic; syn Václav (*1817).",
         "Zemřel 29. 11. 1826 v Pojedech č. 9 jako chalupník z Pojed, poddaný panství Rožďalovice, „63 let“, na zimnici (?); pohřben 1. 12. 1826 (děkan Řehoř Horetzký). Pozdější zápisy (1839, 1846) ho správně uvádějí jako zemřelého; „výměník“ v křtu vnučky 1852 je chyba zápisu.",
-        "Pokřtěn 25. 3. 1770 v Pojedech (narozen 24. 3.): Jan, syn Jana Šnejdra, chalupníka (incola), a Doroty; kmotr Jan Uhlíř (?) ze Žitovlic (Rožďalovice 03, sn. 119) – ztotožnění se ženichem 1796 D (rodina žila souvisle v Pojedech č. 9 = jeho pozdější dům). ROZPOR věku: 1796 „24 let“, 1826 „63 let“ – platí křest (1770). Sourozenci (Pojedy č. 9, otec Jan Šnejdr, chalupník × Dorota; M): Kateřina (*~XII 1765, † 5. 8. 1780 Pojedy 9, 14 let 8 měsíců), Anna Barbora (*28. 11. 1767), dvojčata Václav a Anna Kateřina (10. 6. 1773), Dorota (8. 1. 1777), Václav (13. 5. 1779). Rodiče oddáni nejpozději ~1765, ne v Rožďalovicích (O VIII 1760 – I 1770 negativní).",
-        "PAST / ROZPOR: ve faře žily současně další páry Jan Šnejdr × Dorota/Anna – podruh v Rožďalovicích (syn Jan 17. 3. 1768) a chalupník v Žitovlicích č. 17 (s Annou 1772–76; † 17. 2. 1780, 40 let; pohrobek Jan 27. 2. 1780, matka Dorota). Úmrtí 1780 v Žitovlicích tedy zřejmě NEpatří otci našeho Jana (K); Jan Šnejdr z Pojed † 8. 11. 1789 (58) zapsán v č. 8 – snad jiný. Úmrtí našeho Jana st. (po VIII 1780) zatím nenalezeno. Starší Šnejdrové v Pojedech: Karel, usedlý (1760), Tomáš, podruh, Jan († před IX 1766)."
+        "Pokřtěn 25. 3. 1770 v Pojedech (narozen 24. 3.): Jan, syn Jana Šnejdra, chalupníka (incola), a Doroty; kmotr Jan Uhlíř (?) ze Žitovlic (Rožďalovice 03, sn. 119) – ztotožnění se ženichem 1796 D (rodina žila souvisle v Pojedech č. 9 = jeho pozdější dům). ROZPOR věku: 1796 „24 let“, 1826 „63 let“ – platí křest (1770). Sourozenci (Pojedy č. 9, otec Jan Šnejdr, chalupník × Dorota; M): Kateřina (*~XII 1765, † 5. 8. 1780 Pojedy 9, 14 let 8 měsíců), Anna Barbora (*28. 11. 1767), dvojčata Václav a Anna Kateřina (10. 6. 1773; Anna Kateřina † 7. 8. 1793 Pojedy 9, 20 let), Dorota (8. 1. 1777), Václav (13. 5. 1779). Rodiče oddáni nejpozději ~1765, ne v Rožďalovicích (O VIII 1760 – I 1770 negativní).",
+        "PAST / ROZPOR: ve faře žily současně další páry Jan Šnejdr × Dorota/Anna – podruh v Rožďalovicích (syn Jan 17. 3. 1768) a chalupník v Žitovlicích č. 17 (s Annou 1772–76; † 17. 2. 1780, 40 let; pohrobek Jan 27. 2. 1780, matka Dorota). Úmrtí 1780 v Žitovlicích tedy zřejmě NEpatří otci našeho Jana (K); Jan Šnejdr z Pojed † 8. 11. 1789 (58) zapsán v č. 8 – jiný Jan (ověřeno). Úmrtí našeho Jana st. (po VIII 1780) zatím nenalezeno. Starší Šnejdrové v Pojedech: Karel, usedlý (1760), Tomáš, podruh, Jan († před IX 1766)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
@@ -8120,9 +8122,8 @@ window.RODOKMEN = {
         {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
         {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"},
-        {"f":"img/1770_N_Snejdr_Jan_Pojedy.jpg","t":"KANDIDÁT: křest Jana Šnejdra, Pojedy, 25. 3. 1770 (otec Jan, matka Dorota)"},
-        {"f":"img/1826_Z_Snejdr_Jan_Pojedy9.jpg","t":"Úmrtí Jana Šnejdra, Pojedy č. 9, 29. 11. 1826"},
-        {"f":"img/1780_Z_Snejdr_Jan_st_Zitovlice17.jpg","t":"KANDIDÁT: úmrtí Jana Šnejdra st. (otce ?), Žitovlice č. 17, 17. 2. 1780, 40 let"}
+        {"f":"img/1770_N_Snejdr_Jan_Pojedy.jpg","t":"Křest Jana Šnejdra, Pojedy, 25. 3. 1770 (otec Jan, chalupník, matka Dorota)"},
+        {"f":"img/1826_Z_Snejdr_Jan_Pojedy9.jpg","t":"Úmrtí Jana Šnejdra, Pojedy č. 9, 29. 11. 1826"}
       ]
     },
     {
@@ -9681,6 +9682,51 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1766_O_Lacina_Josef_Grigar_Katerina_Verovice.jpg","t":"Sňatek vdovce Josefa Laciny s Kateřinou Grigarovou (dcerou Václava), Veřovice, 4. 5. 1766"}
+      ]
+    },
+    {
+      id: "jan_sn_st",
+      name: "Jan Šnejdr",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      d: {"date":"před 31. 5. 1804","year":1804,"approx":true},
+      spouse: "dorota_sn",
+      occ: "chalupník (casarius, incola) v Pojedech č. 9",
+      notes: [
+        "Chalupník v Pojedech č. 9 (fara Rožďalovice); manželka Dorota. Děti (M): Kateřina (*~XII 1765, † 1780), Anna Barbora (*28. 11. 1767), Jan (25. 3. 1770 – přímý předek), dvojčata Václav a Anna Kateřina (10. 6. 1773; Anna Kateřina † 1793), Dorota (8. 1. 1777), Václav (13. 5. 1779). Ztotožnění otce Jana *1770 s chalupníkem z Pojed 9 – D (obec, stav a dům rodiny souvisle 1773–1826).",
+        "Oddán nejpozději ~1765, ne v Rožďalovicích (O VIII 1760 – I 1770 negativní) – snad ve farnosti nevěsty. Žil asi ještě VIII 1793 (u dcery bez „zemřelý“); zemřel před 31. 5. 1804 (Dorota vdovou). Úmrtí v indexu Z 1780–1806 nenalezeno.",
+        "PAST: ve faře současně další Janové Šnejdrové – chalupník v Žitovlicích č. 17 († 17. 2. 1780, 40), podruh v Rožďalovicích, Jan z Pojed č. 8 († 8. 11. 1789, 58) – žádný z nich není tento Jan. Starší Šnejdrové v Pojedech: Karel, usedlý (1760), Tomáš, podruh, Jan († před IX 1766) – vztah K."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 03 (11181), N, snímky 102 vpravo (1767), 119 (25. 3. 1770), 133 vlevo (1773), 147 vlevo (1777), 155 vpravo (1779) – https://ebadatelna.soapraha.cz/d/11181/119",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 13 (11196), Z, snímky 159 vlevo (5. 8. 1780), 204 vlevo (7. 8. 1793), 250 vlevo (31. 5. 1804) – https://ebadatelna.soapraha.cz/d/11196/250"
+      ],
+      scans: [
+        {"f":"img/1770_N_Snejdr_Jan_Pojedy.jpg","t":"Křest Jana Šnejdra, Pojedy, 25. 3. 1770 (otec Jan, chalupník, matka Dorota)"},
+        {"f":"img/1773_N_Snejdr_dvojcata_Pojedy9.jpg","t":"Křest dvojčat Václava a Anny Kateřiny Šnejdrových, Pojedy č. 9, 10. 6. 1773"},
+        {"f":"img/1780_Z_Snejdrova_Katerina_Pojedy9.jpg","t":"Úmrtí Kateřiny, dcery Jana Šnejdra, chalupníka, Pojedy č. 9, 5. 8. 1780 (14 let)"}
+      ]
+    },
+    {
+      id: "dorota_sn",
+      name: "Dorota Šnejdrová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (asi 1746)","year":1746,"approx":true},
+      d: {"date":"31. 5. 1804","year":1804,"place":"Podolí č. p. 6 (fara Rožďalovice)"},
+      spouse: "jan_sn_st",
+      notes: [
+        "Manželka Jana Šnejdra, chalupníka v Pojedech č. 9; matka Kateřiny (1765), Anny Barbory (1767), Jana (1770), dvojčat (1773), Doroty (1777) a Václava (1779). Rodné příjmení neznámé.",
+        "KANDIDÁT úmrtí (K silný): 31. 5. 1804 (pohřbena 2. 6.) v Podolí č. 6 „Dorotha Šnegdrowa, vdova pozůstalá Janowy Šnegdrowy, chalupníka z Pogedi“, 58 let (→ *~1746), na vodnatelnost – vdovou po jiném Janovi z Pojed (č. 8, † 1789) by mohla být také. V Podolí žil Václav Šnejdr, chalupník (snad syn *1779 ?)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 03 (11181), N, snímky 102 vpravo (1767), 119 (25. 3. 1770), 133 vlevo (1773), 147 vlevo (1777), 155 vpravo (1779) – https://ebadatelna.soapraha.cz/d/11181/119",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 13 (11196), Z, snímky 159 vlevo (5. 8. 1780), 204 vlevo (7. 8. 1793), 250 vlevo (31. 5. 1804) – https://ebadatelna.soapraha.cz/d/11196/250"
+      ],
+      scans: [
+        {"f":"img/1770_N_Snejdr_Jan_Pojedy.jpg","t":"Křest Jana Šnejdra, Pojedy, 25. 3. 1770 (otec Jan, chalupník, matka Dorota)"},
+        {"f":"img/1804_Z_Snejdrova_Dorota_Podoli6.jpg","t":"Úmrtí Doroty Šnejdrové, vdovy po Janovi, chalupníkovi z Pojed, Podolí č. 6, 31. 5. 1804 (58 let)"}
       ]
     }
   ]
