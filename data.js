@@ -9104,7 +9104,7 @@ window.RODOKMEN = {
         "Domkář (Häusler) ve Veřovicích č. 69; otec Rosiny Pitrové (sňatek 1797 v č. 69: „Rosina des Joseph Laczÿna, Häuslers Tochter“; v křtech vnoučat 1808–1817 „nach Joseph Lu=czÿna“ = již zemřelý).",
         "Zemřel 21. 1. 1805 ve Veřovicích č. 69 jako „Joseph Lüczÿna / Lützner (?), Häusler“, 80 let (→ *~1725), na vodnatelnost hrudi; ztotožnění D – dům č. 69, jméno a stav (zápis v rejstříku L 1784–1807 chybí – vynechávka indexátora). Příjmení dříve čteno „Ziegner / Zuczner / Lützner“ – oprava viz karta Rosiny.",
         "KANDIDÁT: 1792 se v č. 69 narodil Johann Lacina (rejstřík N, S. 74) – syn nebo vnuk Josefa; Johann Lacina, domkář č. 6, † 17. 1. 1829 (pohřeb 19. 1.) může být týž rod (K).",
-        "KANDIDÁT křtu (K): 17. 2. 1725 Veřovice – Josef, syn Pavla a Anny Lacinových (jediný Josef Lacina 1721–29); ROZPOR s kandidátním 1. sňatkem 1747 (otec Jan)."
+        "Ve Veřovicích žili nejméně tři Josefové Lacinové: pokřtěný 2. 3. 1720 jako syn Jana × Kateřiny (= ženich 1747, D), pokřtěný 17. 2. 1725 jako syn Pavla × Anny a další syn Jiřího (asi 1731) – který z nich je vdovcem 1766 a otcem Rosiny, nerozhodnuto (K)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), O pag. 171, snímek 86 vpravo (4. 5. 1766) – https://digi.archives.cz",
@@ -9664,20 +9664,23 @@ window.RODOKMEN = {
       maiden: "Grigarová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      b: {"date":"11. (?) 4. 1737","year":1737,"place":"Veřovice"},
       father: "vaclav_gg",
+      mother: "judita_gr",
       spouse: "josef_zg",
       marriage: "4. 5. 1766, Veřovice – s Josefem Lacinou",
       notes: [
-        "Dcera Václava Grigara, domkáře ve Veřovicích; oddána 4. 5. 1766 s vdovcem Josefem Lacinou (M). Matka Rosiny (10. 10. 1773).",
-        "KANDIDÁT křtu (D): 1737 Veřovice – „Wenceslaus / Juditha – Grügar – Catharina“ (jediná Kateřina, dcera Václava Grigara, 1732–46; den 7. 4. ? a kmotři čteni jen v polovičním rozlišení). Pozn.: 1727 je kmotrou „Marina, manželka Václava Grigara“ – dvě manželky téhož Václava, nebo dva Václavové (K)."
+        "Pokřtěna 11. (?) 4. 1737 ve Veřovicích: „Wenceslaus / Juditha – Grügar – Catharina“, kmotři Jan Schindler a Anna, manželka Pavla Laciny (M zápis). Ztotožnění s nevěstou 1766 D: jediná Kateřina, dcera Václava Grigara, 1732–46.",
+        "Dcera Václava Grigara, domkáře ve Veřovicích; oddána 4. 5. 1766 s vdovcem Josefem Lacinou (M). Matka Rosiny (10. 10. 1773)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 186 vpravo (11. ? 4. 1737) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), O pag. 171, snímek 86 vpravo (4. 5. 1766) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), N pag. 136, snímek 69 vlevo (10. 10. 1773) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 186 vpravo (1737, Catharina Grügar; čteno v polovičním rozlišení) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1737_N_Grigar_Katerina_Verovice.jpg","t":"Křest Kateřiny Grigarové, Veřovice, 11. (?) 4. 1737 (rodiče Václav a Judita)"},
         {"f":"img/1766_O_Lacina_Josef_Grigar_Katerina_Verovice.jpg","t":"Sňatek vdovce Josefa Laciny s Kateřinou Grigarovou (dcerou Václava), Veřovice, 4. 5. 1766"},
         {"f":"img/1773_N_Lacinova_Rosina_Verovice6.jpg","t":"Křest Rosiny Lacinové, Veřovice č. 6, 10. 10. 1773 (otec Josef, podruh, matka Kateřina)"}
       ]
@@ -9687,15 +9690,23 @@ window.RODOKMEN = {
       name: "Václav Grigar",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      father: "vaclav_ggs",
+      spouse: "judita_gr",
       occ: "domkář ve Veřovicích",
+      marriage: "21. 5. 1730, Veřovice – s Juditou, vdovou po Janu Grosmanovi",
       notes: [
-        "Domkář ve Veřovicích; otec Kateřiny, provdané 4. 5. 1766 za Josefa Lacinu (M). Josef Grigar, domkář, svědek 1766 (snad syn). Grigarové a Pitrové/Lacinové – pokrevenství 2./3. stupně při sňatku 1797 (společný předek nezjištěn)."
+        "Domkář ve Veřovicích. Oddán 21. 5. 1730: „poctivý mládenec Václav, Wenzla Grigara syn, s poctivou vdovou Juditou po nebožtíkovi Janu Grosmanovi“; svědci Jiří Bardas (?) a Jan Grigar (M). Otec Kateřiny (11. ? 4. 1737; × 1766 Josef Lacina). Josef Grigar, domkář, svědek 1766 (snad syn).",
+        "Pozor: ve Veřovicích současně starší Václav Grigar, sedlák (otec), vdovec × 4. 9. 1729 Marianna, vdova po Martinu Charamzovi; „Marina, manželka Václava Grigara“ (kmotra Josefa Pitra 1727) je nejspíš 1. manželka staršího (K). Pitrové, Lacinové a Grigarové se vzájemně kmotřili – zdroj pokrevenství 2./3. stupně při sňatku 1797 (nedořešeno)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 439, snímek 220 vpravo (21. 5. 1730; též 4. 9. 1729 Václav Grigar st. × Marianna Charamzová) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 186 vpravo (11. ? 4. 1737) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), O pag. 171, snímek 86 vpravo (4. 5. 1766) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1730_O_Grigar_Vaclav_Grosmanova_Judita_Verovice.jpg","t":"Sňatek Václava Grigara (syna Václava) s vdovou Juditou po Janu Grosmanovi, Veřovice, 21. 5. 1730"},
+        {"f":"img/1737_N_Grigar_Katerina_Verovice.jpg","t":"Křest Kateřiny Grigarové, Veřovice, 11. (?) 4. 1737 (rodiče Václav a Judita)"},
         {"f":"img/1766_O_Lacina_Josef_Grigar_Katerina_Verovice.jpg","t":"Sňatek vdovce Josefa Laciny s Kateřinou Grigarovou (dcerou Václava), Veřovice, 4. 5. 1766"}
       ]
     },
@@ -9761,6 +9772,43 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1727_N_Pitr_Josef_Verovice.jpg","t":"Křest Josefa Pitra, Veřovice, 29. 1. 1727 (rodiče Václav a Marina)"}
+      ]
+    },
+    {
+      id: "judita_gr",
+      name: "Judita Grigarová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      spouse: "vaclav_gg",
+      marriage: "21. 5. 1730, Veřovice – s Václavem Grigarem (2. sňatek)",
+      notes: [
+        "Vdova po Janu Grosmanovi z Veřovic; 21. 5. 1730 se vdala za Václava Grigara (M). Matka Kateřiny (1737). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 439, snímek 220 vpravo (21. 5. 1730; též 4. 9. 1729 Václav Grigar st. × Marianna Charamzová) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 186 vpravo (11. ? 4. 1737) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1730_O_Grigar_Vaclav_Grosmanova_Judita_Verovice.jpg","t":"Sňatek Václava Grigara (syna Václava) s vdovou Juditou po Janu Grosmanovi, Veřovice, 21. 5. 1730"},
+        {"f":"img/1737_N_Grigar_Katerina_Verovice.jpg","t":"Křest Kateřiny Grigarové, Veřovice, 11. (?) 4. 1737 (rodiče Václav a Judita)"}
+      ]
+    },
+    {
+      id: "vaclav_ggs",
+      name: "Václav Grigar",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1675)","year":1675,"approx":true},
+      occ: "sedlák ve Veřovicích",
+      notes: [
+        "Sedlák ve Veřovicích; otec Václava (sňatek syna 21. 5. 1730 „Wenzla Grigara syn“, M), Jana (× 1728) a Anny (× 1727) (D). Jako vdovec × 4. 9. 1729 Marianna, vdova po Martinu Charamzovi (M). KANDIDÁTKA 1. manželky: Marina, manželka Václava Grigara, kmotra 1727 (K)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 439, snímek 220 vpravo (21. 5. 1730; též 4. 9. 1729 Václav Grigar st. × Marianna Charamzová) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1730_O_Grigar_Vaclav_Grosmanova_Judita_Verovice.jpg","t":"Sňatek Václava Grigara (syna Václava) s vdovou Juditou po Janu Grosmanovi, Veřovice, 21. 5. 1730"}
       ]
     }
   ]
