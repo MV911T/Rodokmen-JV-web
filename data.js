@@ -9116,14 +9116,16 @@ window.RODOKMEN = {
         "Z Lounína, 1751 poddaný panství Tmaň („subditi Dominio Tmanensi“; syn 1770 „Suchomastium subditus“ – Lounín patřil k oběma panstvím ?); manželka Veronika. Otec Jiřího Skály (*1. 2. 1751), který se 16. 9. 1770 v Borku oženil s Evou Klikovou („filius post defunctum Georgium Skala ex pago Launin“). Kmotr dětí Jakuba Staňka z Lounína 14. 11. 1750 a 1752/53 (Tmaň 02 sn. 38 vpravo, 44 vlevo) → žil ještě 1752/53. Zemřel 16. 1. 1760 v Louníně, zaopatřen svátostmi, „in infirmitate hemoroidica“, pohřben u sv. Jiří v Tmani, „aetatis circiter 57“ (→ *~1703) – M zápis, ztotožnění D (jediný Skála v lounínských úmrtích 1753–1760). Sňatek s Veronikou (~1725–50, Tmaň 02 O sn. 160–169) a křest (~1703, Tmaň 01) zatím nehledány.",
         "Oddán 17. 11. 1732 v Louníně (P. Matyáš Josef Cykan): „Ex Launin … copulatus est honestus Georgius Caroli (?) Scala cum honesta virgine Veronica Kolářová“; svědci Josef Skála z Radouše (?), Jiří Švandrlík a Kateřina Skálová (M; rodiče neuvedeni – krátký formulář). Ztotožnění D: jediný Jiří Skála v O Tmaň 1729–1753, Lounín, věk ~29, manželka Veronika. KANDIDÁT: „Caroli“ může být jméno otce (Jiří, syn Karla Skály) – ověřit křtem ~1703 (Tmaň 01: N 1701 – ~XII 1704 přečteno v náhledu bez Skály – negativ neúplný; zbývá 1697–1700, 1705–07, Tmaň 01b 1708–28, fara Hostomice/Radouš).",
         "KANDIDÁT dalšího syna: Václav Skála z Lounína, „honestus juvenis“, × 20. 11. 1753 Tmaň (Tmaň 02 O sn. 170 vpravo, p. 179; nevěsta nedočtena) – snad starší bratr Jiřího (*1751).",
-        "Další Skálové v Louníně (K vztah): Václav Skála × 29. 11. 1733 Salomena Soukalová († před 1748, vdova × 1748 Matěj Sikora); Petr Skála († před 1740, vdova Dorota × 1740 Brankl z Tmaně) – možní bratři."
+        "Další Skálové v Louníně (K vztah): Václav Skála × 29. 11. 1733 Salomena Soukalová († před 1748, vdova × 1748 Matěj Sikora); Petr Skála († před 1740, vdova Dorota × 1740 Brankl z Tmaně) – možní bratři.",
+        "KANDIDÁT rodičů: v Louníně žila 1705 domácnost Vít Skála × Marie – syn Mikuláš pokřtěn 6. 12. 1705 v Tmani („Patris Viti Skala, Matris Maria“, Tmaň 01 sn. 93 vlevo, M), Marie Skálová z Lounína svědkyní 7. 6. 1705. Jiří (*~1703) by mohl být jejich syn – nedoloženo; v zápisu 1732 však stojí „Georgius Caroly (?) Scala“ (spíš Karel než Vít). Křest Jiřího v Tmaň 01 1701 – XII 1704 není (vložený sešit III 1701 – II 1703 neúplný)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), O, oddíl Býkoš, str. 87, snímek 234 vpravo (16. 9. 1770); rejstřík O sn. 242 vpravo – https://ebadatelna.soapraha.cz/d/4072/234",
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456, N/O/Z 1728–1784), N, oddíl Lounín, snímek 39 vlevo (1. 2. 1751) – https://ebadatelna.soapraha.cz/d/10456/39",
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), Z, oddíl Lounín, snímek 234 vpravo (16. 1. 1760) – https://ebadatelna.soapraha.cz/d/10456/234",
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), O, p. 179, snímek 170 vpravo (20. 11. 1753, Václav Skála) – https://ebadatelna.soapraha.cz/d/10456/170",
-        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), O, p. 167, snímek 157 vpravo (17. 11. 1732) – https://ebadatelna.soapraha.cz/d/10456/157"
+        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), O, p. 167, snímek 157 vpravo (17. 11. 1732) – https://ebadatelna.soapraha.cz/d/10456/157",
+        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 01 (10455, N 1685–1707), snímek 93 vlevo (6. 12. 1705) a 91 vpravo (7. 6. 1705) – https://ebadatelna.soapraha.cz/d/10455/93"
       ],
       scans: [
         {"f":"img/1770_O_Skala_Jiri_Klikova_Eva_Borek.jpg","t":"Sňatek Jiřího Skály z Lounína s Evou Klikovou z Býkoše, Borek, 16. 9. 1770"},
