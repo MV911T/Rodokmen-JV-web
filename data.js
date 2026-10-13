@@ -1878,7 +1878,7 @@ window.RODOKMEN = {
         "Pokřtěn 1. 2. 1751 v Tmani (administrátor P. Martin Kinský): „Launinio, subditi Dominio Tmanensi … Infans Georgius, Parens Georgius Skala, Mater Veronica“; svědci Vojtěch Žitha (?) ze Želkovic a Matěj Wikerik (?) z Tmaně (M). Jediný křest Skály v lounínském oddílu 1749–1754; ztotožnění se ženichem 1770 („filius post defunctum Georgium Skala ex pago Launin“, 19 let, „adolescens“) D. Dcera Veronika (*1791) nese jméno babičky.",
         "Oddán 16. 9. 1770 v kostele sv. Mikuláše v Borku (farář Filip Bílek), oddíl „Ex pago Bikosch“: „honestus adolescens Georgius, proprius superstes filius post defunctum Georgium Skala ex pago Launin, cum … virgine Eva, propria filia Wenceslai Klika ex pago Bikosch“; svědci Martin Fritz ze Všeradic, Josef Krbec a Václav Štěpnička (?) z Býkoše, družba Václav Svoboda z Málkova, družička Anna Kolářková z Býkoše; „sponsi Suchomastium subditi“ (M). Pochází tedy z Lounína (u Tmaně, panství Suchomasty), syn † Jiřího Skály.",
         "Chalupník (casarius ?) a potažný (sedlák) ve Vinařicích, poddaný panství Suchomasty („Dušomský“ v křtech 1789, 1791 = suchomastský); č. 28 (1781, 1811), 37 (1789), 27 ? (1791). Děti: Jan (21. 5. 1781, č. 28), Jiří (IV 1789), Veronika (VIII 1791); děti 1771–1780 ve Všeradicích nejsou (rejstřík N) – asi křtěny v Borku nebo Tmani. Otec nevěsty při sňatku Veroniky 24. 2. 1811 (M).",
-        "Starší bratr Jakub, pokřtěn 26. 7. 1738 Lounín (M)."
+        "Starší bratři (Lounín, M): Václav Jan Nepomucký (27. 7. 1734), Jakub (26. 7. 1738), Jan (VI 1741)."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
@@ -9122,7 +9122,7 @@ window.RODOKMEN = {
         "Další Skálové v Louníně (K vztah): Václav Skála × 29. 11. 1733 Salomena Soukalová († před 1748, vdova × 1748 Matěj Sikora); Petr Skála († před 1740, vdova Dorota × 1740 Brankl z Tmaně) – možní bratři.",
         "KANDIDÁT rodičů: v Louníně žila 1705 domácnost Vít Skála × Marie – syn Mikuláš pokřtěn 6. 12. 1705 v Tmani („Patris Viti Skala, Matris Maria“, Tmaň 01 sn. 93 vlevo, M), Marie Skálová z Lounína svědkyní 7. 6. 1705. Jiří by mohl být jejich syn, ale v Tmani se 1701 – VII 1707 žádný Jiří Skála nenarodil (vložený sešit III 1701 – II 1703 neúplný) a v zápisu 1732 „Carolus“ je druhé jméno ženicha – vazba slabá (K).",
         "KANDIDÁTI křtu z Radouše (fara Bezdědice; Josef Skála z Radouše byl svědkem na svatbě 1732): (A, přednost) Jiří, syn Matěje Skály a Magdaleny, pokřtěn 4. 4. 1702 Radouš – věk přesně sedí (57 let 9 měsíců při úmrtí); (B) Jiří, syn Pavla Skály a Roziny, pokřtěn 16. 4. 1698 Radouš (61 let). Oba zápisy M, ztotožnění K – žádný doklad zatím nespojuje lounínského Jiřího s Radouší.",
-        "Děti s Veronikou: Jakub (pokřtěn 26. 7. 1738 Lounín – „otec Jiřík Skála, matka Weruna, poddaní k Tmani“, kmotr Jan Heráček, sedlák od Sadů; M), Jiří (*1. 2. 1751); další 1733–IV 1741 v náhledu nezachyceny, 1741–50 nečteno. Jiří st. kmotrem 19. 10. 1738 spolu s Dorotou K(olářovou ?), vdovou, a Kateřinou Kolářkou z Lounína – snad matka a sestra Veroniky (K). Kmotři 1738 nejsou z Radouše."
+        "Děti s Veronikou (Tmaň 02 N, vše M): Václav Jan Nepomucký (27. 7. 1734), Jakub (26. 7. 1738), Jan (VI 1741), Jiří (1. 2. 1751); stálý kmotr Jan Heráček (od Sadů / od mlýna), svědek Šebestián Švadal (?), mlynář suchomastský. Jiří a Veronika častí kmotři 1744–1750. KANDIDÁT: Václav Skála z Lounína × 20. 11. 1753 = syn Václav *1734 (K silná; v Louníně žil i Václav × Salomena). Kmotři nejsou z Radouše."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), O, oddíl Býkoš, str. 87, snímek 234 vpravo (16. 9. 1770); rejstřík O sn. 242 vpravo – https://ebadatelna.soapraha.cz/d/4072/234",
@@ -9132,7 +9132,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), O, p. 167, snímek 157 vpravo (17. 11. 1732) – https://ebadatelna.soapraha.cz/d/10456/157",
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 01 (10455, N 1685–1707), snímek 93 vlevo (6. 12. 1705) a 91 vpravo (7. 6. 1705) – https://ebadatelna.soapraha.cz/d/10455/93",
         "SOA Praha, ř.-k. fara Bezdědice, kniha Bezdědice 01 (3967, N 1697–1720), p. 37, snímek 22 vpravo (4. 4. 1702) a p. 10, snímek 9 vlevo (16. 4. 1698); rejstřík Bezdědice 26 (4057) písm. S, sn. 30–33 – https://ebadatelna.soapraha.cz/d/3967/22",
-        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), N, snímek 20 vpravo (26. 7. 1738) – https://ebadatelna.soapraha.cz/d/10456/20"
+        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), N, snímek 20 vpravo (26. 7. 1738) – https://ebadatelna.soapraha.cz/d/10456/20",
+        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), N, snímek 16 vpravo (27. 7. 1734), 23 vpravo (VI 1741), 20 vpravo (19. 10. 1738) – https://ebadatelna.soapraha.cz/d/10456/16"
       ],
       scans: [
         {"f":"img/1770_O_Skala_Jiri_Klikova_Eva_Borek.jpg","t":"Sňatek Jiřího Skály z Lounína s Evou Klikovou z Býkoše, Borek, 16. 9. 1770"},
@@ -9193,14 +9194,15 @@ window.RODOKMEN = {
       spouse: "jiri_sk_st",
       marriage: "17. 11. 1732, Lounín – s Jiřím Skálou",
       notes: [
-        "Rozená Kolářová; oddána 17. 11. 1732 v Louníně (fara Tmaň) s Jiřím Skálou (M). Matka Jakuba (26. 7. 1738) a Jiřího (*1. 2. 1751) – jediná manželka Jiřího st. 1732–1760 (žádný druhý sňatek, D). Rodiče neuvedeni; Kateřina Skálová z Lounína (svědkyně 1732, kmotra 1754) je zřejmě příbuzná manžela (K).",
+        "Rozená Kolářová; oddána 17. 11. 1732 v Louníně (fara Tmaň) s Jiřím Skálou (M). Matka Václava (1734), Jakuba (1738), Jana (1741) a Jiřího (*1. 2. 1751) – jediná manželka Jiřího st. 1732–1760 (žádný druhý sňatek, D). Rodiče neuvedeni; Kateřina Skálová z Lounína (svědkyně 1732, kmotra 1754) je zřejmě příbuzná manžela (K).",
         "Ovdověla 16. 1. 1760; úmrtí nehledáno (Z Tmaň 02 1760–69 staženo, lounínská okna nečtena).",
-        "KANDIDÁT rodiny: Dorota K(olářová ?), vdova, a Kateřina Kolářka z Lounína (kmotry 19. 10. 1738 spolu s Jiřím Skálou) – snad matka a sestra (K)."
+        "Kolářové v Louníně: Kateřina Kolářka (kmotra 1738) a Lidmila Kolářová (svědkyně 1744) – snad sestry (K). „Dorota … vdova“ 1738 je Dorota Skálová, vdova po Petrovi, ne Kolářová. Křest Veroniky (~1705–12) zatím nenalezen (Tmaň 01b II 1708 – I 1710 není; křty Tmaň IX 1708 – VI 1709 zapsány v matrice Borek)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456, N/O/Z 1728–1784), N, oddíl Lounín, snímek 39 vlevo (1. 2. 1751) – https://ebadatelna.soapraha.cz/d/10456/39",
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), O, p. 167, snímek 157 vpravo (17. 11. 1732) – https://ebadatelna.soapraha.cz/d/10456/157",
-        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), N, snímek 20 vpravo (26. 7. 1738) – https://ebadatelna.soapraha.cz/d/10456/20"
+        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), N, snímek 20 vpravo (26. 7. 1738) – https://ebadatelna.soapraha.cz/d/10456/20",
+        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), N, snímek 16 vpravo (27. 7. 1734), 23 vpravo (VI 1741), 20 vpravo (19. 10. 1738) – https://ebadatelna.soapraha.cz/d/10456/16"
       ],
       scans: [
         {"f":"img/1751_N_Skala_Jiri_Lounin_Tman.jpg","t":"Křest Jiřího Skály z Lounína, Tmaň, 1. 2. 1751 (otec Jiří Skála, matka Veronika)"},
