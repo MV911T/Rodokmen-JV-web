@@ -1904,7 +1904,7 @@ window.RODOKMEN = {
       maiden: "Kliková",
       line: "klika",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1753)","year":1753,"approx":true,"place":"Býkoš"},
+      b: {"date":"10. 12. 1753","year":1753,"place":"Býkoš (fara Borek)"},
       father: "vaclav_kb",
       mother: "katerina_kb",
       spouse: "jiri_s",
@@ -1913,7 +1913,7 @@ window.RODOKMEN = {
         "Rozená Kliková (křest dcery Veroniky 1791, M: „Ewa rozená Klikowa“); z Býkoše, panství Suchomasty (křest vnuka Matěje 1825). ROZPOR: strojopisný rodopis uvádí „Kalousová“ – platí křest.",
         "Oddána 16. 9. 1770 v Borku s Jiřím Skálou z Lounína jako „virgo Eva, propria filia Wenceslai Klika ex pago Bikosch“ (M). Manželka Jiřího Skály ve Vinařicích; děti Jan (21. 5. 1781, č. 28), Jiří (IV 1789, č. 37) a Veronika (VIII 1791, č. 27 ?); děti 1771–1780 zatím nenalezeny (Borek/Tmaň).",
         "KANDIDÁT původu: Klikové z Býkoše jsou ve stromu i jinou větví (Jan Klika, sedlák v Býkoši č. 10, × Kateřina – děti od 1776; Karel Klika *1880 Býkoš). Je-li Eva z téže rodiny, šlo by o další dvojí původ – neověřeno. V Býkoši žilo víc Kliků – sedláci Jan (č. 10), Matěj a Václav (dcery provdané 1786, 1787). Skálové z Vinařic měli vazby na Býkoš už 1755 (Matěj Skála z Vinařic kmotrem v Býkoši).",
-        "KANDIDÁT křtu (silný): 10./11. 12. 1753 Býkoš (fara Borek, Borek 03 sn. 26 vlevo, str. 46) – „Eva, dcera Stanislava Kliky a Kateřiny“ (čtení „Stanislawa“ ověřeno v plném rozlišení – ne „Václava“), kmotři Lidmila Nováková ze Suchomast, Anna Kolářková z Býkoše, Stanislav Klika z Býkoše. ROZPOR jména otce: sňatek 1770 „filia Wenceslai Klika“. Pro totožnost: Václav Klika × Kateřina (Jan 1748, Lidmila 1749, Kateřina 1751, Anna 1752) a Stanislav Klika × Kateřina (Eva 1753, Marie Magdalena 1757, Kateřina 1759) mají tutéž matku a tytéž kmotry (Nováková, Kolářková), plynulou řadu porodů 1748–1759; Anna Kolářková je kmotra Evy 1753 i družička 1770; jiná Eva Kliková z Býkoše 1748–1770 není; Stanislav Klika v Z Borek 1748–73 nezemřel. Rozhodne sňatek Kliky × Kateřiny (Borek 02 rejstříky). Ztotožnění zatím K."
+        "Pokřtěna 10./11. 12. 1753 v Býkoši (fara Borek, Borek 03 sn. 26 vlevo, str. 46): „Eva, dcera Stanislava Kliky a Kateřiny“, kmotři Lidmila Nováková ze Suchomast, Anna Kolářková z Býkoše, Stanislav Klika z Býkoše (M zápis). Ztotožnění s nevěstou 1770 D: (1) starší sestra Eva *20. 12. 1733 (Václav × Kateřina) se už 25. (?) 11. 1752 v Borku vdala za Antonína Štěcha z Hostomic („virgo Eva propria filia Wenceslai Klika e pago Bikoss“) – rejstřík O Borek 1748–73 zná Evu Klikovou jen dvakrát (Štěch 1752, Skála 1770); (2) jiná Eva Kliková z Býkoše 1748–1770 se nenarodila; (3) Václav × Kateřina (1733–1752) a „Stanislav“ × Kateřina (1753–1759) mají tutéž matku a tytéž kmotry; Anna Kolářková je kmotra 1753 i družička 1770. ROZPOR jména otce (křest 1753 „Stanislav“, sňatek 1770 „Václav“) trvá – Stanislav Klika ve faře Borek 1710–1773 jinak neexistuje."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Všeradice, kniha Všeradice 02 (7907, N 1784–1799), oddíl Vinařice, snímek 39 vlevo (VIII 1791) – https://ebadatelna.soapraha.cz/d/7907/39",
@@ -1921,9 +1921,12 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), str. 46, snímek 26 vlevo (XII 1753) – https://ebadatelna.soapraha.cz/d/4072/26",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), Z, str. 59, snímek 142 vpravo (14. 12. 1761) a str. 86, snímek 156 vlevo (19. 6. 1766) – https://ebadatelna.soapraha.cz/d/4072/142",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), O, oddíl Býkoš, str. 87, snímek 234 vpravo (16. 9. 1770); rejstřík O sn. 242 vpravo – https://ebadatelna.soapraha.cz/d/4072/234",
-        "SOA Praha, ř.-k. fara Všeradice, kniha Všeradice 01 (7906), N, str. 164, snímek 86 vlevo (21. 5. 1781) – https://ebadatelna.soapraha.cz/d/7906/86"
+        "SOA Praha, ř.-k. fara Všeradice, kniha Všeradice 01 (7906), N, str. 164, snímek 86 vlevo (21. 5. 1781) – https://ebadatelna.soapraha.cz/d/7906/86",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), N, str. 46, snímek 26 vlevo (10. 12. 1753) – https://ebadatelna.soapraha.cz/d/4072/26",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), O, str. 18–19, snímek 200 (25. ? 11. 1752, sestra Eva × Antonín Štěch); rejstřík O sn. 242 vpravo – https://ebadatelna.soapraha.cz/d/4072/200"
       ],
       scans: [
+        {"f":"img/1753_N_Klikova_Eva_Bykos.jpg","t":"Křest Evy Klikové, Býkoš, 10. 12. 1753 (otec zapsán „Stanislav“ Klika, matka Kateřina)"},
         {"f":"img/1791_N_Skalova_Veronika_Vinarice.jpg","t":"Křest Veroniky Skálové, Vinařice, 20. 8. 1791 (otec Jiří Skála, matka Eva roz. Kliková)"},
         {"f":"img/1770_O_Skala_Jiri_Klikova_Eva_Borek.jpg","t":"Sňatek Jiřího Skály z Lounína s Evou Klikovou z Býkoše, Borek, 16. 9. 1770"},
         {"f":"img/1781_N_Skala_Jan_Vinarice28.jpg","t":"Křest Jana Skály, Vinařice č. 28, 21. 5. 1781 (otec Jiří Skála, matka Eva)"}
@@ -9111,7 +9114,7 @@ window.RODOKMEN = {
       marriage: "17. 11. 1732, Lounín (fara Tmaň) – s Veronikou Kolářovou",
       notes: [
         "Z Lounína, 1751 poddaný panství Tmaň („subditi Dominio Tmanensi“; syn 1770 „Suchomastium subditus“ – Lounín patřil k oběma panstvím ?); manželka Veronika. Otec Jiřího Skály (*1. 2. 1751), který se 16. 9. 1770 v Borku oženil s Evou Klikovou („filius post defunctum Georgium Skala ex pago Launin“). Kmotr dětí Jakuba Staňka z Lounína 14. 11. 1750 a 1752/53 (Tmaň 02 sn. 38 vpravo, 44 vlevo) → žil ještě 1752/53. Zemřel 16. 1. 1760 v Louníně, zaopatřen svátostmi, „in infirmitate hemoroidica“, pohřben u sv. Jiří v Tmani, „aetatis circiter 57“ (→ *~1703) – M zápis, ztotožnění D (jediný Skála v lounínských úmrtích 1753–1760). Sňatek s Veronikou (~1725–50, Tmaň 02 O sn. 160–169) a křest (~1703, Tmaň 01) zatím nehledány.",
-        "Oddán 17. 11. 1732 v Louníně (P. Matyáš Josef Cykan): „Ex Launin … copulatus est honestus Georgius Caroli (?) Scala cum honesta virgine Veronica Kolářová“; svědci Josef Skála z Radouše (?), Jiří Švandrlík a Kateřina Skálová (M; rodiče neuvedeni – krátký formulář). Ztotožnění D: jediný Jiří Skála v O Tmaň 1729–1753, Lounín, věk ~29, manželka Veronika. KANDIDÁT: „Caroli“ může být jméno otce (Jiří, syn Karla Skály) – ověřit křtem ~1703 (Tmaň 01).",
+        "Oddán 17. 11. 1732 v Louníně (P. Matyáš Josef Cykan): „Ex Launin … copulatus est honestus Georgius Caroli (?) Scala cum honesta virgine Veronica Kolářová“; svědci Josef Skála z Radouše (?), Jiří Švandrlík a Kateřina Skálová (M; rodiče neuvedeni – krátký formulář). Ztotožnění D: jediný Jiří Skála v O Tmaň 1729–1753, Lounín, věk ~29, manželka Veronika. KANDIDÁT: „Caroli“ může být jméno otce (Jiří, syn Karla Skály) – ověřit křtem ~1703 (Tmaň 01: N 1701 – ~XII 1704 přečteno v náhledu bez Skály – negativ neúplný; zbývá 1697–1700, 1705–07, Tmaň 01b 1708–28, fara Hostomice/Radouš).",
         "KANDIDÁT dalšího syna: Václav Skála z Lounína, „honestus juvenis“, × 20. 11. 1753 Tmaň (Tmaň 02 O sn. 170 vpravo, p. 179; nevěsta nedočtena) – snad starší bratr Jiřího (*1751).",
         "Další Skálové v Louníně (K vztah): Václav Skála × 29. 11. 1733 Salomena Soukalová († před 1748, vdova × 1748 Matěj Sikora); Petr Skála († před 1740, vdova Dorota × 1740 Brankl z Tmaně) – možní bratři."
       ],
@@ -9138,7 +9141,7 @@ window.RODOKMEN = {
       spouse: "katerina_kb",
       occ: "sedlák v Býkoši",
       notes: [
-        "Z Býkoše, sedlák, poddaný suchomastský; otec Evy, provdané 16. 9. 1770 za Jiřího Skálu („propria filia Wenceslai Klika ex pago Bikosch“, M). Děti s Kateřinou v Býkoši (Borek 02 a 03 N, M): Eva 20. 12. 1733 (zřejmě družička „Eva Klikiana“ 1748; osud nejasný), Kateřina 1735, Veronika 26. 12. 1736, dvojčata Matěj a Kateřina X 1740, Václav 1741, [1742–47 nečteno], Jan 12. 9. 1748, Lidmila 25./26. 12. 1749 (× 1769), Kateřina 5. 7. 1751, Anna 5. 5. 1752 – stále tatáž sada kmotrů (Kocová/Kopová, Štibalová, Velík, Kolaček, Nováková). Doložen 1767, 1769, 1787. Pozor: druhý Václav Klika × Kateřina (Duchoňová, 1728) žil v Suchomastech.",
+        "Z Býkoše, sedlák, poddaný suchomastský; otec Evy, provdané 16. 9. 1770 za Jiřího Skálu („propria filia Wenceslai Klika ex pago Bikosch“, M). Děti s Kateřinou v Býkoši (Borek 02 a 03 N, M): Eva 20. 12. 1733 (× 25. ? 11. 1752 Borek Antonín Štěch, syn Matěje Štěcha z Hostomic – M), Kateřina 1735, Veronika 26. 12. 1736, dvojčata Matěj a Kateřina X 1740, Václav 1741, [1742–47 nečteno], Jan 12. 9. 1748, Lidmila 25./26. 12. 1749 (× 1769), Kateřina 5. 7. 1751, Anna 5. 5. 1752 – stále tatáž sada kmotrů (Kocová/Kopová, Štibalová, Velík, Kolaček, Nováková). Doložen 1767, 1769, 1787. Pozor: druhý Václav Klika × Kateřina (Duchoňová, 1728) žil v Suchomastech.",
         "ROZPOR / KANDIDÁT: od r. 1753 je v Býkoši psán „Stanislav Klika × Kateřina“ (Eva 10. 12. 1753, Marie Magdalena 1757, Kateřina 1759; svědek 1761) se stejnými kmotry. Ve faře Borek 1710–1773 ale žádný Stanislav Klika nemá sňatek, křest ani úmrtí → „Stanislav“ je nejspíš písařská/alternativní podoba jména Václava (nedoloženo). Sňatky Václavů Kliků v Borku 02: 24. 8. 1728 Suchomasty × Kateřina Duchoňová; **1730 (12. 12. ?) Býkoš × Kateřina Krejčová** (družba Matěj Kolaček) – jediný Václav × Kateřina z Býkoše = KANDIDÁT rodičů Evy (Kateřina ~*1710–14, v r. 1759 45–49 let). Křty Václavů Kliků z Býkoše ~1716 a ~1743 (rejstřík N Borek 02). Vztah k Janu Klikovi (č. 10) a Matějovi (× 1748 Barbora Chvátalová) nedoložen."
       ],
       sources: [
@@ -9149,7 +9152,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Borek, kniha Borek 02 (4071), N, p. 80, 88, 94, 107, 115 (1733–1741), snímky 68–85 – https://ebadatelna.soapraha.cz/d/4071/68"
       ],
       scans: [
-        {"f":"img/1770_O_Skala_Jiri_Klikova_Eva_Borek.jpg","t":"Sňatek Jiřího Skály z Lounína s Evou Klikovou z Býkoše, Borek, 16. 9. 1770"}
+        {"f":"img/1770_O_Skala_Jiri_Klikova_Eva_Borek.jpg","t":"Sňatek Jiřího Skály z Lounína s Evou Klikovou z Býkoše, Borek, 16. 9. 1770"},
+        {"f":"img/1753_N_Klikova_Eva_Bykos.jpg","t":"Křest dcery Evy, Býkoš, 10. 12. 1753 (otec zapsán „Stanislav“)"}
       ]
     },
     {
@@ -9208,7 +9212,9 @@ window.RODOKMEN = {
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), N, str. 4–87 (1748–1759) – https://ebadatelna.soapraha.cz/d/4072/26"
       ],
-      scans: []
+      scans: [
+        {"f":"img/1753_N_Klikova_Eva_Bykos.jpg","t":"Křest dcery Evy, Býkoš, 10. 12. 1753"}
+      ]
     },
     {
       id: "juliana_lr",
