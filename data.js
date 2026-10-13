@@ -9221,7 +9221,7 @@ window.RODOKMEN = {
     {
       id: "juliana_lr",
       name: "Juliana Laresová",
-      maiden: "Ritzová (?)",
+      maiden: "Ritzová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true},
@@ -9229,12 +9229,14 @@ window.RODOKMEN = {
       spouse: "wenzel_lr",
       marriage: "20. 11. 1740, Životice – s Václavem Laresem",
       notes: [
-        "Dcera Matouše Ritze (?) ze Životic; oddána 20. 11. 1740 s Václavem Laresem (dispenz 3. stupně pokrevenství). Matka Jana (1746), Rosiny (1752 ?), Matouše († 1756) a Josefa (1757). Čtení příjmení „Rÿtz“ nejisté – rod Ritz je v Životicích doložen (Paulus Ritz 1757).",
-        "Ovdověla 29. 5. 1779; v Z Životice 1766–1784 není († před 1766, nebo po 1784)."
+        "Dcera Matouše Ritze (Rÿtz) ze Životic; oddána 20. 11. 1740 s Václavem Laresem (dispenz 3. stupně pokrevenství). Příjmení ověřeno srovnáním s dalšími zápisy Rÿtz na téže straně (M). Bratr Vavřinec (Lorentz), syn Mathese Rÿtze, × 15. 5. 1740 Dorota Zÿpel (?). Matka Jana (1746), Rosiny (1752 ?), Matouše († 1756) a Josefa (1757).",
+        "Ovdověla 29. 5. 1779; v Z Životice 1766–1784 není († před 1766, nebo po 1784).",
+        "KANDIDÁT křtu (silný): 10. 10. 1719 Životice – „Matthias / Rosina Rÿtz – Julianna“, kmotři Andreas Peter, učitel, Anna, manželka Zachariáše Zÿpa (NJ XVI 1 pag. 13, sn. 7 vpravo; M zápis). Rodiče oddáni 19. 11. 1713. Ztotožnění D – v obci ale žil i druhý pár Matthias × Julianna Rÿtz (děti ~1721–22); rozhodnou křty 1723–30."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, O pag. 83, snímek 42 vpravo (20. 11. 1740) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, N pag. 50, snímek 26 vlevo (9. 1. 1757) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, N pag. 50, snímek 26 vlevo (9. 1. 1757) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), N pag. 13, snímek 7 vpravo (10. 10. 1719); O pag. 83, snímek 42 vpravo (1740, Ritzové) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1740_O_Lares_Wenzel_Ritz_Julianna_Zivotice.jpg","t":"Sňatek Václava Larese (syna Jiřího) s Julianou Ritzovou (?), Životice, 20. 11. 1740"},
@@ -9250,12 +9252,14 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1683)","year":1683,"approx":true},
       spouse: "juliana_lrs",
       notes: [
-        "Otec Václava Larese (křest syna 5. 8. 1713: rodiče „Georgius, Julianna Lares“; sňatek syna 1740 „Georg Lares Sohn“ – M); manželka Juliana. V Životicích žili dva Georgové Laresové: Georg † 12. 1. 1761 (78 let, *~1683) a Georg, po němž zůstala vdova Kristina († 1758, 55 let). Protože matka Václava je Juliana (Juliana, manželka Georga Larese, † 28. 11. 1755), je otcem nejspíš Georg † 1761 (D) – potvrdit sňatkem Georg × Juliana ~1710–12 (O Životice NJ XVI 1 sn. ~37–40)."
+        "Otec Václava Larese (křest syna 5. 8. 1713: rodiče „Georgius, Julianna Lares“; sňatek syna 1740 „Georg Lares Sohn“ – M); manželka Juliana. V Životicích žili dva Georgové Laresové: Georg † 12. 1. 1761 (78 let, *~1683) a Georg, po němž zůstala vdova Kristina († 1758, 55 let). Protože matka Václava je Juliana (Juliana, manželka Georga Larese, † 28. 11. 1755), je otcem nejspíš Georg † 1761 (D) – potvrdit sňatkem Georg × Juliana ~1710–12 (O Životice NJ XVI 1 sn. ~37–40).",
+        "Sňatek Georga × Juliany v O Životice XI 1701 – XII 1713 není (ženil se dřív nebo ve farnosti nevěsty). Nejstarší stopa rodu: Paul Lares ze Životic, otec Mathese Larese (× 21. 11. 1706 Catharina Görig, dispenz 3. st.) – snad otec i Georga (K)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, O pag. 83, snímek 42 vpravo (20. 11. 1740) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, Z Životice 1750–1765, snímky 61–64 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), N Životice pag. 8, snímek 5 vlevo (5. 8. 1713) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), N Životice pag. 8, snímek 5 vlevo (5. 8. 1713) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), O pag. 72, snímek 37 vlevo (21. 11. 1706, Mathes Lares, syn Paula) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1740_O_Lares_Wenzel_Ritz_Julianna_Zivotice.jpg","t":"Sňatek Václava Larese (syna Jiřího) s Julianou Ritzovou (?), Životice, 20. 11. 1740"},
@@ -9264,12 +9268,12 @@ window.RODOKMEN = {
     },
     {
       id: "mathes_rz",
-      name: "Matouš (Mathes) Ritz (?)",
+      name: "Matouš (Mathes) Ritz",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
       notes: [
-        "Ze Životic; otec Juliany, provdané 20. 11. 1740 za Václava Larese („Mathes Rÿtz (?) ehel. Tochter“, M – čtení příjmení nejisté). Příbuzný Laresů (dispenz 3. stupně)."
+        "Ze Životic; otec Juliany, provdané 20. 11. 1740 za Václava Larese („Mathes Rÿtz ehel. Tochter“, M), a Vavřince (× 15. 5. 1740). Příbuzný Laresů (dispenz 3. stupně). KANDIDÁT: Matthias Rÿtz × 19. 11. 1713 Rosina (dcera Julianna *10. 10. 1719, syn Laurentius 1714) – v obci ale i druhý Matthias Rÿtz × Julianna (K)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína, N+O+Z 1689–1765 (sign. NJ XVI 1, inv. č. 2154), oddíl Životice, O pag. 83, snímek 42 vpravo (20. 11. 1740) – https://digi.archives.cz"
