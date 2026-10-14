@@ -1467,7 +1467,8 @@ window.RODOKMEN = {
         {"f":"img/1829_krest_karel_capek_hruby_jesenik_a.jpg","t":"Křest Karla Čapka, Hrubý Jeseník 1829"},
         {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"},
         {"f":"img/1890_Z_Capkova_Marie_Jesenik.jpg","t":"Úmrtí manželky Marie, Hrubý Jeseník 12. 4. 1890"},
-        {"f":"img/1873_Z_Capkova_Marie_vdova_Jesenik.jpg","t":"Úmrtí matky Marie, Hrubý Jeseník 24. 11. 1873"}
+        {"f":"img/1873_Z_Capkova_Marie_vdova_Jesenik.jpg","t":"Úmrtí matky Marie, Hrubý Jeseník 24. 11. 1873"},
+        {"f":"img/1855_Z_Capek_Jan_Jesenik.jpg","t":"Úmrtí otce Jana Čapka, Hrubý Jeseník 1. 5. 1855"}
       ]
     },
     {
@@ -2746,7 +2747,8 @@ window.RODOKMEN = {
       line: "capek",
       cert: "M",
       b: {"date":"3. 1. 1795","year":1795,"place":"Hrubý Jeseník č. p. 48"},
-      d: {"date":"před 25. 3. 1874","year":1874,"approx":true},
+      d: {"date":"1. 5. 1855","year":1855,"place":"Hrubý Jeseník č. p. 70"},
+      cause: "úbytě (?)",
       father: "jan_c0",
       mother: "barbora_bu",
       spouse: "marie_cc",
@@ -2756,14 +2758,15 @@ window.RODOKMEN = {
         "Narozen 3. 1., pokřtěn 4. 1. 1795 v Hrubém Jeseníku č. 48 (administrátor Tobiáš Major); otec Jan Čapek, familiant; matka Barbora roz. Bukvajová (?). Kmotři Josef Borovička, chalupník, Václav Hojtek (?) a Jan Rozprava (?).",
         "Oddán 13. 2. 1816 v Hrubém Jeseníku (č. 48) jako syn † Jana Čapka, familianta v Jeseníku, 21 let; oddával Jan Tobiáš Majer.",
         "Otec Karla Čapka; familiant v Jeseníku č. 48, 1851 výměnkář. V roce 1874 už nežil.",
-        "Při úmrtí manželky Marie 24. 11. 1873 už nežil („vdova po Janu Čapkovi, výměnkáři z Jeseníka č. 70“, M)."
+        "Zemřel 1. 5. 1855 v 5 hod. ráno v Hrubém Jeseníku č. 70 (pohřben 4. 5., farář Jan Dobeslav ?): „Jan Čapek, výminkář v Jeseníku č. 70“, 66 let, úbytě (?) (M; dům a stav výměnkáře sedí se sňatkem syna 1851 i úmrtím vdovy Marie 1873). ROZPOR věku: 66 (→ ~1789) × dosavadní odhad."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31",
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha HJ 14 (5734, Z), oddíl Jeseník, str. 65, snímek 320 vlevo, 3. zápis – https://ebadatelna.soapraha.cz/d/5734/320"
       ],
       scans: [
         {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851"},
@@ -2773,7 +2776,8 @@ window.RODOKMEN = {
         {"f":"img/1816_snatek_jan_capek_hruby_jesenik_b.jpg","t":"Sňatek Jana Čapka a Marie Čapkové 1816 – nevěsta"},
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_a.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795"},
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"},
-        {"f":"img/1873_Z_Capkova_Marie_vdova_Jesenik.jpg","t":"Úmrtí manželky Marie (vdovy), Hrubý Jeseník 24. 11. 1873"}
+        {"f":"img/1873_Z_Capkova_Marie_vdova_Jesenik.jpg","t":"Úmrtí manželky Marie (vdovy), Hrubý Jeseník 24. 11. 1873"},
+        {"f":"img/1855_Z_Capek_Jan_Jesenik.jpg","t":"Úmrtí 1. 5. 1855, Hrubý Jeseník č. 70"}
       ]
     },
     {
@@ -2809,7 +2813,8 @@ window.RODOKMEN = {
         {"f":"img/1816_snatek_jan_capek_hruby_jesenik_b.jpg","t":"Sňatek Jana Čapka a Marie Čapkové 1816 – nevěsta"},
         {"f":"img/1797_krest_marie_capkova_hruby_jesenik_a.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797"},
         {"f":"img/1797_krest_marie_capkova_hruby_jesenik_b.jpg","t":"Křest Marie Čapkové, Hrubý Jeseník 1797 – rodiče, kmotři"},
-        {"f":"img/1873_Z_Capkova_Marie_vdova_Jesenik.jpg","t":"Úmrtí 24. 11. 1873, Hrubý Jeseník č. 70"}
+        {"f":"img/1873_Z_Capkova_Marie_vdova_Jesenik.jpg","t":"Úmrtí 24. 11. 1873, Hrubý Jeseník č. 70"},
+        {"f":"img/1855_Z_Capek_Jan_Jesenik.jpg","t":"Úmrtí manžela Jana, Hrubý Jeseník 1. 5. 1855"}
       ]
     },
     {
