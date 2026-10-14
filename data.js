@@ -536,7 +536,8 @@ window.RODOKMEN = {
         "Horník. Domovské právo v Souši (domovský list 9. 9. 1924, svobodný).",
         "Bydliště: Komořany (1924), Souš č. p. 50 (1933), Souš č. p. 21 (1940), Kopisty č. p. 241 (1942, 1956).",
         "Výměrem Okresního úřadu v Pelhřimově z 8. 9. 1940 mu bylo přiděleno domovské právo v Těchobuzi (ke dni 7. 2. 1939): Souš připadla Německu, on se stal československým (protektorátním) státním občanem. Před nabytím domovského práva v Souši příslušel do Těchobuze po otci (do 27. 4. 1919). Domovské právo následovaly manželka a děti Jiří, Vlasta a Václav.",
-        "Datum úmrtí podle rodinného kalendáře a dopisu syna („Děda (Most)“)."
+        "Datum úmrtí podle rodinného kalendáře a dopisu syna („Děda (Most)“).",
+        "KANDIDÁT (K): „Jarmila Votavová, manž. dcera horníka v Souši“, nar. 26. 6. 1928 Souš, † 29. 12. 1932 Souš 130, meningitida (civilní Z Most C18/7, fol. 279, sn. 284; M zápis) – rodiče jménem neuvedeni, v Souši žilo více Votavů."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
@@ -549,7 +550,8 @@ window.RODOKMEN = {
         "Výtah z knihy křtěných a oddaných (sňatek 18. 10. 1924 Most), Okresní správa politická v Mostě, 24. 10. 1924",
         "Výměr Okresního úřadu v Pelhřimově č. 30435/40 o určení domovského práva (8. 9. 1940)",
         "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
-        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/"
+        "SOA Litoměřice, Sbírka matrik Severočeského kraje (NAD 856), sign. 150/26 (N Souš 1894–1903), snímek 287, poř. č. 184 – https://digi.soalitomerice.cz/digitalnibadatelna/",
+        "SOA Litoměřice, civilní matrika zemřelých okresního úřadu Most 1924–1935 (C18/7), fol. 279, snímek 284, poř. č. 317 – https://www.badatelna.eu"
       ],
       scans: [
         {"f":"img/1942_rodny_list_vladimir_votava_kopisty.jpg","t":"Rodný list syna Vladimíra (1942)"},
@@ -587,7 +589,8 @@ window.RODOKMEN = {
         "Rodiče Josef Čapek a Marie, roz. Tůkalová. Křestní list (1924) i úmrtní list (1984) mají Tůkalová / Tukalová; „Fukalová“ v rodném listu syna (1956) je chyba opisu (první písmeno přepsané na stroji).",
         "Domovské právo v Souši (domovský list 28. 5. 1931: manželka horníka – dělnice).",
         "Zemřela jako vdova v Mostě; zpopelněna 3. 8. 1984 v Mostě.",
-        "Její rodiče Čapkovi bydleli v Komořanech u Mostu – syn Václav (*1933) je znal za první republiky a za války."
+        "Její rodiče Čapkovi bydleli v Komořanech u Mostu – syn Václav (*1933) je znal za první republiky a za války.",
+        "KANDIDÁT (K+): civilní matrika zemřelých Most 1924 – „Čapek Václav, roz. v Komořanech, nemanž. syn Jany Čapkové, bytem v Komořanech čp. 175“, nar. 27. 6. 1924, † 11. 10. 1924 Komořany 175, bez vyznání, akutní střevní katar (M zápis; ztotožnění s Janou K+: Komořany – bydliště Čapkových, bez vyznání jako Jana, týden před sňatkem s Václavem Votavou, jméno Václav). Rodiče Josef a Marie Čapkovi tedy asi 1924 v Komořanech 175 (K)."
       ],
       sources: [
         "Úmrtní list Jany Votavové, MNV Most (vydán 15. 8. 1984)",
@@ -598,7 +601,8 @@ window.RODOKMEN = {
         "Výtah z knihy křtěných a oddaných (sňatek 18. 10. 1924 Most), Okresní správa politická v Mostě, 24. 10. 1924",
         "Domovský list Jany Votavové, obec Souš, č. 1023/31 (28. 5. 1931)",
         "Dopis Václava Votavy (*1933) vnučce Aničce s tabulkou dat předků (po r. 2007) – rodinná paměť",
-        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36"
+        "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
+        "SOA Litoměřice, civilní matrika zemřelých okresního úřadu Most 1924–1935 (C18/7), fol. 2, snímek 6, poř. č. 232 – https://www.badatelna.eu"
       ],
       scans: [
         {"f":"img/1942_rodny_list_vladimir_votava_kopisty.jpg","t":"Rodný list syna Vladimíra (1942)"},
@@ -991,7 +995,8 @@ window.RODOKMEN = {
         "Později bydlel s manželkou v Komořanech u Mostu (dopis vnuka).",
         "Sňatek 14. 9. 1897 v Mladé Boleslavi (byt čp. 126-I): dělník v Ml. Boleslavi, rodem z Rabakova, příslušný do Jeseníka (?); křestní list z fary Řitonice (23. 8. 1897). Svědci František Horyna (?), topič plynárny, a Josef Kříček (?), truhlář.",
         "KANDIDÁT – sourozenci podle rejstříku křtů Řitonice (zápisy nečteny): Marie 1862, Václav 1865, Antonín 1867, Anna 1871, všichni z Rabakova.",
-        "Úmrtí není v rejstřících Z Mladá Boleslav 1892–1924 (knihy 68, 79, 80, 81, 82; jiní Josefové Čapkové 1906, 1914) – podle rodiny žil později v Komořanech u Mostu."
+        "Úmrtí není v rejstřících Z Mladá Boleslav 1892–1924 (knihy 68, 79, 80, 81, 82; jiní Josefové Čapkové 1906, 1914) – podle rodiny žil později v Komořanech u Mostu.",
+        "Úmrtí není online: v rejstříku civilní Z okresního úřadu Most 1924–1935 (C18/7, C/Č) není; Z Souš/Komořany 1881–1949 nedigitalizováno (Litoměřice 20) – jen žádostí."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
@@ -1029,7 +1034,8 @@ window.RODOKMEN = {
         "Dcera Jana Tůkala, baráčníka v Kosíku č. 52, a Františky, dcery Václava Šnajdra, chalupníka z Pojedí č. 9 (okr. Libáň).",
         "Rodné příjmení Tůkalová potvrzuje matrika (křest dcery 1903); „Fukalová“ v rodném listu vnuka (1956) je chyba opisu.",
         "Při sňatku 1897 služebná v Mladé Boleslavi; křestní list z fary Rožďalovice (19. 8. 1897) – Kosík patřil k Rožďalovicím.",
-        "ROZPOR v datu narození: křestní matrika 7. 12. 1874; oddací zápis 1897 a křest dcery 1903 uvádějí 3. 12. 1874. Platí křestní matrika."
+        "ROZPOR v datu narození: křestní matrika 7. 12. 1874; oddací zápis 1897 a křest dcery 1903 uvádějí 3. 12. 1874. Platí křestní matrika.",
+        "Úmrtí není online: v rejstříku civilní Z okresního úřadu Most 1924–1935 (C18/7, C/Č) není; Z Souš/Komořany 1881–1949 nedigitalizováno (Litoměřice 20) – jen žádostí."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
