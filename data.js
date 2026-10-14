@@ -760,7 +760,8 @@ window.RODOKMEN = {
         {"f":"img/1924_Z_Hrazdilek_Jaroslav_Herspice_str116.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1924 – syn Vladimíra a Marie roz. Jeřábkové"},
         {"f":"img/1924_O_Hrazdilek_Vladimir_Jerabkova_Marie_Herspice_str104_cely.jpg","t":"Sňatek Vladimíra Hrazdílka a Marie Jeřábkové, Heršpice 5. 5. 1924"},
         {"f":"img/1932_Z_Hrazdilek_Jaroslav_Herspice_str128.jpg","t":"Úmrtí Jaroslava Hrazdílka, Heršpice 1932"},
-        {"f":"img/1933_Z_Hrazdilek_Alois_Herspice_str129.jpg","t":"Úmrtí Aloise Hrazdílka, Heršpice 1933"}
+        {"f":"img/1933_Z_Hrazdilek_Alois_Herspice_str129.jpg","t":"Úmrtí Aloise Hrazdílka, Heršpice 1933"},
+        {"f":"img/1935_Z_Hrazdilek_Rajmund_Herspice.jpg","t":"Úmrtí otce Rajmunda Hrazdílka, Heršpice 4. 2. 1935"}
       ]
     },
     {
@@ -4466,26 +4467,28 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"31. 3. 1880","year":1880,"place":"Heršpice"},
       d: {"date":"4. 2. 1935","year":1935,"place":"Heršpice č. p. 147"},
-      cause: "zánět ledvin (?)",
+      cause: "lalokový zánět plic",
       mother: "frantiska_h",
       spouse: "marie_je",
       occ: "zedník, domkář a továrenský dělník v Heršpicích",
       marriage: "20. 7. 1904, Heršpice – s Marií Julinkovou (Jelínkovou)",
       notes: [
         "Nemanželský syn Františky Hrazdílkové, dcery Martina Hrazdílka, domkaře v Heršpicích, a Cecilie roz. Kirchnerové. Rejstřík narozených: 1880 Heršpice str. 95.",
-        "Oddán 20. 7. 1904 v Heršpicích jako zedník, bydliště č. 152; svědci Jan Hrazdílek a Dominik (?) Střebek, domkáři v Heršpicích. Zemřel 4. 2. 1935 (54 let) v Heršpicích č. 147.",
+        "Oddán 20. 7. 1904 v Heršpicích jako zedník, bydliště č. 152; svědci Jan Hrazdílek a Dominik (?) Střebek, domkáři v Heršpicích. Zemřel 4. 2. 1935 v Heršpicích č. 147 (pohřben 6. 2., kaplan Vojtěch Kirchner): „Hrazdílek Rajmund, zednický pomocník, ženatý, v Heršpicích, nar. v Heršpicích 31/3 1880, odd. ve farnosti 20/7 1904“, 54 let 11 m. 3 d., lalokový zánět plic (M) – manželka Marie tehdy žila.",
         "Otec: křestní kniha N Heršpice 1880 online není (jen rejstřík 13159) – okrajové přípisy jen doslovným výpisem z MÚ Slavkov; legitimace sňatkem matky nenastala (matka 1904 svobodná, Rajmund stále Hrazdílek)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
         "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 131, snímek 67, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384",
-        "MZA Brno, fara Slavkov, rejstřík N 1852–1949, sign. 13159 (1880 str. 95; 1904 str. 183; 1905 str. 184) – https://www.mza.cz/actapublica/matrika/detail/1971"
+        "MZA Brno, fara Slavkov, rejstřík N 1852–1949, sign. 13159 (1880 str. 95; 1904 str. 183; 1905 str. 184) – https://www.mza.cz/actapublica/matrika/detail/1971",
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949 (sign. 13155), str. 131, snímek 67 vpravo, č. 1/1935; index Z 13162 sn. 67 – https://www.mza.cz/actapublica/matrika/detail/12384"
       ],
       scans: [
         {"f":"img/1924_O_Hrazdilek_Vladimir_Jerabkova_Marie_Herspice_str104_cely.jpg","t":"Sňatek Vladimíra Hrazdílka a Marie Jeřábkové, Heršpice 5. 5. 1924"},
         {"f":"img/1904_O_Hrazdilek_Rajmund_Julinkova_Marie_Herspice_str77.jpg","t":"Sňatek Rajmunda Hrazdílka a Marie Julinkové, Heršpice 20. 7. 1904"},
         {"f":"img/1935_Z_Hrazdilek_Rajmund_Herspice_str131.jpg","t":"Úmrtí Rajmunda Hrazdílka, Heršpice 1935"},
-        {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Cecilie Hrazdílkové a vnuka Josefa, Heršpice 1913"}
+        {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Cecilie Hrazdílkové a vnuka Josefa, Heršpice 1913"},
+        {"f":"img/1935_Z_Hrazdilek_Rajmund_Herspice.jpg","t":"Úmrtí 4. 2. 1935, Heršpice č. 147"}
       ]
     },
     {
@@ -4501,7 +4504,8 @@ window.RODOKMEN = {
       marriage: "20. 7. 1904, Heršpice – s Rajmundem Hrazdílkem",
       notes: [
         "Pokřtěna 4. 12. 1881 v Uhřicích (fara Dambořice) jako Mariana; otec Jan Jelínek, podruh v Uhřicích, syn † Františka Jelínka ze Ždánic; matka Mariana, dcera Fabiána Buchlovského (?), domkáře v Uhřicích.",
-        "Při sňatku 1904 služebná v Heršpicích č. 44, 23 let. ROZPOR v příjmení: 1881 a 1924 „Jelínek“, 1904 „Julinková“."
+        "Při sňatku 1904 služebná v Heršpicích č. 44, 23 let. ROZPOR v příjmení: 1881 a 1924 „Jelínek“, 1904 „Julinková“.",
+        "Ovdověla 4. 2. 1935 (M). Její úmrtí není v indexu Z fary Slavkov 1904–1949 – zemřela po 1949 nebo jinde."
       ],
       sources: [
         "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
@@ -4510,7 +4514,9 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1904_O_Hrazdilek_Rajmund_Julinkova_Marie_Herspice_str77.jpg","t":"Sňatek Rajmunda Hrazdílka a Marie Julinkové, Heršpice 20. 7. 1904"},
-        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest Mariany Jelínkové, Uhřice 1881"}
+        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest Mariany Jelínkové, Uhřice 1881"},
+        {"f":"img/1935_Z_Hrazdilek_Rajmund_Herspice.jpg","t":"Úmrtí manžela Rajmunda, Heršpice 4. 2. 1935"},
+        {"f":"img/1897_Z_Jelinek_Jan_Uhrice.jpg","t":"Úmrtí otce Jana Jelínka, Uhřice 15. 2. 1897"}
       ]
     },
     {
@@ -4597,7 +4603,8 @@ window.RODOKMEN = {
       line: "jelinek",
       cert: "M",
       b: {"date":"1. 4. 1849","year":1849,"place":"Džbánice č. p. 8 (fara Trstěnice, okr. Znojmo)"},
-      d: {"date":"před 20. 7. 1904","year":1904,"approx":true},
+      d: {"date":"15. 2. 1897","year":1897,"place":"Uhřice č. p. 164"},
+      cause: "zápal plic",
       father: "jiri_je",
       mother: "frantiska_je",
       spouse: "mariana_bu",
@@ -4607,16 +4614,19 @@ window.RODOKMEN = {
         "Pokřtěn 1. 4. 1849 v Džbánicích č. 8 (fara Trstěnice): otec Jiří (Georg) Jelínek, čtvrtník z Džbánic, matka Františka, manželská dcera Václava a Marianny Jelínkových, podruhů z Džbánic. Ztotožnění s kožešníkem v Uhřicích: ve křtech jeho dětí „Sohn des Georg Jelinek … in Žbanitz Pfarre Stiegnitz u. Franziska geb. Jelinek“ (dřívější čtení „Zbanitz Pfarre Steinitz“ = Ždánice bylo chybné). Sourozenci: Františka 1840, Cecílie 1843, Klára 1846, Kateřina 1851.",
         "Otec Marie Hrazdílkové; syn † Františka Jelínka ze Ždánic. Sňatek 25. 7. 1875 podle rejstříku oddaných Dambořice/Uhřice (kniha O Uhřice před 1878 není online).",
         "Křty dětí v Uhřicích č. 64 (MZA, Dambořice, N Uhřice 5208, sn. 103 a 123): Josef 2./3. 3. 1876 (†), Ludvík 16./17. 8. 1880 († 26. 9. 1880), Mariana 1881. Jan „ehel. Sohn des Franz (1876) / † Georg (1880) Jelinek, Kürschner/Häusler in Žbanitz (Džbánice) Pfarre Stiegnitz (Trstěnice), u. Franziska geb. Jelinek“ – ROZPOR rozhodnut křtem 1849: otec Jiří; „Franz“ 1876/1881 je omyl. Jiří zemřel mezi III 1876 a VIII 1880 (úmrtí zatím nenalezeno).",
-        "Otec nemanželského Rajmunda Hrazdílka (*1880) z křtu online nezjistitelný – N Heršpice 1857+ online není (jen index); Rajmund nebyl legitimován."
+        "Otec nemanželského Rajmunda Hrazdílka (*1880) z křtu online nezjistitelný – N Heršpice 1857+ online není (jen index); Rajmund nebyl legitimován.",
+        "Zemřel 15. 2. 1897 v Uhřicích č. 164 (pohřben 17. 2.): „Jan Jelínek, kožešnický pomocník v Uhřicích“, 47 let, zápal plic; „Nar. ve Žbanicích (fara Kotěnice [= Trstěnice], okr. Krumlov). Oddán v Uhřicích 4/2 1875 (tehda 36letý ?)“ (M; ztotožnění D – rodiště, povolání i Uhřice sedí). ROZPOR: den sňatku 4. 2. × 25. 7. 1875 (rejstřík) a „36letý“ × křest 1849."
       ],
       sources: [
         "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, str. 77, snímek 41, sign. 13144 – https://www.mza.cz/actapublica/matrika/detail/12387",
-        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217"
+        "MZA Brno, fara Trstěnice (okr. Znojmo), N 1829–1863 (sign. 14734), oddíl Džbánice (Žbanitz) 1849, pag. 480, snímek 203 vlevo – https://www.mza.cz/actapublica/matrika/detail/2217",
+        "MZA Brno, fara Dambořice, Z Uhřice (sign. 5220), str. 104, snímek 56 vlevo, č. 8; index Z 5222b sn. 24 vpravo – https://www.mza.cz/actapublica/matrika/detail/12953"
       ],
       scans: [
         {"f":"img/1849_N_Jelinek_Jan_Dzbanice.jpg","t":"Křest Jana Jelínka, Džbánice č. 8, 1. 4. 1849"},
-        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest Mariany Jelínkové, Uhřice 1881"}
+        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest Mariany Jelínkové, Uhřice 1881"},
+        {"f":"img/1897_Z_Jelinek_Jan_Uhrice.jpg","t":"Úmrtí 15. 2. 1897, Uhřice č. 164"}
       ]
     },
     {
@@ -4631,7 +4641,8 @@ window.RODOKMEN = {
       spouse: "jan_je",
       notes: [
         "Pokřtěna 6. 1. 1851 v Uhřicích č. 30 (kooperátor Josef Oderský); otec Fabián Buchlovský, čtvrtláník v Uhřicích; matka Františka, dcera Josefa Bělohoubka, čtvrtláníka v Uhřicích. Bratr Matouš (*IX 1848).",
-        "Matka Marie Hrazdílkové; sňatek s Janem Jelínkem 25. 7. 1875 (rejstřík)."
+        "Matka Marie Hrazdílkové; sňatek s Janem Jelínkem 25. 7. 1875 (rejstřík).",
+        "Ovdověla 15. 2. 1897 (M). Její úmrtí není v indexu Z Dambořice/Uhřice 1882–1949 (pod Jelínková) – možný 2. sňatek."
       ],
       sources: [
         "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 158 – https://www.mza.cz/actapublica/matrika/detail/4944",
@@ -4640,7 +4651,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1851_N_Uhrice_5208_sn7_str12_Buchlovska_Mariana.jpg","t":"Křest Mariany Buchlovské, Uhřice 1851"},
-        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest dcery Mariany Jelínkové, Uhřice 1881"}
+        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest dcery Mariany Jelínkové, Uhřice 1881"},
+        {"f":"img/1897_Z_Jelinek_Jan_Uhrice.jpg","t":"Úmrtí manžela Jana, Uhřice 15. 2. 1897"}
       ]
     },
     {
@@ -4788,7 +4800,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949, str. 104, snímek 54, sign. 13155 – https://www.mza.cz/actapublica/matrika/detail/12384"
       ],
       scans: [
-        {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Josefa Hrazdílka, Heršpice 1913"}
+        {"f":"img/1913_Z_Hrazdilkova_Cecilie_Hrazdilek_Josef_Herspice_str104.jpg","t":"Úmrtí Josefa Hrazdílka, Heršpice 1913"},
+        {"f":"img/1935_Z_Hrazdilek_Rajmund_Herspice.jpg","t":"Úmrtí otce Rajmunda Hrazdílka, Heršpice 4. 2. 1935"}
       ]
     },
     {
