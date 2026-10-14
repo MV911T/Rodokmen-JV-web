@@ -4020,17 +4020,20 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true,"place":"Suchomasty"},
       father: "jan_sta",
+      mother: "ludmila_vd",
       notes: [
-        "Matka Magdaleny Svobodové (nemanželské dcery); dcera † Jana Stádlera, mistra polního (?) z Tetína (?).",
-        "Matka Ludmila roz. Vadlejšková (?) z Hořaždovic (?)."
+        "Matka Magdaleny Svobodové (nemanželské dcery); dcera † Jana Stadlera, mistra polního z Tetína, a matky Ludmily rozené Vadlejškové z Hořaždovic (křest vnučky 1848, Borek 09 sn. 38 vpravo – ověřeno ve 2× zvětšení; potvrzuje sňatek 1874, Borek 20 sn. 28; M). Hypotéza „Sladký, krejčí z Tetína“ vyvrácena.",
+        "Křest v N Borek 1789–1821 ani Tetín 1737–1811 není (Praha N12) – narozena jinde (Hořaždovice ?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28"
       ],
       scans: [
-        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Magdalena Svobodová)"}
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Magdalena Svobodová)"},
+        {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest vnučky 1848 – rodokmen Stadlerových (Borek)"}
       ]
     },
     {
@@ -4213,15 +4216,18 @@ window.RODOKMEN = {
       line: "stadler",
       cert: "M",
       b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
-      occ: "mistr polní (?), Tetín (?)",
+      spouse: "ludmila_vd",
+      occ: "mistr polní (polní mistr) v Tetíně",
       notes: [
-        "Otec Ludmily Stádlerové; čtení povolání a místa nejisté."
+        "Otec Ludmily Stádlerové: „† Jan Stadler, mistr polní z Tetína“ (křest 1848 Borek 09 sn. 38; sňatek 1874 Borek 20 sn. 28; M). Manželka Ludmila roz. Vadlejšková z Hořaždovic. V rejstřících N a O Tetín 1737–1811 / 1743–1803 není – do Tetína přišel odjinud."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28"
       ],
       scans: [
-        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Magdalena Svobodová) (dítě: Ludmila Stádlerová)"}
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Magdalena Svobodová) (dítě: Ludmila Stádlerová)"},
+        {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest pravnučky 1848 – zmínka o Janu Stadlerovi"}
       ]
     },
     {
@@ -11791,7 +11797,8 @@ window.RODOKMEN = {
       spouse: "anna_mh0",
       occ: "sedlák ve Zdicích",
       notes: [
-        "Otec Dominika Merhauta: křest 1754 „otce Víta Merhauta, matky Anny“ a oddací zápis syna 1776 „filius Viti Merhout, rustici ex Zdicz“ (M). Sňatek s Annou v O Zdice 1744–1753 není (Praha N10–N11) → nejspíš před 1744; zdické matriky 1717–1743 se nedochovaly."
+        "Otec Dominika Merhauta: křest 1754 „otce Víta Merhauta, matky Anny“ a oddací zápis syna 1776 „filius Viti Merhout, rustici ex Zdicz“ (M). Sňatek s Annou v O Zdice 1744–1753 není (Praha N10–N11) → nejspíš před 1744; zdické matriky 1717–1743 se nedochovaly.",
+        "KANDIDÁT křtu (K, silný): 1. 6. 1732 (?) „z Bavořinie … pokřtěn Vít, otce Martina Merhauta, matky Marie Magdaleny“, křtil P. František Habl ve Zdicích (Žebrák 03 N, str. 72, sn. 38 vlevo; M zápis; rok z tužkové poznámky str. 77). Jediný Vít v rejstříku N Žebrák 03 (M, 1729–1760); Bavoryně patří ke Zdicím. Vazba na sedláka Víta ze Zdic zatím nedoložena."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), fol. 37, sn. 40 vpravo; O sn. 318 vlevo"
@@ -11912,6 +11919,24 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest syna Martina, Heršpice 1779"},
         {"f":"img/1776_O_Svoboda_Jakub_Ondrova_Marianna_Herspice.jpg","t":"Sňatek s Jakubem Svobodou, 1776"}
+      ]
+    },
+    {
+      id: "ludmila_vd",
+      name: "Ludmila Stadlerová",
+      maiden: "Vadlejšková",
+      line: "stadler",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true,"place":"Hořaždovice (?)"},
+      spouse: "jan_sta",
+      notes: [
+        "Matka Ludmily Stádlerové: „matky Ludmily rozené Vadlejškové z Hořaždovic“ (křest vnučky Magdaleny 1848, Borek 09 sn. 38 vpravo; M). Hořaždovice = asi Horažďovice (Prácheňsko)."
+      ],
+      sources: [
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28"
+      ],
+      scans: [
+        {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest pravnučky 1848 – zmínka o Ludmile roz. Vadlejškové"}
       ]
     }
   ]
