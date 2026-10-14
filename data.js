@@ -2615,6 +2615,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
       d: {"date":"19. 10. 1848","year":1848,"place":"Osek u Rokycan č. p. 72"},
       cause: "zápal plic (?)",
+      father: "petr_au",
+      mother: "dorota_au",
       spouse: "anna_ho",
       occ: "výminkář v Oseku č. 72 (1849)",
       marriage: "28. 4. 1807, Osek č. 72 – s vdovou Annou (roz. Holubovou)",
@@ -2625,8 +2627,7 @@ window.RODOKMEN = {
         "Vyvrácený kandidát: Kašpar, syn Matěje Aubrechta, sedláka z Oseka č. 55 (* 18. 12. 1777), zemřel v prosinci 1777 ve věku 10 dní (Osek 08, sn. 9).",
         "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110). Sourozenci z téže rodiny (Petr × Dorota, Volduchy, kmotři Vitorovi a Aubrechtovi): Anna 30. 5. 1774 (č. 11), Bartoloměj 17. 8. 1776 (č. 11), Jan Nepomuk (?) 14. 4. 1779 (č. 20), Josef 28. 3. 1783 († 17. 1. 1784). Petr Aubrecht z č. 20 v rejstříku úmrtí Volduchy do 1820 není; sňatek nalezen jen v přeškrtnuté kopii Osek 04 (sn. 86 vpravo): 22. 7. 1772 Volduchy č. 11 – Petr Aubrecht, sedlák ve Volduchách, syn Bartoloměje Aubrechta, s Dorotou, dcerou † Martina (?) Zady (?), sedláka z Volduch (čtení nevěsty nejisté; originál v Osek 07 neověřen). Posíleno (Plzeň 56): v Oseku a Volduchách IV 1782 – VI 1784 se žádný jiný Kašpar Aubrecht nenarodil; je to jediný Kašpar Aubrecht narozený ve faře 1774 – VI 1784, který nezemřel jako dítě (K++).",
         "Zemřel 19. 10. 1848 v Oseku č. 72 (pohřben 21. 10., zaopatřen 15. 10.): „Aubrecht Kašpar, wdowec a muž † ženy Anny, a wejminkář, pod. k Mirošowu“ (= poddaný panství Mirošov, ne rodiště), 65 let (M; → *~1783). ROZPOR: povolání „výminkář v Oseku č. 72 (1849)“ pochází z křtu vnuka 1849 – tehdy už nežil; platí zápis o úmrtí.",
-        "KANDIDÁTNÍ rodiče (K+, navazuje na křest 1781): Petr, syn Bartla Aubrechta, sedláka z Volduch, × 22. 7. 1772 Volduchy č. 11 Dorota, dcera † Martina Czady (Čady), sedláka z Volduch (Osek 07 O str. 37, sn. 38 vpravo; M zápis). Dorota pokřtěna 27. 12. 1753 ve Volduchách (Martin Čada × Kateřina Hanzlíková, × 14. 11. 1751; Osek 03 N str. 126; K+). Platí-li, je Pavel Čada z Volduch předkem dvakrát (přes bratry Matouše a Martina).",
-        "K řetězci výše: Dorota Aubrechtová † XII 1803 Volduchy č. 20 (dům křtu Kašpara 1781), 51 let (Osek 08 Z fol. 77; K+). Kmotři dětí Kašpara 1809–1819 (Jan a Magdalena Aubrechtovi, Boušlavovi z Oseka) vazbu na Volduchy nepotvrzují ani nevyvracejí."
+        "Rodiče Petr Aubrecht × Dorota Čadová z Volduch č. 20 – KANDIDÁTI (K, silní; viz karta Petra): zápis o křtu 1781 (M) ztotožněn nepřímo – jediný Kašpar téhož věku, v dětství nezemřel, dvojí svatba s bratrem Janem 28. 4. 1807. Rodiče výslovně neuvádí žádný zápis."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
@@ -2644,7 +2645,8 @@ window.RODOKMEN = {
         {"f":"img/1781_N_Aubrecht_Kaspar_Volduchy20.jpg","t":"KANDIDÁT: křest Kašpara Aubrechta, Volduchy č. 20, 3. 2. 1781 (otec Petr, matka Dorota)"},
         {"f":"img/1777_Z_Aubrecht_Kaspar_syn_Mateje_Osek55.jpg","t":"Úmrtí Kašpara, syna Matěje Aubrechta, Osek č. 55, XII 1777 (10 dní) – vyvrácený kandidát"},
         {"f":"img/1848_Z_Aubrecht_Kaspar_Osek.jpg","t":"Úmrtí 19. 10. 1848, Osek č. 72"},
-        {"f":"img/1847_Z_Aubrechtova_Anna_Osek.jpg","t":"Úmrtí manželky Anny, Osek 29. 3. 1847"}
+        {"f":"img/1847_Z_Aubrechtova_Anna_Osek.jpg","t":"Úmrtí manželky Anny, Osek 29. 3. 1847"},
+        {"f":"img/1807_O_Aubrecht_Jan_Holubova_Marie_Volduchy.jpg","t":"Sňatek bratra Jana s Marií Holubovou (týž den), 1807"}
       ]
     },
     {
@@ -7164,7 +7166,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Matouše Čady (sňatek 1744).",
         "Dcera Markéta se v květnu 1741 provdala za Víta Nového z Oseka; družbou Václav Čada (asi syn). Matěj Čada z Volduch (sňatek 1740) byl syn Jana (?) Čady – jiná rodina.",
-        "Syn Martin pokřtěn 6. 10. 1728 ve Volduchách – „Martin, vlastní syn Pavla Čady a Markéty, manželky jeho“ (Osek 02 N str. 7, sn. 5 vpravo; M) → manželka Pavla 1728 = Markéta (KANDIDÁTKA na matku Matouše). Martin × 14. 11. 1751 Kateřina, dcera Prokopa Hanzlíka (* 7. 11. 1728, Prokop × Barbora; K+), † 1. 8. 1759 Volduchy, „34 let“ (Osek 03 Z sn. 193; K+)."
+        "Syn Martin pokřtěn 6. 10. 1728 ve Volduchách – „Martin, vlastní syn Pavla Čady a Markéty, manželky jeho“ (Osek 02 N str. 7, sn. 5 vpravo; M) → manželka Pavla 1728 = Markéta (KANDIDÁTKA na matku Matouše). Martin × 14. 11. 1751 Kateřina, dcera Prokopa Hanzlíka (* 7. 11. 1728, Prokop × Barbora; K+), † 1. 8. 1759 Volduchy, „34 let“ (Osek 03 Z sn. 193; K+).",
+        "Druhý syn Martin (*1728 × 1751 Kateřina Hanzlíková, † 1759) – KANDIDÁT předka přes Dorotu Aubrechtovou (K)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o"
@@ -11540,6 +11543,90 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 N str. 84, 105"
+      ]
+    },
+    {
+      id: "petr_au",
+      name: "Petr Aubrecht",
+      line: "aubrecht",
+      cert: "K",
+      b: {"date":"neznámé (asi 1749)","year":1749,"approx":true,"place":"Volduchy (fara Osek)"},
+      spouse: "dorota_au",
+      occ: "sedlák ve Volduchách č. 20",
+      marriage: "1) 22. 7. 1772 Volduchy – s Dorotou Čadovou; 2) 3. 7. 1804 – s Markétou Kermesovou (?)",
+      notes: [
+        "KANDIDÁT (K, silný): otec Kašpara Aubrechta. Kašpar pokřtěn 3. 2. 1781 ve Volduchách č. 20 jako syn Petra Aubrechta, sedláka, a Doroty (Osek 05, sn. 77; M). Ztotožnění s Kašparem z Oseka č. 72 nepřímé: jediný jiný dospělý Kašpar Aubrecht ve faře je o generaci starší (*~1751, Volduchy č. 10, † 1813); Kašpar *1781 v dětství nezemřel; 28. 4. 1807 dvojí svatba – Kašpar s Annou a Jan Aubrecht z Volduch č. 20 (syn Petra) s Marií, obě dcery Václava Holuba z Oseka č. 8, se stejnými svědky (Osek 07 str. 37, sn. 56 vpravo; M).",
+        "Oddán 22. 7. 1772 ve Volduchách č. 11: „Peter Sohn des Bartl Aubrecht Bauern v Woldüch mit Dorothea Tochter des verst. Martin Czada Bauern v Woldüch“ (Osek 07 str. 37, sn. 38 vpravo; M).",
+        "Jako vdovec, sedlák ve Volduchách č. 20, 55 let, oddán 3. 7. 1804 s Markétou, dcerou † Matěje Kermese (?), 28 let (Osek 07 str. 35, sn. 55 vpravo; M) → *~1749. Úmrtí po 1820 (index Osek 10 Z – nečteno)."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 07 (O 1772–1820), oddíl Volduchy, str. 37 (sn. 38 vpravo; 22. 7. 1772), str. 35 (sn. 55 vpravo; 3. 7. 1804), str. 37 (sn. 56 vpravo; 28. 4. 1807) – https://www.portafontium.eu/iipimage/30066673/osek-07_0380-so",
+        "SOA Plzeň, Osek 05 N, sn. 77 (křest Kašpara 3. 2. 1781)"
+      ],
+      scans: [
+        {"f":"img/1772_O_Aubrecht_Petr_Cadova_Dorota_Volduchy.jpg","t":"Sňatek s Dorotou Čadovou, Volduchy 22. 7. 1772"},
+        {"f":"img/1804_O_Aubrecht_Petr_Kermesova_Marketa_Volduchy.jpg","t":"2. sňatek s Markétou Kermesovou, 1804"},
+        {"f":"img/1807_O_Aubrecht_Jan_Holubova_Marie_Volduchy.jpg","t":"Sňatek syna Jana s Marií Holubovou, 1807"}
+      ]
+    },
+    {
+      id: "dorota_au",
+      name: "Dorota Aubrechtová",
+      maiden: "Čadová",
+      line: "aubrecht",
+      cert: "K",
+      b: {"date":"26. (?) 12. 1753","year":1753,"place":"Volduchy (fara Osek)"},
+      d: {"date":"20. 12. 1803","year":1803,"place":"Volduchy č. p. 20"},
+      cause: "souchotiny (Lungensucht)",
+      father: "martin_ca",
+      mother: "katerina_hzc",
+      spouse: "petr_au",
+      marriage: "22. 7. 1772 Volduchy – s Petrem Aubrechtem",
+      notes: [
+        "KANDIDÁTKA (K, silná): matka Kašpara Aubrechta (viz Petr Aubrecht).",
+        "Pokřtěna 27. 12. 1753 ve Volduchách: „Dorota, vlastní dcera otce Martina Čady, matky Kateřiny“; kmotra Dorota Dudlová z Volduch (Osek 03 N str. 126, sn. 66 vlevo; M zápis, ztotožnění K+ – jediná Dorota Čadová 1740–1760).",
+        "Zemřela 20. 12. 1803 ve Volduchách č. 20, 51 let, souchotiny (Osek 08 Z fol. 77, sn. 110 vlevo; M zápis)."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 07 (O 1772–1820), oddíl Volduchy, str. 37 (sn. 38 vpravo)",
+        "SOA Plzeň, Osek 03 N str. 126 (sn. 66 vlevo); Osek 08 Z fol. 77 (sn. 110 vlevo)"
+      ],
+      scans: [
+        {"f":"img/1772_O_Aubrecht_Petr_Cadova_Dorota_Volduchy.jpg","t":"Sňatek s Petrem Aubrechtem, Volduchy 1772"}
+      ]
+    },
+    {
+      id: "martin_ca",
+      name: "Martin Čada",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"5. 10. 1728","year":1728,"place":"Volduchy (fara Osek)"},
+      d: {"date":"1. 8. 1759","year":1759,"place":"Volduchy"},
+      father: "pavel_ca",
+      spouse: "katerina_hzc",
+      occ: "sedlák ve Volduchách",
+      marriage: "14. 11. 1751 – s Kateřinou Hanzlíkovou",
+      notes: [
+        "KANDIDÁT (K+): otec Doroty Aubrechtové (sňatek dcery 1772 „Tochter des verst. Martin Czada Bauern v Woldüch“). Narozen 5. 10., pokřtěn 6. 10. 1728 ve Volduchách: „Martin, vlastní syn Pavla Čady a Markéty“ (Osek 02 N str. 7, sn. 5 vpravo; M zápis). Oddán 14. 11. 1751: „Martin, vlastní syn Pavla Čady z Volduch, s Kateřinou, vlastní dcerou Prokopa Hanzlíka“ (Osek 03 O str. 45, sn. 131 vpravo; M). Zemřel 1. 8. 1759 ve Volduchách, „34 let“ (Osek 03 Z sn. 193 vlevo; ztotožnění K+). Bratr Matouše Čady → Pavel Čada je v tom případě předkem dvakrát."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 7 (sn. 5 vpravo); Osek 03 O str. 45 (sn. 131 vpravo); Osek 03 Z sn. 193 vlevo – https://www.portafontium.eu/iipimage/30066669/osek-03_1930-z"
+      ]
+    },
+    {
+      id: "katerina_hzc",
+      name: "Kateřina Čadová",
+      maiden: "Hanzlíková",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"7. 11. 1728","year":1728,"place":"Volduchy (fara Osek)"},
+      spouse: "martin_ca",
+      marriage: "14. 11. 1751 – s Martinem Čadou",
+      notes: [
+        "KANDIDÁTKA (K+): matka Doroty Aubrechtové. Narozena 7. 11., pokřtěna 8. 11. 1728 ve Volduchách: „Kateřina, vlastní dcera Prokopa Hanzlíka a Barbory“ (Osek 02 N str. 8, sn. 6 vlevo; M zápis, jediná v rejstříku). Rodiče: Prokop Hanzlík × Barbora (sňatek nehledán)."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 8 (sn. 6 vlevo); Osek 03 O str. 45 (sn. 131 vpravo)"
       ]
     }
   ]
