@@ -6488,7 +6488,8 @@ window.RODOKMEN = {
         {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841 (dítě: Jakub Svoboda)"},
         {"f":"img/1817_N_13123_sn408_str420_Herspice_Svoboda_Jakub_Tichy_Magdalena.jpg","t":"Křest syna Jakuba Svobody, Heršpice 20. 7. 1817"},
         {"f":"img/1836_Z_Svoboda_Martin_Herspice.jpg","t":"Úmrtí 26. 8. 1836, Heršpice č. 52"},
-        {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest Martina, Heršpice 2. 11. 1779 (kandidát)"}
+        {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest Martina, Heršpice 2. 11. 1779 (kandidát)"},
+        {"f":"img/1776_O_Svoboda_Jakub_Ondrova_Marianna_Herspice.jpg","t":"Sňatek rodičů Jakuba Svobody a Marianny, 1776 (kandidát)"}
       ]
     },
     {
@@ -11865,31 +11866,40 @@ window.RODOKMEN = {
       cert: "K",
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Heršpice"},
       spouse: "marianna_svh",
+      marriage: "22. 10. 1776, Heršpice – s Mariannou Ondrovou (?)",
       notes: [
-        "KANDIDÁT (K+): otec Martina Svobody – křest 2. 11. 1779 Heršpice, „Jacobus Svoboda et Marianna uxor ejus, Herspicio“ (N 13122, sn. 10 vpravo; M zápis). Sňatek (O 13121 ~1769–1778) nehledán."
+        "KANDIDÁT (K+): otec Martina Svobody – křest 2. 11. 1779 Heršpice, „Jacobus Svoboda et Marianna uxor ejus, Herspicio“ (N 13122, sn. 10 vpravo; M zápis).",
+        "Oddán 22. 10. 1776 (Heršpice): „Swoboda Jacobus [opraveno z Franciscus], honestus juvenis, cum honesta puella filia Marianna post † Mathaeum Ondra ex Bučovicensi platea Aust[erlicensi]“; svědci Tobiáš Malač (kmotr Martina 1779) a Šimon Kučera z Heršpic (O 13121, sn. 347 vpravo; M zápis, ztotožnění K+; rodiče ženicha neuvedeni). Jiný Jakub Svoboda ženich 1769–1776 není."
       ],
       sources: [
-        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13122 sn. 10 vpravo"
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13122 sn. 10 vpravo",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, O 13121, sn. 347 vpravo (22. 10. 1776) – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
-        {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest syna Martina, Heršpice 1779"}
+        {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest syna Martina, Heršpice 1779"},
+        {"f":"img/1776_O_Svoboda_Jakub_Ondrova_Marianna_Herspice.jpg","t":"Sňatek s Mariannou Ondrovou, 1776"}
       ]
     },
     {
       id: "marianna_svh",
       name: "Marianna Svobodová",
+      maiden: "Ondrová (?)",
       line: "svobodah",
       cert: "K",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true,"place":"Heršpice"},
       spouse: "jakub_svh",
+      marriage: "22. 10. 1776, Heršpice – s Jakubem Svobodou",
       notes: [
-        "KANDIDÁTKA (K+): matka Martina Svobody (viz Jakub Svoboda). Rodné příjmení neznámé."
+        "KANDIDÁTKA (K+): matka Martina Svobody (viz Jakub Svoboda).",
+        "Při sňatku 22. 10. 1776 „filia Marianna post † Mathaeum Ondra ex Bučovicensi platea“ (dcera † Matouše Ondry z Bučovické ulice ve Slavkově; O 13121 sn. 347 vpravo; M zápis)."
       ],
       sources: [
-        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13122 sn. 10 vpravo"
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13122 sn. 10 vpravo",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, O 13121, sn. 347 vpravo (22. 10. 1776) – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
-        {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest syna Martina, Heršpice 1779"}
+        {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest syna Martina, Heršpice 1779"},
+        {"f":"img/1776_O_Svoboda_Jakub_Ondrova_Marianna_Herspice.jpg","t":"Sňatek s Jakubem Svobodou, 1776"}
       ]
     }
   ]
