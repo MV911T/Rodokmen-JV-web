@@ -6126,7 +6126,7 @@ window.RODOKMEN = {
       notes: [
         "Sedlák z Volduch; otec Anny Trgjkové (oddací zápis 1781 „Joann Koßay“, M). Při jejím sňatku 28. 10. 1781 už nežil.",
         "KANDIDÁTI (K): manželka Anna (křest dcery Anny 1762); sňatek „Jan, vlastní syn Jana Košaje z Volduch, s … dcerou po † Petru Forejtovi též z Volduch“ 25. 10. 1745 (Osek 03 O, str. 21, sn. 119 vpravo) – jméno nevěsty neuvedeno, mezera do 1762 → možná 2. manželka.",
-        "KANDIDÁT úmrtí (K+): „Joann Koßay, Bauer“, Volduchy č. 27, † 5. 9. 1772, 47 (?) let (Osek 08 Z, Volduchy, fol. 5, sn. 74 vlevo; rejstřík sn. 144 – M zápis). První číslice věku zesílená (47 / 77 ?); jiný dospělý Jan Košaj ve Volduchách 1772–1783 nezemřel. Děti: Jan (1747), dvojčata Anna a Markéta (1751), Anna (1762), Jan (1765)."
+        "KANDIDÁT úmrtí (K+): „Joann Koßay, Bauer“, Volduchy č. 27, † 5. 9. 1772, 47 (?) let (Osek 08 Z, Volduchy, fol. 5, sn. 74 vlevo; rejstřík sn. 144 – M zápis). Věk 47 – Jan Košaj st. v rejstříku Z Osek 04 1760–1777 není (jen syn Jan *1765, † 17. 3. 1769 na neštovice, 3½ roku); jiný dospělý Jan Košaj ve Volduchách 1772–1783 nezemřel → ztotožnění téměř jisté. Děti: Jan (1747), dvojčata Anna a Markéta (1751), Anna (1762), Jan (1765)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
@@ -11133,20 +11133,25 @@ window.RODOKMEN = {
       line: "forejt",
       cert: "K",
       b: {"date":"7. 1. 1726 (pokřtěna 8. 1.)","year":1726,"place":"Volduchy (fara Osek)"},
+      d: {"date":"22. 9. 1791","year":1791,"place":"Volduchy č. p. 27"},
+      cause: "sešlost (Abzehrung)",
       father: "petr_fo",
       mother: "lidmila_fo",
       spouse: "johann_ko",
       notes: [
         "KANDIDÁT křtu (K+, téměř jistý): „Anna, vlastní dcera Petra Forejta a Lidmily manželky jeho“, nar. 7. 1., pokřtěna 8. 1. 1726 ve Volduchách; kmotra Anna Šmídová (?) z Volduch (Osek 01 N, str. 241, sn. 122 vpravo; M zápis). Sestry Magdalena a Markéta (VII 1729, snad dvojčata), bratr Michal (29. 9. 1733). Družička „Anna Forejtová z Volduch“ 15. 2. 1745; dvojčata 1751 dostala jména Anna a Markéta.",
-        "KANDIDÁTKA (K+): manželka Jana Košaje, sedláka z Volduch, matka Anny (*1762) – ve všech křtech dětí 1747–1765 „matka Anna“ (M). Nejspíš nevěsta z 25. 10. 1745: „Jan, vlastní syn Jana Košaje z Volduch, s … vlastní dcerou pozůstalou po † Petru Forejtovi též z Volduch“ (Osek 03 O, str. 21, sn. 119 vpravo – křestní jméno nevěsty v zápisu chybí); jiný sňatek Jana Košaje 1740–1771 v rejstříku není."
+        "KANDIDÁTKA (K+): manželka Jana Košaje, sedláka z Volduch, matka Anny (*1762) – ve všech křtech dětí 1747–1765 „matka Anna“ (M). Nejspíš nevěsta z 25. 10. 1745: „Jan, vlastní syn Jana Košaje z Volduch, s … vlastní dcerou pozůstalou po † Petru Forejtovi též z Volduch“ (Osek 03 O, str. 21, sn. 119 vpravo – křestní jméno nevěsty v zápisu chybí); jiný sňatek Jana Košaje 1740–1771 v rejstříku není.",
+        "KANDIDÁT úmrtí (K+): „Anna Koßajowa“, Volduchy č. 27 (dům Jana Košaje), † 22. 9. 1791, 68 let (→ ~1723; podle křtu 1726 by jí bylo 65) – Osek 08 Z, Volduchy, fol. 44, sn. 93 vpravo (M zápis; jediná dospělá Anna z č. 27)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 03 O str. 21 (25. 10. 1745); Osek 03 N str. 68, 104; Osek 04 N str. 23, 43 – https://www.portafontium.eu/iipimage/30066669/osek-03_1190-o",
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 01 (N), str. 241, snímek 122 vpravo (8. 1. 1726); Osek 02 N str. 11, 53 – https://www.portafontium.eu/iipimage/30066667/osek-01_1221-n"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 01 (N), str. 241, snímek 122 vpravo (8. 1. 1726); Osek 02 N str. 11, 53 – https://www.portafontium.eu/iipimage/30066667/osek-01_1221-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 08 (Z), oddíl Volduchy, fol. 44, snímek 93 vpravo (22. 9. 1791) – https://www.portafontium.eu/iipimage/30066674/osek-08_0930-z"
       ],
       scans: [
         {"f":"img/1726_N_Forejtova_Anna_Volduchy.jpg","t":"Kandidát křtu, Volduchy 8. 1. 1726"},
-        {"f":"img/1772_Z_Kosaj_Jan_Volduchy.jpg","t":"Úmrtí manžela Jana Košaje, Volduchy 5. 9. 1772"}
+        {"f":"img/1772_Z_Kosaj_Jan_Volduchy.jpg","t":"Úmrtí manžela Jana Košaje, Volduchy 5. 9. 1772"},
+        {"f":"img/1791_Z_Kosajova_Anna_Volduchy.jpg","t":"Kandidát úmrtí, Volduchy č. 27, 22. 9. 1791"}
       ]
     },
     {
@@ -11227,7 +11232,8 @@ window.RODOKMEN = {
       d: {"date":"1733–1745","year":1745,"approx":true},
       spouse: "lidmila_fo",
       notes: [
-        "KANDIDÁT (K+): otec Anny (*1726), pozdější manželky Jana Košaje – „vlastní dcera pozůstalá po † Petru Forejtovi z Volduch“ (O 1745). Z Volduch; děti s Lidmilou: Anna (1726), Magdalena a Markéta (1729), Michal (1733). Vztah k Forejtům z Volduch (Martin, Pavel) neznámý."
+        "KANDIDÁT (K+): otec Anny (*1726), pozdější manželky Jana Košaje – „vlastní dcera pozůstalá po † Petru Forejtovi z Volduch“ (O 1745). Z Volduch; děti s Lidmilou: Anna (1726), Magdalena a Markéta (1729), Michal (1733). Vztah k Forejtům z Volduch (Martin, Pavel) neznámý.",
+        "Úmrtí není v Osek 02 Z II 1733 – IV 1736 ani Osek 03 Z I–IX 1740 (zbývá VIII–XII 1739 a III 1742 – VII 1745). KANDIDÁTKA matky (K): Barbora Forejtová z Volduch, † 27. 8. 1734, 56 let (Osek 02 Z sn. 109 vpravo)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 N str. 241; Osek 02 N str. 11, 53; Osek 03 O str. 21"
