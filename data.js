@@ -4012,7 +4012,8 @@ window.RODOKMEN = {
         "Matka Marie Klikové; nemanželská dcera Ludmily Stádlerové ze Suchomast.",
         "Oddána 10. 2. 1851 v Suchomastech č. 21 s Václavem Svobodou: „Magdalena, dcera Ludmily, dcery Jana Stadlera, domkáře z K…ína (?) No 6, panství Hořaždovice, z K…ína rozená, báby Ludmily rozené Rozné (?) z K…ína, panství Hořaždovice“, 34 let; „nevěsta dle křestního listu fary K… rozena dne 11. června 1817“ (Borek 13, sn. 3; M, ověřeno koordinátorem; obec a fara nečteny).",
         "Zemřela 27. 6. 1864 v Suchomastech č. 21 (index Z Borek 15, sn. 113 vlevo; zápis nečten).",
-        "Podle rejstříku měla i starší dceru Annu Stadlerovou (*18. 10. 1846, Suchomasty 21) – nečteno."
+        "Podle rejstříku měla i starší dceru Annu Stadlerovou (*18. 10. 1846, Suchomasty 21) – nečteno.",
+        "KANDIDÁT křtu (K): VI 1817 (18 | 18 ?) Malé Hydčice č. 7 (?), fara Malý Bor – „Magdalena Stadlerowa“ (Malý Bor 13 N, fol. 273, sn. 276 vlevo; jméno M, ověřeno koordinátorem). Fara sedí na „dle křestního listu fary Kleinbor…“ (1851). ROZPOR: den (18 × 11. 6.), matka čtena „Marie (?), dcera † Jakuba … z Březan č. 32, matky Anny“ (× Ludmila), ve sloupci otce „Ignac Ott… (?), domkář pod panstvím Hořaždovic“ (snad dodatečně, přeškrtnuto ?). Nečteno jistě – neztotožňovat."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
