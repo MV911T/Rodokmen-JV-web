@@ -2758,7 +2758,7 @@ window.RODOKMEN = {
         "Narozen 3. 1., pokřtěn 4. 1. 1795 v Hrubém Jeseníku č. 48 (administrátor Tobiáš Major); otec Jan Čapek, familiant; matka Barbora roz. Bukvajová (?). Kmotři Josef Borovička, chalupník, Václav Hojtek (?) a Jan Rozprava (?).",
         "Oddán 13. 2. 1816 v Hrubém Jeseníku (č. 48) jako syn † Jana Čapka, familianta v Jeseníku, 21 let; oddával Jan Tobiáš Majer.",
         "Otec Karla Čapka; familiant v Jeseníku č. 48, 1851 výměnkář. V roce 1874 už nežil.",
-        "Zemřel 1. 5. 1855 v 5 hod. ráno v Hrubém Jeseníku č. 70 (pohřben 4. 5., farář Jan Dobeslav ?): „Jan Čapek, výminkář v Jeseníku č. 70“, 66 let, úbytě (?) (M; dům a stav výměnkáře sedí se sňatkem syna 1851 i úmrtím vdovy Marie 1873). ROZPOR věku: 66 (→ ~1789) × dosavadní odhad."
+        "Zemřel 1. 5. 1855 v 5 hod. ráno v Hrubém Jeseníku č. 70 (pohřben 4. 5., farář Jan Dobeslav ?): „Jan Čapek, výminkář v Jeseníku č. 70“, 66 let, úbytě (?) (M; dům a stav výměnkáře sedí se sňatkem syna 1851 i úmrtím vdovy Marie 1873). ROZPOR věku: 66 (→ ~1789) × křest 3. 1. 1795 (60 let) – platí křest."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
