@@ -2376,7 +2376,8 @@ window.RODOKMEN = {
         "Grunt č. 19 koupil od otce Vojtěcha smlouvou z 13. 1. 1825 (zapsáno 15. 1.) „s nastávající manželkou Marií, ovdovělou Kazazelkovou (?)“ za 2000 zl. v. m.; oddací zápis 7. 2. 1825: „Maria pozůstalá wdowa po † Tomáši Dorpelda (?), chalupníku z Těchobuz No 22, dcera † Pawla Kr… (?) z Těchobuz No 28 a Johanny roz. Pojwar… (?), 32 let“ – příjmení 1. manžela nejisté (ROZPOR čtení). Grunt později přešel na dceru Antonii (pozemková kniha Lit. II fol. 51).",
         "Dvakrát ženatý: 7. 2. 1825 v Těchobuzi s Marií, vdovou po chalupníkovi z č. 22 (*~1785–1792, † 1. 9. 1835 v Těchobuzi č. 19); podruhé jako vdovec 10. 11. 1835 v Mezilesí č. 2 s Marií Karafiátovou (22 let) – matkou Antonie (*16. 12. 1836). Svědci Josef Hrň… (?), mlynář z Hojna (?), a Václav Šim… (?) z Lukavce (?). Rozpor vyřešen.",
         "Rodné příjmení matky Kateřiny se v zápisech liší: 1825 „Vrz…/Voz… (?)“, 1835 „Kroužilová (?)“.",
-        "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815."
+        "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815.",
+        "Ještě žil 8. 5. 1865 a 9. 10. 1866 (v zápisech o úmrtí vnoučat a dcery Františky uveden bez „†“ jako sedlák z Těchobuze č. 19; M); 12. 10. 1866 zemřel jeho syn Josef, sedlák z č. 19. V Z Těchobuz X 1864 – IV 1869 a v indexu Z 1855–1879 není. ROZPOR: křest vnuka v Pravoníně 1868 uvádí „† Jana Michala“ – zemřel asi 1866–68 mimo Těchobuz (hledat Pravonín, Mezilesí)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2421,7 +2422,8 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379"
       ],
       scans: [
-        {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835"}
+        {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835"},
+        {"f":"img/1852_Z_Karafiat_Vaclav_Mezilesi.jpg","t":"Úmrtí otce Václava Karafiáta, Mezilesí 20. 4. 1852"}
       ]
     },
     {
@@ -3298,23 +3300,28 @@ window.RODOKMEN = {
       line: "karafiat",
       cert: "M",
       b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      d: {"date":"20. 4. 1852","year":1852,"place":"Mezilesí č. p. 2 (fara Lukavec)"},
+      cause: "souchotiny",
       spouse: "ludmila_lh",
       occ: "šenkýř v Mezilesí č. 2",
       marriage: "2. sňatek 24. 11. 1808, Salačova Lhota – s Ludmilou „Lhotkin“; 1. sňatek 1805, Mezilesí č. 5 – s Johannou (?)",
       notes: [
         "Otec Marie Michalové.",
         "Šenkýř v Mezilesí č. 2 (křest syna Františka Serafína 19. 8. 1813); manželka Ludmila, dcera Pavla Lhotka, mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?).",
-        "Oddán poprvé 1805 v Mezilesí (20 let, šenkýř) s Johannou (?), podruhé jako vdovec 24. 11. 1808 v Salačově Lhotě č. 24 (28 let) s Ludmilou „Lhotkin“ (23 let) – Lukavec O 5378, sn. 101 a 118. ROZPOR ve věku (1805: 20, 1808: 28). Manželské děti s Ludmilou dle indexu: Johann a Václav 1819, Marie 1825, Kristýna 1829, Vilém 1831."
+        "Oddán poprvé 1805 v Mezilesí (20 let, šenkýř) s Johannou (?), podruhé jako vdovec 24. 11. 1808 v Salačově Lhotě č. 24 (28 let) s Ludmilou „Lhotkin“ (23 let) – Lukavec O 5378, sn. 101 a 118. ROZPOR ve věku (1805: 20, 1808: 28). Manželské děti s Ludmilou dle indexu: Johann a Václav 1819, Marie 1825, Kristýna 1829, Vilém 1831.",
+        "Zemřel 20. 4. 1852 ve 3 hod. odpoledne v Mezilesí č. 2 (pohřben 22. 4., kaplan Václav Roubal, farář P. Joannes Wrbický): „Václav Karafiát, šenkýř“, 75 let, souchotiny (M). ROZPOR věku: 75 (→ ~1777) × sňatky 1805 (20 let) a 1808 (28 let)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz N 1840–1875 / O 1840–1894 / Z 1840–1879 (id 8826, inv. 6541), snímek 31 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (id 5371), fol. 3, snímek 3 – https://digi.ceskearchivy.cz/5371",
         "SOA Třeboň, fara Lukavec, O 1786–1842 (id 5378), sn. 101 (1805) a 118 (1808) – https://digi.ceskearchivy.cz/5378",
-        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371"
+        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371",
+        "SOA Třeboň, ř.-k. fara Lukavec, kniha 5383 (Z 1838–1867), oddíl Mezilesí a Týn, pag. 34, snímek 20 vlevo – https://digi.ceskearchivy.cz/5383"
       ],
       scans: [
-        {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835 (dítě: Marie Michalová)"}
+        {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835 (dítě: Marie Michalová)"},
+        {"f":"img/1852_Z_Karafiat_Vaclav_Mezilesi.jpg","t":"Úmrtí 20. 4. 1852, Mezilesí č. 2"}
       ]
     },
     {
@@ -3338,7 +3345,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835 (dítě: Marie Michalová)"},
-        {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"}
+        {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"},
+        {"f":"img/1852_Z_Karafiat_Vaclav_Mezilesi.jpg","t":"Úmrtí manžela Václava, Mezilesí 20. 4. 1852"}
       ]
     },
     {
