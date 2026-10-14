@@ -990,7 +990,8 @@ window.RODOKMEN = {
         "Syn Karla Čapka, domkáře v Rabakově č. 19 (okr. Sobotka), a Marie, dcery Václava Oty, sedláka v Krchlebích č. 53 (okr. Nymburk). Příslušný do Jeseníka (?).",
         "Později bydlel s manželkou v Komořanech u Mostu (dopis vnuka).",
         "Sňatek 14. 9. 1897 v Mladé Boleslavi (byt čp. 126-I): dělník v Ml. Boleslavi, rodem z Rabakova, příslušný do Jeseníka (?); křestní list z fary Řitonice (23. 8. 1897). Svědci František Horyna (?), topič plynárny, a Josef Kříček (?), truhlář.",
-        "KANDIDÁT – sourozenci podle rejstříku křtů Řitonice (zápisy nečteny): Marie 1862, Václav 1865, Antonín 1867, Anna 1871, všichni z Rabakova."
+        "KANDIDÁT – sourozenci podle rejstříku křtů Řitonice (zápisy nečteny): Marie 1862, Václav 1865, Antonín 1867, Anna 1871, všichni z Rabakova.",
+        "Úmrtí není v rejstřících Z Mladá Boleslav 1892–1924 (knihy 68, 79, 80, 81, 82; jiní Josefové Čapkové 1906, 1914) – podle rodiny žil později v Komořanech u Mostu."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
@@ -1008,7 +1009,8 @@ window.RODOKMEN = {
         {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_b.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 1897 – nevěsta"},
         {"f":"img/1874_krest_josef_capek_rabakov_a.jpg","t":"Křest Josefa Čapka, Rabakov 1874"},
         {"f":"img/1874_krest_josef_capek_rabakov_b.jpg","t":"Křest Josefa Čapka, Rabakov 1874 – rodiče"},
-        {"f":"img/1890_Z_Capkova_Marie_Jesenik.jpg","t":"Úmrtí matky Marie Čapkové, Hrubý Jeseník 12. 4. 1890"}
+        {"f":"img/1890_Z_Capkova_Marie_Jesenik.jpg","t":"Úmrtí matky Marie Čapkové, Hrubý Jeseník 12. 4. 1890"},
+        {"f":"img/1897_Z_Capek_Karel_Mlada_Boleslav.jpg","t":"Úmrtí otce Karla Čapka, Mladá Boleslav 7. 4. 1897"}
       ]
     },
     {
@@ -1437,6 +1439,8 @@ window.RODOKMEN = {
       line: "capek",
       cert: "M",
       b: {"date":"2. 11. 1829","year":1829,"place":"Hrubý Jeseník č. p. 48"},
+      d: {"date":"7. 4. 1897","year":1897,"place":"Mladá Boleslav – Podolec č. p. 148"},
+      cause: "mozková mrtvice",
       father: "jan_c",
       mother: "marie_cc",
       spouse: "marie_o",
@@ -1447,16 +1451,15 @@ window.RODOKMEN = {
         "Oddán 3. 3. 1851 v Hrubém Jeseníku (č. 74) jako familiant v Jeseníku č. 70, 21 let; souhlas dal otec Jan Čapek, výměnkář. Po dispenzu podkrajského úřadu v Nymburce jen jedna ohláška.",
         "Později domkář v Rabakově č. 19 (okres Sobotka), kde se mu 1874 narodil syn Josef.",
         "KANDIDÁT – děti podle rejstříku křtů Řitonice (nečteno): Marie 1862, Václav 1865, Antonín 1867, Anna 1871.",
-        "Úmrtí Karla ani Marie není v Z fary Řitonice (Rabakov) 1866–1949 (rejstříky Řitonice 09 a 13, C/Č); v roce 1897 ještě domkář v Rabakově – zemřeli jinde (snad Hrubý Jeseník). V rejstříku „Čapková Anna z Rabakova, fol. 145, 1870“ – nečteno (K: dítě).",
-        "Úmrtí není ani v rejstříku Z fary Hrubý Jeseník 1891–1950 (HJ 29, C/Č; Praha 74) – úmrtí 1874–1890 (HJ 14) neprověřeno.",
-        "V dubnu 1890 dělník v Hrubém Jeseníku č. 46 (úmrtí manželky Marie, M). Jeho úmrtí není v HJ 14 (Jeseník) V 1873 – XII 1897 ani v rejstříku HJ 29 1891–1950 – zemřel po 1897 mimo Jeseník (Mladá Boleslav ?)."
+        "V dubnu 1890 dělník v Hrubém Jeseníku č. 46 (úmrtí manželky Marie, M). Zemřel 7. 4. 1897 v Mladé Boleslavi – Podolci č. 148 (pohřben 9. 4., kaplan F. Matějka ?): „Karel Čapek, vdovec, dělník zde, narozen v Jeseníku r. 1830“, 66 let, mozková mrtvice (M; ztotožnění D – vdovec, dělník, rodiště Jeseník, věk ±1 rok; v Ml. Boleslavi se 1897 ženil syn Josef). ROZPOR: oddací zápis syna 14. 9. 1897 ho uvádí jako domkáře v Rabakově bez „†“ – údaj převzat z křtu 1874."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 14 (O 1837–1865), str. 97, snímek 242 – https://ebadatelna.soapraha.cz/d/5734/242",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
+        "SOA Praha, ř.-k. fara Mladá Boleslav, kniha Ml. Boleslav 68 (8759, Z 1892–1900), str. 259, snímek 132 vpravo, 2. zápis; rejstřík sn. 273 vlevo – https://ebadatelna.soapraha.cz/d/8759/132"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
@@ -1468,7 +1471,8 @@ window.RODOKMEN = {
         {"f":"img/1829_krest_karel_capek_hruby_jesenik_b.jpg","t":"Křest Karla Čapka 1829 – matka, kmotři"},
         {"f":"img/1890_Z_Capkova_Marie_Jesenik.jpg","t":"Úmrtí manželky Marie, Hrubý Jeseník 12. 4. 1890"},
         {"f":"img/1873_Z_Capkova_Marie_vdova_Jesenik.jpg","t":"Úmrtí matky Marie, Hrubý Jeseník 24. 11. 1873"},
-        {"f":"img/1855_Z_Capek_Jan_Jesenik.jpg","t":"Úmrtí otce Jana Čapka, Hrubý Jeseník 1. 5. 1855"}
+        {"f":"img/1855_Z_Capek_Jan_Jesenik.jpg","t":"Úmrtí otce Jana Čapka, Hrubý Jeseník 1. 5. 1855"},
+        {"f":"img/1897_Z_Capek_Karel_Mlada_Boleslav.jpg","t":"Úmrtí 7. 4. 1897, Mladá Boleslav – Podolec č. 148"}
       ]
     },
     {
