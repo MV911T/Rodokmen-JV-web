@@ -1268,7 +1268,7 @@ window.RODOKMEN = {
       notes: [
         "Děd Rosiny Valentové; příslušný do Březína (Wirschin) u Nečtin, okres Manětín (fara Nečtiny, Porta fontium). V rejstřících fary Nečtiny pro Březín (O 1788–1860, N 1789–1862) Valentovi nejsou – sňatek a děti asi až po 1862 nebo jinde.",
         "Sňatek s Marií Pollakovou není v oddaných Březína 1788–1910 ani v rejstřících oddaných ostatních vsí fary Nečtiny do 1862.",
-        "Křest Vitála není v rejstřících narozených fary Nečtiny 1784–1862 ani města Manětína 1799–1847; sňatek není v rejstříku oddaných Manětína 1830–1870 (M negativy).",
+        "Křest Vitála ani děti s Marií nejsou v rejstřících narozených fary Nečtiny 1784–1862 ani města Manětína 1799–1873; sňatek není v rejstřících oddaných Manětína 1784–1870 (M negativy). „Wirschen“ = nejspíš Březín (Wirschin) u Nečtin.",
         "KANDIDÁT: v Březíně č. 33 žil tesař Anton Walenta (*1826 Branišov u Teplé, nemanželský syn Terezie Valentové, dcery krejčího Matouše Valenty z Branišova č. 4, fara Vidžín); Valentovi z Branišova mohou být Vitálovi příbuzní – nedoloženo."
       ],
       sources: [
