@@ -5294,23 +5294,31 @@ window.RODOKMEN = {
       name: "Dominik Merhaut",
       line: "merhaut",
       cert: "M",
-      b: {"date":"neznámé (asi 1753)","year":1753,"approx":true},
+      b: {"date":"4. 4. 1754","year":1754,"place":"Zdice"},
       d: {"date":"15. 6. 1817","year":1817,"place":"Zdice č. p. 21"},
+      father: "vit_mh",
+      mother: "anna_mh0",
       spouse: "anna_hr",
       occ: "rychtář ve Zdicích (č. 21)",
+      marriage: "13. 2. (?) 1776, Zdice – s Annou Hronkovou",
       notes: [
+        "Pokřtěn 4. 4. 1754 ve Zdicích jako „Dominik Karel“, syn Víta Merhauta a Anny; kmotr Karel Lobeš (?), hostinský (Zdice 01, fol. 37, sn. 40 vpravo; M).",
+        "Oddán 13. (II ?) 1776 ve Zdicích: „Dominicus Merhout, filius Viti Merhout, rustici ex Zdicz, cum sponsa Anna, filia legitima Joannis Hroniek, rustici ex Zdicz, ambo subditi regio-camerales dominii Točnicensis“; svědci Jakub Schubert, sedlák, 60 (?), a Matěj Veselý, kovář ze Zdic, 33 let (Zdice 01, O, sn. 318 vlevo; M).",
         "Otec Josefy Divišové.",
         "Soused (usedlík) ve Zdicích č. 21 (1788, 1791).",
-        "Zemřel 15. 6. 1817 (pohřben 17. 6.) ve Zdicích č. 21: „Dominik Merhaut, dobře zasloužilý soused a bývalý přes 16 let pořádný rychtář zdický“, 64 let (Zdice 12, sn. 14 vpravo, pag. 23; M) → *~1753. V rejstříku Z chybí. V č. 21 zemřely děti s otcem Dominikem: Josef (2½ r., III 1808), Prokop (IX 1810, věk čten „39 ?“ – nejisté), Josefa (3 r., III 1815)."
+        "Zemřel 15. 6. 1817 (pohřben 17. 6.) ve Zdicích č. 21: „Dominik Merhaut, dobře zasloužilý soused a bývalý přes 16 let pořádný rychtář zdický“, 64 let (Zdice 12, sn. 14 vpravo, pag. 23; M) → *~1753. V rejstříku Z chybí. V č. 21 žil i syn Dominik ml. (*1780, × 8. 2. 1802 Rozálie, „syn Dominika Merhauta, rychtáře“) – dětská úmrtí v č. 21 (1808, 1815) patří spíš jeho rodině."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 02, pag. 19, snímek 20 – https://ebadatelna.soapraha.cz/d/9096/20",
-        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 12 (Z 1814–1855), sn. 14 vpravo, pag. 23 – https://ebadatelna.soapraha.cz/d/9106/14"
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 12 (Z 1814–1855), sn. 14 vpravo, pag. 23 – https://ebadatelna.soapraha.cz/d/9106/14",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), fol. 37, sn. 40 vpravo (křest 1754); O sn. 318 vlevo (1776) – https://ebadatelna.soapraha.cz/d/9095/318"
       ],
       scans: [
+        {"f":"img/1754_N_Merhaut_Dominik_Zdice.jpg","t":"Křest Dominika Karla, Zdice 4. 4. 1754"},
+        {"f":"img/1776_O_Merhaut_Dominik_Hronkova_Anna_Zdice.jpg","t":"Sňatek s Annou Hronkovou, Zdice 1776"},
         {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"},
         {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest dcery Josefy Merhautové, Zdice 18. 3. 1791"},
         {"f":"img/1817_Z_Merhaut_Dominik_Zdice.jpg","t":"Úmrtí 15. 6. 1817, Zdice č. 21"}
@@ -5322,19 +5330,24 @@ window.RODOKMEN = {
       maiden: "Hronková",
       line: "hronek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      b: {"date":"neznámé (asi 1755)","year":1755,"approx":true,"place":"Zdice"},
+      father: "jan_hrz",
       spouse: "dominik_me",
+      marriage: "13. 2. (?) 1776, Zdice – s Dominikem Merhautem",
       notes: [
+        "Oddána 1776 ve Zdicích jako „Anna, filia legitima Joannis Hroniek, rustici ex Zdicz“ s Dominikem Merhautem (Zdice 01, O, sn. 318 vlevo; M) – rodné příjmení Hronková doloženo.",
         "Matka Josefy Divišové.",
         "Manžel Dominik zemřel 15. 6. 1817; vlastní úmrtí ve Zdicích 1807–VI 1817 není (Praha N8)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), O sn. 318 vlevo (1776)"
       ],
       scans: [
         {"f":"img/1807_snatek_matej_divis_zdice_a.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové, Zdice 28. 4. 1807 – ženich (dítě: Josefa Divišová)"},
-        {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest dcery Josefy Merhautové, Zdice 18. 3. 1791"}
+        {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest dcery Josefy Merhautové, Zdice 18. 3. 1791"},
+        {"f":"img/1776_O_Merhaut_Dominik_Hronkova_Anna_Zdice.jpg","t":"Sňatek s Dominikem Merhautem, Zdice 1776"}
       ]
     },
     {
@@ -11681,6 +11694,59 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1765_O_Tichy_Martin_Kucerova_Katerina_Herspice.jpg","t":"Sňatek s Martinem Tichým, Heršpice 1765"},
         {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest syna Jakuba, Heršpice 1771"}
+      ]
+    },
+    {
+      id: "vit_mh",
+      name: "Vít Merhaut",
+      line: "merhaut",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      spouse: "anna_mh0",
+      occ: "sedlák ve Zdicích",
+      notes: [
+        "Otec Dominika Merhauta: křest 1754 „otce Víta Merhauta, matky Anny“ a oddací zápis syna 1776 „filius Viti Merhout, rustici ex Zdicz“ (M). Sňatek s Annou (Zdice 01 O ~1744–1753) nehledán."
+      ],
+      sources: [
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), fol. 37, sn. 40 vpravo; O sn. 318 vlevo"
+      ],
+      scans: [
+        {"f":"img/1754_N_Merhaut_Dominik_Zdice.jpg","t":"Křest syna Dominika, Zdice 1754"},
+        {"f":"img/1776_O_Merhaut_Dominik_Hronkova_Anna_Zdice.jpg","t":"Sňatek syna Dominika, Zdice 1776"}
+      ]
+    },
+    {
+      id: "anna_mh0",
+      name: "Anna Merhautová",
+      line: "merhaut",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
+      spouse: "vit_mh",
+      notes: [
+        "Matka Dominika Merhauta (křest 4. 4. 1754, Zdice: „matky Anny“; M). Rodné příjmení neuvedeno."
+      ],
+      sources: [
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), fol. 37, sn. 40 vpravo"
+      ],
+      scans: [
+        {"f":"img/1754_N_Merhaut_Dominik_Zdice.jpg","t":"Křest syna Dominika, Zdice 1754"}
+      ]
+    },
+    {
+      id: "jan_hrz",
+      name: "Jan Hronek",
+      line: "hronek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      occ: "sedlák ve Zdicích",
+      notes: [
+        "Otec Anny Merhautové: oddací zápis 1776 „Anna, filia legitima Joannis Hroniek, rustici ex Zdicz“ (M). Křest Anny (~1755, index N Zdice 01 H) a manželka zatím nehledány."
+      ],
+      sources: [
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), O sn. 318 vlevo (1776)"
+      ],
+      scans: [
+        {"f":"img/1776_O_Merhaut_Dominik_Hronkova_Anna_Zdice.jpg","t":"Sňatek dcery Anny, Zdice 1776"}
       ]
     }
   ]
