@@ -1531,7 +1531,9 @@ window.RODOKMEN = {
         {"f":"img/1851_N_Tukal_Jan_Kosik_a.jpg","t":"Křest 29. 6. 1851, Kosík č. 49"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest 1851 – rodiče a prarodiče"},
         {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_a.jpg","t":"Sňatek 3. 2. 1874, Kosík – ženich"},
-        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_b.jpg","t":"Sňatek 1874 – nevěsta, svědci"}
+        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_b.jpg","t":"Sňatek 1874 – nevěsta, svědci"},
+        {"f":"img/1874_Z_Tukal_Jan_st_Kosik.jpg","t":"Úmrtí otce Jana Ťukala st., Kosík 17. 6. 1874"},
+        {"f":"img/1884_Z_Tukalova_Terezie_Kosik.jpg","t":"Úmrtí matky Terezie Ťukalové, Kosík 3. 6. 1884"}
       ]
     },
     {
@@ -2480,7 +2482,8 @@ window.RODOKMEN = {
       notes: [
         "Narozen a pokřtěn 26. 11. 1817 v Pojedech č. 9 (děkan Václav Pokorný): otec Jan Šnejdr, chalupník z Pojed, matka Anna, dcera po † Jiřím Jírkovi, chalupníkovi ze Seletic; kmotři Václav Šulc (?) ze Žitovlic a Jan Ondráček (?) z Pojed.",
         "Oddán 5. 2. 1839 jako „syn † Jana Šnegdra, chalupníka z Pojed č. 9, a Anny rozené Jírků, chalupníka dcery ze Selletic“, 22 let, s Kateřinou, dcerou Jana Šulce, baráčníka ze Žitovlic č. 8, a Anny roz. Hofmanové z Dobrovan, 17 let (otec nevěsty svolil); svědci Vojtěch Vecham (?) a Franc Hofmann, půlsedlák z Dobrovan.",
-        "Otec Františky Tůkalové, roz. Šnajdrové."
+        "Otec Františky Tůkalové, roz. Šnajdrové.",
+        "Úmrtí není v Z Pojedy (Žitovlice 04) 14. 4. 1875 – IV 1893 (Praha 75; Kateřina Fadrhonzová † 1893 v č. 9 není jeho žena)."
       ],
       sources: [
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
@@ -2817,7 +2820,9 @@ window.RODOKMEN = {
       name: "Jan Ťukal",
       line: "fukal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      b: {"date":"neznámé (asi 1812)","year":1812,"approx":true},
+      d: {"date":"17. 6. 1874","year":1874,"place":"Kosík č. p. 52"},
+      cause: "souchotiny",
       father: "jan_t3",
       mother: "katerina_t3",
       spouse: "terezie_mr",
@@ -2825,16 +2830,20 @@ window.RODOKMEN = {
       notes: [
         "Nádeník v Kosíku č. 49 (1851), později baráčník v Kosíku č. 55 (?). Syn † Jana Tukala, nádeníka z Lažan č. 26 (bývalé panství Hrubá Skála), a Kateřiny roz. Horáčkové (?) z Mašova (?) – křest syna Jana 29. 6. 1851 (M). Manželka Terezie roz. Mrázková z Ohrazenic (Vohraženic) č. 40.",
         "V roce 1874 baráčník v Kosíku č. 55; 3. 2. 1874 podepsal souhlas se sňatkem nezletilého syna Jana (M) – tehdy žil.",
-        "Sňatek s Terezií není v indexu O fary Rožďalovice 1826–1865 (T) – hledat ve faře nevěsty (Přepeře: před X 1834 a 1850–51 neprověřeno) nebo v Lažanech."
+        "Sňatek s Terezií není v indexu O fary Rožďalovice 1826–1865 (T) – hledat ve faře nevěsty (Přepeře: před X 1834 a 1850–51 neprověřeno) nebo v Lažanech.",
+        "Zemřel 17. 6. 1874 ve 2 hod. ráno v Kosíku č. 52 (pohřben 19. 6., kaplan P. F. Martinek): „Jan Ťukal, baráčník v Kosíku č. d. 52, okres Libáň“, 62 let, souchotiny (M; → asi 1812). ROZPOR: sňatek syna 4 měsíce předtím uvádí dům č. 55."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 21 (11206, Z), oddíl Kosík, fol. 315, snímek 305 vlevo, 4. zápis; index Rožďalovice 37 sn. 274 vpravo – https://ebadatelna.soapraha.cz/d/11206/305"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903 (dítě: Jan Ťukal)"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest syna Jana, Kosík 29. 6. 1851 – rodiče a prarodiče"},
-        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_a.jpg","t":"Sňatek syna Jana (souhlas otce, podpis), Kosík 3. 2. 1874"}
+        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_a.jpg","t":"Sňatek syna Jana (souhlas otce, podpis), Kosík 3. 2. 1874"},
+        {"f":"img/1874_Z_Tukal_Jan_st_Kosik.jpg","t":"Úmrtí 17. 6. 1874, Kosík č. 52"},
+        {"f":"img/1884_Z_Tukalova_Terezie_Kosik.jpg","t":"Úmrtí manželky Terezie, Kosík 3. 6. 1884"}
       ]
     },
     {
@@ -2843,22 +2852,28 @@ window.RODOKMEN = {
       maiden: "Mrázková",
       line: "mraz",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Vohraženice č. p. 40, okr. Turnov"},
+      b: {"date":"neznámé (asi 1813)","year":1813,"approx":true,"place":"Ohrazenice (Vohraženice) č. p. 40, okr. Turnov"},
+      d: {"date":"3. 6. 1884","year":1884,"place":"Kosík č. p. 52"},
+      cause: "ochrnutí plic",
       father: "jan_mz",
       mother: "anna_mz",
       spouse: "jan_t2",
       notes: [
         "Dcera † Jana Mrázka, nádeníka z Ohrazenic (Wohrazenic) č. 40, bývalé panství Rohozec, a matky roz. Bečkové (?) (křestní jméno nezapsáno) – křest syna Jana 29. 6. 1851 (M). Číslo domu 40 tím potvrzeno.",
-        "V Ohrazenicích žili Mrázové i na č. 8 a 36 (Jan Mráz, půlsedlák/chalupník) – vztah neznámý."
+        "V Ohrazenicích žili Mrázové i na č. 8 a 36 (Jan Mráz, půlsedlák/chalupník) – vztah neznámý.",
+        "Zemřela 3. 6. 1884 v Kosíku č. 52 (pohřbena 5. 6., kaplan Borejš ?): „Teresie Ťukalová, vdova po zemřelém Janu Ťukalovi, domkáři v Kosíku č. 52, okres Libáňský“, 71 let, ochrnutí plic (M; → asi 1813; jediná Terezie Ťukalová v indexu)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 34 (15669, Z), oddíl Kosík, fol. 392, snímek 111, 4. zápis; index Rožďalovice 37 sn. 275 vpravo – https://ebadatelna.soapraha.cz/d/15669/111"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903 (dítě: Jan Ťukal)"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest syna Jana, Kosík 29. 6. 1851 – rodiče a prarodiče"},
-        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_a.jpg","t":"Sňatek syna Jana, Kosík 3. 2. 1874"}
+        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_a.jpg","t":"Sňatek syna Jana, Kosík 3. 2. 1874"},
+        {"f":"img/1884_Z_Tukalova_Terezie_Kosik.jpg","t":"Úmrtí 3. 6. 1884, Kosík č. 52"},
+        {"f":"img/1874_Z_Tukal_Jan_st_Kosik.jpg","t":"Úmrtí manžela Jana, Kosík 17. 6. 1874"}
       ]
     },
     {
