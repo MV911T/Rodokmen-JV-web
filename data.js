@@ -4239,7 +4239,8 @@ window.RODOKMEN = {
       spouse: "anna_ce",
       occ: "zahradník ve Veřovicích",
       notes: [
-        "Otec Magdaleny Černochové; dal souhlas k jejímu sňatku 1869."
+        "Otec Magdaleny Černochové; dal souhlas k jejímu sňatku 1869.",
+        "KANDIDÁTI rodičů (K, jen shoda příjmení): Joseph Grossmann, vojín c. k. 4. myslivecského praporu, 24 let, × 22. 6. 1820 Veřovice č. 4 Anna, dcera Josepha Laczÿny (?), selského výměnkáře (NJ XIV 3, sn. 26 vpravo; M zápis)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
@@ -4259,7 +4260,8 @@ window.RODOKMEN = {
       father: "frantisek_cn",
       spouse: "josef_gr",
       notes: [
-        "Matka Magdaleny; dcera Františka Černocha, chalupníka z Veřovic – Tomáš a Magdalena byli tedy nejspíš příbuzní (ve Veřovicích bylo víc rodin Černochů)."
+        "Matka Magdaleny; dcera Františka Černocha, chalupníka z Veřovic – Tomáš a Magdalena byli tedy nejspíš příbuzní (ve Veřovicích bylo víc rodin Černochů).",
+        "KANDIDÁTI rodičů (K, jen shoda jména): „Franz, nach Johann Czernoch, Gärtners Sohn“, 28 let, × 31. 1. 1826 Veřovice č. 22 Anna, dcera Georga Prosseka (?), zahradníka č. 123 (NJ XIV 3, sn. 34 vlevo; M zápis) – ověřit křtem Anny (~1826–30)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
@@ -7908,17 +7910,22 @@ window.RODOKMEN = {
       name: "Karel Michalek",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (asi 1790)","year":1790,"approx":true},
+      father: "andreas_mi",
       spouse: "anna_zi",
       occ: "domkář v Bělotíně",
+      marriage: "23. 2. 1813, Bělotín č. 81 – s Annou Ziegnerovou",
       notes: [
+        "Oddán 23. 2. 1813 v Bělotíně č. 81 (farář): „Karl Michalek, Sohn des Andreas Michalek, Häuslers“, 23 let, svobodný, s Annou, dcerou Josepha Zignera, výměnkáře, 20 let; svědci Anton Kleiber, výměnkář, a Karl Andres, hostinský (M; ztotožnění podle jmen obou a otce nevěsty).",
         "Domkář v Bělotíně (č. 12 v r. 1822). Otec Anny Zettelmannové (*1822); při dceřině sňatku 1844 dal souhlas."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 70, snímek 36 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 70, snímek 36 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1813_O_Michalek_Karel_Ziegnerova_Anna_Belotin.jpg","t":"Sňatek s Annou Ziegnerovou, Bělotín 23. 2. 1813"},
         {"f":"img/1844_O_Johann_Zettelmann_Anna_Michalek_Belotin_fol116.jpg","t":"Sňatek Johanna Zettelmanna a Anny Michalkové, Bělotín 6. 8. 1844"},
         {"f":"img/1822_N_Anna_Michalek_Belotin_pag70.jpg","t":"Křest Anny Michalkové, Bělotín 22. 10. 1822"}
       ]
@@ -7953,15 +7960,19 @@ window.RODOKMEN = {
       maiden: "Ziegnerová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      b: {"date":"neznámé (asi 1793)","year":1793,"approx":true},
       spouse: "karl_mi",
+      marriage: "23. 2. 1813, Bělotín – s Karlem Michalkem",
       notes: [
-        "Dcera Josefa Ziegnera, sedláka v Bělotíně († před X 1822). Matka Anny Michalkové (*22. 10. 1822)."
+        "Dcera Josefa Ziegnera, sedláka v Bělotíně († před X 1822). Matka Anny Michalkové (*22. 10. 1822).",
+        "Oddána 23. 2. 1813 v Bělotíně č. 81 jako dcera Josepha Zignera, výměnkáře, 20 let (M)."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 70, snímek 36 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 70, snímek 36 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1813_O_Michalek_Karel_Ziegnerova_Anna_Belotin.jpg","t":"Sňatek s Karlem Michalkem, Bělotín 23. 2. 1813"},
         {"f":"img/1822_N_Anna_Michalek_Belotin_pag70.jpg","t":"Křest Anny Michalkové, Bělotín 22. 10. 1822"}
       ]
     },
@@ -11097,6 +11108,23 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 03 O str. 21 (25. 10. 1745); Osek 03 N str. 68, 104; Osek 04 N str. 23, 43 – https://www.portafontium.eu/iipimage/30066669/osek-03_1190-o"
+      ]
+    },
+    {
+      id: "andreas_mi",
+      name: "Andreas Michalek",
+      line: "zettelmann",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      occ: "domkář v Bělotíně",
+      notes: [
+        "Domkář (Häusler) v Bělotíně; otec Karla Michalka – oddací zápis syna 23. 2. 1813 (M). Sňatek v O Bělotín 1784 – I 1793 není (D)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1813_O_Michalek_Karel_Ziegnerova_Anna_Belotin.jpg","t":"Sňatek syna Karla, Bělotín 1813"}
       ]
     }
   ]
