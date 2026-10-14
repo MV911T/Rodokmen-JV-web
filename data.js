@@ -7345,13 +7345,15 @@ window.RODOKMEN = {
       name: "Josef Roskopal",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
+      b: {"date":"31. 1. 1733","year":1733,"place":"Hrušky (fara Slavkov)"},
       d: {"date":"před 9. 2. 1805 (nejspíš před V 1784)","year":1784,"approx":true},
       father: "jan_rk0",
+      mother: "anna_rk0",
       spouse: "katerina_rk",
       occ: "podruh (Hrušky 1758, 1764 ?)",
       marriage: "24. 1. 1757, Hrušky (fara Slavkov) – s Kateřinou Vaškovou (?)",
       notes: [
+        "Pokřtěn 31. 1. 1733 v Hruškách: „Josephum – Joanne Roskopal, Anna, Hruschka“; kmotři Josef Tenck a jeho dcera Marina z Hrušek (týž kmotr jako u sestry Rosalie 1731) (N 13120, sn. 145 vlevo, str. 283; M, ověřeno koordinátorem) – při sňatku 1757 asi 24 let.",
         "Otec Magdaleny Hrazdílkové (sňatek 1783: „filia Josephi Roskopal, Hodj.“).",
         "KANDIDÁT: Josef Roskopal, podruh v Hruškách, × Kateřina – děti Matouš (16. 9. 1758) a Magdalena (4. 7. 1764).",
         "Zemřel před 9. 2. 1805 (manželka tehdy vdovou); v indexu Z Slavkov 1784–1822 (R) není → nejspíš před V 1784. V Z Slavkov I 1779 – IV 1784 také není; při sňatku dcery VII 1783 „filia Josephi“ bez † → zemřel nejspíš mimo faru.",
@@ -7360,9 +7362,11 @@ window.RODOKMEN = {
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958",
         "MZA Brno, fara Slavkov u Brna, NOZ 1738–1778, sign. 13121, snímek 171 – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, O 13121, sn. 299 vpravo (24. 1. 1757) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, O 13121, sn. 299 vpravo (24. 1. 1757) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13120, sn. 145 vlevo, str. 283 (31. 1. 1733) – https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
+        {"f":"img/1733_N_Roskopal_Josef_Hrusky.jpg","t":"Křest Josefa, Hrušky 31. 1. 1733"},
         {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest syna Jana, Hodějice 1790 (dítě: Magdalena Hrazdílková)"},
         {"f":"img/1757_O_Roskopal_Josef_Vaskova_Katerina_Hrusky.jpg","t":"Sňatek s Kateřinou Vaškovou (?), Hrušky 24. 1. 1757"}
       ]
@@ -12146,7 +12150,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁTKA (K, silná): matka Magdaleny Hrazdílkové – „Kateřina“ při křtech dětí Josefa Roskopala, podruha v Hruškách (Matouš 1758, Magdalena 1764).",
         "Zemřela 9. 2. 1805 (pohřbena 11. 2.) v Hodějicích č. 1: „Katharina Rosskopal, Wittwe“, 63 let, souchotiny (Z 13149, sn. 225 vlevo, str. 234; M zápis). Dům č. 1 = dům sňatku Magdaleny 1783, úmrtí Martina a Apolonie Hrazdílkových; jiná Kateřina Roskopalová v Hodějicích není. ROZPOR věku: 63 (→ *~1742) × děti od 1757 – věky v této faře bývají podhodnocené.",
-        "Oddána 24. 1. 1757 jako „puella Catharina filia post defunctum Jacobum Waš-ek (?) rusticum“ z Hrušek (O 13121 sn. 299 vpravo; M) – rodné příjmení Vašková (?); ztotožnění s vdovou † 1805 K."
+        "Oddána 24. 1. 1757 jako „puella Catharina filia post defunctum Jacobum Waš-ek (?) rusticum“ z Hrušek (O 13121 sn. 299 vpravo; M) – rodné příjmení Vašková (?); ztotožnění s vdovou † 1805 K.",
+        "KANDIDÁT otce (K+): Jakub „Waßküg / Waš-ek“ × Marina, Hrušky – děti Rosina (1731), Josef (1733), František (1736) (N 13120 sn. 139, 145, 163); křest Kateřiny 1734–1735 není, jinde nenalezen."
       ],
       sources: [
         "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, Z 13149, oddíl Hodějice, sn. 225 vlevo, str. 234 (1805) – https://www.mza.cz/actapublica/matrika/detail/1964",
@@ -12163,17 +12168,37 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true,"place":"Hrušky (fara Slavkov)"},
+      spouse: "anna_rk0",
       occ: "sedlák v Hruškách",
       notes: [
         "Otec Josefa Roskopala – oddací zápis 1757 „Josephus filius Joannis Roskopal rustici“, Hrušky (M).",
-        "KANDIDÁTI (K): manželka Anna 1731 (dcera Rosalie 6. 8. 1731, Hrušky; N 13120 sn. 137 vlevo) – možná Josefova matka; vdova „Katharina nach dem Johann Roskopal Inmann“ † 25. 1. 1793 Hrušky č. 22, 80 let (2. manželka ?; Z 13148 sn. 148 vlevo)."
+        "Manželka Anna (křty dětí Rosalie 6. 8. 1731 a Josefa 31. 1. 1733; M). KANDIDÁT (K): vdova „Katharina nach dem Johann Roskopal Inmann“ † 25. 1. 1793 Hrušky č. 22, 80 let – nejspíš 2. manželka (Z 13148 sn. 148 vlevo)."
       ],
       sources: [
         "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, O 13121, sn. 299 vpravo (24. 1. 1757) – https://www.mza.cz/actapublica/matrika/detail/1948",
         "MZA, N 13120 sn. 137 vlevo (1731); Z 13148 sn. 148 vlevo (1793)"
       ],
       scans: [
-        {"f":"img/1757_O_Roskopal_Josef_Vaskova_Katerina_Hrusky.jpg","t":"Sňatek syna Josefa, Hrušky 1757"}
+        {"f":"img/1757_O_Roskopal_Josef_Vaskova_Katerina_Hrusky.jpg","t":"Sňatek syna Josefa, Hrušky 1757"},
+        {"f":"img/1733_N_Roskopal_Josef_Hrusky.jpg","t":"Křest syna Josefa, Hrušky 1733"}
+      ]
+    },
+    {
+      id: "anna_rk0",
+      name: "Anna Roskopalová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      spouse: "jan_rk0",
+      notes: [
+        "Matka Josefa Roskopala – křest 31. 1. 1733 Hrušky „Joanne Roskopal, Anna“ (M); dcera Rosalie 6. 8. 1731. Rodné příjmení, sňatek (~1725–1731) a úmrtí nehledány."
+      ],
+      sources: [
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13120, sn. 145 vlevo, str. 283 (31. 1. 1733) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA, N 13120 sn. 137 vlevo (1731)"
+      ],
+      scans: [
+        {"f":"img/1733_N_Roskopal_Josef_Hrusky.jpg","t":"Křest syna Josefa, Hrušky 1733"}
       ]
     }
   ]
