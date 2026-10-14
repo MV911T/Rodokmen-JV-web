@@ -8855,7 +8855,8 @@ window.RODOKMEN = {
         "Pokřtěna 10. 10. 1773 ve Veřovicích č. 6 (fara Životice): „Rosina – Latzina Josephus inquilinus, Catharina“, kmotři Augustin Meltsch, mlynář, a Juliana, manželka Martina Göriga (M). Ztotožnění D: věk sedí s úmrtím 1844 (70); druhá Rosina Lacinová 1774 (otec Jan) vyloučena; č. 6 = pozdější dům Jana Laciny († 1829).",
         "Dcera Josefa Laciny (Laczÿna), domkáře ve Veřovicích č. 69; oddána 8. 1. 1797 s Georgem Pitrem, 22 let (→ *~1775), s dispenzí pro pokrevenství 2./3. stupně (Pitrové a Lacinové tedy byli příbuzní – K). Matka Marianny (*1814) a babička Moniky (křest 1845).",
         "V roce 1834 ovdověla; zemřela 3. 8. 1844 (pohřbena 5. 8., lokalista Johann Wanick) ve Veřovicích č. 145 jako „Rosina, Häuslers Witwe nach Georg Pitter allhier“, 70 let, sešlost věkem (M; → *~1774, sedí s 22 lety při sňatku 1797). Jiné Rosiny Pitrovy † 1844 (č. 115, č. 29) a 1847 (č. 184) vyloučeny podle domu.",
-        "OPRAVA čtení příjmení (12. 10. 2026): dřívější „Ziegner / Zugner / Lützner (?)“ bylo chybné čtení kurentu – v oddacím zápisu 1797 stojí „des Joseph Laczÿna, Häuslers Tochter“, v křtu 1808 „nach Joseph Lu=czÿna“; rejstříky N i Z fary Veřovice 1784–1840 znají pod písmenem L jen početný rod Lacina (č. d. 2, 6, 28, 30, 41, 49, 50, 62, 63, 69) a žádného Ziegnera/Lütznera. Rozhodnuto podle srovnání výřezů 1797 (O), 1829 (Z, „Johann Laczÿna“) a rejstříku."
+        "OPRAVA čtení příjmení (12. 10. 2026): dřívější „Ziegner / Zugner / Lützner (?)“ bylo chybné čtení kurentu – v oddacím zápisu 1797 stojí „des Joseph Laczÿna, Häuslers Tochter“, v křtu 1808 „nach Joseph Lu=czÿna“; rejstříky N i Z fary Veřovice 1784–1840 znají pod písmenem L jen početný rod Lacina (č. d. 2, 6, 28, 30, 41, 49, 50, 62, 63, 69) a žádného Ziegnera/Lütznera. Rozhodnuto podle srovnání výřezů 1797 (O), 1829 (Z, „Johann Laczÿna“) a rejstříku.",
+        "Sourozenci (děti Josefa Laciny × Kateřiny, D): Josef (1767, †), Anna (1768), Jan (1770), Marianna (1776); v č. 6 † 18. 10. 1785 Josef, dítě Josefa Laciny, ~6 let (D)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), N pag. 136, snímek 69 vlevo (10. 10. 1773) – https://digi.archives.cz",
@@ -9115,7 +9116,9 @@ window.RODOKMEN = {
         "Domkář (Häusler) ve Veřovicích č. 69; otec Rosiny Pitrové (sňatek 1797 v č. 69: „Rosina des Joseph Laczÿna, Häuslers Tochter“; v křtech vnoučat 1808–1817 „nach Joseph Lu=czÿna“ = již zemřelý).",
         "Zemřel 21. 1. 1805 ve Veřovicích č. 69 jako „Joseph Lüczÿna / Lützner (?), Häusler“, 80 let (→ *~1725), na vodnatelnost hrudi; ztotožnění D – dům č. 69, jméno a stav (zápis v rejstříku L 1784–1807 chybí – vynechávka indexátora). Příjmení dříve čteno „Ziegner / Zuczner / Lützner“ – oprava viz karta Rosiny.",
         "KANDIDÁT: 1792 se v č. 69 narodil Johann Lacina (rejstřík N, S. 74) – syn nebo vnuk Josefa; Johann Lacina, domkář č. 6, † 17. 1. 1829 (pohřeb 19. 1.) může být týž rod (K).",
-        "Sourozenci (děti Jana × Kateřiny, D): Anna (VIII 1716 – snad z 1. páru, viz karta otce), Jan (24. 4. 1722), Rosina (3. 3. 1724, †), Martin (29. 10. 1725, †). Rodiče: ROZPOR dvou párů Jan Lacina × Kateřina (1715 / 1719) – přednost pár 1719 (Jan, syn Martina × Kateřina Tománková), K."
+        "Sourozenci (děti Jana × Kateřiny, D): Anna (VIII 1716 – snad z 1. páru, viz karta otce), Jan (24. 4. 1722), Rosina (3. 3. 1724, †), Martin (29. 10. 1725, †). Rodiče: ROZPOR dvou párů Jan Lacina × Kateřina (1715 / 1719) – přednost pár 1719 (Jan, syn Martina × Kateřina Tománková), K.",
+        "Děti s Kateřinou Grigarovou (N Veřovice, D; stálí kmotři Martin Görig, sedlák, a mlynář Augustin Meltsch se ženou): Josef (12. 2. 1767, †), Anna (15. 4. 1768), Jan (25. 12. 1770), Rosina (10. 10. 1773), Marianna (14. 3. 1776).",
+        "KANDIDÁT ztotožnění (K+): ve vsi žili 1749–1766 dva Josefové Lacinové – jeden × Anna (děti 1749, 1754), druhý domkář × Kristina († 1763, 46). Druhý Josef, domkář č. 30, zemřel v dubnu 1773, 46 let (M) – otec Rosiny žil ještě 1776, tedy jde o Josefa *1720. ROZPOR: Anna, žena Josefa Laciny, † 25. 2. 1766 „67 let“, ale měla děti 1749 a 1754 – věk chybný, nebo jiná Anna."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 175 vlevo (2. 3. 1720) – https://digi.archives.cz",
@@ -9124,7 +9127,8 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), N pag. 136, snímek 69 vlevo (10. 10. 1773) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 13 vpravo (8. 1. 1797) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), pag. 100, snímek 49 vlevo (21. 1. 1805)",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1807 (sign. NJ XIV 1), rejstřík písm. L, snímek 153 vlevo (1792 Laczina Johann, č. 69, S. 74); Z 1784–1840 (sign. NJ XIV 5), fol. 173, snímek 85 (17. 1. 1829, Johann Laczÿna) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1784–1807 (sign. NJ XIV 1), rejstřík písm. L, snímek 153 vlevo (1792 Laczina Johann, č. 69, S. 74); Z 1784–1840 (sign. NJ XIV 5), fol. 173, snímek 85 (17. 1. 1829, Johann Laczÿna) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice, N snímky 64–67 (1767–1770), Z snímek 98 vpravo (IV 1773) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1720_N_Lacina_Josef_Verovice.jpg","t":"Křest Josefa Laciny, Veřovice, 2. 3. 1720 (rodiče Jan a Kateřina)"},
