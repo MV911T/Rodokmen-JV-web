@@ -9177,7 +9177,7 @@ window.RODOKMEN = {
         "KANDIDÁT dalšího syna: Václav Skála z Lounína, „honestus juvenis“, × 20. 11. 1753 Tmaň (Tmaň 02 O sn. 170 vpravo, p. 179; nevěsta nedočtena) – snad starší bratr Jiřího (*1751).",
         "Další Skálové v Louníně (K vztah): Václav Skála × 29. 11. 1733 Salomena Soukalová († před 1748, vdova × 1748 Matěj Sikora); Petr Skála († před 1740, vdova Dorota × 1740 Brankl z Tmaně) – možní bratři.",
         "KANDIDÁT rodičů: v Louníně žila 1705 domácnost Vít Skála × Marie – syn Mikuláš pokřtěn 6. 12. 1705 a Josef 16. 3. 1711 („otce Víta Skala, matce Mařině“, Tmaň 01b sn. 13 vpravo) v Tmani („Patris Viti Skala, Matris Maria“, Tmaň 01 sn. 93 vlevo, M), Marie Skálová z Lounína svědkyní 7. 6. 1705. Jiří by mohl být jejich syn, ale v Tmani se 1701 – VII 1707 žádný Jiří Skála nenarodil (vložený sešit III 1701 – II 1703 neúplný) a v zápisu 1732 „Carolus“ je druhé jméno ženicha – vazba slabá (K).",
-        "KANDIDÁTI křtu z Radouše (fara Bezdědice; Josef Skála z Radouše byl svědkem na svatbě 1732): (A, přednost) „Jiří, narozen z Matěje Skály a Magdaleny“, pokřtěn 4. 4. 1702 Radouš, kmotr Adam Ubel (?), svědci z Hostomic – věk přesně sedí (57 let 9 měsíců při úmrtí); rodina Matěje žila v Radouši ještě 1708 (dcera Kateřina † 4. 3. 1708, 26 neděl, M). (B) „Jiří, rodičové Pavel Skála, Rozina“, pokřtěn 16. 4. 1698 Radouš (61 let). Oba zápisy M (ověřeno v plném rozlišení), v obou jen „Jiří“ bez Karla; kmotři jsou hostomičtí měšťané, s lounínskými kmotry 1734–1751 se neshodují – ztotožnění K. Žádný Jiří Skála z Radouše nezemřel V 1700 – IV 1710. Past: v Radouši žil 1708 i dospělý Jiřík Skála (manželka Kateřina † 27. 11. 1708, ?).",
+        "KANDIDÁTI křtu z Radouše (fara Bezdědice; Josef Skála z Radouše byl svědkem na svatbě 1732): (A, přednost) „Jiří, narozen z Matěje Skály a Magdaleny“, pokřtěn 4. 4. 1702 Radouš, kmotr Adam Ubel (?), svědci z Hostomic – věk přesně sedí (57 let 9 měsíců při úmrtí); rodina Matěje žila v Radouši ještě 1708 (dcera Kateřina † 4. 3. 1708, 26 neděl, M). (B) „Jiří, rodičové Pavel Skála, Rozina“, pokřtěn 16. 4. 1698 Radouš (61 let). Oba zápisy M (ověřeno v plném rozlišení), v obou jen „Jiří“ bez Karla; kmotři jsou hostomičtí měšťané, s lounínskými kmotry 1734–1751 se neshodují – ztotožnění K. Žádný Jiří Skála z Radouše nezemřel V 1700 – IV 1710. Past: v Radouši žil 1708 i dospělý Jiřík Skála (manželka Kateřina † 27. 11. 1708, ?). Obě rodiny žily v Radouši ještě 1712–13 (Matěj Skála: Pavel † I 1713, Lidmila † III 1713; Pavel Skála: dcera, 18 let, † 1712; M); Šimon Skála z Radouše † 9. 1. 1714, 66 let (M). Úmrtí Jiřího z Radouše 1700–1719 nenalezeno (1710–19 neúplně) – kandidáti nerozhodnuti.",
         "Děti s Veronikou (Tmaň 02 N, vše M): Václav Jan Nepomucký (27. 7. 1734), Jakub (26. 7. 1738), Jan (VI 1741), Jiří (1. 2. 1751); stálý kmotr Jan Heráček (od Sadů / od mlýna), svědek Šebestián Švadal (?), mlynář suchomastský. Jiří a Veronika častí kmotři 1744–1750. KANDIDÁT: Václav Skála z Lounína × 20. 11. 1753 Tmaň Kateřina Čížková (Zeizikiana), dcera Jiřího Čížka = syn Václav *1734 (K silná – otec ženicha v zápisu není; v Louníně žil i Václav × Salomena). Kmotři nejsou z Radouše."
       ],
       sources: [
@@ -9727,7 +9727,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1737_N_Grigar_Katerina_Verovice.jpg","t":"Křest Kateřiny Grigarové, Veřovice, 11. (?) 4. 1737 (rodiče Václav a Judita)"},
         {"f":"img/1766_O_Lacina_Josef_Grigar_Katerina_Verovice.jpg","t":"Sňatek vdovce Josefa Laciny s Kateřinou Grigarovou (dcerou Václava), Veřovice, 4. 5. 1766"},
-        {"f":"img/1773_N_Lacinova_Rosina_Verovice6.jpg","t":"Křest Rosiny Lacinové, Veřovice č. 6, 10. 10. 1773 (otec Josef, podruh, matka Kateřina)"}
+        {"f":"img/1773_N_Lacinova_Rosina_Verovice6.jpg","t":"Křest Rosiny Lacinové, Veřovice č. 6, 10. 10. 1773 (otec Josef, podruh, matka Kateřina)"},
+        {"f":"img/1724_O_Grosman_Jan_Bartonova_Judita_Verovice.jpg","t":"1. sňatek matky Judity (roz. Bartoňové) s Janem Grosmanem, Veřovice, 19. 11. 1724"}
       ]
     },
     {
@@ -9827,21 +9828,25 @@ window.RODOKMEN = {
     {
       id: "judita_gr",
       name: "Judita Grigarová",
+      maiden: "Bartoňová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
       spouse: "vaclav_gg",
       marriage: "21. 5. 1730, Veřovice – s Václavem Grigarem (2. sňatek)",
       notes: [
-        "Vdova po Janu Grosmanovi z Veřovic; 21. 5. 1730 se vdala za Václava Grigara (M). Matka Kateřiny (1737). Rodné příjmení neznámé."
+        "Rozená Bartoňová: 1. sňatek 19. 11. 1724 ve Veřovicích – „poctivý mládenec Jan, Jury Grosmana syn, s poctivou dívkou Juditou po nebožtíkovi Janu Barthoňovi“; svědci Matěj Hikl a Jura Čabak (?) (M). Ovdověla; 21. 5. 1730 se vdala za Václava Grigara (M). Matka Kateřiny (1737).",
+        "KANDIDÁT otce (K): Jan Bartoň, sedlák, † 15. 3. 1719 ve Veřovicích, 43 let (čteno v polovičním rozlišení) – ve vsi ale žilo víc Janů Bartoňů. Pavel, syn † Jana Bartoně, se oženil 25. 6. 1719 (snad bratr)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 439, snímek 220 vpravo (21. 5. 1730; též 4. 9. 1729 Václav Grigar st. × Marianna Charamzová) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 186 vpravo (11. ? 4. 1737) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 186 vpravo (11. ? 4. 1737) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 437, snímek 219 vpravo (19. 11. 1724) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1730_O_Grigar_Vaclav_Grosmanova_Judita_Verovice.jpg","t":"Sňatek Václava Grigara (syna Václava) s vdovou Juditou po Janu Grosmanovi, Veřovice, 21. 5. 1730"},
-        {"f":"img/1737_N_Grigar_Katerina_Verovice.jpg","t":"Křest Kateřiny Grigarové, Veřovice, 11. (?) 4. 1737 (rodiče Václav a Judita)"}
+        {"f":"img/1737_N_Grigar_Katerina_Verovice.jpg","t":"Křest Kateřiny Grigarové, Veřovice, 11. (?) 4. 1737 (rodiče Václav a Judita)"},
+        {"f":"img/1724_O_Grosman_Jan_Bartonova_Judita_Verovice.jpg","t":"1. sňatek Judity Bartoňové s Janem Grosmanem, Veřovice, 19. 11. 1724"}
       ]
     },
     {
@@ -9896,15 +9901,19 @@ window.RODOKMEN = {
       d: {"date":"20. 3. 1752","year":1752,"place":"Veřovice"},
       spouse: "katerina_lcs",
       notes: [
-        "Z Veřovic; otec Josefa (2. 3. 1720) a dalších dětí (Jan, Rosina, Martin, Tomáš). Zemřel 20. 3. 1752 ve Veřovicích, 70 let (→ *~1682) – zápis uvádí sebevraždu oběšením na stromě směrem k Ženklavě (M; ztotožnění D)."
+        "Z Veřovic; otec Josefa (2. 3. 1720) a dalších dětí (Jan, Rosina, Martin, Tomáš). Zemřel 20. 3. 1752 ve Veřovicích, 70 let (→ *~1682) – zápis uvádí sebevraždu oběšením na stromě směrem k Ženklavě (M; ztotožnění D).",
+        "ROZPOR / KANDIDÁTI (K): ve Veřovicích se oženili dva Janové Lacinové s Kateřinou – (A) 11. 6. 1715 „mládenec Jan, Jury Laziny syn, s poctivou vdovou Kateřinou po nebožtíkovi Martinu Machovi“ (Martin Mach, chalupník, † 13. 2. 1715, 40 let); (B) 22. 1. 1719 „mládenec Jan, Martina Laziny syn, s poctivou pannou Kateřinou po nebožtíkovi Ondřejovi Tománkovi“ (M zápisy). Který pár jsou rodiče Josefa (2. 3. 1720, 13 měsíců po sňatku B), zatím nerozhodnuto; děti Jana × Kateřiny pokračují do 1727 (spíš pár B). Úmrtí 1752 (70 let) nelze zatím přiřadit jistě."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 175 vlevo (2. 3. 1720) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, Z snímek 250 vlevo (20. 3. 1752), 252 vpravo (XI 1759), 249 vlevo (31. 1. 1749, Václav Grigar st.) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, Z snímek 250 vlevo (20. 3. 1752), 252 vpravo (XI 1759), 249 vlevo (31. 1. 1749, Václav Grigar st.) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 434–435, snímky 218 vlevo (11. 6. 1715) a 218 vpravo (22. 1. 1719); Z pag. 481, snímek 241 vpravo (13. 2. 1715) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1720_N_Lacina_Josef_Verovice.jpg","t":"Křest Josefa Laciny, Veřovice, 2. 3. 1720 (rodiče Jan a Kateřina)"},
-        {"f":"img/1752_Z_Lacina_Jan_Verovice.jpg","t":"Úmrtí Jana Laciny, Veřovice, 20. 3. 1752 (70 let)"}
+        {"f":"img/1752_Z_Lacina_Jan_Verovice.jpg","t":"Úmrtí Jana Laciny, Veřovice, 20. 3. 1752 (70 let)"},
+        {"f":"img/1715_O_Lacina_Jan_Machova_Katerina_Verovice.jpg","t":"Sňatek Jana Laciny (syna Jury) s Kateřinou, vdovou Machovou, Veřovice, 11. 6. 1715 – kandidát A"},
+        {"f":"img/1719_O_Lacina_Jan_Tomankova_Katerina_Verovice.jpg","t":"Sňatek Jana Laciny (syna Martina) s Kateřinou Tománkovou, Veřovice, 22. 1. 1719 – kandidát B"}
       ]
     },
     {
@@ -9915,14 +9924,19 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
       spouse: "jan_lc",
       notes: [
-        "Manželka Jana Laciny z Veřovic; matka Josefa (2. 3. 1720). Rodné příjmení neznámé. KANDIDÁT úmrtí: Kateřina, vdova po Janu Lacinovi, † XI 1759, „84 let“ (D, čteno v polovičním rozlišení; věk nadsazen ?)."
+        "Manželka Jana Laciny z Veřovic; matka Josefa (2. 3. 1720). Rodné příjmení nejisté.",
+        "ROZPOR / KANDIDÁTI (K): ve Veřovicích se oženili dva Janové Lacinové s Kateřinou – (A) 11. 6. 1715 „mládenec Jan, Jury Laziny syn, s poctivou vdovou Kateřinou po nebožtíkovi Martinu Machovi“ (Martin Mach, chalupník, † 13. 2. 1715, 40 let); (B) 22. 1. 1719 „mládenec Jan, Martina Laziny syn, s poctivou pannou Kateřinou po nebožtíkovi Ondřejovi Tománkovi“ (M zápisy). Který pár jsou rodiče Josefa (2. 3. 1720, 13 měsíců po sňatku B), zatím nerozhodnuto; děti Jana × Kateřiny pokračují do 1727 (spíš pár B). Kateřina by tedy byla buď vdova Machová (*~1675 ?), nebo Kateřina Tománková, dcera † Ondřeje Tománka.",
+        "KANDIDÁT úmrtí: Kateřina, vdova po Janu Lacinovi, † XI 1759, „84 let“ (D, čteno v polovičním rozlišení) – věk sedí spíš na vdovu Machovou (pár A)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 175 vlevo (2. 3. 1720) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, Z snímek 250 vlevo (20. 3. 1752), 252 vpravo (XI 1759), 249 vlevo (31. 1. 1749, Václav Grigar st.) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, Z snímek 250 vlevo (20. 3. 1752), 252 vpravo (XI 1759), 249 vlevo (31. 1. 1749, Václav Grigar st.) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 434–435, snímky 218 vlevo (11. 6. 1715) a 218 vpravo (22. 1. 1719); Z pag. 481, snímek 241 vpravo (13. 2. 1715) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1720_N_Lacina_Josef_Verovice.jpg","t":"Křest Josefa Laciny, Veřovice, 2. 3. 1720 (rodiče Jan a Kateřina)"}
+        {"f":"img/1720_N_Lacina_Josef_Verovice.jpg","t":"Křest Josefa Laciny, Veřovice, 2. 3. 1720 (rodiče Jan a Kateřina)"},
+        {"f":"img/1715_O_Lacina_Jan_Machova_Katerina_Verovice.jpg","t":"Sňatek Jana Laciny (syna Jury) s Kateřinou, vdovou Machovou, Veřovice, 11. 6. 1715 – kandidát A"},
+        {"f":"img/1719_O_Lacina_Jan_Tomankova_Katerina_Verovice.jpg","t":"Sňatek Jana Laciny (syna Martina) s Kateřinou Tománkovou, Veřovice, 22. 1. 1719 – kandidát B"}
       ]
     }
   ]
