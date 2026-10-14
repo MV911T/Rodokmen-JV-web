@@ -2467,7 +2467,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835"},
-        {"f":"img/1852_Z_Karafiat_Vaclav_Mezilesi.jpg","t":"Úmrtí otce Václava Karafiáta, Mezilesí 20. 4. 1852"}
+        {"f":"img/1852_Z_Karafiat_Vaclav_Mezilesi.jpg","t":"Úmrtí otce Václava Karafiáta, Mezilesí 20. 4. 1852"},
+        {"f":"img/1821_Z_Karafiatova_Ludmila_Mezilesi.jpg","t":"Úmrtí matky Ludmily Karafiátové, Mezilesí 1821"}
       ]
     },
     {
@@ -3257,7 +3258,8 @@ window.RODOKMEN = {
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Cetule“ (dříve čteno „z Letů / L?tůh“) – zemřel před 1844.",
         "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno.",
         "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Syn Jan žil v Jetřichovci (č. 10) už 1816–1819 – úmrtí 1828 (č. 27, 60 let) a 1833 (Terezie, č. 42, 60 let) tak patří nejspíš Janovým rodičům; číslo 22 zatím nedoloženo.",
-        "Vyloučeno: „Martin Votava, jehlář v Lukavci č. 71“ (děti 1794–1804) je ve skutečnosti Martin Vokoun (Wokoun) – jiná rodina. Údaj „bývalý chalupník z Lstůh / Letůh (?)“ a „Terezie roz. Martina Marody též z Lstůh (?)“ pochází z 2. sňatku syna Jana (Těchobuz 6. 2. 1844) a patří tedy Votavům – obec neurčena (snad „z Luhů“ ?)."
+        "Vyloučeno: „Martin Votava, jehlář v Lukavci č. 71“ (děti 1794–1804) je ve skutečnosti Martin Vokoun (Wokoun) – jiná rodina. Údaj „bývalý chalupník z Lstůh / Letůh (?)“ a „Terezie roz. Martina Marody též z Lstůh (?)“ pochází z 2. sňatku syna Jana (Těchobuz 6. 2. 1844) a patří tedy Votavům – obec neurčena (snad „z Luhů“ ?).",
+        "KANDIDÁTI rodičů (K): Tomáš Votava, výminkář v Cetuli č. 4, a Magdalena († 13. 11. 1807 Cetule č. 4, 66 (?) let – „Magdalena manž. Tomáše Wotawy (?) wejminkáře“; Z 8206, sn. 26 vlevo; M zápis, příjmení nejisté). V č. 4 hospodařil Jan Votava (× Magdalena Dajzová) – snad Martinův bratr. Vazba nedoložena."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3443,9 +3445,9 @@ window.RODOKMEN = {
       notes: [
         "Otec Marie Michalové.",
         "Šenkýř v Mezilesí č. 2 (křest syna Františka Serafína 19. 8. 1813); manželka Ludmila, dcera Pavla Lhotka, mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?).",
-        "Oddán poprvé 1805 v Mezilesí (20 let, šenkýř) s Johannou (?), podruhé jako vdovec 24. 11. 1808 v Salačově Lhotě č. 24 (28 let) s Ludmilou „Lhotkin“ (23 let) – Lukavec O 5378, sn. 101 a 118. ROZPOR ve věku (1805: 20, 1808: 28). Manželské děti s Ludmilou dle indexu: Johann a Václav 1819, Marie 1825, Kristýna 1829, Vilém 1831.",
+        "Oddán poprvé 1805 v Mezilesí (20 let, šenkýř) s Johannou (?), podruhé jako vdovec 24. 11. 1808 v Salačově Lhotě č. 24 (28 let) s Ludmilou „Lhotkin“ (23 let) – Lukavec O 5378, sn. 101 a 118. ROZPOR ve věku (1805: 20, 1808: 28). Manželské děti dle indexu: Johann a Václav 1819 (s Ludmilou), Marie 1825, Kristýna 1829, Vilém 1831 (matka po † Ludmily 1821 nejspíš Josefa – ověřit).",
         "Zemřel 20. 4. 1852 ve 3 hod. odpoledne v Mezilesí č. 2 (pohřben 22. 4., kaplan Václav Roubal, farář P. Joannes Wrbický): „Václav Karafiát, šenkýř“, 75 let, souchotiny (M). ROZPOR věku: 75 (→ ~1777) × sňatky 1805 (20 let) a 1808 (28 let).",
-        "Další manželka: Josefa, roz. Studničková (?), † 11. 11. 1849 v Mezilesí č. 2 jako „manželka Wáclawa Karafiáta šenkýře“, 50 let, zánět plic (Z Lukavec 5383, sn. 17 vpravo, pag. 29; M) – Ludmila tedy zemřela dříve (asi 1819–1837, v indexu Z Lukavec 1838–1873 není) a Václav se znovu oženil (sňatek nehledán)."
+        "Další manželka: Josefa, roz. Studničková (?), † 11. 11. 1849 v Mezilesí č. 2 jako „manželka Wáclawa Karafiáta šenkýře“, 50 let, zánět plic (Z Lukavec 5383, sn. 17 vpravo, pag. 29; M) – Ludmila zemřela VIII 1821 (pád z půdy; M) a Václav se znovu oženil (sňatek s Josefou ~1822–1825 nehledán)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3457,7 +3459,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835 (dítě: Marie Michalová)"},
-        {"f":"img/1852_Z_Karafiat_Vaclav_Mezilesi.jpg","t":"Úmrtí 20. 4. 1852, Mezilesí č. 2"}
+        {"f":"img/1852_Z_Karafiat_Vaclav_Mezilesi.jpg","t":"Úmrtí 20. 4. 1852, Mezilesí č. 2"},
+        {"f":"img/1821_Z_Karafiatova_Ludmila_Mezilesi.jpg","t":"Úmrtí manželky Ludmily, Mezilesí 1821"}
       ]
     },
     {
@@ -3467,23 +3470,27 @@ window.RODOKMEN = {
       line: "lhotka",
       cert: "M",
       b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      d: {"date":"26. (?) 8. 1821","year":1821,"place":"Mezilesí č. p. 2 (hostinec; fara Lukavec)"},
+      cause: "úraz – pád z půdy",
       father: "pavel_lh",
       mother: "terezie_lh",
       spouse: "vaclav_ka",
       notes: [
         "Dcera Pavla Lhotka (Lhotky), mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?) (křty dětí 1813 a 19. 4. 1819, Mezilesí č. 2 – dřívější čtení „Zelta / Pelda“ = Lhotek). Oddána 24. 11. 1808 v Salačově Lhotě č. 24 (23 let) s vdovcem Václavem Karafiátem, šenkýřem z Mezilesí. Matka Marie Michalové.",
         "ROZPOR: sňatek dcery Marie 1835 uvádí matku jako „Šimonovou (?)“ – pozdější zápis, platí křty a vlastní sňatek („Lhotkin“).",
-        "Úmrtí není v indexu Z fary Lukavec 1838–1873 (5390); v roce 1849 byl Václav ženatý s Josefou → Ludmila zemřela asi 1819–1837 (index 5389 čten jen částečně)."
+        "Zemřela 26. (nebo 20.) 8. 1821 v Mezilesí č. 2 (hostinec): „Ludmilla Karafiatin, Schankwirthin in Mezyles“, 47 let, „durch einen Sturz vom Boden auf den Vorhof“ – pád z půdy (Z 5381, Mezilesí pag. 28, sn. 137; M; ztotožnění domem č. 2 a šenkem). ROZPOR věku: 47 (→ *~1774) × 23 let při sňatku 1808 (→ *~1785); ROZPOR: index N uvádí děti Václava „s Ludmilou“ i 1825–1831 – po jejím úmrtí; matky těchto dětí ověřit (Václav se mezitím znovu oženil – Josefa roz. Studničková ?)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Lukavec, kniha O Mezilesí od 1834 (id 5379), fol. 2, snímek 4 – https://digi.ceskearchivy.cz/5379",
-        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371"
+        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371",
+        "SOA Třeboň, Sbírka matrik, ř.-k. fara Lukavec, Z (kniha 5381), oddíl Mezilesí, pag. 28, sn. 137 – https://digi.ceskearchivy.cz/5381"
       ],
       scans: [
         {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835 (dítě: Marie Michalová)"},
         {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"},
-        {"f":"img/1852_Z_Karafiat_Vaclav_Mezilesi.jpg","t":"Úmrtí manžela Václava, Mezilesí 20. 4. 1852"}
+        {"f":"img/1852_Z_Karafiat_Vaclav_Mezilesi.jpg","t":"Úmrtí manžela Václava, Mezilesí 20. 4. 1852"},
+        {"f":"img/1821_Z_Karafiatova_Ludmila_Mezilesi.jpg","t":"Úmrtí VIII 1821, Mezilesí č. 2 (pád z půdy)"}
       ]
     },
     {
