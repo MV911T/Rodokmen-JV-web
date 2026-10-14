@@ -1041,7 +1041,9 @@ window.RODOKMEN = {
         {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_a.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 14. 9. 1897 – ženich"},
         {"f":"img/1897_snatek_josef_capek_marie_tukalova_mlada_boleslav_b.jpg","t":"Sňatek Josefa Čapka a Marie Tůkalové, Mladá Boleslav 1897 – nevěsta"},
         {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874"},
-        {"f":"img/1874_krest_marie_tukalova_kosik_b.jpg","t":"Křest Marie Ťukalové, Kosík 1874 – rodiče, kmotři"}
+        {"f":"img/1874_krest_marie_tukalova_kosik_b.jpg","t":"Křest Marie Ťukalové, Kosík 1874 – rodiče, kmotři"},
+        {"f":"img/1924_Z_Tukal_Jan_Kosik.jpg","t":"Úmrtí otce Jana Ťukala, Kosík 29. 9. 1924"},
+        {"f":"img/1936_Z_Tukalova_Frantiska_Kosik.jpg","t":"Úmrtí matky Františky Ťukalové, Kosík 19. 3. 1936"}
       ]
     },
     {
@@ -1497,23 +1499,30 @@ window.RODOKMEN = {
       name: "Jan Ťukal",
       line: "fukal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1845)","year":1845,"approx":true},
+      b: {"date":"29. 6. 1851","year":1851,"place":"Kosík č. p. 49 (fara Rožďalovice)"},
+      d: {"date":"29. 9. 1924","year":1924,"place":"Kosík č. p. 52"},
+      cause: "sešlost věkem",
       father: "jan_t2",
       mother: "terezie_mr",
       spouse: "frantiska_s",
       occ: "baráčník v Kosíku č. 52",
+      marriage: "3. 2. 1874 – s Františkou Šnejdrovou",
       notes: [
-        "Baráčník v Kosíku č. 52 (okres Libáňský). Syn Jana Ťukala, baráčníka v Kosíku č. 55 (?), a Terezie roz. Mrázové z Vohraženic č. 40 (okres Turnovský). V matrikách psán Tůkal / Ťukal / Tukal."
+        "Baráčník v Kosíku č. 52 (okres Libáňský). Syn Jana Ťukala, baráčníka v Kosíku č. 55 (?), a Terezie roz. Mrázové z Vohraženic č. 40 (okres Turnovský). V matrikách psán Tůkal / Ťukal / Tukal.",
+        "Zemřel 29. 9. 1924 v Kosíku č. 52 (pohřben 1. 10., administrátor Josef Pařík): „Ťukal Jan, výměnkář v Kosíku č. 52, manžel Františky rod. Šnejdrové. Nar. 29./6. 1851 v Kosíku č. 49. Cop. 3./2. 1874“, 73 let 3 měsíce (M). Datum narození a sňatku podle tohoto zápisu – křest (Rožďalovice) a oddací zápis zatím nečteny."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 34 (15669, Z 1873–1949), oddíl Kosík, snímek 130; rejstřík Rožďalovice 37 (15672) sn. 278 – https://ebadatelna.soapraha.cz/d/15669/130 (fol. 430)"
       ],
       scans: [
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903"},
         {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874"},
-        {"f":"img/1874_krest_marie_tukalova_kosik_b.jpg","t":"Křest Marie Ťukalové, Kosík 1874 – rodiče, kmotři"}
+        {"f":"img/1874_krest_marie_tukalova_kosik_b.jpg","t":"Křest Marie Ťukalové, Kosík 1874 – rodiče, kmotři"},
+        {"f":"img/1924_Z_Tukal_Jan_Kosik.jpg","t":"Úmrtí 29. 9. 1924, Kosík č. 52"},
+        {"f":"img/1936_Z_Tukalova_Frantiska_Kosik.jpg","t":"Úmrtí manželky Františky, Kosík 19. 3. 1936"}
       ]
     },
     {
@@ -1523,23 +1532,30 @@ window.RODOKMEN = {
       line: "snajdr",
       cert: "M",
       b: {"date":"22. 11. 1852","year":1852,"place":"Pojedy č. p. 9 (fara Rožďalovice)"},
+      d: {"date":"19. 3. 1936","year":1936,"place":"Kosík č. p. 19"},
+      cause: "celková arterioskleróza",
       father: "vaclav_sn",
       mother: "katerina_su",
       spouse: "jan_t",
+      marriage: "3. 2. 1874 – s Janem Ťukalem",
       notes: [
         "Narozena 22. 11. 1852 v 10 hod. večer, pokřtěna 23. 11. v Pojedech č. 9 (děkan Fr. Šoregš): otec Václav Šnejdr, chalupník, syn Jana Šnejdra, výměníka z Pojed č. 9, a Anny roz. Jírkové, chalupnické dcery ze Seletic; matka Kateřina, dcera Jana Šulce, baráčníka ze Žitovlic č. 8, a Anny roz. Hofmanové z Dobrovan; bába Anna Veselá.",
-        "Matka Marie Čapkové, roz. Ťukalové; dcera Václava Šnejdra, chalupníka z Pojed č. 9 (okres Libáňský), a Kateřiny roz. Šulcové ze Žitovlic č. 18."
+        "Matka Marie Čapkové, roz. Ťukalové; dcera Václava Šnejdra, chalupníka z Pojed č. 9 (okres Libáňský), a Kateřiny roz. Šulcové ze Žitovlic č. 18.",
+        "Zemřela 19. 3. 1936 v Kosíku č. 19 (pohřbena 22. 3., děkan Jos. Pařík): „Františka Ťukalová, vdova po Janu Ťukalovi, domkáři v Kosíku, roz. Šnejdrová. Nar. 22/11. 1852 v Pojedech, s. o. Libáň“, 83 let (M) – datum narození souhlasí s křtem."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 282, snímek 271; index N Rožďalovice 22 sn. 225 – https://ebadatelna.soapraha.cz/d/11187/271"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 282, snímek 271; index N Rožďalovice 22 sn. 225 – https://ebadatelna.soapraha.cz/d/11187/271",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 34 (15669, Z 1873–1949), oddíl Kosík, snímek 135; rejstřík Rožďalovice 37 (15672) sn. 278 – https://ebadatelna.soapraha.cz/d/15669/135 (fol. 440)"
       ],
       scans: [
         {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"},
         {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874"},
-        {"f":"img/1874_krest_marie_tukalova_kosik_b.jpg","t":"Křest Marie Ťukalové, Kosík 1874 – rodiče, kmotři"}
+        {"f":"img/1874_krest_marie_tukalova_kosik_b.jpg","t":"Křest Marie Ťukalové, Kosík 1874 – rodiče, kmotři"},
+        {"f":"img/1936_Z_Tukalova_Frantiska_Kosik.jpg","t":"Úmrtí 19. 3. 1936, Kosík č. 19"},
+        {"f":"img/1924_Z_Tukal_Jan_Kosik.jpg","t":"Úmrtí manžela Jana, Kosík 29. 9. 1924"}
       ]
     },
     {
