@@ -11467,18 +11467,24 @@ window.RODOKMEN = {
       line: "svobodah",
       cert: "M",
       b: {"date":"neznámé (asi 1771, kandidátní křest – viz poznámky)","year":1771,"approx":true,"place":"Heršpice"},
+      d: {"date":"9. 3. 1844","year":1844,"place":"Heršpice č. p. 26"},
+      cause: "sešlost věkem (Altersschwäche)",
       father: "martin_ti",
       mother: "katerina_ti",
       occ: "čtvrtník v Heršpicích (č. 26)",
       notes: [
         "Čtvrtník (4tler) v Heršpicích; otec Magdaleny, provdané Svobodové – oddací zápis 1816, kde dal osobní svolení (M).",
-        "KANDIDÁT křtu (K+): 17. 6. 1771 Heršpice, „Jacobus“, otec Martin Tichý, sedlák, matka Kateřina roz. Kučerová (NOZ 13121, sn. 235 vpravo; M zápis) – viz karta Martina Tichého. Ověřit úmrtím s věkem (index Z 13161, T, Heršpice)."
+        "KANDIDÁT křtu (K+): 17. 6. 1771 Heršpice, „Jacobus“, otec Martin Tichý, sedlák, matka Kateřina roz. Kučerová (NOZ 13121, sn. 235 vpravo; M zápis) – viz karta Martina Tichého. Ověřit úmrtím s věkem (index Z 13161, T, Heršpice).",
+        "Zemřel 9. 3. 1844 (pohřben 11. 3.) v Heršpicích č. 26 jako „Jakob Tichy, Ausgedingler“ (výměnkář), 73 (?) / 75 let (Z 13155, sn. 7 vpravo, str. 11; M) → *~1769–1771, souhlasí s křtem 1771. V témže domě č. 26 zemřeli 1794 Kateřina, manželka Martina Tichého, a 1823 Martin Tichý, půlláník (M) → vazba na rodiče silná."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, Z Heršpice 1837–1877 (13155), sn. 7 vpravo – https://www.mza.cz/actapublica/matrika/detail/12384"
       ],
       scans: [
-        {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest Jakuba, Heršpice 17. 6. 1771 (kandidát)"}
+        {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest Jakuba, Heršpice 17. 6. 1771 (kandidát)"},
+        {"f":"img/1844_Z_Tichy_Jakub_Herspice.jpg","t":"Úmrtí 9. 3. 1844, Heršpice č. 26"},
+        {"f":"img/1823_Z_Tichy_Martin_Herspice.jpg","t":"Úmrtí otce Martina, Heršpice č. 26, 1823"}
       ]
     },
     {
@@ -11690,20 +11696,26 @@ window.RODOKMEN = {
       name: "Martin Tichý",
       line: "svobodah",
       cert: "K",
-      b: {"date":"neznámé (asi 1740)","year":1740,"approx":true,"place":"Heršpice"},
+      b: {"date":"neznámé (asi 1738)","year":1738,"approx":true,"place":"Heršpice"},
+      d: {"date":"25. 3. 1823","year":1823,"place":"Heršpice č. p. 26"},
       spouse: "katerina_ti",
       occ: "sedlák (rusticus) v Heršpicích",
       marriage: "29. (I ?) 1765, Heršpice – s Kateřinou Kučerovou",
       notes: [
-        "KANDIDÁT (K+): otec Jakuba Tichého – křest „Jacobus“, 17. 6. 1771 Heršpice, otec „Martinus Tichi rust.“, matka Catharina; kmotři Joannes Hadalek a Marianna z Heršpic (NOZ 13121, sn. 235 vpravo, str. 120; M zápis). Ztotožnění: sedí obec a generace, jiný Jakub Tichý VIII 1765 – VI 1772 nenalezen; dům kniha neuvádí a v Heršpicích žila i rodina Jana Tichého × Marianny.",
-        "Oddán 29. (I ?) 1765: „honestus juvenis Martinus, Nicolai Tichi filius, cum honesta puella Catharina, defuncti Wenceslai Kuçera filia, ambo Herspicio“ (O 13121, sn. 321 vlevo; M). Syn František 1768 (sn. 207 vlevo; M)."
+        "KANDIDÁT (K, silný): otec Jakuba Tichého – křest „Jacobus“, 17. 6. 1771 Heršpice, otec „Martinus Tichi rust.“, matka Catharina; kmotři Joannes Hadalek a Marianna z Heršpic (NOZ 13121, sn. 235 vpravo, str. 120; M zápis). Ztotožnění: sedí obec a generace, jiný Jakub Tichý VIII 1765 – VI 1772 nenalezen; dům kniha neuvádí a v Heršpicích žila i rodina Jana Tichého × Marianny.",
+        "Oddán 29. (I ?) 1765: „honestus juvenis Martinus, Nicolai Tichi filius, cum honesta puella Catharina, defuncti Wenceslai Kuçera filia, ambo Herspicio“ (O 13121, sn. 321 vlevo; M). Syn František 1768 (sn. 207 vlevo; M).",
+        "Zemřel 25. 3. 1823 (pohřben 27. 3.) v Heršpicích č. 26: „Martin Tichy, Halblehner“, 85 let (Z 13149, sn. 267 vpravo, str. 287; M; index Z jej řadí k 1822) → *~1738. Týž dům č. 26 jako syn Jakub (1816, † 1844). Dcera Kateřina, ¼ roku, † V 1797 v č. 26 → po 1794 asi 2. manželství (K)."
       ],
       sources: [
-        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, NOZ 13121 – https://www.mza.cz/actapublica/matrika/detail/1948 (O sn. 321 vlevo; N sn. 235 vpravo, sn. 207 vlevo)"
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, NOZ 13121 – https://www.mza.cz/actapublica/matrika/detail/1948 (O sn. 321 vlevo; N sn. 235 vpravo, sn. 207 vlevo)",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, Z Slavkov 1794–1836 (13149), sn. 267 vpravo, sn. 248 vlevo – https://www.mza.cz/actapublica/matrika/detail/1964"
       ],
       scans: [
         {"f":"img/1765_O_Tichy_Martin_Kucerova_Katerina_Herspice.jpg","t":"Sňatek s Kateřinou Kučerovou, Heršpice 1765"},
-        {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest syna Jakuba, Heršpice 1771"}
+        {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest syna Jakuba, Heršpice 1771"},
+        {"f":"img/1823_Z_Tichy_Martin_Herspice.jpg","t":"Úmrtí 25. 3. 1823, Heršpice č. 26"},
+        {"f":"img/1794_Z_Ticha_Katerina_Herspice.jpg","t":"Úmrtí manželky Kateřiny, Heršpice 1794"},
+        {"f":"img/1844_Z_Tichy_Jakub_Herspice.jpg","t":"Úmrtí syna Jakuba, Heršpice 1844"}
       ]
     },
     {
@@ -11712,18 +11724,22 @@ window.RODOKMEN = {
       maiden: "Kučerová",
       line: "svobodah",
       cert: "K",
-      b: {"date":"neznámé (asi 1745)","year":1745,"approx":true,"place":"Heršpice"},
+      b: {"date":"neznámé (asi 1742)","year":1742,"approx":true,"place":"Heršpice"},
+      d: {"date":"21. 12. 1794","year":1794,"place":"Heršpice č. p. 26"},
       spouse: "martin_ti",
       marriage: "29. (I ?) 1765, Heršpice – s Martinem Tichým",
       notes: [
-        "KANDIDÁTKA (K+): matka Jakuba Tichého (viz Martin Tichý). Dcera † Václava Kučery z Heršpic (sňatek 1765; M). Nezaměňovat s Kateřinou Kučerovou, vdovou po Tobiášovi (jiná osoba)."
+        "KANDIDÁTKA (K+): matka Jakuba Tichého (viz Martin Tichý). Dcera † Václava Kučery z Heršpic (sňatek 1765; M). Nezaměňovat s Kateřinou Kučerovou, vdovou po Tobiášovi (jiná osoba).",
+        "Zemřela 21. 12. 1794 v Heršpicích č. 26: „Katharina, Weib des Martin Tichy, ¼lehners“, 52 let (Z 13149, sn. 248 vlevo, str. 248; M) → *~1742; ztotožnění s nevěstou 1765 (D)."
       ],
       sources: [
-        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, NOZ 13121 – https://www.mza.cz/actapublica/matrika/detail/1948 (O sn. 321 vlevo)"
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, NOZ 13121 – https://www.mza.cz/actapublica/matrika/detail/1948 (O sn. 321 vlevo)",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, Z Slavkov 1794–1836 (13149), sn. 248 vlevo"
       ],
       scans: [
         {"f":"img/1765_O_Tichy_Martin_Kucerova_Katerina_Herspice.jpg","t":"Sňatek s Martinem Tichým, Heršpice 1765"},
-        {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest syna Jakuba, Heršpice 1771"}
+        {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest syna Jakuba, Heršpice 1771"},
+        {"f":"img/1794_Z_Ticha_Katerina_Herspice.jpg","t":"Úmrtí 21. 12. 1794, Heršpice č. 26"}
       ]
     },
     {
