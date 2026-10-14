@@ -1447,7 +1447,8 @@ window.RODOKMEN = {
         "Později domkář v Rabakově č. 19 (okres Sobotka), kde se mu 1874 narodil syn Josef.",
         "KANDIDÁT – děti podle rejstříku křtů Řitonice (nečteno): Marie 1862, Václav 1865, Antonín 1867, Anna 1871.",
         "Úmrtí Karla ani Marie není v Z fary Řitonice (Rabakov) 1866–1949 (rejstříky Řitonice 09 a 13, C/Č); v roce 1897 ještě domkář v Rabakově – zemřeli jinde (snad Hrubý Jeseník). V rejstříku „Čapková Anna z Rabakova, fol. 145, 1870“ – nečteno (K: dítě).",
-        "Úmrtí není ani v rejstříku Z fary Hrubý Jeseník 1891–1950 (HJ 29, C/Č; Praha 74) – úmrtí 1874–1890 (HJ 14) neprověřeno."
+        "Úmrtí není ani v rejstříku Z fary Hrubý Jeseník 1891–1950 (HJ 29, C/Č; Praha 74) – úmrtí 1874–1890 (HJ 14) neprověřeno.",
+        "Úmrtí není ani v HJ 14 (Jeseník) V 1873 – V 1879 (Praha 76); 24. 11. 1873 zemřela „Marie, vdova po † Janu Čapkovi, výměnkáři z Jeseníka č. 70“ – nečteno (K: snad Karlova matka ?)."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
@@ -1570,7 +1571,9 @@ window.RODOKMEN = {
         {"f":"img/1936_Z_Tukalova_Frantiska_Kosik.jpg","t":"Úmrtí 19. 3. 1936, Kosík č. 19"},
         {"f":"img/1924_Z_Tukal_Jan_Kosik.jpg","t":"Úmrtí manžela Jana, Kosík 29. 9. 1924"},
         {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_a.jpg","t":"Sňatek s Janem Ťukalem, Kosík 3. 2. 1874"},
-        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_b.jpg","t":"Sňatek 1874 – nevěsta, svědci"}
+        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_b.jpg","t":"Sňatek 1874 – nevěsta, svědci"},
+        {"f":"img/1896_Z_Snejdr_Vaclav_Zitovlice.jpg","t":"Úmrtí otce Václava Šnejdra, Žitovlice 20. 2. 1896"},
+        {"f":"img/1890_Z_Snejdrova_Katerina_Zitovlice.jpg","t":"Úmrtí matky Kateřiny Šnejdrové, Žitovlice 6. 2. 1890"}
       ]
     },
     {
@@ -2474,6 +2477,8 @@ window.RODOKMEN = {
       line: "snajdr",
       cert: "M",
       b: {"date":"26. 11. 1817","year":1817,"place":"Pojedy č. p. 9 (fara Rožďalovice)"},
+      d: {"date":"20. 2. 1896","year":1896,"place":"Žitovlice č. p. 44"},
+      cause: "rozedma plic (náhle)",
       father: "jan_sn",
       mother: "anna_sd",
       spouse: "katerina_su",
@@ -2483,14 +2488,15 @@ window.RODOKMEN = {
         "Narozen a pokřtěn 26. 11. 1817 v Pojedech č. 9 (děkan Václav Pokorný): otec Jan Šnejdr, chalupník z Pojed, matka Anna, dcera po † Jiřím Jírkovi, chalupníkovi ze Seletic; kmotři Václav Šulc (?) ze Žitovlic a Jan Ondráček (?) z Pojed.",
         "Oddán 5. 2. 1839 jako „syn † Jana Šnegdra, chalupníka z Pojed č. 9, a Anny rozené Jírků, chalupníka dcery ze Selletic“, 22 let, s Kateřinou, dcerou Jana Šulce, baráčníka ze Žitovlic č. 8, a Anny roz. Hofmanové z Dobrovan, 17 let (otec nevěsty svolil); svědci Vojtěch Vecham (?) a Franc Hofmann, půlsedlák z Dobrovan.",
         "Otec Františky Tůkalové, roz. Šnajdrové.",
-        "Úmrtí není v Z Pojedy (Žitovlice 04) 14. 4. 1875 – IV 1893 (Praha 75; Kateřina Fadrhonzová † 1893 v č. 9 není jeho žena)."
+        "Zemřel 20. 2. 1896 ve 3 hod. odpoledne v Žitovlicích (pohřben 22. 2., farář František Musil): „Václav Šnejdr, domkář v Žitovlicích č. 44, výměník v Pojedech č. 9, v okresu Libaňském“, 79 let, rozedma plic, „nenadále bez opatření zemřelý“ (M). Ve sloupci domu „6“, v textu č. 44."
       ],
       sources: [
         "SOA Praha, ř.-k. děkanství Mladá Boleslav, kniha Mladá Boleslav 83 (N 1903–1906), fol. 34, poř. č. 133, snímek 36 – https://ebadatelna.soapraha.cz/d/14060/36",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Pojedy, fol. 99, snímek 98 vpravo – https://ebadatelna.soapraha.cz/d/11184/98",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Žitovlice 05 (15676, Z Žitovlice 1875–1949), pag. 46, snímek 26; index Žitovlice 01 (9933) – https://ebadatelna.soapraha.cz/d/15676/26"
       ],
       scans: [
         {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"},
@@ -2498,7 +2504,9 @@ window.RODOKMEN = {
         {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874 (dítě: Františka Tůkalová)"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
         {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest dcery Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"},
-        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_b.jpg","t":"Sňatek dcery Františky s Janem Ťukalem, Kosík 3. 2. 1874"}
+        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_b.jpg","t":"Sňatek dcery Františky s Janem Ťukalem, Kosík 3. 2. 1874"},
+        {"f":"img/1896_Z_Snejdr_Vaclav_Zitovlice.jpg","t":"Úmrtí 20. 2. 1896, Žitovlice"},
+        {"f":"img/1890_Z_Snejdrova_Katerina_Zitovlice.jpg","t":"Úmrtí manželky Kateřiny, Žitovlice 6. 2. 1890"}
       ]
     },
     {
@@ -2894,6 +2902,8 @@ window.RODOKMEN = {
       line: "sulc",
       cert: "M",
       b: {"date":"22. 12. 1822","year":1822,"place":"Žitovlice č. p. 8 (fara Rožďalovice)"},
+      d: {"date":"6. 2. 1890","year":1890,"place":"Žitovlice č. p. 44"},
+      cause: "rozedma plic",
       father: "jan_su",
       mother: "anna_hf",
       spouse: "vaclav_sn",
@@ -2901,13 +2911,15 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěna 22. 12. 1822 ve Žitovlicích č. 8: otec Jan Šulc, baráčník, matka Anna, dcera Jana Hofmana z Dobrovan; kmotři Kateřina, vdova po † Vojtěchu Sobolovi (?), a Václav Pautník (?), baráčník ze Žitovlic. Při sňatku 1839 uvedeno 17 let (ve skutečnosti 16).",
         "Dcera Jana Šulce, baráčníka ze Žitovlic č. 8 (?) / 18, a Anny roz. Hofmanové, dcery půlsedláka z Dobrovan (křest syna 1846; ROZPOR čísla domu 8 × 18).",
-        "Matka Františky Ťukalové, roz. Šnejdrové."
+        "Matka Františky Ťukalové, roz. Šnejdrové.",
+        "Zemřela 6. 2. 1890 ve 2 hod. ráno v Žitovlicích č. 44 (pohřbena 9. 2., farář František Musil): „Kateřina Šnejdrová, manželka Václava Šnejdra, domkáře v Žitovlicích č. 44, výměníka v Pojedech č. 9, v okresu Libaňském“, 68 let, rozedma plic (M)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Žitovlice, fol. 85, snímek 85 (22. 12. 1822) – https://ebadatelna.soapraha.cz/d/11184/85"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Žitovlice, fol. 85, snímek 85 (22. 12. 1822) – https://ebadatelna.soapraha.cz/d/11184/85",
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Žitovlice 05 (15676, Z Žitovlice 1875–1949), pag. 30, snímek 18; index Žitovlice 01 (9933) – https://ebadatelna.soapraha.cz/d/15676/18"
       ],
       scans: [
         {"f":"img/1822_N_Sulcova_Katerina_Zitovlice.jpg","t":"Křest Kateřiny Šulcové, Žitovlice č. 8, 22. 12. 1822"},
@@ -2915,7 +2927,9 @@ window.RODOKMEN = {
         {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874 (dítě: Františka Tůkalová)"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
         {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest dcery Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"},
-        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_b.jpg","t":"Sňatek dcery Františky s Janem Ťukalem, Kosík 3. 2. 1874"}
+        {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_b.jpg","t":"Sňatek dcery Františky s Janem Ťukalem, Kosík 3. 2. 1874"},
+        {"f":"img/1890_Z_Snejdrova_Katerina_Zitovlice.jpg","t":"Úmrtí 6. 2. 1890, Žitovlice č. 44"},
+        {"f":"img/1896_Z_Snejdr_Vaclav_Zitovlice.jpg","t":"Úmrtí manžela Václava, Žitovlice 20. 2. 1896"}
       ]
     },
     {
