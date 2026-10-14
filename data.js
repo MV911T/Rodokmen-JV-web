@@ -3470,7 +3470,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901"},
         {"f":"img/1903_N_Ludmila_Blazkova_Verovice.jpg","t":"Křest Ludmily Blažkové, Veřovice 1903 (přípisek o sňatku 1930)"},
-        {"f":"img/1896_Z_Blazek_Antonin_Verovice.jpg","t":"Úmrtí otce Antonína Blažka, Veřovice 14. 4. 1896"}
+        {"f":"img/1896_Z_Blazek_Antonin_Verovice.jpg","t":"Úmrtí otce Antonína Blažka, Veřovice 14. 4. 1896"},
+        {"f":"img/1923_Z_Blazkova_Monika_Verovice.jpg","t":"Úmrtí matky Moniky Blažkové, Veřovice 12. 6. 1923"}
       ]
     },
     {
@@ -4303,26 +4304,29 @@ window.RODOKMEN = {
       line: "pitr",
       cert: "M",
       b: {"date":"1. 4. 1845","year":1845,"place":"Veřovice č. p. 145"},
-      d: {"date":"12. 6. 1923","year":1923},
+      d: {"date":"12. 6. 1923","year":1923,"place":"Veřovice č. p. 260"},
+      cause: "stařecká sešlost (marasmus senilis)",
       mother: "marianna_pi",
       spouse: "antonin_bl",
-      marriage: "2. (?) 10. 1866, Veřovice – s Antonínem Blažkem",
+      marriage: "2. 10. 1866, Veřovice – s Antonínem Blažkem",
       notes: [
         "Narozena a pokřtěna 1. 4. 1845 ve Veřovicích č. 145 (lokalista Johann Waniek), nemanželská (otec neuveden); matka Marianna, dcera Georga Pitra, domkaře z Veřovic, a Rosiny roz. Lacinové (dcery Josefa, domkaře ve Veřovicích); kmotři Franz Czernik (?) a Marianna Matuschová, porodní bába Susanna Matuschová (č. 86). Přípis: † 12. 6. 1923.",
         "Nemanželská dcera Marianny Pitrové, podruhyně z Veřovic, dcery domkáře Jiřího Pitra; oddána 2. (?) 10. 1866 (21 let) s kovářským tovaryšem Antonínem Blažkem ze Životic.",
-        "KANDIDÁT úmrtí: rejstřík Z Veřovice 1915–1949 (NJ XIV 14, sn. 130) – „Blažková Monika | 260 | 71“, rok 1923; dům č. 260 = dům manžela Antonína († 1896). Zápis nečten (D)."
+        "Zemřela 12. 6. 1923 ve Veřovicích č. 260 (pohřbena 14. 6., farář Dr. Jan Poštulka): „Blažkova Monika, vdova po † Antonínu Blažkovi, kovářském mistru ve Veřovicích, dcera Mariány Pitrové, podruhyně ve Veřovicích, rozené Jiří Pitr, domkař z Veřovic“, 78 let 2 m. 12 d.; „Narozená 1. dubna 1845 ve Veřovicích“ (M; shoda s křtem, otec neuveden ani zde)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, N 1826–1876 (sign. NJ XIV 2), pag. 225, snímek 118 vlevo (1. 4. 1845) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1915–1949 (sign. NJ XIV 14), sv. IV str. 71, snímek 36 vlevo, č. 17/1923; rejstřík sn. 130 – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"},
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek)"},
         {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"},
-        {"f":"img/1896_Z_Blazek_Antonin_Verovice.jpg","t":"Úmrtí manžela Antonína, Veřovice 14. 4. 1896"}
+        {"f":"img/1896_Z_Blazek_Antonin_Verovice.jpg","t":"Úmrtí manžela Antonína, Veřovice 14. 4. 1896"},
+        {"f":"img/1923_Z_Blazkova_Monika_Verovice.jpg","t":"Úmrtí 12. 6. 1923, Veřovice č. 260"}
       ]
     },
     {
