@@ -3387,7 +3387,8 @@ window.RODOKMEN = {
         "Otec Marie Michalové.",
         "Šenkýř v Mezilesí č. 2 (křest syna Františka Serafína 19. 8. 1813); manželka Ludmila, dcera Pavla Lhotka, mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?).",
         "Oddán poprvé 1805 v Mezilesí (20 let, šenkýř) s Johannou (?), podruhé jako vdovec 24. 11. 1808 v Salačově Lhotě č. 24 (28 let) s Ludmilou „Lhotkin“ (23 let) – Lukavec O 5378, sn. 101 a 118. ROZPOR ve věku (1805: 20, 1808: 28). Manželské děti s Ludmilou dle indexu: Johann a Václav 1819, Marie 1825, Kristýna 1829, Vilém 1831.",
-        "Zemřel 20. 4. 1852 ve 3 hod. odpoledne v Mezilesí č. 2 (pohřben 22. 4., kaplan Václav Roubal, farář P. Joannes Wrbický): „Václav Karafiát, šenkýř“, 75 let, souchotiny (M). ROZPOR věku: 75 (→ ~1777) × sňatky 1805 (20 let) a 1808 (28 let)."
+        "Zemřel 20. 4. 1852 ve 3 hod. odpoledne v Mezilesí č. 2 (pohřben 22. 4., kaplan Václav Roubal, farář P. Joannes Wrbický): „Václav Karafiát, šenkýř“, 75 let, souchotiny (M). ROZPOR věku: 75 (→ ~1777) × sňatky 1805 (20 let) a 1808 (28 let).",
+        "Další manželka: Josefa, roz. Studničková (?), † 11. 11. 1849 v Mezilesí č. 2 jako „manželka Wáclawa Karafiáta šenkýře“, 50 let, zánět plic (Z Lukavec 5383, sn. 17 vpravo, pag. 29; M) – Ludmila tedy zemřela dříve (asi 1819–1837, v indexu Z Lukavec 1838–1873 není) a Václav se znovu oženil (sňatek nehledán)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3414,7 +3415,8 @@ window.RODOKMEN = {
       spouse: "vaclav_ka",
       notes: [
         "Dcera Pavla Lhotka (Lhotky), mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?) (křty dětí 1813 a 19. 4. 1819, Mezilesí č. 2 – dřívější čtení „Zelta / Pelda“ = Lhotek). Oddána 24. 11. 1808 v Salačově Lhotě č. 24 (23 let) s vdovcem Václavem Karafiátem, šenkýřem z Mezilesí. Matka Marie Michalové.",
-        "ROZPOR: sňatek dcery Marie 1835 uvádí matku jako „Šimonovou (?)“ – pozdější zápis, platí křty a vlastní sňatek („Lhotkin“)."
+        "ROZPOR: sňatek dcery Marie 1835 uvádí matku jako „Šimonovou (?)“ – pozdější zápis, platí křty a vlastní sňatek („Lhotkin“).",
+        "Úmrtí není v indexu Z fary Lukavec 1838–1873 (5390); v roce 1849 byl Václav ženatý s Josefou → Ludmila zemřela asi 1819–1837 (index 5389 čten jen částečně)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
