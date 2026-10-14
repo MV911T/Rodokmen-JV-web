@@ -2853,7 +2853,8 @@ window.RODOKMEN = {
         {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest 5. 11. 1806, Krchleby č. 53"},
         {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830"},
         {"f":"img/1830_snatek_vaclav_ota_krchleby_a.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové, Krchleby 17. 2. 1830 – ženich"},
-        {"f":"img/1830_snatek_vaclav_ota_krchleby_b.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové 1830 – nevěsta, svědci"}
+        {"f":"img/1830_snatek_vaclav_ota_krchleby_b.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové 1830 – nevěsta, svědci"},
+        {"f":"img/1838_Z_Malek_Pavel_Krchleby.jpg","t":"Úmrtí otce Pavla Málka, Krchleby 1838"}
       ]
     },
     {
@@ -3949,7 +3950,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848"},
-        {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"}
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"},
+        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek rodičů Matěje a Alžběty Svobodových, Málkov 1818"}
       ]
     },
     {
@@ -4482,35 +4484,45 @@ window.RODOKMEN = {
       name: "Matěj Svoboda",
       line: "svoboda",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (asi 1790)","year":1790,"approx":true},
+      father: "vaclav_sv1",
       spouse: "alzbeta_za",
       occ: "domkář v Malkově (statek Tmaň)",
+      marriage: "XI 1818, Málkov (fara Borek) – s Alžbětou Kubáčkovou (?)",
       notes: [
-        "Otec Václava Svobody."
+        "Domkář v Málkově (statek Tmaň). Oddán v listopadu 1818 (den 8. ?) v Málkově: „Matěj, vlastní syn Václava Svobody, domkáře Malkovského, panství Tmaňského“, 28 let, s Alžbětou, vlastní dcerou Augustina Kubáčka (?), sedláka Malkovského č. 7, a matky Ludmily, 19 let; oddal farář Wenc. Fr. Matiegka (M). Jediný sňatek Matěje × Alžběty v Málkově 1800–1824.",
+        "Otec Václava Svobody (*1820)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87"
       ],
       scans: [
-        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Václav Svoboda)"}
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Václav Svoboda)"},
+        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek s Alžbětou, Málkov 1818"}
       ]
     },
     {
       id: "alzbeta_za",
       name: "Alžběta Svobodová",
-      maiden: "Zahálková (?)",
+      maiden: "Kubáčková (?)",
       line: "zahalka",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Malkov"},
+      b: {"date":"neznámé (asi 1799)","year":1799,"approx":true,"place":"Málkov č. 7 (?)"},
+      father: "augustin_kb",
+      mother: "ludmila_kb",
       spouse: "matej_sv",
+      marriage: "XI 1818, Málkov – s Matějem Svobodou",
       notes: [
-        "Matka Václava Svobody; čtení nejisté."
+        "Dcera Augustina Kubáčka (?), sedláka v Málkově č. 7, a Ludmily; oddána v listopadu 1818 s Matějem Svobodou, 19 let (M). ROZPOR rodného příjmení: dříve čteno „Zahálková (?)“ (zápis o Václavovi) × oddací zápis „Kubáčková (?)“ – platí oddací zápis, čtení nejisté."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87"
       ],
       scans: [
-        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Václav Svoboda)"}
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Václav Svoboda)"},
+        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek s Matějem Svobodou, Málkov 1818"}
       ]
     },
     {
@@ -4518,19 +4530,23 @@ window.RODOKMEN = {
       name: "Pavel Málek",
       line: "malek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      b: {"date":"neznámé (asi XI 1760)","year":1760,"approx":true},
+      d: {"date":"20. 9. 1838","year":1838,"place":"Krchleby č. p. 53"},
       spouse: "anna_kr",
       occ: "sedlák v Krchlebích č. 53",
       notes: [
-        "Otec Kateřiny Otové; usedlost Krchleby č. 53 později převzal zeť Václav Ota."
+        "Otec Kateřiny Otové; usedlost Krchleby č. 53 později převzal zeť Václav Ota.",
+        "Zemřel 20. 9. 1838 v Krchlebích č. 53 (pohřben 22. 9.): „Pavel Málek, vysloužilý výminkář (?) v výminku ze Skrchleb“, 77 let 10 měsíců (M; → asi XI 1760). Dcera Anna † 26. 5. 1798 ve věku 6 měsíců (č. 53) – ženatý nejpozději 1797. KANDIDÁT bratra: Václav Málek (24) × 15. 6. 1790 Dorota Němečková (?) v Krchlebích č. 53, svědek „Pavel Málek, sedlák“ (Nymburk 08, sn. 195 vpravo). Sňatek s Annou Krebsovou v O Nymburk 08 (Krchleby, Všechlapy) 1784–1798 není – snad před 1784 nebo 2. manželka."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57",
-        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 04 (13542, Z), str. 59, snímek 62 (20. 9. 1838); index Veleliby 13 sn. 40 – https://ebadatelna.soapraha.cz/d/13542/62"
       ],
       scans: [
         {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830 (dítě: Kateřina Otová)"},
-        {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest dcery Kateřiny, Krchleby 1806"}
+        {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest dcery Kateřiny, Krchleby 1806"},
+        {"f":"img/1838_Z_Malek_Pavel_Krchleby.jpg","t":"Úmrtí 20. 9. 1838, Krchleby č. 53"}
       ]
     },
     {
@@ -6098,19 +6114,22 @@ window.RODOKMEN = {
       name: "Jan Košaj (Koßay)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
-      d: {"date":"před 28. 10. 1781","year":1781,"approx":true},
+      b: {"date":"neznámé (asi 1725)","year":1725,"approx":true},
+      d: {"date":"5. 9. 1772","year":1772,"place":"Volduchy č. p. 27"},
       spouse: "anna_ko",
       occ: "sedlák (rusticus) ve Volduchách",
       notes: [
         "Sedlák z Volduch; otec Anny Trgjkové (oddací zápis 1781 „Joann Koßay“, M). Při jejím sňatku 28. 10. 1781 už nežil.",
-        "KANDIDÁTI (K): manželka Anna (křest dcery Anny 1762); sňatek „Jan, vlastní syn Jana Košaje z Volduch, s … dcerou po † Petru Forejtovi též z Volduch“ 25. 10. 1745 (Osek 03 O, str. 21, sn. 119 vpravo) – jméno nevěsty neuvedeno, mezera do 1762 → možná 2. manželka."
+        "KANDIDÁTI (K): manželka Anna (křest dcery Anny 1762); sňatek „Jan, vlastní syn Jana Košaje z Volduch, s … dcerou po † Petru Forejtovi též z Volduch“ 25. 10. 1745 (Osek 03 O, str. 21, sn. 119 vpravo) – jméno nevěsty neuvedeno, mezera do 1762 → možná 2. manželka.",
+        "KANDIDÁT úmrtí (K+): „Joann Koßay, Bauer“, Volduchy č. 27, † 5. 9. 1772, 47 (?) let (Osek 08 Z, Volduchy, fol. 5, sn. 74 vlevo; rejstřík sn. 144 – M zápis). První číslice věku zesílená (47 / 77 ?); jiný dospělý Jan Košaj ve Volduchách 1772–1783 nezemřel. Děti: Jan (1747), dvojčata Anna a Markéta (1751), Anna (1762), Jan (1765)."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
+        "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 08 (Z), oddíl Volduchy, fol. 5, snímek 74 vlevo (5. 9. 1772) – https://www.portafontium.eu/iipimage/30066674/osek-08_0740-z"
       ],
       scans: [
-        {"f":"img/1800_umrti_anna_trgjk_osek83_osek08_sn29.jpg","t":"Úmrtí Anny Trgjkové, Osek 18. 4. 1800 (dítě: Anna Trgjková)"}
+        {"f":"img/1800_umrti_anna_trgjk_osek83_osek08_sn29.jpg","t":"Úmrtí Anny Trgjkové, Osek 18. 4. 1800 (dítě: Anna Trgjková)"},
+        {"f":"img/1772_Z_Kosaj_Jan_Volduchy.jpg","t":"Kandidát úmrtí, Volduchy 5. 9. 1772"}
       ]
     },
     {
@@ -11101,13 +11120,21 @@ window.RODOKMEN = {
       maiden: "Forejtová (?)",
       line: "forejt",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      b: {"date":"7. 1. 1726 (pokřtěna 8. 1.)","year":1726,"place":"Volduchy (fara Osek)"},
+      father: "petr_fo",
+      mother: "lidmila_fo",
       spouse: "johann_ko",
       notes: [
+        "KANDIDÁT křtu (K+, téměř jistý): „Anna, vlastní dcera Petra Forejta a Lidmily manželky jeho“, nar. 7. 1., pokřtěna 8. 1. 1726 ve Volduchách; kmotra Anna Šmídová (?) z Volduch (Osek 01 N, str. 241, sn. 122 vpravo; M zápis). Sestry Magdalena a Markéta (VII 1729, snad dvojčata), bratr Michal (29. 9. 1733). Družička „Anna Forejtová z Volduch“ 15. 2. 1745; dvojčata 1751 dostala jména Anna a Markéta.",
         "KANDIDÁTKA (K+): manželka Jana Košaje, sedláka z Volduch, matka Anny (*1762) – ve všech křtech dětí 1747–1765 „matka Anna“ (M). Nejspíš nevěsta z 25. 10. 1745: „Jan, vlastní syn Jana Košaje z Volduch, s … vlastní dcerou pozůstalou po † Petru Forejtovi též z Volduch“ (Osek 03 O, str. 21, sn. 119 vpravo – křestní jméno nevěsty v zápisu chybí); jiný sňatek Jana Košaje 1740–1771 v rejstříku není."
       ],
       sources: [
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 03 O str. 21 (25. 10. 1745); Osek 03 N str. 68, 104; Osek 04 N str. 23, 43 – https://www.portafontium.eu/iipimage/30066669/osek-03_1190-o"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 03 O str. 21 (25. 10. 1745); Osek 03 N str. 68, 104; Osek 04 N str. 23, 43 – https://www.portafontium.eu/iipimage/30066669/osek-03_1190-o",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 01 (N), str. 241, snímek 122 vpravo (8. 1. 1726); Osek 02 N str. 11, 53 – https://www.portafontium.eu/iipimage/30066667/osek-01_1221-n"
+      ],
+      scans: [
+        {"f":"img/1726_N_Forejtova_Anna_Volduchy.jpg","t":"Kandidát křtu, Volduchy 8. 1. 1726"},
+        {"f":"img/1772_Z_Kosaj_Jan_Volduchy.jpg","t":"Úmrtí manžela Jana Košaje, Volduchy 5. 9. 1772"}
       ]
     },
     {
@@ -11125,6 +11152,93 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1813_O_Michalek_Karel_Ziegnerova_Anna_Belotin.jpg","t":"Sňatek syna Karla, Bělotín 1813"}
+      ]
+    },
+    {
+      id: "vaclav_sv1",
+      name: "Václav Svoboda",
+      line: "svoboda",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      occ: "domkář v Málkově (panství Tmaň)",
+      notes: [
+        "Domkář v Málkově (panství Tmaň); otec Matěje Svobody – oddací zápis syna 1818 (M). Nezaměňovat s Václavem Svobodou (*~1781, syn Matěje × Anny, domkář v Suchomastech č. 14)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87"
+      ],
+      scans: [
+        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek syna Matěje, Málkov 1818"}
+      ]
+    },
+    {
+      id: "augustin_kb",
+      name: "Augustin Kubáček (?)",
+      line: "svoboda",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      spouse: "ludmila_kb",
+      occ: "sedlák v Málkově č. 7",
+      notes: [
+        "Sedlák v Málkově č. 7; otec Alžběty, provdané Svobodové – oddací zápis 1818 (M; příjmení nejisté)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87"
+      ],
+      scans: [
+        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek dcery Alžběty, Málkov 1818"}
+      ]
+    },
+    {
+      id: "ludmila_kb",
+      name: "Ludmila Kubáčková (?)",
+      line: "svoboda",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      spouse: "augustin_kb",
+      notes: [
+        "Manželka Augustina Kubáčka (?), sedláka v Málkově č. 7; matka Alžběty Svobodové (oddací zápis 1818, M). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87"
+      ],
+      scans: [
+        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek dcery Alžběty, Málkov 1818"}
+      ]
+    },
+    {
+      id: "petr_fo",
+      name: "Petr Forejt",
+      line: "forejt",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
+      d: {"date":"1733–1745","year":1745,"approx":true},
+      spouse: "lidmila_fo",
+      notes: [
+        "KANDIDÁT (K+): otec Anny (*1726), pozdější manželky Jana Košaje – „vlastní dcera pozůstalá po † Petru Forejtovi z Volduch“ (O 1745). Z Volduch; děti s Lidmilou: Anna (1726), Magdalena a Markéta (1729), Michal (1733). Vztah k Forejtům z Volduch (Martin, Pavel) neznámý."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 N str. 241; Osek 02 N str. 11, 53; Osek 03 O str. 21"
+      ],
+      scans: [
+        {"f":"img/1726_N_Forejtova_Anna_Volduchy.jpg","t":"Křest dcery Anny, Volduchy 1726"}
+      ]
+    },
+    {
+      id: "lidmila_fo",
+      name: "Lidmila Forejtová",
+      line: "forejt",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
+      spouse: "petr_fo",
+      notes: [
+        "KANDIDÁTKA (K+): manželka Petra Forejta z Volduch, matka Anny (*1726) – křty dětí 1726–1733 (M zápisy). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 N str. 241"
+      ],
+      scans: [
+        {"f":"img/1726_N_Forejtova_Anna_Volduchy.jpg","t":"Křest dcery Anny, Volduchy 1726"}
       ]
     }
   ]
