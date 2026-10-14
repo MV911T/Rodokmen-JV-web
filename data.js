@@ -8929,7 +8929,8 @@ window.RODOKMEN = {
         {"f":"img/1795_N_Hofmanova_Anna_Dobrovany16.jpg","t":"Křest Anny Hofmanové, Dobrovany č. 16, 22. 1. 1795"},
         {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
-        {"f":"img/1822_N_Sulcova_Katerina_Zitovlice.jpg","t":"Křest dcery Kateřiny Šulcové, Žitovlice č. 8, 22. 12. 1822"}
+        {"f":"img/1822_N_Sulcova_Katerina_Zitovlice.jpg","t":"Křest dcery Kateřiny Šulcové, Žitovlice č. 8, 22. 12. 1822"},
+        {"f":"img/1798_Z_Hofman_Jan_Dobrovany.jpg","t":"Úmrtí otce Jana Hofmana, Dobrovany 1798"}
       ]
     },
     {
@@ -9305,23 +9306,28 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1746)","year":1746,"approx":true},
+      d: {"date":"15. 6. 1798","year":1798,"place":"Dobrovany č. p. 16 (fara Rožďalovice)"},
+      cause: "zimnice a souchotiny (?)",
       spouse: "marie_zj",
       marriage: "13. 1. 1788, Nová Hasina č. 6 (fara Rožďalovice) – s Marií Zajíčkovou (2. sňatek)",
       notes: [
-        "Sedlák (půlsedlák) v Dobrovanech; zemřel před V 1818 (sňatek dcery Anny).",
+        "Sedlák (půlsedlák) v Dobrovanech č. 16.",
         "Sedlák v Dobrovanech č. 16; s manželkou Marií roz. Zajíčkovou (?) děti František (1790), Jiří (1793), Anna (1795). Matěj (1797, matka Kateřina Bayerová ?) – jiný Jan nebo 2. manželství, neověřeno.",
-        "Oddán 13. 1. 1788 v Nové Hasině č. 6 jako vdovec, 42 let (→ *~1746), s Marií Zajíčkovou, svobodnou, 23 let; svědci František Kaubek (?), chalupník z Křince, a Anna Dvořáková; oddal Václav Pokorný. Rodiče neuvedeni. Mezi 1788 a 1790 se přestěhoval do Dobrovan č. 16. První manželství zatím nedohledáno."
+        "Oddán 13. 1. 1788 v Nové Hasině č. 6 jako vdovec, 42 let (→ *~1746), s Marií Zajíčkovou, svobodnou, 23 let; svědci František Kaubek (?), chalupník z Křince, a Anna Dvořáková; oddal Václav Pokorný. Rodiče neuvedeni. Mezi 1788 a 1790 se přestěhoval do Dobrovan č. 16. První manželství zatím nedohledáno.",
+        "Zemřel 15. 6. 1798 v Dobrovanech č. 16: „Jan Hofman, sedlák“, 45 let, „na zimnici a sychání (?)“; zaopatřil a pohřbil Václav Pokorný (Rožďalovice 13, pag. 441, sn. 225 vpravo; M, ověřeno koordinátorem). Syn Jiří † 10. 2. 1801, 7 let, „syn po † Janovi Hoffmanovi, sedlákovi z Dobrovan“ (index). ROZPOR věku: 45 (1798 → *~1753) × 42 jako vdovec při sňatku 1788 (→ *~1746). Matěj 1797 s matkou „Kateřinou Bayerovou“ (index) – nesedí, neověřeno."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Dobrovany, pag. 95, snímek 51 vpravo (22. 1. 1795); index Rožďalovice 22 sn. 73 – https://ebadatelna.soapraha.cz/d/11182/51",
         "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 26 vpravo (13. 1. 1788, odkaz na pag. 222)",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 222/223, snímek 115 (13. 1. 1788) – https://ebadatelna.soapraha.cz/d/11192/115"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 222/223, snímek 115 (13. 1. 1788) – https://ebadatelna.soapraha.cz/d/11192/115",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Rožďalovice, Rožďalovice 13 (Z), pag. 441, sn. 225 vpravo – https://ebadatelna.soapraha.cz/d/11196/225"
       ],
       scans: [
         {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"},
         {"f":"img/1795_N_Hofmanova_Anna_Dobrovany16.jpg","t":"Křest Anny Hofmanové, Dobrovany č. 16, 22. 1. 1795"},
-        {"f":"img/1788_O_Hofman_Jan_Zajickova_Marie_Hasina6.jpg","t":"Sňatek Jana Hofmana (vdovce) s Marií Zajíčkovou, Nová Hasina č. 6, 13. 1. 1788"}
+        {"f":"img/1788_O_Hofman_Jan_Zajickova_Marie_Hasina6.jpg","t":"Sňatek Jana Hofmana (vdovce) s Marií Zajíčkovou, Nová Hasina č. 6, 13. 1. 1788"},
+        {"f":"img/1798_Z_Hofman_Jan_Dobrovany.jpg","t":"Úmrtí 15. 6. 1798, Dobrovany č. 16"}
       ]
     },
     {
