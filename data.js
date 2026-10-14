@@ -1078,7 +1078,8 @@ window.RODOKMEN = {
         {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"},
         {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_a.jpg","t":"Sňatek Václava Červenky a Anny Vlasákové, Beroun 19. 5. 1894"},
         {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_b.jpg","t":"Sňatek Červenka × Vlasáková 1894 – svědci, data narození"},
-        {"f":"img/1905_Z_Cervenkova_Antonie_Hredle.jpg","t":"Úmrtí matky Antonie Červenkové, Hředle 13. 2. 1905"}
+        {"f":"img/1905_Z_Cervenkova_Antonie_Hredle.jpg","t":"Úmrtí matky Antonie Červenkové, Hředle 13. 2. 1905"},
+        {"f":"img/1875_Z_Cervenka_Matej_Hredle_a.jpg","t":"Úmrtí otce Matěje Červenky, Hředle 2. 3. 1875"}
       ]
     },
     {
@@ -1440,7 +1441,8 @@ window.RODOKMEN = {
         "Narozen 2. 11., pokřtěn 3. 11. 1829 v Hrubém Jeseníku č. 48 („Carolus Borrom.“); otec Jan Čapek, familiant; matka Marie, dcera † Karla Čapka, chalupníka z Jeseníka č. 30. Kmotři Václav Dubský (?), chalupník č. 35, a Jan Borovička z č. 44.",
         "Oddán 3. 3. 1851 v Hrubém Jeseníku (č. 74) jako familiant v Jeseníku č. 70, 21 let; souhlas dal otec Jan Čapek, výměnkář. Po dispenzu podkrajského úřadu v Nymburce jen jedna ohláška.",
         "Později domkář v Rabakově č. 19 (okres Sobotka), kde se mu 1874 narodil syn Josef.",
-        "KANDIDÁT – děti podle rejstříku křtů Řitonice (nečteno): Marie 1862, Václav 1865, Antonín 1867, Anna 1871."
+        "KANDIDÁT – děti podle rejstříku křtů Řitonice (nečteno): Marie 1862, Václav 1865, Antonín 1867, Anna 1871.",
+        "Úmrtí Karla ani Marie není v Z fary Řitonice (Rabakov) 1866–1949 (rejstříky Řitonice 09 a 13, C/Č); v roce 1897 ještě domkář v Rabakově – zemřeli jinde (snad Hrubý Jeseník). V rejstříku „Čapková Anna z Rabakova, fol. 145, 1870“ – nečteno (K: dítě)."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
@@ -1702,7 +1704,8 @@ window.RODOKMEN = {
       line: "cervenka",
       cert: "M",
       b: {"date":"3. 4. 1825","year":1825,"place":"Hředle č. p. 37"},
-      d: {"date":"před 13. 2. 1905 (asi před IX 1898)","year":1898,"approx":true,"place":"Hředle (?)"},
+      d: {"date":"2. 3. 1875","year":1875,"place":"Hředle č. p. 37"},
+      cause: "zánět střev",
       father: "jakub1789",
       mother: "veronika_s",
       occ: "rolník ve Hředlích č. p. 37",
@@ -1711,13 +1714,14 @@ window.RODOKMEN = {
         "Narozen a pokřtěn 3. 4. 1825 ve Hředlích č. 37 (kaplan Joannes Ant. Krob). Otec Jakub Červenka, sedlák z Hředl č. 37, syn † Jakuba Červenky, sedláka z Hředl č. 37, a † Anny roz. „Chollryzkové“ (? – nejspíš Holické) z Hředl č. 8; matka Veronika, dcera Jiřího Skály, sedláka z Vinařic, a Evy z Býkoše (panství Suchomasty). Kmotři Matěj Vopršal (?), sedlák z Hředl, a Anna Fraňková (?).",
         "Oddán 25. 11. 1851 ve Zdicích (Černín č. 7, kaplan P. Fr. Havlíček): gruntovník ve Hředlích č. 37, 26 let, syn Jakuba Červenky, gruntovníka ve Hředlích č. 37, a Veroniky roz. Skálové z Vinařic.",
         "Usedlost Hředle č. 37 = patrně stavební parcela 82 na indikační skice stabilního katastru (1840) – ověřit. Gruntovní knihy panství Točník: SOA Praha, Velkostatek Zbiroh (NAD 397) – neprohlédnuto.",
-        "ROZPOR: rodopis uvádí úmrtí 13. 2. 1905 ve Hředlích č. 37 – to je ale datum úmrtí manželky Antonie, která tehdy byla „vdova po † Matěji Červenkovi“ (M). V indexu Z Žebrák 29 (od 29. 9. 1898) Matěj není → zemřel nejspíš před IX 1898 (hledat Žebrák 25, Z 1874–1898)."
+        "Zemřel 2. 3. 1875 ve Hředlích č. 37 (pohřben 4. 3. v Žebráku, děkan P. Neverka; zaopatřen 25. 2. kaplanem P. Fr. Klímou): „Červenka Matěj, rolník z Hředel N. 37, manžel Antonie roz. Diviš z Černína“, ženatý, 50 let, zánět střev (M). ROZPOR: rodopis uvádí 13. 2. 1905 – to je datum úmrtí vdovy Antonie."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 07 (N 1822–1829), str. 150, snímek 77 – https://ebadatelna.soapraha.cz/d/9736/77",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82",
-        "Stabilní katastr – indikační skica Hředle 1840 (NA), BER137018400 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=BER137018400"
+        "Stabilní katastr – indikační skica Hředle 1840 (NA), BER137018400 – https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=BER137018400",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 25 (9850, Z 1874–1898), str. 14, snímek 16, 4. zápis; rejstřík sn. 245 vpravo – https://ebadatelna.soapraha.cz/d/9850/16"
       ],
       scans: [
         {"f":"img/rodopis_cervenka_1.jpg","t":"Rodopis Červenků, s. 1"},
@@ -1729,7 +1733,9 @@ window.RODOKMEN = {
         {"f":"img/1851_snatek_matej_cervenka_zdice_a.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové, Zdice 25. 11. 1851"},
         {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"},
         {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest syna Václava Červenky, Hředle 1868 – otec"},
-        {"f":"img/1905_Z_Cervenkova_Antonie_Hredle.jpg","t":"Úmrtí manželky Antonie (vdovy), Hředle 13. 2. 1905"}
+        {"f":"img/1905_Z_Cervenkova_Antonie_Hredle.jpg","t":"Úmrtí manželky Antonie (vdovy), Hředle 13. 2. 1905"},
+        {"f":"img/1875_Z_Cervenka_Matej_Hredle_a.jpg","t":"Úmrtí 2. 3. 1875, Hředle č. 37"},
+        {"f":"img/1875_Z_Cervenka_Matej_Hredle_b.jpg","t":"Úmrtí 1875 – věk, příčina"}
       ]
     },
     {
@@ -1764,7 +1770,8 @@ window.RODOKMEN = {
         {"f":"img/1822_krest_antonie_divisova_cernin_a.jpg","t":"Křest Antonie Divišové, Černín 1822"},
         {"f":"img/1822_krest_antonie_divisova_cernin_b.jpg","t":"Křest Antonie Divišové 1822 – rodiče, kmotři"},
         {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest syna Václava Červenky, Hředle 1868 – otec"},
-        {"f":"img/1905_Z_Cervenkova_Antonie_Hredle.jpg","t":"Úmrtí 13. 2. 1905, Hředle č. 37"}
+        {"f":"img/1905_Z_Cervenkova_Antonie_Hredle.jpg","t":"Úmrtí 13. 2. 1905, Hředle č. 37"},
+        {"f":"img/1875_Z_Cervenka_Matej_Hredle_a.jpg","t":"Úmrtí manžela Matěje, Hředle 2. 3. 1875"}
       ]
     },
     {
