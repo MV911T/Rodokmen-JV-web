@@ -4226,7 +4226,8 @@ window.RODOKMEN = {
       spouse: "ludmila_vd",
       occ: "mistr polní (polní mistr) v Tetíně",
       notes: [
-        "Otec Ludmily Stádlerové: „† Jan Stadler, mistr polní z Tetína“ (křest 1848 Borek 09 sn. 38; sňatek 1874 Borek 20 sn. 28; M). Manželka Ludmila roz. Vadlejšková z Hořaždovic. V rejstřících N a O Tetín 1737–1811 / 1743–1803 není – do Tetína přišel odjinud."
+        "Otec Ludmily Stádlerové: „† Jan Stadler, mistr polní z Tetína“ (křest 1848 Borek 09 sn. 38; sňatek 1874 Borek 20 sn. 28; M). Manželka Ludmila roz. Vadlejšková z Hořaždovic. V rejstřících N a O Tetín 1737–1811 / 1743–1803 není – do Tetína přišel odjinud.",
+        "KANDIDÁT (K, slabý – ROZPOR): v Tetíně č. 10 žil Jan Staral (čteno jasně „Staral“, ne Stadler), chalupník, později výminkář, × Ludmila roz. Melicharová ze Srbska; děti Ludmila Rozálie (23. 4. 1790), Rozálie (1792), Kateřina (1795), Barbora (1799), Vincenc (1804), Anna (1806) (Tetín 02/03; M); Jan † 1838 (74), Ludmila † 1841 (70) (index Z Tetín 01). Proti: příjmení, povolání (mistr polní) i rodné příjmení matky (Vadlejšková) se liší. Jiný Stadler v Tetíně 1737–1843 nenalezen."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
