@@ -7294,7 +7294,8 @@ window.RODOKMEN = {
       notes: [
         "Vdova po † Jakubu Gyštovi (?); 13. 2. 1763 se v Oseku znovu vdala za Šimona Holuba. Matka Anny Laukotové / Lodlové (křest 1774).",
         "1. manžel Jakub Gyšt, chalupník (subrusticus) z Oseka, † 7. 2. 1762, 38 let (Osek 04 Z str. 10, sn. 109 vlevo; M zápis, ztotožnění K+). KANDIDÁT původu (K): Jakub, syn Martina Gyšta z Oseka, se 28. 10. 1755 oženil s dcerou Josefa Gottfrida z Oseka (Osek 03 O str. 58, sn. 138 vlevo – křestní jméno nevěsty v zápisu chybí; jiný sňatek Jakuba Gyšta 1747–1771 není) → Kateřina roz. Gottfridová (?), narozená spíš ~1730–1737.",
-        "Potvrzeno: manželka Jakuba Gyšta se jmenovala Kateřina – křty dcer Anny (11./12. 2. 1757, Osek 03 N str. 156) a Kateřiny (24./25. 5. 1759, str. 175; kmotra Kateřina Čadová z Volduch) „otce Jakuba Gyšta a matky Kateřiny“ (M) → nevěsta z 28. 10. 1755, dcera Josefa Gottfrida z Oseka (K+). Rodiče Josef Gottfrid × Kateřina měli v Oseku děti Barboru (13. 4. 1737) a Ludmilu (1739) (M); Kateřina sama v rejstříku N 1728–1739 není (*před 1728)."
+        "Potvrzeno: manželka Jakuba Gyšta se jmenovala Kateřina – křty dcer Anny (11./12. 2. 1757, Osek 03 N str. 156) a Kateřiny (24./25. 5. 1759, str. 175; kmotra Kateřina Čadová z Volduch) „otce Jakuba Gyšta a matky Kateřiny“ (M) → nevěsta z 28. 10. 1755, dcera Josefa Gottfrida z Oseka (K+). Rodiče Josef Gottfrid × Kateřina měli v Oseku děti Barboru (13. 4. 1737) a Ludmilu (1739) (M); Kateřina sama v rejstříku N 1728–1739 není (*před 1728).",
+        "KANDIDÁT křtu (K+): Kateřina, „vlastní dcera Jozefa Kodfrida (Godfrida) a Kateřiny“, nar. 25. 12., pokřtěna 27. 12. 1727 v Oseku (Osek 01 N str. 261, sn. 132 vpravo; M zápis); sestra Eva (25. 12. 1725, str. 240). Jediná Kateřina Josefa Gottfrida 1725–1739. Slabé místo: při narození dcery Anny (VI 1774) by jí bylo 46 let."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n",
@@ -11482,7 +11483,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
       spouse: "katerina_gf",
       notes: [
-        "KANDIDÁT (K+): otec Kateřiny Holubové (1. × Gyšt) – oddací zápis 28. 10. 1755: Jakub Gyšt „s poctivou děvečkou, vlastní dcerou otce Josefa Gottfrida též z Woseka“ (M zápis; jméno nevěsty v zápisu chybí, ztotožnění přes křty dětí Jakuba × Kateřiny 1757, 1759). Z Oseka; děti s Kateřinou: Barbora (1737), Ludmila (1739)."
+        "KANDIDÁT (K+): otec Kateřiny Holubové (1. × Gyšt) – oddací zápis 28. 10. 1755: Jakub Gyšt „s poctivou děvečkou, vlastní dcerou otce Josefa Gottfrida též z Woseka“ (M zápis; jméno nevěsty v zápisu chybí, ztotožnění přes křty dětí Jakuba × Kateřiny 1757, 1759). Z Oseka; děti s Kateřinou: Barbora (1737), Ludmila (1739).",
+        "Děti v Oseku: Eva (25. 12. 1725), Kateřina (25. 12. 1727), Barbora (13. 4. 1737), Ludmila (1739) (M zápisy). Sňatek v O Osek VIII 1714 – 1727 není (před 1714 nebo jinde)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 03 O str. 58 (28. 10. 1755); Osek 02 N str. 84, 105"
@@ -11496,7 +11498,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
       spouse: "josef_gf",
       notes: [
-        "KANDIDÁTKA (K): manželka Josefa Gottfrida z Oseka – „matky Kateřiny“ ve křtech dcer Barbory (1737) a Ludmily (1739) (M zápisy); matka Kateřiny Holubové, pokud byla z téhož manželství."
+        "KANDIDÁTKA (K): manželka Josefa Gottfrida z Oseka – „matky Kateřiny“ ve křtech dcer Barbory (1737) a Ludmily (1739) (M zápisy); matka Kateřiny Holubové, pokud byla z téhož manželství.",
+        "Děti v Oseku: Eva (25. 12. 1725), Kateřina (25. 12. 1727), Barbora (13. 4. 1737), Ludmila (1739) (M zápisy). Sňatek v O Osek VIII 1714 – 1727 není (před 1714 nebo jinde)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 N str. 84, 105"
