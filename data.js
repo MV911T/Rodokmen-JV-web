@@ -1127,7 +1127,8 @@ window.RODOKMEN = {
       notes: [
         "Narozen 19. 1., pokřtěn 20. 1. 1880 (fara Borek). Otec Josef Klika, nádeník v Býkoši č. 38; matka Marie, dcera Václava Svobody, domkáře ze Suchomast č. 21.",
         "Při sňatku 24. 5. 1903 dělník v Suchomastech č. 34, nezletilý (23 let) – za svéprávného prohlášen okresním soudem v Berouně. Svědci Jan Jankovský, domkář ze Suchomast č. 34, a Josef Krejzek, mistr sedlářský v Suchomastech č. 43.",
-        "Později dělník v Suchomastech č. 14 (1913); svědek na sňatku dcery Anny 1933."
+        "Později dělník v Suchomastech č. 14 (1913); svědek na sňatku dcery Anny 1933.",
+        "Úmrtí Karla ani manželky Rosiny není v Z fary Borek 1903 – XI 1949 (rejstřík do 1932, zápisy 1932–49 prohlédnuty – střední jistota); zemřeli asi po 1949 nebo mimo farnost. V rejstříku dětská úmrtí: mrtvě narozené dítě Klikovo 27. 7. 1903 (Suchomasty 14) a Karel Klika, dítě dělníka, 21. 8. 1904 (Suchomasty 76) – nečteno (K)."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
@@ -1141,7 +1142,8 @@ window.RODOKMEN = {
         {"f":"img/1903_snatek_karel_klika_suchomasty_a.jpg","t":"Sňatek Karla Kliky a Rosiny Valentové, Borek 24. 5. 1903"},
         {"f":"img/1903_snatek_karel_klika_suchomasty_b.jpg","t":"Sňatek Karla Kliky a Rosiny Valentové 1903 – data narození, svědci"},
         {"f":"img/1880_krest_karel_klika_bykos_a.jpg","t":"Křest Karla Kliky, Býkoš 1880"},
-        {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"}
+        {"f":"img/1880_krest_karel_klika_bykos_b.jpg","t":"Křest Karla Kliky, Býkoš 1880 – rodiče, kmotři"},
+        {"f":"img/1911_Z_Klikova_Marie_Suchomasty.jpg","t":"Úmrtí matky Marie, Suchomasty 30. 11. 1911"}
       ]
     },
     {
@@ -1188,7 +1190,7 @@ window.RODOKMEN = {
       marriage: "10. 2. 1874, Suchomasty – s Marií Svobodovou",
       notes: [
         "Pokřtěn 26. 10. 1834 v Suchomastech č. 14 (fara Borek); otec František Klika, domkář, syn † Václava Kliky ze Suchomast č. 11 (?) a Kateřiny roz. Šlikové (?) z Litně (?); matka Anna, dcera † Václava Svobody, domkáře ze Suchomast č. 14, a Josefy roz. Prajzové (?). Kmotři Matěj Dušek (?) a Anna Pfendal (?), mlynářka ze Suchomast. Přípis „† 4/12 1889 (?)“.",
-        "Oddán 10. 2. 1874 v Suchomastech jako nádeník ze Suchomast č. 14; 1880 nádeník v Býkoši č. 38. V roce 1903 už nežil.",
+        "Oddán 10. 2. 1874 v Suchomastech jako nádeník ze Suchomast č. 14; 1880 nádeník v Býkoši č. 38. V roce 1903 už nežil; v zápisu o úmrtí manželky 1911 „† Josef Klika, dělník ze Suchomast č. 14“ (M).",
         "ROZPOR v datu narození: oddací zápis 1874 „2 (?) října“, křest 26. 10. 1834 – platí křest."
       ],
       sources: [
@@ -1204,7 +1206,8 @@ window.RODOKMEN = {
         {"f":"img/1874_snatek_josef_klika_suchomasty_a.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové, Suchomasty 10. 2. 1874"},
         {"f":"img/1874_snatek_josef_klika_suchomasty_b.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové 1874 – svědci, data narození"},
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
-        {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest Josefa Kliky 1834 – matka, kmotři"}
+        {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest Josefa Kliky 1834 – matka, kmotři"},
+        {"f":"img/1911_Z_Klikova_Marie_Suchomasty.jpg","t":"Úmrtí manželky Marie, Suchomasty 30. 11. 1911"}
       ]
     },
     {
@@ -1214,20 +1217,24 @@ window.RODOKMEN = {
       line: "svoboda",
       cert: "M",
       b: {"date":"21. 1. 1848","year":1848,"place":"Suchomasty č. p. 21"},
+      d: {"date":"30. 11. 1911","year":1911,"place":"Suchomasty č. p. 14"},
+      cause: "vada srdce („Vitium cordis“)",
       father: "vaclav_sv",
       mother: "magdalena_st",
       spouse: "josef_k",
       marriage: "10. 2. 1874, Suchomasty – s Josefem Klikou",
       notes: [
         "Narozena 21., pokřtěna 23. 1. 1848 v Suchomastech jako nemanželská „Maria Stadler“; legitimována sňatkem rodičů 10. 2. 1851. Otec Václav Svoboda, domkář ze Suchomast, rodák z Malkova (statek Tmaň), syn Matěje Svobody, domkáře z Malkova, a Alžběty roz. Zahálkové (?); matka Magdalena, dcera Ludmily Stadlerové ze Suchomast.",
-        "Při sňatku 1874 26 let; babička Ludmila Stádlerová byla dcerou † Jana Stádlera, mistra polního (?) z Tetína (?), a Ludmily roz. Vadlejškové (?)."
+        "Při sňatku 1874 26 let; babička Ludmila Stádlerová byla dcerou † Jana Stádlera, mistra polního (?) z Tetína (?), a Ludmily roz. Vadlejškové (?).",
+        "Zemřela 30. 11. 1911 v Suchomastech č. 14 (pohřbena 3. 12. v Borku, farář Karel Svoboda): „Kliková Marie, rozená Svobodová ze Suchomast č. 21; vdova po † Josefu Klikovi, dělníku ze Suchomast č. 14“, 63 let 10 měsíců 9 dní (nar. „21/1 48“), na vadu srdce (M)."
       ],
       sources: [
         "Křestní a rodný list Anny Klikové (*1913), fara Borek, kniha pokřtěných XIII, sv. 154, list 9 (vydán 15. 7. 1946)",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 22 (15318, Z 1869–1949), fol. 337, snímek 209, č. 35 (30. 11. 1911); rejstřík sn. 341 vlevo – https://ebadatelna.soapraha.cz/d/15318/209"
       ],
       scans: [
         {"f":"img/1880_krest_karel_klika_bykos_a.jpg","t":"Křest Karla Kliky, Býkoš 1880"},
@@ -1235,7 +1242,8 @@ window.RODOKMEN = {
         {"f":"img/1874_snatek_josef_klika_suchomasty_a.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové, Suchomasty 10. 2. 1874"},
         {"f":"img/1874_snatek_josef_klika_suchomasty_b.jpg","t":"Sňatek Josefa Kliky a Marie Svobodové 1874 – svědci, data narození"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848"},
-        {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"}
+        {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"},
+        {"f":"img/1911_Z_Klikova_Marie_Suchomasty.jpg","t":"Úmrtí 30. 11. 1911, Suchomasty č. 14"}
       ]
     },
     {
