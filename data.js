@@ -4092,7 +4092,7 @@ window.RODOKMEN = {
       marriage: "8. 1. 1797, Veřovice č. 69 – s Rosinou Lacinovou",
       notes: [
         "Pokřtěn 22. 8. 1771 ve Veřovicích č. 29 (fara Životice): „Georgius – Pÿter Josephus hortulanus, Rosina“, kmotři Jan Matuš, podruh, a Anna, manželka rychtáře Jana Besedy (M). Ztotožnění D: dům č. 29 = dům výměnkáře Josefa Pitra († 1805); jiný Georg Pitr 1769–1776 není. ROZPOR věku: při sňatku 1797 „23 let“, podle křtu 25. Sourozenci: Jan (17. 12. 1775), Anna (× 1773 Johann Maciczek, D).",
-        "Oddán 8. 1. 1797 ve Veřovicích č. 69 (lokální kaplan Josef Hikel ?): „Georg, des Joseph Pitter, Ausgedingers Sohn“, 23 let (→ *~1774), svobodný, s Rosinou, dcerou Josefa Laciny (dříve čteno „Ziegner“), domkáře, 22 let; svědci † Johann Pitter, zahradník, a † Johann Mazzurek (?), domkář. „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – snoubenci byli pokrevně příbuzní (2./3. stupeň). Dispenz (přečteno znovu 14. 10.): „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – pokrevenství v nerovné linii (společný předek je prarodičem jednoho a praprarodičem druhého); jména neuvedena. Vazba zatím nenalezena – KANDIDÁT: Marina, matka Josefa Pitra (*~1686, původ neznámý), dcera Martina Laciny nebo Ondřeje Tománka (K, neověřeno).",
+        "Oddán 8. 1. 1797 ve Veřovicích č. 69 (lokální kaplan Josef Hikel ?): „Georg, des Joseph Pitter, Ausgedingers Sohn“, 23 let (→ *~1774), svobodný, s Rosinou, dcerou Josefa Laciny (dříve čteno „Ziegner“), domkáře, 22 let; svědci † Johann Pitter, zahradník, a † Johann Mazzurek (?), domkář. „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – snoubenci byli pokrevně příbuzní (2./3. stupeň). Dispenz (přečteno znovu 14. 10.): „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – pokrevenství v nerovné linii (společný předek je prarodičem jednoho a praprarodičem druhého); jména neuvedena. Vazba zatím nenalezena: se současným stromem vychází nejvýš 3./3. stupeň – v jedné generaci je patrně chyba (viz ROZPOR věku u matky Rosiny; K). Hypotéza „Marina Pitrová = dcera Martina Laciny / Ondřeje Tománka“ vyvrácena (Martin Lacina × Anna, Tománek † 1695).",
         "Chalupník / domkář ve Veřovicích č. 145 (1801–1817); otec Marianny (křest vnučky Moniky 1845) a nejspíš Johanna (*~1798; Georg dal souhlas k jeho sňatku 19. 8. 1821). Jiný sňatek Georga Pitra ve Veřovicích 1784 – V 1828 není.",
         "„Anna roz. Černochová“ (N 1874) je matkou Roziny Bartoňové – pokud jde o manželku Jiřího Pitra, pak jiného Jiřího nebo 2. manželství po 1828 (K).",
         "Zemřel 19. 6. 1834 (pohřben 21. 6.) ve Veřovicích č. 145 jako domkář, uvedeno 81 let, na „Brust-…“ (nemoc hrudi). ROZPOR věku: podle sňatku 1797 (23 let) mu bylo ~60 – věk v úmrtí je zjevně chybný. Vyloučeni jiní Georgové Pitrové († 1832 č. 171, 44 let; † 1839 č. 151, 71 let).",
@@ -9630,7 +9630,8 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěna 13. 9. 1723 ve Veřovicích: „Martin / Catharina – Zernoch – Rosina“, kmotři Jan Lacina (?) a Marina, manželka Jiřího Kubečky (M; 5 měsíců po sňatku rodičů 18. 4. 1723; věk 62 při úmrtí 1785 sedí – ztotožnění D).",
         "Dcera Martina Černocha a Kateřiny roz. Matušové (sňatek 18. 4. 1723) z Veřovic; oddána 10. 9. 1752 s Josefem Pitrem (M). Matka Georga (22. 8. 1771) a Jana (1775).",
-        "Zemřela 20. 12. 1785 ve Veřovicích č. 29 jako „Rosina, Joseph Pitters Eheweib“, evangelička (pohřbil pastor Andreas Lehotzky), 62 let (→ *~1723) (M). Pozor: Černochové ve stromu i jinou větví (Anežka *1879) – vztah nedoložen."
+        "Zemřela 20. 12. 1785 ve Veřovicích č. 29 jako „Rosina, Joseph Pitters Eheweib“, evangelička (pohřbil pastor Andreas Lehotzky), 62 let (→ *~1723) (M). Pozor: Černochové ve stromu i jinou větví (Anežka *1879) – vztah nedoložen.",
+        "ROZPOR věku (K): je-li matka Jiřího (*1771) a Jana (*17. 12. 1775) tato Rosina (pokřtěná 1723), rodila by ve 48 a 52 letech – téměř vyloučeno. V křtech 1771 a 1775 je matka zapsána jen jako „Rosina“. Možné vysvětlení: Josef Pitr měl druhou manželku Rosinu (mladší, narozenou ~1735–50), nebo je věk při úmrtí 1785 / ztotožnění křtu 1723 chybné – neověřeno. Dispenz 1797 (pokrevenství 2./3. stupně) se se současným stromem nedá sestavit (nejvýš 3./3.), což chybu v jedné generaci podporuje."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 352, snímek 177 vlevo (13. 9. 1723) – https://digi.archives.cz",
@@ -9834,22 +9835,24 @@ window.RODOKMEN = {
       maiden: "Bartoňová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      b: {"date":"8. ? 1699 (?)","year":1699,"approx":true,"place":"Veřovice"},
       spouse: "vaclav_gg",
       marriage: "21. 5. 1730, Veřovice – s Václavem Grigarem (2. sňatek)",
       notes: [
         "Rozená Bartoňová: 1. sňatek 19. 11. 1724 ve Veřovicích – „poctivý mládenec Jan, Jury Grosmana syn, s poctivou dívkou Juditou po nebožtíkovi Janu Barthoňovi“; svědci Matěj Hikl a Jura Čabak (?) (M). Ovdověla; 21. 5. 1730 se vdala za Václava Grigara (M). Matka Kateřiny (1737).",
-        "KANDIDÁT otce (K): Jan Bartoň, sedlák, † 15. 3. 1719 ve Veřovicích, 43 let (čteno v polovičním rozlišení) – ve vsi ale žilo víc Janů Bartoňů. Pavel, syn † Jana Bartoně, se oženil 25. 6. 1719 (snad bratr)."
+        "Pokřtěna ve Veřovicích „die 8“ (měsíc nečten, rok ~1699 podle mapy knihy – D): „Jan Barton / Anna – Juditha“, kmotři Jan Kozian z Veřovic a Zuzana Tománková (M zápis; ztotožnění s nevěstou 1724 D). Otec Jan Bartoň – KANDIDÁT úmrtí † 14. 9. 1702, 50 let (D, čteno v polovičním rozlišení). Pavel, syn † Jana Bartoně, se oženil 25. 6. 1719 (snad bratr)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 439, snímek 220 vpravo (21. 5. 1730; též 4. 9. 1729 Václav Grigar st. × Marianna Charamzová) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 186 vpravo (11. ? 4. 1737) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 437, snímek 219 vpravo (19. 11. 1724) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 437, snímek 219 vpravo (19. 11. 1724) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 162 vpravo (~1699); Z pag. 475, snímek 238 vpravo (14. 9. 1702) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1730_O_Grigar_Vaclav_Grosmanova_Judita_Verovice.jpg","t":"Sňatek Václava Grigara (syna Václava) s vdovou Juditou po Janu Grosmanovi, Veřovice, 21. 5. 1730"},
         {"f":"img/1737_N_Grigar_Katerina_Verovice.jpg","t":"Křest Kateřiny Grigarové, Veřovice, 11. (?) 4. 1737 (rodiče Václav a Judita)"},
-        {"f":"img/1724_O_Grosman_Jan_Bartonova_Judita_Verovice.jpg","t":"1. sňatek Judity Bartoňové s Janem Grosmanem, Veřovice, 19. 11. 1724"}
+        {"f":"img/1724_O_Grosman_Jan_Bartonova_Judita_Verovice.jpg","t":"1. sňatek Judity Bartoňové s Janem Grosmanem, Veřovice, 19. 11. 1724"},
+        {"f":"img/1699_N_Bartonova_Judita_Verovice.jpg","t":"Křest Judity Bartoňové, Veřovice, ~1699 (rodiče Jan Bartoň a Anna)"}
       ]
     },
     {
@@ -9931,13 +9934,15 @@ window.RODOKMEN = {
       notes: [
         "Manželka Jana Laciny z Veřovic; matka Josefa (2. 3. 1720), Jana (1722), Rosiny (1724) a Martina (1725) (D).",
         "ROZPOR / KANDIDÁTI (K): ve Veřovicích se oženili dva Janové Lacinové s Kateřinou – (A) 11. 6. 1715 „mládenec Jan, Jury Laziny syn, s poctivou vdovou Kateřinou po nebožtíkovi Martinu Machovi“ (Kateřina byla už předtím vdovou po Václavu Brzdovi, × 24. 5. 1705 Martin Mach; dcera Anna 1716); (B) 22. 1. 1719 „mládenec Jan, Martina Laziny syn, s poctivou pannou Kateřinou po nebožtíkovi Ondřejovi Tománkovi“ (M zápisy). Rodiče Josefa jsou pravděpodobně pár B (K+): Josef se narodil 13 měsíců po sňatku B, souběžná řada dětí 1720–1725 je jen jedna (stálí kmotři Mach a Marek) a Kateřině z páru A (*~1675) by bylo 45–50 let. Pak by byla rozená Tománková, dcera † Ondřeje Tománka.",
+        "Pokud jde o Kateřinu Tománkovou (pár B): pokřtěna 31. 10. 1692 ve Veřovicích („Ondra Tomaneck / Anna – Chateřÿna“, kmotři Matyáš Hybel a Markéta Kozianka; u jména křížek, nevysvětlený – M); otec Ondřej Tománek zemřel náhle 28. 4. 1695, 36 let (M); jiná dcera Ondřeje po 1692 není (D).",
         "Kateřina, žena Jana Laciny, † 12. 11. 1759 ve Veřovicích, 84 let („Catharina Joannis Latzina, 84 ann.“, M) – věk sedí spíš na Kateřinu z páru A (*~1675), tedy nejspíš ne tato Kateřina (K)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 175 vlevo (2. 3. 1720) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, Z snímek 250 vlevo (20. 3. 1752), 252 vpravo (XI 1759), 249 vlevo (31. 1. 1749, Václav Grigar st.) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 434–435, snímky 218 vlevo (11. 6. 1715) a 218 vpravo (22. 1. 1719); Z pag. 481, snímek 241 vpravo (13. 2. 1715) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímky 173–178 (1716–1725); O pag. 430, snímek 216 vlevo (24. 5. 1705); Z snímek 252 vpravo (12. 11. 1759), 243 vpravo (7. 3. 1726) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímky 173–178 (1716–1725); O pag. 430, snímek 216 vlevo (24. 5. 1705); Z snímek 252 vpravo (12. 11. 1759), 243 vpravo (7. 3. 1726) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 158 vlevo (31. 10. 1692); Z pag. 469, snímek 235 vpravo (28. 4. 1695) – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1720_N_Lacina_Josef_Verovice.jpg","t":"Křest Josefa Laciny, Veřovice, 2. 3. 1720 (rodiče Jan a Kateřina)"},
