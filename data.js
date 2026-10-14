@@ -4040,13 +4040,14 @@ window.RODOKMEN = {
       name: "Ludmila Stádlerová",
       line: "stadler",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Pačejov (?) (fara Malý Bor)"},
+      b: {"date":"neznámé (asi 1788, kandidátní křest – viz poznámky)","year":1788,"approx":true,"place":"Pačejov (?)"},
       father: "jan_sta",
       mother: "ludmila_vd",
       notes: [
         "Matka Magdaleny Svobodové (nemanželské dcery); dcera † Jana Stadlera, mistra polního z Tetína, a matky Ludmily rozené Vadlejškové z Hořaždovic (křest vnučky 1848, Borek 09 sn. 38 vpravo – ověřeno ve 2× zvětšení; potvrzuje sňatek 1874, Borek 20 sn. 28; M). Hypotéza „Sladký, krejčí z Tetína“ vyvrácena.",
         "Křest v N Borek 1789–1821 ani Tetín 1737–1811 není (Praha N12) – narozena jinde (Hořaždovice ?).",
-        "Dcera Magdalena narozena 11. 7. 1817 v Pačejově č. 6 (fara Malý Bor, panství Horažďovice) – Ludmila pocházela z Pačejova, ne z Tetína („Tetín“ v zápisech 1848/1874 je zřejmě zkomolený „Pačejov“). Křest Ludmily (~1790–1797, Malý Bor 10) nehledán."
+        "Dcera Magdalena narozena 11. 7. 1817 v Pačejově č. 6 (fara Malý Bor, panství Horažďovice) – Ludmila pocházela z Pačejova, ne z Tetína („Tetín“ v zápisech 1848/1874 je zřejmě zkomolený „Pačejov“). Křest Ludmily (~1790–1797, Malý Bor 10) nehledán.",
+        "KANDIDÁT křtu (K+): 21. 10. 1788 Pačejov č. 1, „Lidmilla Stodlowa“, manželská; otec „Jan Stodl, Mistr Owčácký“ (mistr ovčák), matka „Ludmilla rozená R… (?)“ (příjmení ve hřbetu knihy); kmotři Ludmila Benediktová, šafářka, Vojtěch Klaut (?), podruh z Hejné (?); křtil P. Václav Wöllner, lokalista (Pačejov 01 N, sn. 6; M zápis, ověřeno koordinátorem). Pro: jména Ludmila – Jan × Ludmila, Pačejov, Stodl ≈ Stadler, „mistr ovčácký“ ≈ pozdější „mistr polní“; proti: dům č. 1 (1817 č. 6). Jediná Ludmila Stodlová v N Pačejov 1787–1804."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
@@ -4240,13 +4241,14 @@ window.RODOKMEN = {
       name: "Jan Stádler",
       line: "stadler",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      b: {"date":"neznámé (odhad ~1738)","year":1738,"approx":true},
       spouse: "ludmila_vd",
       occ: "domkář v Pačejově č. 6 (panství Horažďovice); v pozdějších zápisech „mistr polní z Tetína“ (?)",
       notes: [
         "Otec Ludmily Stádlerové: „† Jan Stadler, mistr polní z Tetína“ (křest 1848 Borek 09 sn. 38; sňatek 1874 Borek 20 sn. 28; M). Manželka Ludmila roz. Vadlejšková z Hořaždovic. V rejstřících N a O Tetín 1737–1811 / 1743–1803 není – do Tetína přišel odjinud.",
         "ROZPOR (povolání/bydliště): 1851 „Jan Stadler, domkář z K…ína (?) No 6, panství Hořaždovice“ (Borek 13 sn. 3) × 1848 a 1874 „mistr polní z Tetína“. Rod pochází z Horažďovicka (i Martin Stadler, panský polní mistr v Suchomastech 1824, „rozený z J/K…ína, panství Hořaždovické“ – snad příbuzný, K). Kandidát Jan Staral z Tetína vyřazen (TODO kap. 4).",
-        "Křest vnučky Magdaleny 11. 7. 1817 v Pačejově č. 6: „Jan Sta[dler], domkář z Pačejova No 6“ (Malý Bor 13 sn. 316; M) – potvrzuje oddací zápis 1851 („domkář z P…a No 6, panství Hořaždovice“)."
+        "Křest vnučky Magdaleny 11. 7. 1817 v Pačejově č. 6: „Jan Sta[dler], domkář z Pačejova No 6“ (Malý Bor 13 sn. 316; M) – potvrzuje oddací zápis 1851 („domkář z P…a No 6, panství Hořaždovice“).",
+        "KANDIDÁT (K+): „Jan Stodl, mistr ovčácký ve vsi Pačejov“ (křest dcery Ludmily 1788, svědek 1791); syn František (*~1764) × 17. 1. 1790 Barbora Wi…auerová (Pačejov 02 sn. 7: „syn Jana Stodla, mistra ovčáckého“) → Jan *~1735–1740, Ludmila možná 2. manželka. „Mistr polní“ z pozdějších zápisů = nejspíš mistr ovčák (panský ovčín)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
@@ -12034,7 +12036,7 @@ window.RODOKMEN = {
       maiden: "Vadlejšková",
       line: "stadler",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true,"place":"Hořaždovice (?)"},
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true,"place":"Hořaždovice (?)"},
       spouse: "jan_sta",
       notes: [
         "Matka Ludmily Stádlerové: „matky Ludmily rozené Vadlejškové z Hořaždovic“ (křest vnučky Magdaleny 1848, Borek 09 sn. 38 vpravo; M). Hořaždovice = asi Horažďovice (Prácheňsko).",
