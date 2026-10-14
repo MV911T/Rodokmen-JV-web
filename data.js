@@ -7036,7 +7036,8 @@ window.RODOKMEN = {
         {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"},
         {"f":"img/1814_oddani_martin_lodl_anna_vdova_prokopa_laukoty_osek07_sn23_nativ.jpg","t":"Sňatek Martina Lodla a Anny, vdovy po Prokopu Laukotovi, Osek 9. 9. 1814"},
         {"f":"img/1774_krest_anna_holubova_otec_simon_holub_chalupnik_osek85_osek05_sn6.jpg","t":"Křest Anny Holubové, Osek 13. (?) 6. 1774"},
-        {"f":"img/1853_Z_Lodlova_Anna_Volduchy.jpg","t":"Úmrtí 6. 6. 1853, Volduchy č. 154"}
+        {"f":"img/1853_Z_Lodlova_Anna_Volduchy.jpg","t":"Úmrtí 6. 6. 1853, Volduchy č. 154"},
+        {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí matky Kateřiny Holubové, Osek 1793"}
       ]
     },
     {
@@ -7277,7 +7278,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
-        {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"}
+        {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"},
+        {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí manželky Kateřiny, Osek 1793"}
       ]
     },
     {
@@ -7286,7 +7288,9 @@ window.RODOKMEN = {
       maiden: "Gottfridová (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      b: {"date":"neznámé (asi 1727–1733)","year":1730,"approx":true},
+      d: {"date":"6. 7. 1793","year":1793,"place":"Osek u Rokycan č. p. 85"},
+      cause: "souchotiny (Lungensucht)",
       father: "josef_gf",
       mother: "katerina_gf",
       spouse: "simon_hb",
@@ -7295,15 +7299,18 @@ window.RODOKMEN = {
         "Vdova po † Jakubu Gyštovi (?); 13. 2. 1763 se v Oseku znovu vdala za Šimona Holuba. Matka Anny Laukotové / Lodlové (křest 1774).",
         "1. manžel Jakub Gyšt, chalupník (subrusticus) z Oseka, † 7. 2. 1762, 38 let (Osek 04 Z str. 10, sn. 109 vlevo; M zápis, ztotožnění K+). KANDIDÁT původu (K): Jakub, syn Martina Gyšta z Oseka, se 28. 10. 1755 oženil s dcerou Josefa Gottfrida z Oseka (Osek 03 O str. 58, sn. 138 vlevo – křestní jméno nevěsty v zápisu chybí; jiný sňatek Jakuba Gyšta 1747–1771 není) → Kateřina roz. Gottfridová (?), narozená spíš ~1730–1737.",
         "Potvrzeno: manželka Jakuba Gyšta se jmenovala Kateřina – křty dcer Anny (11./12. 2. 1757, Osek 03 N str. 156) a Kateřiny (24./25. 5. 1759, str. 175; kmotra Kateřina Čadová z Volduch) „otce Jakuba Gyšta a matky Kateřiny“ (M) → nevěsta z 28. 10. 1755, dcera Josefa Gottfrida z Oseka (K+). Rodiče Josef Gottfrid × Kateřina měli v Oseku děti Barboru (13. 4. 1737) a Ludmilu (1739) (M); Kateřina sama v rejstříku N 1728–1739 není (*před 1728).",
-        "KANDIDÁT křtu (K+): Kateřina, „vlastní dcera Jozefa Kodfrida (Godfrida) a Kateřiny“, nar. 25. 12., pokřtěna 27. 12. 1727 v Oseku (Osek 01 N str. 261, sn. 132 vpravo; M zápis); sestra Eva (25. 12. 1725, str. 240). Jediná Kateřina Josefa Gottfrida 1725–1739. Slabé místo: při narození dcery Anny (VI 1774) by jí bylo 46 let."
+        "KANDIDÁT křtu (K+): Kateřina, „vlastní dcera Jozefa Kodfrida (Godfrida) a Kateřiny“, nar. 25. 12., pokřtěna 27. 12. 1727 v Oseku (Osek 01 N str. 261, sn. 132 vpravo; M zápis); sestra Eva (25. 12. 1725, str. 240). Jediná Kateřina Josefa Gottfrida 1725–1739. Slabé místo: při narození dcery Anny (VI 1774) by jí bylo 46 let.",
+        "Zemřela 6. 7. 1793 v Oseku č. 85: „Katharina Holubowa“, 60 let, souchotiny (Osek 08 Z, str. 35, sn. 22 vpravo; M; dům č. 85 = dům Šimona Holuba, kde se 1771 a 1774 rodily jejich děti). Šimon se v Oseku 1760–1808 znovu neoženil → matka Anny (*1774) je tatáž Kateřina, vdova po Gyštovi (K+). Pozor: v Oseku 1771–72 žil i druhý Šimon Holub (č. 73)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n",
-        "SOA Plzeň, fara Osek, Osek 04 (O), snímek 75 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_0750-o"
+        "SOA Plzeň, fara Osek, Osek 04 (O), snímek 75 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_0750-o",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 08 (Z), oddíl Osek, str. 35, snímek 22 vpravo (6. 7. 1793) – https://www.portafontium.eu/iipimage/30066674/osek-08_0220-z"
       ],
       scans: [
         {"f":"img/1774_krest_anna_holubova_otec_simon_holub_chalupnik_osek85_osek05_sn6.jpg","t":"Křest Anny Holubové, Osek 13. (?) 6. 1774"},
-        {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"}
+        {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"},
+        {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí 6. 7. 1793, Osek č. 85"}
       ]
     },
     {
