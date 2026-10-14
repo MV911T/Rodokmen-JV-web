@@ -11562,7 +11562,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁT (K, silný): otec Kašpara Aubrechta. Kašpar pokřtěn 3. 2. 1781 ve Volduchách č. 20 jako syn Petra Aubrechta, sedláka, a Doroty (Osek 05, sn. 77; M). Ztotožnění s Kašparem z Oseka č. 72 nepřímé: jediný jiný dospělý Kašpar Aubrecht ve faře je o generaci starší (*~1751, Volduchy č. 10, † 1813); Kašpar *1781 v dětství nezemřel; 28. 4. 1807 dvojí svatba – Kašpar s Annou a Jan Aubrecht z Volduch č. 20 (syn Petra) s Marií, obě dcery Václava Holuba z Oseka č. 8, se stejnými svědky (Osek 07 str. 37, sn. 56 vpravo; M).",
         "Oddán 22. 7. 1772 ve Volduchách č. 11: „Peter Sohn des Bartl Aubrecht Bauern v Woldüch mit Dorothea Tochter des verst. Martin Czada Bauern v Woldüch“ (Osek 07 str. 37, sn. 38 vpravo; M).",
-        "Jako vdovec, sedlák ve Volduchách č. 20, 55 let, oddán 3. 7. 1804 s Markétou, dcerou † Matěje Kermese (?), 28 let (Osek 07 str. 35, sn. 55 vpravo; M) → *~1749. Úmrtí po 1820 (index Osek 10 Z – nečteno)."
+        "Jako vdovec, sedlák ve Volduchách č. 20, 55 let, oddán 3. 7. 1804 s Markétou, dcerou † Matěje Kermese (?), 28 let (Osek 07 str. 35, sn. 55 vpravo; M) → *~1749.",
+        "Dcera Marie se mu narodila 20. 9. 1807 v č. 20 („Petr Aubrecht, sedlák“ × Markéta; Osek 06 N pag. 7, sn. 59 vpravo; M) → žil ještě IX 1807; v Osek 10 Z (1821–1847) není → † asi 1807–1820 (nehledáno v Osek 08). V č. 20 tehdy žily i rodiny Jana (syn, × Marie Holubová) a Matěje Aubrechta; Kašpar není kmotrem u křtů v č. 20 1807–1809."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 07 (O 1772–1820), oddíl Volduchy, str. 37 (sn. 38 vpravo; 22. 7. 1772), str. 35 (sn. 55 vpravo; 3. 7. 1804), str. 37 (sn. 56 vpravo; 28. 4. 1807) – https://www.portafontium.eu/iipimage/30066673/osek-07_0380-so",
