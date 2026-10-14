@@ -4309,7 +4309,8 @@ window.RODOKMEN = {
       marriage: "2. (?) 10. 1866, Veřovice – s Antonínem Blažkem",
       notes: [
         "Narozena a pokřtěna 1. 4. 1845 ve Veřovicích č. 145 (lokalista Johann Waniek), nemanželská (otec neuveden); matka Marianna, dcera Georga Pitra, domkaře z Veřovic, a Rosiny roz. Lacinové (dcery Josefa, domkaře ve Veřovicích); kmotři Franz Czernik (?) a Marianna Matuschová, porodní bába Susanna Matuschová (č. 86). Přípis: † 12. 6. 1923.",
-        "Nemanželská dcera Marianny Pitrové, podruhyně z Veřovic, dcery domkáře Jiřího Pitra; oddána 2. (?) 10. 1866 (21 let) s kovářským tovaryšem Antonínem Blažkem ze Životic."
+        "Nemanželská dcera Marianny Pitrové, podruhyně z Veřovic, dcery domkáře Jiřího Pitra; oddána 2. (?) 10. 1866 (21 let) s kovářským tovaryšem Antonínem Blažkem ze Životic.",
+        "KANDIDÁT úmrtí: rejstřík Z Veřovice 1915–1949 (NJ XIV 14, sn. 130) – „Blažková Monika | 260 | 71“, rok 1923; dům č. 260 = dům manžela Antonína († 1896). Zápis nečten (D)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
@@ -5098,7 +5099,8 @@ window.RODOKMEN = {
         "Narozen 1. 8., pokřtěn 2. 8. 1846 v Bělotíně č. 149: otec Johann Zettelmann, domkář v Bělotíně, matka Anna, dcera Karla Michalka a Anny roz. Kipperové (?) (správně Ziegnerové – viz křest matky 1822); bába Alžběta Zettelmannová z Bělotína č. 49.",
         "Domkář v Bělotíně č. 149; syn Johanna Zettelmanna, domkáře v Bělotíně, a Anny roz. Michalkové. Podruhé oddán 7. 10. 1879 v Polomi jako vdovec (33 let).",
         "V oddacím zápise vnuka 1930 „domkář v Bölten“ = Bělotín.",
-        "Úmrtí jeho ani manželky Magdaleny není v Z Bělotín VIII 1906 – 1941 (L II 20 sn. 151–187, L II 48 celé; Opava 51, D) – zbývá 1900 – VII 1906 a po 1941 (matriční úřad)."
+        "Úmrtí jeho ani manželky Magdaleny není v Z Bělotín VIII 1899 – XII 1941 (L II 20 sn. 118–187, L II 48 celé; Opava 51–52, D) – zbývá po 1941 (matriční úřad Hranice) nebo jinde.",
+        "Bratr: Johann Zettelmann, kramář v Bělotíně č. 173, nar. 14. 8. 1853, × 14. 11. 1881, † 30. 12. 1904, 51 let, tuberkulóza plic – „Sohn des Johann Zettelmann, Häusler, und der Anna geb. Michalek“ (Z Bělotín L II 20, sn. 139 vpravo, fol. 274; M)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz",
