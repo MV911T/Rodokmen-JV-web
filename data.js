@@ -6972,6 +6972,8 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true,"place":"Volduchy"},
+      d: {"date":"3. 8. (?) 1805","year":1805,"place":"Volduchy č. p. 54"},
+      cause: "stáří (Alterthum)",
       father: "pavel_ca",
       spouse: "eva_ho",
       occ: "sedlák v Oseku, od 1751 ve Volduchách (č. 51 ?)",
@@ -6979,17 +6981,19 @@ window.RODOKMEN = {
       notes: [
         "Oddán 3. 11. 1744 v Oseku jako „počtivý mládenec Matouš Čada, vlastní syn Pavla Čady z Volduch“, s Evou Holubovou, dcerou † Matěje Holuba z Oseka; družba Jan Andrle z Volduch.",
         "Děti: Barbora (1745), Jakub (1747), dvojčata Adam a Eva (1750) – v Oseku; Martin (1751) a Kateřina (1754) – ve Volduchách. V oddacím zápisu dcery 1771 „Mattheus Czada, rusticus Wolduchensis“. Pozor: ve Volduchách současně žil Matěj Čada.",
-        "KANDIDÁT úmrtí: 22. 6. 1780 ve Volduchách č. 69 „Czada Math., Bauer“, 72 let – „Math.“ může být i Matěj. V domě 69 po 1780 hospodařil mladší „Math.“ Čada (syn Jan † 1788); úmrtí Matouše 1784–VI 1788 nenalezeno."
+        "Zemřel 3. (VIII ?) 1805 ve Volduchách č. 54: „Czada Mataus, Bauer“, 86 let, stářím (Osek 08 Z, fol. 81, sn. 112 vlevo; M; měsíc odvozen z okolních zápisů) → *~1719, souhlasí se sňatkem 1744. Dřívější kandidát († 22. 6. 1780, č. 69, 72 let) byl Matěj Čada – vyvráceno."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o",
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o",
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl N, snímek 28 – https://www.portafontium.eu/iipimage/30066669/osek-03_0280-n",
-        "SOA Plzeň, fara Osek, kniha Osek 08, oddíl Volduchy, snímek 74 – https://www.portafontium.eu/iipimage/30066674/osek-08_0740-z"
+        "SOA Plzeň, fara Osek, kniha Osek 08, oddíl Volduchy, snímek 74 – https://www.portafontium.eu/iipimage/30066674/osek-08_0740-z",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 08 Z, oddíl Volduchy, fol. 81, sn. 112 vlevo – https://www.portafontium.eu/iipimage/30066674/osek-08_1120-z"
       ],
       scans: [
         {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"},
-        {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"}
+        {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"},
+        {"f":"img/1805_Z_Cada_Matous_Volduchy.jpg","t":"Úmrtí 1805, Volduchy č. 54 (86 let)"}
       ]
     },
     {
@@ -8507,18 +8511,22 @@ window.RODOKMEN = {
       name: "Martin Forejt",
       line: "forejt",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1685)","year":1685,"approx":true},
+      b: {"date":"neznámé (asi 1678)","year":1678,"approx":true},
+      d: {"date":"15. 12. 1732","year":1732,"place":"Volduchy (fara Osek)"},
       spouse: "alzbeta_fo",
       notes: [
-        "Z Volduch (fara Osek); manželka Alžběta. Děti: Václav (10. 9. 1712), Matouš (21. 9. 1714), Pavel (10. 5. 1716); snad i Anna (× 1741 Martin Hajzar – „pozůstalá dcera po neb. Martinovi Foregtovi“) a Jakub. Zemřel nejspíš před 22. 8. 1737 – toho dne zemřela ve Volduchách „Kateřina, vlastní dcera Alžběty Foregtky“, 28 let (zapsána jen po matce; Osek 02 Z, sn. 115). Úmrtí Martina v Osek Z V 1736 – II 1742 není.",
+        "Z Volduch (fara Osek); manželka Alžběta. Děti: Václav (10. 9. 1712), Matouš (21. 9. 1714), Pavel (10. 5. 1716); snad i Anna (× 1741 Martin Hajzar – „pozůstalá dcera po neb. Martinovi Foregtovi“) a Jakub. Dcera Kateřina zemřela 22. 8. 1737 ve Volduchách, 28 let, zapsána jen jako „vlastní dcera Alžběty Foregtky“ (Osek 02 Z, sn. 115) – otec tehdy už nežil.",
+        "Zemřel 15. 12. 1732 ve Volduchách (pohřben 17. 12.): „Martin Foregt, před smrtí 3 dny všemi svátostmi zaopatřen, stáří svého měl 54 léta“ (Osek 02 Z str. 191, sn. 103 vpravo; M zápis, ztotožnění K+ – jediný Martin Forejt) → *~1678. Snad bratr Matěje Forejta († 1743, 64 let; K).",
         "Ve stejné době žil ve Volduchách Matěj Lomryk (?) × Kateřina (syn Václav 18. 9. 1712) – dřívější čtení „Matěj Forejt“ chybné."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
-        "SOA Plzeň, fara Osek, Osek 01 (N), str. 119 a 133, snímky 61 vpravo a 68 vpravo"
+        "SOA Plzeň, fara Osek, Osek 01 (N), str. 119 a 133, snímky 61 vpravo a 68 vpravo",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 Z str. 191, sn. 103 vpravo – https://www.portafontium.eu/iipimage/30066668/osek-02_1030-z"
       ],
       scans: [
-        {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"}
+        {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"},
+        {"f":"img/1732_Z_Forejt_Martin_Volduchy.jpg","t":"Úmrtí 15. 12. 1732, Volduchy (54 let)"}
       ]
     },
     {
@@ -11585,6 +11593,7 @@ window.RODOKMEN = {
       line: "aubrecht",
       cert: "K",
       b: {"date":"neznámé (asi 1749)","year":1749,"approx":true,"place":"Volduchy (fara Osek)"},
+      d: {"date":"14. 12. (?) 1818","year":1818,"place":"Volduchy č. p. 21"},
       spouse: "dorota_au",
       occ: "sedlák ve Volduchách č. 20",
       marriage: "1) 22. 7. 1772 Volduchy – s Dorotou Čadovou; 2) 3. 7. 1804 – s Markétou Kermesovou (?)",
@@ -11592,16 +11601,19 @@ window.RODOKMEN = {
         "KANDIDÁT (K, silný): otec Kašpara Aubrechta. Kašpar pokřtěn 3. 2. 1781 ve Volduchách č. 20 jako syn Petra Aubrechta, sedláka, a Doroty (Osek 05, sn. 77; M). Ztotožnění s Kašparem z Oseka č. 72 nepřímé: jediný jiný dospělý Kašpar Aubrecht ve faře je o generaci starší (*~1751, Volduchy č. 10, † 1813); Kašpar *1781 v dětství nezemřel; 28. 4. 1807 dvojí svatba – Kašpar s Annou a Jan Aubrecht z Volduch č. 20 (syn Petra) s Marií, obě dcery Václava Holuba z Oseka č. 8, se stejnými svědky (Osek 07 str. 37, sn. 56 vpravo; M).",
         "Oddán 22. 7. 1772 ve Volduchách č. 11: „Peter Sohn des Bartl Aubrecht Bauern v Woldüch mit Dorothea Tochter des verst. Martin Czada Bauern v Woldüch“ (Osek 07 str. 37, sn. 38 vpravo; M).",
         "Jako vdovec, sedlák ve Volduchách č. 20, 55 let, oddán 3. 7. 1804 s Markétou, dcerou † Matěje Kermese (?), 28 let (Osek 07 str. 35, sn. 55 vpravo; M) → *~1749.",
-        "Dcera Marie se mu narodila 20. 9. 1807 v č. 20 („Petr Aubrecht, sedlák“ × Markéta; Osek 06 N pag. 7, sn. 59 vpravo; M) → žil ještě IX 1807; v Osek 10 Z (1821–1847) není → † asi 1807–1820 (nehledáno v Osek 08). V č. 20 tehdy žily i rodiny Jana (syn, × Marie Holubová) a Matěje Aubrechta; Kašpar není kmotrem u křtů v č. 20 1807–1809."
+        "Dcera Marie se mu narodila 20. 9. 1807 v č. 20 („Petr Aubrecht, sedlák“ × Markéta; Osek 06 N pag. 7, sn. 59 vpravo; M) → žil ještě IX 1807. V č. 20 tehdy žily i rodiny Jana (syn, × Marie Holubová) a Matěje Aubrechta; Kašpar není kmotrem u křtů v č. 20 1807–1809.",
+        "Zemřel 14. (XII ?) 1818 ve Volduchách č. 21 (pohřben 16.): „Petr Aubrecht, selský výminkář“, 65 let (Osek 08 Z, Volduchy, sn. 134 vpravo; M zápis, ztotožnění K+; měsíc odvozen z pořadí; v rejstříku Z chybí)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 07 (O 1772–1820), oddíl Volduchy, str. 37 (sn. 38 vpravo; 22. 7. 1772), str. 35 (sn. 55 vpravo; 3. 7. 1804), str. 37 (sn. 56 vpravo; 28. 4. 1807) – https://www.portafontium.eu/iipimage/30066673/osek-07_0380-so",
-        "SOA Plzeň, Osek 05 N, sn. 77 (křest Kašpara 3. 2. 1781)"
+        "SOA Plzeň, Osek 05 N, sn. 77 (křest Kašpara 3. 2. 1781)",
+        "SOA Plzeň, Osek 08 Z, oddíl Volduchy, sn. 134 vpravo (1818) – https://www.portafontium.eu/iipimage/30066674/osek-08_1340-z"
       ],
       scans: [
         {"f":"img/1772_O_Aubrecht_Petr_Cadova_Dorota_Volduchy.jpg","t":"Sňatek s Dorotou Čadovou, Volduchy 22. 7. 1772"},
         {"f":"img/1804_O_Aubrecht_Petr_Kermesova_Marketa_Volduchy.jpg","t":"2. sňatek s Markétou Kermesovou, 1804"},
-        {"f":"img/1807_O_Aubrecht_Jan_Holubova_Marie_Volduchy.jpg","t":"Sňatek syna Jana s Marií Holubovou, 1807"}
+        {"f":"img/1807_O_Aubrecht_Jan_Holubova_Marie_Volduchy.jpg","t":"Sňatek syna Jana s Marií Holubovou, 1807"},
+        {"f":"img/1818_Z_Aubrecht_Petr_Volduchy.jpg","t":"Úmrtí 1818, Volduchy č. 21 (65 let)"}
       ]
     },
     {
