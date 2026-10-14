@@ -10858,7 +10858,8 @@ window.RODOKMEN = {
         {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 6. 10. 1813"},
         {"f":"img/1833_O_Tukal_Jan_Mrazova_Terezie_Ohrazenice.jpg","t":"Sňatek syna Jana (souhlas otce), Ohrazenice 1833"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"},
-        {"f":"img/1779_Z_Tukalova_Anna_Lazany.jpg","t":"Úmrtí matky Anny Ťukalové, Lažany 24. 3. 1779"}
+        {"f":"img/1779_Z_Tukalova_Anna_Lazany.jpg","t":"Úmrtí matky Anny Ťukalové, Lažany 24. 3. 1779"},
+        {"f":"img/1784_N_Horackova_Katerina_Masov.jpg","t":"Křest manželky Kateřiny Horáčkové, Mašov 1784"}
       ]
     },
     {
@@ -10867,12 +10868,13 @@ window.RODOKMEN = {
       maiden: "Horáčková",
       line: "fukal",
       cert: "M",
-      b: {"date":"neznámé (asi 1784)","year":1784,"approx":true},
+      b: {"date":"3. 4. 1784","year":1784,"place":"Mašov č. p. 2 (fara Turnov)"},
       father: "vaclav_hc",
       mother: "anna_hc",
       spouse: "jan_t3",
       marriage: "4. 8. 1806, Mašov – s Janem Ťukalem",
       notes: [
+        "Pokřtěna 3. 4. 1784 v Mašově č. 2: „Catharina“, otec „Venceslaus Horaczek, inquilinus“ (podruh), matka „Anna Mleinkova“, oba „Skalenses“ (panství Hrubá Skála); kmotři Anna, dcera Václava Janka, sedláka, a Jan Čuba, chalupník z Mašova (N 5254, sn. 18 vlevo; M). Jiná Kateřina Horáčková (1781, Chloumek, matka Dorota) nepatří.",
         "Manželka Jana Ťukala z Lažan č. 26; dcera Václava Horáčka, formana (?) / nájemníka z Mašova č. 18 (1813) / č. 16 (1833), a matky Anny (křest syna Jana 1813, sňatek syna 1833 – M). Mašov = dnes část Turnova.",
         "Oddána 4. 8. 1806 v Mašově jako svobodná, 22 let (M)."
       ],
@@ -10880,9 +10882,11 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 1804–1880 (sign. 5822), oddíl Mašov, snímek 133 vlevo (4. 8. 1806)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 1804–1880 (sign. 5822), oddíl Mašov, snímek 133 vlevo (4. 8. 1806)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, N 1783–1784 (kniha 5254), sn. 18 vlevo – https://aron.vychodoceskearchivy.cz/apu/503f59e4-507f-48fd-92d1-3be71f03c623"
       ],
       scans: [
+        {"f":"img/1784_N_Horackova_Katerina_Masov.jpg","t":"Křest Kateřiny, Mašov č. 2, 3. 4. 1784"},
         {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek s Janem Ťukalem, Mašov 4. 8. 1806"},
         {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 6. 10. 1813"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
@@ -11047,34 +11051,39 @@ window.RODOKMEN = {
       spouse: "anna_hc",
       occ: "forman (?) / nájemník v Mašově č. 18 (16)",
       notes: [
-        "Forman (?) z Mašova č. 18 (1813), nájemník z Mašova č. 16 (1833), panství Hrubá Skála; otec Kateřiny, provdané Ťukalové (křest vnuka Jana 1813, sňatek vnuka 1833 – M)."
+        "Forman (?) z Mašova č. 18 (1813), nájemník z Mašova č. 16 (1833), panství Hrubá Skála; otec Kateřiny, provdané Ťukalové (křest vnuka Jana 1813, sňatek vnuka 1833 – M).",
+        "Při křtu dcery Kateřiny 3. 4. 1784 „inquilinus“ (podruh) v Mašově č. 2 (M). Pozor: v Turnově současně Václav Horáček × Dorota z Chloumku č. 2 (jiná rodina). Sňatek s Annou Mlejnkovou (~1775–1783, O 5257) nehledán."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, N 1783–1784 (kniha 5254), sn. 18 vlevo – https://aron.vychodoceskearchivy.cz/apu/503f59e4-507f-48fd-92d1-3be71f03c623"
       ],
       scans: [
         {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest vnuka Jana, Lažany 1813"},
-        {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek dcery Kateřiny s Janem Ťukalem, Mašov 1806"}
+        {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek dcery Kateřiny s Janem Ťukalem, Mašov 1806"},
+        {"f":"img/1784_N_Horackova_Katerina_Masov.jpg","t":"Křest dcery Kateřiny, Mašov 1784"}
       ]
     },
     {
       id: "anna_hc",
       name: "Anna Horáčková",
-      maiden: "Vlož…ová (?)",
+      maiden: "Mlejnková",
       line: "fukal",
       cert: "M",
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
       spouse: "vaclav_hc",
       notes: [
-        "Manželka Václava Horáčka z Mašova; matka Kateřiny Ťukalové (křest vnuka Jana 1813 – „a matky Anny“, M). Rodné příjmení neznámé.",
-        "V oddacím zápisu dcery 1806 „Anny Vlož…ové (?) z L…“ – rodné příjmení a obec nejisté (M)."
+        "Manželka Václava Horáčka z Mašova; matka Kateřiny Ťukalové (křest vnuka Jana 1813 – „a matky Anny“, M).",
+        "Rodné příjmení Mlejnková: křest dcery Kateřiny 3. 4. 1784 „uxor Anna Mleinkova“ (M); v oddacím zápisu dcery 1806 dříve čteno „Vlož…ová (?)“ – správně „Mlegkowé“ (oprava čtení). Mlejnkovi žili v Mašově (kmotra 1784 Ludmila, dcera Jakuba Mlejnka)."
       ],
       sources: [
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, N 1783–1784 (kniha 5254), sn. 18 vlevo – https://aron.vychodoceskearchivy.cz/apu/503f59e4-507f-48fd-92d1-3be71f03c623"
       ],
       scans: [
-        {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest vnuka Jana, Lažany 1813"}
+        {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest vnuka Jana, Lažany 1813"},
+        {"f":"img/1784_N_Horackova_Katerina_Masov.jpg","t":"Křest dcery Kateřiny, Mašov 1784"}
       ]
     },
     {
