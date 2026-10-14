@@ -8523,36 +8523,51 @@ window.RODOKMEN = {
       b: {"date":"neznámé (asi 1678)","year":1678,"approx":true},
       d: {"date":"15. 12. 1732","year":1732,"place":"Volduchy (fara Osek)"},
       spouse: "alzbeta_fo",
+      marriage: "25. 10. 1705, Volduchy – s Alžbětou Hanzlíkovou",
       notes: [
         "Z Volduch (fara Osek); manželka Alžběta. Děti: Václav (10. 9. 1712), Matouš (21. 9. 1714), Pavel (10. 5. 1716); snad i Anna (× 1741 Martin Hajzar – „pozůstalá dcera po neb. Martinovi Foregtovi“) a Jakub. Dcera Kateřina zemřela 22. 8. 1737 ve Volduchách, 28 let, zapsána jen jako „vlastní dcera Alžběty Foregtky“ (Osek 02 Z, sn. 115) – otec tehdy už nežil.",
+        "Oddán 25. 10. 1705 ve Volduchách s Alžbětou, dcerou Václava Hanzlíka (Osek 01 O, sn. 150 vlevo; M). Křest v Osek 01 N I 1677 – I 1681 není (K: možný bratr Matěje *26. 2. 1679, syna Jakuba Forejta × Kateřiny).",
         "Zemřel 15. 12. 1732 ve Volduchách (pohřben 17. 12.): „Martin Foregt, před smrtí 3 dny všemi svátostmi zaopatřen, stáří svého měl 54 léta“ (Osek 02 Z str. 191, sn. 103 vpravo; M zápis, ztotožnění K+ – jediný Martin Forejt) → *~1678. Snad bratr Matěje Forejta († 1743, 64 let; K).",
         "Ve stejné době žil ve Volduchách Matěj Lomryk (?) × Kateřina (syn Václav 18. 9. 1712) – dřívější čtení „Matěj Forejt“ chybné."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
         "SOA Plzeň, fara Osek, Osek 01 (N), str. 119 a 133, snímky 61 vpravo a 68 vpravo",
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 Z str. 191, sn. 103 vpravo – https://www.portafontium.eu/iipimage/30066668/osek-02_1030-z"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 Z str. 191, sn. 103 vpravo – https://www.portafontium.eu/iipimage/30066668/osek-02_1030-z",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 150 vlevo (25. 10. 1705) – https://www.portafontium.eu/iipimage/30066667/osek-01_1501-o"
       ],
       scans: [
         {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"},
-        {"f":"img/1732_Z_Forejt_Martin_Volduchy.jpg","t":"Úmrtí 15. 12. 1732, Volduchy (54 let)"}
+        {"f":"img/1732_Z_Forejt_Martin_Volduchy.jpg","t":"Úmrtí 15. 12. 1732, Volduchy (54 let)"},
+        {"f":"img/1705_O_Forejt_Martin_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Sňatek s Alžbětou Hanzlíkovou, Volduchy 1705"},
+        {"f":"img/1750_Z_Forejtova_Alzbeta_Volduchy.jpg","t":"Úmrtí manželky Alžběty, Volduchy 1750"}
       ]
     },
     {
       id: "alzbeta_fo",
       name: "Alžběta Forejtová",
+      maiden: "Hanzlíková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      b: {"date":"neznámé (asi 1677)","year":1677,"approx":true},
+      d: {"date":"21. 3. 1750","year":1750,"place":"Volduchy (fara Osek)"},
+      father: "vaclav_hzl",
       spouse: "martin_fo",
+      marriage: "25. 10. 1705, Volduchy – s Martinem Forejtem",
       notes: [
+        "Oddána 25. 10. 1705 ve Volduchách: „Copulatus est Martinus Foregt cum Elisabetha filia Wenceslai Hanzlik“; svědci Martin Blahník, Tomáš Šlemenda, Alžběta Gišová a Barbora Hanzlíková (Osek 01 O, sn. 150 vlevo; M – jediný Martin Forejt ženich 1700–1727).",
+        "Zemřela 21. (III) 1750 ve Volduchách (pohřbena 23.), „Alžběta Foregtová … ze všemi svátostmi zaopatřena“, 73 let (Osek 03 Z, sn. 178 vpravo; M zápis, ztotožnění K+ – manžel neuveden) → *~1677.",
         "Manželka Martina Forejta z Volduch; matka Pavla (*1716). Rodné příjmení neznámé."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n"
+        "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 150 vlevo (25. 10. 1705) – https://www.portafontium.eu/iipimage/30066667/osek-01_1501-o",
+        "SOA Plzeň, Osek 03 Z, sn. 178 vpravo (21. 3. 1750) – https://www.portafontium.eu/iipimage/30066669/osek-03_1780-z"
       ],
       scans: [
-        {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"}
+        {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"},
+        {"f":"img/1705_O_Forejt_Martin_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Sňatek s Martinem Forejtem, Volduchy 1705"},
+        {"f":"img/1750_Z_Forejtova_Alzbeta_Volduchy.jpg","t":"Úmrtí 1750, Volduchy (73 let)"}
       ]
     },
     {
@@ -11812,6 +11827,22 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1754_N_Hronkova_Anna_Zdice.jpg","t":"Křest dcery Anny, Zdice 1754"}
+      ]
+    },
+    {
+      id: "vaclav_hzl",
+      name: "Václav Hanzlík",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1650)","year":1650,"approx":true,"place":"Volduchy (fara Osek)"},
+      notes: [
+        "Otec Alžběty Forejtové – oddací zápis 25. 10. 1705: „Elisabetha filia Wenceslai Hanzlik“ (Volduchy; M). Svědkyně Barbora Hanzlíková (sestra ?). Vztah k Prokopu Hanzlíkovi (otec Kateřiny Čadové, *1728) neznámý (K)."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 150 vlevo (25. 10. 1705) – https://www.portafontium.eu/iipimage/30066667/osek-01_1501-o"
+      ],
+      scans: [
+        {"f":"img/1705_O_Forejt_Martin_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Sňatek dcery Alžběty, Volduchy 1705"}
       ]
     }
   ]
