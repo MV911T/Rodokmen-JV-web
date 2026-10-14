@@ -11366,11 +11366,13 @@ window.RODOKMEN = {
       b: {"date":"neznámé (asi 1682 ?)","year":1682,"approx":true},
       d: {"date":"16. 12. 1755 (pohřeb)","year":1755,"place":"Lažany (fara Přepeře)"},
       spouse: "dorota_tk",
+      occ: "rychtář v Lažanech (1734)",
       notes: [
         "Z Lažan; otec Františka Ťukala – při jeho sňatku 26. 11. 1769 už nežil („filius post def. Joannem Tiukal ex Lažan“, M). KANDIDÁTKA dcery: Alžběta, dcera † Jana Ťukala, podruha (kmotra 1773, K).",
         "Pohřben 16. 12. 1755 u filiálního kostela v Přepeřích, „Joannes Tiukal relinquens uxorem Dorotheam“, z Lažan (panství Hrubá Skála), 73 let (Z 5296, sn. 292 vpravo, pag. 577; M) → *~1682 (věk vůči dětem 1741–1751 vysoký – snad nadsazen). Děti s Dorotou: František (5. 10. 1741 ?), Alžběta (7. 3. 1751 ?; M).",
         "Sňatek s Dorotou v Liber II Copulatorum Přepeře 1738–1740 a 1744 není; sňatky 1741–1743 jsou ve farní matrice Všeň („vide in Matricula Parochiali“) – nečteno.",
-        "Dcera Mařena (?) se 20. 11. 1735 v Přepeřích vdala za Jana, syna Petra Poláka z Lažan („vlastní dcerou Jana Ťukala z Lažan“; 5296 sn. 249 vlevo, pag. 490; M zápis, ztotožnění K) → Jan měl dospělou dceru už 1735; Dorota (matka dětí 1741, 1751) byla nejspíš jeho 2. manželkou. Sňatek s Dorotou v Liber II Přepeře 1734–1740 ani ve Všeni V 1740 – I 1742 není."
+        "Dcera Mařena (?) se 20. 11. 1735 v Přepeřích vdala za Jana, syna Petra Poláka z Lažan („vlastní dcerou Jana Ťukala z Lažan“; 5296 sn. 249 vlevo, pag. 490; M zápis, ztotožnění K) → Jan měl dospělou dceru už 1735; Dorota (matka dětí 1741, 1751) byla nejspíš jeho 2. manželkou. Sňatek s Dorotou v Liber II Přepeře 1734–1740 ani ve Všeni V 1740 – I 1742 není.",
+        "Dcera Kateřina se 23. 11. 1734 v Přepeřích vdala za Václava, syna Matěje Nováka z Lažan – „vlastní dcerou Jana Ťukala, rychtáře též z Lažan“ (5296 sn. 247 vpravo, pag. 487; M zápis, ztotožnění K+) → Jan byl 1734 rychtářem; dvě dcery na vdávání 1734/35 → 1. sňatek nejpozději ~1714. Sňatek s Dorotou v Liber II Přepeře 1720–1740 není."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)",
