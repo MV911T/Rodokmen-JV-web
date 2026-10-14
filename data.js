@@ -9942,7 +9942,8 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěna 10. 8. 1704 ve Veřovicích: „Jan Beseda fogt / Chatharina – Rozinna“, kmotři Jan Marek a Judita, žena Václava Marka (M). Ztotožnění s nevěstou 1724 D: jiná Rosina fojta Jana 1701–1705 není, úmrtí do 1715 není.",
         "Oddána 23. 7. 1724 s Martinem, synem Pavla Černocha: „s poctivou dívkou Rosinou, Jana Besedy fojta dcerou“ (M; čtení „bezedy“ ověřeno zvětšením – ne „Brzdy“). Matka Rosiny (23. 7. 1730, × 1752 Josef Pitr) a dalších dětí 1724–1744. Úmrtí nenalezeno.",
-        "Rychtář Jan Beseda a jeho žena, stálí kmotři dětí Rosiny Pitrové 1754–1775, byli nejspíš její bratr se ženou (K)."
+        "Rychtář Jan Beseda a jeho žena, stálí kmotři dětí Rosiny Pitrové 1754–1775, byli nejspíš její bratr se ženou (K).",
+        "Sourozenec: Jura (Jiří) Beseda, pokřtěn 17. 2. 1701 Veřovice, u jména křížek – zemřel jako dítě (M); KANDIDÁTI (K): Jura Beseda, fojt 1728–1737, a Tomáš Beseda (děti 1716–17)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 330, snímek 166 vlevo (10. 8. 1704) – https://digi.archives.cz",
@@ -9960,18 +9961,25 @@ window.RODOKMEN = {
       name: "Jan Beseda",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1675)","year":1675,"approx":true},
+      b: {"date":"neznámé (asi 1656)","year":1656,"approx":true},
+      d: {"date":"16. 8. 1746","year":1746,"place":"Veřovice"},
       spouse: "katerina_bsd",
       occ: "fojt ve Veřovicích",
       notes: [
-        "Fojt (rychtář) ve Veřovicích; otec Rosiny (10. 8. 1704; × 1724 Martin Černoch) – křest „Jan Beseda fogt / Chatharina“ (M). Příjmení psáno i „Brzda“: 10. 11. 1704 kmotr „Jan Brzda Vogt“ (M).",
-        "Václav Beseda / Brzda († 16. 3. 1705, 40 let) × Kateřina byl patrně jeho bratr (K); jeho vdova Kateřina se 1705 vdala za Martina Macha a 1715 za Jana Lacinu. Starší generace (K): „starý Jan Brazda (?)“ † 1703, 80 let."
+        "Fojt (rychtář) ve Veřovicích; otec Rosiny (10. 8. 1704; × 1724 Martin Černoch) – křest „Jan Beseda fogt / Chatharina“ (M). Příjmení psáno i „Brzda“: 10. 11. 1704 kmotr „Jan Brzda Vogt“ (M); 1716/1717 „Toma / Catharina Bezeda“ = „Brzda“.",
+        "Děti s Kateřinou: Jura (17. 2. 1701, „Jan beseda, fogt / Katherÿna“, u jména křížek – zemřel jako dítě; M), Rosina (10. 8. 1704). V N Veřovice 1692–1700 se neobjevuje (fojtem byl tehdy Jura Lacina) – asi přišel nebo převzal fojtství ~1700. Sňatek s Kateřinou v O Veřovice 1690–1708 není.",
+        "Ovdověl 9. 12. 1734; 2. 5. 1736 se ve Veřovicích znovu oženil: „poctiwý Wdowec Jan bezeda Vogt stary“ s vdovou Marinou (?) po Kryštofu Vochovi (?) ze Štramberka (?) (M, jméno nevěsty nejisté). Vdova „Mariana, Wdowa po Neb. Janu bezedu“ † XII 1746, 70 (?) let.",
+        "Zemřel 16. 8. 1746 ve Veřovicích: „Jan Bezeda, stary Vogt, S. Swatostmi opatřen, stary 90 let“ (M; → *~1656).",
+        "KANDIDÁTI (K): Jura Beseda, fojt ve Veřovicích 1728–1737, a Tomáš Beseda (× Kateřina, děti 1716–17) – snad synové. Václav Beseda / Brzda († 16. 3. 1705, 40 let) × Kateřina snad bratr; jeho vdova Kateřina se 1705 vdala za Martina Macha a 1715 za Jana Lacinu. Starší generace: „starý Jan Brazda (?)“ † 1703, 80 let."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 330, snímek 166 vlevo (10. 8. a 10. 11. 1704); Z pag. 477, snímek 239 (1703, 16. 3. 1705) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 330, snímek 166 vlevo (10. 8. a 10. 11. 1704); Z pag. 477, snímek 239 (1703, 16. 3. 1705) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 325, snímek 163 vpravo (17. 2. 1701); O pag. 441, snímek 221 vpravo (2. 5. 1736); Z pag. 490, snímek 246 vlevo (9. 12. 1734) a pag. 495, snímek 248 vpravo (16. 8. 1746) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1704_N_Besedova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 10. 8. 1704"}
+        {"f":"img/1704_N_Besedova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 10. 8. 1704"},
+        {"f":"img/1746_Z_Beseda_Jan_Verovice.jpg","t":"Úmrtí 16. 8. 1746, Veřovice"},
+        {"f":"img/1734_Z_Besedova_Katerina_Verovice.jpg","t":"Úmrtí manželky Kateřiny, Veřovice, 9. 12. 1734"}
       ]
     },
     {
@@ -9979,16 +9987,22 @@ window.RODOKMEN = {
       name: "Kateřina Besedová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1680)","year":1680,"approx":true},
+      b: {"date":"neznámé (asi 1661)","year":1661,"approx":true},
+      d: {"date":"9. 12. 1734","year":1734,"place":"Veřovice"},
       spouse: "jan_bsd",
       notes: [
-        "Manželka Jana Besedy, fojta ve Veřovicích; matka Rosiny (10. 8. 1704) (M). Rodné příjmení neznámé. Nezaměňovat s Kateřinou, ženou Václava Besedy / Brzdy († 1705), pozdější Machovou a Lacinovou."
+        "Manželka Jana Besedy, fojta ve Veřovicích; matka Jury (17. 2. 1701) a Rosiny (10. 8. 1704) (M). Rodné příjmení neznámé.",
+        "Zemřela 9. 12. 1734 ve Veřovicích: „Catharina Jana bezedi Manželka, S. Swatostmi opatř:, stara 73 let“ (M; → *~1661).",
+        "Nezaměňovat s Kateřinou, ženou Václava Besedy / Brzdy († 1705), pozdější Machovou a Lacinovou."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 330, snímek 166 vlevo (10. 8. 1704) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 330, snímek 166 vlevo (10. 8. 1704) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 325, snímek 163 vpravo (17. 2. 1701); Z pag. 490, snímek 246 vlevo (9. 12. 1734) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1704_N_Besedova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 10. 8. 1704"}
+        {"f":"img/1704_N_Besedova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 10. 8. 1704"},
+        {"f":"img/1734_Z_Besedova_Katerina_Verovice.jpg","t":"Úmrtí 9. 12. 1734, Veřovice"},
+        {"f":"img/1746_Z_Beseda_Jan_Verovice.jpg","t":"Úmrtí manžela Jana, Veřovice, 16. 8. 1746"}
       ]
     }
   ]
