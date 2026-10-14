@@ -11168,12 +11168,14 @@ window.RODOKMEN = {
       name: "František (Franc) Ťukal",
       line: "fukal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      b: {"date":"5. 10. 1741 (?)","year":1741,"place":"Lažany (fara Přepeře)"},
       father: "jan_tk0",
+      mother: "dorota_tk",
       spouse: "anna_tk",
       occ: "chalupník (?) v Lažanech",
       marriage: "1) 26. 11. 1769, Přepeře – s Annou Adamusovou († 1779); 2) 6. 6. 1779, Přepeře – s Annou, dcerou † Jana Buriánka ze Čtveřína",
       notes: [
+        "Pokřtěn 5. 10. 1741 (?) v Přepeřích: „Ex pago Lažan subd. Magno-Skall.: Franciscus, P[ater] Joannes Tiukal, M[ater] Dorothea“; levans Jiří Adamus ze Čtveřína (rodina pozdější nevěsty Anny Adamusové), svědci Jiří Fanta z Lažan a Terezie, dcera Jakuba Janka (N 5296, sn. 88 vlevo; M; rok v záhlaví přepsaný – 1741, nevyloučeno 1747/48).",
         "Oddán 26. 11. 1769 v Přepeřích: „honestus juvenis Franciscus oriundus ex Lažan, filius post def. Joannem Tiukal ex Lažan, cum honesta ancilla Anna oriunda e Lažan, filia Jacobi Adamus ex Lažan, matris Annae filiae Joannis Pelda ex Stvěřín“; svědci Philippus Adamus ze Čtveřína a Wenceslaus Polák z Lažan (M).",
         "Chalupník (?) z Lažan (fara Přepeře, panství Hrubá Skála); otec Jana Ťukala nejst. – oddací zápis syna 4. 8. 1806 v Mašově: „Jan, syn Franc[e] Ťukala, chal. (?) z Lažan“ (M). Datum narození je odhad.",
         "Dcera Kateřina pokřtěna 28. 3. 1776 v Lažanech („Tuckal Franciscus casarius, et uxor ejus Anna“; N 5296 sn. 195 vpravo, M). Ťukalové v Lažanech už 1773 (kmotra Alžběta, dcera † Jana Ťukala, podruha – K).",
@@ -11183,9 +11185,11 @@ window.RODOKMEN = {
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 1804–1880 (sign. 5822), oddíl Mašov, snímek 133 vlevo (4. 8. 1806)",
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)",
         "SOA Zámrsk, Sbírka matrik, fara Přepeře, Z/O 1773–1784 (sign. 5297), Z snímek 13 vpravo (24. 3. 1779)",
-        "SOA Zámrsk, Sbírka matrik, fara Přepeře, sign. 5297, O snímek 24 vpravo (6. 6. 1779)"
+        "SOA Zámrsk, Sbírka matrik, fara Přepeře, sign. 5297, O snímek 24 vpravo (6. 6. 1779)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, kniha 5296: N sn. 88 vlevo (1741 ?), sn. 98 vlevo (1751 ?); Z sn. 292 vpravo, pag. 577 (XII 1755) – APU 53e26821-c4c1-4a72-a33e-bce61784d8f3"
       ],
       scans: [
+        {"f":"img/1741_N_Tukal_Frantisek_Lazany.jpg","t":"Křest Františka, Lažany 5. 10. 1741 (?)"},
         {"f":"img/1769_O_Tukal_Frantisek_Adamusova_Anna_Prepere.jpg","t":"Sňatek s Annou Adamusovou, Přepeře 26. 11. 1769"},
         {"f":"img/1773_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 1773"},
         {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek syna Jana, Mašov 4. 8. 1806"},
@@ -11291,17 +11295,21 @@ window.RODOKMEN = {
       name: "Jan Ťukal (Tiukal)",
       line: "fukal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
-      d: {"date":"před 26. 11. 1769","year":1769,"approx":true},
+      b: {"date":"neznámé (asi 1682 ?)","year":1682,"approx":true},
+      d: {"date":"16. 12. 1755 (pohřeb)","year":1755,"place":"Lažany (fara Přepeře)"},
+      spouse: "dorota_tk",
       notes: [
         "Z Lažan; otec Františka Ťukala – při jeho sňatku 26. 11. 1769 už nežil („filius post def. Joannem Tiukal ex Lažan“, M). KANDIDÁTKA dcery: Alžběta, dcera † Jana Ťukala, podruha (kmotra 1773, K).",
-        "Úmrtí v Z Přepeře (5296) 1758 – I 1770 není (Zámrsk 14–15) → zemřel nejspíš před 1758 nebo mimo farnost; sňatek syna Františka 26. 11. 1769 „filius post defunctum Joannem Tiukal ex Lažan“ potvrzen (M)."
+        "Pohřben 16. 12. 1755 u filiálního kostela v Přepeřích, „Joannes Tiukal relinquens uxorem Dorotheam“, z Lažan (panství Hrubá Skála), 73 let (Z 5296, sn. 292 vpravo, pag. 577; M) → *~1682 (věk vůči dětem 1741–1751 vysoký – snad nadsazen). Děti s Dorotou: František (5. 10. 1741 ?), Alžběta (7. 3. 1751 ?; M)."
       ],
       sources: [
-        "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)"
+        "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, kniha 5296: N sn. 88 vlevo (1741 ?), sn. 98 vlevo (1751 ?); Z sn. 292 vpravo, pag. 577 (XII 1755) – APU 53e26821-c4c1-4a72-a33e-bce61784d8f3"
       ],
       scans: [
-        {"f":"img/1769_O_Tukal_Frantisek_Adamusova_Anna_Prepere.jpg","t":"Sňatek syna Františka, Přepeře 1769"}
+        {"f":"img/1769_O_Tukal_Frantisek_Adamusova_Anna_Prepere.jpg","t":"Sňatek syna Františka, Přepeře 1769"},
+        {"f":"img/1755_Z_Tukal_Jan_Lazany.jpg","t":"Pohřeb 16. 12. 1755, Lažany (vdova Dorota)"},
+        {"f":"img/1741_N_Tukal_Frantisek_Lazany.jpg","t":"Křest syna Františka, Lažany 1741 (?)"}
       ]
     },
     {
@@ -12011,6 +12019,24 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1727_O_Laukota_Josef_Altmanova_Rozina_Osek.jpg","t":"Sňatek s Josefem Laukotou, Osek 1727"}
+      ]
+    },
+    {
+      id: "dorota_tk",
+      name: "Dorota Ťukalová",
+      line: "fukal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
+      spouse: "jan_tk0",
+      notes: [
+        "Manželka Jana Ťukala z Lažan: „M[ater] Dorothea“ při křtu syna Františka (1741 ?) a dcery Alžběty (1751 ?), při pohřbu Jana 16. 12. 1755 „relinquens uxorem Dorotheam“ (M). Rodné příjmení neuvedeno; úmrtí po 1755 nehledáno."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, kniha 5296: N sn. 88 vlevo (1741 ?), sn. 98 vlevo (1751 ?); Z sn. 292 vpravo, pag. 577 (XII 1755) – APU 53e26821-c4c1-4a72-a33e-bce61784d8f3"
+      ],
+      scans: [
+        {"f":"img/1741_N_Tukal_Frantisek_Lazany.jpg","t":"Křest syna Františka, Lažany 1741 (?)"},
+        {"f":"img/1755_Z_Tukal_Jan_Lazany.jpg","t":"Pohřeb manžela Jana, Lažany 1755"}
       ]
     }
   ]
