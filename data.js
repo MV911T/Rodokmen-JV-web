@@ -4092,7 +4092,7 @@ window.RODOKMEN = {
       marriage: "8. 1. 1797, Veřovice č. 69 – s Rosinou Lacinovou",
       notes: [
         "Pokřtěn 22. 8. 1771 ve Veřovicích č. 29 (fara Životice): „Georgius – Pÿter Josephus hortulanus, Rosina“, kmotři Jan Matuš, podruh, a Anna, manželka rychtáře Jana Besedy (M). Ztotožnění D: dům č. 29 = dům výměnkáře Josefa Pitra († 1805); jiný Georg Pitr 1769–1776 není. ROZPOR věku: při sňatku 1797 „23 let“, podle křtu 25. Sourozenci (děti Josefa × Rosiny, č. 29): Jan (20. 3. 1754, † 27. 1. 1770, 16 let), Rosina (~1757, † 15. 9. 1762, 5 let), Marianna (~1763, † 1770, 7 let), Josef (5. 4. 1769, †), Jan (17. 12. 1775), Anna (× 1773 Johann Maciczek) – D/M.",
-        "Oddán 8. 1. 1797 ve Veřovicích č. 69 (lokální kaplan Josef Hikel ?): „Georg, des Joseph Pitter, Ausgedingers Sohn“, 23 let (→ *~1774), svobodný, s Rosinou, dcerou Josefa Laciny (dříve čteno „Ziegner“), domkáře, 22 let; svědci † Johann Pitter, zahradník, a † Johann Mazzurek (?), domkář. „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – snoubenci byli pokrevně příbuzní (2./3. stupeň). Dispenz (přečteno znovu 14. 10.): „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – pokrevenství v nerovné linii (společný předek je prarodičem jednoho a praprarodičem druhého); jména neuvedena. Vazba zatím nenalezena: se současným stromem vychází nejvýš 3./3. stupeň – v jedné generaci je patrně chyba (viz ROZPOR věku u matky Rosiny; K). Hypotéza „Marina Pitrová = dcera Martina Laciny / Ondřeje Tománka“ vyvrácena (Martin Lacina × Anna, Tománek † 1695).",
+        "Oddán 8. 1. 1797 ve Veřovicích č. 69 (lokální kaplan Josef Hikel ?): „Georg, des Joseph Pitter, Ausgedingers Sohn“, 23 let (→ *~1774), svobodný, s Rosinou, dcerou Josefa Laciny (dříve čteno „Ziegner“), domkáře, 22 let; svědci † Johann Pitter, zahradník, a † Johann Mazzurek (?), domkář. „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – snoubenci byli pokrevně příbuzní (2./3. stupeň). Dispenz (přečteno znovu 14. 10.): „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – pokrevenství v nerovné linii (společný předek je prarodičem jednoho a praprarodičem druhého); jména neuvedena. Vazba zatím nenalezena (po opravě matky Rosiny 14. 10. nutno spočítat znovu; K: Rosina, matka Rosiny Černochové, dcera Jana Brzdy / Besedy, fojta – pokud by šlo o Rosinu, dceru Václava Brzdy a Kateřiny, a Josef Lacina by byl synem téže Kateřiny z 3. manželství (pár 1715), byla by Kateřina babičkou nevěsty a prababičkou ženicha → přesně 2./3. stupeň; neověřeno).",
         "Chalupník / domkář ve Veřovicích č. 145 (1801–1817); otec Marianny (křest vnučky Moniky 1845) a nejspíš Johanna (*~1798; Georg dal souhlas k jeho sňatku 19. 8. 1821). Jiný sňatek Georga Pitra ve Veřovicích 1784 – V 1828 není.",
         "„Anna roz. Černochová“ (N 1874) je matkou Roziny Bartoňové – pokud jde o manželku Jiřího Pitra, pak jiného Jiřího nebo 2. manželství po 1828 (K).",
         "Zemřel 19. 6. 1834 (pohřben 21. 6.) ve Veřovicích č. 145 jako domkář, uvedeno 81 let, na „Brust-…“ (nemoc hrudi). ROZPOR věku: podle sňatku 1797 (23 let) mu bylo ~60 – věk v úmrtí je zjevně chybný. Vyloučeni jiní Georgové Pitrové († 1832 č. 171, 44 let; † 1839 č. 151, 71 let).",
@@ -9622,32 +9622,31 @@ window.RODOKMEN = {
       maiden: "Černochová",
       line: "nezname",
       cert: "M",
-      b: {"date":"13. 9. 1723","year":1723,"place":"Veřovice"},
+      b: {"date":"23. 7. 1730","year":1730,"place":"Veřovice"},
       d: {"date":"20. 12. 1785","year":1785,"place":"Veřovice č. p. 29"},
-      father: "martin_cn",
-      mother: "katerina_cn",
+      father: "martin_cp",
+      mother: "rosina_cb",
       spouse: "josef_pt",
       marriage: "10. 9. 1752, Veřovice – s Josefem Pitrem",
       notes: [
-        "Pokřtěna 13. 9. 1723 ve Veřovicích: „Martin / Catharina – Zernoch – Rosina“, kmotři Jan Lacina (?) a Marina, manželka Jiřího Kubečky (M; 5 měsíců po sňatku rodičů 18. 4. 1723; věk 62 při úmrtí 1785 sedí – ztotožnění D).",
-        "Dcera Martina Černocha a Kateřiny roz. Matušové (sňatek 18. 4. 1723) z Veřovic; oddána 10. 9. 1752 s Josefem Pitrem (M). Matka Georga (22. 8. 1771) a Jana (1775).",
-        "Zemřela 20. 12. 1785 ve Veřovicích č. 29 jako „Rosina, Joseph Pitters Eheweib“, evangelička (pohřbil pastor Andreas Lehotzky), 62 let (→ *~1723) (M). Pozor: Černochové ve stromu i jinou větví (Anežka *1879) – vztah nedoložen.",
-        "ROZPOR (K) – která Rosina: Josef Pitr měl jedinou manželku Rosinu (jedna řada dětí 1754–1775, stálí kmotři Matušové a Besedové, žádný 2. sňatek 1749–1774, D). Ve Veřovicích ale byly dvě Rosiny, dcery Martina Černocha: (b) pokřtěná 13. 9. 1723 (Martin × Kateřina Matušová) – pro ni mluví věk 62 při úmrtí 1785 (zapsal evangelický pastor, mohl být odhadnut) a kmotři Matušové u dětí; (a) pokřtěná 23. 7. 1730 (Martin × Rosina; kmotr Pavel Bartoň = svědek sňatku 1752) – rodila by ve 23–45 letech místo 31–52 (poslední porod 1775). Strom zatím vede (b); rozhodnutí čeká na úmrtí nebo sňatek druhé Rosiny."
+        "Pokřtěna 23. 7. 1730 ve Veřovicích: „Martinus / Rosina – Zernoch – Rosina“, kmotři Pavel Bartoň a Juliana, žena Jiřího Machorského (M). Ztotožnění s nevěstou 1752 D: Pavel Bartoň je svědkem jejího sňatku; otec Martin žil ještě 1752.",
+        "Oddána 10. 9. 1752 s Josefem Pitrem: „honesta ancilla Rosina legitima filia Martini Czernoch“ (otec živý); svědci Pavel Bartoň a Jan Beseda (M). Matka Jana (1754), Rosiny (~1757), Marianny (~1763), Josefa (1769), Jiřího (22. 8. 1771) a Jana (1775).",
+        "Zemřela 20. 12. 1785 ve Veřovicích č. 29 jako „Rosina, Joseph Pitters Eheweib“, evangelička (pohřbil pastor Andreas Lehotzky), „62 let“ (M). ROZPOR: podle křtu 55 let – věk zapsaný evangelickým pastorem je nadsazen; platí křest.",
+        "OPRAVA (14. 10. 2026): dříve ztotožněna s Rosinou pokřtěnou 13. 9. 1723 (dcerou Martina, syna Jana, × Kateřiny Matušové). Ta se ale měsíc před naší Rosinou, 10. 8. 1752, vdala za vdovce Martina Grosmanna jako „Rosina post pie defunctum Martinum Czernoch legitima filia“ – tentýž kněz na téže straně (M). Ve Veřovicích žili dva Martinové Černochové. Pozor: Černochové ve stromu i jinou větví (Anežka *1879) – vztah nedoložen."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 352, snímek 177 vlevo (13. 9. 1723) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice (Wermersdorf), O pag. 448, snímek 225 vlevo (10. 9. 1752) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 181 vpravo (23. 7. 1730) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 448, snímek 225 vlevo (10. 8. a 10. 9. 1752) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1766–1784 (sign. NJ XVI 2), oddíl Veřovice (Wermersdorf), N pag. 134, snímek 68 vlevo (22. 8. 1771) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, O 1784–1858 (sign. NJ XIV 3), snímek 4 vlevo (29. 5. 1786) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), pag. 17, snímek 9 vpravo (20. 12. 1785) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O snímek 219 (18. 4. 1723; 13. 2. 1724 Pavel Lacina) a Z snímek 249 vpravo (22. 3. 1751) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1784–1840 (sign. NJ XIV 5), pag. 17, snímek 9 vpravo (20. 12. 1785) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1723_N_Cernochova_Rosina_Verovice.jpg","t":"Křest Rosiny Černochové, Veřovice, 13. 9. 1723 (rodiče Martin a Kateřina)"},
+        {"f":"img/1730_N_Cernochova_Rosina_Verovice.jpg","t":"Křest Rosiny Černochové, Veřovice, 23. 7. 1730 (rodiče Martin a Rosina)"},
         {"f":"img/1752_O_Pitr_Josef_Cernoch_Rosina_Verovice.jpg","t":"Sňatek Josefa Pitra (syna Václava) s Rosinou Černochovou (dcerou Martina), Veřovice, 10. 9. 1752"},
         {"f":"img/1771_N_Pitr_Jiri_Verovice29.jpg","t":"Křest Jiřího (Georga) Pitra, Veřovice č. 29, 22. 8. 1771 (otec Josef, zahradník, matka Rosina)"},
         {"f":"img/1785_Z_Pitrova_Rosina_Verovice29.jpg","t":"Úmrtí Rosiny, manželky Josefa Pitra, Veřovice č. 29, 20. 12. 1785 (62 let, evangelička)"},
-        {"f":"img/1738_Z_Cernoch_Martin_Verovice.jpg","t":"Úmrtí otce Martina Černocha, Veřovice, 8. 4. 1738"}
+        {"f":"img/1752_O_dve_Rosiny_Cernochove_Verovice.jpg","t":"Dvě Rosiny Černochové: 10. 8. 1752 dcera † Martina × Martin Grosmann, 10. 9. 1752 dcera (žijícího) Martina × Josef Pitr"}
       ]
     },
     {
@@ -9678,34 +9677,6 @@ window.RODOKMEN = {
         {"f":"img/1752_O_Pitr_Josef_Cernoch_Rosina_Verovice.jpg","t":"Sňatek Josefa Pitra (syna Václava) s Rosinou Černochovou (dcerou Martina), Veřovice, 10. 9. 1752"},
         {"f":"img/1727_N_Pitr_Josef_Verovice.jpg","t":"Křest Josefa Pitra, Veřovice, 29. 1. 1727 (rodiče Václav a Marina)"},
         {"f":"img/1763_Z_Pitr_Vaclav_Verovice.jpg","t":"Úmrtí Václava Pitra, Veřovice, XII 1763 (74 let)"}
-      ]
-    },
-    {
-      id: "martin_cn",
-      name: "Martin Černoch",
-      line: "nezname",
-      cert: "M",
-      b: {"date":"neznámé (asi 1688)","year":1688,"approx":true},
-      d: {"date":"8. 4. 1738","year":1738,"place":"Veřovice"},
-      spouse: "katerina_cn",
-      occ: "komorník (podruh) ve Veřovicích",
-      marriage: "18. 4. 1723, Veřovice – s Kateřinou Matušovou",
-      notes: [
-        "Z Veřovic; syn † Jana Černocha. Oddán 18. 4. 1723: „Martin, nebožtíka Jana Černocha syn, s Kateřinou, nebožtíka Jana Matuše dcerou“; svědci Jiří Bardas a Tobiáš Ritz (?) (M). Otec Rosiny (*1723, × 1752 Josef Pitr).",
-        "Zemřel 8. 4. 1738 ve Veřovicích: „Martin Zrnoch Komornjk, S. Swatostmi opatřen, stary 50 let“ (M; → *~1688). Ztotožnění D: jediný dospělý Martin Černoch v úmrtích 1734–1751; vdova Kateřina 1751 „post defunctum Martinum“.",
-        "Patrně bratr (D): Pavel, svobodný, syn † Jana Černocha (?), † 4. 1. 1738, 36 let. Vztah k pozdějším Černochům ve Veřovicích (Tomáš *1846, Anežka *1879 – jiná větev stromu) nedoložen; Martin Černoch, domkář, svědek 1766 (snad syn)."
-      ],
-      sources: [
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O snímek 219 (18. 4. 1723; 13. 2. 1724 Pavel Lacina) a Z snímek 249 vpravo (22. 3. 1751) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice (Wermersdorf), O pag. 448, snímek 225 vlevo (10. 9. 1752) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 352, snímek 177 vlevo (13. 9. 1723) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, Z pag. 491, snímek 246 vpravo (8. 4. 1738) – https://digi.archives.cz"
-      ],
-      scans: [
-        {"f":"img/1723_O_Cernoch_Martin_Matusova_Katerina_Verovice.jpg","t":"Sňatek Martina Černocha (syna † Jana) s Kateřinou Matušovou (dcerou † Jana), Veřovice, 18. 4. 1723"},
-        {"f":"img/1752_O_Pitr_Josef_Cernoch_Rosina_Verovice.jpg","t":"Sňatek Josefa Pitra (syna Václava) s Rosinou Černochovou (dcerou Martina), Veřovice, 10. 9. 1752"},
-        {"f":"img/1723_N_Cernochova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 13. 9. 1723"},
-        {"f":"img/1738_Z_Cernoch_Martin_Verovice.jpg","t":"Úmrtí Martina Černocha, Veřovice, 8. 4. 1738 (50 let)"}
       ]
     },
     {
@@ -9878,28 +9849,6 @@ window.RODOKMEN = {
       ]
     },
     {
-      id: "katerina_cn",
-      name: "Kateřina Černochová",
-      maiden: "Matušová",
-      line: "nezname",
-      cert: "M",
-      b: {"date":"neznámé (asi 1701)","year":1701,"approx":true},
-      d: {"date":"22. 3. 1751","year":1751,"place":"Veřovice"},
-      spouse: "martin_cn",
-      marriage: "18. 4. 1723, Veřovice – s Martinem Černochem",
-      notes: [
-        "Dcera † Jana Matuše z Veřovic; oddána 18. 4. 1723 s Martinem Černochem (M). Matka Rosiny (*~1723, × 1752 Josef Pitr). Zemřela 22. 3. 1751 jako vdova po Martinovi, 50 let (M; → *~1701)."
-      ],
-      sources: [
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O snímek 219 (18. 4. 1723; 13. 2. 1724 Pavel Lacina) a Z snímek 249 vpravo (22. 3. 1751) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 352, snímek 177 vlevo (13. 9. 1723) – https://digi.archives.cz"
-      ],
-      scans: [
-        {"f":"img/1723_O_Cernoch_Martin_Matusova_Katerina_Verovice.jpg","t":"Sňatek Martina Černocha (syna † Jana) s Kateřinou Matušovou (dcerou † Jana), Veřovice, 18. 4. 1723"},
-        {"f":"img/1723_N_Cernochova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 13. 9. 1723"}
-      ]
-    },
-    {
       id: "jan_lc",
       name: "Jan Lacina",
       line: "nezname",
@@ -9949,6 +9898,51 @@ window.RODOKMEN = {
         {"f":"img/1720_N_Lacina_Josef_Verovice.jpg","t":"Křest Josefa Laciny, Veřovice, 2. 3. 1720 (rodiče Jan a Kateřina)"},
         {"f":"img/1715_O_Lacina_Jan_Machova_Katerina_Verovice.jpg","t":"Sňatek Jana Laciny (syna Jury) s Kateřinou, vdovou Machovou, Veřovice, 11. 6. 1715 – kandidát A"},
         {"f":"img/1719_O_Lacina_Jan_Tomankova_Katerina_Verovice.jpg","t":"Sňatek Jana Laciny (syna Martina) s Kateřinou Tománkovou, Veřovice, 22. 1. 1719 – kandidát B"}
+      ]
+    },
+    {
+      id: "martin_cp",
+      name: "Martin Černoch",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (asi 1700)","year":1700,"approx":true},
+      spouse: "rosina_cb",
+      marriage: "23. 7. 1724, Veřovice – s Rosinou, dcerou Jana Brzdy (?), fojta",
+      notes: [
+        "Z Veřovic; syn Pavla Černocha. Oddán 23. 7. 1724 ve Veřovicích: „poctivý mládenec Martin, Pavla Černocha syn, s poctivou dívkou Rosinou, Jana Brzedy (?) fojta dcerou“; svědci Matěj Hikl a Martin Kozian (M).",
+        "Děti s Rosinou (N Veřovice): Martin (9. 11. 1724, †; M), Kateřina (~1729, †), Rosina (23. 7. 1730; M), Jan (~1734), Jiří (~1741), Martin (~1743/44) (D); snad i Juliana († 1758, 18 let, K). Žil ještě v září 1752 (sňatek dcery „filia Martini Czernoch“ bez „post defunctum“).",
+        "Nezaměňovat s Martinem Černochem, synem Jana, komorníkem (× 1723 Kateřina Matušová, † 8. 4. 1738) – jeho dcera Rosina (pokřtěná 13. 9. 1723) se 10. 8. 1752 vdala za vdovce Martina Grosmanna. KANDIDÁT otce (K): Pavel Černoch, stařec, † 1749, 75 let (D). Úmrtí Martina nenalezeno (Z 1751–1765 neúplně). Martin Černoch, domkář, svědek 1766 – on nebo syn (K)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 437, snímek 219 vpravo (23. 7. 1724) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 354, snímek 178 vlevo (9. 11. 1724), snímek 181 vpravo (23. 7. 1730) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 448, snímek 225 vlevo (10. 8. a 10. 9. 1752) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1724_O_Cernoch_Martin_Rosina_Verovice.jpg","t":"Sňatek Martina Černocha (syna Pavla) s Rosinou, dcerou Jana Brzdy (?), fojta, Veřovice, 23. 7. 1724"},
+        {"f":"img/1730_N_Cernochova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 23. 7. 1730"}
+      ]
+    },
+    {
+      id: "rosina_cb",
+      name: "Rosina Černochová",
+      maiden: "Brzdová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (asi 1704)","year":1704,"approx":true},
+      spouse: "martin_cp",
+      marriage: "23. 7. 1724, Veřovice – s Martinem Černochem",
+      notes: [
+        "Dcera Jana, fojta ve Veřovicích; oddána 23. 7. 1724 s Martinem, synem Pavla Černocha (M). Příjmení otce v zápisu „Brzedy“ – Brzda, nebo Beseda (?); u křtů ~1704/05 jsou „Jan Bezeda fogt / Catharina → Rozina“ i „Václav Brzda / Catharina → Rosina“ (D, nečteno v plném rozlišení). Rychtář Jan Beseda a jeho žena jsou stálí kmotři dětí dcery Rosiny Pitrové (K – podporuje Besedu).",
+        "Matka Rosiny (23. 7. 1730, × 1752 Josef Pitr) a dalších dětí 1724–1744. Úmrtí nenalezeno."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 437, snímek 219 vpravo (23. 7. 1724) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 181 vpravo (23. 7. 1730) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1724_O_Cernoch_Martin_Rosina_Verovice.jpg","t":"Sňatek Rosiny (dcery Jana, fojta) s Martinem Černochem, Veřovice, 23. 7. 1724"},
+        {"f":"img/1730_N_Cernochova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 23. 7. 1730"}
       ]
     }
   ]
