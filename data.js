@@ -6473,7 +6473,7 @@ window.RODOKMEN = {
       name: "Martin Svoboda",
       line: "svobodah",
       cert: "M",
-      b: {"date":"neznámé (asi 1779, kandidátní křest – viz poznámky)","year":1779,"approx":true,"place":"Heršpice"},
+      b: {"date":"2. 11. 1779","year":1779,"place":"Heršpice č. p. 24"},
       d: {"date":"26. 8. 1836","year":1836,"place":"Heršpice č. p. 52"},
       father: "jakub_svh",
       mother: "marianna_svh",
@@ -6481,10 +6481,10 @@ window.RODOKMEN = {
       occ: "tesař, domkář v Heršpicích",
       marriage: "27. 8. 1816, Heršpice – s Magdalenou Tichou",
       notes: [
+        "Pokřtěn 2. 11. 1779 v Heršpicích č. 24: „Martinus“, rodiče Jacobus Svoboda et Marianna, kmotři Tobiáš Malač s manželkou Barborou (N 13122, sn. 10 vpravo; M). Vazbu dokládá dům a kmotři: sourozenci Tomáš (15. 12. 1777, č. 24), Barbora (3. 4. 1782, č. 24) a Matěj (2. 2. 1786, č. 52 – dům, v němž se Martinovi 1817 narodil syn Jakub a kde 1836 zemřel), vždy s kmotry Malačovými (M); oba věky Martina (36 při sňatku, 56 při úmrtí) sedí.",
         "Oddán 27. 8. 1816 v Heršpicích (č. 36): „Martin Swoboda, Ger-lehner (?) und verabschiedeter Soldat von Hohenzollern“, 36 let, svobodný, s Magdalenou, dcerou Jakoba Tichého, čtvrtníka (č. 26), 18 let; svědci Jakob Kutschera, půlláník, a Valentin Hrozek (?), půlláník z Nížkovic (?); s osobním svolením otce nevěsty (M). Vysloužilý voják pluku Hohenzollern.",
         "Otec Jakuba Svobody.",
-        "Zemřel 26. 8. 1836 (pohřben 28. 8.) v Heršpicích č. 52 (dům narození syna Jakuba 1817): „Martin Swoboda, Häusler“, 56 let (Z 13149, sn. 280 vpravo, str. 313; M) → *VIII 1779 – VIII 1780. Dcera Kateřina, 12 let, zemřela v č. 52 14. 7. 1836 (M).",
-        "KANDIDÁT křtu (K+): 2. 11. 1779 Heršpice č. 24 (?), „Martinus“, rodiče Jacobus Svoboda et Marianna, kmotři Tobiáš Malač s manželkou Barborou (N 13122, sn. 10 vpravo; M zápis) – jediný Martin Svoboda VIII 1779 – IX 1780; oba věky (36 při sňatku, 56 při úmrtí) sedí."
+        "Zemřel 26. 8. 1836 (pohřben 28. 8.) v Heršpicích č. 52 (dům narození syna Jakuba 1817): „Martin Swoboda, Häusler“, 56 let (Z 13149, sn. 280 vpravo, str. 313; M) → *VIII 1779 – VIII 1780. Dcera Kateřina, 12 let, zemřela v č. 52 14. 7. 1836 (M)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -11893,21 +11893,23 @@ window.RODOKMEN = {
       id: "jakub_svh",
       name: "Jakub Svoboda",
       line: "svobodah",
-      cert: "K",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Heršpice"},
       spouse: "marianna_svh",
       marriage: "22. 10. 1776, Heršpice – s Mariannou Ondrovou (?)",
       notes: [
-        "KANDIDÁT (K+): otec Martina Svobody – křest 2. 11. 1779 Heršpice, „Jacobus Svoboda et Marianna uxor ejus, Herspicio“ (N 13122, sn. 10 vpravo; M zápis).",
+        "Otec Martina Svobody – křest 2. 11. 1779 Heršpice č. 24 (N 13122, sn. 10 vpravo; M); děti s týmiž kmotry Malačovými: Tomáš 1777 (č. 24), Martin 1779 (č. 24), Barbora 1782 (č. 24), Matěj 1786 (č. 52, „Jakob Swoboda, Inwohner“), snad Marianna 1788. Rodina se mezi 1782 a 1786 přestěhovala do č. 52, kde pak žil i Martin.",
         "Oddán 22. 10. 1776 (Heršpice): „Swoboda Jacobus [opraveno z Franciscus], honestus juvenis, cum honesta puella filia Marianna post † Mathaeum Ondra ex Bučovicensi platea Aust[erlicensi]“; svědci Tobiáš Malač (kmotr Martina 1779) a Šimon Kučera z Heršpic (O 13121, sn. 347 vpravo; M zápis, ztotožnění K+; rodiče ženicha neuvedeni). Jiný Jakub Svoboda ženich 1769–1776 není."
       ],
       sources: [
         "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13122 sn. 10 vpravo",
-        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, O 13121, sn. 347 vpravo (22. 10. 1776) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, O 13121, sn. 347 vpravo (22. 10. 1776) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna: NOZ 13121 sn. 283 vpravo (1777); N 13122 sn. 10 vpravo (1779), sn. 30 vpravo (1782), sn. 84 (1786) – https://www.mza.cz/actapublica/matrika/detail/1950"
       ],
       scans: [
         {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest syna Martina, Heršpice 1779"},
-        {"f":"img/1776_O_Svoboda_Jakub_Ondrova_Marianna_Herspice.jpg","t":"Sňatek s Mariannou Ondrovou, 1776"}
+        {"f":"img/1776_O_Svoboda_Jakub_Ondrova_Marianna_Herspice.jpg","t":"Sňatek s Mariannou Ondrovou, 1776"},
+        {"f":"img/1786_N_Svoboda_Matej_Herspice52.jpg","t":"Křest syna Matěje, Heršpice č. 52, 1786"}
       ]
     },
     {
@@ -11915,21 +11917,23 @@ window.RODOKMEN = {
       name: "Marianna Svobodová",
       maiden: "Ondrová (?)",
       line: "svobodah",
-      cert: "K",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true,"place":"Heršpice"},
       spouse: "jakub_svh",
       marriage: "22. 10. 1776, Heršpice – s Jakubem Svobodou",
       notes: [
-        "KANDIDÁTKA (K+): matka Martina Svobody (viz Jakub Svoboda).",
+        "Matka Martina Svobody – křest 2. 11. 1779 Heršpice č. 24 (N 13122, sn. 10 vpravo; M); děti s týmiž kmotry Malačovými: Tomáš 1777 (č. 24), Martin 1779 (č. 24), Barbora 1782 (č. 24), Matěj 1786 (č. 52, „Jakob Swoboda, Inwohner“), snad Marianna 1788. Rodina se mezi 1782 a 1786 přestěhovala do č. 52, kde pak žil i Martin.",
         "Při sňatku 22. 10. 1776 „filia Marianna post † Mathaeum Ondra ex Bučovicensi platea“ (dcera † Matouše Ondry z Bučovické ulice ve Slavkově; O 13121 sn. 347 vpravo; M zápis)."
       ],
       sources: [
         "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13122 sn. 10 vpravo",
-        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, O 13121, sn. 347 vpravo (22. 10. 1776) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, O 13121, sn. 347 vpravo (22. 10. 1776) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna: NOZ 13121 sn. 283 vpravo (1777); N 13122 sn. 10 vpravo (1779), sn. 30 vpravo (1782), sn. 84 (1786) – https://www.mza.cz/actapublica/matrika/detail/1950"
       ],
       scans: [
         {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest syna Martina, Heršpice 1779"},
-        {"f":"img/1776_O_Svoboda_Jakub_Ondrova_Marianna_Herspice.jpg","t":"Sňatek s Jakubem Svobodou, 1776"}
+        {"f":"img/1776_O_Svoboda_Jakub_Ondrova_Marianna_Herspice.jpg","t":"Sňatek s Jakubem Svobodou, 1776"},
+        {"f":"img/1786_N_Svoboda_Matej_Herspice52.jpg","t":"Křest syna Matěje, Heršpice č. 52, 1786"}
       ]
     },
     {
