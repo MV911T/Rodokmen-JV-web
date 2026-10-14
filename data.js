@@ -10804,7 +10804,8 @@ window.RODOKMEN = {
         {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek s Kateřinou Horáčkovou, Mašov 4. 8. 1806"},
         {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 6. 10. 1813"},
         {"f":"img/1833_O_Tukal_Jan_Mrazova_Terezie_Ohrazenice.jpg","t":"Sňatek syna Jana (souhlas otce), Ohrazenice 1833"},
-        {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
+        {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"},
+        {"f":"img/1779_Z_Tukalova_Anna_Lazany.jpg","t":"Úmrtí matky Anny Ťukalové, Lažany 24. 3. 1779"}
       ]
     },
     {
@@ -11019,43 +11020,52 @@ window.RODOKMEN = {
       father: "jan_tk0",
       spouse: "anna_tk",
       occ: "chalupník (?) v Lažanech",
-      marriage: "26. 11. 1769, Přepeře – s Annou Adamusovou z Lažan",
+      marriage: "1) 26. 11. 1769, Přepeře – s Annou Adamusovou († 1779); 2) 6. 6. 1779, Přepeře – s Annou, dcerou † Jana Buriánka ze Čtveřína",
       notes: [
         "Oddán 26. 11. 1769 v Přepeřích: „honestus juvenis Franciscus oriundus ex Lažan, filius post def. Joannem Tiukal ex Lažan, cum honesta ancilla Anna oriunda e Lažan, filia Jacobi Adamus ex Lažan, matris Annae filiae Joannis Pelda ex Stvěřín“; svědci Philippus Adamus ze Čtveřína a Wenceslaus Polák z Lažan (M).",
         "Chalupník (?) z Lažan (fara Přepeře, panství Hrubá Skála); otec Jana Ťukala nejst. – oddací zápis syna 4. 8. 1806 v Mašově: „Jan, syn Franc[e] Ťukala, chal. (?) z Lažan“ (M). Datum narození je odhad.",
-        "Dcera Kateřina pokřtěna 28. 3. 1776 v Lažanech („Tuckal Franciscus casarius, et uxor ejus Anna“; N 5296 sn. 195 vpravo, M). Ťukalové v Lažanech už 1773 (kmotra Alžběta, dcera † Jana Ťukala, podruha – K)."
+        "Dcera Kateřina pokřtěna 28. 3. 1776 v Lažanech („Tuckal Franciscus casarius, et uxor ejus Anna“; N 5296 sn. 195 vpravo, M). Ťukalové v Lažanech už 1773 (kmotra Alžběta, dcera † Jana Ťukala, podruha – K).",
+        "Ovdověl 24. 3. 1779; jako vdovec, chalupník z Lažan, se 6. 6. 1779 oženil s Annou, dcerou † Jana Buriánka, chalupníka ze Čtveřína (svědci Jan Polák z Lažan a Jan Říha ze Čtveřína; M). Děti z 2. manželství: Alžběta (1. 10. 1780), Václav (8. 7. 1783) – matka „nata Tomšová (?)“."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 1804–1880 (sign. 5822), oddíl Mašov, snímek 133 vlevo (4. 8. 1806)",
-        "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)"
+        "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)",
+        "SOA Zámrsk, Sbírka matrik, fara Přepeře, Z/O 1773–1784 (sign. 5297), Z snímek 13 vpravo (24. 3. 1779)",
+        "SOA Zámrsk, Sbírka matrik, fara Přepeře, sign. 5297, O snímek 24 vpravo (6. 6. 1779)"
       ],
       scans: [
         {"f":"img/1769_O_Tukal_Frantisek_Adamusova_Anna_Prepere.jpg","t":"Sňatek s Annou Adamusovou, Přepeře 26. 11. 1769"},
         {"f":"img/1773_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 1773"},
-        {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek syna Jana, Mašov 4. 8. 1806"}
+        {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek syna Jana, Mašov 4. 8. 1806"},
+        {"f":"img/1779_Z_Tukalova_Anna_Lazany.jpg","t":"Úmrtí 1. manželky Anny, Lažany 1779"},
+        {"f":"img/1779_O_Tukal_Frantisek_vdovec_Lazany.jpg","t":"2. sňatek (vdovec), Přepeře 6. 6. 1779"}
       ]
     },
     {
       id: "anna_tk",
       name: "Anna Ťukalová",
-      maiden: "Adamusová (?)",
+      maiden: "Adamusová",
       line: "fukal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      b: {"date":"neznámé (asi 1749)","year":1749,"approx":true},
+      d: {"date":"24. 3. 1779","year":1779,"place":"Lažany č. p. 15"},
       father: "jakub_ad",
       mother: "anna_ad",
       spouse: "franc_tk",
       notes: [
         "Oddána 26. 11. 1769 v Přepeřích s Františkem Ťukalem: „Anna oriunda e Lažan, filia Jacobi Adamus ex Lažan, matris Annae filiae Joannis Pelda ex Stvěřín“ (M). Matka Jana (křest 1773 „uxor ejus Anna“, bez rodného jména).",
-        "ROZPOR rodného příjmení: sňatek 1769 Adamusová × křty dětí 1780 a 1783 „nata Tomsowa (?)“ × sňatek syna 1806 „Ko…rová (?)“ – možný 2. sňatek Františka 1777–1780 (neověřeno); matkou Jana (1773) je nejspíš Anna Adamusová (K+)."
+        "Zemřela 24. 3. 1779 v Lažanech č. 15: „Tiukal Francisci casarii Anna uxor“, 30 let (M; → asi 1749). Děti: Jan (1773), Kateřina (1776), Václav (1777, † 29. 6. 1779).",
+        "ROZPOR VYŘEŠEN (Zámrsk 8): František se 6. 6. 1779 jako vdovec oženil podruhé – s Annou, dcerou † Jana Buriánka, chalupníka ze Čtveřína (O 5297, M); ve křtech jejích dětí (Alžběta 1780, Václav 1783) „nata Tomšová“ (druhý, menší ROZPOR). „Ko…rová“ v oddacím zápisu syna 1806 je zřejmě nepřesnost. Matkou Jana (*1773) je tedy 1. manželka Anna Adamusová."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)",
-        "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N/O 1663–1784 (sign. 5296), N pag. 364, snímek 187 vlevo (24. 5. 1773)"
+        "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N/O 1663–1784 (sign. 5296), N pag. 364, snímek 187 vlevo (24. 5. 1773)",
+        "SOA Zámrsk, Sbírka matrik, fara Přepeře, Z/O 1773–1784 (sign. 5297), Z snímek 13 vpravo (24. 3. 1779)"
       ],
       scans: [
         {"f":"img/1769_O_Tukal_Frantisek_Adamusova_Anna_Prepere.jpg","t":"Sňatek s Františkem Ťukalem, Přepeře 1769"},
-        {"f":"img/1773_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 1773"}
+        {"f":"img/1773_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 1773"},
+        {"f":"img/1779_Z_Tukalova_Anna_Lazany.jpg","t":"Úmrtí 24. 3. 1779, Lažany č. 15"}
       ]
     },
     {
@@ -11068,7 +11078,8 @@ window.RODOKMEN = {
       spouse: "katerina_mz0",
       occ: "chalupník (casarius) / baráčník v Ohrazenicích č. 8",
       notes: [
-        "Chalupník (casarius) v Ohrazenicích č. 8 (panství Rohozec); otec Jana (křest 9. 1. 1774, M). Při sňatku syna 3. 6. 1794 už nežil („syn po † Janovi Mrázovi, baráčníku“, M). Synem snad i Václav (*30. 6. 1776, č. 8 – K)."
+        "Chalupník (casarius) v Ohrazenicích č. 8 (panství Rohozec); otec Jana (křest 9. 1. 1774, M). Při sňatku syna 3. 6. 1794 už nežil („syn po † Janovi Mrázovi, baráčníku“, M). Synem snad i Václav (*30. 6. 1776, č. 8 – K).",
+        "Manželka Kateřina – rodné příjmení ve křtech dětí pokaždé jinak: „nata Prošniková“ (~1779), „Jelínková“ (29. 7. 1781), „Kopušilová (?)“ (25. 8. 1782) – ROZPOR, rozhodne oddací zápis (nenalezen)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
@@ -11135,11 +11146,11 @@ window.RODOKMEN = {
       id: "jakub_ad",
       name: "Jakub Adamus",
       line: "fukal",
-      cert: "K",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
       spouse: "anna_ad",
       notes: [
-        "KANDIDÁT (K+): otec Anny, která se 26. 11. 1769 vdala za Františka Ťukala („filia Jacobi Adamus ex Lažan“, M zápis); předkem je, pokud tato Anna je matkou Jana Ťukala (*1773) – viz ROZPOR u Anny. Z Lažan."
+        "otec Anny, která se 26. 11. 1769 vdala za Františka Ťukala („filia Jacobi Adamus ex Lažan“, M zápis). Anna je matkou Jana Ťukala (*1773) – 2. manželka Františka se jmenovala také Anna (× 1779), viz karta Anny. Z Lažan."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)"
@@ -11153,11 +11164,11 @@ window.RODOKMEN = {
       name: "Anna Adamusová",
       maiden: "Peldová",
       line: "fukal",
-      cert: "K",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
       spouse: "jakub_ad",
       notes: [
-        "KANDIDÁT (K+): matka Anny Ťukalové – „matris Annae filiae Joannis Pelda ex Stvěřín“ (Čtveřín) v oddacím zápisu 1769 (M zápis; vazba jako u Jakuba Adamuse)."
+        "matka Anny Ťukalové – „matris Annae filiae Joannis Pelda ex Stvěřín“ (Čtveřín) v oddacím zápisu 1769 (M)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)"
