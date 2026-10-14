@@ -10663,19 +10663,25 @@ window.RODOKMEN = {
       name: "Jan Tukal (Ťukal)",
       line: "fukal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      b: {"date":"neznámé (asi 1776)","year":1776,"approx":true},
       d: {"date":"1833–1851","year":1851,"approx":true},
+      father: "franc_tk",
+      mother: "anna_tk",
       spouse: "katerina_t3",
       occ: "domkář (zahradník ?) v Lažanech č. 26 (panství Hrubá Skála)",
+      marriage: "4. 8. 1806, Mašov (fara Turnov) – s Kateřinou Horáčkovou",
       notes: [
-        "Domkář / zahradník (?) v Lažanech č. 26 (fara Přepeře, panství Hrubá Skála); otec Jana Ťukala st. (křest 6. 10. 1813). Žil 18. 2. 1833 – dal souhlas ke sňatku syna („Ja otec Jan Ťukal svoluji“); při křtu vnuka 1851 už nežil (M)."
+        "Domkář / zahradník (?) v Lažanech č. 26 (fara Přepeře, panství Hrubá Skála); otec Jana Ťukala st. (křest 6. 10. 1813). Žil 18. 2. 1833 – dal souhlas ke sňatku syna („Ja otec Jan Ťukal svoluji“); při křtu vnuka 1851 už nežil (M).",
+        "Oddán 4. 8. 1806 v Mašově (fara Turnov, kaplan P. Car. Kratochvíle ?): „Jan, syn Franc[e] Ťukala, chal. (?) z Lažan, a Anny Ko…rové (?) z Lažan“, 30 let, svobodný, s Kateřinou, dcerou Václava Horáčka, formana (?) z Mašova, a Anny Vlož…ové (?) z L…, 22 let; svědci Franc Jankův (?) z Turnova a Josef Šurýš (?) (M). Úmrtí v Z Přepeře, Lažany I 1831 – X 1852 není."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 1804–1880 (sign. 5822), oddíl Mašov, snímek 133 vlevo (4. 8. 1806)"
       ],
       scans: [
+        {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek s Kateřinou Horáčkovou, Mašov 4. 8. 1806"},
         {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 6. 10. 1813"},
         {"f":"img/1833_O_Tukal_Jan_Mrazova_Terezie_Ohrazenice.jpg","t":"Sňatek syna Jana (souhlas otce), Ohrazenice 1833"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
@@ -10687,19 +10693,23 @@ window.RODOKMEN = {
       maiden: "Horáčková",
       line: "fukal",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (asi 1784)","year":1784,"approx":true},
       father: "vaclav_hc",
       mother: "anna_hc",
       spouse: "jan_t3",
+      marriage: "4. 8. 1806, Mašov – s Janem Ťukalem",
       notes: [
-        "Manželka Jana Ťukala z Lažan č. 26; dcera Václava Horáčka, formana (?) / nájemníka z Mašova č. 18 (1813) / č. 16 (1833), a matky Anny (křest syna Jana 1813, sňatek syna 1833 – M). Mašov = dnes část Turnova."
+        "Manželka Jana Ťukala z Lažan č. 26; dcera Václava Horáčka, formana (?) / nájemníka z Mašova č. 18 (1813) / č. 16 (1833), a matky Anny (křest syna Jana 1813, sňatek syna 1833 – M). Mašov = dnes část Turnova.",
+        "Oddána 4. 8. 1806 v Mašově jako svobodná, 22 let (M)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 1804–1880 (sign. 5822), oddíl Mašov, snímek 133 vlevo (4. 8. 1806)"
       ],
       scans: [
+        {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek s Janem Ťukalem, Mašov 4. 8. 1806"},
         {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 6. 10. 1813"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
       ]
@@ -10715,7 +10725,7 @@ window.RODOKMEN = {
       occ: "chalupník v Ohrazenicích č. 8 (panství Hrubá Skála)",
       notes: [
         "Chalupník v Ohrazenicích (Wohrazenicích) č. 8; otec Terezie (křest 17. 10. 1813, sňatek 1833 – M). Při křtu vnuka 1851 už nežil („† Jan Mrázek, nádeník z Wohrazenic N. 40, panství Rohozec“).",
-        "Pozor: 1848 mají dvě dcery „Jana Mráze, chalupníka z Ohrazenic č. 8“ za matku Marii roz. Zabulandovou – buď 2. manželka, nebo jiný Jan Mráz (K)."
+        "KANDIDÁT vysvětlení (K): 30. 1. 1821 se v Ohrazenicích č. 8 oženil „Jan, vlastní syn Jana Mráze, chalupníka“, 22 let, s Marií, dcerou Václava …, chalupníka z Příšovic č. 52 (O 5101 sn. 128) – v č. 8 tedy žili dva Janové Mrázové; „Marie roz. Zabulandová“ (1848) je nejspíš manželka syna, ne 2. manželka našeho Jana."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
@@ -10840,24 +10850,63 @@ window.RODOKMEN = {
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
       ],
       scans: [
-        {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest vnuka Jana, Lažany 1813"}
+        {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest vnuka Jana, Lažany 1813"},
+        {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek dcery Kateřiny s Janem Ťukalem, Mašov 1806"}
       ]
     },
     {
       id: "anna_hc",
       name: "Anna Horáčková",
+      maiden: "Vlož…ová (?)",
       line: "fukal",
       cert: "M",
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
       spouse: "vaclav_hc",
       notes: [
-        "Manželka Václava Horáčka z Mašova; matka Kateřiny Ťukalové (křest vnuka Jana 1813 – „a matky Anny“, M). Rodné příjmení neznámé."
+        "Manželka Václava Horáčka z Mašova; matka Kateřiny Ťukalové (křest vnuka Jana 1813 – „a matky Anny“, M). Rodné příjmení neznámé.",
+        "V oddacím zápisu dcery 1806 „Anny Vlož…ové (?) z L…“ – rodné příjmení a obec nejisté (M)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)"
       ],
       scans: [
         {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest vnuka Jana, Lažany 1813"}
+      ]
+    },
+    {
+      id: "franc_tk",
+      name: "František (Franc) Ťukal",
+      line: "fukal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      spouse: "anna_tk",
+      occ: "chalupník (?) v Lažanech",
+      notes: [
+        "Chalupník (?) z Lažan (fara Přepeře, panství Hrubá Skála); otec Jana Ťukala nejst. – oddací zápis syna 4. 8. 1806 v Mašově: „Jan, syn Franc[e] Ťukala, chal. (?) z Lažan“ (M). Datum narození je odhad."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 1804–1880 (sign. 5822), oddíl Mašov, snímek 133 vlevo (4. 8. 1806)"
+      ],
+      scans: [
+        {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek syna Jana, Mašov 4. 8. 1806"}
+      ]
+    },
+    {
+      id: "anna_tk",
+      name: "Anna Ťukalová",
+      maiden: "Ko…rová (?)",
+      line: "fukal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      spouse: "franc_tk",
+      notes: [
+        "Manželka Františka Ťukala z Lažan; „Anny Ko…rové (?) z Lažan“ v oddacím zápisu syna Jana 1806 (M; příjmení nedočteno)."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 1804–1880 (sign. 5822), oddíl Mašov, snímek 133 vlevo (4. 8. 1806)"
+      ],
+      scans: [
+        {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek syna Jana, Mašov 4. 8. 1806"}
       ]
     }
   ]
