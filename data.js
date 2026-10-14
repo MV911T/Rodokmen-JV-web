@@ -843,7 +843,8 @@ window.RODOKMEN = {
         {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"},
         {"f":"img/1902_N_Votava_Josef_sn406_otec_matka.jpg","t":"Křest syna Josefa, Souš 1902 – rodiče Václav Votava a Barbora Zelenková"},
         {"f":"img/1901_O_Votava_Vaclav_Zelenka_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy (vdovce po Barboře Lodlové † 25. 11. 1900) a Barbory Zelenkové, Souš 5. 5. 1901"},
-        {"f":"img/1904_N_Votava_Anna_Sous.jpg","t":"Křest dcery Anny (z 2. manželství), Souš 1904"}
+        {"f":"img/1904_N_Votava_Anna_Sous.jpg","t":"Křest dcery Anny (z 2. manželství), Souš 1904"},
+        {"f":"img/1899_N_Votava_Vaclav_Sous_vlevo.jpg","t":"Křest syna Václava Votavy, Souš 1899 – matrika"}
       ]
     },
     {
@@ -882,7 +883,8 @@ window.RODOKMEN = {
         {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 16. 7. 1894 – ženich"},
         {"f":"img/1894_O_Votava_Vaclav_Lodl_Barbora_Sous_nevesta.jpg","t":"Sňatek Václava Votavy a Barbory Lodlové, Souš 1894 – nevěsta, podpis otce Martina Lodla"},
         {"f":"img/1873_krest_barbora_lodlova_osek.jpg","t":"Křest Barbory Lodlové, Osek 27. 1. 1873"},
-        {"f":"img/1901_O_Votava_Vaclav_Zelenka_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy (vdovce po Barboře Lodlové † 25. 11. 1900) a Barbory Zelenkové, Souš 5. 5. 1901"}
+        {"f":"img/1901_O_Votava_Vaclav_Zelenka_Barbora_Sous_zenich.jpg","t":"Sňatek Václava Votavy (vdovce po Barboře Lodlové † 25. 11. 1900) a Barbory Zelenkové, Souš 5. 5. 1901"},
+        {"f":"img/1899_N_Votava_Vaclav_Sous_vlevo.jpg","t":"Křest syna Václava Votavy, Souš 1899 – matrika"}
       ]
     },
     {
@@ -1708,7 +1710,8 @@ window.RODOKMEN = {
         {"f":"img/1825_krest_matej_cervenka_hredle_a.jpg","t":"Křest Matěje Červenky, Hředle 1825 – rodiče"},
         {"f":"img/1825_krest_matej_cervenka_hredle_b.jpg","t":"Křest Matěje Červenky, Hředle 1825 – matka, kmotři"},
         {"f":"img/1851_snatek_matej_cervenka_zdice_a.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové, Zdice 25. 11. 1851"},
-        {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"}
+        {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"},
+        {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest syna Václava Červenky, Hředle 1868 – otec"}
       ]
     },
     {
@@ -1737,7 +1740,8 @@ window.RODOKMEN = {
         {"f":"img/1851_snatek_matej_cervenka_zdice_a.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové, Zdice 25. 11. 1851"},
         {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"},
         {"f":"img/1822_krest_antonie_divisova_cernin_a.jpg","t":"Křest Antonie Divišové, Černín 1822"},
-        {"f":"img/1822_krest_antonie_divisova_cernin_b.jpg","t":"Křest Antonie Divišové 1822 – rodiče, kmotři"}
+        {"f":"img/1822_krest_antonie_divisova_cernin_b.jpg","t":"Křest Antonie Divišové 1822 – rodiče, kmotři"},
+        {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest syna Václava Červenky, Hředle 1868 – otec"}
       ]
     },
     {
@@ -1770,7 +1774,9 @@ window.RODOKMEN = {
         {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"},
         {"f":"img/1807_snatek_matej_divis_zdice_a.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové, Zdice 28. 4. 1807 – ženich"},
         {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"},
-        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest Matěje Diviše, Zdice VI 1776"}
+        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest Matěje Diviše, Zdice VI 1776"},
+        {"f":"img/1822_krest_antonie_divisova_cernin_a.jpg","t":"Křest dcery Antonie Divišové, Černín 1822"},
+        {"f":"img/1822_krest_antonie_divisova_cernin_b.jpg","t":"Křest dcery Antonie Divišové 1822 – rodiče, kmotři"}
       ]
     },
     {
@@ -1800,7 +1806,9 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1807_snatek_matej_divis_zdice_a.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové, Zdice 28. 4. 1807 – ženich"},
         {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"},
-        {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest Josefy Merhautové, Zdice 18. 3. 1791"}
+        {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest Josefy Merhautové, Zdice 18. 3. 1791"},
+        {"f":"img/1822_krest_antonie_divisova_cernin_a.jpg","t":"Křest dcery Antonie Divišové, Černín 1822"},
+        {"f":"img/1822_krest_antonie_divisova_cernin_b.jpg","t":"Křest dcery Antonie Divišové 1822 – rodiče, kmotři"}
       ]
     },
     {
@@ -1831,7 +1839,8 @@ window.RODOKMEN = {
         {"f":"img/rodopis_cervenka_2.jpg","t":"Rodopis Červenků, s. 2"},
         {"f":"img/rodopis_cervenka_listice.jpg","t":"Rodopis Červenků – rodina na Lištici"},
         {"f":"img/1825_krest_matej_cervenka_hredle_a.jpg","t":"Křest Matěje Červenky, Hředle 1825 – rodiče"},
-        {"f":"img/1811_O_Cervenka_Jakub_Skalova_Veronika_Vinarice28.jpg","t":"Sňatek Jakuba Červenky a Veroniky Skálové, Vinařice č. 28, 24. 2. 1811"}
+        {"f":"img/1811_O_Cervenka_Jakub_Skalova_Veronika_Vinarice28.jpg","t":"Sňatek Jakuba Červenky a Veroniky Skálové, Vinařice č. 28, 24. 2. 1811"},
+        {"f":"img/1825_krest_matej_cervenka_hredle_b.jpg","t":"Křest syna Matěje Červenky, Hředle 1825 – matka, kmotři"}
       ]
     },
     {
@@ -1915,8 +1924,8 @@ window.RODOKMEN = {
       notes: [
         "Rozená Kliková (křest dcery Veroniky 1791, M: „Ewa rozená Klikowa“); z Býkoše, panství Suchomasty (křest vnuka Matěje 1825). ROZPOR: strojopisný rodopis uvádí „Kalousová“ – platí křest.",
         "Oddána 16. 9. 1770 v Borku s Jiřím Skálou z Lounína jako „virgo Eva, propria filia Wenceslai Klika ex pago Bikosch“ (M). Manželka Jiřího Skály ve Vinařicích; děti Jan (21. 5. 1781, č. 28), Jiří (IV 1789, č. 37) a Veronika (VIII 1791, č. 27 ?); děti 1771–1780 zatím nenalezeny (Borek/Tmaň).",
-        "KANDIDÁT původu: Klikové z Býkoše jsou ve stromu i jinou větví (Jan Klika, sedlák v Býkoši č. 10, × Kateřina – děti od 1776; Karel Klika *1880 Býkoš). Je-li Eva z téže rodiny, šlo by o další dvojí původ – neověřeno. V Býkoši žilo víc Kliků – sedláci Jan (č. 10), Matěj a Václav (dcery provdané 1786, 1787). Skálové z Vinařic měli vazby na Býkoš už 1755 (Matěj Skála z Vinařic kmotrem v Býkoši).",
-        "Pokřtěna 10./11. 12. 1753 v Býkoši (fara Borek, Borek 03 sn. 26 vlevo, str. 46): „Eva, dcera Stanislava Kliky a Kateřiny“, kmotři Lidmila Nováková ze Suchomast, Anna Kolářková z Býkoše, Stanislav Klika z Býkoše (M zápis). Ztotožnění s nevěstou 1770 D: (1) starší sestra Eva *20. 12. 1733 (Václav × Kateřina) se už 25. (?) 11. 1752 v Borku vdala za Antonína Štěcha z Hostomic („virgo Eva propria filia Wenceslai Klika e pago Bikoss“) – rejstřík O Borek 1748–73 zná Evu Klikovou jen dvakrát (Štěch 1752, Skála 1770); (2) jiná Eva Kliková z Býkoše 1748–1770 se nenarodila; (3) Václav × Kateřina (1733–1752) a „Stanislav“ × Kateřina (1753–1759) mají tutéž matku a tytéž kmotry; Anna Kolářková je kmotra 1753 i družička 1770. ROZPOR jména otce (křest 1753 „Stanislav“, sňatek 1770 „Václav“) trvá – Stanislav Klika ve faře Borek 1710–1773 jinak neexistuje."
+        "Pokřtěna 10./11. 12. 1753 v Býkoši (fara Borek, Borek 03 sn. 26 vlevo, str. 46): „Eva, dcera Stanislava Kliky a Kateřiny“, kmotři Lidmila Nováková ze Suchomast, Anna Kolářková z Býkoše, Stanislav Klika z Býkoše (M zápis). Ztotožnění s nevěstou 1770 D: (1) starší sestra Eva *20. 12. 1733 (Václav × Kateřina) se už 25. (?) 11. 1752 v Borku vdala za Antonína Štěcha z Hostomic („virgo Eva propria filia Wenceslai Klika e pago Bikoss“) – rejstřík O Borek 1748–73 zná Evu Klikovou jen dvakrát (Štěch 1752, Skála 1770); (2) jiná Eva Kliková z Býkoše 1748–1770 se nenarodila; (3) Václav × Kateřina (1733–1752) a „Stanislav“ × Kateřina (1753–1759) mají tutéž matku a tytéž kmotry; Anna Kolářková je kmotra 1753 i družička 1770. ROZPOR jména otce (křest 1753 „Stanislav“, sňatek 1770 „Václav“) trvá – Stanislav Klika ve faře Borek 1710–1773 jinak neexistuje.",
+        "KANDIDÁT původu: Klikové z Býkoše jsou ve stromu i jinou větví (Jan Klika, sedlák v Býkoši č. 10, × Kateřina – děti od 1776; Karel Klika *1880 Býkoš). Je-li Eva z téže rodiny, šlo by o další dvojí původ – neověřeno. V Býkoši žilo víc Kliků – sedláci Jan (č. 10), Matěj a Václav (dcery provdané 1786, 1787). Skálové z Vinařic měli vazby na Býkoš už 1755 (Matěj Skála z Vinařic kmotrem v Býkoši)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Všeradice, kniha Všeradice 02 (7907, N 1784–1799), oddíl Vinařice, snímek 39 vlevo (VIII 1791) – https://ebadatelna.soapraha.cz/d/7907/39",
@@ -2282,7 +2291,9 @@ window.RODOKMEN = {
         {"f":"img/1841_zemreni_Votavova_Katerina_Flemrova_Techobuz.jpg","t":"Úmrtí Kateřiny Votavové, Těchobuz 1841"},
         {"f":"img/1834_krest_Votavova_Katerina_Techobuz.jpg","t":"Křest dcery Kateřiny, Těchobuz 1834"},
         {"f":"img/1815_O_Votava_Jan_Hamrova_Katerina_Jetrichovec.jpg","t":"Sňatek Jana Votavy a Kateřiny Hamrové (Flemrové), Jetřichovec 10. 6. 1815"},
-        {"f":"img/1793_N_Hamrova_Katerina_Tucapy.jpg","t":"Křest Kateřiny Hamrové, Tučapy č. 51, 29. 4. 1793"}
+        {"f":"img/1793_N_Hamrova_Katerina_Tucapy.jpg","t":"Křest Kateřiny Hamrové, Tučapy č. 51, 29. 4. 1793"},
+        {"f":"img/1816_N_Votava_Vojtech_Jetrichovec.jpg","t":"Křest syna Vojtěcha Votavy, Jetřichovec č. 10, 1816"},
+        {"f":"img/1819_N_Votava_Matej_Jetrichovec.jpg","t":"Křest syna Matěje Votavy, Jetřichovec č. 10, 1819"}
       ]
     },
     {
@@ -2407,7 +2418,8 @@ window.RODOKMEN = {
         {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"},
         {"f":"img/1839_O_Snejdr_Vaclav_Sulcova_Katerina.jpg","t":"Sňatek Václava Šnejdra a Kateřiny Šulcové, Rožďalovice 5. 2. 1839"},
         {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874 (dítě: Františka Tůkalová)"},
-        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
+        {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest dcery Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"}
       ]
     },
     {
@@ -2441,7 +2453,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest Martina Lodla, Osek 1849 – otec Pavel Lodl"},
         {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
-        {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"}
+        {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"},
+        {"f":"img/1849_krest_martin_lodl_osek_matka.jpg","t":"Křest syna Martina Lodla, Osek 1849 – matka"}
       ]
     },
     {
@@ -2468,7 +2481,9 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"},
-        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl)"}
+        {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl)"},
+        {"f":"img/1849_krest_martin_lodl_osek_matka.jpg","t":"Křest syna Martina Lodla, Osek 1849 – matka"},
+        {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest syna Martina Lodla, Osek 1849 – otec Pavel Lodl"}
       ]
     },
     {
@@ -2695,8 +2710,8 @@ window.RODOKMEN = {
       occ: "baráčník v Kosíku č. 55 (?)",
       notes: [
         "Otec Jana Ťukala (*~1845).",
-        "KANDIDÁT původu: 14. 11. 1848 se v Ohrazenicích u Turnova č. 8 (fara Přepeře, SOA Zámrsk, O 5814 sn. 107) oženil Jiří Ťůkal (24 let), syn Jana Ťůkala, chalupníka z …šina (?) č. 34 (panství Svijany), a Marie roz. … Kořánové (?) ze Soběslavic č. 27 (panství Svijany; dřívější čtení „z Vlastibořic“ chybné – přečteno znovu na výřezu), s Annou, dcerou Jana Mráze z Ohrazenic č. 8 – možná bratr Jana st. a sestra Terezie; nedoloženo. V Ohrazenicích 1834–1850 sňatek Jana × Terezie není.",
         "SOA Litoměřice, fara Vlastibořice (Litoměřice 17–18): oddavky oddíl Vlastibořice 1800 – II 1827 a Jivina 1829 – XI 1847 bez Ťukala; křty Jivina X 1812 – III 1817 a Vlastibořice I 1824 – III 1825 bez Ťukala; dům č. 34 v Jivině kolem 1815 neexistoval → „…šina č. 34“ asi není Jivina.",
+        "KANDIDÁT původu: 14. 11. 1848 se v Ohrazenicích u Turnova č. 8 (fara Přepeře, SOA Zámrsk, O 5814 sn. 107) oženil Jiří Ťůkal (24 let), syn Jana Ťůkala, chalupníka z …šina (?) č. 34 (panství Svijany), a Marie roz. … Kořánové (?) ze Soběslavic č. 27 (panství Svijany; dřívější čtení „z Vlastibořic“ chybné – přečteno znovu na výřezu), s Annou, dcerou Jana Mráze z Ohrazenic č. 8 – možná bratr Jana st. a sestra Terezie; nedoloženo. V Ohrazenicích 1834–1850 sňatek Jana × Terezie není.",
         "KANDIDÁT – rodiče (pokud je Jan st. bratrem Jiřího): Jan Ťukal, chalupník „z Kamení (?)“, 28 let (*~1779), × 10. 11. 1807 v Soběslavicích č. 27 (fara Vlastibořice) Marie, 22 let (*~1785), dcera Jakuba Hořů (Hoř ?), sedláka ze Soběslavic č. 27, panství Svijany, a Kateřiny roz. Louvinové (?) (dcera † Jana, chalupníka z Kamení č. 1); svědci František Krejzl (?) z Vlastibořic a Václav Šťastný (?), sedlák z Lažan (panství Hrubá Skála). SOA Litoměřice, NAD 856, O L180/9, sn. 36 (M). Rodiče Jiřího Ťůkala (sňatek 1848) – vazba na našeho Jana zatím jen dohad (křest Jana ~1815 nenalezen). Litoměřice 21: křty Soběslavice V 1809 – IV 1817 a Kamení X 1808 – III 1816 bez dětí Jana × Marie → rodina žila jinde („Hr?šina č. 34“, neurčeno). Sestra Marie: Ludmila (č. 27, × 1811 Václav Fanta, krejčí); dědic č. 27 asi bratr Václav Hoř × Alžběta Šimonková."
       ],
       sources: [
@@ -2752,7 +2767,8 @@ window.RODOKMEN = {
         {"f":"img/1822_N_Sulcova_Katerina_Zitovlice.jpg","t":"Křest Kateřiny Šulcové, Žitovlice č. 8, 22. 12. 1822"},
         {"f":"img/1839_O_Snejdr_Vaclav_Sulcova_Katerina.jpg","t":"Sňatek Václava Šnejdra a Kateřiny Šulcové, Rožďalovice 5. 2. 1839"},
         {"f":"img/1874_krest_marie_tukalova_kosik_a.jpg","t":"Křest Marie Ťukalové, Kosík 1874 (dítě: Františka Tůkalová)"},
-        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
+        {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest dcery Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"}
       ]
     },
     {
@@ -2904,7 +2920,8 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Volduchy, snímek 80 – https://www.portafontium.eu/iipimage/30066671/osek-05_0800-n"
       ],
       scans: [
-        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři (dítě: Veronika Forejtová)"}
+        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři (dítě: Veronika Forejtová)"},
+        {"f":"img/1783_krest_veronika_trgjk_volduchy67_osek05_sn80.jpg","t":"Křest dcery Veroniky Trgjkové, Volduchy 1783"}
       ]
     },
     {
@@ -2996,9 +3013,9 @@ window.RODOKMEN = {
         "Otcovství doloženo oddacím zápisem syna Jana 10. 6. 1815 v Jetřichovci (fara Pacov): „Jan, syn Martina Wottawy, sedláka (?)“, Jetřichovec č. 23 (?).",
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Letů (?)“ – zemřel před 1844.",
         "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno.",
+        "Fara Pacov prohledána celá (indexy všech obcí 1765–1842): křest Jana (~1788–1795), sňatek Martina × Terezie ani křest Martina (1765–1784) tam nejsou → Votavové přišli do Jetřichovce kolem 1815 odjinud. Další stopy: obec „Lstůh/Letůh“ a „Lomnice (?) č. 23“ (Krchova Lomná ?), kniha O Mladá Vožice 5647 (bez indexu před 1824). Třeboň 23: slovo ze sňatku 1844 na plném rozlišení „z L?tůh“ (Letůh / Lstůh, poslední písmeno h nebo k) – v lokalitách far Mladá Vožice, Cetoraz, Chýnov a Lukavec obec tohoto tvaru není; O Mladá Vožice 5647 (oddíly I–VII, 1785 – ~1796) bez Votavy i Marodové. ROZPOR věku Jana: 1815 „25 let“, 1844 „41 let“.",
         "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Syn Jan žil v Jetřichovci (č. 10) už 1816–1819 – úmrtí 1828 (č. 27, 60 let) a 1833 (Terezie, č. 42, 60 let) tak patří nejspíš Janovým rodičům; číslo 22 zatím nedoloženo.",
-        "Vyloučeno: „Martin Votava, jehlář v Lukavci č. 71“ (děti 1794–1804) je ve skutečnosti Martin Vokoun (Wokoun) – jiná rodina. Údaj „bývalý chalupník z Lstůh / Letůh (?)“ a „Terezie roz. Martina Marody též z Lstůh (?)“ pochází z 2. sňatku syna Jana (Těchobuz 6. 2. 1844) a patří tedy Votavům – obec neurčena (snad „z Luhů“ ?).",
-        "Fara Pacov prohledána celá (indexy všech obcí 1765–1842): křest Jana (~1788–1795), sňatek Martina × Terezie ani křest Martina (1765–1784) tam nejsou → Votavové přišli do Jetřichovce kolem 1815 odjinud. Další stopy: obec „Lstůh/Letůh“ a „Lomnice (?) č. 23“ (Krchova Lomná ?), kniha O Mladá Vožice 5647 (bez indexu před 1824). Třeboň 23: slovo ze sňatku 1844 na plném rozlišení „z L?tůh“ (Letůh / Lstůh, poslední písmeno h nebo k) – v lokalitách far Mladá Vožice, Cetoraz, Chýnov a Lukavec obec tohoto tvaru není; O Mladá Vožice 5647 (oddíly I–VII, 1785 – ~1796) bez Votavy i Marodové. ROZPOR věku Jana: 1815 „25 let“, 1844 „41 let“."
+        "Vyloučeno: „Martin Votava, jehlář v Lukavci č. 71“ (děti 1794–1804) je ve skutečnosti Martin Vokoun (Wokoun) – jiná rodina. Údaj „bývalý chalupník z Lstůh / Letůh (?)“ a „Terezie roz. Martina Marody též z Lstůh (?)“ pochází z 2. sňatku syna Jana (Těchobuz 6. 2. 1844) a patří tedy Votavům – obec neurčena (snad „z Luhů“ ?)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3020,8 +3037,8 @@ window.RODOKMEN = {
       spouse: "martin_v",
       notes: [
         "Matka Jana Votavy; „dcera Martina Marody / Mrkvy (?), podruha z Lom-nice / Lomné (?) č. 23“ (křest vnučky 1834, sňatek syna 1844).",
-        "KANDIDÁT původu: Marodové / Maredové žili v Krchově Lomné (fara Mladá Vožice) – 7. 5. 1787 tam Martin Mareda, krejčí z Radvanova, × Anna Vondráková z Lomné č. 16; vazba na Terezii neověřena. Lomná sousedí s Jetřichovicemi (sňatek Jakuba Loudy z Jetřichovic č. 13 do Lomné 1788).",
-        "Terezie † 1833 (60 let → *~1773) nemůže být dcerou Martina Maredy oddaného 1787 v Lomné (24 let) – buď starší Martin Maroda, nebo chybné věky. „Lom-nice č. 23“ (1834) / „z Lomnic č. 23“ (1836) – obec neověřena."
+        "Terezie † 1833 (60 let → *~1773) nemůže být dcerou Martina Maredy oddaného 1787 v Lomné (24 let) – buď starší Martin Maroda, nebo chybné věky. „Lom-nice č. 23“ (1834) / „z Lomnic č. 23“ (1836) – obec neověřena.",
+        "KANDIDÁT původu: Marodové / Maredové žili v Krchově Lomné (fara Mladá Vožice) – 7. 5. 1787 tam Martin Mareda, krejčí z Radvanova, × Anna Vondráková z Lomné č. 16; vazba na Terezii neověřena. Lomná sousedí s Jetřichovicemi (sňatek Jakuba Loudy z Jetřichovic č. 13 do Lomné 1788)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3116,7 +3133,8 @@ window.RODOKMEN = {
         {"f":"img/Techobuz_rustik_pk_127651_sn85R_fol74_1804_Vojtech_Michal_po_otci_Jakubovi_full.jpg","t":"Pozemková kniha Těchobuz 1804: Vojtěch Michal přebírá grunt č. 19 po zemřelém otci Jakubovi"},
         {"f":"img/Techobuz_rustik_pk_127651_sn91L_fol79v_1825_vyminek_Vojtech_a_Katerina_full.jpg","t":"Pozemková kniha Těchobuz 1825: výminek Vojtěcha a Kateřiny Michalových"},
         {"f":"img/1775_krest_Michal_Vojtech_Techobuz19_otec_Jakub_matka_Katerina_8806_sn57.jpg","t":"Křest Vojtěcha Michala, Těchobuz 19. 4. 1775"},
-        {"f":"img/1848_Z_Michal_Vojtech_Techobuz.jpg","t":"Úmrtí Vojtěcha Michala, výminkáře, Těchobuz č. 19, 13. 9. 1848"}
+        {"f":"img/1848_Z_Michal_Vojtech_Techobuz.jpg","t":"Úmrtí Vojtěcha Michala, výminkáře, Těchobuz č. 19, 13. 9. 1848"},
+        {"f":"img/1803_krest_Michal_Jan_Techobuz19_8824.jpg","t":"Křest syna Jana Michala, Těchobuz 1803"}
       ]
     },
     {
@@ -3145,7 +3163,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1805_krest_Michalova_Antonie_Techobuz_8824_sn30.jpg","t":"Křest dcery Antonie, Těchobuz 1805 – matka „Kateřina roz. Vojtová z Črmy“"},
-        {"f":"img/1848_Z_Michalova_Katerina_Techobuz.jpg","t":"Úmrtí Kateřiny Michalové, výminkářky, Těchobuz č. 19, 2. 10. 1848"}
+        {"f":"img/1848_Z_Michalova_Katerina_Techobuz.jpg","t":"Úmrtí Kateřiny Michalové, výminkářky, Těchobuz č. 19, 2. 10. 1848"},
+        {"f":"img/1803_krest_Michal_Jan_Techobuz19_8824.jpg","t":"Křest syna Jana Michala, Těchobuz 1803"}
       ]
     },
     {
@@ -3640,7 +3659,8 @@ window.RODOKMEN = {
         {"f":"img/1832_snatek_frantisek_klika_suchomasty_a.jpg","t":"Sňatek Františka Kliky a Anny Svobodové, Suchomasty 14. 2. 1832 – ženich"},
         {"f":"img/1832_snatek_frantisek_klika_suchomasty_b.jpg","t":"Sňatek Františka Kliky a Anny Svobodové 1832 – nevěsta, svědci"},
         {"f":"img/1803_krest_frantisek_klika_suchomasty_a.jpg","t":"Křest Františka Kliky, Suchomasty 6. 7. 1803"},
-        {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest Františka Kliky 1803 – kmotři"}
+        {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest Františka Kliky 1803 – kmotři"},
+        {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest syna Josefa Kliky 1834 – matka, kmotři"}
       ]
     },
     {
@@ -3791,7 +3811,8 @@ window.RODOKMEN = {
         "SOA Litoměřice, Sbírka matrik (NAD 856), sign. 150/11 (Souš, N), pag. 388, snímek 293"
       ],
       scans: [
-        {"f":"img/1873_N_Votava_Frantisek_Ser_Sous_otec_Frantisek.jpg","t":"Křest Františka Serafína Votavy, Souš 1873 – otec František"}
+        {"f":"img/1873_N_Votava_Frantisek_Ser_Sous_otec_Frantisek.jpg","t":"Křest Františka Serafína Votavy, Souš 1873 – otec František"},
+        {"f":"img/1874_N_Votava_Elisabeth_Sous_otec_Frantisek.jpg","t":"Křest dcery Alžběty Votavové, Souš 1874 – otec František"}
       ]
     },
     {
@@ -3897,7 +3918,9 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1776_snatek_karel_capek_dorota_cervinkova_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Doroty Červinkové, Hrubý Jeseník 20. 10. 1776"},
-        {"f":"img/1800_umrti_karel_capek_hruby_jesenik_a.jpg","t":"Úmrtí Karla Čapka, Hrubý Jeseník 6. 3. 1800"}
+        {"f":"img/1800_umrti_karel_capek_hruby_jesenik_a.jpg","t":"Úmrtí Karla Čapka, Hrubý Jeseník 6. 3. 1800"},
+        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_a.jpg","t":"Křest dcery Marie Čapkové, Hrubý Jeseník 1797"},
+        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_b.jpg","t":"Křest dcery Marie Čapkové, Hrubý Jeseník 1797 – rodiče, kmotři"}
       ]
     },
     {
@@ -4183,7 +4206,8 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, snímek 29 – https://www.portafontium.eu/iipimage/30066674/osek-08_0290-z"
       ],
       scans: [
-        {"f":"img/1800_umrti_anna_trgjk_osek83_osek08_sn29.jpg","t":"Úmrtí Anny Trgjkové, Osek 18. 4. 1800"}
+        {"f":"img/1800_umrti_anna_trgjk_osek83_osek08_sn29.jpg","t":"Úmrtí Anny Trgjkové, Osek 18. 4. 1800"},
+        {"f":"img/1782_krest_katerina_trgjk_osek.jpg","t":"Křest dcery Kateřiny Trgjkové, Osek 30. 6. 1782"}
       ]
     },
     {
@@ -4496,7 +4520,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 12, snímek 7 – https://www.mza.cz/actapublica/matrika/detail/4944"
       ],
       scans: [
-        {"f":"img/1851_N_Uhrice_5208_sn7_str12_Buchlovska_Mariana.jpg","t":"Křest Mariany Buchlovské, Uhřice 1851"}
+        {"f":"img/1851_N_Uhrice_5208_sn7_str12_Buchlovska_Mariana.jpg","t":"Křest Mariany Buchlovské, Uhřice 1851"},
+        {"f":"img/1881_N_Jelinek_Mariana_Uhrice_str158.jpg","t":"Křest dcery Mariany Jelínkové, Uhřice 1881"}
       ]
     },
     {
@@ -4655,7 +4680,9 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1797_snatek_vaclav_klika_katerina_slikova_suchomasty_a.jpg","t":"Druhý sňatek Václava Kliky s Kateřinou, Suchomasty 1797"},
-        {"f":"img/1797_O_Klika_Vaclav_Katerina_Suchomasty.jpg","t":"Sňatek Václava Kliky (vdovce) s Kateřinou Klikovou z Bykoše (?), 28. 6. 1797"}
+        {"f":"img/1797_O_Klika_Vaclav_Katerina_Suchomasty.jpg","t":"Sňatek Václava Kliky (vdovce) s Kateřinou Klikovou z Bykoše (?), 28. 6. 1797"},
+        {"f":"img/1803_krest_frantisek_klika_suchomasty_a.jpg","t":"Křest syna Františka Kliky, Suchomasty 6. 7. 1803"},
+        {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest syna Františka Kliky 1803 – kmotři"}
       ]
     },
     {
@@ -4683,7 +4710,9 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"},
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834 (dítě: František Klika)"},
-        {"f":"img/1797_O_Klika_Vaclav_Katerina_Suchomasty.jpg","t":"Sňatek Václava Kliky (vdovce) s Kateřinou Klikovou z Bykoše (?), 28. 6. 1797"}
+        {"f":"img/1797_O_Klika_Vaclav_Katerina_Suchomasty.jpg","t":"Sňatek Václava Kliky (vdovce) s Kateřinou Klikovou z Bykoše (?), 28. 6. 1797"},
+        {"f":"img/1803_krest_frantisek_klika_suchomasty_a.jpg","t":"Křest syna Františka Kliky, Suchomasty 6. 7. 1803"},
+        {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest syna Františka Kliky 1803 – kmotři"}
       ]
     },
     {
@@ -4826,7 +4855,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"},
-        {"f":"img/1879_O_Zettelmann_Anders_Polom.jpg","t":"Sňatek Františka Zettelmanna a Magdaleny Andersové, Polom 1879"}
+        {"f":"img/1879_O_Zettelmann_Anders_Polom.jpg","t":"Sňatek Františka Zettelmanna a Magdaleny Andersové, Polom 1879"},
+        {"f":"img/1884_N_Stepanka_Zettelmannova_Belotin.jpg","t":"Křest dcery Štěpánky Zettelmannové, Bělotín 1884"}
       ]
     },
     {
@@ -4903,7 +4933,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 02, pag. 19, snímek 20 – https://ebadatelna.soapraha.cz/d/9096/20"
       ],
       scans: [
-        {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"}
+        {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"},
+        {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest dcery Josefy Merhautové, Zdice 18. 3. 1791"}
       ]
     },
     {
@@ -4922,7 +4953,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138"
       ],
       scans: [
-        {"f":"img/1807_snatek_matej_divis_zdice_a.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové, Zdice 28. 4. 1807 – ženich (dítě: Josefa Divišová)"}
+        {"f":"img/1807_snatek_matej_divis_zdice_a.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové, Zdice 28. 4. 1807 – ženich (dítě: Josefa Divišová)"},
+        {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest dcery Josefy Merhautové, Zdice 18. 3. 1791"}
       ]
     },
     {
@@ -4978,7 +5010,9 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 06 (O 1771–1788), snímek 17 – https://ebadatelna.soapraha.cz/d/5726/17"
       ],
       scans: [
-        {"f":"img/1776_snatek_karel_capek_dorota_cervinkova_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Doroty Červinkové, Hrubý Jeseník 20. 10. 1776"}
+        {"f":"img/1776_snatek_karel_capek_dorota_cervinkova_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Doroty Červinkové, Hrubý Jeseník 20. 10. 1776"},
+        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_a.jpg","t":"Křest dcery Marie Čapkové, Hrubý Jeseník 1797"},
+        {"f":"img/1797_krest_marie_capkova_hruby_jesenik_b.jpg","t":"Křest dcery Marie Čapkové, Hrubý Jeseník 1797 – rodiče, kmotři"}
       ]
     },
     {
@@ -5171,7 +5205,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1827_O_13138_sn281L_Hodejice_str14_Hrazdirek_Johann_Ambros_Apolonia_vdova_Jerabek.jpg","t":"Sňatek Jana Hrazdílka a Apolonie Ambrosové, Hodějice 1827"},
-        {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest Jana Hrazdílka, Hodějice 5. 5. 1790"}
+        {"f":"img/1790_N_13122_sn215_str197_Hodejice_Hrazdilek_Johann_c1_sloupce.jpg","t":"Křest Jana Hrazdílka, Hodějice 5. 5. 1790"},
+        {"f":"img/1827_N_13124_sn230_str26_Hrazdilek_Martin_Hodejice.jpg","t":"Křest syna Martina Hrazdílka, Hodějice 1827"}
       ]
     },
     {
@@ -5205,7 +5240,8 @@ window.RODOKMEN = {
         {"f":"img/1827_O_13138_sn281L_Hodejice_str14_Hrazdirek_Johann_Ambros_Apolonia_vdova_Jerabek.jpg","t":"Sňatek Jana Hrazdílka a Apolonie Jeřábkové roz. Ambrosové (vdovy), Hodějice 20. 2. 1827"},
         {"f":"img/1817_N_13123_sn364_str375_Hodejice_Jerabek_Franz_radky_pod_sebou.jpg","t":"Křest syna Františka Jeřábka, Hodějice 1817"},
         {"f":"img/1788_N_13122_sn123_str69_Hodejice_c59_Ambros_Apollonia_Anton_Martha.jpg","t":"Křest Apolonie Ambrosové, Hodějice 30. 1. 1788"},
-        {"f":"img/1816_O_13137_sn128_Hodejice_str156_Jerabek_Martin_Ambros_Apolonia.jpg","t":"První sňatek Apolonie s Martinem Jeřábkem, Hodějice 1816"}
+        {"f":"img/1816_O_13137_sn128_Hodejice_str156_Jerabek_Martin_Ambros_Apolonia.jpg","t":"První sňatek Apolonie s Martinem Jeřábkem, Hodějice 1816"},
+        {"f":"img/1827_N_13124_sn230_str26_Hrazdilek_Martin_Hodejice.jpg","t":"Křest syna Martina Hrazdílka, Hodějice 1827"}
       ]
     },
     {
@@ -5344,7 +5380,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 201, snímek 219 – https://www.mza.cz/actapublica/matrika/detail/1950"
       ],
       scans: [
-        {"f":"img/1827_O_13138_sn281L_Hodejice_str14_Hrazdirek_Johann_Ambros_Apolonia_vdova_Jerabek.jpg","t":"Sňatek Jana Hrazdílka a Apolonie Jeřábkové roz. Ambrosové (vdovy), Hodějice 20. 2. 1827 (dítě: Apolonie Hrazdílková)"}
+        {"f":"img/1827_O_13138_sn281L_Hodejice_str14_Hrazdirek_Johann_Ambros_Apolonia_vdova_Jerabek.jpg","t":"Sňatek Jana Hrazdílka a Apolonie Jeřábkové roz. Ambrosové (vdovy), Hodějice 20. 2. 1827 (dítě: Apolonie Hrazdílková)"},
+        {"f":"img/1788_N_13122_sn123_str69_Hodejice_c59_Ambros_Apollonia_Anton_Martha.jpg","t":"Křest dcery Apolonie Ambrosové, Hodějice 30. 1. 1788"}
       ]
     },
     {
@@ -5453,7 +5490,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1822_N_13124_sn286_str1_Herspice_Lanickova_Marianna_Willam_Magdalena.jpg","t":"Křest dcery Marianny, Heršpice 1822"},
-        {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek Pavla Láníčka a Magdaleny Willamové, Heršpice 8. 11. 1808"}
+        {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek Pavla Láníčka a Magdaleny Willamové, Heršpice 8. 11. 1808"},
+        {"f":"img/1812_N_13123_sn400_str412_Herspice_Lanickova_Katerina_radek_plne_rozl.jpg","t":"Křest dcery Kateřiny Láníčkové, Heršpice 18. 1. 1812"}
       ]
     },
     {
@@ -5581,7 +5619,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837"},
-        {"f":"img/1816_N_13123_sn407_str419_Herspice_c40_Kucera_Johann_Tobias_Lattrab_Katharina_radek_plne_rozl.jpg","t":"Křest Jana Kučery, Heršpice 10. 5. 1816"}
+        {"f":"img/1816_N_13123_sn407_str419_Herspice_c40_Kucera_Johann_Tobias_Lattrab_Katharina_radek_plne_rozl.jpg","t":"Křest Jana Kučery, Heršpice 10. 5. 1816"},
+        {"f":"img/1844_N_13124_sn327_str83_Kucera_Matous_Herspice_c40.jpg","t":"Křest syna Matouše Kučery, Heršpice 1844"}
       ]
     },
     {
@@ -5607,7 +5646,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837"},
-        {"f":"img/1814_N_13123_sn205_str212_Krenovice_c82_Spacilova_Veronika_radek_plne_rozl.jpg","t":"Křest Veroniky Spačilové, Křenovice 28. 1. 1814"}
+        {"f":"img/1814_N_13123_sn205_str212_Krenovice_c82_Spacilova_Veronika_radek_plne_rozl.jpg","t":"Křest Veroniky Spačilové, Křenovice 28. 1. 1814"},
+        {"f":"img/1844_N_13124_sn327_str83_Kucera_Matous_Herspice_c40.jpg","t":"Křest syna Matouše Kučery, Heršpice 1844"}
       ]
     },
     {
@@ -5725,7 +5765,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 212, snímek 205 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ],
       scans: [
-        {"f":"img/1805_O_13137_sn71_str78_Spacil_Frantisek_x_Marianna_Andreas_Zrunek_plne_rozl.jpg","t":"Sňatek Františka Spačila a Marianny Zrůnkové (?), Křenovice 7. 5. 1805"}
+        {"f":"img/1805_O_13137_sn71_str78_Spacil_Frantisek_x_Marianna_Andreas_Zrunek_plne_rozl.jpg","t":"Sňatek Františka Spačila a Marianny Zrůnkové (?), Křenovice 7. 5. 1805"},
+        {"f":"img/1814_N_13123_sn205_str212_Krenovice_c82_Spacilova_Veronika_radek_plne_rozl.jpg","t":"Křest dcery Veroniky Spačilové, Křenovice 28. 1. 1814"}
       ]
     },
     {
@@ -5754,7 +5795,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
-        {"f":"img/1807_krest_jan_nepomuk_vlasak_sykorice6_zbecno07_sn27_a.jpg","t":"Křest Jana Nepomuka Vlasáka, Sýkořice 8. 2. 1807"}
+        {"f":"img/1807_krest_jan_nepomuk_vlasak_sykorice6_zbecno07_sn27_a.jpg","t":"Křest Jana Nepomuka Vlasáka, Sýkořice 8. 2. 1807"},
+        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest syna Františka Vlasáka, Zbečno 2. 1. 1838"}
       ]
     },
     {
@@ -5780,7 +5822,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest Marie Novákové, Nová Huť 30. 6. 1807"},
-        {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"}
+        {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
+        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest syna Františka Vlasáka, Zbečno 2. 1. 1838"}
       ]
     },
     {
@@ -5807,7 +5850,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"},
-        {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest Martina Semence, Zbečno 8. 11. 1807"}
+        {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest Martina Semence, Zbečno 8. 11. 1807"},
+        {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest dcery Marie Semencové, Zbečno 28. 6. 1838"}
       ]
     },
     {
@@ -5830,7 +5874,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25"
       ],
       scans: [
-        {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"}
+        {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"},
+        {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest dcery Marie Semencové, Zbečno 28. 6. 1838"}
       ]
     },
     {
@@ -5860,7 +5905,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1813-1814_N_13123_sn403_str415_Herspice_c40_Tobias_Katharina_Lotrab_a_c20_Tobias_Inmann_Thekla_plne_rozl.jpg","t":"Heršpice 1813/14: Tobiáš × Kateřina Lotrabová (č. 40) a Tobiáš ml. × Tekla Hrabovská (č. 20)"},
         {"f":"img/1835_Z_13149_sn279_str310_Herspice40_Kucera_Tobias_68let_plne_rozl.jpg","t":"Úmrtí Tobiáše Kučery, Heršpice 28. 12. 1835"},
-        {"f":"img/1767_N_13121_sn201L_V-18_Kucera_Tobias_krest_Vaclav_x_Katerina_Herspice.jpg","t":"Kandidátní křest Tobiáše Kučery, Heršpice 18. 5. 1767"}
+        {"f":"img/1767_N_13121_sn201L_V-18_Kucera_Tobias_krest_Vaclav_x_Katerina_Herspice.jpg","t":"Kandidátní křest Tobiáše Kučery, Heršpice 18. 5. 1767"},
+        {"f":"img/1816_N_13123_sn407_str419_Herspice_c40_Kucera_Johann_Tobias_Lattrab_Katharina_radek_plne_rozl.jpg","t":"Křest syna Jana Kučery, Heršpice 10. 5. 1816"}
       ]
     },
     {
@@ -5880,7 +5926,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Heršpice, str. 419, snímek 407 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ],
       scans: [
-        {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837 (dítě: Jan Kučera)"}
+        {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837 (dítě: Jan Kučera)"},
+        {"f":"img/1816_N_13123_sn407_str419_Herspice_c40_Kucera_Johann_Tobias_Lattrab_Katharina_radek_plne_rozl.jpg","t":"Křest syna Jana Kučery, Heršpice 10. 5. 1816"}
       ]
     },
     {
@@ -5929,7 +5976,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1816_O_13137_sn128_Hodejice_str156_Jerabek_Martin_Ambros_Apolonia.jpg","t":"Sňatek Martina Jeřábka a Apolonie Ambrosové, Hodějice 22. 4. 1816"},
-        {"f":"img/1824_Z_13149_sn242L_str268_Hodejice148_Jerabek_Martin_umrti_plne_rozl.jpg","t":"Úmrtí Martina Jeřábka, Hodějice 22. 5. 1824"}
+        {"f":"img/1824_Z_13149_sn242L_str268_Hodejice148_Jerabek_Martin_umrti_plne_rozl.jpg","t":"Úmrtí Martina Jeřábka, Hodějice 22. 5. 1824"},
+        {"f":"img/1817_N_13123_sn364_str375_Hodejice_Jerabek_Franz_radky_pod_sebou.jpg","t":"Křest syna Františka Jeřábka, Hodějice 5. 10. 1817"}
       ]
     },
     {
@@ -5948,7 +5996,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960"
       ],
       scans: [
-        {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841 (dítě: Jakub Svoboda)"}
+        {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841 (dítě: Jakub Svoboda)"},
+        {"f":"img/1817_N_13123_sn408_str420_Herspice_Svoboda_Jakub_Tichy_Magdalena.jpg","t":"Křest syna Jakuba Svobody, Heršpice 20. 7. 1817"}
       ]
     },
     {
@@ -5967,7 +6016,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 420, snímek 408 – https://www.mza.cz/actapublica/matrika/detail/1951"
       ],
       scans: [
-        {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841 (dítě: Jakub Svoboda)"}
+        {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841 (dítě: Jakub Svoboda)"},
+        {"f":"img/1817_N_13123_sn408_str420_Herspice_Svoboda_Jakub_Tichy_Magdalena.jpg","t":"Křest syna Jakuba Svobody, Heršpice 20. 7. 1817"}
       ]
     },
     {
@@ -5991,7 +6041,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
       ],
       scans: [
-        {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"}
+        {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"},
+        {"f":"img/1819_N_13123_sn367_str378_Hodejice_c59_Hrabovsky_Josef_Georg_Schimonik_Magdalena.jpg","t":"Křest syna Josefa Hrabovského, Hodějice 8. 5. 1819"}
       ]
     },
     {
@@ -6014,7 +6065,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
       ],
       scans: [
-        {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"}
+        {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"},
+        {"f":"img/1819_N_13123_sn367_str378_Hodejice_c59_Hrabovsky_Josef_Georg_Schimonik_Magdalena.jpg","t":"Křest syna Josefa Hrabovského, Hodějice 8. 5. 1819"}
       ]
     },
     {
@@ -6069,7 +6121,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1772_oddani_vit_forejt_barbora_vdova_anderle_osek66_osek07_sn3.jpg","t":"Sňatek Víta Forejta a Barbory, vdovy po Vojtěchu Andrlovi, Osek 22. 7. 1772"},
         {"f":"img/1771_oddani_vojtech_andrle_barbora_cada_a_1772_duplikat_forejt_osek04_sn86.jpg","t":"První sňatek Barbory Čadové s Vojtěchem Andrlem (1771) a duplikát sňatku s Vítem Forejtem (1772)"},
-        {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"}
+        {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"},
+        {"f":"img/1781_krest_josef_forejt_osek66_osek05_sn14.jpg","t":"Křest syna Josefa Forejta, Osek 1781"}
       ]
     },
     {
@@ -6145,7 +6198,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1822_N_13124_sn286_str1_Herspice_Lanickova_Marianna_Willam_Magdalena.jpg","t":"Křest dcery Marianny, Heršpice 1822"},
-        {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek Pavla Láníčka a Magdaleny Willamové, Heršpice 8. 11. 1808"}
+        {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek Pavla Láníčka a Magdaleny Willamové, Heršpice 8. 11. 1808"},
+        {"f":"img/1812_N_13123_sn400_str412_Herspice_Lanickova_Katerina_radek_plne_rozl.jpg","t":"Křest dcery Kateřiny Láníčkové, Heršpice 18. 1. 1812"}
       ]
     },
     {
@@ -6201,7 +6255,8 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 201, snímek 219 – https://www.mza.cz/actapublica/matrika/detail/1950"
       ],
       scans: [
-        {"f":"img/1791_N_13122_sn219_str201_Hodejice_Ambros_Felix_Anton_Martha_Hrazdirek_Theresia_Lorenz.jpg","t":"Křest syna Felixe Ambrose, Hodějice 1791"}
+        {"f":"img/1791_N_13122_sn219_str201_Hodejice_Ambros_Felix_Anton_Martha_Hrazdirek_Theresia_Lorenz.jpg","t":"Křest syna Felixe Ambrose, Hodějice 1791"},
+        {"f":"img/1788_N_13122_sn123_str69_Hodejice_c59_Ambros_Apollonia_Anton_Martha.jpg","t":"Křest dcery Apolonie Ambrosové, Hodějice 30. 1. 1788"}
       ]
     },
     {
@@ -6326,7 +6381,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/Techobuz_rustik_pk_127651_sn46R_fol35_dole_1817_odpis_Tomas_Koc_synu_Martinovi.jpg","t":"Pozemková kniha Těchobuz 1817: Tomáš Koč postupuje grunt č. 13 synovi Martinovi"},
-        {"f":"img/1804_oddani_Koc_Martin_Terezie_Techobuz13_47_8824_sn7_full.jpg","t":"Sňatek Martina Koče a Terezie, Těchobuz XI 1804"}
+        {"f":"img/1804_oddani_Koc_Martin_Terezie_Techobuz13_47_8824_sn7_full.jpg","t":"Sňatek Martina Koče a Terezie, Těchobuz XI 1804"},
+        {"f":"img/1809_krest_Kocova_Katerina_Techobuz13_otec_Martin_matka_Terezie_8824_sn35_full.jpg","t":"Křest dcery Kateřiny Kočové, Těchobuz 13. 4. 1809"}
       ]
     },
     {
@@ -6377,7 +6433,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1772_oddani_vit_forejt_barbora_vdova_anderle_osek66_osek07_sn3.jpg","t":"Sňatek Víta Forejta a Barbory, vdovy po Vojtěchu Andrlovi, Osek 22. 7. 1772"},
-        {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"}
+        {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"},
+        {"f":"img/1781_krest_josef_forejt_osek66_osek05_sn14.jpg","t":"Křest syna Josefa Forejta, Osek 1781"}
       ]
     },
     {
@@ -6408,7 +6465,8 @@ window.RODOKMEN = {
         {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"},
         {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"},
         {"f":"img/1743_O_Forejt_Pavel_Barbora_Rokycany.jpg","t":"Sňatek Pavla Forejta s Barborou Riedlbauerovou (?), Rokycany 1743"},
-        {"f":"img/1772_Z_Forejt_Pavel_Barbora_Volduchy.jpg","t":"Úmrtí Pavla (8. 9.) a Barbory (14. 9. 1772) Forejtových, Volduchy č. 51"}
+        {"f":"img/1772_Z_Forejt_Pavel_Barbora_Volduchy.jpg","t":"Úmrtí Pavla (8. 9.) a Barbory (14. 9. 1772) Forejtových, Volduchy č. 51"},
+        {"f":"img/1753_N_Forejtova_Veronika_Volduchy.jpg","t":"Křest dcery Veroniky Forejtové, Volduchy, 5. 5. 1753 (otec Pavel, matka Barbora)"}
       ]
     },
     {
@@ -6588,7 +6646,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1746_krest_vit_forejt_otec_pavel_barbora_volduchy_osek03_sn31.jpg","t":"Křest Víta Forejta, Osek 5. 6. 1746"},
         {"f":"img/1743_O_Forejt_Pavel_Barbora_Rokycany.jpg","t":"Sňatek Pavla Forejta s Barborou Riedlbauerovou (?), Rokycany 1743"},
-        {"f":"img/1772_Z_Forejt_Pavel_Barbora_Volduchy.jpg","t":"Úmrtí Pavla (8. 9.) a Barbory (14. 9. 1772) Forejtových, Volduchy č. 51"}
+        {"f":"img/1772_Z_Forejt_Pavel_Barbora_Volduchy.jpg","t":"Úmrtí Pavla (8. 9.) a Barbory (14. 9. 1772) Forejtových, Volduchy č. 51"},
+        {"f":"img/1753_N_Forejtova_Veronika_Volduchy.jpg","t":"Křest dcery Veroniky Forejtové, Volduchy, 5. 5. 1753 (otec Pavel, matka Barbora)"}
       ]
     },
     {
@@ -6842,7 +6901,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"},
         {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"},
-        {"f":"img/1759_krest_jan_vlasak_hudlice_beroun07_sn256.jpg","t":"Kandidátní křest Jana Vlasáka, Hudlice 21. 10. 1759"}
+        {"f":"img/1759_krest_jan_vlasak_hudlice_beroun07_sn256.jpg","t":"Kandidátní křest Jana Vlasáka, Hudlice 21. 10. 1759"},
+        {"f":"img/1807_krest_jan_nepomuk_vlasak_sykorice6_zbecno07_sn27_a.jpg","t":"Křest syna Jana Nepomuka Vlasáka, Sýkořice 8. 2. 1807"}
       ]
     },
     {
@@ -6862,7 +6922,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
       ],
       scans: [
-        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"}
+        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"},
+        {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest dcery Marie Novákové, Nová Huť 30. 6. 1807"}
       ]
     },
     {
@@ -6890,7 +6951,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest Marie Semencové, Zbečno 28. 6. 1838"},
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
-        {"f":"img/1793_O_Semenec_Frantisek_Hlavickova_Ludmila.jpg","t":"Sňatek Františka Semence a Ludmily Hlavičkové, Branov 27. 10. 1793"}
+        {"f":"img/1793_O_Semenec_Frantisek_Hlavickova_Ludmila.jpg","t":"Sňatek Františka Semence a Ludmily Hlavičkové, Branov 27. 10. 1793"},
+        {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest syna Martina Semence, Zbečno 8. 11. 1807"}
       ]
     },
     {
@@ -6971,7 +7033,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
         {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"},
-        {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest Marie Jonášové, Zbečno 26. 4. 1773"}
+        {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest Marie Jonášové, Zbečno 26. 4. 1773"},
+        {"f":"img/1807_krest_jan_nepomuk_vlasak_sykorice6_zbecno07_sn27_a.jpg","t":"Křest syna Jana Nepomuka Vlasáka, Sýkořice 8. 2. 1807"}
       ]
     },
     {
@@ -7045,7 +7108,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04, oddíl O, snímek 360 – https://ebadatelna.soapraha.cz/d/8849/360"
       ],
       scans: [
-        {"f":"img/1800_umrti_matej_jonas_sykorice6_zbecno23_sn11.jpg","t":"Úmrtí Matěje Jonáše, Sýkořice 26. 8. 1800"}
+        {"f":"img/1800_umrti_matej_jonas_sykorice6_zbecno23_sn11.jpg","t":"Úmrtí Matěje Jonáše, Sýkořice 26. 8. 1800"},
+        {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest dcery Marie Jonášové, Zbečno 26. 4. 1773"}
       ]
     },
     {
@@ -8094,7 +8158,7 @@ window.RODOKMEN = {
       maiden: undefined,
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true},
+      b: {"date":"24. 3. 1770 (pokřtěn 25. 3.)","year":1770,"place":"Pojedy (fara Rožďalovice)"},
       d: {"date":"29. 11. 1826","year":1826,"place":"Pojedy č. p. 9 (fara Rožďalovice)"},
       father: "jan_sn_st",
       mother: "dorota_sn",
@@ -8215,7 +8279,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1795_N_Hofmanova_Anna_Dobrovany16.jpg","t":"Křest Anny Hofmanové, Dobrovany č. 16, 22. 1. 1795"},
         {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"},
-        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
+        {"f":"img/1822_N_Sulcova_Katerina_Zitovlice.jpg","t":"Křest dcery Kateřiny Šulcové, Žitovlice č. 8, 22. 12. 1822"}
       ]
     },
     {
@@ -9117,9 +9182,9 @@ window.RODOKMEN = {
         "Oddán 4. 5. 1766 ve Veřovicích jako „honestus viduus Josephus Lazina, domuncularius, cum honesta ancilla Catharina Wenceslai Grigar domuncularii legitima filia“; svědci Martin Černoch a Josef Grigar, domkáři (M). Otec Rosiny (*10. 10. 1773, č. 6). 1. sňatek: × 15. 10. 1747 Anna, vdova po Janu Görigovi („Josef, Jana Lazinů syn“); Anna, manželka Josefa Laciny, † 25. 2. 1766, 67 let – 10 týdnů před 2. sňatkem (M).",
         "Domkář (Häusler) ve Veřovicích č. 69; otec Rosiny Pitrové (sňatek 1797 v č. 69: „Rosina des Joseph Laczÿna, Häuslers Tochter“; v křtech vnoučat 1808–1817 „nach Joseph Lu=czÿna“ = již zemřelý).",
         "Zemřel 21. 1. 1805 ve Veřovicích č. 69 jako „Joseph Lüczÿna / Lützner (?), Häusler“, 80 let (→ *~1725), na vodnatelnost hrudi; ztotožnění D – dům č. 69, jméno a stav (zápis v rejstříku L 1784–1807 chybí – vynechávka indexátora). Příjmení dříve čteno „Ziegner / Zuczner / Lützner“ – oprava viz karta Rosiny.",
-        "KANDIDÁT: 1792 se v č. 69 narodil Johann Lacina (rejstřík N, S. 74) – syn nebo vnuk Josefa; Johann Lacina, domkář č. 6, † 17. 1. 1829 (pohřeb 19. 1.) může být týž rod (K).",
         "Sourozenci (děti Jana × Kateřiny, D): Anna (VIII 1716 – snad z 1. páru, viz karta otce), Jan (24. 4. 1722), Rosina (3. 3. 1724, †), Martin (29. 10. 1725, †). Rodiče: ROZPOR dvou párů Jan Lacina × Kateřina (1715 / 1719) – přednost pár 1719 (Jan, syn Martina × Kateřina Tománková), K.",
         "Děti s Kateřinou Grigarovou (N Veřovice, D; stálí kmotři Martin Görig, sedlák, a mlynář Augustin Meltsch se ženou): Josef (12. 2. 1767, †), Anna (15. 4. 1768), Jan (25. 12. 1770), Rosina (10. 10. 1773), Marianna (14. 3. 1776).",
+        "KANDIDÁT: 1792 se v č. 69 narodil Johann Lacina (rejstřík N, S. 74) – syn nebo vnuk Josefa; Johann Lacina, domkář č. 6, † 17. 1. 1829 (pohřeb 19. 1.) může být týž rod (K).",
         "KANDIDÁT ztotožnění (K+): ve vsi žili 1749–1766 dva Josefové Lacinové – jeden × Anna (děti 1749, 1754), druhý domkář × Kristina († 1763, 46). Druhý Josef, domkář č. 30, zemřel v dubnu 1773, 46 let (M) – otec Rosiny žil ještě 1776, tedy jde o Josefa *1720. ROZPOR: Anna, žena Josefa Laciny, † 25. 2. 1766 „67 let“, ale měla děti 1749 a 1754 – věk chybný, nebo jiná Anna."
       ],
       sources: [
@@ -9181,11 +9246,11 @@ window.RODOKMEN = {
       notes: [
         "Z Lounína, 1751 poddaný panství Tmaň („subditi Dominio Tmanensi“; syn 1770 „Suchomastium subditus“ – Lounín patřil k oběma panstvím ?); manželka Veronika. Otec Jiřího Skály (*1. 2. 1751), který se 16. 9. 1770 v Borku oženil s Evou Klikovou („filius post defunctum Georgium Skala ex pago Launin“). Kmotr dětí Jakuba Staňka z Lounína 14. 11. 1750 a 1752/53 (Tmaň 02 sn. 38 vpravo, 44 vlevo) → žil ještě 1752/53. Zemřel 16. 1. 1760 v Louníně, zaopatřen svátostmi, „in infirmitate hemoroidica“, pohřben u sv. Jiří v Tmani, „aetatis circiter 57“ (→ *~1703) – M zápis, ztotožnění D (jediný Skála v lounínských úmrtích 1753–1760). Sňatek viz níže; křest viz kandidáti (Radouš).",
         "Oddán 17. 11. 1732 v Louníně (P. Matyáš Josef Cykan): „Ex Launin … copulatus est sponsus Georgius Carolus Scala cum honesta virgine Veronica Kolářová“; svědci Josef Skála z Radouše (?), Jiří Švandrlík a Kateřina Skálová (M; rodiče neuvedeni – krátký formulář). Ztotožnění D: jediný Jiří Skála v O Tmaň 1729–1753, Lounín, věk ~29, manželka Veronika. „Carolus“ je druhé křestní jméno ženicha (Jiří Karel; zkratka -us jako u „Georgius“, ověřeno výřezem) – otec ženicha uveden není.",
+        "Děti s Veronikou (Tmaň 02 N, vše M): Václav Jan Nepomucký (27. 7. 1734), Jakub (26. 7. 1738), Jan (VI 1741), Jiří (1. 2. 1751); stálý kmotr Jan Heráček (od Sadů / od mlýna), svědek Šebestián Švadal (?), mlynář suchomastský. Jiří a Veronika častí kmotři 1744–1750. KANDIDÁT: Václav Skála z Lounína × 20. 11. 1753 Tmaň Kateřina Čížková (Zeizikiana), dcera Jiřího Čížka = syn Václav *1734 (K silná – otec ženicha v zápisu není; v Louníně žil i Václav × Salomena). Kmotři nejsou z Radouše.",
         "KANDIDÁT dalšího syna: Václav Skála z Lounína, „honestus juvenis“, × 20. 11. 1753 Tmaň (Tmaň 02 O sn. 170 vpravo, p. 179; nevěsta nedočtena) – snad starší bratr Jiřího (*1751).",
         "Další Skálové v Louníně (K vztah): Václav Skála × 29. 11. 1733 Salomena Soukalová († před 1748, vdova × 1748 Matěj Sikora); Petr Skála († před 1740, vdova Dorota × 1740 Brankl z Tmaně) – možní bratři.",
         "KANDIDÁT rodičů: v Louníně žila 1705 domácnost Vít Skála × Marie – syn Mikuláš pokřtěn 6. 12. 1705 a Josef 16. 3. 1711 („otce Víta Skala, matce Mařině“, Tmaň 01b sn. 13 vpravo) v Tmani („Patris Viti Skala, Matris Maria“, Tmaň 01 sn. 93 vlevo, M), Marie Skálová z Lounína svědkyní 7. 6. 1705. Jiří by mohl být jejich syn, ale v Tmani se 1701 – VII 1707 žádný Jiří Skála nenarodil (vložený sešit III 1701 – II 1703 neúplný) a v zápisu 1732 „Carolus“ je druhé jméno ženicha – vazba slabá (K).",
         "KANDIDÁT křtu (K): Jiří, syn Pavla Skály a Roziny, pokřtěn 16. 4. 1698 Radouš (fara Bezdědice; „Jiří, rodičové Pavel Skála, Rozina“, M zápis; při úmrtí 1760 by mu bylo 61, zápis uvádí „circiter 57“). Josef Skála z Radouše byl svědkem na svatbě 1732. Rodina Pavla žila v Radouši ještě 1712 (dcera, 18 let, † 1712). Žádný Jiří Skála z Radouše nezemřel V 1700 – IV 1710 (1710–19 prošlé neúplně); v pohřbech Radouše 1721–1733 (Bezdědice 02) není on ani Pavel a Rozina Skálovi; Kryštof Skála z Radouše † 10. 11. 1723, 64 let (M, vztah neznámý). V oddacích zápisech Radouše 1721–1733 (Bezdědice 02) se Jiří, syn Pavla, neženil (jediný Jiří Skála = syn Matěje 1733). Pavel Skála, chalupník z Radouše, † náhle 24. 2. 1737, „let asi 45“ (Bezdědice 03, str. 469; M) – narozen ~1692, tedy nejspíš mladší Pavel, ne otec Jiřího *1698 (otec zatím bez úmrtí). Radoušský Jiří Skála × Rozina křtil 8. 4. 1735 syna Vojtěcha Jiří (= syn Matěje, × 1733; M). Vazbu na Lounín zatím nic nedokládá.",
-        "Děti s Veronikou (Tmaň 02 N, vše M): Václav Jan Nepomucký (27. 7. 1734), Jakub (26. 7. 1738), Jan (VI 1741), Jiří (1. 2. 1751); stálý kmotr Jan Heráček (od Sadů / od mlýna), svědek Šebestián Švadal (?), mlynář suchomastský. Jiří a Veronika častí kmotři 1744–1750. KANDIDÁT: Václav Skála z Lounína × 20. 11. 1753 Tmaň Kateřina Čížková (Zeizikiana), dcera Jiřího Čížka = syn Václav *1734 (K silná – otec ženicha v zápisu není; v Louníně žil i Václav × Salomena). Kmotři nejsou z Radouše.",
         "VYLOUČENO (D): Jiří, syn Matěje Skály a Magdaleny, pokřtěný 4. 4. 1702 Radouš (dříve přední kandidát) – 1. 11. 1733 se v Radouši oženil jako svobodný „honestus adolescens Georgius, legitimus filius Mathiae Skala, sartoris Radauschensis“ s Rozinou, dcerou † Tomáše Harlase (M), tedy rok po lounínské svatbě. Past: v Radouši žil 1708 i dospělý Jiřík Skála (manželka Kateřina † 27. 11. 1708, ?); Šimon Skála z Radouše † 9. 1. 1714, 66 let (M)."
       ],
       sources: [
