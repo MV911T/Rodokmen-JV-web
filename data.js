@@ -1268,6 +1268,7 @@ window.RODOKMEN = {
       notes: [
         "Děd Rosiny Valentové; příslušný do Březína (Wirschin) u Nečtin, okres Manětín (fara Nečtiny, Porta fontium). V rejstřících fary Nečtiny pro Březín (O 1788–1860, N 1789–1862) Valentovi nejsou – sňatek a děti asi až po 1862 nebo jinde.",
         "Sňatek s Marií Pollakovou není v oddaných Březína 1788–1910 ani v rejstřících oddaných ostatních vsí fary Nečtiny do 1862.",
+        "Křest Vitála není v rejstřících narozených fary Nečtiny 1784–1862 ani města Manětína 1799–1847; sňatek není v rejstříku oddaných Manětína 1830–1870 (M negativy).",
         "KANDIDÁT: v Březíně č. 33 žil tesař Anton Walenta (*1826 Branišov u Teplé, nemanželský syn Terezie Valentové, dcery krejčího Matouše Valenty z Branišova č. 4, fara Vidžín); Valentovi z Branišova mohou být Vitálovi příbuzní – nedoloženo."
       ],
       sources: [
@@ -3599,7 +3600,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1828)","year":1828,"approx":true,"place":"Březín (Wirschin) č. p. 16, okr. Manětín"},
       spouse: "vital_v",
       notes: [
-        "Babička Rosiny Valentové, z Březína (Wirschin) č. 16 u Nečtin. V rejstříku narozených Březína 1785–1861 Pollakové nejsou."
+        "Babička Rosiny Valentové, z Březína (Wirschin) č. 16 u Nečtin. V rejstříku narozených Březína 1785–1861 Pollakové nejsou.",
+        "V rejstříku narozených fary Nečtiny (všechny obce, 1784–1862) Pollakové nejsou. KANDIDÁT (K, jen shoda jména): Maria Polak, pokřtěná 12. 3. 1817 v Manětíně č. 59, dcera Josefa Polaka, měšťana a soukenického mistra, a Veroniky, dcery Josefa Hauberta (?) z Volduch (Manětín 08, pag. 133, sn. 67 vpravo; M zápis). Vazbu na Vitála Valentu nic nedokládá; sňatek Valenta × Polak není v rejstříku oddaných Manětína 1830–1870."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), snímek 174 – https://ebadatelna.soapraha.cz/d/14711/174",
