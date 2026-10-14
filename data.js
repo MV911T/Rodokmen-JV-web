@@ -3033,14 +3033,15 @@ window.RODOKMEN = {
       father: "jan_tgk",
       spouse: "dorota_v",
       occ: "sedlák ve Volduchách č. 67",
-      marriage: "22. 11. 1757, Osek – s Dorotou (?) Dudlovou (?) z Volduch",
+      marriage: "22. 11. 1757, Osek – s Dorotou Dudlovou z Volduch",
       notes: [
         "Otec Veroniky Forejtové; sedlák ve Volduchách č. 67, manželka Dorota.",
         "Jiný Josef Trgjk (sedlák, Osek č. 67, manželka Kateřina, děti 1782–1785) není totožný.",
         "Měl dospělou dceru Magdalenu už 1782 (⚭ 30. 7. 1782 Václav Wilczyk, vdovec – Osek 07 Volduchy str. 44) → narozen nejpozději ~1740; Dorota je patrně jeho 2. manželka. Sňatek s Dorotou v Oseku 1772–1783 nenalezen.",
-        "Oddán 22. 11. 1757 v Oseku (farář Václav Pignušek; ohlášky 6., 13. a 20. 11.): „poctivý mládenec Jozef, vlastní syn Jana Begjka [= Trgjka] z Wolduch, s poctivou děvečkou, vlastní dcerou [Do]rotou (?) Matěje Dudla (?) též z Wolduch, oba poddaní k panství Woseckému“; družba Michal Trgjk z Volduch (M). Sedí s dcerou Magdalenou (1761, matka Dorota).",
+        "Oddán 22. 11. 1757 v Oseku (farář Václav Pignušek; ohlášky 6., 13. a 20. 11.): „poctivý mládenec Jozef, vlastní syn Jana Begjka [= Trgjka] z Wolduch, s poctivou děvečkou, vlastní dcerou Do-rotou Matěje Dudla též z Wolduch, oba poddaní k panství Woseckému“; družba Michal Trgjk z Volduch (M). Sedí s dcerou Magdalenou (1761, matka Dorota).",
         "Zemřel 9. 2. 1809 ve Volduchách č. 67 (pohřben 11. 2., kaplan Cajetan Šťastný): „Josef Trgjrk, wyminkář“, 70 let (M; → asi 1739 – sedí s dospělou dcerou 1782). Ovdověl 19. 10. 1799.",
-        "KANDIDÁT křtu (K+): Josef, „vlastní syn Jana Brgjka [= Trgjka], Barbory manželky jeho“, narozen 10. 1., pokřtěn 11. 1. 1734 ve Volduchách (kmotr Jan Laukota, mlynář) – jediný Josef Trgjk v rejstříku N 1728–1739; otec Jan sedí s oddacím zápisem. ROZPOR věku: úmrtí 1809 „70 let“ (→ ~1739) × křest 1734."
+        "KANDIDÁT křtu (K+): Josef, „vlastní syn Jana Brgjka [= Trgjka], Barbory manželky jeho“, narozen 10. 1., pokřtěn 11. 1. 1734 ve Volduchách (kmotr Jan Laukota, mlynář) – jediný Josef Trgjk v rejstříku N 1728–1739; otec Jan sedí s oddacím zápisem. ROZPOR věku: úmrtí 1809 „70 let“ (→ ~1739) × křest 1734.",
+        "KANDIDÁTI sourozenců (pokud křest 1734 patří jemu): děti Jana Trgjka × Barbory ve Volduchách – Kateřina Anna (25. 2. 1730), Lucie (1. 10. 1732), Lidmila Barbora (29. 11. 1736) (Osek 02 N str. 15, 43, 82; M zápisy)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
@@ -3903,7 +3904,7 @@ window.RODOKMEN = {
     {
       id: "dorota_v",
       name: "Dorota Trgjková",
-      maiden: "Dudlová (?)",
+      maiden: "Dudlová",
       line: "lezak",
       cert: "M",
       b: {"date":"neznámé (asi 1734–1740 ?)","year":1738,"approx":true,"place":"Volduchy (?)"},
@@ -3912,7 +3913,7 @@ window.RODOKMEN = {
       spouse: "josef_le",
       notes: [
         "Manželka Josefa Trgjka, sedláka ve Volduchách č. 67; matka Veroniky (křest 12. 3. 1783 „Mutter Dorothea“, M). Babička Matěje Forejta; rodné příjmení nečitelné.",
-        "Oddána 22. 11. 1757 v Oseku s Josefem Trgjkem jako „poctivá děvečka, vlastní dcera Matěje Dudla (?) z Wolduch“ – křestní jméno na okraji řádku useknuté („…rotou“), rodné příjmení nejisté (M).",
+        "Oddána 22. 11. 1757 v Oseku s Josefem Trgjkem jako „poctivá děvečka, vlastní dcera Do-rota Matěje Dudla též z Wolduch“ (M; jméno rozdělené přes konec řádku, ověřeno v plném rozlišení). Křest v rejstříku N Osek 1728–1739 (D) není – rejstřík neúplný.",
         "Zemřela 19. 10. 1799 ve Volduchách č. 67: „Dorothea Eheweib des Joseph Trgjrk“, 65 let, vysílení (M). Věk 65 by dával narození ~1734 a porod Veroniky ve 49 letech – věk asi nadsazený (?)."
       ],
       sources: [
@@ -10638,7 +10639,8 @@ window.RODOKMEN = {
       occ: "Volduchy (fara Osek)",
       notes: [
         "Z Volduch; otec Josefa Trgjka – oddací zápis syna 22. 11. 1757: „Jozef, vlastní syn Jana Begjka [= Trgjka] z Wolduch“ (M). Datum narození je odhad.",
-        "KANDIDÁTKA manželky: Barbora – matka Josefa pokřtěného 11. 1. 1734 ve Volduchách (K+). Sňatek Jana × Barbory nehledán (před 1729)."
+        "KANDIDÁTKA manželky: Barbora – matka Josefa pokřtěného 11. 1. 1734 ve Volduchách (K+). Sňatek Jana × Barbory nehledán (před 1729).",
+        "Děti s Barborou ve Volduchách (Osek 02 N, M): Kateřina Anna (25. 2. 1730), Lucie (1. 10. 1732), Josef (10. 1. 1734, K+), Lidmila Barbora (29. 11. 1736). Sňatek v O Osek 1725 – VII 1730 není (ve Volduchách žilo 4–5 rodin Trgjků)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o",
@@ -10651,12 +10653,12 @@ window.RODOKMEN = {
     },
     {
       id: "matej_dl",
-      name: "Matěj Dudl (?)",
+      name: "Matěj Dudl",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
       notes: [
-        "Z Volduch; otec Doroty (?), která se 22. 11. 1757 vdala za Josefa Trgjka – „vlastní dcera … Matěje Dudla (?) též z Wolduch“ (M; příjmení čteno nejistě). Datum narození je odhad."
+        "Z Volduch; otec Doroty, která se 22. 11. 1757 vdala za Josefa Trgjka – „vlastní dcera … Matěje Dudla (?) též z Wolduch“ (M). Datum narození je odhad."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o"
