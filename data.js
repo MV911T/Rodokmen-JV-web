@@ -1551,7 +1551,8 @@ window.RODOKMEN = {
         "Narozen 5. 9. 1849 v Oseku č. 86, pokřtěn 6. 9. Syn Pavla Lodla, havíře a obuvníka z Oseku č. 86 († před 1873), a Anny roz. Aubrechtové z Oseku č. 72.",
         "Při sňatku 1873 nezletilý (23 let) – povolení okresního soudu v Rokycanech z 12. 1. 1873, č. 259. Svědci Anton Vondrák, cihlář, a Matěj Lucyák (?), dělník.",
         "Později s rodinou na Mostecku – horník v Souši č. 57 (1894, 1899).",
-        "Syn Jan Lodl (*24. 6. 1875 Osek), horník v Souši č. 38 – pokřtili mu tam dcery Marii (21. 10. 1901) a Annu (*22. 3. 1903); manželka Antonie (*18. 8. 1878), dcera Karla Josefa z Doks č. 44 a Marie roz. Dundrové, příjmení čteno nejistě (1901 „Káclová (?)“, 1903 „Schumacher (?)“); sňatek 17. 11. 1900. V letech 1901–1903 bydleli rodiče „in Osek N° 14“."
+        "Syn Jan Lodl (*24. 6. 1875 Osek), horník v Souši č. 38 – pokřtili mu tam dcery Marii (21. 10. 1901) a Annu (*22. 3. 1903); manželka Antonie (*18. 8. 1878), dcera Karla Josefa z Doks č. 44 a Marie roz. Dundrové, příjmení čteno nejistě (1901 „Káclová (?)“, 1903 „Schumacher (?)“); sňatek 17. 11. 1900. V letech 1901–1903 bydleli rodiče „in Osek N° 14“.",
+        "V letech 1901 a 1903 „Bergmann in Osek N° 14“ (křty vnoučat v Souši). Úmrtí jeho ani manželky Anny není v rejstřících Z fary Osek 1870–1945 (Osek 19, 24, 29) ani v rejstříku civilní matriky zemřelých okr. úřadu Most 1924–35 – zemřeli asi jinde (K)."
       ],
       sources: [
         "Křestní list Václava Votavy (*1899), farní úřad Souš (Pfarrkirche zu Tschausch) č. 631, 9. 9. 1924 – dle matriky tom. 14, fol. 79 (?)",
@@ -1568,7 +1569,8 @@ window.RODOKMEN = {
         {"f":"img/1873_krest_barbora_lodlova_osek.jpg","t":"Křest Barbory Lodlové, Osek 27. 1. 1873"},
         {"f":"img/1873_oddani_martin_lodl_anna_forejtova_osek.jpg","t":"Sňatek Martina Lodla a Anny Forejtové, Osek 3. 2. 1873"},
         {"f":"img/1849_krest_martin_lodl_osek_matka.jpg","t":"Křest Martina Lodla, Osek 1849 – matka"},
-        {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest Martina Lodla, Osek 1849 – otec Pavel Lodl"}
+        {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest Martina Lodla, Osek 1849 – otec Pavel Lodl"},
+        {"f":"img/1870_Z_Lodl_Pavel_Osek.jpg","t":"Úmrtí otce Pavla, Osek 18. 2. 1870"}
       ]
     },
     {
@@ -1598,7 +1600,9 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1873_krest_barbora_lodlova_osek.jpg","t":"Křest Barbory Lodlové, Osek 27. 1. 1873"},
         {"f":"img/1873_oddani_martin_lodl_anna_forejtova_osek.jpg","t":"Sňatek Martina Lodla a Anny Forejtové, Osek 3. 2. 1873"},
-        {"f":"img/1848_krest_anna_forejtova_osek.jpg","t":"Křest Anny Forejtové, Osek 1848"}
+        {"f":"img/1848_krest_anna_forejtova_osek.jpg","t":"Křest Anny Forejtové, Osek 1848"},
+        {"f":"img/1883_Z_Forejtova_Anna_Osek.jpg","t":"Úmrtí matky Anny, Osek 5. 8. 1883"},
+        {"f":"img/1891_Z_Forejt_Matej_Osek.jpg","t":"Úmrtí otce Matěje, Osek 29. 8. 1891"}
       ]
     },
     {
@@ -2437,7 +2441,8 @@ window.RODOKMEN = {
       line: "lodl",
       cert: "M",
       b: {"date":"15. 1. 1811 (?)","year":1811,"place":"Osek u Rokycan č. p. 84"},
-      d: {"date":"před 3. 2. 1873","year":1872,"approx":true},
+      d: {"date":"18. 2. 1870","year":1870,"place":"Osek u Rokycan č. p. 118"},
+      cause: "zápal plic",
       father: "martin_l1",
       mother: "katerina_le",
       spouse: "anna_a",
@@ -2447,7 +2452,7 @@ window.RODOKMEN = {
         "Narozen v lednu 1811 (15. 1. ?) v Oseku č. 84; otec Martin Lodl, švec; matka Kateřina, dcera † Jakuba Trgjka a † Magdaleny – správně Šimona Trgjka a Anny (viz ROZPOR u Kateřiny). Kmotři Šimon Lam…r (?) a Magdalena Vandrlová (?).",
         "Havíř a švec v Oseku č. 86. Syn † Martina Lodla, mistra ševcovského z Oseku č. 75, a † Kateřiny roz. Trgjkové z Oseku č. 83 (křest syna Martina 1849).",
         "Sňatek s Annou Aubrechtovou je v rejstříku oddaných Osek 11 (str. 230), sama strana ale není nasnímána – podle sousedních stran mezi 9. 9. a 20. 11. 1838.",
-        "V roce 1873 už nežil; v rejstříku zemřelých Osek 1848–1869 není.",
+        "Zemřel 18. 2. 1870 v Oseku č. 118 (pohřben 21. 2.): „Lodl Pavel, provis. havíř z Voseka, manžel Any roz. Oubrecht“, 60 let, na zápal plic (M). Rok 1870 je jen ve starém indexu knihy Osek 19 (sn. 2–3), proto dříve nenalezen.",
         "Dcera Marie Lodlová byla kmotrou Barbory (1873).",
         "V letech 1847–1848 bydlel s Annou v Oseku č. 60 a přišli o tři děti: Marie (29. 3. 1847, 7½ roku ?), Marie (14. 6. 1847, 9 týdnů), Josef (21. 4. 1848, 16 měsíců); otec zapsán jako „pastýř (?)“."
       ],
@@ -2457,13 +2462,15 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), rejstřík snímek 251: „Pawel Lodl s Annau Aubrechtowau … 230“ (strana 230 není nasnímána)",
         "SOA Plzeň, fara Osek, kniha Osek 06 (N 1806–1820), str. 24, snímek 16 – https://www.portafontium.eu/iipimage/30066672/osek-06_0160-n",
-        "SOA Plzeň, fara Osek, kniha Osek 10 (Z), pag. 268 a 273, a Osek 17 (Z 1848–1869), pag. 4 – https://www.portafontium.eu/iipimage/30066683/osek-17_0060-z"
+        "SOA Plzeň, fara Osek, kniha Osek 10 (Z), pag. 268 a 273, a Osek 17 (Z 1848–1869), pag. 4 – https://www.portafontium.eu/iipimage/30066683/osek-17_0060-z",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 19 (Z), pag. 3, snímek 5, 5. zápis (18. 2. 1870) – https://www.portafontium.eu/iipimage/30066685/osek-19_0050-z"
       ],
       scans: [
         {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest Martina Lodla, Osek 1849 – otec Pavel Lodl"},
         {"f":"img/1811_krest_pavel_lodl_osek.jpg","t":"Křest Pavla Lodla, Osek 1811"},
         {"f":"img/1811_krest_pavel_lodl_osek_rodice.jpg","t":"Křest Pavla Lodla, Osek 1811 – rodiče"},
-        {"f":"img/1849_krest_martin_lodl_osek_matka.jpg","t":"Křest syna Martina Lodla, Osek 1849 – matka"}
+        {"f":"img/1849_krest_martin_lodl_osek_matka.jpg","t":"Křest syna Martina Lodla, Osek 1849 – matka"},
+        {"f":"img/1870_Z_Lodl_Pavel_Osek.jpg","t":"Úmrtí 18. 2. 1870, Osek č. 118"}
       ]
     },
     {
@@ -2479,7 +2486,8 @@ window.RODOKMEN = {
       marriage: "asi září–listopad 1838, Osek – s Pavlem Lodlem",
       notes: [
         "Narozena 13., pokřtěna 14. 12. 1814 v Oseku č. 72: otec Kašpar Aubrecht, sedlák, matka Anna, dcera Václava Holuby a Veroniky, sedláka z Oseka č. 8. (Starší sestra Anna *I 1813 zemřela 12. 12. 1813.)",
-        "Matka Martina Lodla; dcera Kašpara Aubrechta, výminkáře z Oseku č. 72, a Anny roz. Holubové z Oseku č. 3 (?)."
+        "Matka Martina Lodla; dcera Kašpara Aubrechta, výminkáře z Oseku č. 72, a Anny roz. Holubové z Oseku č. 3 (?).",
+        "Ovdověla 18. 2. 1870 (M). Její úmrtí není v rejstřících Z fary Osek 1870–1945 pod jménem Lodlová (možný 2. sňatek nebo úmrtí mimo faru)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
@@ -2492,7 +2500,8 @@ window.RODOKMEN = {
         {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"},
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl)"},
         {"f":"img/1849_krest_martin_lodl_osek_matka.jpg","t":"Křest syna Martina Lodla, Osek 1849 – matka"},
-        {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest syna Martina Lodla, Osek 1849 – otec Pavel Lodl"}
+        {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest syna Martina Lodla, Osek 1849 – otec Pavel Lodl"},
+        {"f":"img/1870_Z_Lodl_Pavel_Osek.jpg","t":"Úmrtí manžela Pavla, Osek 18. 2. 1870"}
       ]
     },
     {
@@ -2566,6 +2575,8 @@ window.RODOKMEN = {
       line: "forejt",
       cert: "M",
       b: {"date":"9. 10. 1823 (?)","year":1823,"place":"Osek u Rokycan č. p. 91"},
+      d: {"date":"29. 8. 1891","year":1891,"place":"Osek u Rokycan č. p. 91"},
+      cause: "souchotiny",
       father: "josef_f",
       mother: "marianna_le",
       spouse: "anna_lo",
@@ -2574,18 +2585,23 @@ window.RODOKMEN = {
       notes: [
         "Narozen a pokřtěn v říjnu 1823 (9. 10. ?) v Oseku č. 91; otec Josef Forejt, poddaný mirošovský; matka Veronika, dcera Josefa Lezáka, sedláka z Volduch č. 67, a Doroty (…ové) z Volduch. Kmotři Matěj Aubrecht, sedlák z Volduch, Kateřina Lermanová (?) a Kašpar Aubrecht, sedlák z Oseka.",
         "Havíř (horník) z Oseku č. 91, poddaný panství Mirošov. Syn Josefa Forejta, domkáře z Oseku č. 91, a Marianny, dcery Josefa Lezáka (?), sedláka z Volduch č. 67.",
-        "Při sňatku 17. 2. 1846 23 let, svobodný; povolení vrchnostenského úřadu v Mirošově z 30. 1. 1846, souhlas dal otec Josef Forejt."
+        "Při sňatku 17. 2. 1846 23 let, svobodný; povolení vrchnostenského úřadu v Mirošově z 30. 1. 1846, souhlas dal otec Josef Forejt.",
+        "Ovdověl 5. 8. 1883 a znovu se oženil s Barborou, vdovou Tumpachovou (?) z Borku (?) č. 62, roz. Komrausovou (?) z Kišína (?) č. 36 (sňatek nečten, K).",
+        "Zemřel 29. 8. 1891 v Oseku č. 91 (pohřben 31. 8.): „Forejt Matěj, provisionista a býv. havíř z Oseka č. 91, manžel Barbory ovdovělé Tumpachové …“, 68 let, na souchotiny (M)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
-        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
+        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 24 (Z 1884–1913), str. 47, snímek 50, č. 68 (29. 8. 1891) – https://www.portafontium.eu/iipimage/30066690/osek-24_0500-z"
       ],
       scans: [
         {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_zenich.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 17. 2. 1846 – ženich"},
         {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_nevesta.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 1846 – nevěsta"},
-        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"}
+        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"},
+        {"f":"img/1891_Z_Forejt_Matej_Osek.jpg","t":"Úmrtí 29. 8. 1891, Osek č. 91"},
+        {"f":"img/1883_Z_Forejtova_Anna_Osek.jpg","t":"Úmrtí manželky Anny, Osek 5. 8. 1883"}
       ]
     },
     {
@@ -2595,27 +2611,33 @@ window.RODOKMEN = {
       line: "loukota",
       cert: "M",
       b: {"date":"21. 9. 1822","year":1822,"place":"Drozdov č. p. 35 (fara Cerhovice)"},
+      d: {"date":"5. 8. 1883","year":1883,"place":"Osek u Rokycan č. p. 91"},
+      cause: "ochrnutí srdce",
       father: "jan_la",
       mother: "magdalena_la",
       spouse: "matej_f",
       marriage: "17. 2. 1846, Osek – s Matějem Forejtem",
       notes: [
         "Narozena 21. 9., pokřtěna 22. 9. 1822 v Drozdově č. 35 (fara Cerhovice): otec Jan Laukota, zedník (?) z Drozdova, syn † Prokopa Laukoty, zahradníka (?) na Mýtě (?), a Anny roz. Žolibové (?) z Kařezu (?); matka Magdalena, dcera Josefa Landtyngra, mistra kovářského v Drozdově, a † Magdaleny roz. Zvonařové z Drozdova (ROZPOR – Zvonařová byla Josefova matka). Kmotři Matěj Kotyš (?), hajný z Drozdova, Anna Myslíková (?) a Veronika Motlová, kovářka z Drozdova; bába Dorota Kůžilová (?).",
-        "ROZPOR: oddací zápis 1846 uvádí narození 26. 8. 1822 „laut Originaltaufschein von Zerhowitz“ (= fara Cerhovice) – platí křest (21. 9. 1822). Rodiče později v Oseku č. 10 (Jan Laukota, domkář a obecní sluha (?))."
+        "ROZPOR: oddací zápis 1846 uvádí narození 26. 8. 1822 „laut Originaltaufschein von Zerhowitz“ (= fara Cerhovice) – platí křest (21. 9. 1822). Rodiče později v Oseku č. 10 (Jan Laukota, domkář a obecní sluha (?)).",
+        "Zemřela 5. 8. 1883 v Oseku č. 91 (pohřbena 7. 8.): „Forejtová Anna, choť Matěje Forejta, havíře v provisi z Oseka, rod. Loukota z Třenice (?) u Zbirova“ (M; věk nezapsán). ROZPOR místa narození: křest Drozdov 1822 – zápis o úmrtí „Třenice (?) u Zbirova“ (obě obce fara Cerhovice); platí křest."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 16 (O 1848–1874), str. 180, snímek 182 – https://www.portafontium.eu/iipimage/30066682/osek-16_1820-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
-        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107"
+        "SOA Praha, ř.-k. fara Cerhovice, kniha Cerhovice 06 (N 1812–1822), oddíl Drozdov, fol. 105, snímek 107 – https://ebadatelna.soapraha.cz/d/4433/107",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 19 (Z), pag. 187, snímek 97, 1. zápis (5. 8. 1883) – https://www.portafontium.eu/iipimage/30066685/osek-19_0970-z"
       ],
       scans: [
         {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_zenich.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 17. 2. 1846 – ženich"},
         {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_nevesta.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 1846 – nevěsta"},
         {"f":"img/1846_oddani_anna_laukotova_datum_narozeni_osek11_sn214.jpg","t":"Oddací zápis 1846 – Anna Laukotová, narozena 26. 8. 1822 (křestní list Cerhovice)"},
         {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_a.jpg","t":"Křest Anny Laukotové, Drozdov 22. 9. 1822"},
-        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"}
+        {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"},
+        {"f":"img/1883_Z_Forejtova_Anna_Osek.jpg","t":"Úmrtí 5. 8. 1883, Osek č. 91"},
+        {"f":"img/1891_Z_Forejt_Matej_Osek.jpg","t":"Úmrtí manžela Matěje, Osek 29. 8. 1891"}
       ]
     },
     {
