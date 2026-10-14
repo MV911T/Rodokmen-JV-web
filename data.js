@@ -6369,7 +6369,8 @@ window.RODOKMEN = {
       notes: [
         "Matka Jana Kučery (*1816) a dalších dětí v Heršpicích č. 40 (1801–1816); v křtech „Lottrab / Lotrab (?)“. Původ: oddací zápis syna 1837 „z Letonic (?)“, kmotři z Kobeřic – nejisté.",
         "KANDIDÁT úmrtí: index zemřelých 1822 „Kučera Katharina – Herspitz – 285/288“ (nečteno).",
-        "KANDIDÁT původu (K+): „geborne Jo[s/h]… Lotrab (?), Halblehners in Lettnitz“ (O 1837) = nejspíš Rotrekl z Letonic (fara Dražovice) – v Letonicích 1771–1782 velká rodina Rotreklů. Kandidátky křtu (NOZ Dražovice 12529, M zápisy): Catharina 2. 11. 1774, otec Josef Rotrekl, pololáník Letonice č. 50 (?) × Marianna (nejlepší – „Halblehner“); Catharina 24. 11. 1772 (Jiří, podruh × Apolonie); Catharina 28. 8. 1777 (Antonín, sedlák × Magdalena, č. 30). Sňatek s Tobiášem v O Dražovice 1799–1803 není."
+        "KANDIDÁT původu (K+): „geborne Jo[s/h]… Lotrab (?), Halblehners in Lettnitz“ (O 1837) = nejspíš Rotrekl z Letonic (fara Dražovice) – v Letonicích 1771–1782 velká rodina Rotreklů. Kandidátky křtu (NOZ Dražovice 12529, M zápisy): Catharina 2. 11. 1774, otec Josef Rotrekl, pololáník Letonice č. 50 (?) × Marianna (nejlepší – „Halblehner“); Catharina 24. 11. 1772 (Jiří, podruh × Apolonie); Catharina 28. 8. 1777 (Antonín, sedlák × Magdalena, č. 30). Sňatek s Tobiášem v O Dražovice 1799–1803 není.",
+        "Úmrtí ve faře Slavkov 1836 – začátek 1863 nenalezeno: všechny Kateřiny Kučerové v indexu Z (Heršpice 1840, 1841; Hrušky 1845, 1858; Hodějice 1851) jsou jiné ženy (manželky / vdovy po Jakubovi, Pavlovi, Františkovi, Matějovi; MZA N2–N4). Zbývá index Z 1829–1836, nebo zemřela mimo faru."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -11363,7 +11364,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
       spouse: "anna_la0",
       notes: [
-        "Z Heršpic (č. 20 v r. 1773); otec Pavla Láníčka (*1773) – křest syna (M)."
+        "Z Heršpic (č. 20 v r. 1773); otec Pavla Láníčka (*1773) – křest syna (M).",
+        "Sňatek s Annou v O Slavkov 13121 X 1764 – VIII 1769 není. KANDIDÁT příbuzného (K): Jiří Lanížek, † před 1767 (dcera Kateřina × 27. 1. 1767 Ondřej Amon ze Slavkova)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
@@ -11397,7 +11399,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
       occ: "čtvrtník v Heršpicích (č. 26)",
       notes: [
-        "Čtvrtník (4tler) v Heršpicích; otec Magdaleny, provdané Svobodové – oddací zápis 1816, kde dal osobní svolení (M)."
+        "Čtvrtník (4tler) v Heršpicích; otec Magdaleny, provdané Svobodové – oddací zápis 1816, kde dal osobní svolení (M).",
+        "KANDIDÁT rodičů (K): Martin, syn Mikuláše Tichého, × 29. (I/II ?) 1765 Kateřina, dcera † Václava K… (?), oba z Heršpic (O 13121, sn. 321 vlevo); příjmení nevěsty a vazba na Jakuba neověřeny."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959"
