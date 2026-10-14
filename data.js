@@ -11263,7 +11263,8 @@ window.RODOKMEN = {
         "Domkář v Málkově (panství Tmaň); otec Matěje Svobody – oddací zápis syna 1818 (M). Nezaměňovat s Václavem Svobodou (*~1781, syn Matěje × Anny, domkář v Suchomastech č. 14).",
         "V roce 1791 sedlák v Málkově č. 1, „rodaný Tmanský“ (křest syna Matěje, M).",
         "KANDIDÁTI rodiny (K): v Tmani žil Tomáš Svoboda († před 1780; syn Šimon × 1780 Ludmila Hogelová z Koněprus); 27. 11. 1781 se Václav, syn Jakuba Svobody, sedláka z Málkova, voják pluku Callenberg, oženil s Kateřinou, dcerou † Jana Allemanda (?) z Tmaně, Málkov č. 16 (Tmaň 02 sn. 200 vlevo) – jiný Václav, pokud nejde o 1. sňatek. Sňatek s Ludmilou v O Tmaň 1774–1790 není.",
-        "KANDIDÁT sňatku (K, silný): 11. 7. 1771 Málkov č. 1 – „honestus juvenis Wenceslaus, rustici Wenceslai Swoboda filius Malkoviensis, cum virgine Ludmilla, Mathiae Sykora rustici superstite filia legitima Launiniensi“ (Tmaň 02, sn. 192 vlevo; M zápis) – stejný dům a jména jako 1791; proti: děti 1771–1789 neznámy, Ludmila by r. 1794 měla ~43 let. Syn Mikuláš *13. 6. 1794 Málkov 1 (rejstřík N Borek 11)."
+        "KANDIDÁT sňatku (K, silný): 11. 7. 1771 Málkov č. 1 – „honestus juvenis Wenceslaus, rustici Wenceslai Swoboda filius Malkoviensis, cum virgine Ludmilla, Mathiae Sykora rustici superstite filia legitima Launiniensi“ (Tmaň 02, sn. 192 vlevo; M zápis) – stejný dům a jména jako 1791; proti: děti 1771–1789 neznámy, Ludmila by r. 1794 měla ~43 let. Syn Mikuláš *13. 6. 1794 Málkov 1 (rejstřík N Borek 11).",
+        "Kandidát 1771 slábne: v Tmaň 02 N 1772–1784 žádný křest z Málkova č. 1 (Praha N7)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
@@ -11302,7 +11303,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
       spouse: "augustin_kb",
       notes: [
-        "Manželka Augustina Hubáčka, sedláka v Málkově č. 7; matka Alžběty Svobodové (oddací zápis 1818, křest vnučky 1817; M). Rodné příjmení neznámé."
+        "Manželka Augustina Hubáčka, sedláka v Málkově č. 7; matka Alžběty Svobodové (oddací zápis 1818, křest vnučky 1817; M). Rodné příjmení neznámé.",
+        "KANDIDÁT sňatku (K): 9. 10. 1795 Málkov č. 7 – „Ludmilla, dcera Jana K… (?) a mateře Kateřiny, sedláka z Malkova No. 7, rodaná Tmanská“, 20 let; ženich přeškrtaný a opravovaný – čteno „Vojtěch (?)“ … „rodaný Běšenský (?)“, 25 let (Borek 05 O, sn. 99; M zápis, jména nejistá – Augustin, nebo 1. manžel ?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
