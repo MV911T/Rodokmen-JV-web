@@ -6466,22 +6466,29 @@ window.RODOKMEN = {
       name: "Martin Svoboda",
       line: "svobodah",
       cert: "M",
-      b: {"date":"neznámé (asi 1780)","year":1780,"approx":true},
-      d: {"date":"před 1841","year":1841,"approx":true},
+      b: {"date":"neznámé (asi 1779, kandidátní křest – viz poznámky)","year":1779,"approx":true,"place":"Heršpice"},
+      d: {"date":"26. 8. 1836","year":1836,"place":"Heršpice č. p. 52"},
+      father: "jakub_svh",
+      mother: "marianna_svh",
       spouse: "magdalena_fu",
       occ: "tesař, domkář v Heršpicích",
       marriage: "27. 8. 1816, Heršpice – s Magdalenou Tichou",
       notes: [
         "Oddán 27. 8. 1816 v Heršpicích (č. 36): „Martin Swoboda, Ger-lehner (?) und verabschiedeter Soldat von Hohenzollern“, 36 let, svobodný, s Magdalenou, dcerou Jakoba Tichého, čtvrtníka (č. 26), 18 let; svědci Jakob Kutschera, půlláník, a Valentin Hrozek (?), půlláník z Nížkovic (?); s osobním svolením otce nevěsty (M). Vysloužilý voják pluku Hohenzollern.",
-        "Otec Jakuba Svobody."
+        "Otec Jakuba Svobody.",
+        "Zemřel 26. 8. 1836 (pohřben 28. 8.) v Heršpicích č. 52 (dům narození syna Jakuba 1817): „Martin Swoboda, Häusler“, 56 let (Z 13149, sn. 280 vpravo, str. 313; M) → *VIII 1779 – VIII 1780. Dcera Kateřina, 12 let, zemřela v č. 52 14. 7. 1836 (M).",
+        "KANDIDÁT křtu (K+): 2. 11. 1779 Heršpice č. 24 (?), „Martinus“, rodiče Jacobus Svoboda et Marianna, kmotři Tobiáš Malač s manželkou Barborou (N 13122, sn. 10 vpravo; M zápis) – jediný Martin Svoboda VIII 1779 – IX 1780; oba věky (36 při sňatku, 56 při úmrtí) sedí."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960",
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, Z 13149 sn. 280 vpravo (1836) – https://www.mza.cz/actapublica/matrika/detail/1964; N 13122 sn. 10 vpravo (1779) – https://www.mza.cz/actapublica/matrika/detail/1950"
       ],
       scans: [
         {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841 (dítě: Jakub Svoboda)"},
-        {"f":"img/1817_N_13123_sn408_str420_Herspice_Svoboda_Jakub_Tichy_Magdalena.jpg","t":"Křest syna Jakuba Svobody, Heršpice 20. 7. 1817"}
+        {"f":"img/1817_N_13123_sn408_str420_Herspice_Svoboda_Jakub_Tichy_Magdalena.jpg","t":"Křest syna Jakuba Svobody, Heršpice 20. 7. 1817"},
+        {"f":"img/1836_Z_Svoboda_Martin_Herspice.jpg","t":"Úmrtí 26. 8. 1836, Heršpice č. 52"},
+        {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest Martina, Heršpice 2. 11. 1779 (kandidát)"}
       ]
     },
     {
@@ -11846,6 +11853,40 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1705_O_Forejt_Martin_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Sňatek dcery Alžběty, Volduchy 1705"}
+      ]
+    },
+    {
+      id: "jakub_svh",
+      name: "Jakub Svoboda",
+      line: "svobodah",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Heršpice"},
+      spouse: "marianna_svh",
+      notes: [
+        "KANDIDÁT (K+): otec Martina Svobody – křest 2. 11. 1779 Heršpice, „Jacobus Svoboda et Marianna uxor ejus, Herspicio“ (N 13122, sn. 10 vpravo; M zápis). Sňatek (O 13121 ~1769–1778) nehledán."
+      ],
+      sources: [
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13122 sn. 10 vpravo"
+      ],
+      scans: [
+        {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest syna Martina, Heršpice 1779"}
+      ]
+    },
+    {
+      id: "marianna_svh",
+      name: "Marianna Svobodová",
+      line: "svobodah",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true,"place":"Heršpice"},
+      spouse: "jakub_svh",
+      notes: [
+        "KANDIDÁTKA (K+): matka Martina Svobody (viz Jakub Svoboda). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13122 sn. 10 vpravo"
+      ],
+      scans: [
+        {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest syna Martina, Heršpice 1779"}
       ]
     }
   ]
