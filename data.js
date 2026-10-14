@@ -5812,12 +5812,15 @@ window.RODOKMEN = {
       name: "Pavel Láníček",
       line: "lanicek",
       cert: "M",
-      b: {"date":"asi 1773","year":1773,"approx":true},
+      b: {"date":"7. 10. 1773","year":1773,"place":"Heršpice č. p. 20"},
       d: {"date":"před 1841","year":1841,"approx":true},
+      father: "pavel_la0",
+      mother: "anna_la0",
       spouse: "magdalena_wi",
       occ: "šenkýř (1813–1815), tesař (1822), domkář v Heršpicích",
       marriage: "8. 11. 1808, Heršpice – s Magdalenou Willamovou",
       notes: [
+        "Pokřtěn 7. 10. 1773 v Heršpicích č. 20: „Paulus – parentes Paulus Lanižek, Anna“; kmotři Thomas Hrabowský (?) a Christina (M; jediný Pavel syn Pavla Láníčka IX 1772 – X 1774, věk 35 při sňatku 1808 sedí).",
         "Oddán 8. 11. 1808 v Heršpicích jako podruh v č. 29, 35 let, svobodný, s Magdalenou, dcerou Františka Willama, domkáře (č. 18), 22 let; svědci Ondřej Valíček (?) a Martin Láníček, podruh.",
         "Otec Marianny Jeřábkové a Kateřiny Svobodové; synové Jan (*22. 8. 1813, č. 23) a Jan (*3. 6. 1815, č. 33). Manželka Magdalena Willamová (křty 1813, 1815, 1822)."
       ],
@@ -5828,9 +5831,11 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 50, snímek 345 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, N sign. 13124, oddíl Heršpice, str. 1, snímek 286 – https://www.mza.cz/actapublica/matrika/detail/1952",
         "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 417, snímek 405 – https://www.mza.cz/actapublica/matrika/detail/1951",
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
+        {"f":"img/1773_N_Lanicek_Pavel_Herspice.jpg","t":"Křest 7. 10. 1773, Heršpice č. 20"},
         {"f":"img/1822_N_13124_sn286_str1_Herspice_Lanickova_Marianna_Willam_Magdalena.jpg","t":"Křest dcery Marianny, Heršpice 1822"},
         {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek Pavla Láníčka a Magdaleny Willamové, Heršpice 8. 11. 1808"},
         {"f":"img/1812_N_13123_sn400_str412_Herspice_Lanickova_Katerina_radek_plne_rozl.jpg","t":"Křest dcery Kateřiny Láníčkové, Heršpice 18. 1. 1812"}
@@ -6376,15 +6381,18 @@ window.RODOKMEN = {
       name: "Martin Svoboda",
       line: "svobodah",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (asi 1780)","year":1780,"approx":true},
       d: {"date":"před 1841","year":1841,"approx":true},
       spouse: "magdalena_fu",
       occ: "tesař, domkář v Heršpicích",
+      marriage: "27. 8. 1816, Heršpice – s Magdalenou Tichou",
       notes: [
+        "Oddán 27. 8. 1816 v Heršpicích (č. 36): „Martin Swoboda, Ger-lehner (?) und verabschiedeter Soldat von Hohenzollern“, 36 let, svobodný, s Magdalenou, dcerou Jakoba Tichého, čtvrtníka (č. 26), 18 let; svědci Jakob Kutschera, půlláník, a Valentin Hrozek (?), půlláník z Nížkovic (?); s osobním svolením otce nevěsty (M). Vysloužilý voják pluku Hohenzollern.",
         "Otec Jakuba Svobody."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960"
+        "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959"
       ],
       scans: [
         {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841 (dítě: Jakub Svoboda)"},
@@ -6397,14 +6405,18 @@ window.RODOKMEN = {
       maiden: "Tichá",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      b: {"date":"neznámé (asi 1798)","year":1798,"approx":true,"place":"Heršpice č. 26 (?)"},
+      father: "jakub_ti",
       spouse: "martin_sv",
+      marriage: "27. 8. 1816, Heršpice – s Martinem Svobodou",
       notes: [
+        "Oddána 27. 8. 1816 v Heršpicích jako dcera Jakoba Tichého, čtvrtníka (č. 26), 18 let – rodné příjmení Tichá potvrzeno (M).",
         "Matka Jakuba Svobody. ROZPOR: křest syna 1817 uvádí „Magdalena Tichy“, oddací zápis 1841 „Fuchs (?)“ (dcera Jakuba) – platí křest; čtení 1841 nejisté."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960",
-        "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 420, snímek 408 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 420, snímek 408 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959"
       ],
       scans: [
         {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841 (dítě: Jakub Svoboda)"},
@@ -11239,6 +11251,54 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1726_N_Forejtova_Anna_Volduchy.jpg","t":"Křest dcery Anny, Volduchy 1726"}
+      ]
+    },
+    {
+      id: "pavel_la0",
+      name: "Pavel Láníček",
+      line: "lanicek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      spouse: "anna_la0",
+      notes: [
+        "Z Heršpic (č. 20 v r. 1773); otec Pavla Láníčka (*1773) – křest syna (M)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
+      ],
+      scans: [
+        {"f":"img/1773_N_Lanicek_Pavel_Herspice.jpg","t":"Křest syna Pavla, Heršpice 1773"}
+      ]
+    },
+    {
+      id: "anna_la0",
+      name: "Anna Láníčková",
+      line: "lanicek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      spouse: "pavel_la0",
+      notes: [
+        "Manželka Pavla Láníčka st. z Heršpic; matka Pavla (*1773) – křest syna (M). Rodné příjmení neuvedeno."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
+      ],
+      scans: [
+        {"f":"img/1773_N_Lanicek_Pavel_Herspice.jpg","t":"Křest syna Pavla, Heršpice 1773"}
+      ]
+    },
+    {
+      id: "jakub_ti",
+      name: "Jakub Tichý",
+      line: "svobodah",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      occ: "čtvrtník v Heršpicích (č. 26)",
+      notes: [
+        "Čtvrtník (4tler) v Heršpicích; otec Magdaleny, provdané Svobodové – oddací zápis 1816, kde dal osobní svolení (M)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959"
       ]
     }
   ]
