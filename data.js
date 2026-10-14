@@ -11272,7 +11272,8 @@ window.RODOKMEN = {
       spouse: "lidmila_fo",
       notes: [
         "KANDIDÁT (K+): otec Anny (*1726), pozdější manželky Jana Košaje – „vlastní dcera pozůstalá po † Petru Forejtovi z Volduch“ (O 1745). Z Volduch; děti s Lidmilou: Anna (1726), Magdalena a Markéta (1729), Michal (1733). Vztah k Forejtům z Volduch (Martin, Pavel) neznámý.",
-        "Úmrtí není v Osek 02 Z II 1733 – IV 1736 ani Osek 03 Z I–IX 1740 (zbývá VIII–XII 1739 a III 1742 – VII 1745). KANDIDÁTKA matky (K): Barbora Forejtová z Volduch, † 27. 8. 1734, 56 let (Osek 02 Z sn. 109 vpravo)."
+        "Úmrtí není v Osek 02 Z II 1733 – IV 1736 ani Osek 03 Z I–IX 1740 (zbývá VIII–XII 1739 a III 1742 – VII 1745). KANDIDÁTKA matky (K): Barbora Forejtová z Volduch, † 27. 8. 1734, 56 let (Osek 02 Z sn. 109 vpravo).",
+        "KANDIDÁT sňatku (K+): 11. 10. 1722 ve Volduchách „poctivý mládenec Petr Forhagt (?) [Foregt] s poctivou děvečkou Val…/Lid… (?) Dmitlovou (?)“, oddal P. Šebestián Říha (Osek 01 O, sn. 165 vpravo – 166 vlevo) – jediný Petr Forejt mezi ženichy 1703 – VI 1725; jméno nevěsty nedočteno. Úmrtí v Z fary Osek II 1733 – IX 1746 není (zemřel mimo faru ?). KANDIDÁT otce (K): Matěj Forejt z Volduch † 6. 2. 1743, 64 let (Osek 03 Z sn. 162 vpravo)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 N str. 241; Osek 02 N str. 11, 53; Osek 03 O str. 21"
