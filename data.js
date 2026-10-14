@@ -5918,7 +5918,8 @@ window.RODOKMEN = {
       line: "lanicek",
       cert: "M",
       b: {"date":"7. 10. 1773","year":1773,"place":"Heršpice č. p. 20"},
-      d: {"date":"před 1841","year":1841,"approx":true},
+      d: {"date":"15. 4. 1837","year":1837,"place":"Heršpice č. p. 57"},
+      cause: "zápal plic (Lungenentzündung)",
       father: "pavel_la0",
       mother: "anna_la0",
       spouse: "magdalena_wi",
@@ -5927,7 +5928,8 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěn 7. 10. 1773 v Heršpicích č. 20: „Paulus – parentes Paulus Lanižek, Anna“; kmotři Thomas Hrabowský (?) a Christina (M; jediný Pavel syn Pavla Láníčka IX 1772 – X 1774, věk 35 při sňatku 1808 sedí).",
         "Oddán 8. 11. 1808 v Heršpicích jako podruh v č. 29, 35 let, svobodný, s Magdalenou, dcerou Františka Willama, domkáře (č. 18), 22 let; svědci Ondřej Valíček (?) a Martin Láníček, podruh.",
-        "Otec Marianny Jeřábkové a Kateřiny Svobodové; synové Jan (*22. 8. 1813, č. 23) a Jan (*3. 6. 1815, č. 33). Manželka Magdalena Willamová (křty 1813, 1815, 1822)."
+        "Otec Marianny Jeřábkové a Kateřiny Svobodové; synové Jan (*22. 8. 1813, č. 23) a Jan (*3. 6. 1815, č. 33). Manželka Magdalena Willamová (křty 1813, 1815, 1822).",
+        "Zemřel 15. 4. 1837 (pohřben 17. 4.) v Heršpicích č. 57: „Paul Lanitschek, Häusler“, 65 let, zápal plic (Z 13155, sn. 2 vpravo, pag. 1; M; dům shodný s narozením dcery Marianny 1822)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 38, snímek 22 – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -5937,13 +5939,16 @@ window.RODOKMEN = {
         "MZA Brno, fara Slavkov u Brna, N sign. 13124, oddíl Heršpice, str. 1, snímek 286 – https://www.mza.cz/actapublica/matrika/detail/1952",
         "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 417, snímek 405 – https://www.mza.cz/actapublica/matrika/detail/1951",
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959",
-        "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, Z Heršpice 1837–1877 (13155), sn. 2 vpravo (1837), sn. 17 vlevo (1859) – https://www.mza.cz/actapublica/matrika/detail/12384"
       ],
       scans: [
         {"f":"img/1773_N_Lanicek_Pavel_Herspice.jpg","t":"Křest 7. 10. 1773, Heršpice č. 20"},
         {"f":"img/1822_N_13124_sn286_str1_Herspice_Lanickova_Marianna_Willam_Magdalena.jpg","t":"Křest dcery Marianny, Heršpice 1822"},
         {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek Pavla Láníčka a Magdaleny Willamové, Heršpice 8. 11. 1808"},
-        {"f":"img/1812_N_13123_sn400_str412_Herspice_Lanickova_Katerina_radek_plne_rozl.jpg","t":"Křest dcery Kateřiny Láníčkové, Heršpice 18. 1. 1812"}
+        {"f":"img/1812_N_13123_sn400_str412_Herspice_Lanickova_Katerina_radek_plne_rozl.jpg","t":"Křest dcery Kateřiny Láníčkové, Heršpice 18. 1. 1812"},
+        {"f":"img/1837_Z_Lanicek_Pavel_Herspice57.jpg","t":"Úmrtí 15. 4. 1837, Heršpice č. 57"},
+        {"f":"img/1859_Z_Lanickova_Magdalena_Herspice57.jpg","t":"Úmrtí manželky Magdaleny, Heršpice 1859"}
       ]
     },
     {
@@ -6721,22 +6726,28 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"asi 1786","year":1786,"approx":true,"place":"Heršpice"},
+      d: {"date":"11. 4. 1859","year":1859,"place":"Heršpice č. p. 57"},
+      cause: "stáří (Altersschwäche)",
       father: "frantisek_wl",
       spouse: "pavel_la",
       marriage: "8. 11. 1808, Heršpice – s Pavlem Láníčkem",
       notes: [
         "Dcera Františka Willama, domkáře v Heršpicích (č. 18 v r. 1808; 1841 „čtvrtník“); oddána 8. 11. 1808 (22 let). Matka Kateřiny (*1812) a Marianny (*1822) Láníčkových.",
-        "KANDIDÁT křtu: 21. 5. 1784 v Heršpicích č. 38 Magdalena, dcera Františka Wilama, čtvrtníka, a Mariny (jediná Magdalena Wilam v indexu 1784–1790)."
+        "KANDIDÁT křtu: 21. 5. 1784 v Heršpicích č. 38 Magdalena, dcera Františka Wilama, čtvrtníka, a Mariny (jediná Magdalena Wilam v indexu 1784–1790).",
+        "Zemřela 11. 4. 1859 (pohřbena 13. 4.) v Heršpicích č. 57: „Magdalena, Witwe nach Paul Lanitschek, Häuslers in Herspitz“, 78 let, stářím (Z 13155, sn. 17 vlevo, pag. 30; M) → *~1781."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N sign. 13124, oddíl Heršpice, str. 1, snímek 286 – https://www.mza.cz/actapublica/matrika/detail/1952",
         "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 417, snímek 405 – https://www.mza.cz/actapublica/matrika/detail/1951",
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, Z Heršpice 1837–1877 (13155), sn. 2 vpravo (1837), sn. 17 vlevo (1859) – https://www.mza.cz/actapublica/matrika/detail/12384"
       ],
       scans: [
         {"f":"img/1822_N_13124_sn286_str1_Herspice_Lanickova_Marianna_Willam_Magdalena.jpg","t":"Křest dcery Marianny, Heršpice 1822"},
         {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek Pavla Láníčka a Magdaleny Willamové, Heršpice 8. 11. 1808"},
-        {"f":"img/1812_N_13123_sn400_str412_Herspice_Lanickova_Katerina_radek_plne_rozl.jpg","t":"Křest dcery Kateřiny Láníčkové, Heršpice 18. 1. 1812"}
+        {"f":"img/1812_N_13123_sn400_str412_Herspice_Lanickova_Katerina_radek_plne_rozl.jpg","t":"Křest dcery Kateřiny Láníčkové, Heršpice 18. 1. 1812"},
+        {"f":"img/1859_Z_Lanickova_Magdalena_Herspice57.jpg","t":"Úmrtí 11. 4. 1859, Heršpice č. 57"},
+        {"f":"img/1837_Z_Lanicek_Pavel_Herspice57.jpg","t":"Úmrtí manžela Pavla, Heršpice 1837"}
       ]
     },
     {
@@ -11516,7 +11527,8 @@ window.RODOKMEN = {
       notes: [
         "Z Heršpic (č. 20 v r. 1773); otec Pavla Láníčka (*1773) – křest syna (M).",
         "Sňatek s Annou v O Slavkov 13121 X 1764 – VIII 1769 není. KANDIDÁT příbuzného (K): Jiří Lanížek, † před 1767 (dcera Kateřina × 27. 1. 1767 Ondřej Amon ze Slavkova).",
-        "KANDIDÁT (K): Pavel Lanížek z Heršpic, † před 1753 (dcera Barbora × 16. 1. 1753 vdovec Pavel Peischl ze Slavkova; O 13121 sn. 291 vpravo). Sňatek Pavla st. × Anny v O 13121 ~1759–1764 není."
+        "KANDIDÁT (K): Pavel Lanížek z Heršpic, † před 1753 (dcera Barbora × 16. 1. 1753 vdovec Pavel Peischl ze Slavkova; O 13121 sn. 291 vpravo). Sňatek Pavla st. × Anny v O 13121 ~1759–1764 není.",
+        "KANDIDÁT úmrtí (K): 26. 4. 1796 Heršpice č. 24, „Paul Lanitschek, Inmann“, 75 let (Z 13149, sn. 249 vpravo; M zápis – jediný dospělý Pavel Láníček v indexu 1784–1836; věk ~1721 a dům proti křtu syna 1773 nesedí)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
@@ -11533,7 +11545,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
       spouse: "pavel_la0",
       notes: [
-        "Manželka Pavla Láníčka st. z Heršpic; matka Pavla (*1773) – křest syna (M). Rodné příjmení neuvedeno."
+        "Manželka Pavla Láníčka st. z Heršpic; matka Pavla (*1773) – křest syna (M). Rodné příjmení neuvedeno.",
+        "KANDIDÁT úmrtí (K+): 26. 10. 1805 Heršpice č. 29, „Anna Lanitschek, Bettlerinn“, 80 let (Z 13149, sn. 256 vlevo; M zápis – jediná dospělá Anna Láníčková 1784–1836; syn Pavel žil 1808 v č. 29 jako podruh). ROZPOR: věk 80 → *~1725, při narození Pavla 1773 by jí bylo 48."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
