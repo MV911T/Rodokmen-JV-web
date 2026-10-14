@@ -2530,7 +2530,9 @@ window.RODOKMEN = {
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl)"},
         {"f":"img/1849_krest_martin_lodl_osek_matka.jpg","t":"Křest syna Martina Lodla, Osek 1849 – matka"},
         {"f":"img/1849_krest_martin_lodl_osek_otec.jpg","t":"Křest syna Martina Lodla, Osek 1849 – otec Pavel Lodl"},
-        {"f":"img/1870_Z_Lodl_Pavel_Osek.jpg","t":"Úmrtí manžela Pavla, Osek 18. 2. 1870"}
+        {"f":"img/1870_Z_Lodl_Pavel_Osek.jpg","t":"Úmrtí manžela Pavla, Osek 18. 2. 1870"},
+        {"f":"img/1847_Z_Aubrechtova_Anna_Osek.jpg","t":"Úmrtí matky Anny Aubrechtové, 29. 3. 1847, Osek č. 72"},
+        {"f":"img/1848_Z_Aubrecht_Kaspar_Osek.jpg","t":"Úmrtí otce Kašpara Aubrechta, 19. 10. 1848, Osek č. 72"}
       ]
     },
     {
@@ -2539,6 +2541,8 @@ window.RODOKMEN = {
       line: "aubrecht",
       cert: "M",
       b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      d: {"date":"19. 10. 1848","year":1848,"place":"Osek u Rokycan č. p. 72"},
+      cause: "zápal plic (?)",
       spouse: "anna_ho",
       occ: "výminkář v Oseku č. 72 (1849)",
       marriage: "28. 4. 1807, Osek č. 72 – s vdovou Annou (roz. Holubovou)",
@@ -2547,7 +2551,8 @@ window.RODOKMEN = {
         "Otec Anny Lodlové; děti v č. 72: Barbora (1809), Martin (1811), Anna (I 1813), Anna (14. 12. 1814) aj.",
         "Oddací zápis 1807 rodiče ženicha neuvádí (tabulková kniha); svědkyně Barbora (?) z Volduch.",
         "Vyvrácený kandidát: Kašpar, syn Matěje Aubrechta, sedláka z Oseka č. 55 (* 18. 12. 1777), zemřel v prosinci 1777 ve věku 10 dní (Osek 08, sn. 9).",
-        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110). Sourozenci z téže rodiny (Petr × Dorota, Volduchy, kmotři Vitorovi a Aubrechtovi): Anna 30. 5. 1774 (č. 11), Bartoloměj 17. 8. 1776 (č. 11), Jan Nepomuk (?) 14. 4. 1779 (č. 20), Josef 28. 3. 1783 († 17. 1. 1784). Petr Aubrecht z č. 20 v rejstříku úmrtí Volduchy do 1820 není; sňatek nalezen jen v přeškrtnuté kopii Osek 04 (sn. 86 vpravo): 22. 7. 1772 Volduchy č. 11 – Petr Aubrecht, sedlák ve Volduchách, syn Bartoloměje Aubrechta, s Dorotou, dcerou † Martina (?) Zady (?), sedláka z Volduch (čtení nevěsty nejisté; originál v Osek 07 neověřen)."
+        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110). Sourozenci z téže rodiny (Petr × Dorota, Volduchy, kmotři Vitorovi a Aubrechtovi): Anna 30. 5. 1774 (č. 11), Bartoloměj 17. 8. 1776 (č. 11), Jan Nepomuk (?) 14. 4. 1779 (č. 20), Josef 28. 3. 1783 († 17. 1. 1784). Petr Aubrecht z č. 20 v rejstříku úmrtí Volduchy do 1820 není; sňatek nalezen jen v přeškrtnuté kopii Osek 04 (sn. 86 vpravo): 22. 7. 1772 Volduchy č. 11 – Petr Aubrecht, sedlák ve Volduchách, syn Bartoloměje Aubrechta, s Dorotou, dcerou † Martina (?) Zady (?), sedláka z Volduch (čtení nevěsty nejisté; originál v Osek 07 neověřen).",
+        "Zemřel 19. 10. 1848 v Oseku č. 72 (pohřben 21. 10., zaopatřen 15. 10.): „Aubrecht Kašpar, wdowec a muž † ženy Anny, a wejminkář, rod. (?) z Mirošowa (?)“, 65 let (M; → *~1783). ROZPOR: povolání „výminkář v Oseku č. 72 (1849)“ pochází z křtu vnuka 1849 – tehdy už nežil; platí zápis o úmrtí."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
@@ -2555,14 +2560,17 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, Osek 06 (N), str. 37 a 51, snímky 22 a 29 – https://www.portafontium.eu/iipimage/30066672/osek-06_0220-n",
         "SOA Plzeň, fara Osek, Osek 08 (Z 1772–1820), snímek 9 vpravo (XII 1777) – https://www.portafontium.eu/iipimage/30066674/osek-08_0090-z",
         "SOA Plzeň, fara Osek, Osek 05 (N), Volduchy, snímek 77 vlevo (3. 2. 1781) – https://www.portafontium.eu/iipimage/30066671/osek-05_0770-n",
-        "SOA Plzeň, fara Osek, Osek 05 (N), Volduchy, snímky 65, 69, 74, 80 (křty dětí Petra Aubrechta 1774–1783) – https://www.portafontium.eu/iipimage/30066671/osek-05_0650-n"
+        "SOA Plzeň, fara Osek, Osek 05 (N), Volduchy, snímky 65, 69, 74, 80 (křty dětí Petra Aubrechta 1774–1783) – https://www.portafontium.eu/iipimage/30066671/osek-05_0650-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 17 (Z), pag. 5, snímek 7, 7. zápis – https://www.portafontium.eu/iipimage/30066683/osek-17_0070-z"
       ],
       scans: [
         {"f":"img/1899_krestni_list_vaclav_votava_sous.jpg","t":"Křest syna/vnuka Václava, Souš 1899 (dítě: Martin Lodl) (dítě: Anna Lodlová)"},
         {"f":"img/1807_O_Aubrecht_Kaspar_Anna_Osek.jpg","t":"Sňatek Kašpara Aubrechta s vdovou Annou, Osek č. 72, 28. 4. 1807"},
         {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"},
         {"f":"img/1781_N_Aubrecht_Kaspar_Volduchy20.jpg","t":"KANDIDÁT: křest Kašpara Aubrechta, Volduchy č. 20, 3. 2. 1781 (otec Petr, matka Dorota)"},
-        {"f":"img/1777_Z_Aubrecht_Kaspar_syn_Mateje_Osek55.jpg","t":"Úmrtí Kašpara, syna Matěje Aubrechta, Osek č. 55, XII 1777 (10 dní) – vyvrácený kandidát"}
+        {"f":"img/1777_Z_Aubrecht_Kaspar_syn_Mateje_Osek55.jpg","t":"Úmrtí Kašpara, syna Matěje Aubrechta, Osek č. 55, XII 1777 (10 dní) – vyvrácený kandidát"},
+        {"f":"img/1848_Z_Aubrecht_Kaspar_Osek.jpg","t":"Úmrtí 19. 10. 1848, Osek č. 72"},
+        {"f":"img/1847_Z_Aubrechtova_Anna_Osek.jpg","t":"Úmrtí manželky Anny, Osek 29. 3. 1847"}
       ]
     },
     {
@@ -2572,20 +2580,24 @@ window.RODOKMEN = {
       line: "holub",
       cert: "M",
       b: {"date":"25. 7. 1779","year":1779,"place":"Osek u Rokycan č. p. 8"},
+      d: {"date":"29. 3. 1847","year":1847,"place":"Osek u Rokycan č. p. 72"},
+      cause: "stářím (?)",
       father: "mikulas_hb",
       mother: "dominika_hb",
       spouse: "kaspar_a",
       marriage: "28. 4. 1807, Osek – s Kašparem Aubrechtem (2. sňatek); 1. sňatek 1799, Osek č. 72 – s Josefem Kromesem (?) († I 1807)",
       notes: [
         "Pokřtěna 25. 7. 1779 v Oseku č. 8: otec Václav (Wentzl) Holub, sedlák, matka Veronika; kmotři Magdalena Tomášková a Josef Kremel (?).",
-        "1. sňatek 29. 1. 1799 v Oseku č. 72: Josef, syn Matěje Kromese (?) (psáno „Kromeß“, v rejstříku „Kromer“, 1807 „Hromes“), 18 let, s Annou, dcerou Václava Holuba, 19 let; svědci Jan Bošlav (?), Josef Uhlíř (?) a Dorota Zustová (?); oddal kaplan Karel Gruber. Josef (narozený v Oseku č. 72 podle křtu z ledna 1781) zemřel v lednu 1807 ve 26 letech; 28. 4. 1807 se Anna znovu vdala za Kašpara Aubrechta."
+        "1. sňatek 29. 1. 1799 v Oseku č. 72: Josef, syn Matěje Kromese (?) (psáno „Kromeß“, v rejstříku „Kromer“, 1807 „Hromes“), 18 let, s Annou, dcerou Václava Holuba, 19 let; svědci Jan Bošlav (?), Josef Uhlíř (?) a Dorota Zustová (?); oddal kaplan Karel Gruber. Josef (narozený v Oseku č. 72 podle křtu z ledna 1781) zemřel v lednu 1807 ve 26 letech; 28. 4. 1807 se Anna znovu vdala za Kašpara Aubrechta.",
+        "Zemřela 29. 3. 1847 v Oseku č. 72 (pohřbena 1. 4.): „Aubrecht Anna, žena Kašpara Aubrechta, wejminkáře z Woseka, rozená Wáclawa Holuba z Woseka N° 8“, 68 let (M)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
         "SOA Plzeň, fara Osek, Osek 07 (O), str. 34, snímek 19 vlevo – https://www.portafontium.eu/iipimage/30066673/osek-07_0190-o",
         "SOA Plzeň, fara Osek, Osek 06 (N), str. 37 a 51, snímky 22 a 29 – https://www.portafontium.eu/iipimage/30066672/osek-06_0220-n",
         "SOA Plzeň, fara Osek, Osek 05 (N), str. 17, snímek 11 vpravo (25. 7. 1779) – https://www.portafontium.eu/iipimage/30066672/osek-05_0110-n",
-        "SOA Plzeň, fara Osek, Osek 07 (O), str. 24, snímek 14 vlevo (29. 1. 1799); rejstřík O písm. K sn. 33 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o"
+        "SOA Plzeň, fara Osek, Osek 07 (O), str. 24, snímek 14 vlevo (29. 1. 1799); rejstřík O písm. K sn. 33 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 10 (Z), pag. 268, snímek 136 vpravo, 3. zápis; rejstřík A sn. 143 vlevo – https://www.portafontium.eu/iipimage/30066676/osek-10_1360-z"
       ],
       scans: [
         {"f":"img/1779_N_Holubova_Anna_Osek.jpg","t":"Křest Anny Holubové, Osek č. 8, 25. 7. 1779"},
@@ -2595,7 +2607,9 @@ window.RODOKMEN = {
         {"f":"img/1814_N_Aubrechtova_Anna_Osek.jpg","t":"Křest Anny Aubrechtové, Osek č. 72, 13./14. 12. 1814 – matka Anna, dcera Václava Holuby a Veroniky"},
         {"f":"img/1776_O_Holub_Vaclav_Forejtova_Veronika_Osek8.jpg","t":"Sňatek rodičů Václava Holuba a Veroniky Forejtové, Osek 22. 10. 1776"},
         {"f":"img/1753_N_Forejtova_Veronika_Volduchy.jpg","t":"Křest matky Veroniky Forejtové, Volduchy 1753"},
-        {"f":"img/1754_N_Holub_Vaclav_Volduchy.jpg","t":"Křest otce Václava Holuba, Volduchy 1754"}
+        {"f":"img/1754_N_Holub_Vaclav_Volduchy.jpg","t":"Křest otce Václava Holuba, Volduchy 1754"},
+        {"f":"img/1847_Z_Aubrechtova_Anna_Osek.jpg","t":"Úmrtí 29. 3. 1847, Osek č. 72"},
+        {"f":"img/1848_Z_Aubrecht_Kaspar_Osek.jpg","t":"Úmrtí manžela Kašpara, Osek 19. 10. 1848"}
       ]
     },
     {
@@ -2630,7 +2644,9 @@ window.RODOKMEN = {
         {"f":"img/1846_oddani_matej_forejt_anna_laukotova_osek_nevesta.jpg","t":"Sňatek Matěje Forejta a Anny Laukotové, Osek 1846 – nevěsta"},
         {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"},
         {"f":"img/1891_Z_Forejt_Matej_Osek.jpg","t":"Úmrtí 29. 8. 1891, Osek č. 91"},
-        {"f":"img/1883_Z_Forejtova_Anna_Osek.jpg","t":"Úmrtí manželky Anny, Osek 5. 8. 1883"}
+        {"f":"img/1883_Z_Forejtova_Anna_Osek.jpg","t":"Úmrtí manželky Anny, Osek 5. 8. 1883"},
+        {"f":"img/1849_Z_Forejtova_Veronika_Osek.jpg","t":"Úmrtí matky Veroniky Forejtové, 23. 11. 1849, Osek č. 91"},
+        {"f":"img/1852_Z_Forejt_Josef_Osek.jpg","t":"Úmrtí otce Josefa Forejta, 24. 12. 1852, Osek č. 91"}
       ]
     },
     {
@@ -2910,6 +2926,8 @@ window.RODOKMEN = {
       line: "forejt",
       cert: "M",
       b: {"date":"2. (?) 6. 1781","year":1781,"place":"Osek u Rokycan č. p. 66"},
+      d: {"date":"24. 12. 1852","year":1852,"place":"Osek u Rokycan č. p. 91"},
+      cause: "stářím (?)",
       father: "vit_fo",
       mother: "barbora_fo",
       spouse: "marianna_le",
@@ -2918,18 +2936,22 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěn v červnu 1781 (den 2. ?) v Oseku č. 66; „Forejt Witwe, Barbara Mutter“ – pohrobek Víta Forejta, matka Barbora, vdova. Kmotři Daniel Schuha (?), Šimon Koßlau (?) a Kateřina Aubrechtová.",
         "Oddán 27. 11. 1801 v Oseku (dům č. 66): Josef Forejt, Bergmann, 20 let, svobodný; svědci Josef Uhlíř (?), podruh, a Jakub Šikora (?), voják; oddával kaplan P. Karl Gruler (?). Rodiče snoubenců zápis neuvádí.",
-        "Otec Matěje Forejta (*1823); dal souhlas k jeho sňatku 1846."
+        "Otec Matěje Forejta (*1823); dal souhlas k jeho sňatku 1846.",
+        "Zemřel 24. 12. 1852 v Oseku č. 91 (pohřben 26. 12., zaopatřen 16. 12.): „Foreit Josef, pens. (?) hawjř a wdowec po † Weronice, rozené Trgjk z Woldůch“, 76 let 1 měsíc (M; věk nadsazený – platí křest 1781)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 28, snímek 16 – https://www.portafontium.eu/iipimage/30066673/osek-07_0160-o",
-        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 14 – https://www.portafontium.eu/iipimage/30066671/osek-05_0140-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 14 – https://www.portafontium.eu/iipimage/30066671/osek-05_0140-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 17 (Z), pag. 32, snímek 33, 5. zápis – https://www.portafontium.eu/iipimage/30066683/osek-17_0330-z"
       ],
       scans: [
         {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"},
         {"f":"img/1801_oddani_josef_forejt_veronika_osek.jpg","t":"Sňatek Josefa Forejta a Veroniky, Osek 27. 11. 1801"},
-        {"f":"img/1781_krest_josef_forejt_osek66_osek05_sn14.jpg","t":"Křest Josefa Forejta, Osek 1781"}
+        {"f":"img/1781_krest_josef_forejt_osek66_osek05_sn14.jpg","t":"Křest Josefa Forejta, Osek 1781"},
+        {"f":"img/1852_Z_Forejt_Josef_Osek.jpg","t":"Úmrtí 24. 12. 1852, Osek č. 91"},
+        {"f":"img/1849_Z_Forejtova_Veronika_Osek.jpg","t":"Úmrtí manželky Veroniky, Osek 23. 11. 1849"}
       ]
     },
     {
@@ -2939,26 +2961,32 @@ window.RODOKMEN = {
       line: "lezak",
       cert: "M",
       b: {"date":"12. 3. 1783","year":1783,"place":"Volduchy č. p. 67"},
+      d: {"date":"23. 11. 1849","year":1849,"place":"Osek u Rokycan č. p. 91"},
+      cause: "stářím (?)",
       father: "josef_le",
       spouse: "josef_f",
       marriage: "27. 11. 1801, Osek – s Josefem Forejtem",
       notes: [
         "Pokřtěna 12. 3. 1783 ve Volduchách č. 67 (fara Osek); otec Josef Trgjk, matka Dorota. Kmotři Barbora Forejtová, Barbora Viková (?) a Johann Krumer (?).",
         "Při sňatku 1801 18 let. Matka Matěje Forejta; jméno Veronika potvrzeno zápisy 1783, 1823, 1846, 1848.",
-        "Josef Trgjk s manželkou Kateřinou (děti 1782–1785, Osek č. 67) je jiný Josef – rozpor vyřešen."
+        "Josef Trgjk s manželkou Kateřinou (děti 1782–1785, Osek č. 67) je jiný Josef – rozpor vyřešen.",
+        "Zemřela 23. 11. 1849 v Oseku č. 91 (pohřbena 25. 11., zaopatřena 20. 11.): „Foreit Weronika, žena Josefa Forejta domkáře, dcera Josefa Trgjka z Woldůch“, 65 let (M)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066679/osek-13_0590-n",
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 28, snímek 16 – https://www.portafontium.eu/iipimage/30066673/osek-07_0160-o",
-        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Volduchy, snímek 80 – https://www.portafontium.eu/iipimage/30066671/osek-05_0800-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Volduchy, snímek 80 – https://www.portafontium.eu/iipimage/30066671/osek-05_0800-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 17 (Z), pag. 11/12, snímek 13, 10. zápis – https://www.portafontium.eu/iipimage/30066683/osek-17_0130-z"
       ],
       scans: [
         {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři"},
         {"f":"img/1801_oddani_josef_forejt_veronika_osek.jpg","t":"Sňatek Josefa Forejta a Veroniky, Osek 27. 11. 1801"},
         {"f":"img/prijmeni_trgjk_srovnani.jpg","t":"Srovnání příjmení Trgjk v zápisech 1801–1849"},
-        {"f":"img/1783_krest_veronika_trgjk_volduchy67_osek05_sn80.jpg","t":"Křest Veroniky Trgjkové, Volduchy 1783"}
+        {"f":"img/1783_krest_veronika_trgjk_volduchy67_osek05_sn80.jpg","t":"Křest Veroniky Trgjkové, Volduchy 1783"},
+        {"f":"img/1849_Z_Forejtova_Veronika_Osek.jpg","t":"Úmrtí 23. 11. 1849, Osek č. 91"},
+        {"f":"img/1852_Z_Forejt_Josef_Osek.jpg","t":"Úmrtí manžela Josefa, Osek 24. 12. 1852"}
       ]
     },
     {
