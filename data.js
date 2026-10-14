@@ -11751,7 +11751,7 @@ window.RODOKMEN = {
       spouse: "anna_mh0",
       occ: "sedlák ve Zdicích",
       notes: [
-        "Otec Dominika Merhauta: křest 1754 „otce Víta Merhauta, matky Anny“ a oddací zápis syna 1776 „filius Viti Merhout, rustici ex Zdicz“ (M). Sňatek s Annou (Zdice 01 O ~1744–1753) nehledán."
+        "Otec Dominika Merhauta: křest 1754 „otce Víta Merhauta, matky Anny“ a oddací zápis syna 1776 „filius Viti Merhout, rustici ex Zdicz“ (M). Sňatek s Annou v O Zdice 1744–1753 není (Praha N10–N11) → nejspíš před 1744; zdické matriky 1717–1743 se nedochovaly."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), fol. 37, sn. 40 vpravo; O sn. 318 vlevo"
