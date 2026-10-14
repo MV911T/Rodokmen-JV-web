@@ -2859,7 +2859,8 @@ window.RODOKMEN = {
         {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830"},
         {"f":"img/1830_snatek_vaclav_ota_krchleby_a.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové, Krchleby 17. 2. 1830 – ženich"},
         {"f":"img/1830_snatek_vaclav_ota_krchleby_b.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové 1830 – nevěsta, svědci"},
-        {"f":"img/1838_Z_Malek_Pavel_Krchleby.jpg","t":"Úmrtí otce Pavla Málka, Krchleby 1838"}
+        {"f":"img/1838_Z_Malek_Pavel_Krchleby.jpg","t":"Úmrtí otce Pavla Málka, Krchleby 1838"},
+        {"f":"img/1844_Z_Malkova_Anna_Krchleby.jpg","t":"Úmrtí matky Anny Málkové, Krchleby 1844"}
       ]
     },
     {
@@ -4504,18 +4505,21 @@ window.RODOKMEN = {
       name: "Matěj Svoboda",
       line: "svoboda",
       cert: "M",
-      b: {"date":"neznámé (asi 1790)","year":1790,"approx":true},
+      b: {"date":"9. 10. 1791","year":1791,"place":"Málkov č. 1 (fara Borek)"},
       father: "vaclav_sv1",
+      mother: "ludmila_sv1",
       spouse: "alzbeta_za",
       occ: "domkář v Malkově (statek Tmaň)",
       marriage: "XI 1818, Málkov (fara Borek) – s Alžbětou Kubáčkovou (?)",
       notes: [
         "Domkář v Málkově (statek Tmaň). Oddán v listopadu 1818 (den 8. ?) v Málkově: „Matěj, vlastní syn Václava Svobody, domkáře Malkovského, panství Tmaňského“, 28 let, s Alžbětou, vlastní dcerou Augustina Kubáčka (?), sedláka Malkovského č. 7, a matky Ludmily, 19 let; oddal farář Wenc. Fr. Matiegka (M). Jediný sňatek Matěje × Alžběty v Málkově 1800–1824.",
-        "Otec Václava Svobody (*1820)."
+        "Otec Václava Svobody (*1820).",
+        "Narozen 9. 10. 1791 v Málkově č. 1 – rejstřík N fary Borek (Borek 11, sn. 35 vlevo): „Swoboda Mathias | Wenzl Ludmila | Lib. D, pag. 53“ (D; zápis v knize zatím nečten). Sourozenci podle rejstříku: Marie (1786 ?), Josef (1789), Mikuláš (?) (12. 6. 1794)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
+        "SOA Praha, ř.-k. fara Borek, rejstřík N Borek 11 (4080), písm. S, snímek 35 vlevo – https://ebadatelna.soapraha.cz/d/4080/35"
       ],
       scans: [
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Václav Svoboda)"},
@@ -4550,23 +4554,29 @@ window.RODOKMEN = {
       name: "Pavel Málek",
       line: "malek",
       cert: "M",
-      b: {"date":"neznámé (asi XI 1760)","year":1760,"approx":true},
+      b: {"date":"22. 10. 1760 (pokřtěn 23. 10.)","year":1760,"place":"Krchleby (fara Nymburk)"},
       d: {"date":"20. 9. 1838","year":1838,"place":"Krchleby č. p. 53"},
+      father: "pavel_ma0",
+      mother: "anna_ma0",
       spouse: "anna_kr",
       occ: "sedlák v Krchlebích č. 53",
       notes: [
+        "Narozen 22. 10., pokřtěn 23. 10. 1760: „Ze Skrchleb dítě Pavel, otec Pavel Málek sedlák, mateř Anna, poddaní volkovaní (?)“; kmotr Jan Matějka, sedlák, svědci Matěj Proutský (?), sedlák, a Lidmila, manželka Karla Němečka, sedláka (M; datum sedí s věkem při úmrtí 1838).",
         "Otec Kateřiny Otové; usedlost Krchleby č. 53 později převzal zeť Václav Ota.",
-        "Zemřel 20. 9. 1838 v Krchlebích č. 53 (pohřben 22. 9.): „Pavel Málek, vysloužilý výminkář (?) v výminku ze Skrchleb“, 77 let 10 měsíců (M; → asi XI 1760). Dcera Anna † 26. 5. 1798 ve věku 6 měsíců (č. 53) – ženatý nejpozději 1797. KANDIDÁT bratra: Václav Málek (24) × 15. 6. 1790 Dorota Němečková (?) v Krchlebích č. 53, svědek „Pavel Málek, sedlák“ (Nymburk 08, sn. 195 vpravo). Sňatek s Annou Krebsovou v O Nymburk 08 (Krchleby, Všechlapy) 1784–1798 není – snad před 1784 nebo 2. manželka."
+        "Zemřel 20. 9. 1838 v Krchlebích č. 53 (pohřben 22. 9.): „Pavel Málek, vysloužilý výminkář (?) v výminku ze Skrchleb“, 77 let 10 měsíců (M). Dcera Anna † 26. 5. 1798 ve věku 6 měsíců (č. 53) – ženatý nejpozději 1797. KANDIDÁT bratra: Václav Málek (24) × 15. 6. 1790 Dorota Němečková (?) v Krchlebích č. 53, svědek „Pavel Málek, sedlák“ (Nymburk 08, sn. 195 vpravo). Sňatek s Annou Krebsovou v O Nymburk 08 (Krchleby, Všechlapy) 1784–1798 není – snad před 1784 nebo 2. manželka."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57",
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
-        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 04 (13542, Z), str. 59, snímek 62 (20. 9. 1838); index Veleliby 13 sn. 40 – https://ebadatelna.soapraha.cz/d/13542/62"
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 04 (13542, Z), str. 59, snímek 62 (20. 9. 1838); index Veleliby 13 sn. 40 – https://ebadatelna.soapraha.cz/d/13542/62",
+        "SOA Praha, ř.-k. fara Nymburk, kniha Nymburk 07 (10406, N/O/Z 1741–1767), pag. 252, snímek 132 vlevo (23. 10. 1760) – https://ebadatelna.soapraha.cz/d/10406/132"
       ],
       scans: [
+        {"f":"img/1760_N_Malek_Pavel_Krchleby.jpg","t":"Křest 23. 10. 1760, Krchleby"},
         {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830 (dítě: Kateřina Otová)"},
         {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest dcery Kateřiny, Krchleby 1806"},
-        {"f":"img/1838_Z_Malek_Pavel_Krchleby.jpg","t":"Úmrtí 20. 9. 1838, Krchleby č. 53"}
+        {"f":"img/1838_Z_Malek_Pavel_Krchleby.jpg","t":"Úmrtí 20. 9. 1838, Krchleby č. 53"},
+        {"f":"img/1844_Z_Malkova_Anna_Krchleby.jpg","t":"Úmrtí manželky Anny, Krchleby 1844"}
       ]
     },
     {
@@ -4612,19 +4622,24 @@ window.RODOKMEN = {
       maiden: "Krebsová (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      b: {"date":"neznámé (asi 1769)","year":1769,"approx":true},
+      d: {"date":"8. 10. 1844","year":1844,"place":"Krchleby č. p. 53"},
+      cause: "vysílením (?)",
       father: "jan_kb",
       spouse: "pavel_ma",
       notes: [
-        "Manželka Pavla Málka, sedláka v Krchlebích č. 53; dcera † Jana Krebse (?), sedláka ze Všechlap (panství Loučeň) – křty dcer Anny 1804 a Kateřiny 1806 (M; příjmení čteno nejistě, rod Krebs ve Všechlapech doložen v rejstříku N). Sňatek s Pavlem není v rejstříku O Veleliby 1799–1861 (asi před 1799)."
+        "Manželka Pavla Málka, sedláka v Krchlebích č. 53; dcera † Jana Krebse (?), sedláka ze Všechlap (panství Loučeň) – křty dcer Anny 1804 a Kateřiny 1806 (M; příjmení čteno nejistě, rod Krebs ve Všechlapech doložen v rejstříku N). Sňatek s Pavlem není v rejstříku O Veleliby 1799–1861 (asi před 1799).",
+        "Zemřela 8. 10. 1844 v Krchlebích č. 53 (pohřbena 10. 10.): „Anna, pozůstalá vdova po † Pavlu Málkovi, sedláku v výminku ze Skrchleb“, 75 let (M; → asi 1769). Sňatek s Pavlem asi 1787–1797 – v O Nymburk 08 (Krchleby, Všechlapy) 1780–1798 není."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
-        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (13539, N 1798–1864), oddíl Krchleby, pag. 21, snímek 14 (5. 11. 1806) a pag. 15, snímek 11 (13. 1. 1804); rejstřík Veleliby 13 sn. 22 – https://ebadatelna.soapraha.cz/d/13539/14"
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (13539, N 1798–1864), oddíl Krchleby, pag. 21, snímek 14 (5. 11. 1806) a pag. 15, snímek 11 (13. 1. 1804); rejstřík Veleliby 13 sn. 22 – https://ebadatelna.soapraha.cz/d/13539/14",
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 04 (13542, Z), str. 71, snímek 74 (8. 10. 1844); index Veleliby 13 sn. 40 – https://ebadatelna.soapraha.cz/d/13542/74"
       ],
       scans: [
         {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830 (dítě: Kateřina Otová)"},
-        {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest dcery Kateřiny, Krchleby 1806"}
+        {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest dcery Kateřiny, Krchleby 1806"},
+        {"f":"img/1844_Z_Malkova_Anna_Krchleby.jpg","t":"Úmrtí 8. 10. 1844, Krchleby č. 53"}
       ]
     },
     {
@@ -11200,6 +11215,7 @@ window.RODOKMEN = {
       line: "svoboda",
       cert: "M",
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      spouse: "ludmila_sv1",
       occ: "domkář v Málkově (panství Tmaň)",
       notes: [
         "Domkář v Málkově (panství Tmaň); otec Matěje Svobody – oddací zápis syna 1818 (M). Nezaměňovat s Václavem Svobodou (*~1781, syn Matěje × Anny, domkář v Suchomastech č. 14)."
@@ -11360,6 +11376,55 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Třeboň, fara Velká Chyška, Cetule N/O/Z 1785–1801 (kniha 8197), snímky 9–12 (křty 1792–1799) – https://digi.ceskearchivy.cz/8197"
+      ]
+    },
+    {
+      id: "pavel_ma0",
+      name: "Pavel Málek",
+      line: "malek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
+      spouse: "anna_ma0",
+      occ: "sedlák v Krchlebích",
+      notes: [
+        "Sedlák v Krchlebích (fara Nymburk); otec Pavla (*22. 10. 1760) – křest syna (M)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Nymburk, kniha Nymburk 07 (10406, N/O/Z 1741–1767), pag. 252, snímek 132 vlevo (23. 10. 1760) – https://ebadatelna.soapraha.cz/d/10406/132"
+      ],
+      scans: [
+        {"f":"img/1760_N_Malek_Pavel_Krchleby.jpg","t":"Křest syna Pavla, Krchleby 1760"}
+      ]
+    },
+    {
+      id: "anna_ma0",
+      name: "Anna Málková",
+      line: "malek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1735)","year":1735,"approx":true},
+      spouse: "pavel_ma0",
+      notes: [
+        "Manželka Pavla Málka, sedláka v Krchlebích; matka Pavla (*1760) – křest syna (M). Rodné příjmení neuvedeno."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Nymburk, kniha Nymburk 07 (10406, N/O/Z 1741–1767), pag. 252, snímek 132 vlevo (23. 10. 1760) – https://ebadatelna.soapraha.cz/d/10406/132"
+      ],
+      scans: [
+        {"f":"img/1760_N_Malek_Pavel_Krchleby.jpg","t":"Křest syna Pavla, Krchleby 1760"}
+      ]
+    },
+    {
+      id: "ludmila_sv1",
+      name: "Ludmila Svobodová",
+      line: "svoboda",
+      cert: "D",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      spouse: "vaclav_sv1",
+      notes: [
+        "Manželka Václava Svobody, domkáře v Málkově; matka Matěje (*1791) – rejstřík N fary Borek „Wenzl Ludmila“ (D; zápis nečten, rodné příjmení neznámé)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Borek, rejstřík N Borek 11 (4080), snímek 35 vlevo"
       ]
     }
   ]
