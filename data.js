@@ -4454,12 +4454,14 @@ window.RODOKMEN = {
       d: {"date":"18. 4. 1800","year":1800,"place":"Osek u Rokycan č. p. 83"},
       cause: "mrtvice („Schlagfluss“)",
       father: "johann_ko",
+      mother: "anna_ko",
       spouse: "simon_tr",
       marriage: "28. 10. 1781, Osek – se Šimonem Trgjkem",
       notes: [
         "Matka Kateřiny Lodlové; dcera † Jana Košaje (Koßay), sedláka z Volduch (dřívější čtení „Koßlau“ chybné – ověřeno na oddacím zápisu 1781). Křest dcery Barbory 1784 „geb. Schar… (?)“ – nečitelné.",
         "Zemřela 18. 4. 1800 v Oseku č. 83 jako manželka sedláka Šimona Trgjka, 38 let.",
-        "KANDIDÁT křtu (K+): 31. 5. 1762 ve Volduchách – „Anna, legitima filia Joannis Kossay, rustici, et uxoris ejus Annae“, nar. 30. 5. 1762; kmotra Anna Aubrechtová z Volduch (Osek 04 N, str. 23, sn. 14 vpravo; jediná Anna Košajová v rejstříku 1760–1771). Věk 38 při úmrtí 1800 sedí."
+        "KANDIDÁT křtu (K+): 31. 5. 1762 ve Volduchách – „Anna, legitima filia Joannis Kossay, rustici, et uxoris ejus Annae“, nar. 30. 5. 1762; kmotra Anna Aubrechtová z Volduch (Osek 04 N, str. 23, sn. 14 vpravo; jediná Anna Košajová v rejstříku 1760–1771). Věk 38 při úmrtí 1800 sedí.",
+        "KANDIDÁTI sourozenců (děti Jana Košaje, sedláka z Volduch, × Anny; M zápisy, ztotožnění rodiny K+): Jan (8. 10. 1747, Osek 03 N str. 68), dvojčata Anna a Markéta (11. 6. 1751, str. 104), Jan (8. 9. 1765, Osek 04 N str. 43 – příjmení zde „Kossařz“, ROZPOR Košaj/Košař)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n",
@@ -6096,6 +6098,7 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
       d: {"date":"před 28. 10. 1781","year":1781,"approx":true},
+      spouse: "anna_ko",
       occ: "sedlák (rusticus) ve Volduchách",
       notes: [
         "Sedlák z Volduch; otec Anny Trgjkové (oddací zápis 1781 „Joann Koßay“, M). Při jejím sňatku 28. 10. 1781 už nežil.",
@@ -11079,6 +11082,21 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1769_O_Tukal_Frantisek_Adamusova_Anna_Prepere.jpg","t":"Sňatek dcery Anny, Přepeře 1769"}
+      ]
+    },
+    {
+      id: "anna_ko",
+      name: "Anna Košajová",
+      maiden: "Forejtová (?)",
+      line: "forejt",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      spouse: "johann_ko",
+      notes: [
+        "KANDIDÁTKA (K+): manželka Jana Košaje, sedláka z Volduch, matka Anny (*1762) – ve všech křtech dětí 1747–1765 „matka Anna“ (M). Nejspíš nevěsta z 25. 10. 1745: „Jan, vlastní syn Jana Košaje z Volduch, s … vlastní dcerou pozůstalou po † Petru Forejtovi též z Volduch“ (Osek 03 O, str. 21, sn. 119 vpravo – křestní jméno nevěsty v zápisu chybí); jiný sňatek Jana Košaje 1740–1771 v rejstříku není."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 03 O str. 21 (25. 10. 1745); Osek 03 N str. 68, 104; Osek 04 N str. 23, 43 – https://www.portafontium.eu/iipimage/30066669/osek-03_1190-o"
       ]
     }
   ]
