@@ -4775,7 +4775,8 @@ window.RODOKMEN = {
         {"f":"img/1872_O_13144_sn21_str36_Kucera_Matous_Jakubcova_Svobodova_Anezka_Herspice.jpg","t":"Sňatek Matouše Kučery a Anežky Jakubcové roz. Svobodové, Heršpice 14. 7. 1872"},
         {"f":"img/1844_N_13124_sn327_str83_Kucera_Matous_Herspice_c40.jpg","t":"Křest Matouše Kučery, Heršpice 1844"},
         {"f":"img/1917_Z_Kucera_Matous_Herspice.jpg","t":"Úmrtí 25. 1. 1917, Heršpice č. 37"},
-        {"f":"img/1874_Z_Kucera_Jan_Herspice.jpg","t":"Úmrtí otce Jana Kučery, Heršpice 25. 9. 1874"}
+        {"f":"img/1874_Z_Kucera_Jan_Herspice.jpg","t":"Úmrtí otce Jana Kučery, Heršpice 25. 9. 1874"},
+        {"f":"img/1891_Z_Kucerova_Veronika_Herspice.jpg","t":"Úmrtí matky Veroniky Kučerové, Heršpice 25. 12. 1891"}
       ]
     },
     {
@@ -5863,25 +5864,30 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"28. 1. 1814","year":1814,"place":"Křenovice č. p. 82"},
+      d: {"date":"25. 12. 1891","year":1891,"place":"Heršpice č. p. 40"},
+      cause: "sešlost věkem",
       father: "frantisek_sp",
       mother: "marianna_sp",
       spouse: "jan_ku",
       marriage: "9. 7. 1837, Křenovice – s Janem Kučerou",
       notes: [
         "Narozena a pokřtěna 28. 1. 1814 v Křenovicích č. 82: otec František Spačil, domkář, matka Marianna Zrůnková (?); kmotři Kašpar Lotrab (?), třičtvrtník, a manželka Tekla.",
-        "Matka Matouše Kučery; dcera † Františka Spačila, pololáníka v Křenovicích, a Marianny; při sňatku 1837 uvedeno 23 let (ve skutečnosti 23)."
+        "Matka Matouše Kučery; dcera † Františka Spačila, pololáníka v Křenovicích, a Marianny; při sňatku 1837 uvedeno 23 let (ve skutečnosti 23).",
+        "Zemřela 25. 12. 1891 v Heršpicích č. 40 (pohřbena 27. 12., farář Josef Pospíšil, kooperátor Jan Kř. Hasař (?)): „Kučerova Veronika, vdova po † Janu Kučerovi, ¾ láníku v Heršpicích“, 77 let (M; dům a věk sedí)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
-        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 212, snímek 205 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 212, snímek 205 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, fara Slavkov u Brna, Z Heršpice 1837–1949 (sign. 13155), str. 75, snímek 39 vpravo, č. 11/1891; index Z 13162 sn. 92 vpravo – https://www.mza.cz/actapublica/matrika/detail/12384"
       ],
       scans: [
         {"f":"img/1837_O_13138_sn152R_Krenovice_str39_Kucera_Jan_Spacilova_Veronika.jpg","t":"Sňatek Jana Kučery a Veroniky Spačilové, Křenovice 1837"},
         {"f":"img/1814_N_13123_sn205_str212_Krenovice_c82_Spacilova_Veronika_radek_plne_rozl.jpg","t":"Křest Veroniky Spačilové, Křenovice 28. 1. 1814"},
         {"f":"img/1844_N_13124_sn327_str83_Kucera_Matous_Herspice_c40.jpg","t":"Křest syna Matouše Kučery, Heršpice 1844"},
-        {"f":"img/1874_Z_Kucera_Jan_Herspice.jpg","t":"Úmrtí manžela Jana, Heršpice 25. 9. 1874"}
+        {"f":"img/1874_Z_Kucera_Jan_Herspice.jpg","t":"Úmrtí manžela Jana, Heršpice 25. 9. 1874"},
+        {"f":"img/1891_Z_Kucerova_Veronika_Herspice.jpg","t":"Úmrtí 25. 12. 1891, Heršpice č. 40"}
       ]
     },
     {
@@ -5898,7 +5904,8 @@ window.RODOKMEN = {
       notes: [
         "Narozen a pokřtěn 20. 7. 1817 v Heršpicích č. 52; otec Martin Svoboda, tesař, matka Magdalena Tichá; kmotři Pavel Láníček a manželka Magdalena (budoucí tchán a tchyně).",
         "Oddán 1841 v Heršpicích (č. 52/57) jako domkář, 23 let; syn † Martina Svobody, domkáře v Heršpicích, a Magdaleny roz. Fuchsové (?) – podle křtu Tiché.",
-        "Později čtvrtník v Heršpicích; otec Anežky Kučerové."
+        "Později čtvrtník v Heršpicích; otec Anežky Kučerové.",
+        "Žil 3. 10. 1873 (úmrtí manželky, M). V indexu Z fary Slavkov 1872–1907 (S) není – zemřel jinde nebo pod zkomoleným jménem."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -6323,7 +6330,8 @@ window.RODOKMEN = {
       marriage: "6. 7. 1819, Křenovice – s Annou Spačilovou",
       notes: [
         "Pokřtěn 10. 2. 1789 v Heršpicích č. 4: otec Martin Maláč, podruh, matka Kateřina; kmotři Vavřinec Maláč a manželka Veronika.",
-        "Oddán 6. 7. 1819 v Křenovicích jako třičtvrtník z Heršpic (č. 4), 30 let, s Annou, dcerou † Matěje Spačila z Křenovic č. 35, 21 let; svědci František Fuks a Lazar Hložek, třičtvrtníci. Otec Františky Hrabovské."
+        "Oddán 6. 7. 1819 v Křenovicích jako třičtvrtník z Heršpic (č. 4), 30 let, s Annou, dcerou † Matěje Spačila z Křenovic č. 35, 21 let; svědci František Fuks a Lazar Hložek, třičtvrtníci. Otec Františky Hrabovské.",
+        "V indexu Z fary Slavkov 1852–1861 (M) není – zemřel nejspíš před 1852 (index 13161)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
