@@ -2834,20 +2834,23 @@ window.RODOKMEN = {
       maiden: "Málková",
       line: "malek",
       cert: "M",
-      b: {"date":"asi 1806/1807","year":1807,"approx":true,"place":"Krchleby č. p. 53"},
+      b: {"date":"4. 11. 1806","year":1806,"place":"Krchleby č. p. 53 (fara Veleliby)"},
       father: "pavel_ma",
       mother: "anna_kr",
       spouse: "vaclav_o",
       marriage: "17. 2. 1830, Krchleby – s Václavem Otou",
       notes: [
-        "Matka Marie Čapkové; dcera Pavla Málka, sedláka z Krchleb č. 53, a Anny roz. Kra…šové (?). Při sňatku 1830 23 let."
+        "Narozena 4. 11., pokřtěna 5. 11. 1806 v Krchlebích č. 53: otec Pavel Málek, sedlák ze Skrchleb; matka Anna, dcera po † Janovi Krebsovi (?), sedlákovi ze Všechlap (panství Loučeň); kmotři Anna, manželka Antonína Šubrta (?), sedláka, a Josef Matějka (?), sedlák, oba z Krchleb (M). Sestra Anna *12. 1. 1804 (č. 53).",
+        "Matka Marie Čapkové; dcera Pavla Málka, sedláka z Krchleb č. 53, a Anny roz. Krebsové (?). Při sňatku 1830 23 let."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Řitonice, kniha Řitonice 07 (N 1839–1886), fol. 139, snímek 142 – https://ebadatelna.soapraha.cz/d/11446/142",
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (N 1798–1864), snímek 57 – https://ebadatelna.soapraha.cz/d/13539/57",
-        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (13539, N 1798–1864), oddíl Krchleby, pag. 21, snímek 14 (5. 11. 1806) a pag. 15, snímek 11 (13. 1. 1804); rejstřík Veleliby 13 sn. 22 – https://ebadatelna.soapraha.cz/d/13539/14"
       ],
       scans: [
+        {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest 5. 11. 1806, Krchleby č. 53"},
         {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830"},
         {"f":"img/1830_snatek_vaclav_ota_krchleby_a.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové, Krchleby 17. 2. 1830 – ženich"},
         {"f":"img/1830_snatek_vaclav_ota_krchleby_b.jpg","t":"Sňatek Václava Oty a Kateřiny Málkové 1830 – nevěsta, svědci"}
@@ -3937,7 +3940,8 @@ window.RODOKMEN = {
       occ: "domkář v Suchomastech č. 21",
       marriage: "10. 2. 1851, Borek (Suchomasty) – s Magdalenou Stadlerovou",
       notes: [
-        "Domkář v Suchomastech č. 21, rodák z Malkova; dodatečně uznal otcovství dcery Marie (1848) a 10. 2. 1851 se oženil s její matkou."
+        "Domkář v Suchomastech č. 21, rodák z Malkova; dodatečně uznal otcovství dcery Marie (1848) a 10. 2. 1851 se oženil s její matkou.",
+        "Křest není v rejstřících N fary Borek 1800 – II 1821 a 1818–1837 (Svobodovi z Málkova tam mají rodiče Václav × Ludmila a Josef × Kateřina) – narozen asi jinde (fara Tmaň ?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
@@ -4521,7 +4525,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
       ],
       scans: [
-        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830 (dítě: Kateřina Otová)"}
+        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830 (dítě: Kateřina Otová)"},
+        {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest dcery Kateřiny, Krchleby 1806"}
       ]
     },
     {
@@ -4564,19 +4569,22 @@ window.RODOKMEN = {
     {
       id: "anna_kr",
       name: "Anna Málková",
-      maiden: "Kra…šová (?)",
+      maiden: "Krebsová (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      father: "jan_kb",
       spouse: "pavel_ma",
       notes: [
-        "Matka Kateřiny Otové; příjmení nečitelné."
+        "Manželka Pavla Málka, sedláka v Krchlebích č. 53; dcera † Jana Krebse (?), sedláka ze Všechlap (panství Loučeň) – křty dcer Anny 1804 a Kateřiny 1806 (M; příjmení čteno nejistě, rod Krebs ve Všechlapech doložen v rejstříku N). Sňatek s Pavlem není v rejstříku O Veleliby 1799–1861 (asi před 1799)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24"
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (13539, N 1798–1864), oddíl Krchleby, pag. 21, snímek 14 (5. 11. 1806) a pag. 15, snímek 11 (13. 1. 1804); rejstřík Veleliby 13 sn. 22 – https://ebadatelna.soapraha.cz/d/13539/14"
       ],
       scans: [
-        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830 (dítě: Kateřina Otová)"}
+        {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830 (dítě: Kateřina Otová)"},
+        {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest dcery Kateřiny, Krchleby 1806"}
       ]
     },
     {
@@ -10987,6 +10995,24 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1774_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest syna Jana, Ohrazenice 1774"}
+      ]
+    },
+    {
+      id: "jan_kb",
+      name: "Jan Krebs (?)",
+      line: "malek",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      d: {"date":"před 13. 1. 1804","year":1804,"approx":true},
+      occ: "sedlák ve Všechlapech (panství Loučeň)",
+      notes: [
+        "Sedlák ze Všechlap (panství Loučeň); otec Anny, provdané Málkové – v křtech vnuček 1804 a 1806 „dcera po † Janovi Krebsovi (?), sedlákovi ze Všechlap“ (M; příjmení nejisté)."
+      ],
+      sources: [
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (13539, N 1798–1864), oddíl Krchleby, pag. 21, snímek 14 (5. 11. 1806) a pag. 15, snímek 11 (13. 1. 1804); rejstřík Veleliby 13 sn. 22 – https://ebadatelna.soapraha.cz/d/13539/14"
+      ],
+      scans: [
+        {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest vnučky Kateřiny, Krchleby 1806"}
       ]
     }
   ]
