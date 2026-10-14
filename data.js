@@ -2405,7 +2405,8 @@ window.RODOKMEN = {
         "Rodné příjmení matky Kateřiny se v zápisech liší: 1825 „Vrz…/Voz… (?)“, 1835 „Kroužilová (?)“.",
         "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815.",
         "Ještě žil 8. 5. 1865 a 9. 10. 1866 (v zápisech o úmrtí vnoučat a dcery Františky uveden bez „†“ jako sedlák z Těchobuze č. 19; M); 12. 10. 1866 zemřel jeho syn Josef, sedlák z č. 19. V Z Těchobuz X 1864 – IV 1869 a v indexu Z 1855–1879 není. ROZPOR: křest vnuka v Pravoníně 1868 uvádí „† Jana Michala“ – zemřel asi 1866–68 mimo Těchobuz (hledat Pravonín, Mezilesí).",
-        "V rejstříku Z fary Pravonín 1836–1871 (Pravonín 23, M) není (Praha 74)."
+        "V rejstříku Z fary Pravonín 1836–1871 (Pravonín 23, M) není (Praha 74).",
+        "Ani ve faře Lukavec 1863–1891 (index 5390) není – jediní Janové Michalové jsou děti z Velké Vsi 1875 a 1879 (Třeboň 27)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -3276,7 +3277,8 @@ window.RODOKMEN = {
         "Pokřtěn 28. 1. 1768 v Plané nad Lužnicí: „Mathias filius legitimus Thomae Hemmer excoriatoris Zelcensis et Rosinae uxoris ejus“; Tomáš je „superstes filius post defunctum Thomam Hemmer“. Ztotožnění s hospodářem Matějem Hamrem v Tučapech (jistota D): otec Tomáš z „Želče“, věk sedí; jiný Matěj Hamr v Želči 1763–1768 není. Bratr Šimon (*5. 8. 1765).",
         "Syn Tomáše Hamra, hospodáře z Holé (?); hospodář v Tučapech (u Soběslavi) č. 51.",
         "Manželky (podle křtů dětí v Tučapech): 1) Kateřina, dcera † Jana W…ského (?) – syn Jan *25. 8. 1791; zemřela 14. 5. 1792 ve 23 letech po porodu; 2) Kateřina, dcera Petra Lippa / Fippa (?), hospodáře v Lippě (?) – dcera Kateřina *29. 4. 1793; 3) Anna, dcera † Jakuba Turka (?) – dcera Veronika *12. 2. ~1796. Sňatky ve faře Tučapy nejsou (ženil se ve farnostech nevěst). ROZPOR: úmrtí 2. Kateřiny nenalezeno.",
-        "Kandidátní sňatek XI 1791 ve Velké Chyšce vyloučen – Matěj byl ženatý už 1790/91."
+        "Kandidátní sňatek XI 1791 ve Velké Chyšce vyloučen – Matěj byl ženatý už 1790/91.",
+        "KANDIDÁT úmrtí (K): „Matěj Hammern (?), výminkář z Tučap“, č. 51, † 18. 12. 1848, 80 let, sešlost věkem (Z Tučapy 1838–1855, kniha 8090, fol. 80, sn. 65 vlevo; index 8094 sn. 11) – jméno, věk i obec sedí, dům ne (1834 chalupník č. 36). Ve stejném domě † 25. 12. 1848 Maria Hammern (?), 48 let (snad snacha)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
