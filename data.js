@@ -4696,7 +4696,7 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěn 1. 4. 1849 v Džbánicích č. 8 (fara Trstěnice): otec Jiří (Georg) Jelínek, čtvrtník z Džbánic, matka Františka, manželská dcera Václava a Marianny Jelínkových, podruhů z Džbánic. Ztotožnění s kožešníkem v Uhřicích: ve křtech jeho dětí „Sohn des Georg Jelinek … in Žbanitz Pfarre Stiegnitz u. Franziska geb. Jelinek“ (dřívější čtení „Zbanitz Pfarre Steinitz“ = Ždánice bylo chybné). Sourozenci: Františka 1840, Cecílie 1843, Klára 1846, Kateřina 1851.",
         "Otec Marie Hrazdílkové; syn † Františka Jelínka ze Ždánic. Sňatek 25. 7. 1875 podle rejstříku oddaných Dambořice/Uhřice (kniha O Uhřice před 1878 není online).",
-        "Křty dětí v Uhřicích č. 64 (MZA, Dambořice, N Uhřice 5208, sn. 103 a 123): Josef 2./3. 3. 1876 (†), Ludvík 16./17. 8. 1880 († 26. 9. 1880), Mariana 1881. Jan „ehel. Sohn des Franz (1876) / † Georg (1880) Jelinek, Kürschner/Häusler in Žbanitz (Džbánice) Pfarre Stiegnitz (Trstěnice), u. Franziska geb. Jelinek“ – ROZPOR rozhodnut křtem 1849: otec Jiří; „Franz“ 1876/1881 je omyl. Jiří zemřel mezi III 1876 a VIII 1880 (úmrtí zatím nenalezeno).",
+        "Křty dětí v Uhřicích č. 64 (MZA, Dambořice, N Uhřice 5208, sn. 103 a 123): Josef 2./3. 3. 1876 († 2. 4. 1877 Uhřice č. 94, 1 rok, psotník – Z Uhřice 5220 sn. 18), Ludvík 16./17. 8. 1880 († 26. 9. 1880), Mariana 1881. Jan „ehel. Sohn des Franz (1876) / † Georg (1880) Jelinek, Kürschner/Häusler in Žbanitz (Džbánice) Pfarre Stiegnitz (Trstěnice), u. Franziska geb. Jelinek“ – ROZPOR rozhodnut křtem 1849: otec Jiří; „Franz“ 1876/1881 je omyl. Jiří zemřel mezi III 1876 a VIII 1880 (úmrtí zatím nenalezeno).",
         "Otec nemanželského Rajmunda Hrazdílka (*1880) z křtu online nezjistitelný – N Heršpice 1857+ online není (jen index); Rajmund nebyl legitimován.",
         "Zemřel 15. 2. 1897 v Uhřicích č. 164 (pohřben 17. 2.): „Jan Jelínek, kožešnický pomocník v Uhřicích“, 47 let, zápal plic; „Nar. ve Žbanicích (fara Kotěnice [= Trstěnice], okr. Krumlov). Oddán v Uhřicích 4/2 1875 (tehda 36letý ?)“ (M; ztotožnění D – rodiště, povolání i Uhřice sedí). ROZPOR: den sňatku 4. 2. × 25. 7. 1875 (rejstřík) a „36letý“ × křest 1849."
       ],
@@ -6392,7 +6392,8 @@ window.RODOKMEN = {
         "Pokřtěn 10. 2. 1789 v Heršpicích č. 4: otec Martin Maláč, podruh, matka Kateřina; kmotři Vavřinec Maláč a manželka Veronika.",
         "Oddán 6. 7. 1819 v Křenovicích jako třičtvrtník z Heršpic (č. 4), 30 let, s Annou, dcerou † Matěje Spačila z Křenovic č. 35, 21 let; svědci František Fuks a Lazar Hložek, třičtvrtníci. Otec Františky Hrabovské.",
         "V indexu Z fary Slavkov 1852–1861 (M) není – zemřel nejspíš před 1852 (index 13161).",
-        "V indexu Z 1836–1851 (M) také není; 1841 v zápisu dcery bez „†“ → zemřel spíš po 1861."
+        "V indexu Z 1836–1851 (M) také není; 1841 v zápisu dcery bez „†“ → zemřel spíš po 1861.",
+        "V knize Z Heršpice 1837–1877 (13155) celé (dům č. 4 i celá obec orientačně) není on ani Anna (MZA 48) – zemřeli mimo faru Slavkov, nebo Valentin před 1841 (?)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
