@@ -11171,14 +11171,14 @@ window.RODOKMEN = {
       name: "František (Franc) Ťukal",
       line: "fukal",
       cert: "M",
-      b: {"date":"5. 10. 1741 (?)","year":1741,"place":"Lažany (fara Přepeře)"},
+      b: {"date":"5. 10. 1741","year":1741,"place":"Lažany (fara Přepeře)"},
       father: "jan_tk0",
       mother: "dorota_tk",
       spouse: "anna_tk",
       occ: "chalupník (?) v Lažanech",
       marriage: "1) 26. 11. 1769, Přepeře – s Annou Adamusovou († 1779); 2) 6. 6. 1779, Přepeře – s Annou, dcerou † Jana Buriánka ze Čtveřína",
       notes: [
-        "Pokřtěn 5. 10. 1741 (?) v Přepeřích: „Ex pago Lažan subd. Magno-Skall.: Franciscus, P[ater] Joannes Tiukal, M[ater] Dorothea“; levans Jiří Adamus ze Čtveřína (rodina pozdější nevěsty Anny Adamusové), svědci Jiří Fanta z Lažan a Terezie, dcera Jakuba Janka (N 5296, sn. 88 vlevo; M; rok v záhlaví přepsaný – 1741, nevyloučeno 1747/48).",
+        "Pokřtěn 5. 10. 1741 v Přepeřích: „Ex pago Lažan subd. Magno-Skall.: Franciscus, P[ater] Joannes Tiukal, M[ater] Dorothea“; levans Jiří Adamus ze Čtveřína (rodina pozdější nevěsty Anny Adamusové), svědci Jiří Fanta z Lažan a Terezie, dcera Jakuba Janka (N 5296, sn. 88 vlevo; M; rok 1741 určen pořadím ročních záhlaví – kniha běží od července: sn. 87 vpravo „Julio 1740, 1741“, sn. 89 „1742 et 1743“).",
         "Oddán 26. 11. 1769 v Přepeřích: „honestus juvenis Franciscus oriundus ex Lažan, filius post def. Joannem Tiukal ex Lažan, cum honesta ancilla Anna oriunda e Lažan, filia Jacobi Adamus ex Lažan, matris Annae filiae Joannis Pelda ex Stvěřín“; svědci Philippus Adamus ze Čtveřína a Wenceslaus Polák z Lažan (M).",
         "Chalupník (?) z Lažan (fara Přepeře, panství Hrubá Skála); otec Jana Ťukala nejst. – oddací zápis syna 4. 8. 1806 v Mašově: „Jan, syn Franc[e] Ťukala, chal. (?) z Lažan“ (M). Datum narození je odhad.",
         "Dcera Kateřina pokřtěna 28. 3. 1776 v Lažanech („Tuckal Franciscus casarius, et uxor ejus Anna“; N 5296 sn. 195 vpravo, M). Ťukalové v Lažanech už 1773 (kmotra Alžběta, dcera † Jana Ťukala, podruha – K).",
@@ -11303,7 +11303,8 @@ window.RODOKMEN = {
       spouse: "dorota_tk",
       notes: [
         "Z Lažan; otec Františka Ťukala – při jeho sňatku 26. 11. 1769 už nežil („filius post def. Joannem Tiukal ex Lažan“, M). KANDIDÁTKA dcery: Alžběta, dcera † Jana Ťukala, podruha (kmotra 1773, K).",
-        "Pohřben 16. 12. 1755 u filiálního kostela v Přepeřích, „Joannes Tiukal relinquens uxorem Dorotheam“, z Lažan (panství Hrubá Skála), 73 let (Z 5296, sn. 292 vpravo, pag. 577; M) → *~1682 (věk vůči dětem 1741–1751 vysoký – snad nadsazen). Děti s Dorotou: František (5. 10. 1741 ?), Alžběta (7. 3. 1751 ?; M)."
+        "Pohřben 16. 12. 1755 u filiálního kostela v Přepeřích, „Joannes Tiukal relinquens uxorem Dorotheam“, z Lažan (panství Hrubá Skála), 73 let (Z 5296, sn. 292 vpravo, pag. 577; M) → *~1682 (věk vůči dětem 1741–1751 vysoký – snad nadsazen). Děti s Dorotou: František (5. 10. 1741 ?), Alžběta (7. 3. 1751 ?; M).",
+        "Sňatek s Dorotou v Liber II Copulatorum Přepeře 1738–1740 a 1744 není; sňatky 1741–1743 jsou ve farní matrice Všeň („vide in Matricula Parochiali“) – nečteno."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)",
