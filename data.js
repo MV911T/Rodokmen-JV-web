@@ -11288,7 +11288,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
       d: {"date":"před 26. 11. 1769","year":1769,"approx":true},
       notes: [
-        "Z Lažan; otec Františka Ťukala – při jeho sňatku 26. 11. 1769 už nežil („filius post def. Joannem Tiukal ex Lažan“, M). KANDIDÁTKA dcery: Alžběta, dcera † Jana Ťukala, podruha (kmotra 1773, K)."
+        "Z Lažan; otec Františka Ťukala – při jeho sňatku 26. 11. 1769 už nežil („filius post def. Joannem Tiukal ex Lažan“, M). KANDIDÁTKA dcery: Alžběta, dcera † Jana Ťukala, podruha (kmotra 1773, K).",
+        "Úmrtí v Z Přepeře (5296) 1758 – I 1770 není (Zámrsk 14–15) → zemřel nejspíš před 1758 nebo mimo farnost; sňatek syna Františka 26. 11. 1769 „filius post defunctum Joannem Tiukal ex Lažan“ potvrzen (M)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)"
