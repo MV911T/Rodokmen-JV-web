@@ -2979,7 +2979,8 @@ window.RODOKMEN = {
         {"f":"img/1801_oddani_josef_forejt_veronika_osek.jpg","t":"Sňatek Josefa Forejta a Veroniky, Osek 27. 11. 1801"},
         {"f":"img/1781_krest_josef_forejt_osek66_osek05_sn14.jpg","t":"Křest Josefa Forejta, Osek 1781"},
         {"f":"img/1852_Z_Forejt_Josef_Osek.jpg","t":"Úmrtí 24. 12. 1852, Osek č. 91"},
-        {"f":"img/1849_Z_Forejtova_Veronika_Osek.jpg","t":"Úmrtí manželky Veroniky, Osek 23. 11. 1849"}
+        {"f":"img/1849_Z_Forejtova_Veronika_Osek.jpg","t":"Úmrtí manželky Veroniky, Osek 23. 11. 1849"},
+        {"f":"img/1803_Z_Forejtova_Barbora_Osek.jpg","t":"Úmrtí matky Barbory Forejtové, Osek 7. 9. 1803"}
       ]
     },
     {
@@ -2992,6 +2993,7 @@ window.RODOKMEN = {
       d: {"date":"23. 11. 1849","year":1849,"place":"Osek u Rokycan č. p. 91"},
       cause: "stářím (?)",
       father: "josef_le",
+      mother: "dorota_v",
       spouse: "josef_f",
       marriage: "27. 11. 1801, Osek – s Josefem Forejtem",
       notes: [
@@ -3014,7 +3016,9 @@ window.RODOKMEN = {
         {"f":"img/prijmeni_trgjk_srovnani.jpg","t":"Srovnání příjmení Trgjk v zápisech 1801–1849"},
         {"f":"img/1783_krest_veronika_trgjk_volduchy67_osek05_sn80.jpg","t":"Křest Veroniky Trgjkové, Volduchy 1783"},
         {"f":"img/1849_Z_Forejtova_Veronika_Osek.jpg","t":"Úmrtí 23. 11. 1849, Osek č. 91"},
-        {"f":"img/1852_Z_Forejt_Josef_Osek.jpg","t":"Úmrtí manžela Josefa, Osek 24. 12. 1852"}
+        {"f":"img/1852_Z_Forejt_Josef_Osek.jpg","t":"Úmrtí manžela Josefa, Osek 24. 12. 1852"},
+        {"f":"img/1809_Z_Trgjk_Josef_Volduchy.jpg","t":"Úmrtí otce Josefa Trgjka, Volduchy 9. 2. 1809"},
+        {"f":"img/1799_Z_Trgjkova_Dorota_Volduchy.jpg","t":"Úmrtí matky Doroty Trgjkové, Volduchy 19. 10. 1799"}
       ]
     },
     {
@@ -3022,23 +3026,27 @@ window.RODOKMEN = {
       name: "Josef Trgjk",
       line: "lezak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      b: {"date":"neznámé (asi 1739)","year":1739,"approx":true},
+      d: {"date":"9. 2. 1809","year":1809,"place":"Volduchy č. p. 67"},
       spouse: "dorota_v",
       occ: "sedlák ve Volduchách č. 67",
       notes: [
         "Otec Veroniky Forejtové; sedlák ve Volduchách č. 67, manželka Dorota.",
         "Jiný Josef Trgjk (sedlák, Osek č. 67, manželka Kateřina, děti 1782–1785) není totožný.",
         "Měl dospělou dceru Magdalenu už 1782 (⚭ 30. 7. 1782 Václav Wilczyk, vdovec – Osek 07 Volduchy str. 44) → narozen nejpozději ~1740; Dorota je patrně jeho 2. manželka. Sňatek s Dorotou v Oseku 1772–1783 nenalezen.",
-        "KANDIDÁT úmrtí: rejstřík Z Osek 08, Volduchy, písm. B (Trgjk zapsán jako „Brgjk“): „67. Brgjk Joseph – 91“ (1809); v témž domě „Brgjk Dorothea 62“ a „Brgjk Lorentz 52“ – zápisy nečteny (D)."
+        "Zemřel 9. 2. 1809 ve Volduchách č. 67 (pohřben 11. 2., kaplan Cajetan Šťastný): „Josef Trgjrk, wyminkář“, 70 let (M; → asi 1739 – sedí s dospělou dcerou 1782). Ovdověl 19. 10. 1799."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
-        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Volduchy, snímek 80 – https://www.portafontium.eu/iipimage/30066671/osek-05_0800-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Volduchy, snímek 80 – https://www.portafontium.eu/iipimage/30066671/osek-05_0800-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 08 (Z), oddíl Volduchy, str. 91, snímek 117 vlevo, 1. zápis 1809; rejstřík B („Brgjk“) sn. 141 vpravo – https://www.portafontium.eu/iipimage/30066674/osek-08_1170-z"
       ],
       scans: [
         {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři (dítě: Veronika Forejtová)"},
-        {"f":"img/1783_krest_veronika_trgjk_volduchy67_osek05_sn80.jpg","t":"Křest dcery Veroniky Trgjkové, Volduchy 1783"}
+        {"f":"img/1783_krest_veronika_trgjk_volduchy67_osek05_sn80.jpg","t":"Křest dcery Veroniky Trgjkové, Volduchy 1783"},
+        {"f":"img/1809_Z_Trgjk_Josef_Volduchy.jpg","t":"Úmrtí 9. 2. 1809, Volduchy č. 67"},
+        {"f":"img/1799_Z_Trgjkova_Dorota_Volduchy.jpg","t":"Úmrtí manželky Doroty, Volduchy 19. 10. 1799"}
       ]
     },
     {
@@ -3881,16 +3889,21 @@ window.RODOKMEN = {
       name: "Dorota Trgjková",
       line: "lezak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true,"place":"Volduchy"},
+      b: {"date":"neznámé (asi 1734–1740 ?)","year":1738,"approx":true,"place":"Volduchy (?)"},
+      d: {"date":"19. 10. 1799","year":1799,"place":"Volduchy č. p. 67"},
       spouse: "josef_le",
       notes: [
-        "Babička Matěje Forejta; rodné příjmení nečitelné."
+        "Manželka Josefa Trgjka, sedláka ve Volduchách č. 67; matka Veroniky (křest 12. 3. 1783 „Mutter Dorothea“, M). Babička Matěje Forejta; rodné příjmení nečitelné.",
+        "Zemřela 19. 10. 1799 ve Volduchách č. 67: „Dorothea Eheweib des Joseph Trgjrk“, 65 let, vysílení (M). Věk 65 by dával narození ~1734 a porod Veroniky ve 49 letech – věk asi nadsazený (?)."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n"
+        "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 08 (Z), oddíl Volduchy, str. 62, snímek 102 vpravo, 7. zápis – https://www.portafontium.eu/iipimage/30066674/osek-08_1020-z"
       ],
       scans: [
-        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři (dítě: Veronika Forejtová) (manžel/ka: Josef Trgjk)"}
+        {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři (dítě: Veronika Forejtová) (manžel/ka: Josef Trgjk)"},
+        {"f":"img/1799_Z_Trgjkova_Dorota_Volduchy.jpg","t":"Úmrtí 19. 10. 1799, Volduchy č. 67"},
+        {"f":"img/1809_Z_Trgjk_Josef_Volduchy.jpg","t":"Úmrtí manžela Josefa, Volduchy 9. 2. 1809"}
       ]
     },
     {
@@ -6268,6 +6281,8 @@ window.RODOKMEN = {
       line: "forejt",
       cert: "M",
       b: {"date":"1. 12. 1745","year":1745,"place":"Osek u Rokycan"},
+      d: {"date":"7. 9. 1803","year":1803,"place":"Osek u Rokycan č. p. 66"},
+      cause: "úbytě (Abzehrung)",
       father: "matej_ca",
       mother: "eva_ho",
       spouse: "vit_fo",
@@ -6275,7 +6290,8 @@ window.RODOKMEN = {
       notes: [
         "Narozena 1., pokřtěna 2. 12. 1745 v Oseku: „Barbora, vlastní dcera … otce Matouše Čady, matky Evy“; kmotři Kateřina Aubrechtová, Anna Boušlavová a Jakub Trgjk z Oseka. Ztotožnění: otec „Mattheus (= Matouš) Czada, rusticus Wolduchensis“ v oddacím zápisu 1771, rodina se 1750/51 přestěhovala do Volduch, jiná Barbora Čadová 1744–1752 není; v r. 1772 bydlela v domě č. 51, kde téhož roku zemřel její bratr Jakub (?).",
         "Dcera Matěje Čady, sedláka ve Volduchách. Poprvé oddána v červenci 1771 (?) s Vojtěchem Andrlem, vdovcem a sedlákem z Volduch č. 84 († 16. 4. 1772, 41 let); po jeho smrti se 22. 7. 1772 provdala za Víta Forejta, syna Pavla Forejta z Volduch, do Oseka č. 66.",
-        "V Oseku č. 66: dcera Barbora (VIII 1778), syn Josef (VI 1781, pohrobek – „Forejt Witwe, Barbara Mutter“)."
+        "V Oseku č. 66: dcera Barbora (VIII 1778), syn Josef (VI 1781, pohrobek – „Forejt Witwe, Barbara Mutter“).",
+        "Zemřela 7. 9. 1803 v Oseku č. 66: „Forejt Barbara, Bäurin“, 58 let, úbytě (M; věk odpovídá křtu 1745)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 14 – https://www.portafontium.eu/iipimage/30066671/osek-05_0140-n",
@@ -6283,13 +6299,15 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, snímek 3 – https://www.portafontium.eu/iipimage/30066673/osek-07_0030-o",
         "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o",
         "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Volduchy, snímek 72 – https://www.portafontium.eu/iipimage/30066674/osek-08_0720-z",
-        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl N, snímek 28 – https://www.portafontium.eu/iipimage/30066669/osek-03_0280-n"
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl N, snímek 28 – https://www.portafontium.eu/iipimage/30066669/osek-03_0280-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 08 (Z), oddíl Osek, str. 57, snímek 33 vpravo, 5. zápis; rejstřík F sn. 64 vpravo – https://www.portafontium.eu/iipimage/30066674/osek-08_0330-z"
       ],
       scans: [
         {"f":"img/1772_oddani_vit_forejt_barbora_vdova_anderle_osek66_osek07_sn3.jpg","t":"Sňatek Víta Forejta a Barbory, vdovy po Vojtěchu Andrlovi, Osek 22. 7. 1772"},
         {"f":"img/1771_oddani_vojtech_andrle_barbora_cada_a_1772_duplikat_forejt_osek04_sn86.jpg","t":"První sňatek Barbory Čadové s Vojtěchem Andrlem (1771) a duplikát sňatku s Vítem Forejtem (1772)"},
         {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"},
-        {"f":"img/1781_krest_josef_forejt_osek66_osek05_sn14.jpg","t":"Křest syna Josefa Forejta, Osek 1781"}
+        {"f":"img/1781_krest_josef_forejt_osek66_osek05_sn14.jpg","t":"Křest syna Josefa Forejta, Osek 1781"},
+        {"f":"img/1803_Z_Forejtova_Barbora_Osek.jpg","t":"Úmrtí 7. 9. 1803, Osek č. 66"}
       ]
     },
     {
