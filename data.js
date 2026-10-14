@@ -11354,7 +11354,8 @@ window.RODOKMEN = {
       notes: [
         "Z Lažan; otec Františka Ťukala – při jeho sňatku 26. 11. 1769 už nežil („filius post def. Joannem Tiukal ex Lažan“, M). KANDIDÁTKA dcery: Alžběta, dcera † Jana Ťukala, podruha (kmotra 1773, K).",
         "Pohřben 16. 12. 1755 u filiálního kostela v Přepeřích, „Joannes Tiukal relinquens uxorem Dorotheam“, z Lažan (panství Hrubá Skála), 73 let (Z 5296, sn. 292 vpravo, pag. 577; M) → *~1682 (věk vůči dětem 1741–1751 vysoký – snad nadsazen). Děti s Dorotou: František (5. 10. 1741 ?), Alžběta (7. 3. 1751 ?; M).",
-        "Sňatek s Dorotou v Liber II Copulatorum Přepeře 1738–1740 a 1744 není; sňatky 1741–1743 jsou ve farní matrice Všeň („vide in Matricula Parochiali“) – nečteno."
+        "Sňatek s Dorotou v Liber II Copulatorum Přepeře 1738–1740 a 1744 není; sňatky 1741–1743 jsou ve farní matrice Všeň („vide in Matricula Parochiali“) – nečteno.",
+        "Dcera Mařena (?) se 20. 11. 1735 v Přepeřích vdala za Jana, syna Petra Poláka z Lažan („vlastní dcerou Jana Ťukala z Lažan“; 5296 sn. 249 vlevo, pag. 490; M zápis, ztotožnění K) → Jan měl dospělou dceru už 1735; Dorota (matka dětí 1741, 1751) byla nejspíš jeho 2. manželkou. Sňatek s Dorotou v Liber II Přepeře 1734–1740 ani ve Všeni V 1740 – I 1742 není."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)",
@@ -12101,7 +12102,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
       spouse: "jan_tk0",
       notes: [
-        "Manželka Jana Ťukala z Lažan: „M[ater] Dorothea“ při křtu syna Františka (1741 ?) a dcery Alžběty (1751 ?), při pohřbu Jana 16. 12. 1755 „relinquens uxorem Dorotheam“ (M). Rodné příjmení neuvedeno; úmrtí po 1755 nehledáno."
+        "Manželka Jana Ťukala z Lažan: „M[ater] Dorothea“ při křtu syna Františka (1741 ?) a dcery Alžběty (1751 ?), při pohřbu Jana 16. 12. 1755 „relinquens uxorem Dorotheam“ (M). Rodné příjmení neuvedeno; úmrtí po 1755 nehledáno.",
+        "Nejspíš 2. manželka Jana Ťukala (jeho dcera z 1. manželství se vdávala 1735)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, kniha 5296: N sn. 88 vlevo (1741 ?), sn. 98 vlevo (1751 ?); Z sn. 292 vpravo, pag. 577 (XII 1755) – APU 53e26821-c4c1-4a72-a33e-bce61784d8f3"
