@@ -10684,7 +10684,8 @@ window.RODOKMEN = {
       marriage: "4. 8. 1806, Mašov (fara Turnov) – s Kateřinou Horáčkovou",
       notes: [
         "Domkář / zahradník (?) v Lažanech č. 26 (fara Přepeře, panství Hrubá Skála); otec Jana Ťukala st. (křest 6. 10. 1813). Žil 18. 2. 1833 – dal souhlas ke sňatku syna („Ja otec Jan Ťukal svoluji“); při křtu vnuka 1851 už nežil (M).",
-        "Oddán 4. 8. 1806 v Mašově (fara Turnov, kaplan P. Car. Kratochvíle ?): „Jan, syn Franc[e] Ťukala, chal. (?) z Lažan, a Anny Ko…rové (?) z Lažan“, 30 let, svobodný, s Kateřinou, dcerou Václava Horáčka, formana (?) z Mašova, a Anny Vlož…ové (?) z L…, 22 let; svědci Franc Jankův (?) z Turnova a Josef Šurýš (?) (M). Úmrtí v Z Přepeře, Lažany I 1831 – X 1852 není."
+        "Oddán 4. 8. 1806 v Mašově (fara Turnov, kaplan P. Car. Kratochvíle ?): „Jan, syn Franc[e] Ťukala, chal. (?) z Lažan, a Anny Ko…rové (?) z Lažan“, 30 let, svobodný, s Kateřinou, dcerou Václava Horáčka, formana (?) z Mašova, a Anny Vlož…ové (?) z L…, 22 let; svědci Franc Jankův (?) z Turnova a Josef Šurýš (?) (M). Úmrtí v Z Přepeře, Lažany I 1831 – X 1852 není.",
+        "KANDIDÁT sourozenců (K): Kateřina, dcera Františka Ťukala, chalupníka (casarius) × Anny, pokřtěna 28. 3. 1776 v Lažanech (N 5296 sn. 195 vpravo, M zápis). Vlastní křest Jana v N 5296 VII 1773 – V 1777 není (věk 30 při sňatku 1806 asi nepřesný)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
@@ -10731,20 +10732,28 @@ window.RODOKMEN = {
       name: "Jan Mráz (Mrázek)",
       line: "mraz",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      b: {"date":"9. 1. 1774","year":1774,"place":"Ohrazenice č. p. 8 (fara Přepeře)"},
       d: {"date":"před 29. 6. 1851","year":1851,"approx":true},
+      father: "jan_mz0",
+      mother: "katerina_mz0",
       spouse: "anna_mz",
       occ: "chalupník v Ohrazenicích č. 8 (panství Hrubá Skála)",
+      marriage: "3. 6. 1794, Ohrazenice č. 8 – s Dorotou Bečkovou",
       notes: [
-        "Chalupník v Ohrazenicích (Wohrazenicích) č. 8; otec Terezie (křest 17. 10. 1813, sňatek 1833 – M). Při křtu vnuka 1851 už nežil („† Jan Mrázek, nádeník z Wohrazenic N. 40, panství Rohozec“).",
-        "KANDIDÁT vysvětlení (K): 30. 1. 1821 se v Ohrazenicích č. 8 oženil „Jan, vlastní syn Jana Mráze, chalupníka“, 22 let, s Marií, dcerou Václava …, chalupníka z Příšovic č. 52 (O 5101 sn. 128) – v č. 8 tedy žili dva Janové Mrázové; „Marie roz. Zabulandová“ (1848) je nejspíš manželka syna, ne 2. manželka našeho Jana."
+        "Pokřtěn 9. 1. 1774 v Ohrazenicích č. 8: „Joannes – Mraz Joannes, casarius Wohrazenicensis, et uxor ejus Catharina“; kmotři Václav Lekař, sedlák, a Kateřina, dcera Jakuba Plaška (?), sedláka, oba z Ohrazenic (M; ztotožnění D – dům č. 8 a věk 19 při sňatku 1794).",
+        "Oddán 3. 6. 1794 v Ohrazenicích č. 8: „Jan, vlastní syn po † Janovi Mrázovi, baráčníku“, 19 let, svobodný, s Dorotou, vlastní dcerou Filipa Bečky, baráčníka, 18 let; svědek Václav, syn po † Janu Mrázovi (bratr ?) (M). V č. 8 žil později i syn Jan ml. (× 30. 1. 1821 Marie Zabulantová z Příšovic č. 52, M) – odtud „Marie roz. Zabulandová“ 1848.",
+        "Chalupník v Ohrazenicích (Wohrazenicích) č. 8; otec Terezie (křest 17. 10. 1813, sňatek 1833 – M). Při křtu vnuka 1851 už nežil („† Jan Mrázek, nádeník z Wohrazenic N. 40, panství Rohozec“)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)",
+        "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
+        "SOA Zámrsk, Sbírka matrik, fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 119 (3. 6. 1794)"
       ],
       scans: [
+        {"f":"img/1774_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest 9. 1. 1774, Ohrazenice č. 8"},
+        {"f":"img/1794_O_Mraz_Jan_Beckova_Dorota_Ohrazenice.jpg","t":"Sňatek s Dorotou Bečkovou, Ohrazenice 3. 6. 1794"},
         {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest dcery Terezie, Ohrazenice 17. 10. 1813"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
       ]
@@ -10755,19 +10764,26 @@ window.RODOKMEN = {
       maiden: "Bečková",
       line: "mraz",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"15. 12. 1774","year":1774,"place":"Ohrazenice č. p. 14"},
       father: "filip_bc",
       mother: "dorota_bc",
       spouse: "jan_mz",
+      marriage: "3. 6. 1794, Ohrazenice – s Janem Mrázem",
       notes: [
+        "Pokřtěna 15. 12. 1774 v Ohrazenicích č. 14: „Dorothea – Beczka Philippus casarius, et uxor ejus Dorothea“; kmotři Kateřina, dcera Jakuba Plaška (?), sedláka z Ohrazenic, a Jan Bečka, podruh z Mokřan (?) (M).",
+        "Oddána 3. 6. 1794 s Janem Mrázem, 18 let (M).",
         "Manželka Jana Mráze, chalupníka v Ohrazenicích č. 8; dcera Filipa Bečky, chalupníka z Ohrazenic č. 14, a Doroty roz. Vlasové (?) – křest dcery Terezie 17. 10. 1813 a sňatek dcery 1833 (M). V křtu vnuka 1851 křestní jméno vynecháno („rozené Bečkové“)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)",
+        "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N (sign. 5296), snímek 192 vpravo (15. 12. 1774)",
+        "SOA Zámrsk, Sbírka matrik, fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 119 (3. 6. 1794)"
       ],
       scans: [
+        {"f":"img/1774_N_Beckova_Dorota_Ohrazenice.jpg","t":"Křest 15. 12. 1774, Ohrazenice č. 14"},
+        {"f":"img/1794_O_Mraz_Jan_Beckova_Dorota_Ohrazenice.jpg","t":"Sňatek s Janem Mrázem, Ohrazenice 3. 6. 1794"},
         {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest dcery Terezie, Ohrazenice 17. 10. 1813"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
       ]
@@ -10814,7 +10830,7 @@ window.RODOKMEN = {
       name: "Filip Bečka",
       line: "mraz",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
       spouse: "dorota_bc",
       occ: "chalupník v Ohrazenicích č. 14",
       notes: [
@@ -10825,7 +10841,8 @@ window.RODOKMEN = {
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
       ],
       scans: [
-        {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"}
+        {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"},
+        {"f":"img/1774_N_Beckova_Dorota_Ohrazenice.jpg","t":"Křest dcery Doroty, Ohrazenice 1774"}
       ]
     },
     {
@@ -10834,7 +10851,7 @@ window.RODOKMEN = {
       maiden: "Vlasová (?)",
       line: "mraz",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
       spouse: "filip_bc",
       notes: [
         "Manželka Filipa Bečky z Ohrazenic č. 14, „rozená Vlasová (?)“ – křest vnučky Terezie 1813 (M; příjmení nejisté)."
@@ -10843,7 +10860,8 @@ window.RODOKMEN = {
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)"
       ],
       scans: [
-        {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"}
+        {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"},
+        {"f":"img/1774_N_Beckova_Dorota_Ohrazenice.jpg","t":"Křest dcery Doroty, Ohrazenice 1774"}
       ]
     },
     {
@@ -10894,7 +10912,8 @@ window.RODOKMEN = {
       spouse: "anna_tk",
       occ: "chalupník (?) v Lažanech",
       notes: [
-        "Chalupník (?) z Lažan (fara Přepeře, panství Hrubá Skála); otec Jana Ťukala nejst. – oddací zápis syna 4. 8. 1806 v Mašově: „Jan, syn Franc[e] Ťukala, chal. (?) z Lažan“ (M). Datum narození je odhad."
+        "Chalupník (?) z Lažan (fara Přepeře, panství Hrubá Skála); otec Jana Ťukala nejst. – oddací zápis syna 4. 8. 1806 v Mašově: „Jan, syn Franc[e] Ťukala, chal. (?) z Lažan“ (M). Datum narození je odhad.",
+        "Dcera Kateřina pokřtěna 28. 3. 1776 v Lažanech („Tuckal Franciscus casarius, et uxor ejus Anna“; N 5296 sn. 195 vpravo, M). Ťukalové v Lažanech už 1773 (kmotra Alžběta, dcera † Jana Ťukala, podruha – K)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 1804–1880 (sign. 5822), oddíl Mašov, snímek 133 vlevo (4. 8. 1806)"
@@ -10919,6 +10938,44 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek syna Jana, Mašov 4. 8. 1806"}
+      ]
+    },
+    {
+      id: "jan_mz0",
+      name: "Jan Mráz",
+      line: "mraz",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      d: {"date":"před 3. 6. 1794","year":1794,"approx":true},
+      spouse: "katerina_mz0",
+      occ: "chalupník (casarius) / baráčník v Ohrazenicích č. 8",
+      notes: [
+        "Chalupník (casarius) v Ohrazenicích č. 8 (panství Rohozec); otec Jana (křest 9. 1. 1774, M). Při sňatku syna 3. 6. 1794 už nežil („syn po † Janovi Mrázovi, baráčníku“, M). Synem snad i Václav (*30. 6. 1776, č. 8 – K)."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
+        "SOA Zámrsk, Sbírka matrik, fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 119 (3. 6. 1794)"
+      ],
+      scans: [
+        {"f":"img/1774_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest syna Jana, Ohrazenice 1774"},
+        {"f":"img/1794_O_Mraz_Jan_Beckova_Dorota_Ohrazenice.jpg","t":"Sňatek syna Jana, Ohrazenice 1794"}
+      ]
+    },
+    {
+      id: "katerina_mz0",
+      name: "Kateřina Mrázová",
+      line: "mraz",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      spouse: "jan_mz0",
+      notes: [
+        "Manželka Jana Mráze, chalupníka v Ohrazenicích č. 8; matka Jana (křest 9. 1. 1774 – „uxor ejus Catharina“, M). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)"
+      ],
+      scans: [
+        {"f":"img/1774_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest syna Jana, Ohrazenice 1774"}
       ]
     }
   ]
