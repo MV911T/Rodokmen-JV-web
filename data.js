@@ -4531,7 +4531,7 @@ window.RODOKMEN = {
     {
       id: "alzbeta_za",
       name: "Alžběta Svobodová",
-      maiden: "Kubáčková (?)",
+      maiden: "Hubáčková",
       line: "zahalka",
       cert: "M",
       b: {"date":"neznámé (asi 1799)","year":1799,"approx":true,"place":"Málkov č. 7 (?)"},
@@ -4540,16 +4540,18 @@ window.RODOKMEN = {
       spouse: "matej_sv",
       marriage: "XI 1818, Málkov – s Matějem Svobodou",
       notes: [
-        "Dcera Augustina Kubáčka (?), sedláka v Málkově č. 7, a Ludmily; oddána v listopadu 1818 s Matějem Svobodou, 19 let (M). ROZPOR rodného příjmení: dříve čteno „Zahálková (?)“ (zápis o Václavovi) × oddací zápis „Kubáčková (?)“ – platí oddací zápis, čtení nejisté.",
-        "KANDIDÁT rozřešení příjmení (D/K): rejstřík N Borek 11 (sn. 12 vpravo) – „Malkow | 7 | 1817 | 16. August | Hubaček Martin | — Elisabeth“ (nemanželský syn Alžběty z č. 7 = dům Augustina, otce nevěsty 1818) → nejspíš Hubáčková; zápis křtu Martina nečten. Křest Alžběty v rejstříku N Borek 1784–1802 není (snad Tmaň)."
+        "Dcera Augustina Hubáčka, sedláka v Málkově č. 7, a Ludmily; oddána v listopadu 1818 s Matějem Svobodou, 19 let (M).",
+        "ROZPOR ROZHODNUT: v VIII 1817 (7. ?) pokřtěna v Málkově č. 7 její nemanželská dcera Maria – matka „Alžběta, vlastní dcera Augustina Hubáčka, sedláka Malkovského No. 7, matky Ludmilly“ (M). Rodné příjmení je tedy Hubáčková (dřívější čtení „Zahálková“ a „Kubáčková“ chybná). Rejstřík N Borek 11 uvádí chybně „Martin, 16. 8.“. Křest Alžběty v rejstříku N Borek 1784–1802 není (snad Tmaň)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), N, oddíl Málkov, snímek 40 vpravo, 4. zápis 1817 – https://ebadatelna.soapraha.cz/d/4075/40"
       ],
       scans: [
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Václav Svoboda)"},
-        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek s Matějem Svobodou, Málkov 1818"}
+        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek s Matějem Svobodou, Málkov 1818"},
+        {"f":"img/1817_N_Hubackova_Maria_Malkov.jpg","t":"Křest nemanželské dcery Marie, Málkov č. 7, 1817"}
       ]
     },
     {
@@ -11234,7 +11236,8 @@ window.RODOKMEN = {
       occ: "domkář v Málkově (panství Tmaň)",
       notes: [
         "Domkář v Málkově (panství Tmaň); otec Matěje Svobody – oddací zápis syna 1818 (M). Nezaměňovat s Václavem Svobodou (*~1781, syn Matěje × Anny, domkář v Suchomastech č. 14).",
-        "V roce 1791 sedlák v Málkově č. 1, „rodaný Tmanský“ (křest syna Matěje, M)."
+        "V roce 1791 sedlák v Málkově č. 1, „rodaný Tmanský“ (křest syna Matěje, M).",
+        "KANDIDÁTI rodiny (K): v Tmani žil Tomáš Svoboda († před 1780; syn Šimon × 1780 Ludmila Hogelová z Koněprus); 27. 11. 1781 se Václav, syn Jakuba Svobody, sedláka z Málkova, voják pluku Callenberg, oženil s Kateřinou, dcerou † Jana Allemanda (?) z Tmaně, Málkov č. 16 (Tmaň 02 sn. 200 vlevo) – jiný Václav, pokud nejde o 1. sňatek. Sňatek s Ludmilou v O Tmaň 1774–1790 není."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
@@ -11247,34 +11250,37 @@ window.RODOKMEN = {
     },
     {
       id: "augustin_kb",
-      name: "Augustin Kubáček (?)",
+      name: "Augustin Hubáček",
       line: "svoboda",
       cert: "M",
       b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
       spouse: "ludmila_kb",
       occ: "sedlák v Málkově č. 7",
       notes: [
-        "Sedlák v Málkově č. 7; otec Alžběty, provdané Svobodové – oddací zápis 1818 (M; příjmení nejisté)."
+        "Sedlák v Málkově č. 7; otec Alžběty, provdané Svobodové – oddací zápis 1818 a křest vnučky Marie 1817 („Augustina Hubáčka, sedláka Malkovského No. 7, matky Ludmilly“) (M)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), N, oddíl Málkov, snímek 40 vpravo, 4. zápis 1817 – https://ebadatelna.soapraha.cz/d/4075/40"
       ],
       scans: [
-        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek dcery Alžběty, Málkov 1818"}
+        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek dcery Alžběty, Málkov 1818"},
+        {"f":"img/1817_N_Hubackova_Maria_Malkov.jpg","t":"Křest vnučky Marie, Málkov 1817"}
       ]
     },
     {
       id: "ludmila_kb",
-      name: "Ludmila Kubáčková (?)",
+      name: "Ludmila Hubáčková",
       line: "svoboda",
       cert: "M",
       b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
       spouse: "augustin_kb",
       notes: [
-        "Manželka Augustina Kubáčka (?), sedláka v Málkově č. 7; matka Alžběty Svobodové (oddací zápis 1818, M). Rodné příjmení neznámé."
+        "Manželka Augustina Hubáčka, sedláka v Málkově č. 7; matka Alžběty Svobodové (oddací zápis 1818, křest vnučky 1817; M). Rodné příjmení neznámé."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), N, oddíl Málkov, snímek 40 vpravo, 4. zápis 1817 – https://ebadatelna.soapraha.cz/d/4075/40"
       ],
       scans: [
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek dcery Alžběty, Málkov 1818"}
