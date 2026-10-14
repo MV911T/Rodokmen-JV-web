@@ -7398,7 +7398,7 @@ window.RODOKMEN = {
       name: "Šimon Laukota",
       line: "nezname",
       cert: "M",
-      b: {"date":"říjen 1732 (?)","year":1732,"approx":true,"place":"Osek u Rokycan"},
+      b: {"date":"27. 10. 1732","year":1732,"place":"Osek u Rokycan"},
       d: {"date":"10. 9. 1806","year":1806,"place":"Osek u Rokycan č. p. 17"},
       cause: "mrtvice („Schlag“)",
       father: "josef_la",
@@ -7408,7 +7408,7 @@ window.RODOKMEN = {
         "Otec Prokopa Laukoty (sňatek 1782: „Sohn des Simon Laukota von Wossek“). Obecní pastýř v Oseku (č. 10 v r. 1774, „Pastor gregis“ 1764).",
         "Zemřel 10. 9. 1806 v Oseku č. 17, 75 let, na mrtvici.",
         "POZOR – jiný Šimon Laukota: syn Jana, oddán 20. (?) 10. 1739 s Magdalenou, dcerou Martina Bydlatého (?); děti Eva (1740), Anna (1743, provdaná 1765 jako „dcera † Šimona Laukoty“), Vít (1746), Matouš (1749), Šimon (1752), Marie (1757) – zemřel před XI 1765. Dále Šimon Laukota, podruh × Anna (dcera Dorota 1761).",
-        "KANDIDÁT (K+): pokřtěn v říjnu 1732 v Oseku jako syn Josefa Laukoty a Roziny (Osek 02, str. 44) – sedí na úmrtí 10. 9. 1806 v č. 17 ve věku 75; v r. 1757 dvakrát družbou (ještě svobodný). Manželka Magdalena (*~1738, † 5. 10. 1807 jako vdova po pastýři Šimonovi, 69 let); děti Matěj (4. 8. 1764), Magdalena (1774, č. 10) a Prokop (*~1760, křest nenalezen – sňatek rodičů asi 1758–1763 mimo faru Osek)."
+        "KANDIDÁT ztotožnění (K+): narozen 27. 10., pokřtěn 28. 10. 1732 v Oseku – „Šymon, vlastní syn Jozefa Laukoty, Roziny manželky jeho“; levans František Kratochvíl z Volduch (Osek 02 str. 44, sn. 24 vlevo; M zápis, ověřeno koordinátorem) – sedí na úmrtí 10. 9. 1806 v č. 17 ve věku 75; v r. 1757 dvakrát družbou (ještě svobodný). Manželka Magdalena (*~1738, † 5. 10. 1807 jako vdova po pastýři Šimonovi, 69 let); děti Matěj (4. 8. 1764), Magdalena (1774, č. 10) a Prokop (*~1760, křest nenalezen – sňatek rodičů asi 1758–1763 mimo faru Osek)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), oddíl Osek, rok 1782, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
@@ -7422,6 +7422,7 @@ window.RODOKMEN = {
         "SOA Plzeň, fara Osek, kniha Osek 04, oddíl O, str. 27, snímek 79 – https://www.portafontium.eu/iipimage/30066670/osek-04_0790-o"
       ],
       scans: [
+        {"f":"img/1732_N_Laukota_Simon_Osek.jpg","t":"Křest Šimona, Osek 27./28. 10. 1732 (kandidát)"},
         {"f":"img/1782_oddani_prokop_laukota_syn_simona_x_anna_dcera_antonina_laukoty_osek10_osek07_sn8.jpg","t":"První sňatek Prokopa Laukoty, Osek 24. 11. 1782"},
         {"f":"img/1806_umrti_simon_laukota_osek17_75let_osek08_sn38.jpg","t":"Úmrtí Šimona Laukoty, Osek 10. 9. 1806"},
         {"f":"img/1727_O_Laukota_Josef_Altmanova_Rozina_Osek.jpg","t":"Sňatek rodičů Josefa Laukoty a Roziny, Osek 1727 (kandidát)"}
@@ -8590,7 +8591,8 @@ window.RODOKMEN = {
         "ROZPOR (otec): oddací zápis 1705 „filia Wenceslai Hanzlik“ × KANDIDÁT křtu (K+) 14. 4. 1676 Volduchy: „Alžběta … Petrovi Hanslykovi, matce Kateřina“ (Osek 01 N str. 8, sn. 6 vlevo; M zápis; věk 73 při úmrtí 1750 sedí přesně). Václav Hanzlík byl nejspíš její bratr (*10. 7. 1678, syn Petra × Kateřiny; M), který ji r. 1705 vdával. Dítě Václava Hanzlíka v N 1673–1683 není. Strom zatím ponechán podle oddacího zápisu – nerozhodnuto.",
         "K ROZPORU: ve Volduchách žil i starší Václav Hanzlík s dospělými dětmi (syn Matěj × 27. 2. 1707 Ludmila Brazová; Osek 01 O sn. 152 vlevo; M) – výklad „vdával ji bratr Václav *1678“ tím slábne; dcera Alžběta Václava ale nikde nalezena. Kateřina Hanzlíková † 22. 3. 1706, 60 let (K: manželka Petra). Dál: index N Rokycany 01/02 (H).",
         "K ROZPORU (Plzeň N19): rejstřík N Rokycany 01 (1659–1682, celé H) zná jen Hanzlíka Petra (děti Kateřina 1669, Jan 1672, Kašpar 1674 – kmotři shodní s Václavem 1678 v Oseku); Václav Hanzlík jako otec 1659–1683 nikde, jediná Alžběta Hanzlíková = dcera Petra *1676. Dcera staršího Václava by se narodila až po 1683 (při † 1750 by měla nejvýš ~67, zápis uvádí 73) → otec Petr pravděpodobnější (K+). Strukturu zatím neměněna – rozhodne rejstřík Rokycany 02 (N 1684–1695), případně uživatel.",
-        "K ROZPORU (Plzeň N20): rejstřík N Rokycany 02 (1684–1695, H) zná děti Václava Hanzlíka (Barbora, Rozina, Matouš, Ondřej) a Pavla – Alžběta mezi nimi není. Jediná známá Alžběta Hanzlíková je dcera Petra *1676 → otec Petr K++; „filia Wenceslai“ (1705) zůstává ROZPOR. Strukturu ponechávám k rozhodnutí uživatele."
+        "K ROZPORU (Plzeň N20): rejstřík N Rokycany 02 (1684–1695, H) zná děti Václava Hanzlíka (Barbora, Rozina, Matouš, Ondřej) a Pavla – Alžběta mezi nimi není. Jediná známá Alžběta Hanzlíková je dcera Petra *1676 → otec Petr K++; „filia Wenceslai“ (1705) zůstává ROZPOR. Strukturu ponechávám k rozhodnutí uživatele.",
+        "K ROZPORU (Plzeň N21): Václav Hanzlík × Kateřina měli ve Volduchách děti Barboru (1685), Rozinu (1687), Matouše (1689) a Ondřeje (1693) (Rokycany 02; M) – hned po posledním dítěti Petra × Kateřiny (1678). HYPOTÉZA (K): Petr zemřel ~1679–1684 a vdova Kateřina († 1706, 60) se provdala za Václava → Alžběta (*1676, dcera Petra) byla Václavovou nevlastní dcerou („filia Wenceslai“ 1705). Ověřit sňatkem Václava s vdovou Kateřinou ~1679–1684."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
@@ -11993,13 +11995,16 @@ window.RODOKMEN = {
       marriage: "4. nebo 11. (?) 11. 1727, Osek – s Rozinou Altmanovou (?) z Vitinky",
       notes: [
         "KANDIDÁT (K+): otec Šimona Laukoty – kandidátní křest X 1732 Osek „syn Josefa Laukoty a Roziny“ (Osek 02 str. 44; levans František Kratochvíl z Volduch).",
-        "Oddán v XI 1727 (4. nebo 11.; ohlášky 19., 26. a 28. 10.) v Oseku: „Jozef Laukota s Rozinau Altmanowau (?) z Witthinky“; družba Matěj Fojtorný (?) z Vitinky, družička Anna …blová z Oseka, faktor František Kratochvíl z Volduch – týž jako levans při křtu Šimona 1732 (Osek 01 O, sn. 172 vlevo; M zápis, ověřeno koordinátorem; příjmení nevěsty nejisté)."
+        "Oddán v XI 1727 (4. nebo 11.; ohlášky 19., 26. a 28. 10.) v Oseku: „Jozef Laukota s Rozinau Altmanowau (?) z Witthinky“; družba Matěj Fojtorný (?) z Vitinky, družička Anna …blová z Oseka, faktor František Kratochvíl z Volduch – týž jako levans při křtu Šimona 1732 (Osek 01 O, sn. 172 vlevo; M zápis, ověřeno koordinátorem; příjmení nevěsty nejisté).",
+        "Děti v Oseku (M): Barbora (26. 8. 1728; levans Barbora Kratochvílová, svědek Matěj Fotorný z Vitinky – svatební hosté 1727), Matěj (19. 7. 1730), Šimon (27. 10. 1732), František (1735), Václav (1739). Úmrtí nehledána."
       ],
       sources: [
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 172 vlevo (XI 1727) – https://www.portafontium.eu/iipimage/30066667/osek-01_1721-o"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 172 vlevo (XI 1727) – https://www.portafontium.eu/iipimage/30066667/osek-01_1721-o",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 N str. 44 (sn. 24 vlevo), str. 6, str. 17 – https://www.portafontium.eu/iipimage/30066668/osek-02_0240-n"
       ],
       scans: [
-        {"f":"img/1727_O_Laukota_Josef_Altmanova_Rozina_Osek.jpg","t":"Sňatek s Rozinou Altmanovou (?), Osek 1727"}
+        {"f":"img/1727_O_Laukota_Josef_Altmanova_Rozina_Osek.jpg","t":"Sňatek s Rozinou Altmanovou (?), Osek 1727"},
+        {"f":"img/1732_N_Laukota_Simon_Osek.jpg","t":"Křest syna Šimona, Osek 1732"}
       ]
     },
     {
@@ -12012,13 +12017,16 @@ window.RODOKMEN = {
       spouse: "josef_la",
       marriage: "XI 1727, Osek – s Josefem Laukotou",
       notes: [
-        "KANDIDÁTKA (K+): matka Šimona Laukoty (viz Josef Laukota); z Vitinky, rodné příjmení čteno Altmanová (?)."
+        "KANDIDÁTKA (K+): matka Šimona Laukoty (viz Josef Laukota); z Vitinky, rodné příjmení čteno Altmanová (?).",
+        "Děti v Oseku (M): Barbora (26. 8. 1728; levans Barbora Kratochvílová, svědek Matěj Fotorný z Vitinky – svatební hosté 1727), Matěj (19. 7. 1730), Šimon (27. 10. 1732), František (1735), Václav (1739). Úmrtí nehledána."
       ],
       sources: [
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 172 vlevo (XI 1727) – https://www.portafontium.eu/iipimage/30066667/osek-01_1721-o"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 172 vlevo (XI 1727) – https://www.portafontium.eu/iipimage/30066667/osek-01_1721-o",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 N str. 44 (sn. 24 vlevo), str. 6, str. 17 – https://www.portafontium.eu/iipimage/30066668/osek-02_0240-n"
       ],
       scans: [
-        {"f":"img/1727_O_Laukota_Josef_Altmanova_Rozina_Osek.jpg","t":"Sňatek s Josefem Laukotou, Osek 1727"}
+        {"f":"img/1727_O_Laukota_Josef_Altmanova_Rozina_Osek.jpg","t":"Sňatek s Josefem Laukotou, Osek 1727"},
+        {"f":"img/1732_N_Laukota_Simon_Osek.jpg","t":"Křest syna Šimona, Osek 1732"}
       ]
     },
     {
