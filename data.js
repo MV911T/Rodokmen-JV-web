@@ -4006,26 +4006,29 @@ window.RODOKMEN = {
       maiden: "Stadlerová",
       line: "svoboda",
       cert: "M",
-      b: {"date":"11. 6. 1817","year":1817,"place":"Horažďovicko (fara „K…“ – nečteno)"},
+      b: {"date":"11. 7. 1817","year":1817,"place":"Pačejov č. p. 6 (fara Malý Bor, panství Horažďovice)"},
       d: {"date":"27. 6. 1864","year":1864,"place":"Suchomasty č. p. 21"},
       cause: "vodnatelnost",
       mother: "ludmila_sta",
       spouse: "vaclav_sv",
       marriage: "10. 2. 1851 – s Václavem Svobodou",
       notes: [
+        "Narozena 11. 7., pokřtěna 12. 7. 1817 v Pačejově č. 6 (fara Malý Bor): „Magdalena Stadlerowa“, nemanželská; matka „Ludmila, dcera † (?) Jana Sta[dlera], domkáře z Pačejova No 6, matky Ludmily Rozovy (?) z Sazjone (?)“; otec neuveden (Malý Bor 13 N, fol. 309, sn. 316 vlevo; M, ověřeno koordinátorem). Poznámka: křestní list vydán 23. 1. 1843 „ad contrahendum matrimonium“. ROZPOR: oddací zápis 1851 uvádí „11. června“ – platí křest (červenec). Dřívější kandidát Malé Hydčice 18. 6. 1817 (dcera Ignáce Stadlera × Marie) je jiná Magdalena (TODO kap. 4).",
         "Matka Marie Klikové; nemanželská dcera Ludmily Stádlerové ze Suchomast.",
         "Oddána 10. 2. 1851 v Suchomastech č. 21 s Václavem Svobodou: „Magdalena, dcera Ludmily, dcery Jana Stadlera, domkáře z K…ína (?) No 6, panství Hořaždovice, z K…ína rozená, báby Ludmily rozené Rozné (?) z K…ína, panství Hořaždovice“, 34 let; „nevěsta dle křestního listu fary K… rozena dne 11. června 1817“ (Borek 13, sn. 3; M, ověřeno koordinátorem; obec a fara nečteny).",
         "Zemřela 27. 6. 1864 (pohřbena 29. 6. v Borku) v Suchomastech č. 21: „Svobodová Magdalena, manželka Václava Svobody, domkáře a silničkáře z Suchomast č. 21, a rozené Stadlerové z Pačiva (?) č. d. 6“, 47 let, vodnatelnost (Borek 15, sn. 72; M, ověřeno koordinátorem). Obec „Pačiv (?)“ – K Pačejov u Horažďovic (dům č. 6 shodný se sňatkem 1851).",
-        "Podle rejstříku měla i starší dceru Annu Stadlerovou (*18. 10. 1846, Suchomasty 21) – nečteno.",
-        "KANDIDÁT křtu (K): VI 1817 (18 | 18 ?) Malé Hydčice č. 7 (?), fara Malý Bor – „Magdalena Stadlerowa“ (Malý Bor 13 N, fol. 273, sn. 276 vlevo; jméno M, ověřeno koordinátorem). Fara sedí na „dle křestního listu fary Kleinbor…“ (1851). ROZPOR: den (18 × 11. 6.), matka čtena „Marie (?), dcera † Jakuba … z Březan č. 32, matky Anny“ (× Ludmila), ve sloupci otce „Ignac Ott… (?), domkář pod panstvím Hořaždovic“ (snad dodatečně, přeškrtnuto ?). Nečteno jistě – neztotožňovat."
+        "Podle rejstříku měla i starší dceru Annu Stadlerovou (*18. 10. 1846, Suchomasty 21) – nečteno."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
         "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 13 (O), sn. 3 (10. 2. 1851) – https://ebadatelna.soapraha.cz/d/4082/3; Borek 15 index Z, sn. 113 vlevo (1864)",
-        "SOA Praha, Borek 15 (Z), sn. 72 (1864) – https://ebadatelna.soapraha.cz/d/4084/72"
+        "SOA Praha, Borek 15 (Z), sn. 72 (1864) – https://ebadatelna.soapraha.cz/d/4084/72",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Malý Bor, Malý Bor 13 (N 1812–1827), oddíl Pačejov, fol. 309, sn. 316 vlevo – https://www.portafontium.eu/iipimage/30065508/maly-bor-13_0316-n"
       ],
       scans: [
+        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov.jpg","t":"Křest Magdaleny, Pačejov č. 6, 11./12. 7. 1817"},
+        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest Magdaleny 1817 – matka a prarodiče"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"},
         {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek s Václavem Svobodou, Suchomasty 1851"},
@@ -4037,23 +4040,25 @@ window.RODOKMEN = {
       name: "Ludmila Stádlerová",
       line: "stadler",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true,"place":"Suchomasty"},
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Pačejov (?) (fara Malý Bor)"},
       father: "jan_sta",
       mother: "ludmila_vd",
       notes: [
         "Matka Magdaleny Svobodové (nemanželské dcery); dcera † Jana Stadlera, mistra polního z Tetína, a matky Ludmily rozené Vadlejškové z Hořaždovic (křest vnučky 1848, Borek 09 sn. 38 vpravo – ověřeno ve 2× zvětšení; potvrzuje sňatek 1874, Borek 20 sn. 28; M). Hypotéza „Sladký, krejčí z Tetína“ vyvrácena.",
         "Křest v N Borek 1789–1821 ani Tetín 1737–1811 není (Praha N12) – narozena jinde (Hořaždovice ?).",
-        "Dcera Magdalena narozena 11. 6. 1817 na Horažďovicku (oddací zápis 1851) – Ludmila tedy pocházela z panství Horažďovice, ne z Tetína."
+        "Dcera Magdalena narozena 11. 7. 1817 v Pačejově č. 6 (fara Malý Bor, panství Horažďovice) – Ludmila pocházela z Pačejova, ne z Tetína („Tetín“ v zápisech 1848/1874 je zřejmě zkomolený „Pačejov“). Křest Ludmily (~1790–1797, Malý Bor 10) nehledán."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
-        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28"
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Malý Bor, Malý Bor 13 (N 1812–1827), oddíl Pačejov, fol. 309, sn. 316 vlevo – https://www.portafontium.eu/iipimage/30065508/maly-bor-13_0316-n"
       ],
       scans: [
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Magdalena Svobodová)"},
-        {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest vnučky 1848 – rodokmen Stadlerových (Borek)"}
+        {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest vnučky 1848 – rodokmen Stadlerových (Borek)"},
+        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest dcery Magdaleny, Pačejov 1817"}
       ]
     },
     {
@@ -4237,19 +4242,22 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
       spouse: "ludmila_vd",
-      occ: "mistr polní (polní mistr) v Tetíně",
+      occ: "domkář v Pačejově č. 6 (panství Horažďovice); v pozdějších zápisech „mistr polní z Tetína“ (?)",
       notes: [
         "Otec Ludmily Stádlerové: „† Jan Stadler, mistr polní z Tetína“ (křest 1848 Borek 09 sn. 38; sňatek 1874 Borek 20 sn. 28; M). Manželka Ludmila roz. Vadlejšková z Hořaždovic. V rejstřících N a O Tetín 1737–1811 / 1743–1803 není – do Tetína přišel odjinud.",
-        "ROZPOR (povolání/bydliště): 1851 „Jan Stadler, domkář z K…ína (?) No 6, panství Hořaždovice“ (Borek 13 sn. 3) × 1848 a 1874 „mistr polní z Tetína“. Rod pochází z Horažďovicka (i Martin Stadler, panský polní mistr v Suchomastech 1824, „rozený z J/K…ína, panství Hořaždovické“ – snad příbuzný, K). Kandidát Jan Staral z Tetína vyřazen (TODO kap. 4)."
+        "ROZPOR (povolání/bydliště): 1851 „Jan Stadler, domkář z K…ína (?) No 6, panství Hořaždovice“ (Borek 13 sn. 3) × 1848 a 1874 „mistr polní z Tetína“. Rod pochází z Horažďovicka (i Martin Stadler, panský polní mistr v Suchomastech 1824, „rozený z J/K…ína, panství Hořaždovické“ – snad příbuzný, K). Kandidát Jan Staral z Tetína vyřazen (TODO kap. 4).",
+        "Křest vnučky Magdaleny 11. 7. 1817 v Pačejově č. 6: „Jan Sta[dler], domkář z Pačejova No 6“ (Malý Bor 13 sn. 316; M) – potvrzuje oddací zápis 1851 („domkář z P…a No 6, panství Hořaždovice“)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
-        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28"
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Malý Bor, Malý Bor 13 (N 1812–1827), oddíl Pačejov, fol. 309, sn. 316 vlevo – https://www.portafontium.eu/iipimage/30065508/maly-bor-13_0316-n"
       ],
       scans: [
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Magdalena Svobodová) (dítě: Ludmila Stádlerová)"},
         {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest pravnučky 1848 – zmínka o Janu Stadlerovi"},
-        {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek vnučky Magdaleny 1851 – zmínka o Janu Stadlerovi"}
+        {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek vnučky Magdaleny 1851 – zmínka o Janu Stadlerovi"},
+        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest vnučky Magdaleny, Pačejov 1817"}
       ]
     },
     {
@@ -12023,14 +12031,16 @@ window.RODOKMEN = {
       spouse: "jan_sta",
       notes: [
         "Matka Ludmily Stádlerové: „matky Ludmily rozené Vadlejškové z Hořaždovic“ (křest vnučky Magdaleny 1848, Borek 09 sn. 38 vpravo; M). Hořaždovice = asi Horažďovice (Prácheňsko).",
-        "ROZPOR (rodné příjmení): 1851 „baby Ludmily rozené Rozné (?) z K…ína, panství Hořaždovice“ (Borek 13 sn. 3) × 1848 „rozené Vadlejškové z Hořaždovic“ – obě verze uvedeny, čtení obou nejisté."
+        "ROZPOR (rodné příjmení): 1851 „baby Ludmily rozené Rozné (?) z K…ína, panství Hořaždovice“ (Borek 13 sn. 3) × 1848 „rozené Vadlejškové z Hořaždovic“ – obě verze uvedeny, čtení obou nejisté.",
+        "Křest vnučky 1817: „matky Ludmily Rozovy (?) z Sazjone (?)“ (Malý Bor 13 sn. 316) – podporuje čtení „Rozná / Rozová“ z 1851 proti „Vadlejšková“ z 1848."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28"
       ],
       scans: [
         {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest pravnučky 1848 – zmínka o Ludmile roz. Vadlejškové"},
-        {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek pravnučky Magdaleny 1851 – zmínka o Ludmile"}
+        {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek pravnučky Magdaleny 1851 – zmínka o Ludmile"},
+        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest pravnučky Magdaleny, Pačejov 1817"}
       ]
     },
     {

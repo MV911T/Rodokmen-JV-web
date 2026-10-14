@@ -71,6 +71,7 @@ window.RODOKMEN_GAZ = [
   { n: 'Málkov', a: ['Málkov'], lat: 49.879, lon: 14.037 },
   { n: 'Jetřichovec', a: ['Jetřichovec'], lat: 49.476, lon: 14.998 },
   { n: 'Cetule', a: ['Cetule'], lat: 49.515, lon: 15.045 },
+  { n: 'Pačejov', a: ['Pačejov'], lat: 49.272, lon: 13.633 },
   { n: 'Strašice', a: ['Strašice'], lat: 49.736, lon: 13.757 },
   { n: 'Vodochody (Roudnicko)', a: ['Vodochody'], lat: 50.480, lon: 14.300 },
   { n: 'Žitovlice', a: ['Žitovlice'], lat: 50.164, lon: 15.100 },
