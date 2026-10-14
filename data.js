@@ -6282,7 +6282,8 @@ window.RODOKMEN = {
       marriage: "20. 7. 1806, Hodějice – s Magdalenou Šimoníkovou",
       notes: [
         "Oddán 20. 7. 1806 v Hodějicích (č. 69) jako „Georg, Sohn nach dem † Paul Hrabowsky, Viertler“, 21 let, s Magdalenou, dcerou Martina Šimoníka, čtvrtníka (č. 35), 20 let.",
-        "Otec Josefa Hrabovského; v roce 1841 žil."
+        "Otec Josefa Hrabovského; v roce 1841 žil.",
+        "Žil 3. 1. 1846 jako výměnkář (Ausgedinger) v Hodějicích č. 50 (úmrtí manželky, M). V indexu Z fary Slavkov 1836–1851 a 1852–1877 (H) není – zemřel jinde nebo později (index 1852–77 čten jen v nízkém rozlišení)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -6301,17 +6302,21 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"asi 1786","year":1786,"approx":true,"place":"Hodějice č. p. 35"},
+      d: {"date":"3. 1. 1846","year":1846,"place":"Hodějice č. p. 50"},
+      cause: "sešlost věkem (Altersschwäche)",
       father: "martin_si",
       spouse: "jiri_hb",
       marriage: "20. 7. 1806, Hodějice – s Jiřím Hrabovským",
       notes: [
         "Dcera Martina Šimoníka, čtvrtníka v Hodějicích č. 35; oddána 20. 7. 1806 (20 let). Matka Josefa Hrabovského (*1819).",
+        "Zemřela 3. 1. 1846 v Hodějicích č. 50 (pohřbena 5. 1., kaplan Emil Wondráček ?): „Magdalena, Eheweib des Georg Hrabowsky, Ausgedinger“, 60 let (M; věk sedí se sňatkem 1806 i kandidátem křtu 1785).",
         "KANDIDÁT křtu: 22. 7. 1785 Hodějice č. 52 – Magdalena, dcera Martina Šimoníka a Johanny (N 13122, str. 20) – věk 20 v r. 1806 sedí, číslo domu ne (52 × 35). Pozor: jiná Magdalena Šimoníková *14. 7. 1788 (otec Josef). Rodiče se vzali 6. 5. 1783 v č. 52 – číslo domu 52 sedí s křtem 1785."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Hodějice, str. 378, snímek 367 – https://www.mza.cz/actapublica/matrika/detail/1951",
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, Z Hodějice, Hrušky, Němčany 1829–1880 (sign. 13154), fol. 46, snímek 25 vlevo, 1. zápis 1846; index Z 13161 sn. 66 vlevo – https://www.mza.cz/actapublica/matrika/detail/1967"
       ],
       scans: [
         {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"},
@@ -6332,7 +6337,8 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěn 10. 2. 1789 v Heršpicích č. 4: otec Martin Maláč, podruh, matka Kateřina; kmotři Vavřinec Maláč a manželka Veronika.",
         "Oddán 6. 7. 1819 v Křenovicích jako třičtvrtník z Heršpic (č. 4), 30 let, s Annou, dcerou † Matěje Spačila z Křenovic č. 35, 21 let; svědci František Fuks a Lazar Hložek, třičtvrtníci. Otec Františky Hrabovské.",
-        "V indexu Z fary Slavkov 1852–1861 (M) není – zemřel nejspíš před 1852 (index 13161)."
+        "V indexu Z fary Slavkov 1852–1861 (M) není – zemřel nejspíš před 1852 (index 13161).",
+        "V indexu Z 1836–1851 (M) také není; 1841 v zápisu dcery bez „†“ → zemřel spíš po 1861."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
