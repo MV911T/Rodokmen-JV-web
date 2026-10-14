@@ -2307,7 +2307,7 @@ window.RODOKMEN = {
       name: "Jan Votava",
       line: "votava",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"31. (?) 5. 1794","year":1794,"place":"Cetule č. p. 8 (fara Velká Chyška)"},
       d: {"date":"23. 1. 1862","year":1862,"place":"Těchobuz č. p. 13"},
       cause: "zápal plic",
       father: "martin_v",
@@ -2316,6 +2316,7 @@ window.RODOKMEN = {
       occ: "nádeník v Těchobuzi č. 36",
       marriage: "1) 10. 6. 1815, Jetřichovec u Pacova – s Kateřinou Hamrovou / Flemrovou (?) († 1841); 2) 6. 2. 1844, Těchobuz – s Kateřinou Kočovou",
       notes: [
+        "Pokřtěn v květnu 1794 (31. ?) v Cetuli č. 8 jako „Jan Křtitel Norbert, poddaný“ (křtil Lucas Paleček): otec Martin Wotawa, poddaný, matka Terezia Mareda (M). Ztotožnění D – jediný přeživší Jan Martina × Terezie: mladší bratr Jan Nepomuk (*16. 5. 1798, nouzový křest) zemřel 17. 5. 1798 „nedonošený“ (M). Sourozenci: Bartoloměj (8. 8. 1792, † 1792), Jan Nepomuk (1798, †), Barbora Maria (4. 12. 1799). Věky 1815 („25“) a 1862 („67“) zhruba sedí, „41“ v r. 1844 chybně.",
         "Oddán 10. 6. 1815 v Jetřichovci (fara Pacov) jako „Jan, syn Martina Wottawy, sedláka (?)“, Jetřichovec č. 23 (?), 25 let, svobodný, s Kateřinou, dcerou Matěje Hammera / Hamra (?), chalupníka z Tučap (?) č. 31, 22 let; svědci Matěj Blažek (?), rychtář, a Josef Fazejk (?), sedlák.",
         "Nádeník v Těchobuzi – č. 36 („Schelenberg“, 1834–1841), č. 24 (1844), č. 13 (1862); jurisdicent těchobuzského statku. Syn Martina Votavy, nádeníka (podle sňatku 1844 „bývalého chalupníka z Cetule“) z Jetřichovic č. 22, a Terezie roz. Marody / Mrkvové (?).",
         "Před Těchobuzí žil v Jetřichovci u Pacova č. 10, kde mu s Kateřinou pokřtili syny Vojtěcha (1816) a Matěje (1819) – manželé tedy už před 1816. V indexech fary Pacov (N 1783–1842, O 1765–1833) jeho křest ani sňatek rodičů není – rodina přišla odjinud (asi kolem 1815).",
@@ -2323,8 +2324,7 @@ window.RODOKMEN = {
         "Zemřel 23. 1. 1862 v Těchobuzi č. 13; „byl 17 let ženatý“ (s druhou manželkou).",
         "Křest ani sňatek nejsou ve fondu fary Pacov (index N 1783–1804 a O 1765–1833, písmeno W – bez Votavy). Místo původu ze sňatku 1844 „z Letův / Lstův (?)“ nejisté; matka Terezie „dcera Martina Marody, podruha z Lom… (?) č. 23“.",
         "Křest ani sňatek nejsou ani ve faře Zhoř 1784–1816 (rejstřík 8839, písmeno W); v pozemkové knize domkářů Těchobuz (1805–1870) Votava není – v č. 24 (od 1816 Babičtí) a č. 36 jen bydlel (podruh / nájemník). V Těchobuzi žil 1797 jiný Votava – Jakub, domkář v č. 23. KANDIDÁT původu matky: obec Lomná (?) (fara Zhoř).",
-        "ROZPOR ve věku: sňatek 1815 „25 let“ (*~1790), sňatek 1844 „41 let“ (*~1803), úmrtí 1862 „67 let“ (*~1795) – nejstarší zápis (1815) má největší váhu.",
-        "KANDIDÁTI křtu (K): v Cetuli (fara Velká Chyška, kniha 8197) pokřtěni dva synové Martina Votavy × Terezie Marody – Jan Křtitel Norbert (~1793/94, č. 8, sn. 10) a Jan Nepomuk (16. 5. 179?, č. 8, nouzový křest, přípis o vydání křestního listu; sn. 11). Který je náš, rozhodne úmrtí druhého; sourozenci Bartoloměj (1792) a Barbora Maria (1799) (M). Rodina se do Jetřichovce u Pacova přestěhovala asi před 1815."
+        "ROZPOR ve věku: sňatek 1815 „25 let“ (*~1790), sňatek 1844 „41 let“ (*~1803), úmrtí 1862 „67 let“ (*~1795) – nejstarší zápis (1815) má největší váhu."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2340,9 +2340,11 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), fol. 47, snímek 35 – https://digi.ceskearchivy.cz/6239",
         "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), O fol. 8, snímek 66; index 6256 sn. 25 – https://digi.ceskearchivy.cz/6239",
         "SOA Třeboň, fara Zhoř, kniha 8826, N 1845, snímek 80 vlevo, 1. zápis (14./15. 1. 1845, Těchobuz č. 13) – https://digi.ceskearchivy.cz/8826",
-        "SOA Třeboň, fara Velká Chyška, Cetule N/O/Z 1785–1801 (kniha 8197), snímky 9–12 (křty 1792–1799) – https://digi.ceskearchivy.cz/8197"
+        "SOA Třeboň, fara Velká Chyška, Cetule N/O/Z 1785–1801 (kniha 8197), snímky 9–12 (křty 1792–1799) – https://digi.ceskearchivy.cz/8197",
+        "SOA Třeboň, fara Velká Chyška, Cetule N/O/Z 1785–1801 (kniha 8197), N pag. XVII, snímek 10, 3. zápis (V 1794); Z snímek 18 (17. 5. 1798) – https://digi.ceskearchivy.cz/8197"
       ],
       scans: [
+        {"f":"img/1794_N_Votava_Jan_Cetule.jpg","t":"Křest Jana Křtitele Norberta, Cetule č. 8, V 1794"},
         {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče"},
         {"f":"img/1844_oddani_Votava_Jan_Kocova_Katerina_Techobuz.jpg","t":"Druhý sňatek Jana Votavy s Kateřinou Kočovou, Těchobuz 1844"},
         {"f":"img/1862_zemreni_Votava_Jan_Techobuz.jpg","t":"Úmrtí Jana Votavy, Těchobuz 1862"},
@@ -3237,12 +3239,14 @@ window.RODOKMEN = {
       name: "Martin Votava",
       line: "votava",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1768)","year":1768,"approx":true},
+      b: {"date":"neznámé (asi 1770)","year":1770,"approx":true},
       d: {"date":"před 6. 2. 1844","year":1844,"approx":true},
       spouse: "terezie_mk",
       occ: "nádeník v Jetřichovicích č. 22",
+      marriage: "20. 1. 1789, Bratřice (fara Velká Chyška), č. 7 – s Terezií Marodovou",
       notes: [
         "PŮVOD VYŘEŠEN (Třeboň N1): chalupník a poddaný v Cetuli (dnes část obce Bratřice, okr. Pelhřimov, fara Velká Chyška) – křest vnuka Františka 1845: „Jan Wotawa … syn Martina Wotawy, chalupníka z Cetůle, a matky Terezie, roz. Martina Marody, též z Cetůle“ (M; jiný, zřetelný písař – „z L?tůh“ v zápisu 1844 je totéž slovo). V matrice Cetule křtí s Terezií Marodou/Maredou děti: Bartoloměj (8. 8. 1792, Cetule č. 7), Jan Křtitel Norbert (~1793/94, č. 8), Jan Nepomuk (16. 5. 179?, č. 8; nouzový křest), Barbora Maria (4. 12. 1799, č. 8, otec „chalupník poddaný“) (M). V Cetuli žili i Jan Votava × Magdalena (děti 1793–1801) a Tomáš Votava (kmotr 1787) – příbuzní (K).",
+        "Oddán 20. 1. 1789 v Bratřicích (č. 7): „Martin Wotawa, poddaný“, 18 let, svobodný, s Terezií Marodou, 19 let (?); formulář rodiče snoubenců neuvádí (M). Kniha křtů fary Velká Chyška 1761–1784 není v digitalizovaném fondu (8194 končí 1760) – křest Martina zatím nedosažitelný.",
         "Otcovství doloženo oddacím zápisem syna Jana 10. 6. 1815 v Jetřichovci (fara Pacov): „Jan, syn Martina Wottawy, sedláka (?)“, Jetřichovec č. 23 (?).",
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Cetule“ (dříve čteno „z Letů / L?tůh“) – zemřel před 1844.",
         "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno.",
@@ -3255,13 +3259,16 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Pacov, kniha Jetřichovec NOZ 1785–1843 (id 6239), zemřelí fol. 28 / 31, snímky 116 / 118 – https://digi.ceskearchivy.cz/6239",
         "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), O fol. 8, snímek 66; index 6256 sn. 25 – https://digi.ceskearchivy.cz/6239",
         "SOA Třeboň, fara Zhoř, kniha 8826, N 1845, snímek 80 vlevo, 1. zápis (14./15. 1. 1845, Těchobuz č. 13) – https://digi.ceskearchivy.cz/8826",
-        "SOA Třeboň, fara Velká Chyška, Cetule N/O/Z 1785–1801 (kniha 8197), snímky 9–12 (křty 1792–1799) – https://digi.ceskearchivy.cz/8197"
+        "SOA Třeboň, fara Velká Chyška, Cetule N/O/Z 1785–1801 (kniha 8197), snímky 9–12 (křty 1792–1799) – https://digi.ceskearchivy.cz/8197",
+        "SOA Třeboň, fara Velká Chyška, oddaní Bratřice 1785–1801 (kniha 8196), pag. II, snímek 3, 1. zápis (20. 1. 1789) – https://digi.ceskearchivy.cz/8196"
       ],
       scans: [
         {"f":"img/1815_O_Votava_Jan_Hamrova_Katerina_Jetrichovec.jpg","t":"Sňatek Jana Votavy a Kateřiny Hamrové (Flemrové), Jetřichovec 10. 6. 1815"},
         {"f":"img/1845_N_Votava_Frantisek_Cetule_Techobuz.jpg","t":"Křest vnuka Františka 1845 – „syn Martina Wotawy, chalupníka z Cetůle“"},
         {"f":"img/1792_N_Votava_Bartolomej_Cetule.jpg","t":"Křest syna Bartoloměje, Cetule č. 7, 8. 8. 1792"},
-        {"f":"img/1799_N_Votavova_Barbora_Cetule.jpg","t":"Křest dcery Barbory Marie, Cetule č. 8, 4. 12. 1799"}
+        {"f":"img/1799_N_Votavova_Barbora_Cetule.jpg","t":"Křest dcery Barbory Marie, Cetule č. 8, 4. 12. 1799"},
+        {"f":"img/1789_O_Votava_Martin_Marodova_Terezie_Bratrice.jpg","t":"Sňatek s Terezií Marodovou, Bratřice 20. 1. 1789"},
+        {"f":"img/1794_N_Votava_Jan_Cetule.jpg","t":"Křest syna Jana, Cetule 1794"}
       ]
     },
     {
@@ -3270,25 +3277,30 @@ window.RODOKMEN = {
       maiden: "Marodová (Maredová)",
       line: "mrkva",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1773)","year":1773,"approx":true},
+      b: {"date":"neznámé (asi 1770)","year":1770,"approx":true},
       father: "martin_mr",
       mother: "mariana_mr",
       spouse: "martin_v",
+      marriage: "20. 1. 1789, Bratřice – s Martinem Votavou",
       notes: [
         "Rozená Marodová (Maredová) z Cetule – křest vnuka Františka 1845: „matky Terezie, roz. Martina Marody, též z Cetůle“; v křtech dětí v Cetuli 1792–1799 „Terezie Maroda / Terezia Mareda“ (M). V Cetuli 1787 kmotři „Martin Mareda, Marjana Maredowa“ – rodiče (K).",
         "Matka Jana Votavy; „dcera Martina Marody / Mrkvy (?), podruha z Lom-nice / Lomné (?) č. 23“ (křest vnučky 1834, sňatek syna 1844).",
-        "Terezie † 1833 (60 let → *~1773) nemůže být dcerou Martina Maredy oddaného 1787 v Lomné (24 let) – buď starší Martin Maroda, nebo chybné věky. „Lom-nice č. 23“ (1834) / „z Lomnic č. 23“ (1836) – obec neověřena."
+        "Terezie † 1833 (60 let → *~1773) nemůže být dcerou Martina Maredy oddaného 1787 v Lomné (24 let) – buď starší Martin Maroda, nebo chybné věky. „Lom-nice č. 23“ (1834) / „z Lomnic č. 23“ (1836) – obec neověřena.",
+        "Oddána 20. 1. 1789 v Bratřicích s Martinem Votavou, 19 (?) let (M). Marodové žili i v Bratřicích (1789 ženich Bartoloměj Maroda, svědkyně Terezie a Magdalena Marodová – K)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Zhoř, kniha 8826, N 1845, snímek 80 vlevo, 1. zápis (14./15. 1. 1845, Těchobuz č. 13) – https://digi.ceskearchivy.cz/8826",
-        "SOA Třeboň, fara Velká Chyška, Cetule N/O/Z 1785–1801 (kniha 8197), snímky 9–12 (křty 1792–1799) – https://digi.ceskearchivy.cz/8197"
+        "SOA Třeboň, fara Velká Chyška, Cetule N/O/Z 1785–1801 (kniha 8197), snímky 9–12 (křty 1792–1799) – https://digi.ceskearchivy.cz/8197",
+        "SOA Třeboň, fara Velká Chyška, oddaní Bratřice 1785–1801 (kniha 8196), pag. II, snímek 3, 1. zápis (20. 1. 1789) – https://digi.ceskearchivy.cz/8196"
       ],
       scans: [
         {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče (dítě: Jan Votava)"},
         {"f":"img/1845_N_Votava_Frantisek_Cetule_Techobuz.jpg","t":"Křest vnuka Františka 1845 – „Terezie roz. Martina Marody z Cetůle“"},
-        {"f":"img/1792_N_Votava_Bartolomej_Cetule.jpg","t":"Křest syna Bartoloměje, Cetule 1792"}
+        {"f":"img/1792_N_Votava_Bartolomej_Cetule.jpg","t":"Křest syna Bartoloměje, Cetule 1792"},
+        {"f":"img/1789_O_Votava_Martin_Marodova_Terezie_Bratrice.jpg","t":"Sňatek s Martinem Votavou, Bratřice 1789"},
+        {"f":"img/1794_N_Votava_Jan_Cetule.jpg","t":"Křest syna Jana, Cetule 1794"}
       ]
     },
     {
