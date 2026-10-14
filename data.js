@@ -2820,25 +2820,31 @@ window.RODOKMEN = {
       name: "Jan Ťukal",
       line: "fukal",
       cert: "M",
-      b: {"date":"neznámé (asi 1812)","year":1812,"approx":true},
+      b: {"date":"6. 10. 1813","year":1813,"place":"Lažany č. p. 26 (fara Přepeře, panství Hrubá Skála)"},
       d: {"date":"17. 6. 1874","year":1874,"place":"Kosík č. p. 52"},
       cause: "souchotiny",
       father: "jan_t3",
       mother: "katerina_t3",
       spouse: "terezie_mr",
       occ: "baráčník v Kosíku č. 55 (?)",
+      marriage: "18. 2. 1833, Ohrazenice č. 8 (fara Přepeře) – s Terezií Mrázovou",
       notes: [
+        "Pokřtěn 6. 10. 1813 v Lažanech č. 26 (fara Přepeře): otec Jan Ťukal, zahradník (?), matka Kateřina, dcera Václava Horáčka, formana (?) z Mašova č. 18, a matky Anny (M).",
+        "Oddán 18. 2. 1833 v Ohrazenicích č. 8 (lokalista Augustin Fibiger): „Jan Ťukal, syn Jana Ťukala, domkáře z Lažan N. 26, matky Kateřiny, rozené Václava Horáčka, nájemníka z Mašova N. 16, panství Hruboskalského“, 19 let; povolení vrchnostenského úřadu Hrubá Skála z 1. 2. 1833, „Ja otec Jan Ťukal svoluji“. Nevěsta Terezie, dcera Jana Mráze, chalupníka z Ohrazenic č. 8, a Doroty roz. Bečkové z č. 14 (M). Sňatek starší než dříve prohledávané roky.",
         "Nádeník v Kosíku č. 49 (1851), později baráčník v Kosíku č. 55 (?). Syn † Jana Tukala, nádeníka z Lažan č. 26 (bývalé panství Hrubá Skála), a Kateřiny roz. Horáčkové (?) z Mašova (?) – křest syna Jana 29. 6. 1851 (M). Manželka Terezie roz. Mrázková z Ohrazenic (Vohraženic) č. 40.",
         "V roce 1874 baráčník v Kosíku č. 55; 3. 2. 1874 podepsal souhlas se sňatkem nezletilého syna Jana (M) – tehdy žil.",
-        "Sňatek s Terezií není v indexu O fary Rožďalovice 1826–1865 (T) – hledat ve faře nevěsty (Přepeře: před X 1834 a 1850–51 neprověřeno) nebo v Lažanech.",
-        "Zemřel 17. 6. 1874 ve 2 hod. ráno v Kosíku č. 52 (pohřben 19. 6., kaplan P. F. Martinek): „Jan Ťukal, baráčník v Kosíku č. d. 52, okres Libáň“, 62 let, souchotiny (M; → asi 1812). ROZPOR: sňatek syna 4 měsíce předtím uvádí dům č. 55."
+        "Zemřel 17. 6. 1874 ve 2 hod. ráno v Kosíku č. 52 (pohřben 19. 6., kaplan P. F. Martinek): „Jan Ťukal, baráčník v Kosíku č. d. 52, okres Libáň“, 62 let, souchotiny (M; podle křtu 60 let). ROZPOR: sňatek syna 4 měsíce předtím uvádí dům č. 55."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 21 (11206, Z), oddíl Kosík, fol. 315, snímek 305 vlevo, 4. zápis; index Rožďalovice 37 sn. 274 vpravo – https://ebadatelna.soapraha.cz/d/11206/305"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 21 (11206, Z), oddíl Kosík, fol. 315, snímek 305 vlevo, 4. zápis; index Rožďalovice 37 sn. 274 vpravo – https://ebadatelna.soapraha.cz/d/11206/305",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
       ],
       scans: [
+        {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest 6. 10. 1813, Lažany č. 26"},
+        {"f":"img/1833_O_Tukal_Jan_Mrazova_Terezie_Ohrazenice.jpg","t":"Sňatek s Terezií Mrázovou, Ohrazenice 18. 2. 1833"},
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903 (dítě: Jan Ťukal)"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest syna Jana, Kosík 29. 6. 1851 – rodiče a prarodiče"},
         {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_a.jpg","t":"Sňatek syna Jana (souhlas otce, podpis), Kosík 3. 2. 1874"},
@@ -2849,26 +2855,31 @@ window.RODOKMEN = {
     {
       id: "terezie_mr",
       name: "Terezie Ťukalová",
-      maiden: "Mrázková",
+      maiden: "Mrázová (Mrázková)",
       line: "mraz",
       cert: "M",
-      b: {"date":"neznámé (asi 1813)","year":1813,"approx":true,"place":"Ohrazenice (Vohraženice) č. p. 40, okr. Turnov"},
+      b: {"date":"17. 10. 1813","year":1813,"place":"Ohrazenice (Vohraženice) č. p. 8 (fara Přepeře)"},
       d: {"date":"3. 6. 1884","year":1884,"place":"Kosík č. p. 52"},
       cause: "ochrnutí plic",
       father: "jan_mz",
       mother: "anna_mz",
       spouse: "jan_t2",
+      marriage: "18. 2. 1833, Ohrazenice č. 8 – s Janem Ťukalem",
       notes: [
-        "Dcera † Jana Mrázka, nádeníka z Ohrazenic (Wohrazenic) č. 40, bývalé panství Rohozec, a matky roz. Bečkové (?) (křestní jméno nezapsáno) – křest syna Jana 29. 6. 1851 (M). Číslo domu 40 tím potvrzeno.",
-        "V Ohrazenicích žili Mrázové i na č. 8 a 36 (Jan Mráz, půlsedlák/chalupník) – vztah neznámý.",
+        "Pokřtěna 17. 10. 1813 v Ohrazenicích č. 8 (administrátor Ferd. Küttel): otec Jan Mráz, chalupník; matka Dorota, dcera Filipa Bečky, chalupníka z Ohrazenic č. 14, a matky Doroty roz. Vlasové (?) (M).",
+        "Oddána 18. 2. 1833 v Ohrazenicích s Janem Ťukalem z Lažan (19 let; M). ROZPOR čísla domu: 1813 a 1833 č. 8, v zápisech 1851 a 1874 „č. 40“ – rodiče shodní, jde o tutéž osobu.",
         "Zemřela 3. 6. 1884 v Kosíku č. 52 (pohřbena 5. 6., kaplan Borejš ?): „Teresie Ťukalová, vdova po zemřelém Janu Ťukalovi, domkáři v Kosíku č. 52, okres Libáňský“, 71 let, ochrnutí plic (M; → asi 1813; jediná Terezie Ťukalová v indexu)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 18 (N 1858–1890), oddíl Kosík, snímek 199 – https://ebadatelna.soapraha.cz/d/11203/199",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 34 (15669, Z), oddíl Kosík, fol. 392, snímek 111, 4. zápis; index Rožďalovice 37 sn. 275 vpravo – https://ebadatelna.soapraha.cz/d/15669/111"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 34 (15669, Z), oddíl Kosík, fol. 392, snímek 111, 4. zápis; index Rožďalovice 37 sn. 275 vpravo – https://ebadatelna.soapraha.cz/d/15669/111",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
       ],
       scans: [
+        {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest 17. 10. 1813, Ohrazenice č. 8"},
+        {"f":"img/1833_O_Tukal_Jan_Mrazova_Terezie_Ohrazenice.jpg","t":"Sňatek s Janem Ťukalem, Ohrazenice 18. 2. 1833"},
         {"f":"img/1903_krestni_list_jana_capkova_mlada_boleslav.jpg","t":"Křest dcery/vnučky Jany, Mladá Boleslav 1903 (dítě: Jan Ťukal)"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest syna Jana, Kosík 29. 6. 1851 – rodiče a prarodiče"},
         {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_a.jpg","t":"Sňatek syna Jana, Kosík 3. 2. 1874"},
@@ -10611,71 +10622,89 @@ window.RODOKMEN = {
       line: "fukal",
       cert: "M",
       b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
-      d: {"date":"před 29. 6. 1851","year":1851,"approx":true},
+      d: {"date":"1833–1851","year":1851,"approx":true},
       spouse: "katerina_t3",
-      occ: "nádeník v Lažanech č. 26 (panství Hrubá Skála)",
+      occ: "domkář (zahradník ?) v Lažanech č. 26 (panství Hrubá Skála)",
       notes: [
-        "Nádeník z Lažan č. 26, bývalé panství Hrubá Skála; otec Jana Ťukala st. Při křtu vnuka Jana 29. 6. 1851 už nežil (M). Datum narození je odhad."
+        "Domkář / zahradník (?) v Lažanech č. 26 (fara Přepeře, panství Hrubá Skála); otec Jana Ťukala st. (křest 6. 10. 1813). Žil 18. 2. 1833 – dal souhlas ke sňatku syna („Ja otec Jan Ťukal svoluji“); při křtu vnuka 1851 už nežil (M)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
       ],
       scans: [
+        {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 6. 10. 1813"},
+        {"f":"img/1833_O_Tukal_Jan_Mrazova_Terezie_Ohrazenice.jpg","t":"Sňatek syna Jana (souhlas otce), Ohrazenice 1833"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
       ]
     },
     {
       id: "katerina_t3",
       name: "Kateřina Tukalová",
-      maiden: "Horáčková (?)",
+      maiden: "Horáčková",
       line: "fukal",
       cert: "M",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      father: "vaclav_hc",
+      mother: "anna_hc",
       spouse: "jan_t3",
       notes: [
-        "Manželka Jana Tukala z Lažan č. 26, „rozená Horáčková (?) z Mašova (?)“ – čtení příjmení i obce nejisté (křest vnuka 1851, M)."
+        "Manželka Jana Ťukala z Lažan č. 26; dcera Václava Horáčka, formana (?) / nájemníka z Mašova č. 18 (1813) / č. 16 (1833), a matky Anny (křest syna Jana 1813, sňatek syna 1833 – M). Mašov = dnes část Turnova."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
       ],
       scans: [
+        {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest syna Jana, Lažany 6. 10. 1813"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
       ]
     },
     {
       id: "jan_mz",
-      name: "Jan Mrázek",
+      name: "Jan Mráz (Mrázek)",
       line: "mraz",
       cert: "M",
       b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
       d: {"date":"před 29. 6. 1851","year":1851,"approx":true},
       spouse: "anna_mz",
-      occ: "nádeník v Ohrazenicích č. 40 (panství Rohozec)",
+      occ: "chalupník v Ohrazenicích č. 8 (panství Hrubá Skála)",
       notes: [
-        "Nádeník z Ohrazenic (Wohrazenic) č. 40, bývalé panství Rohozec; otec Terezie Ťukalové. Při křtu vnuka 29. 6. 1851 už nežil (M)."
+        "Chalupník v Ohrazenicích (Wohrazenicích) č. 8; otec Terezie (křest 17. 10. 1813, sňatek 1833 – M). Při křtu vnuka 1851 už nežil („† Jan Mrázek, nádeník z Wohrazenic N. 40, panství Rohozec“).",
+        "Pozor: 1848 mají dvě dcery „Jana Mráze, chalupníka z Ohrazenic č. 8“ za matku Marii roz. Zabulandovou – buď 2. manželka, nebo jiný Jan Mráz (K)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
       ],
       scans: [
+        {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest dcery Terezie, Ohrazenice 17. 10. 1813"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
       ]
     },
     {
       id: "anna_mz",
-      name: "… Mrázková",
-      maiden: "Bečková (?)",
+      name: "Dorota Mrázová",
+      maiden: "Bečková",
       line: "mraz",
       cert: "M",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      father: "filip_bc",
+      mother: "dorota_bc",
       spouse: "jan_mz",
       notes: [
-        "Manželka Jana Mrázka z Ohrazenic č. 40, „rozená Bečková (?), nádeníka dcera z Wohrazenic“ – křestní jméno v zápisu vynecháno (křest vnuka 1851, M)."
+        "Manželka Jana Mráze, chalupníka v Ohrazenicích č. 8; dcera Filipa Bečky, chalupníka z Ohrazenic č. 14, a Doroty roz. Vlasové (?) – křest dcery Terezie 17. 10. 1813 a sňatek dcery 1833 (M). V křtu vnuka 1851 křestní jméno vynecháno („rozené Bečkové“)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 09 (11191, N), oddíl Kosík, fol. 104, snímek 95; index N Rožďalovice 22 (11208) sn. 243 vlevo – https://ebadatelna.soapraha.cz/d/11191/95",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
       ],
       scans: [
+        {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest dcery Terezie, Ohrazenice 17. 10. 1813"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
       ]
     },
@@ -10714,6 +10743,79 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1757_O_Trgjk_Josef_Dudlova_Dorota_Volduchy.jpg","t":"Sňatek dcery Doroty s Josefem Trgjkem, Osek 22. 11. 1757"}
+      ]
+    },
+    {
+      id: "filip_bc",
+      name: "Filip Bečka",
+      line: "mraz",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      spouse: "dorota_bc",
+      occ: "chalupník v Ohrazenicích č. 14",
+      notes: [
+        "Chalupník v Ohrazenicích (Wohrazenicích) č. 14; otec Doroty, provdané Mrázové (křest vnučky Terezie 1813, sňatek 1833 – M)."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
+      ],
+      scans: [
+        {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"}
+      ]
+    },
+    {
+      id: "dorota_bc",
+      name: "Dorota Bečková",
+      maiden: "Vlasová (?)",
+      line: "mraz",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      spouse: "filip_bc",
+      notes: [
+        "Manželka Filipa Bečky z Ohrazenic č. 14, „rozená Vlasová (?)“ – křest vnučky Terezie 1813 (M; příjmení nejisté)."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)"
+      ],
+      scans: [
+        {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"}
+      ]
+    },
+    {
+      id: "vaclav_hc",
+      name: "Václav Horáček",
+      line: "fukal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      spouse: "anna_hc",
+      occ: "forman (?) / nájemník v Mašově č. 18 (16)",
+      notes: [
+        "Forman (?) z Mašova č. 18 (1813), nájemník z Mašova č. 16 (1833), panství Hrubá Skála; otec Kateřiny, provdané Ťukalové (křest vnuka Jana 1813, sňatek vnuka 1833 – M)."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
+      ],
+      scans: [
+        {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest vnuka Jana, Lažany 1813"}
+      ]
+    },
+    {
+      id: "anna_hc",
+      name: "Anna Horáčková",
+      line: "fukal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      spouse: "vaclav_hc",
+      notes: [
+        "Manželka Václava Horáčka z Mašova; matka Kateřiny Ťukalové (křest vnuka Jana 1813 – „a matky Anny“, M). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)"
+      ],
+      scans: [
+        {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest vnuka Jana, Lažany 1813"}
       ]
     }
   ]
