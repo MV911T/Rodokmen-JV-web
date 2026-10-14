@@ -10658,7 +10658,7 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
       notes: [
-        "Z Volduch; otec Doroty, která se 22. 11. 1757 vdala za Josefa Trgjka – „vlastní dcera … Matěje Dudla (?) též z Wolduch“ (M). Datum narození je odhad."
+        "Z Volduch; otec Doroty, která se 22. 11. 1757 vdala za Josefa Trgjka – „vlastní dcera … Matěje Dudla též z Wolduch“ (M). Datum narození je odhad."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o"
