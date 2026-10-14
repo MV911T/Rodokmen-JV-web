@@ -2574,8 +2574,8 @@ window.RODOKMEN = {
         "Otec Anny Lodlové; děti v č. 72: Barbora (1809), Martin (1811), Anna (I 1813), Anna (14. 12. 1814) aj.",
         "Oddací zápis 1807 rodiče ženicha neuvádí (tabulková kniha); svědkyně Barbora (?) z Volduch.",
         "Vyvrácený kandidát: Kašpar, syn Matěje Aubrechta, sedláka z Oseka č. 55 (* 18. 12. 1777), zemřel v prosinci 1777 ve věku 10 dní (Osek 08, sn. 9).",
-        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110). Sourozenci z téže rodiny (Petr × Dorota, Volduchy, kmotři Vitorovi a Aubrechtovi): Anna 30. 5. 1774 (č. 11), Bartoloměj 17. 8. 1776 (č. 11), Jan Nepomuk (?) 14. 4. 1779 (č. 20), Josef 28. 3. 1783 († 17. 1. 1784). Petr Aubrecht z č. 20 v rejstříku úmrtí Volduchy do 1820 není; sňatek nalezen jen v přeškrtnuté kopii Osek 04 (sn. 86 vpravo): 22. 7. 1772 Volduchy č. 11 – Petr Aubrecht, sedlák ve Volduchách, syn Bartoloměje Aubrechta, s Dorotou, dcerou † Martina (?) Zady (?), sedláka z Volduch (čtení nevěsty nejisté; originál v Osek 07 neověřen).",
-        "Zemřel 19. 10. 1848 v Oseku č. 72 (pohřben 21. 10., zaopatřen 15. 10.): „Aubrecht Kašpar, wdowec a muž † ženy Anny, a wejminkář, rod. (?) z Mirošowa (?)“, 65 let (M; → *~1783). ROZPOR: povolání „výminkář v Oseku č. 72 (1849)“ pochází z křtu vnuka 1849 – tehdy už nežil; platí zápis o úmrtí."
+        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110). Sourozenci z téže rodiny (Petr × Dorota, Volduchy, kmotři Vitorovi a Aubrechtovi): Anna 30. 5. 1774 (č. 11), Bartoloměj 17. 8. 1776 (č. 11), Jan Nepomuk (?) 14. 4. 1779 (č. 20), Josef 28. 3. 1783 († 17. 1. 1784). Petr Aubrecht z č. 20 v rejstříku úmrtí Volduchy do 1820 není; sňatek nalezen jen v přeškrtnuté kopii Osek 04 (sn. 86 vpravo): 22. 7. 1772 Volduchy č. 11 – Petr Aubrecht, sedlák ve Volduchách, syn Bartoloměje Aubrechta, s Dorotou, dcerou † Martina (?) Zady (?), sedláka z Volduch (čtení nevěsty nejisté; originál v Osek 07 neověřen). Posíleno (Plzeň 56): v Oseku a Volduchách IV 1782 – VI 1784 se žádný jiný Kašpar Aubrecht nenarodil; je to jediný Kašpar Aubrecht narozený ve faře 1774 – VI 1784, který nezemřel jako dítě (K++).",
+        "Zemřel 19. 10. 1848 v Oseku č. 72 (pohřben 21. 10., zaopatřen 15. 10.): „Aubrecht Kašpar, wdowec a muž † ženy Anny, a wejminkář, pod. k Mirošowu“ (= poddaný panství Mirošov, ne rodiště), 65 let (M; → *~1783). ROZPOR: povolání „výminkář v Oseku č. 72 (1849)“ pochází z křtu vnuka 1849 – tehdy už nežil; platí zápis o úmrtí."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
@@ -2889,7 +2889,7 @@ window.RODOKMEN = {
       occ: "mistr ševcovský v Oseku č. 75",
       marriage: "1. sňatek 7. 2. 1804, Osek – s Kateřinou Trgjkovou; 2. sňatek 9. 9. 1814, Osek – s Annou roz. Holubovou, vdovou po Prokopu Laukotovi",
       notes: [
-        "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „von dort Tück (?) / Türck (?)“ (dřívější čtení „Brück“ neplatí – stejné T jako v „Trgěk“; věk nevyplněn, rodiče neuvedeni); svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
+        "Oddán 7. 2. 1804 v Oseku (dům č. 83): Martin Lodl, švec, „Schuster von Dorf (?) Türck (?)“ (přečteno znovu v plném rozlišení – obec neurčena) (dřívější čtení „Brück“ neplatí – stejné T jako v „Trgěk“; věk nevyplněn, rodiče neuvedeni); svědci Johan Aubrecht, sedlák, a Hendrich Holub, půlník; oddával farář Franz Engelthaler.",
         "Otec Pavla Lodla (*1811); švec v č. 84 (1811), později mistr ševcovský v č. 75.",
         "Podruhé oddán 9. 9. 1814 v Oseku (č. 84) jako švec, 36 let, vdovec, s Annou (35), vdovou po † Prokopu Laukotovi, pastýři, dcerou Šimona Holuby z Oseka č. 83 – babičkou budoucí snachy Anny Laukotové.",
         "Zemřel 22. 6. 1840 (pohřben 24. 6.) v Oseku jako „bývalý mistr ševcovský“, uvedeno 71 let, na zimnici a souchotiny (?). ROZPOR věku: podle 2. sňatku 1814 *~1778, podle úmrtí ~1769. Další řádky zápisu („… b. vojáku … invalid (?) … pluk Plzeňského kraje“) naznačují, že byl vysloužilý voják / invalida, snad zemské obrany Plzeňského kraje – čtení nejisté; to by vysvětlovalo jeho příchod „odjinud“ (1804).",
@@ -3030,25 +3030,33 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1739)","year":1739,"approx":true},
       d: {"date":"9. 2. 1809","year":1809,"place":"Volduchy č. p. 67"},
+      father: "jan_tgk",
       spouse: "dorota_v",
       occ: "sedlák ve Volduchách č. 67",
+      marriage: "22. 11. 1757, Osek – s Dorotou (?) Dudlovou (?) z Volduch",
       notes: [
         "Otec Veroniky Forejtové; sedlák ve Volduchách č. 67, manželka Dorota.",
         "Jiný Josef Trgjk (sedlák, Osek č. 67, manželka Kateřina, děti 1782–1785) není totožný.",
         "Měl dospělou dceru Magdalenu už 1782 (⚭ 30. 7. 1782 Václav Wilczyk, vdovec – Osek 07 Volduchy str. 44) → narozen nejpozději ~1740; Dorota je patrně jeho 2. manželka. Sňatek s Dorotou v Oseku 1772–1783 nenalezen.",
-        "Zemřel 9. 2. 1809 ve Volduchách č. 67 (pohřben 11. 2., kaplan Cajetan Šťastný): „Josef Trgjrk, wyminkář“, 70 let (M; → asi 1739 – sedí s dospělou dcerou 1782). Ovdověl 19. 10. 1799."
+        "Oddán 22. 11. 1757 v Oseku (farář Václav Pignušek; ohlášky 6., 13. a 20. 11.): „poctivý mládenec Jozef, vlastní syn Jana Begjka [= Trgjka] z Wolduch, s poctivou děvečkou, vlastní dcerou [Do]rotou (?) Matěje Dudla (?) též z Wolduch, oba poddaní k panství Woseckému“; družba Michal Trgjk z Volduch (M). Sedí s dcerou Magdalenou (1761, matka Dorota).",
+        "Zemřel 9. 2. 1809 ve Volduchách č. 67 (pohřben 11. 2., kaplan Cajetan Šťastný): „Josef Trgjrk, wyminkář“, 70 let (M; → asi 1739 – sedí s dospělou dcerou 1782). Ovdověl 19. 10. 1799.",
+        "KANDIDÁT křtu (K+): Josef, „vlastní syn Jana Brgjka [= Trgjka], Barbory manželky jeho“, narozen 10. 1., pokřtěn 11. 1. 1734 ve Volduchách (kmotr Jan Laukota, mlynář) – jediný Josef Trgjk v rejstříku N 1728–1739; otec Jan sedí s oddacím zápisem. ROZPOR věku: úmrtí 1809 „70 let“ (→ ~1739) × křest 1734."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 11 (O 1821–1847), str. 456, snímek 214 – https://www.portafontium.eu/iipimage/30066677/osek-11_2140-o",
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Volduchy, snímek 80 – https://www.portafontium.eu/iipimage/30066671/osek-05_0800-n",
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 08 (Z), oddíl Volduchy, str. 91, snímek 117 vlevo, 1. zápis 1809; rejstřík B („Brgjk“) sn. 141 vpravo – https://www.portafontium.eu/iipimage/30066674/osek-08_1170-z"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 08 (Z), oddíl Volduchy, str. 91, snímek 117 vlevo, 1. zápis 1809; rejstřík B („Brgjk“) sn. 141 vpravo – https://www.portafontium.eu/iipimage/30066674/osek-08_1170-z",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 02 (N), str. 57, snímek 30 vpravo (10./11. 1. 1734); rejstřík B („Brgjck Josef 57“) – https://www.portafontium.eu/iipimage/30066668/osek-02_0300-n"
       ],
       scans: [
         {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři (dítě: Veronika Forejtová)"},
         {"f":"img/1783_krest_veronika_trgjk_volduchy67_osek05_sn80.jpg","t":"Křest dcery Veroniky Trgjkové, Volduchy 1783"},
         {"f":"img/1809_Z_Trgjk_Josef_Volduchy.jpg","t":"Úmrtí 9. 2. 1809, Volduchy č. 67"},
-        {"f":"img/1799_Z_Trgjkova_Dorota_Volduchy.jpg","t":"Úmrtí manželky Doroty, Volduchy 19. 10. 1799"}
+        {"f":"img/1799_Z_Trgjkova_Dorota_Volduchy.jpg","t":"Úmrtí manželky Doroty, Volduchy 19. 10. 1799"},
+        {"f":"img/1757_O_Trgjk_Josef_Dudlova_Dorota_Volduchy.jpg","t":"Sňatek s Dorotou Dudlovou (?), Osek 22. 11. 1757"},
+        {"f":"img/1734_N_Trgjk_Josef_Volduchy.jpg","t":"Kandidát křtu, Volduchy 11. 1. 1734"}
       ]
     },
     {
@@ -3895,23 +3903,28 @@ window.RODOKMEN = {
     {
       id: "dorota_v",
       name: "Dorota Trgjková",
+      maiden: "Dudlová (?)",
       line: "lezak",
       cert: "M",
       b: {"date":"neznámé (asi 1734–1740 ?)","year":1738,"approx":true,"place":"Volduchy (?)"},
       d: {"date":"19. 10. 1799","year":1799,"place":"Volduchy č. p. 67"},
+      father: "matej_dl",
       spouse: "josef_le",
       notes: [
         "Manželka Josefa Trgjka, sedláka ve Volduchách č. 67; matka Veroniky (křest 12. 3. 1783 „Mutter Dorothea“, M). Babička Matěje Forejta; rodné příjmení nečitelné.",
+        "Oddána 22. 11. 1757 v Oseku s Josefem Trgjkem jako „poctivá děvečka, vlastní dcera Matěje Dudla (?) z Wolduch“ – křestní jméno na okraji řádku useknuté („…rotou“), rodné příjmení nejisté (M).",
         "Zemřela 19. 10. 1799 ve Volduchách č. 67: „Dorothea Eheweib des Joseph Trgjrk“, 65 let, vysílení (M). Věk 65 by dával narození ~1734 a porod Veroniky ve 49 letech – věk asi nadsazený (?)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 08 (Z), oddíl Volduchy, str. 62, snímek 102 vpravo, 7. zápis – https://www.portafontium.eu/iipimage/30066674/osek-08_1020-z"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 08 (Z), oddíl Volduchy, str. 62, snímek 102 vpravo, 7. zápis – https://www.portafontium.eu/iipimage/30066674/osek-08_1020-z",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o"
       ],
       scans: [
         {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři (dítě: Veronika Forejtová) (manžel/ka: Josef Trgjk)"},
         {"f":"img/1799_Z_Trgjkova_Dorota_Volduchy.jpg","t":"Úmrtí 19. 10. 1799, Volduchy č. 67"},
-        {"f":"img/1809_Z_Trgjk_Josef_Volduchy.jpg","t":"Úmrtí manžela Josefa, Volduchy 9. 2. 1809"}
+        {"f":"img/1809_Z_Trgjk_Josef_Volduchy.jpg","t":"Úmrtí manžela Josefa, Volduchy 9. 2. 1809"},
+        {"f":"img/1757_O_Trgjk_Josef_Dudlova_Dorota_Volduchy.jpg","t":"Sňatek s Josefem Trgjkem, Osek 22. 11. 1757"}
       ]
     },
     {
@@ -10606,6 +10619,42 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"}
+      ]
+    },
+    {
+      id: "jan_tgk",
+      name: "Jan Trgjk",
+      line: "lezak",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      occ: "Volduchy (fara Osek)",
+      notes: [
+        "Z Volduch; otec Josefa Trgjka – oddací zápis syna 22. 11. 1757: „Jozef, vlastní syn Jana Begjka [= Trgjka] z Wolduch“ (M). Datum narození je odhad.",
+        "KANDIDÁTKA manželky: Barbora – matka Josefa pokřtěného 11. 1. 1734 ve Volduchách (K+). Sňatek Jana × Barbory nehledán (před 1729)."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 02 (N), str. 57, snímek 30 vpravo (10./11. 1. 1734); rejstřík B („Brgjck Josef 57“) – https://www.portafontium.eu/iipimage/30066668/osek-02_0300-n"
+      ],
+      scans: [
+        {"f":"img/1757_O_Trgjk_Josef_Dudlova_Dorota_Volduchy.jpg","t":"Sňatek syna Josefa, Osek 22. 11. 1757"},
+        {"f":"img/1734_N_Trgjk_Josef_Volduchy.jpg","t":"Kandidát křtu syna Josefa, Volduchy 1734"}
+      ]
+    },
+    {
+      id: "matej_dl",
+      name: "Matěj Dudl (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      notes: [
+        "Z Volduch; otec Doroty (?), která se 22. 11. 1757 vdala za Josefa Trgjka – „vlastní dcera … Matěje Dudla (?) též z Wolduch“ (M; příjmení čteno nejistě). Datum narození je odhad."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o"
+      ],
+      scans: [
+        {"f":"img/1757_O_Trgjk_Josef_Dudlova_Dorota_Volduchy.jpg","t":"Sňatek dcery Doroty s Josefem Trgjkem, Osek 22. 11. 1757"}
       ]
     }
   ]
