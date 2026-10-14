@@ -7275,7 +7275,8 @@ window.RODOKMEN = {
       spouse: "simon_hb",
       marriage: "13. 2. 1763, Osek – s Šimonem Holubem (2. sňatek)",
       notes: [
-        "Vdova po † Jakubu Gyštovi (?); 13. 2. 1763 se v Oseku znovu vdala za Šimona Holuba. Matka Anny Laukotové / Lodlové (křest 1774)."
+        "Vdova po † Jakubu Gyštovi (?); 13. 2. 1763 se v Oseku znovu vdala za Šimona Holuba. Matka Anny Laukotové / Lodlové (křest 1774).",
+        "1. manžel Jakub Gyšt, chalupník (subrusticus) z Oseka, † 7. 2. 1762, 38 let (Osek 04 Z str. 10, sn. 109 vlevo; M zápis, ztotožnění K+). KANDIDÁT původu (K): Jakub, syn Martina Gyšta z Oseka, se 28. 10. 1755 oženil s dcerou Josefa Gottfrida z Oseka (Osek 03 O str. 58, sn. 138 vlevo – křestní jméno nevěsty v zápisu chybí; jiný sňatek Jakuba Gyšta 1747–1771 není) → Kateřina roz. Gottfridová (?), narozená spíš ~1730–1737."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n",
