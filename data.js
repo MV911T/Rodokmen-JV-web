@@ -3996,7 +3996,8 @@ window.RODOKMEN = {
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"},
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek rodičů Matěje a Alžběty Svobodových, Málkov 1818"},
-        {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek s Magdalenou Stadlerovou, Suchomasty 1851"}
+        {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek s Magdalenou Stadlerovou, Suchomasty 1851"},
+        {"f":"img/1864_Z_Svobodova_Magdalena_Suchomasty.jpg","t":"Úmrtí manželky Magdaleny, Suchomasty 1864"}
       ]
     },
     {
@@ -4007,25 +4008,28 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"11. 6. 1817","year":1817,"place":"Horažďovicko (fara „K…“ – nečteno)"},
       d: {"date":"27. 6. 1864","year":1864,"place":"Suchomasty č. p. 21"},
+      cause: "vodnatelnost",
       mother: "ludmila_sta",
       spouse: "vaclav_sv",
       marriage: "10. 2. 1851 – s Václavem Svobodou",
       notes: [
         "Matka Marie Klikové; nemanželská dcera Ludmily Stádlerové ze Suchomast.",
         "Oddána 10. 2. 1851 v Suchomastech č. 21 s Václavem Svobodou: „Magdalena, dcera Ludmily, dcery Jana Stadlera, domkáře z K…ína (?) No 6, panství Hořaždovice, z K…ína rozená, báby Ludmily rozené Rozné (?) z K…ína, panství Hořaždovice“, 34 let; „nevěsta dle křestního listu fary K… rozena dne 11. června 1817“ (Borek 13, sn. 3; M, ověřeno koordinátorem; obec a fara nečteny).",
-        "Zemřela 27. 6. 1864 v Suchomastech č. 21 (index Z Borek 15, sn. 113 vlevo; zápis nečten).",
+        "Zemřela 27. 6. 1864 (pohřbena 29. 6. v Borku) v Suchomastech č. 21: „Svobodová Magdalena, manželka Václava Svobody, domkáře a silničkáře z Suchomast č. 21, a rozené Stadlerové z Pačiva (?) č. d. 6“, 47 let, vodnatelnost (Borek 15, sn. 72; M, ověřeno koordinátorem). Obec „Pačiv (?)“ – K Pačejov u Horažďovic (dům č. 6 shodný se sňatkem 1851).",
         "Podle rejstříku měla i starší dceru Annu Stadlerovou (*18. 10. 1846, Suchomasty 21) – nečteno.",
         "KANDIDÁT křtu (K): VI 1817 (18 | 18 ?) Malé Hydčice č. 7 (?), fara Malý Bor – „Magdalena Stadlerowa“ (Malý Bor 13 N, fol. 273, sn. 276 vlevo; jméno M, ověřeno koordinátorem). Fara sedí na „dle křestního listu fary Kleinbor…“ (1851). ROZPOR: den (18 × 11. 6.), matka čtena „Marie (?), dcera † Jakuba … z Březan č. 32, matky Anny“ (× Ludmila), ve sloupci otce „Ignac Ott… (?), domkář pod panstvím Hořaždovic“ (snad dodatečně, přeškrtnuto ?). Nečteno jistě – neztotožňovat."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
-        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 13 (O), sn. 3 (10. 2. 1851) – https://ebadatelna.soapraha.cz/d/4082/3; Borek 15 index Z, sn. 113 vlevo (1864)"
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 13 (O), sn. 3 (10. 2. 1851) – https://ebadatelna.soapraha.cz/d/4082/3; Borek 15 index Z, sn. 113 vlevo (1864)",
+        "SOA Praha, Borek 15 (Z), sn. 72 (1864) – https://ebadatelna.soapraha.cz/d/4084/72"
       ],
       scans: [
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"},
-        {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek s Václavem Svobodou, Suchomasty 1851"}
+        {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek s Václavem Svobodou, Suchomasty 1851"},
+        {"f":"img/1864_Z_Svobodova_Magdalena_Suchomasty.jpg","t":"Úmrtí 27. 6. 1864, Suchomasty č. 21"}
       ]
     },
     {
@@ -8884,7 +8888,8 @@ window.RODOKMEN = {
         {"f":"img/1789_N_Sulc_Jan_Zitovlice8.jpg","t":"Křest Jana Šulce, Žitovlice č. 8, 10. 8. 1789"},
         {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"},
         {"f":"img/1822_N_Sulcova_Katerina_Zitovlice.jpg","t":"Křest Kateřiny Šulcové, Žitovlice č. 8, 22. 12. 1822"},
-        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"}
+        {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
+        {"f":"img/1808_Z_Sulc_Jakub_Zitovlice.jpg","t":"Úmrtí otce Jakuba Šulce, Žitovlice 1808"}
       ]
     },
     {
@@ -9256,23 +9261,29 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1752)","year":1752,"approx":true},
+      d: {"date":"13. 12. 1808","year":1808,"place":"Žitovlice č. p. 16"},
+      cause: "vodnatelnost",
       spouse: "katerina_sz",
       marriage: "18. 1. 1778, Žitovlice č. 8 (fara Rožďalovice) – s Kateřinou Čihalovou",
       notes: [
         "Baráčník ve Žitovlicích; zemřel před V 1818 (sňatek syna Jana).",
         "S manželkou Kateřinou děti Kateřina (24. 2. 1787) a Jan (10. 8. 1789) ve Žitovlicích č. 8.",
-        "Oddán 18. 1. 1778 (Žitovlice č. 8): „Jacobus Schulcz operarius cum Catharina post Henricum Czihal filia“; svědci Petr Holý, nádeník, a Kateřina, dcera † Jana Kuse (?); oddal kaplan Metoděj Wisinger. Rodiče ženicha a věky neuvedeny."
+        "Oddán 18. 1. 1778 (Žitovlice č. 8): „Jacobus Schulcz operarius cum Catharina post Henricum Czihal filia“; svědci Petr Holý, nádeník, a Kateřina, dcera † Jana Kuse (?); oddal kaplan Metoděj Wisinger. Rodiče ženicha a věky neuvedeny.",
+        "Zemřel 13. 12. 1808 (pohřben 15. 12.) v Žitovlicích č. 16: „Jakub Šulc, baráčník z Žitovlic“, 54 (?) let (věk přepsaný; index Rožďalovice 37: 54 l.), „na vodnau nemoc“ (Rožďalovice 14, fol. 59, sn. 50 vpravo; M) → *~1754. Dům č. 16, ne č. 8 jako 1789/1808 u manželky."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Žitovlice, pag. 9, snímek 8 vpravo (10. 8. 1789); index Rožďalovice 22 sn. 207 – https://ebadatelna.soapraha.cz/d/11182/8",
         "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 58 vlevo (18. 1. 1778, odkaz na pag. 185)",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 185, snímek 96 vpravo (18. 1. 1778) – https://ebadatelna.soapraha.cz/d/11192/96"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 185, snímek 96 vpravo (18. 1. 1778) – https://ebadatelna.soapraha.cz/d/11192/96",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Rožďalovice, Rožďalovice 14 (Z), fol. 59, sn. 50 vpravo (1808) – https://ebadatelna.soapraha.cz/d/11198/50"
       ],
       scans: [
         {"f":"img/1818_O_Sulc_Jan_Hofmanova_Anna.jpg","t":"Sňatek Jana Šulce s Annou Hofmanovou, Dobrovany 26. 5. 1818"},
         {"f":"img/1789_N_Sulc_Jan_Zitovlice8.jpg","t":"Křest Jana Šulce, Žitovlice č. 8, 10. 8. 1789"},
-        {"f":"img/1778_O_Sulc_Jakub_Cihalova_Katerina_Zitovlice8.jpg","t":"Sňatek Jakuba Šulce s Kateřinou Čihalovou, Žitovlice č. 8, 18. 1. 1778"}
+        {"f":"img/1778_O_Sulc_Jakub_Cihalova_Katerina_Zitovlice8.jpg","t":"Sňatek Jakuba Šulce s Kateřinou Čihalovou, Žitovlice č. 8, 18. 1. 1778"},
+        {"f":"img/1808_Z_Sulc_Jakub_Zitovlice.jpg","t":"Úmrtí 13. 12. 1808, Žitovlice č. 16"},
+        {"f":"img/1808_Z_Sulcova_Katerina_Zitovlice.jpg","t":"Úmrtí manželky Kateřiny, Žitovlice 1808"}
       ]
     },
     {
@@ -9306,20 +9317,24 @@ window.RODOKMEN = {
       maiden: "Čihalová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      b: {"date":"neznámé (asi 1746)","year":1746,"approx":true},
+      d: {"date":"25. 2. 1808","year":1808,"place":"Žitovlice č. p. 8"},
       spouse: "jakub_sl",
       marriage: "18. 1. 1778 – s Jakubem Šulcem",
       notes: [
-        "Dcera † Jindřicha Čihala; oddána 18. 1. 1778 v Žitovlicích č. 8 s Jakubem Šulcem, nádeníkem. Matka Kateřiny (1787) a Jana (1789)."
+        "Dcera † Jindřicha Čihala; oddána 18. 1. 1778 v Žitovlicích č. 8 s Jakubem Šulcem, nádeníkem. Matka Kateřiny (1787) a Jana (1789).",
+        "Zemřela 25. 2. 1808 (pohřbena 27. 2.) v Žitovlicích č. 8: „Kateřina, manželka Jakuba Šulce, baráčníka“, 62 let (Rožďalovice 14, fol. 59, sn. 50 vpravo; M zápis, ztotožnění D – rodné příjmení neuvedeno) → *~1746."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Žitovlice, pag. 9, snímek 8 vpravo (10. 8. 1789); index Rožďalovice 22 sn. 207 – https://ebadatelna.soapraha.cz/d/11182/8",
         "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 58 vlevo",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 185, snímek 96 vpravo (18. 1. 1778) – https://ebadatelna.soapraha.cz/d/11192/96"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 185, snímek 96 vpravo (18. 1. 1778) – https://ebadatelna.soapraha.cz/d/11192/96",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Rožďalovice, Rožďalovice 14 (Z), fol. 59, sn. 50 vpravo (1808) – https://ebadatelna.soapraha.cz/d/11198/50"
       ],
       scans: [
         {"f":"img/1778_O_Sulc_Jakub_Cihalova_Katerina_Zitovlice8.jpg","t":"Sňatek Jakuba Šulce s Kateřinou Čihalovou, Žitovlice č. 8, 18. 1. 1778"},
-        {"f":"img/1789_N_Sulc_Jan_Zitovlice8.jpg","t":"Křest Jana Šulce, Žitovlice č. 8, 10. 8. 1789"}
+        {"f":"img/1789_N_Sulc_Jan_Zitovlice8.jpg","t":"Křest Jana Šulce, Žitovlice č. 8, 10. 8. 1789"},
+        {"f":"img/1808_Z_Sulcova_Katerina_Zitovlice.jpg","t":"Úmrtí 25. 2. 1808, Žitovlice č. 8"}
       ]
     },
     {
