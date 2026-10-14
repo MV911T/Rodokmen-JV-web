@@ -7679,6 +7679,7 @@ window.RODOKMEN = {
       line: "flemr",
       cert: "M",
       b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      father: "tomas_hm0",
       spouse: "rosina_hm",
       notes: [
         "Pohodný (excoriator) na pohodnici u Želče („Gaza prope Zelcz“, fara Planá nad Lužnicí); manželka Rosina. Synové Šimon (5. 8. 1765) a Matěj (28. 1. 1768). V tučapských křtech vnoučat 1791–1796 uveden jako „hospodář z Želče“.",
@@ -8979,6 +8980,7 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1769–1771)","year":1770,"approx":true},
+      father: "david_sw",
       spouse: "anton_bs0",
       marriage: "2) 30. 4. 1798, Hynčice – s Antonem Blaschkem; 1) s Michalem …mannem (?)",
       notes: [
@@ -9885,6 +9887,8 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"8. ? 1699 (?)","year":1699,"approx":true,"place":"Veřovice"},
+      father: "jan_bt",
+      mother: "anna_bt",
       spouse: "vaclav_gg",
       marriage: "21. 5. 1730, Veřovice – s Václavem Grigarem (2. sňatek)",
       notes: [
@@ -9911,6 +9915,8 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1665)","year":1665,"approx":true},
       d: {"date":"31. 1. 1749","year":1749,"place":"Veřovice"},
+      father: "jan_gg",
+      spouse: "marianna_gg",
       occ: "sedlák ve Veřovicích",
       notes: [
         "Sedlák ve Veřovicích; otec Václava (sňatek syna 21. 5. 1730 „Wenzla Grigara syn“, M), Jana (× 1728) a Anny (× 1727) (D). Jako vdovec × 4. 9. 1729 Marianna, vdova po Martinu Charamzovi (M). 1. sňatek: 7. 7. 1697 Veřovice – „poctivý mládenec Václav Grigar, vlastní syn Jana Grigara, s poctivou děvečkou Mariannou, pozůstalou vlastní dcerou po neb. Ondřeji Foltýkovi“, starosta Jan Kozian (M) – Marianna (= „Marina, manželka Václava Grigara“, kmotra 1727) je nejspíš matka Václava ml. (*~1705) – K.",
@@ -9983,6 +9989,7 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (asi 1700)","year":1700,"approx":true},
+      father: "pavel_cn",
       spouse: "rosina_cb",
       marriage: "23. 7. 1724, Veřovice – s Rosinou Besedovou, dcerou Jana, fojta",
       notes: [
@@ -10167,6 +10174,123 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek dcery Magdaleny s Pavlem Láníčkem, Heršpice 8. 11. 1808"}
+      ]
+    },
+    {
+      id: "jan_bt",
+      name: "Jan Bartoň",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1665)","year":1665,"approx":true},
+      d: {"date":"před 19. 11. 1724","year":1724,"approx":true,"place":"Veřovice"},
+      spouse: "anna_bt",
+      notes: [
+        "Z Veřovic; otec Judity (křest ~1699 „Jan Barton / Anna – Juditha“, M zápis). Při 1. sňatku dcery 19. 11. 1724 už nežil („po nebožtíkovi Janu Barthoňovi“, M). Pavel, syn † Jana Bartoně, se ženil 1705 v Hodslavicích (K – snad syn).",
+        "KANDIDÁT úmrtí: Jan Bartoň † 14. 9. 1702 ve Veřovicích, 50 let (čteno v polovičním rozlišení, D)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 162 vpravo (~1699); O pag. 437, snímek 219 vpravo (19. 11. 1724); Z pag. 475, snímek 238 vpravo (14. 9. 1702) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1699_N_Bartonova_Judita_Verovice.jpg","t":"Křest dcery Judity, Veřovice ~1699"},
+        {"f":"img/1724_O_Grosman_Jan_Bartonova_Judita_Verovice.jpg","t":"Sňatek dcery Judity s Janem Grosmanem, Veřovice 19. 11. 1724"}
+      ]
+    },
+    {
+      id: "anna_bt",
+      name: "Anna Bartoňová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1670)","year":1670,"approx":true},
+      spouse: "jan_bt",
+      notes: [
+        "Manželka Jana Bartoně z Veřovic; matka Judity (křest ~1699, M zápis). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 162 vpravo (~1699) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1699_N_Bartonova_Judita_Verovice.jpg","t":"Křest dcery Judity, Veřovice ~1699"}
+      ]
+    },
+    {
+      id: "pavel_cn",
+      name: "Pavel Černoch",
+      line: "cernoch",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1675)","year":1675,"approx":true},
+      notes: [
+        "Z Veřovic; otec Martina, který se 23. 7. 1724 oženil s Rosinou Besedovou („poctivý mládenec Martin, Pavla Černocha syn“, M).",
+        "KANDIDÁT úmrtí: Pavel Černoch, stařec, † 1749 ve Veřovicích, 75 let (D). KANDIDÁTKA manželky: Anna (K, křest Martina nečten)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 437, snímek 219 vpravo (23. 7. 1724) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1724_O_Cernoch_Martin_Rosina_Verovice.jpg","t":"Sňatek syna Martina s Rosinou Besedovou, Veřovice 23. 7. 1724"}
+      ]
+    },
+    {
+      id: "jan_gg",
+      name: "Jan Grigar",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1635)","year":1635,"approx":true},
+      notes: [
+        "Z Veřovic; otec Václava Grigara st. – oddací zápis 7. 7. 1697: „poctivý mládenec Václav Grigar, vlastní syn Jana Grigara“ (M). Datum narození je odhad podle syna (*~1665)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 426, snímek 214 vlevo (7. 7. 1697) – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "marianna_gg",
+      name: "Marianna Grigarová",
+      maiden: "Foltýková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (asi 1667)","year":1667,"approx":true},
+      d: {"date":"VI 1729","year":1729,"place":"Veřovice"},
+      spouse: "vaclav_ggs",
+      notes: [
+        "Dcera † Ondřeje Foltýka; 7. 7. 1697 se ve Veřovicích vdala za Václava Grigara st. (M). Zemřela v červnu 1729 ve Veřovicích jako manželka Václava Grigara, 62 let (M; → *~1667).",
+        "KANDIDÁT: matka Václava Grigara ml. (*~1705) – jeho křest nečten (K)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 426, snímek 214 vlevo (7. 7. 1697); Z 1729 – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "tomas_hm0",
+      name: "Tomáš Hemmer (Hamr)",
+      line: "flemr",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
+      d: {"date":"před 28. 1. 1768","year":1768,"approx":true},
+      notes: [
+        "Otec Tomáše Hamra, pohodného u Želče; při křtu vnuka Matěje 28. 1. 1768 už nežil („superstes filius post defunctum Thomam Hemmer“, M). Datum narození je odhad podle syna (*~1740)."
+      ],
+      sources: [
+        "SOA Třeboň, fara Planá nad Lužnicí, N 1749–1784 (kniha 6469), pag. 187, snímek 99 vpravo – https://digi.ceskearchivy.cz/6469"
+      ],
+      scans: [
+        {"f":"img/1768_N_Hamr_Matej_Zelec.jpg","t":"Křest vnuka Matěje, Želeč 28. 1. 1768"}
+      ]
+    },
+    {
+      id: "david_sw",
+      name: "David Schwirtlich",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      notes: [
+        "Otec Juliany, provdané Blaschke – v křtu vnuka Antona 8. 10. 1808 v Hynčicích č. 16 „Juliana roz. Schwirtlich, dcera Davida“ (M). Datum narození je odhad podle dcery (*~1770). Melchior Schwirtlich (svědek 1798, † před 1833) snad příbuzný."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Vražné, N 1785–1820 (sign. Od III 4), oddíl Heinzendorf, pag. 51, snímek 118 vpravo (8. 10. 1808) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1808_N_Blaschke_Anton_Hyncice16.jpg","t":"Křest vnuka Antona Blaschkeho, Hynčice č. 16, 8. 10. 1808"}
       ]
     }
   ]
