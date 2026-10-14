@@ -6377,7 +6377,8 @@ window.RODOKMEN = {
         "Matka Jana Kučery (*1816) a dalších dětí v Heršpicích č. 40 (1801–1816); v křtech „Lottrab / Lotrab (?)“. Původ: oddací zápis syna 1837 „z Letonic (?)“, kmotři z Kobeřic – nejisté.",
         "KANDIDÁT úmrtí: index zemřelých 1822 „Kučera Katharina – Herspitz – 285/288“ (nečteno).",
         "KANDIDÁT původu (K+): „geborne Jo[s/h]… Lotrab (?), Halblehners in Lettnitz“ (O 1837) = nejspíš Rotrekl z Letonic (fara Dražovice) – v Letonicích 1771–1782 velká rodina Rotreklů. Kandidátky křtu (NOZ Dražovice 12529, M zápisy): Catharina 2. 11. 1774, otec Josef Rotrekl, pololáník Letonice č. 50 (?) × Marianna (nejlepší – „Halblehner“); Catharina 24. 11. 1772 (Jiří, podruh × Apolonie); Catharina 28. 8. 1777 (Antonín, sedlák × Magdalena, č. 30). Sňatek s Tobiášem v O Dražovice 1799–1803 není.",
-        "Úmrtí ve faře Slavkov 1836 – začátek 1863 nenalezeno: všechny Kateřiny Kučerové v indexu Z (Heršpice 1840, 1841; Hrušky 1845, 1858; Hodějice 1851) jsou jiné ženy (manželky / vdovy po Jakubovi, Pavlovi, Františkovi, Matějovi; MZA N2–N4). Zbývá index Z 1829–1836, nebo zemřela mimo faru."
+        "Úmrtí ve faře Slavkov 1836 – začátek 1863 nenalezeno: všechny Kateřiny Kučerové v indexu Z (Heršpice 1840, 1841; Hrušky 1845, 1858; Hodějice 1851) jsou jiné ženy (manželky / vdovy po Jakubovi, Pavlovi, Františkovi, Matějovi; MZA N2–N4). Zbývá index Z 1829–1836, nebo zemřela mimo faru.",
+        "Ani v indexu Z K 1829–1836 (Heršpice) není → úmrtí ve faře Slavkov 1829 – začátek 1863 negativní; zemřela nejspíš mimo faru."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -11394,7 +11395,8 @@ window.RODOKMEN = {
       spouse: "anna_la0",
       notes: [
         "Z Heršpic (č. 20 v r. 1773); otec Pavla Láníčka (*1773) – křest syna (M).",
-        "Sňatek s Annou v O Slavkov 13121 X 1764 – VIII 1769 není. KANDIDÁT příbuzného (K): Jiří Lanížek, † před 1767 (dcera Kateřina × 27. 1. 1767 Ondřej Amon ze Slavkova)."
+        "Sňatek s Annou v O Slavkov 13121 X 1764 – VIII 1769 není. KANDIDÁT příbuzného (K): Jiří Lanížek, † před 1767 (dcera Kateřina × 27. 1. 1767 Ondřej Amon ze Slavkova).",
+        "KANDIDÁT (K): Pavel Lanížek z Heršpic, † před 1753 (dcera Barbora × 16. 1. 1753 vdovec Pavel Peischl ze Slavkova; O 13121 sn. 291 vpravo). Sňatek Pavla st. × Anny v O 13121 ~1759–1764 není."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
@@ -11425,14 +11427,19 @@ window.RODOKMEN = {
       name: "Jakub Tichý",
       line: "svobodah",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      b: {"date":"neznámé (asi 1771, kandidátní křest – viz poznámky)","year":1771,"approx":true,"place":"Heršpice"},
+      father: "martin_ti",
+      mother: "katerina_ti",
       occ: "čtvrtník v Heršpicích (č. 26)",
       notes: [
         "Čtvrtník (4tler) v Heršpicích; otec Magdaleny, provdané Svobodové – oddací zápis 1816, kde dal osobní svolení (M).",
-        "KANDIDÁT rodičů (K): Martin, syn Mikuláše Tichého, × 29. (I/II ?) 1765 Kateřina, dcera † Václava K… (?), oba z Heršpic (O 13121, sn. 321 vlevo); příjmení nevěsty a vazba na Jakuba neověřeny."
+        "KANDIDÁT křtu (K+): 17. 6. 1771 Heršpice, „Jacobus“, otec Martin Tichý, sedlák, matka Kateřina roz. Kučerová (NOZ 13121, sn. 235 vpravo; M zápis) – viz karta Martina Tichého. Ověřit úmrtím s věkem (index Z 13161, T, Heršpice)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959"
+      ],
+      scans: [
+        {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest Jakuba, Heršpice 17. 6. 1771 (kandidát)"}
       ]
     },
     {
@@ -11633,6 +11640,47 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 8 (sn. 6 vlevo); Osek 03 O str. 45 (sn. 131 vpravo)"
+      ]
+    },
+    {
+      id: "martin_ti",
+      name: "Martin Tichý",
+      line: "svobodah",
+      cert: "K",
+      b: {"date":"neznámé (asi 1740)","year":1740,"approx":true,"place":"Heršpice"},
+      spouse: "katerina_ti",
+      occ: "sedlák (rusticus) v Heršpicích",
+      marriage: "29. (I ?) 1765, Heršpice – s Kateřinou Kučerovou",
+      notes: [
+        "KANDIDÁT (K+): otec Jakuba Tichého – křest „Jacobus“, 17. 6. 1771 Heršpice, otec „Martinus Tichi rust.“, matka Catharina; kmotři Joannes Hadalek a Marianna z Heršpic (NOZ 13121, sn. 235 vpravo, str. 120; M zápis). Ztotožnění: sedí obec a generace, jiný Jakub Tichý VIII 1765 – VI 1772 nenalezen; dům kniha neuvádí a v Heršpicích žila i rodina Jana Tichého × Marianny.",
+        "Oddán 29. (I ?) 1765: „honestus juvenis Martinus, Nicolai Tichi filius, cum honesta puella Catharina, defuncti Wenceslai Kuçera filia, ambo Herspicio“ (O 13121, sn. 321 vlevo; M). Syn František 1768 (sn. 207 vlevo; M)."
+      ],
+      sources: [
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, NOZ 13121 – https://www.mza.cz/actapublica/matrika/detail/1948 (O sn. 321 vlevo; N sn. 235 vpravo, sn. 207 vlevo)"
+      ],
+      scans: [
+        {"f":"img/1765_O_Tichy_Martin_Kucerova_Katerina_Herspice.jpg","t":"Sňatek s Kateřinou Kučerovou, Heršpice 1765"},
+        {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest syna Jakuba, Heršpice 1771"}
+      ]
+    },
+    {
+      id: "katerina_ti",
+      name: "Kateřina Tichá",
+      maiden: "Kučerová",
+      line: "svobodah",
+      cert: "K",
+      b: {"date":"neznámé (asi 1745)","year":1745,"approx":true,"place":"Heršpice"},
+      spouse: "martin_ti",
+      marriage: "29. (I ?) 1765, Heršpice – s Martinem Tichým",
+      notes: [
+        "KANDIDÁTKA (K+): matka Jakuba Tichého (viz Martin Tichý). Dcera † Václava Kučery z Heršpic (sňatek 1765; M). Nezaměňovat s Kateřinou Kučerovou, vdovou po Tobiášovi (jiná osoba)."
+      ],
+      sources: [
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, NOZ 13121 – https://www.mza.cz/actapublica/matrika/detail/1948 (O sn. 321 vlevo)"
+      ],
+      scans: [
+        {"f":"img/1765_O_Tichy_Martin_Kucerova_Katerina_Herspice.jpg","t":"Sňatek s Martinem Tichým, Heršpice 1765"},
+        {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest syna Jakuba, Heršpice 1771"}
       ]
     }
   ]
