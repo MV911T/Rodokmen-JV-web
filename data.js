@@ -1077,7 +1077,8 @@ window.RODOKMEN = {
         {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest Václava Červenky, Hředle 1868 – otec"},
         {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"},
         {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_a.jpg","t":"Sňatek Václava Červenky a Anny Vlasákové, Beroun 19. 5. 1894"},
-        {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_b.jpg","t":"Sňatek Červenka × Vlasáková 1894 – svědci, data narození"}
+        {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_b.jpg","t":"Sňatek Červenka × Vlasáková 1894 – svědci, data narození"},
+        {"f":"img/1905_Z_Cervenkova_Antonie_Hredle.jpg","t":"Úmrtí matky Antonie Červenkové, Hředle 13. 2. 1905"}
       ]
     },
     {
@@ -1110,7 +1111,9 @@ window.RODOKMEN = {
         {"f":"img/1870_krest_anna_vlasakova_sykorice_a.jpg","t":"Křest Anny Vlasákové, Sýkořice 20. 11. 1870"},
         {"f":"img/1870_krest_anna_vlasakova_sykorice_b.jpg","t":"Křest Anny Vlasákové 1870 – rodiče, prarodiče"},
         {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_a.jpg","t":"Sňatek Václava Červenky a Anny Vlasákové, Beroun 19. 5. 1894"},
-        {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_b.jpg","t":"Sňatek Červenka × Vlasáková 1894 – svědci, data narození"}
+        {"f":"img/1894_snatek_vaclav_cervenka_anna_vlasakova_beroun_b.jpg","t":"Sňatek Červenka × Vlasáková 1894 – svědci, data narození"},
+        {"f":"img/1911_Z_Vlasak_Frantisek_Beroun.jpg","t":"Úmrtí otce Františka Vlasáka, Beroun 8. 7. 1911"},
+        {"f":"img/1922_Z_Vlasakova_Marie_Beroun.jpg","t":"Úmrtí matky Marie Vlasákové, Beroun 3. 8. 1922"}
       ]
     },
     {
@@ -1699,7 +1702,7 @@ window.RODOKMEN = {
       line: "cervenka",
       cert: "M",
       b: {"date":"3. 4. 1825","year":1825,"place":"Hředle č. p. 37"},
-      d: {"date":"13. 2. 1905","year":1905,"place":"Hředle č. p. 37"},
+      d: {"date":"před 13. 2. 1905 (asi před IX 1898)","year":1898,"approx":true,"place":"Hředle (?)"},
       father: "jakub1789",
       mother: "veronika_s",
       occ: "rolník ve Hředlích č. p. 37",
@@ -1707,7 +1710,8 @@ window.RODOKMEN = {
       notes: [
         "Narozen a pokřtěn 3. 4. 1825 ve Hředlích č. 37 (kaplan Joannes Ant. Krob). Otec Jakub Červenka, sedlák z Hředl č. 37, syn † Jakuba Červenky, sedláka z Hředl č. 37, a † Anny roz. „Chollryzkové“ (? – nejspíš Holické) z Hředl č. 8; matka Veronika, dcera Jiřího Skály, sedláka z Vinařic, a Evy z Býkoše (panství Suchomasty). Kmotři Matěj Vopršal (?), sedlák z Hředl, a Anna Fraňková (?).",
         "Oddán 25. 11. 1851 ve Zdicích (Černín č. 7, kaplan P. Fr. Havlíček): gruntovník ve Hředlích č. 37, 26 let, syn Jakuba Červenky, gruntovníka ve Hředlích č. 37, a Veroniky roz. Skálové z Vinařic.",
-        "Usedlost Hředle č. 37 = patrně stavební parcela 82 na indikační skice stabilního katastru (1840) – ověřit. Gruntovní knihy panství Točník: SOA Praha, Velkostatek Zbiroh (NAD 397) – neprohlédnuto."
+        "Usedlost Hředle č. 37 = patrně stavební parcela 82 na indikační skice stabilního katastru (1840) – ověřit. Gruntovní knihy panství Točník: SOA Praha, Velkostatek Zbiroh (NAD 397) – neprohlédnuto.",
+        "ROZPOR: rodopis uvádí úmrtí 13. 2. 1905 ve Hředlích č. 37 – to je ale datum úmrtí manželky Antonie, která tehdy byla „vdova po † Matěji Červenkovi“ (M). V indexu Z Žebrák 29 (od 29. 9. 1898) Matěj není → zemřel nejspíš před IX 1898 (hledat Žebrák 25, Z 1874–1898)."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
@@ -1724,7 +1728,8 @@ window.RODOKMEN = {
         {"f":"img/1825_krest_matej_cervenka_hredle_b.jpg","t":"Křest Matěje Červenky, Hředle 1825 – matka, kmotři"},
         {"f":"img/1851_snatek_matej_cervenka_zdice_a.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové, Zdice 25. 11. 1851"},
         {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"},
-        {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest syna Václava Červenky, Hředle 1868 – otec"}
+        {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest syna Václava Červenky, Hředle 1868 – otec"},
+        {"f":"img/1905_Z_Cervenkova_Antonie_Hredle.jpg","t":"Úmrtí manželky Antonie (vdovy), Hředle 13. 2. 1905"}
       ]
     },
     {
@@ -1734,19 +1739,23 @@ window.RODOKMEN = {
       line: "divis",
       cert: "M",
       b: {"date":"28. 7. 1822","year":1822,"place":"Černín č. p. 7"},
+      d: {"date":"13. 2. 1905","year":1905,"place":"Hředle č. p. 37"},
+      cause: "sešlost stářím",
       father: "matej_d",
       mother: "josefa_m",
       marriage: "25. 11. 1851, Zdice – s Matějem Červenkou",
       notes: [
         "Narozena 28. 7., pokřtěna 29. 7. 1822 v Černíně č. 7 (fara Zdice, panství Králův Dvůr); otec Matěj Diviš, gruntovník, syn Josefa Di[više] a Anny z Hořovic (?); matka Josefa, dcera † Dominika Merhauta, sedláka (?) ze Zdic č. 21, a Anny roz. Hronkové. Datum souhlasí s rodopisem.",
         "Sourozenec: Josef Diviš (*7. 12. 1819, Černín č. 7); podle rejstříku snad i Anna (asi 1817).",
-        "ROZPOR: oddací zápis 1851 uvádí věk 25 let (*~1826) – platí křest 1822."
+        "ROZPOR: oddací zápis 1851 uvádí věk 25 let (*~1826) – platí křest 1822.",
+        "Zemřela 13. 2. 1905 ve Hředlích č. 37 (pohřbena 16. 2. v Žebráku): „Antonie Červenková, rodem Divišová z Černína, vdova po † Matěji Červenkovi, rolníku v Hředlích č. 37“, 78 let („1826 dle udání“ – platí křest 1822), sešlost stářím (M)."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 21 (N 1865–1876), fol. 95, snímek 97 – https://ebadatelna.soapraha.cz/d/9846/97",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 10 (O 1836–1865), str. 158, snímek 82 – https://ebadatelna.soapraha.cz/d/9104/82",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
+        "SOA Praha, ř.-k. fara Žebrák, kniha Žebrák 29 (9854, Z 1898–1917), str. 73, snímek 39, č. 8/1905; index sn. 123 – https://ebadatelna.soapraha.cz/d/9854/39"
       ],
       scans: [
         {"f":"img/1868_krest_vaclav_cervenka_hredle_b.jpg","t":"Křest Václava Červenky, Hředle 1868 – matka, kmotři"},
@@ -1754,7 +1763,8 @@ window.RODOKMEN = {
         {"f":"img/1851_snatek_matej_cervenka_zdice_b.jpg","t":"Sňatek Matěje Červenky a Antonie Divišové 1851 – nevěsta"},
         {"f":"img/1822_krest_antonie_divisova_cernin_a.jpg","t":"Křest Antonie Divišové, Černín 1822"},
         {"f":"img/1822_krest_antonie_divisova_cernin_b.jpg","t":"Křest Antonie Divišové 1822 – rodiče, kmotři"},
-        {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest syna Václava Červenky, Hředle 1868 – otec"}
+        {"f":"img/1868_krest_vaclav_cervenka_hredle_a.jpg","t":"Křest syna Václava Červenky, Hředle 1868 – otec"},
+        {"f":"img/1905_Z_Cervenkova_Antonie_Hredle.jpg","t":"Úmrtí 13. 2. 1905, Hředle č. 37"}
       ]
     },
     {
@@ -2170,26 +2180,32 @@ window.RODOKMEN = {
       line: "vlasak",
       cert: "M",
       b: {"date":"1. 1. 1838","year":1838,"place":"Zbečno č. p. 58"},
+      d: {"date":"8. 7. 1911","year":1911,"place":"Beroun č. p. 83-III (Lištice)"},
+      cause: "sebevražda oběšením „v nepříčetnosti duševní“",
       father: "jan_vl",
       mother: "marie_no",
       spouse: "marie_se",
-      occ: "mlynář v Sýkořicích č. 41 (1870), rolník v Berouně č. 83 – Lištice (1894)",
+      occ: "mlynář v Sýkořicích č. 41 (1870), rolník v Berouně č. 83 – Lištice (1894); rolník-výměnkář v Berouně-Lištici č. 83 (1911)",
       marriage: "9. 11. 1869, Zbečno – s Marií Semencovou",
       notes: [
         "Narozen 1. 1., pokřtěn 2. 1. 1838 ve Zbečně č. 58: otec Jan Vlasák, mlynářský tovaryš ve Zbečně č. 58, syn Jana Vlasáka, nádeníka ve Zbečně č. 8, a Marie (rodné příjmení nečitelné, č. 7); matka Marie, dcera Josefa Nováka, domkáře v Nové Huti č. 34, a Marie roz. Malé.",
         "Otec Anny Červenkové. Syn Jana Vlasáka, mlynáře v Sýkořicích č. 41, a Marie roz. Novákové z Nové Huti č. 34 (křest dcery 1870). Rodopis: „ze mlýna v Račicích“.",
-        "Oddán 9. 11. 1869 ve Zbečně jako mlynář v č. 41, 31 let; narozen 1. 1. 1838 (Zbečno 10, pag. 246). Svědci František Vlasák, sedlák z Kalit č. 7, a Josef Zýka, domkář z Račic č. 15."
+        "Oddán 9. 11. 1869 ve Zbečně jako mlynář v č. 41, 31 let; narozen 1. 1. 1838 (Zbečno 10, pag. 246). Svědci František Vlasák, sedlák z Kalit č. 7, a Josef Zýka, domkář z Račic č. 15.",
+        "Zemřel 8. 7. 1911 v Berouně-Lištici č. 83-III (pohřben 11. 7., hřbitov Beroun odd. IV č. 103, děkan Václav Lerch): „Vlasák František, rolník-výměnkář … manžel Marie, roz. Semencové v Újezdě nad Zbečnem č. 45, narozen ve Zbečně, manž. syn Jana Vlasáka, mlynáře na Sýkořici č. 41, a Marie, roz. Novákové z Nové Huti č. 34“, 73 let 6 měsíců 8 dní (nar. 1. 1. 1838, oddán 9. 11. 1869) (M)."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
+        "SOA Praha, ř.-k. fara Beroun, kniha Beroun 50 (3952, Z), str. 273, snímek 276, č. 111; index Beroun 62 sn. 67 vpravo – https://ebadatelna.soapraha.cz/d/3952/276"
       ],
       scans: [
         {"f":"img/1869_snatek_frantisek_vlasak_marie_semencova_zbecno_a.jpg","t":"Sňatek Františka Vlasáka a Marie Semencové, Zbečno 1869"},
-        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"}
+        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"},
+        {"f":"img/1911_Z_Vlasak_Frantisek_Beroun.jpg","t":"Úmrtí 8. 7. 1911, Beroun-Lištice č. 83"},
+        {"f":"img/1922_Z_Vlasakova_Marie_Beroun.jpg","t":"Úmrtí manželky Marie, Beroun-Lištice 3. 8. 1922"}
       ]
     },
     {
@@ -2199,24 +2215,30 @@ window.RODOKMEN = {
       line: "semenec",
       cert: "M",
       b: {"date":"27. 6. 1838","year":1838,"place":"Zbečno č. p. 45"},
+      d: {"date":"3. 8. 1922","year":1922,"place":"Beroun č. p. 229-III (Lištice)"},
+      cause: "stařecká sešlost (marasmus senilis)",
       father: "martin_se",
       mother: "barbora_hl",
       spouse: "frantisek_vl",
       marriage: "9. 11. 1869, Zbečno – s Františkem Vlasákem",
       notes: [
         "Narozena 27. 6., pokřtěna 28. 6. 1838 ve Zbečně č. 45: otec Martin Semenec, chalupník, syn Františka Semence, chalupníka ve Zbečně č. 6, a Ludmily roz. Hlavičkové (č. 5); matka Kateřina, dcera Václava Wašíka (?), domkáře ve Zbečně č. 11, a Anny (č. 13).",
-        "ROZPOR: oddací zápis 1869 uvádí narození „27. ledna 1838“ – platí křest (27. června). Matka Anny Červenkové."
+        "ROZPOR: oddací zápis 1869 uvádí narození „27. ledna 1838“ – platí křest (27. června). Matka Anny Červenkové.",
+        "Zemřela 3. 8. 1922 v Berouně č. 229-III „na Lištici“ (pohřbena 5. 8., hřbitov Beroun odd. XV č. 48): „Marie Vlasáková, vdova po † Františku Vlasákovi, rolníku v Berouně č. 83-III, rozená Semencová v Újezdě nad Zbečnem č. 45, manž. dcera Martina Semence, rolníka v Újezdě nad Zbečnem č. 45, a Kateřiny roz. Vosykové ze Zbečna č. 11“, 84 let 1 měsíc 6 dní (nar. 27. 6. 1838 – shoda s křtem) (M). Dům č. 229 je dům Václava Červenky a Marie (rodopis) – bydlela u rodiny."
       ],
       sources: [
         "Strojopisný rodopis „Rodokmen Václava Červenky a Marie roz. Petrákové, Lištice č. 229“ (rodinný, autor a citované prameny neuvedeny)",
         "SOA Praha, ř.-k. děkanství Beroun, kniha Beroun 37 (O 1887–1897), pag. 206, snímek 208 – https://ebadatelna.soapraha.cz/d/3939/208",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130",
+        "SOA Praha, ř.-k. fara Beroun, kniha Beroun 51 (3953, Z), str. 271, snímek 274, č. 63 – https://ebadatelna.soapraha.cz/d/3953/274"
       ],
       scans: [
         {"f":"img/1869_snatek_frantisek_vlasak_marie_semencova_zbecno_b.jpg","t":"Sňatek Vlasák × Semencová 1869 – data narození"},
-        {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest Marie Semencové, Zbečno 28. 6. 1838"}
+        {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest Marie Semencové, Zbečno 28. 6. 1838"},
+        {"f":"img/1922_Z_Vlasakova_Marie_Beroun.jpg","t":"Úmrtí 3. 8. 1922, Beroun-Lištice č. 229"},
+        {"f":"img/1911_Z_Vlasak_Frantisek_Beroun.jpg","t":"Úmrtí manžela Františka, Beroun-Lištice 8. 7. 1911"}
       ]
     },
     {
@@ -5900,7 +5922,8 @@ window.RODOKMEN = {
       spouse: "martin_se",
       marriage: "6. 11. 1827, Zbečno – s Martinem Semencem",
       notes: [
-        "Dcera Václava Wašíka (?), domkáře ve Zbečně č. 11, a Anny roz. Pšan… (?); oddána 6. 11. 1827 (24 let). Rodné příjmení Wašík (?) v zápisech 1827, 1833 (bratr František) a 1838 shodně; čtení „Vojtíšek“ (1869) a „Barbora Hlavičková“ (1870) byla chybná."
+        "Dcera Václava Wašíka (?), domkáře ve Zbečně č. 11, a Anny roz. Pšan… (?); oddána 6. 11. 1827 (24 let). Rodné příjmení Wašík (?) v zápisech 1827, 1833 (bratr František) a 1838 shodně; čtení „Vojtíšek“ (1869) a „Barbora Hlavičková“ (1870) byla chybná.",
+        "Zápis o úmrtí dcery Marie 1922 uvádí matku „Kateřina roz. Vosyková ze Zbečna č. 11“ – týž dům č. 11 jako u Václava Wašíka (?); potvrzuje tvar Wašík/Vosyk (M)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
