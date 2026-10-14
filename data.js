@@ -4092,7 +4092,7 @@ window.RODOKMEN = {
       marriage: "8. 1. 1797, Veřovice č. 69 – s Rosinou Lacinovou",
       notes: [
         "Pokřtěn 22. 8. 1771 ve Veřovicích č. 29 (fara Životice): „Georgius – Pÿter Josephus hortulanus, Rosina“, kmotři Jan Matuš, podruh, a Anna, manželka rychtáře Jana Besedy (M). Ztotožnění D: dům č. 29 = dům výměnkáře Josefa Pitra († 1805); jiný Georg Pitr 1769–1776 není. ROZPOR věku: při sňatku 1797 „23 let“, podle křtu 25. Sourozenci (děti Josefa × Rosiny, č. 29): Jan (20. 3. 1754, † 27. 1. 1770, 16 let), Rosina (~1757, † 15. 9. 1762, 5 let), Marianna (~1763, † 1770, 7 let), Josef (5. 4. 1769, †), Jan (17. 12. 1775), Anna (× 1773 Johann Maciczek) – D/M.",
-        "Oddán 8. 1. 1797 ve Veřovicích č. 69 (lokální kaplan Josef Hikel ?): „Georg, des Joseph Pitter, Ausgedingers Sohn“, 23 let (→ *~1774), svobodný, s Rosinou, dcerou Josefa Laciny (dříve čteno „Ziegner“), domkáře, 22 let; svědci † Johann Pitter, zahradník, a † Johann Mazzurek (?), domkář. „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – snoubenci byli pokrevně příbuzní (2./3. stupeň). Dispenz (přečteno znovu 14. 10.): „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – pokrevenství v nerovné linii (společný předek je prarodičem jednoho a praprarodičem druhého); jména neuvedena. Vazba zatím nenalezena (po opravě matky Rosiny 14. 10. nutno spočítat znovu; K: Rosina, matka Rosiny Černochové, dcera Jana Brzdy / Besedy, fojta – pokud by šlo o Rosinu, dceru Václava Brzdy a Kateřiny, a Josef Lacina by byl synem téže Kateřiny z 3. manželství (pár 1715), byla by Kateřina babičkou nevěsty a prababičkou ženicha → přesně 2./3. stupeň; neověřeno).",
+        "Oddán 8. 1. 1797 ve Veřovicích č. 69 (lokální kaplan Josef Hikel ?): „Georg, des Joseph Pitter, Ausgedingers Sohn“, 23 let (→ *~1774), svobodný, s Rosinou, dcerou Josefa Laciny (dříve čteno „Ziegner“), domkáře, 22 let; svědci † Johann Pitter, zahradník, a † Johann Mazzurek (?), domkář. „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – snoubenci byli pokrevně příbuzní (2./3. stupeň). Dispenz (přečteno znovu 14. 10.): „Cum Dispensatione Consistorii in 2do et 3tio Consanguinitatis Gradu“ – pokrevenství v nerovné linii (společný předek je prarodičem jednoho a praprarodičem druhého); jména neuvedena. Vazba zatím nenalezena: ani po opravě matky (Rosina *1730, babička Rosina Besedová) stupeň 2./3. nevychází – možná je o generaci posunutý otec nevěsty (Josef Lacina *1720 ?), K. Hypotéza „babička = Rosina Brzdová“ vyvrácena (zápis 1724 „Jana Besedy fojta dcera“).",
         "Chalupník / domkář ve Veřovicích č. 145 (1801–1817); otec Marianny (křest vnučky Moniky 1845) a nejspíš Johanna (*~1798; Georg dal souhlas k jeho sňatku 19. 8. 1821). Jiný sňatek Georga Pitra ve Veřovicích 1784 – V 1828 není.",
         "„Anna roz. Černochová“ (N 1874) je matkou Roziny Bartoňové – pokud jde o manželku Jiřího Pitra, pak jiného Jiřího nebo 2. manželství po 1828 (K).",
         "Zemřel 19. 6. 1834 (pohřben 21. 6.) ve Veřovicích č. 145 jako domkář, uvedeno 81 let, na „Brust-…“ (nemoc hrudi). ROZPOR věku: podle sňatku 1797 (23 let) mu bylo ~60 – věk v úmrtí je zjevně chybný. Vyloučeni jiní Georgové Pitrové († 1832 č. 171, 44 let; † 1839 č. 151, 71 let).",
@@ -9907,9 +9907,9 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1700)","year":1700,"approx":true},
       spouse: "rosina_cb",
-      marriage: "23. 7. 1724, Veřovice – s Rosinou, dcerou Jana Brzdy (?), fojta",
+      marriage: "23. 7. 1724, Veřovice – s Rosinou Besedovou, dcerou Jana, fojta",
       notes: [
-        "Z Veřovic; syn Pavla Černocha. Oddán 23. 7. 1724 ve Veřovicích: „poctivý mládenec Martin, Pavla Černocha syn, s poctivou dívkou Rosinou, Jana Brzedy (?) fojta dcerou“; svědci Matěj Hikl a Martin Kozian (M).",
+        "Z Veřovic; syn Pavla Černocha. Oddán 23. 7. 1724 ve Veřovicích: „poctivý mládenec Martin, Pavla Černocha syn, s poctivou dívkou Rosinou, Jana Besedy fojta dcerou“; svědci Matěj Hikl a Martin Kozian (M).",
         "Děti s Rosinou (N Veřovice): Martin (9. 11. 1724, †; M), Kateřina (~1729, †), Rosina (23. 7. 1730; M), Jan (~1734), Jiří (~1741), Martin (~1743/44) (D); snad i Juliana († 1758, 18 let, K). Žil ještě v září 1752 (sňatek dcery „filia Martini Czernoch“ bez „post defunctum“).",
         "Nezaměňovat s Martinem Černochem, synem Jana, komorníkem (× 1723 Kateřina Matušová, † 8. 4. 1738) – jeho dcera Rosina (pokřtěná 13. 9. 1723) se 10. 8. 1752 vdala za vdovce Martina Grosmanna. KANDIDÁT otce (K): Pavel Černoch, stařec, † 1749, 75 let (D). Úmrtí Martina nenalezeno (Z 1751–1765 neúplně). Martin Černoch, domkář, svědek 1766 – on nebo syn (K)."
       ],
@@ -9926,23 +9926,64 @@ window.RODOKMEN = {
     {
       id: "rosina_cb",
       name: "Rosina Černochová",
-      maiden: "Brzdová (?)",
+      maiden: "Besedová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1704)","year":1704,"approx":true},
+      b: {"date":"10. 8. 1704","year":1704,"place":"Veřovice"},
+      father: "jan_bsd",
+      mother: "katerina_bsd",
       spouse: "martin_cp",
       marriage: "23. 7. 1724, Veřovice – s Martinem Černochem",
       notes: [
-        "Dcera Jana, fojta ve Veřovicích; oddána 23. 7. 1724 s Martinem, synem Pavla Černocha (M). Příjmení otce v zápisu „Brzedy“ – Brzda, nebo Beseda (?); u křtů ~1704/05 jsou „Jan Bezeda fogt / Catharina → Rozina“ i „Václav Brzda / Catharina → Rosina“ (D, nečteno v plném rozlišení). Rychtář Jan Beseda a jeho žena jsou stálí kmotři dětí dcery Rosiny Pitrové (K – podporuje Besedu).",
-        "Matka Rosiny (23. 7. 1730, × 1752 Josef Pitr) a dalších dětí 1724–1744. Úmrtí nenalezeno."
+        "Pokřtěna 10. 8. 1704 ve Veřovicích: „Jan Beseda fogt / Chatharina – Rozinna“, kmotři Jan Marek a Judita, žena Václava Marka (M). Ztotožnění s nevěstou 1724 D: jiná Rosina fojta Jana 1701–1705 není, úmrtí do 1715 není.",
+        "Oddána 23. 7. 1724 s Martinem, synem Pavla Černocha: „s poctivou dívkou Rosinou, Jana Besedy fojta dcerou“ (M; čtení „bezedy“ ověřeno zvětšením – ne „Brzdy“). Matka Rosiny (23. 7. 1730, × 1752 Josef Pitr) a dalších dětí 1724–1744. Úmrtí nenalezeno.",
+        "Rychtář Jan Beseda a jeho žena, stálí kmotři dětí Rosiny Pitrové 1754–1775, byli nejspíš její bratr se ženou (K)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 330, snímek 166 vlevo (10. 8. 1704) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 437, snímek 219 vpravo (23. 7. 1724) – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N snímek 181 vpravo (23. 7. 1730) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1704_N_Besedova_Rosina_Verovice.jpg","t":"Křest Rosiny Besedové, Veřovice, 10. 8. 1704 (rodiče Jan Beseda, fojt, a Kateřina)"},
         {"f":"img/1724_O_Cernoch_Martin_Rosina_Verovice.jpg","t":"Sňatek Rosiny (dcery Jana, fojta) s Martinem Černochem, Veřovice, 23. 7. 1724"},
         {"f":"img/1730_N_Cernochova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 23. 7. 1730"}
+      ]
+    },
+    {
+      id: "jan_bsd",
+      name: "Jan Beseda",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (asi 1675)","year":1675,"approx":true},
+      spouse: "katerina_bsd",
+      occ: "fojt ve Veřovicích",
+      notes: [
+        "Fojt (rychtář) ve Veřovicích; otec Rosiny (10. 8. 1704; × 1724 Martin Černoch) – křest „Jan Beseda fogt / Chatharina“ (M). Příjmení psáno i „Brzda“: 10. 11. 1704 kmotr „Jan Brzda Vogt“ (M).",
+        "Václav Beseda / Brzda († 16. 3. 1705, 40 let) × Kateřina byl patrně jeho bratr (K); jeho vdova Kateřina se 1705 vdala za Martina Macha a 1715 za Jana Lacinu. Starší generace (K): „starý Jan Brazda (?)“ † 1703, 80 let."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 330, snímek 166 vlevo (10. 8. a 10. 11. 1704); Z pag. 477, snímek 239 (1703, 16. 3. 1705) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1704_N_Besedova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 10. 8. 1704"}
+      ]
+    },
+    {
+      id: "katerina_bsd",
+      name: "Kateřina Besedová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (asi 1680)","year":1680,"approx":true},
+      spouse: "jan_bsd",
+      notes: [
+        "Manželka Jana Besedy, fojta ve Veřovicích; matka Rosiny (10. 8. 1704) (M). Rodné příjmení neznámé. Nezaměňovat s Kateřinou, ženou Václava Besedy / Brzdy († 1705), pozdější Machovou a Lacinovou."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, N pag. 330, snímek 166 vlevo (10. 8. 1704) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1704_N_Besedova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 10. 8. 1704"}
       ]
     }
   ]
