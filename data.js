@@ -904,6 +904,7 @@ window.RODOKMEN = {
         "V Souši (Karolinina šachta) už v březnu 1873 – mrtvě narozený syn Josef.",
         "Už v roce 1874 horník v kolonii Carolina u Souše (křest syna Josefa); v Souši žil i jeho bratr František.",
         "1866 nádeník v Těchobuzi č. 47 (mrtvě narozená dcera 14. 4. 1866); 1868 panský kočí v Pravoníně č. 74; později horník v Souši u Mostu č. 116 (1894, 1899).",
+        "Ještě žil 26. 6. 1904 (křest vnučky Anny v Souši č. 105: otec Václav „syn Štěpána Votavy, horníka v Souši č. 102, a † Antonie“). Úmrtí po 1904 – kniha zemřelých Souš 1881–1949 (150/35) není online; v rejstříku civilní matriky zemřelých okresního úřadu Most 1924–1935 není (SOA Litoměřice C18/7).",
         "Podle rodinného rodokmenu měl nejméně dva další syny; syn jednoho z nich byl major armády USA, který v roce 1945 navštívil Václava Votavu (*1899) v Mostě."
       ],
       sources: [
