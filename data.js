@@ -4512,16 +4512,18 @@ window.RODOKMEN = {
       occ: "domkář v Malkově (statek Tmaň)",
       marriage: "XI 1818, Málkov (fara Borek) – s Alžbětou Kubáčkovou (?)",
       notes: [
+        "Pokřtěn 9. 10. 1791 v Málkově č. 1 (křtil Filip Bílek, farář suchomastský): otec Václav Svoboda, sedlák malkovský, rodem z Tmaně; matka Lidmila, rodem z Tmaně; kmotři Jiří Mareš (?), mistr holič (?) z Tmaně, a Kateřina Nagmanová (?), mlynářka z Tmaně (M). Sourozenci podle rejstříku: Marie (1786 ?), Josef (1789), Mikuláš (?) (1794).",
         "Domkář v Málkově (statek Tmaň). Oddán v listopadu 1818 (den 8. ?) v Málkově: „Matěj, vlastní syn Václava Svobody, domkáře Malkovského, panství Tmaňského“, 28 let, s Alžbětou, vlastní dcerou Augustina Kubáčka (?), sedláka Malkovského č. 7, a matky Ludmily, 19 let; oddal farář Wenc. Fr. Matiegka (M). Jediný sňatek Matěje × Alžběty v Málkově 1800–1824.",
-        "Otec Václava Svobody (*1820).",
-        "Narozen 9. 10. 1791 v Málkově č. 1 – rejstřík N fary Borek (Borek 11, sn. 35 vlevo): „Swoboda Mathias | Wenzl Ludmila | Lib. D, pag. 53“ (D; zápis v knize zatím nečten). Sourozenci podle rejstříku: Marie (1786 ?), Josef (1789), Mikuláš (?) (12. 6. 1794)."
+        "Otec Václava Svobody (*1820)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
-        "SOA Praha, ř.-k. fara Borek, rejstřík N Borek 11 (4080), písm. S, snímek 35 vlevo – https://ebadatelna.soapraha.cz/d/4080/35"
+        "SOA Praha, ř.-k. fara Borek, rejstřík N Borek 11 (4080), písm. S, snímek 35 vlevo – https://ebadatelna.soapraha.cz/d/4080/35",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 05 (4074, N 1784–1795), pag. 53, snímek 55, 1. zápis (9. 10. 1791) – https://ebadatelna.soapraha.cz/d/4074/55"
       ],
       scans: [
+        {"f":"img/1791_N_Svoboda_Matej_Malkov.jpg","t":"Křest 9. 10. 1791, Málkov č. 1"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Václav Svoboda)"},
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek s Alžbětou, Málkov 1818"}
       ]
@@ -4538,7 +4540,8 @@ window.RODOKMEN = {
       spouse: "matej_sv",
       marriage: "XI 1818, Málkov – s Matějem Svobodou",
       notes: [
-        "Dcera Augustina Kubáčka (?), sedláka v Málkově č. 7, a Ludmily; oddána v listopadu 1818 s Matějem Svobodou, 19 let (M). ROZPOR rodného příjmení: dříve čteno „Zahálková (?)“ (zápis o Václavovi) × oddací zápis „Kubáčková (?)“ – platí oddací zápis, čtení nejisté."
+        "Dcera Augustina Kubáčka (?), sedláka v Málkově č. 7, a Ludmily; oddána v listopadu 1818 s Matějem Svobodou, 19 let (M). ROZPOR rodného příjmení: dříve čteno „Zahálková (?)“ (zápis o Václavovi) × oddací zápis „Kubáčková (?)“ – platí oddací zápis, čtení nejisté.",
+        "KANDIDÁT rozřešení příjmení (D/K): rejstřík N Borek 11 (sn. 12 vpravo) – „Malkow | 7 | 1817 | 16. August | Hubaček Martin | — Elisabeth“ (nemanželský syn Alžběty z č. 7 = dům Augustina, otce nevěsty 1818) → nejspíš Hubáčková; zápis křtu Martina nečten. Křest Alžběty v rejstříku N Borek 1784–1802 není (snad Tmaň)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
@@ -11218,13 +11221,16 @@ window.RODOKMEN = {
       spouse: "ludmila_sv1",
       occ: "domkář v Málkově (panství Tmaň)",
       notes: [
-        "Domkář v Málkově (panství Tmaň); otec Matěje Svobody – oddací zápis syna 1818 (M). Nezaměňovat s Václavem Svobodou (*~1781, syn Matěje × Anny, domkář v Suchomastech č. 14)."
+        "Domkář v Málkově (panství Tmaň); otec Matěje Svobody – oddací zápis syna 1818 (M). Nezaměňovat s Václavem Svobodou (*~1781, syn Matěje × Anny, domkář v Suchomastech č. 14).",
+        "V roce 1791 sedlák v Málkově č. 1, „rodaný Tmanský“ (křest syna Matěje, M)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 05 (4074, N 1784–1795), pag. 53, snímek 55, 1. zápis (9. 10. 1791) – https://ebadatelna.soapraha.cz/d/4074/55"
       ],
       scans: [
-        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek syna Matěje, Málkov 1818"}
+        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek syna Matěje, Málkov 1818"},
+        {"f":"img/1791_N_Svoboda_Matej_Malkov.jpg","t":"Křest syna Matěje, Málkov 1791"}
       ]
     },
     {
@@ -11418,14 +11424,17 @@ window.RODOKMEN = {
       id: "ludmila_sv1",
       name: "Ludmila Svobodová",
       line: "svoboda",
-      cert: "D",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
       spouse: "vaclav_sv1",
       notes: [
-        "Manželka Václava Svobody, domkáře v Málkově; matka Matěje (*1791) – rejstřík N fary Borek „Wenzl Ludmila“ (D; zápis nečten, rodné příjmení neznámé)."
+        "Manželka Václava Svobody, sedláka (1791) / domkáře (1818) v Málkově, „rodaná Tmanská“; matka Matěje (*9. 10. 1791) – křest syna (M). Rodné příjmení neuvedeno; sňatek a křty hledat ve faře Tmaň."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, rejstřík N Borek 11 (4080), snímek 35 vlevo"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 05 (4074, N 1784–1795), pag. 53, snímek 55, 1. zápis (9. 10. 1791) – https://ebadatelna.soapraha.cz/d/4074/55"
+      ],
+      scans: [
+        {"f":"img/1791_N_Svoboda_Matej_Malkov.jpg","t":"Křest syna Matěje, Málkov 1791"}
       ]
     }
   ]
