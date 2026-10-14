@@ -3411,7 +3411,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901"},
-        {"f":"img/1903_N_Ludmila_Blazkova_Verovice.jpg","t":"Křest Ludmily Blažkové, Veřovice 1903 (přípisek o sňatku 1930)"}
+        {"f":"img/1903_N_Ludmila_Blazkova_Verovice.jpg","t":"Křest Ludmily Blažkové, Veřovice 1903 (přípisek o sňatku 1930)"},
+        {"f":"img/1896_Z_Blazek_Antonin_Verovice.jpg","t":"Úmrtí otce Antonína Blažka, Veřovice 14. 4. 1896"}
       ]
     },
     {
@@ -4210,26 +4211,31 @@ window.RODOKMEN = {
       line: "blazek",
       cert: "M",
       b: {"date":"7. 10. 1838","year":1838,"place":"Životice (Seitendorf) u Nového Jičína č. p. 100"},
+      d: {"date":"14. 4. 1896","year":1896,"place":"Veřovice č. p. 260"},
+      cause: "tuberkulóza plic",
       father: "anton_bs",
       mother: "anna_lr",
       spouse: "monika_pi",
       occ: "kovář (Schmiedgeselle) ve Veřovicích",
-      marriage: "2. (?) 10. 1866, Veřovice – s Monikou Pitrovou",
+      marriage: "2. 10. 1866, Veřovice – s Monikou Pitrovou",
       notes: [
         "Narozen 7. 10., pokřtěn 8. 10. 1838 v Životicích č. 100 (farář Franz Till): otec Anton Blaschke, domkář a podkovář (Häusler und Hufschmied) v Životicích; matka Anna, dcera Josefa Laresa, domkáře v Životicích, a Alžběty roz. Starke (dcery Matouše, sedláka v Životicích); kmotři Franz König (?) a Marianna Ganzebek (?) z Mořkova (?). ROZPOR: při sňatku 1866 uvedeno 26 let – platí křest (28).",
         "Oddán 2. (?) 10. 1866 ve Veřovicích jako „Anton Blaschke, Schmiedgeselle aus Seitendorf“ (Životice u Nového Jičína), 26 let, syn Antona Blaschkeho, podkováře (Hufschmied) ze Životic, a Anny roz. Lareš (?); nevěsta Monika, nemanželská dcera Marianny Pitrové (21 let; svolení poručenského soudu Nový Jičín).",
-        "Kovář ve Veřovicích č. 260; syn Jan *11. 9. 1874 († 28. 7. 1954 Veřovice). Syn Vincenc byl kmotrem vnučky Ludmily (1903)."
+        "Kovář ve Veřovicích č. 260; syn Jan *11. 9. 1874 († 28. 7. 1954 Veřovice). Syn Vincenc byl kmotrem vnučky Ludmily (1903).",
+        "Zemřel 14. 4. 1896 ve Veřovicích č. 260 (pohřben 16. 4., farář Leop. Zatloukal): „Antonín Blažek, kovář ve Veřovicích, syn Antonína Blažka, kováře ze Životic, a jeho manželky Anny, rodem Josef Lares ze Životic“, 57 let 6 m. 7 d.; „Narozený dne 7. října 1838 … Zdávky dne 2. října 1866“; tuberkulóza plic (M). Křest vnučky 1903 ho uvádí bez „†“ – opomenutí."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 8 (O 1889–1911), str. 69, č. 5, snímek 69 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 10 (N 1894–1908), str. 170, č. 47, snímek 171 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Veřovice, O (sign. NJ XIV 4), snímek 19 vlevo (2. (?) 10. 1866) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), Životice u N. Jičína, N 1784–1847 (sign. NJ XVI 3), pag. 147, snímek 74 vpravo (7. 10. 1838) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik (NAD 165), fara Veřovice, Z 1883–1914 (sign. NJ XIV 9), Tom. III str. 174, snímek 88 vlevo, 2. zápis; rejstřík sn. 184–185 – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1838_N_Blaschke_Anton_Zivotice100.jpg","t":"Křest Antonína Blažka (Blaschke), Životice č. 100, 7. 10. 1838"},
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek)"},
-        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"}
+        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"},
+        {"f":"img/1896_Z_Blazek_Antonin_Verovice.jpg","t":"Úmrtí 14. 4. 1896, Veřovice č. 260"}
       ]
     },
     {
@@ -4256,7 +4262,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1845_N_Pitrova_Monika_Verovice145.jpg","t":"Křest Moniky Pitrové, Veřovice č. 145, 1. 4. 1845"},
         {"f":"img/1901_O_Blazek_Cernochova_Verovice.jpg","t":"Sňatek Jana Blažka a Anežky Černochové, Veřovice 17. 9. 1901 (dítě: Jan Blažek)"},
-        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"}
+        {"f":"img/1866_O_Blazek_Antonin_Pitrova_Monika.jpg","t":"Sňatek Antonína Blažka (Blaschke) ze Životic s Monikou Pitrovou, Veřovice 1866"},
+        {"f":"img/1896_Z_Blazek_Antonin_Verovice.jpg","t":"Úmrtí manžela Antonína, Veřovice 14. 4. 1896"}
       ]
     },
     {
@@ -5032,7 +5039,8 @@ window.RODOKMEN = {
       notes: [
         "Narozen 1. 8., pokřtěn 2. 8. 1846 v Bělotíně č. 149: otec Johann Zettelmann, domkář v Bělotíně, matka Anna, dcera Karla Michalka a Anny roz. Kipperové (?) (správně Ziegnerové – viz křest matky 1822); bába Alžběta Zettelmannová z Bělotína č. 49.",
         "Domkář v Bělotíně č. 149; syn Johanna Zettelmanna, domkáře v Bělotíně, a Anny roz. Michalkové. Podruhé oddán 7. 10. 1879 v Polomi jako vdovec (33 let).",
-        "V oddacím zápise vnuka 1930 „domkář v Bölten“ = Bělotín."
+        "V oddacím zápise vnuka 1930 „domkář v Bölten“ = Bělotín.",
+        "Úmrtí jeho ani manželky Magdaleny není v Z Bělotín VIII 1906 – 1941 (L II 20 sn. 151–187, L II 48 celé; Opava 51, D) – zbývá 1900 – VII 1906 a po 1941 (matriční úřad)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), fara Veřovice, sign. NJ XIV 13 (O 1911–1949), sv. IV, list 120, č. 3, snímek 121 – https://digi.archives.cz",
