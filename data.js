@@ -3181,7 +3181,8 @@ window.RODOKMEN = {
         {"f":"img/1822_krest_anna_laukotova_drozdov35_cerhovice06_sn107_b.jpg","t":"Křest Anny Laukotové 1822 – rodiče a kmotři"},
         {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"},
         {"f":"img/1849_O_Laukota_Jan_Aubrechtova_Osek.jpg","t":"Druhý sňatek Jana Laukoty (vdovce, syna † Prokopa) s Magdalenou Aubrechtovou, Osek 1. 5. 1849"},
-        {"f":"img/1827_N_Laukota_Vaclav_matka_Landsingerova.jpg","t":"Křest syna Václava, Drozdov 1827"}
+        {"f":"img/1827_N_Laukota_Vaclav_matka_Landsingerova.jpg","t":"Křest syna Václava, Drozdov 1827"},
+        {"f":"img/1853_Z_Lodlova_Anna_Volduchy.jpg","t":"Úmrtí matky Anny Lodlové (Laukotové), Volduchy 6. 6. 1853"}
       ]
     },
     {
@@ -4442,7 +4443,7 @@ window.RODOKMEN = {
     {
       id: "anna_tr",
       name: "Anna Trgjková",
-      maiden: "Košlauová (?)",
+      maiden: "Košajová (Koßay)",
       line: "nezname",
       cert: "M",
       b: {"date":"asi 1762","year":1762,"approx":true},
@@ -4452,17 +4453,20 @@ window.RODOKMEN = {
       spouse: "simon_tr",
       marriage: "28. 10. 1781, Osek – se Šimonem Trgjkem",
       notes: [
-        "Matka Kateřiny Lodlové; dcera † Johanna Koßlaua (?) z Volduch. Příjmení nejisté (křest dcery Barbory 1784 „geb. Schar… (?)“).",
-        "Zemřela 18. 4. 1800 v Oseku č. 83 jako manželka sedláka Šimona Trgjka, 38 let."
+        "Matka Kateřiny Lodlové; dcera † Jana Košaje (Koßay), sedláka z Volduch (dřívější čtení „Koßlau“ chybné – ověřeno na oddacím zápisu 1781). Křest dcery Barbory 1784 „geb. Schar… (?)“ – nečitelné.",
+        "Zemřela 18. 4. 1800 v Oseku č. 83 jako manželka sedláka Šimona Trgjka, 38 let.",
+        "KANDIDÁT křtu (K+): 31. 5. 1762 ve Volduchách – „Anna, legitima filia Joannis Kossay, rustici, et uxoris ejus Annae“, nar. 30. 5. 1762; kmotra Anna Aubrechtová z Volduch (Osek 04 N, str. 23, sn. 14 vpravo; jediná Anna Košajová v rejstříku 1760–1771). Věk 38 při úmrtí 1800 sedí."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 15 – https://www.portafontium.eu/iipimage/30066671/osek-05_0150-n",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
-        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, snímek 29 – https://www.portafontium.eu/iipimage/30066674/osek-08_0290-z"
+        "SOA Plzeň, fara Osek, kniha Osek 08 (Z 1772–1820), oddíl Osek, snímek 29 – https://www.portafontium.eu/iipimage/30066674/osek-08_0290-z",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 04 (N), str. 23, snímek 14 vpravo (31. 5. 1762); rejstřík K sn. 48 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_0140-n"
       ],
       scans: [
         {"f":"img/1800_umrti_anna_trgjk_osek83_osek08_sn29.jpg","t":"Úmrtí Anny Trgjkové, Osek 18. 4. 1800"},
-        {"f":"img/1782_krest_katerina_trgjk_osek.jpg","t":"Křest dcery Kateřiny Trgjkové, Osek 30. 6. 1782"}
+        {"f":"img/1782_krest_katerina_trgjk_osek.jpg","t":"Křest dcery Kateřiny Trgjkové, Osek 30. 6. 1782"},
+        {"f":"img/1762_N_Kosajova_Anna_Volduchy.jpg","t":"Kandidát křtu, Volduchy 31. 5. 1762"}
       ]
     },
     {
@@ -6079,13 +6083,15 @@ window.RODOKMEN = {
     },
     {
       id: "johann_ko",
-      name: "Johann Koßlau (?)",
+      name: "Jan Košaj (Koßay)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
       d: {"date":"před 28. 10. 1781","year":1781,"approx":true},
+      occ: "sedlák (rusticus) ve Volduchách",
       notes: [
-        "Otec Anny Trgjkové, z Volduch; čtení nejisté."
+        "Sedlák z Volduch; otec Anny Trgjkové (oddací zápis 1781 „Joann Koßay“, M). Při jejím sňatku 28. 10. 1781 už nežil.",
+        "KANDIDÁTI (K): manželka Anna (křest dcery Anny 1762); sňatek „Jan, vlastní syn Jana Košaje z Volduch, s … dcerou po † Petru Forejtovi též z Volduch“ 25. 10. 1745 (Osek 03 O, str. 21, sn. 119 vpravo) – jméno nevěsty neuvedeno, mezera do 1762 → možná 2. manželka."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o"
@@ -6909,6 +6915,8 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"13. (?) 6. 1774","year":1774,"place":"Osek u Rokycan č. p. 85"},
+      d: {"date":"6. 6. 1853","year":1853,"place":"Volduchy č. p. 154"},
+      cause: "věkem",
       father: "simon_hb",
       mother: "katerina_hb",
       spouse: "prokop_la",
@@ -6916,19 +6924,22 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěna 13. (?) 6. 1774 v Oseku č. 85: otec Šimon Holub, chalupník, matka Kateřina (ztotožnění podle otce, věku a domu – velmi pravděpodobné).",
         "Poprvé oddána 16. 1. 1798 (23 let) s pastýřem Prokopem Laukotou († 1805); podruhé 9. 9. 1814 v Oseku jako „Anna, vdova † Prokopa Laukoty, pastýře, dcera Šimona Holuby z Oseka č. 83“, 35 let, s ovdovělým ševcem Martinem Lodlem.",
-        "Je tak předkyní Jiřího ze dvou stran téže rodiny: babička Anny Laukotové a zároveň nevlastní matka jejího budoucího tchána Pavla Lodla."
+        "Je tak předkyní Jiřího ze dvou stran téže rodiny: babička Anny Laukotové a zároveň nevlastní matka jejího budoucího tchána Pavla Lodla.",
+        "Zemřela 6. 6. 1853 ve Volduchách č. 154 (pohřbena 8. 6., zaopatřena 31. 5.): „Lodl Anna, vdova † Martina Lodla, ševce z Wolduch, dcera Jana Holuba, sedláka z Woseka N. Cons. 84, a matky Anny rozené z Woseka z N. Cons. 87“, 80 let (M; věk sedí s křtem 1774). ROZPOR: otec zde „Jan Holub“ × křest 1774 a sňatky 1798, 1814 „Šimon Holub“ – platí starší zápisy."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), oddíl Osek, snímek 40 – https://www.portafontium.eu/iipimage/30066671/osek-05_0400-n",
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 43, snímek 23 – https://www.portafontium.eu/iipimage/30066673/osek-07_0230-o",
-        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n"
+        "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 17 (Z 1848–1869), pag. 35, snímek 36, poslední zápis 1853 – https://www.portafontium.eu/iipimage/30066683/osek-17_0360-z"
       ],
       scans: [
         {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
         {"f":"img/1798_krest_jan_laukota_otec_prokop_hirt_matka_anna_holub_osek10_osek05_sn40.jpg","t":"Křest Jana Laukoty, Osek 15. (?) 10. 1798"},
         {"f":"img/1814_oddani_martin_lodl_anna_vdova_prokopa_laukoty_osek07_sn23_nativ.jpg","t":"Sňatek Martina Lodla a Anny, vdovy po Prokopu Laukotovi, Osek 9. 9. 1814"},
-        {"f":"img/1774_krest_anna_holubova_otec_simon_holub_chalupnik_osek85_osek05_sn6.jpg","t":"Křest Anny Holubové, Osek 13. (?) 6. 1774"}
+        {"f":"img/1774_krest_anna_holubova_otec_simon_holub_chalupnik_osek85_osek05_sn6.jpg","t":"Křest Anny Holubové, Osek 13. (?) 6. 1774"},
+        {"f":"img/1853_Z_Lodlova_Anna_Volduchy.jpg","t":"Úmrtí 6. 6. 1853, Volduchy č. 154"}
       ]
     },
     {
