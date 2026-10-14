@@ -6873,12 +6873,14 @@ window.RODOKMEN = {
       d: {"date":"17. 2. 1817","year":1817,"place":"Špitálka (Slavkov u Brna) č. p. 19"},
       cause: "píchání v boku („Seitenstich“ ?)",
       father: "josef_rk",
+      mother: "katerina_rk",
       spouse: "vaclav_hz",
       marriage: "29. 7. 1783, Hodějice – s Václavem Hrazdílkem",
       notes: [
         "Dcera Josefa Roskopala z Hodějic (sňatek 1783). Matka Jana (*1790), Matyldy (*1793), Urbana (1796), Vincence (1798), Antonína (1800) a Apolonie (1803) – v křtech „Roßkopalin“ (dřívější čtení „Koschgelin / Kožgelová“ bylo chybné). Oddací zápis syna 1827 uvádí otce „Paul (?)“ – platí sňatek 1783 (Josef).",
         "Zemřela 17. 2. 1817 (pohřbena 19. 2.) ve Špitálce č. 19 jako „Magdalena Hrazdilek, Wittib“, uvedeno 46 let. ROZPOR: věk 46 (*~1771) nesedí s kandidátním křtem 1764 – v této faře jsou věky často podhodnocené.",
-        "KANDIDÁT křtu: 4. 7. 1764 pokřtěna Magdalena, dcera Josefa Roskopala, podruha v Hruškách, a Kateřiny (kmotři Jan Fiala a Marianna Paternoská, šenkýři z Hrušek) – jediná Magdalena Roskopalová ve faře 1754–1765; otec sedí se sňatkem 1783, místo (Hrušky × Hodějice) ne."
+        "KANDIDÁT křtu: 4. 7. 1764 pokřtěna Magdalena, dcera Josefa Roskopala, podruha v Hruškách, a Kateřiny (kmotři Jan Fiala a Marianna Paternoská, šenkýři z Hrušek) – jediná Magdalena Roskopalová ve faře 1754–1765; otec sedí se sňatkem 1783, místo (Hrušky × Hodějice) ne.",
+        "Matka Kateřina Roskopalová, vdova, zemřela 9. 2. 1805 v Hodějicích č. 1 (dům sňatku Magdaleny 1783 a jejích dětí) – vysvětluje bydliště v Hodějicích 1783 a podporuje kandidátní křest 1764 (MZA N13)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
@@ -7330,10 +7332,13 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
+      d: {"date":"před 9. 2. 1805 (nejspíš před V 1784)","year":1784,"approx":true},
+      spouse: "katerina_rk",
       occ: "podruh (Hrušky 1758, 1764 ?)",
       notes: [
         "Otec Magdaleny Hrazdílkové (sňatek 1783: „filia Josephi Roskopal, Hodj.“).",
-        "KANDIDÁT: Josef Roskopal, podruh v Hruškách, × Kateřina – děti Matouš (16. 9. 1758) a Magdalena (4. 7. 1764)."
+        "KANDIDÁT: Josef Roskopal, podruh v Hruškách, × Kateřina – děti Matouš (16. 9. 1758) a Magdalena (4. 7. 1764).",
+        "Zemřel před 9. 2. 1805 (manželka tehdy vdovou); v indexu Z Slavkov 1784–1822 (R) není → nejspíš před V 1784. KANDIDÁTI rodičů (K): Jan Roskopal, podruh v Hruškách, × Kateřina († 25. 1. 1793 Hrušky č. 22, „Witwe nach dem Johann Roskopal Inmann“, 80 let; Z 13148 sn. 148 vlevo)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958",
@@ -12094,6 +12099,24 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1741_N_Tukal_Frantisek_Lazany.jpg","t":"Křest syna Františka, Lažany 1741 (?)"},
         {"f":"img/1755_Z_Tukal_Jan_Lazany.jpg","t":"Pohřeb manžela Jana, Lažany 1755"}
+      ]
+    },
+    {
+      id: "katerina_rk",
+      name: "Kateřina Roskopalová",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (asi 1735 ?)","year":1735,"approx":true},
+      d: {"date":"9. 2. 1805","year":1805,"place":"Hodějice č. p. 1"},
+      cause: "souchotiny (Lungensucht)",
+      spouse: "josef_rk",
+      notes: [
+        "KANDIDÁTKA (K, silná): matka Magdaleny Hrazdílkové – „Kateřina“ při křtech dětí Josefa Roskopala, podruha v Hruškách (Matouš 1758, Magdalena 1764).",
+        "Zemřela 9. 2. 1805 (pohřbena 11. 2.) v Hodějicích č. 1: „Katharina Rosskopal, Wittwe“, 63 let, souchotiny (Z 13149, sn. 225 vlevo, str. 234; M zápis). Dům č. 1 = dům sňatku Magdaleny 1783, úmrtí Martina a Apolonie Hrazdílkových; jiná Kateřina Roskopalová v Hodějicích není. ROZPOR věku: 63 (→ *~1742) × děti od 1757 – věky v této faře bývají podhodnocené."
+      ],
+      sources: [
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, Z 13149, oddíl Hodějice, sn. 225 vlevo, str. 234 (1805) – https://www.mza.cz/actapublica/matrika/detail/1964",
+        "MZA, NOZ Slavkov – křty Matouše 1758 a Magdaleny 1764 (viz karta Magdaleny)"
       ]
     }
   ]
