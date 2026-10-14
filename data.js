@@ -3968,6 +3968,8 @@ window.RODOKMEN = {
       line: "popp",
       cert: "M",
       b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Veřovice"},
+      father: "josef_pp",
+      mother: "theresie_pp",
       spouse: "jan_ce",
       notes: [
         "Matka Tomáše Černocha; dcera † Josefa Poppa, domkaře z Veřovic, a Theresie roz. Ja… (?) z Lit…dorf (?) (křest syna 1846)."
@@ -4007,6 +4009,7 @@ window.RODOKMEN = {
       line: "cernoch",
       cert: "M",
       b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Veřovice"},
+      father: "frantisek_cn",
       spouse: "josef_gr",
       notes: [
         "Matka Magdaleny; dcera Františka Černocha, chalupníka z Veřovic – Tomáš a Magdalena byli tedy nejspíš příbuzní (ve Veřovicích bylo víc rodin Černochů)."
@@ -5416,6 +5419,7 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1818)","year":1818,"approx":true,"place":"Uhřice"},
+      father: "josef_bh",
       spouse: "fabian_bu",
       marriage: "1841, Uhřice – s Fabiánem Buchlovským",
       notes: [
@@ -6185,6 +6189,7 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"asi 1786","year":1786,"approx":true,"place":"Heršpice"},
+      father: "frantisek_wl",
       spouse: "pavel_la",
       marriage: "8. 11. 1808, Heršpice – s Pavlem Láníčkem",
       notes: [
@@ -10070,6 +10075,98 @@ window.RODOKMEN = {
         {"f":"img/1704_N_Besedova_Rosina_Verovice.jpg","t":"Křest dcery Rosiny, Veřovice, 10. 8. 1704"},
         {"f":"img/1734_Z_Besedova_Katerina_Verovice.jpg","t":"Úmrtí 9. 12. 1734, Veřovice"},
         {"f":"img/1746_Z_Beseda_Jan_Verovice.jpg","t":"Úmrtí manžela Jana, Veřovice, 16. 8. 1746"}
+      ]
+    },
+    {
+      id: "josef_pp",
+      name: "Josef Popp",
+      line: "popp",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      d: {"date":"před 20. 9. 1846","year":1846,"approx":true,"place":"Veřovice"},
+      spouse: "theresie_pp",
+      occ: "domkář ve Veřovicích",
+      notes: [
+        "Domkář ve Veřovicích; otec Mariany, manželky Jana Černocha – v křtu vnuka Tomáše 20. 9. 1846 uveden jako „† Josef Popp, domkář z Veřovic“ (M). Datum narození je odhad podle dcery (*~1820)."
+      ],
+      sources: [
+        "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 (křest vnuka Tomáše Černocha 20. 9. 1846) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest vnuka Tomáše Černocha, Veřovice 20. 9. 1846"}
+      ]
+    },
+    {
+      id: "theresie_pp",
+      name: "Theresie Poppová",
+      maiden: "Ja… (?)",
+      line: "popp",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      spouse: "josef_pp",
+      notes: [
+        "Manželka Josefa Poppa, domkáře ve Veřovicích; matka Mariany Černochové. V křtu vnuka Tomáše 1846 „Theresie roz. Ja… (?) z Lit…dorf (?)“ – příjmení i obec nedočteny (M)."
+      ],
+      sources: [
+        "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 (křest vnuka Tomáše Černocha 20. 9. 1846) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest vnuka Tomáše Černocha, Veřovice 20. 9. 1846"}
+      ]
+    },
+    {
+      id: "frantisek_cn",
+      name: "František Černoch",
+      line: "cernoch",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      occ: "chalupník ve Veřovicích",
+      notes: [
+        "Chalupník ve Veřovicích; otec Anny, provdané Grozmanové (sňatek vnučky Magdaleny 8. 11. 1869 a křest pravnuka 1877; M). Vztah k Černochům Tomáše (otec Jan) neznámý – ve Veřovicích žilo víc rodin Černochů. Datum narození je odhad podle dcery (*~1825)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek vnučky Magdaleny Grozmanové, Veřovice 8. 11. 1869"}
+      ]
+    },
+    {
+      id: "josef_bh",
+      name: "Josef Bělohoubek",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      occ: "čtvrtláník v Uhřicích",
+      notes: [
+        "Čtvrtláník v Uhřicích; otec Františky, provdané Buchlovské – uveden jako děd v křtu vnučky Mariany Buchlovské 1851 (M). Datum narození je odhad podle dcery (*~1818).",
+        "KANDIDÁT: Josef Bělohoubek, který se v Uhřicích ženil 1841 (× Anna Aswanetz ?), je spíš jeho syn stejného jména (K)."
+      ],
+      sources: [
+        "MZA Brno, fara Dambořice, N Uhřice 1847–1883, sign. 5208, str. 12, snímek 7 – https://www.mza.cz/actapublica/matrika/detail/4944"
+      ],
+      scans: [
+        {"f":"img/1851_N_Uhrice_5208_sn7_str12_Buchlovska_Mariana.jpg","t":"Křest vnučky Mariany Buchlovské, Uhřice 1851"}
+      ]
+    },
+    {
+      id: "frantisek_wl",
+      name: "František Willam (Wilam)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      occ: "domkář v Heršpicích (č. 18, 1808), později čtvrtník",
+      notes: [
+        "Domkář v Heršpicích č. 18; otec Magdaleny, která se 8. 11. 1808 vdala za Pavla Láníčka (M); v křtu vnučky 1822 a v zápisech 1841 „čtvrtník“. Datum narození je odhad podle dcery (*~1786).",
+        "KANDIDÁT manželky: Marina – matka Magdaleny pokřtěné 21. 5. 1784 v Heršpicích č. 38 („Franz Wilam, čtvrtník × Marina“; jediná Magdalena Wilam v indexu 1784–1790; K)."
+      ],
+      sources: [
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, fara Slavkov u Brna, N sign. 13124, oddíl Heršpice, str. 1, snímek 286 – https://www.mza.cz/actapublica/matrika/detail/1952"
+      ],
+      scans: [
+        {"f":"img/1808_O_13137_sn140_str174_Herspice_Lanicek_Pavel_x_Willam_Magdalena_plne_rozl.jpg","t":"Sňatek dcery Magdaleny s Pavlem Láníčkem, Heršpice 8. 11. 1808"}
       ]
     }
   ]
