@@ -6285,7 +6285,8 @@ window.RODOKMEN = {
       spouse: "tobias_ku",
       notes: [
         "Matka Jana Kučery (*1816) a dalších dětí v Heršpicích č. 40 (1801–1816); v křtech „Lottrab / Lotrab (?)“. Původ: oddací zápis syna 1837 „z Letonic (?)“, kmotři z Kobeřic – nejisté.",
-        "KANDIDÁT úmrtí: index zemřelých 1822 „Kučera Katharina – Herspitz – 285/288“ (nečteno)."
+        "KANDIDÁT úmrtí: index zemřelých 1822 „Kučera Katharina – Herspitz – 285/288“ (nečteno).",
+        "KANDIDÁT původu (K+): „geborne Jo[s/h]… Lotrab (?), Halblehners in Lettnitz“ (O 1837) = nejspíš Rotrekl z Letonic (fara Dražovice) – v Letonicích 1771–1782 velká rodina Rotreklů. Kandidátky křtu (NOZ Dražovice 12529, M zápisy): Catharina 2. 11. 1774, otec Josef Rotrekl, pololáník Letonice č. 50 (?) × Marianna (nejlepší – „Halblehner“); Catharina 24. 11. 1772 (Jiří, podruh × Apolonie); Catharina 28. 8. 1777 (Antonín, sedlák × Magdalena, č. 30). Sňatek s Tobiášem v O Dražovice 1799–1803 není."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
