@@ -1892,7 +1892,8 @@ window.RODOKMEN = {
         {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"},
         {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest Josefy Merhautové, Zdice 18. 3. 1791"},
         {"f":"img/1822_krest_antonie_divisova_cernin_a.jpg","t":"Křest dcery Antonie Divišové, Černín 1822"},
-        {"f":"img/1822_krest_antonie_divisova_cernin_b.jpg","t":"Křest dcery Antonie Divišové 1822 – rodiče, kmotři"}
+        {"f":"img/1822_krest_antonie_divisova_cernin_b.jpg","t":"Křest dcery Antonie Divišové 1822 – rodiče, kmotři"},
+        {"f":"img/1817_Z_Merhaut_Dominik_Zdice.jpg","t":"Úmrtí otce Dominika Merhauta, Zdice 1817"}
       ]
     },
     {
@@ -5293,23 +5294,26 @@ window.RODOKMEN = {
       name: "Dominik Merhaut",
       line: "merhaut",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
-      d: {"date":"před 8. 12. 1819","year":1819,"approx":true},
+      b: {"date":"neznámé (asi 1753)","year":1753,"approx":true},
+      d: {"date":"15. 6. 1817","year":1817,"place":"Zdice č. p. 21"},
       spouse: "anna_hr",
       occ: "rychtář ve Zdicích (č. 21)",
       notes: [
         "Otec Josefy Divišové.",
-        "Soused (usedlík) ve Zdicích č. 21 (1788, 1791)."
+        "Soused (usedlík) ve Zdicích č. 21 (1788, 1791).",
+        "Zemřel 15. 6. 1817 (pohřben 17. 6.) ve Zdicích č. 21: „Dominik Merhaut, dobře zasloužilý soused a bývalý přes 16 let pořádný rychtář zdický“, 64 let (Zdice 12, sn. 14 vpravo, pag. 23; M) → *~1753. V rejstříku Z chybí. V č. 21 zemřely děti s otcem Dominikem: Josef (2½ r., III 1808), Prokop (IX 1810, věk čten „39 ?“ – nejisté), Josefa (3 r., III 1815)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138",
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 08 (O 1806–1813), str. 21, snímek 4 – https://ebadatelna.soapraha.cz/d/9102/4",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 02, pag. 19, snímek 20 – https://ebadatelna.soapraha.cz/d/9096/20"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 02, pag. 19, snímek 20 – https://ebadatelna.soapraha.cz/d/9096/20",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 12 (Z 1814–1855), sn. 14 vpravo, pag. 23 – https://ebadatelna.soapraha.cz/d/9106/14"
       ],
       scans: [
         {"f":"img/1807_snatek_matej_divis_zdice_b.jpg","t":"Sňatek Matěje Diviše a Josefy Merhautové 1807 – nevěsta"},
-        {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest dcery Josefy Merhautové, Zdice 18. 3. 1791"}
+        {"f":"img/1791_krest_josefa_merhautova_zdice02_sn20_a.jpg","t":"Křest dcery Josefy Merhautové, Zdice 18. 3. 1791"},
+        {"f":"img/1817_Z_Merhaut_Dominik_Zdice.jpg","t":"Úmrtí 15. 6. 1817, Zdice č. 21"}
       ]
     },
     {
@@ -5321,7 +5325,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
       spouse: "dominik_me",
       notes: [
-        "Matka Josefy Divišové."
+        "Matka Josefy Divišové.",
+        "Manžel Dominik zemřel 15. 6. 1817; vlastní úmrtí ve Zdicích 1807–VI 1817 není (Praha N8)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
