@@ -4198,7 +4198,8 @@ window.RODOKMEN = {
       spouse: "mariana_po",
       occ: "chalupník (domkař) ve Veřovicích",
       notes: [
-        "Otec Tomáše Černocha; dal souhlas k jeho sňatku 1869."
+        "Otec Tomáše Černocha; dal souhlas k jeho sňatku 1869.",
+        "KANDIDÁT úmrtí (D, jen rejstřík): „57 Černoch Jan 10/4 1885 str. 21“ (rejstřík Z Veřovice NJ XIV 9, sn. 187 vpravo) – zápis nečten."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
@@ -4221,7 +4222,8 @@ window.RODOKMEN = {
       mother: "theresie_pp",
       spouse: "jan_ce",
       notes: [
-        "Matka Tomáše Černocha; dcera † Josefa Poppa, domkaře z Veřovic, a Theresie roz. Ja… (?) z Lit…dorf (?) (křest syna 1846)."
+        "Matka Tomáše Černocha; dcera † Josefa Poppa, domkaře z Veřovic, a Theresie roz. Ja… (?) z Lit…dorf (?) (křest syna 1846).",
+        "KANDIDÁT úmrtí (D, jen rejstřík): „57 Černoch Marianna 6/3 [1883] str. 10“ (NJ XIV 9, sn. 187 vpravo) – zápis nečten."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
@@ -4242,7 +4244,8 @@ window.RODOKMEN = {
       occ: "zahradník ve Veřovicích",
       notes: [
         "Otec Magdaleny Černochové; dal souhlas k jejímu sňatku 1869.",
-        "KANDIDÁTI rodičů (K, jen shoda příjmení): Joseph Grossmann, vojín c. k. 4. myslivecského praporu, 24 let, × 22. 6. 1820 Veřovice č. 4 Anna, dcera Josepha Laczÿny (?), selského výměnkáře (NJ XIV 3, sn. 26 vpravo; M zápis)."
+        "KANDIDÁTI rodičů (K, jen shoda příjmení): Joseph Grossmann, vojín c. k. 4. myslivecského praporu, 24 let, × 22. 6. 1820 Veřovice č. 4 Anna, dcera Josepha Laczÿny (?), selského výměnkáře (NJ XIV 3, sn. 26 vpravo; M zápis).",
+        "KANDIDÁT úmrtí (K, jen rejstřík): „203 Grosman Josef 30/3 1894 str. 122“ nebo „168 (?) Grozman Josef 2/1 1887 str. 41“ (NJ XIV 9, sn. 190 vpravo) – zápisy nečteny."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
@@ -4263,7 +4266,8 @@ window.RODOKMEN = {
       spouse: "josef_gr",
       notes: [
         "Matka Magdaleny; dcera Františka Černocha, chalupníka z Veřovic – Tomáš a Magdalena byli tedy nejspíš příbuzní (ve Veřovicích bylo víc rodin Černochů).",
-        "KANDIDÁTI rodičů (K, jen shoda jména): „Franz, nach Johann Czernoch, Gärtners Sohn“, 28 let, × 31. 1. 1826 Veřovice č. 22 Anna, dcera Georga Prosseka (?), zahradníka č. 123 (NJ XIV 3, sn. 34 vlevo; M zápis) – ověřit křtem Anny (~1826–30)."
+        "KANDIDÁTI rodičů (K, jen shoda jména): „Franz, nach Johann Czernoch, Gärtners Sohn“, 28 let, × 31. 1. 1826 Veřovice č. 22 Anna, dcera Georga Prosseka (?), zahradníka č. 123 (NJ XIV 3, sn. 34 vlevo; M zápis) – ověřit křtem Anny (~1826–30).",
+        "KANDIDÁT úmrtí (D, jen rejstřík): „52 Grozman Anna 9/12 [1884] str. 15“ (NJ XIV 9, sn. 190 vpravo; č. 52 = dům Grozmanových 1869) – zápis nečten."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
@@ -7948,7 +7952,8 @@ window.RODOKMEN = {
       marriage: "23. 2. 1813, Bělotín č. 81 – s Annou Ziegnerovou",
       notes: [
         "Oddán 23. 2. 1813 v Bělotíně č. 81 (farář): „Karl Michalek, Sohn des Andreas Michalek, Häuslers“, 23 let, svobodný, s Annou, dcerou Josepha Zignera, výměnkáře, 20 let; svědci Anton Kleiber, výměnkář, a Karl Andres, hostinský (M; ztotožnění podle jmen obou a otce nevěsty).",
-        "Domkář v Bělotíně (č. 12 v r. 1822). Otec Anny Zettelmannové (*1822); při dceřině sňatku 1844 dal souhlas."
+        "Domkář v Bělotíně (č. 12 v r. 1822). Otec Anny Zettelmannové (*1822); při dceřině sňatku 1844 dal souhlas.",
+        "KANDIDÁT úmrtí (D, jen rejstřík): „1845 Michalek Karl 119“ (rejstřík Z Bělotín L II 18, sn. 186 → kniha L II 16, fol. 119) – zápis nečten."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
@@ -7996,7 +8001,8 @@ window.RODOKMEN = {
       marriage: "23. 2. 1813, Bělotín – s Karlem Michalkem",
       notes: [
         "Dcera Josefa Ziegnera, sedláka v Bělotíně († před X 1822). Matka Anny Michalkové (*22. 10. 1822).",
-        "Oddána 23. 2. 1813 v Bělotíně č. 81 jako dcera Josepha Zignera, výměnkáře, 20 let (M)."
+        "Oddána 23. 2. 1813 v Bělotíně č. 81 jako dcera Josepha Zignera, výměnkáře, 20 let (M).",
+        "KANDIDÁT úmrtí (D, jen rejstřík): „1847 Michalek Anna 130/131 (?)“ (L II 18, sn. 186 → L II 16) – zápis nečten. Úmrtí jejího otce Josepha Zignera v rejstříku Z Bělotín 1784–1848 (Lit. Z) není."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 70, snímek 36 – https://digi.archives.cz",
@@ -11162,7 +11168,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
       occ: "domkář v Bělotíně",
       notes: [
-        "Domkář (Häusler) v Bělotíně; otec Karla Michalka – oddací zápis syna 23. 2. 1813 (M). Sňatek v O Bělotín 1784 – I 1793 není (D)."
+        "Domkář (Häusler) v Bělotíně; otec Karla Michalka – oddací zápis syna 23. 2. 1813 (M). Sňatek v O Bělotín 1784 – I 1793 není (D).",
+        "KANDIDÁTI úmrtí (D, jen rejstřík): „Michalek Andreas“ ~1816/17 (fol. 20), 1820 (fol. 29), 1825 (fol. 49) – rejstřík Z Bělotín L II 18, sn. 186; který je náš, nerozhodnuto."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz"
