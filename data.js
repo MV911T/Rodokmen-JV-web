@@ -7471,7 +7471,8 @@ window.RODOKMEN = {
         "Chalupník (subrusticus) v Oseku č. 85 – křest syna Kašpara 21. 6. 1771 (kmotr hrabě Kašpar ze Šternberka); otec Anny (*1774, provdaná Laukotová, pak Lodlová). Pozor: v Oseku žil i pár Mikuláš Holub × Kateřina.",
         "Šimon Holub, podruh, † 27. 3. 1805 Osek č. 108, 64 let, a Barbora, manželka † Šimona Holuby, † 18. 1. 1808 č. 108, 58 let (Osek 08 Z str. 62, 68; M) – spíš druhý Šimon (z č. 73), ne náš (manželka Kateřina † 1793 v č. 85, nový sňatek v Oseku VII 1793 – II 1803 není). Č. 85 v l. 1801–1810 drží Jindřich Holub (snad syn).",
         "Zemřel 27. 11. 1803 v Oseku č. 85: „Simon Holub, Chalupner“, 69 (?) let, Brand (Osek 08 Z str. 59, sn. 34 vpravo; M, ověřeno koordinátorem) → *~1734. Jindřich Holub (č. 85 od 1801) je syn Adama Holuba × Anny (*1761) – ne Šimonův syn.",
-        "Bratr Jakub × 29. 10. 1752 Anna Gotfridová, dcera Josefa Gotfrida z Oseka (Osek 03 O sn. 133 vlevo; M) – Šimonova manželka Kateřina byla kandidátně rovněž dcerou Josefa Gotfrida."
+        "Bratr Jakub × 29. 10. 1752 Anna Gotfridová, dcera Josefa Gotfrida z Oseka (Osek 03 O sn. 133 vlevo; M) – Šimonova manželka Kateřina byla kandidátně rovněž dcerou Josefa Gotfrida.",
+        "Dcera Kateřina („filiola Simonis Holub, gazari Wosseckensis“) † XI 1767 v Oseku (Osek 04 Z sn. 118 vpravo; M)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
@@ -7518,7 +7519,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1774_krest_anna_holubova_otec_simon_holub_chalupnik_osek85_osek05_sn6.jpg","t":"Křest Anny Holubové, Osek 13. (?) 6. 1774"},
         {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"},
-        {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí 6. 7. 1793, Osek č. 85"}
+        {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí 6. 7. 1793, Osek č. 85"},
+        {"f":"img/1767_Z_Gottfridova_Katerina_Osek.jpg","t":"Úmrtí matky Kateřiny Gottfridové, Osek 1767"}
       ]
     },
     {
@@ -11911,14 +11913,15 @@ window.RODOKMEN = {
         "KANDIDÁT (K+): otec Kateřiny Holubové (1. × Gyšt) – oddací zápis 28. 10. 1755: Jakub Gyšt „s poctivou děvečkou, vlastní dcerou otce Josefa Gottfrida též z Woseka“ (M zápis; jméno nevěsty v zápisu chybí, ztotožnění přes křty dětí Jakuba × Kateřiny 1757, 1759). Z Oseka; děti s Kateřinou: Barbora (1737), Ludmila (1739).",
         "Děti v Oseku: Eva (25. 12. 1725), Kateřina (25. 12. 1727), Barbora (13. 4. 1737), Ludmila (1739) (M zápisy). Sňatek v O Osek VIII 1714 – 1727 není (před 1714 nebo jinde).",
         "KANDIDÁT úmrtí (K+): 10. 1. 1772 Osek č. 80 – „Joseph Gottfried, Gemeind-Hirt“, 81 let (Osek 08 Z fol. 1, sn. 4 vpravo; M zápis, ověřeno koordinátorem) → *~1691; jediný Josef Gottfried v Z Osek 1772–1810. Jako obecní pastýř mohl přijít odjinud – proto sňatek v Oseku chybí. Dcera Anna × 29. 10. 1752 Jakub Holub (syn † Kašpara).",
-        "Snad syn (K): Jakub Kotfrid × Eva, Osek – děti † 14. 2. 1754 (Jan, 1½ r.) a 18. 9. 1757 (Osek 03 Z sn. 184 vpravo, 189 vlevo); Jakub by se narodil ~1720–24."
+        "Syn Jakub *9. 5. 1724 Osek („Jakub, vlastní syn Jozefa Kotfrida a Kateřiny manželky jeho“; Osek 01 N str. 221, sn. 112 vpravo; M) – nejstarší známé dítě; × Eva, † 1. 5. 1762 Vitinka, „subrusticus“, 35 (!) let (Osek 04 Z sn. 110 vlevo; K+). Manželka Kateřina † 26. 11. 1767 jako žena pastýře – Josef tedy ovdověl."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 03 O str. 58 (28. 10. 1755); Osek 02 N str. 84, 105",
         "SOA Plzeň, Osek 08 Z, fol. 1, sn. 4 vpravo – https://www.portafontium.eu/iipimage/30066674/osek-08_0040-z"
       ],
       scans: [
-        {"f":"img/1772_Z_Gottfried_Josef_Osek80.jpg","t":"Úmrtí 10. 1. 1772, Osek č. 80 (kandidát)"}
+        {"f":"img/1772_Z_Gottfried_Josef_Osek80.jpg","t":"Úmrtí 10. 1. 1772, Osek č. 80 (kandidát)"},
+        {"f":"img/1767_Z_Gottfridova_Katerina_Osek.jpg","t":"Úmrtí manželky Kateřiny, Osek 1767"}
       ]
     },
     {
@@ -11927,15 +11930,20 @@ window.RODOKMEN = {
       line: "holub",
       cert: "K",
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      d: {"date":"26. 11. 1767","year":1767,"place":"Osek u Rokycan"},
       spouse: "josef_gf",
       notes: [
         "KANDIDÁTKA (K): manželka Josefa Gottfrida z Oseka – „matky Kateřiny“ ve křtech dcer Barbory (1737) a Ludmily (1739) (M zápisy); matka Kateřiny Holubové, pokud byla z téhož manželství.",
+        "Zemřela 26. 11. 1767 (pohřbena 28. 11.) v Oseku: „Catharina, uxor Josephi Kottfrid, pastoris gregis Wosseckensis“, zaopatřena svátostmi; věk neuveden (Osek 04 Z str. 29, sn. 118 vpravo; M zápis, ověřeno koordinátorem).",
         "Děti v Oseku: Eva (25. 12. 1725), Kateřina (25. 12. 1727), Barbora (13. 4. 1737), Ludmila (1739) (M zápisy). Sňatek v O Osek VIII 1714 – 1727 není (před 1714 nebo jinde).",
-        "Úmrtí nenalezeno: Osek Z X 1740 – XII 1759 (do konce knihy 03) a 1772–1810 bez ní; zbývá Osek 04 Z 1760–1771.",
         "Kmotra 5. 10. 1724 „Kateřina Kodfridová z Volduch“ (Osek 01 N str. 226, sn. 115 vlevo; M zápis) – snad tatáž (K+): rodina by tehdy žila ve Volduchách (filiálka fary Osek)."
       ],
       sources: [
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 N str. 84, 105"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 N str. 84, 105",
+        "SOA Plzeň, Osek 04 Z, str. 29, sn. 118 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_1180-z"
+      ],
+      scans: [
+        {"f":"img/1767_Z_Gottfridova_Katerina_Osek.jpg","t":"Úmrtí 26. 11. 1767, Osek"}
       ]
     },
     {
