@@ -12498,7 +12498,8 @@ window.RODOKMEN = {
         "Otec Jan Bečka st. z Mokrého pohřben 9. 11. 1743 ve Všeni, 75 let (→ *~1668) (Z Všeň 5294 sn. 117 vpravo; M zápis, K+). Syn Matěj (*~1744) † 8. 8. 1748, 4 roky (sn. 138 vlevo; K). Úmrtí Jana ml. a Magdaleny v Z Všeň 1743–1761 není.",
         "Matka nejspíš Magdalena: 30. 1. 1713 kmotra „Magdalena, manželka Jana Bečky (?) z Mokrého“ (N Všeň 5286 sn. 14 vlevo; M zápis, K ztotožnění). Křest Jana ml. ani Magdaleny Janků v N 5286 I 1710 – VII 1713 není (střední negativ) → Jan spíš *před 1710 (N 5285).",
         "Rodiče (K): Jan Bečka st. z Mokrého × Magdalena – syn Matěj pokřtěn 22. 3. 1708 („Matěj syn Jana Bečky z Mokrého, matky Magdaleny“, na okraji „+“; N Všeň 5285 sn. 69 vlevo; M). Křest Jana ml. není v N 5285 IX 1707 – XII 1709 ani v N 5286 1710 – I 1715; sourozenci (M): Alžběta 4. 12. 1701 (5285 sn. 54 vpravo), Matěj 24. (?) 8. 1705 († před 1708; sn. 63 vlevo), Matěj 22. 3. 1708. Jan ml. v N Všeň VI 1701 – I 1715 není → *před VI 1701 (N 5285 sn. ~45–53).",
-        "Jan ml. není v N Všeň VII 1697 – I 1715 (Zámrsk 35–38) → *před VII 1697 nebo jinde. Sňatek Jana st. × Magdaleny není v O 5285 XII 1693 – XI 1696."
+        "Jan ml. není v N Všeň VII 1697 – I 1715 (Zámrsk 35–38) → *před VII 1697 nebo jinde. Sňatek Jana st. × Magdaleny není v O 5285 XII 1693 – XI 1696.",
+        "Jan ml. v N Všeň VI 1695 – I 1715 není (Zámrsk 35–39); Alžběta 1698 je spíš dcera Jana Kopeckého."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 168 vpravo, pag. 303 (28. 4. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1",
@@ -12515,23 +12516,26 @@ window.RODOKMEN = {
       maiden: "Janků",
       line: "mraz",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      b: {"date":"neznámé (asi 1716, kandidátní křest – viz poznámky)","year":1716,"approx":true,"place":"Všeň"},
+      father: "jan_jk",
+      mother: "alzbeta_jk",
       spouse: "jan_bc0",
       marriage: "11. 10. 1733, Všeň – s Janem Bečkou",
       notes: [
         "KANDIDÁTKA (K+): matka Filipa Bečky (viz Jan Bečka).",
-        "Oddána 11. 10. 1733 ve Všeni jako „vlastní dcera Jana Janků ze Všeně“ (O 5291 sn. 37 vpravo; M, ověřeno).",
+        "Oddána 11. 10. 1733 ve Všeni: „poctivý mládenec Jan, syn Jana Bečky ze vsi Mokrého, s poctivou děvečkou Mandalenou, vlastní dcerou Jana Janků ze Všeně“ – oba otcové bez „†“ (žili); svědci Jan Líček (?) a Jakub Bičík (?) v Mokrém (O 5291 sn. 37 vpravo, č. 20; M, znovu ověřeno v plném rozlišení).",
         "Děti v Mokrém (N Všeň 5286; M): Kateřina (10. 10. 1735, sn. 138 vlevo), Jan (28. 11. 1737, sn. 151 vlevo; snad ženich 1765), Filip Jakub (28. 4. 1740); Magdalena kmotrou 25. 12. 1734 (sn. 132 vpravo).",
-        "Jan Janek („Gank“) ze Všeně zemřel před 18. 10. 1707 (kmotra „Kateřina, pozůstalá dcera po nebožt. Janovi Gankovi ze Všeně“; N 5285 sn. 68 vlevo; M) – pokud je otcem Magdaleny, narodila se do ~1708 (N 5285). Pozor: ve Všeni žil i Václav Janek (dcera Alžběta). Křest v N 5285 IX 1707 – XII 1709 a N 5286 VIII 1713 – I 1715 není.",
-        "Křest: Magdalena, dcera Václava (opraveno z „Jana“) Janka ze Všeně × Alžběty, 19. 9. 1700 (N 5285 sn. 52 vpravo; M) – nesedí s otcem „Jan“ (1733) → spíš ne (K−). Jan Janek † před X 1707 by v r. 1733 měl být „†“ – oddací zápis 1733 to neuvádí → otcem je spíš jiný, mladší Jan Janek; křest Magdaleny hledat v N 5286 ~1712–1720. V N 5285 VII 1697 – XII 1709 jiná Magdalena Janková není."
+        "KANDIDÁT křtu (K+): 28. 1. 1716 ve Všeni – „pokřtěna jest Mandalena, dcera Jana Jankova ze Všeně, matky Alžběty“; levans Alžběta, manželka Jana Laudy z Ploukonic, Eva, manželka Václava Bečky ze Všeně, Pavel Janků (N Všeň 5286 sn. 26 vpravo; M, ověřeno koordinátorem) – jediná Magdalena, dcera Jana Janka, v N 1695–1716; věk při sňatku 17. Nezaměňovat: Jan Janek † před 1707; Magdalena *1700, dcera Václava Janka × Alžběty."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 168 vpravo, pag. 303 (28. 4. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, O 5291, sn. 37 vpravo, pag. 63 (11. 10. 1733) – APU ff79b488-bdde-4afa-971c-6f0831de8852"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, O 5291, sn. 37 vpravo, pag. 63 (11. 10. 1733) – APU ff79b488-bdde-4afa-971c-6f0831de8852",
+        "SOA Zámrsk, N Všeň 5286, sn. 26 vpravo, pag. 43 (28. 1. 1716)"
       ],
       scans: [
         {"f":"img/1740_N_Becka_Filip_Mokre.jpg","t":"Křest syna Filipa, Mokré 1740"},
-        {"f":"img/1733_O_Becka_Jan_Janku_Magdalena_Vsen.jpg","t":"Sňatek s Janem Bečkou, Všeň 1733"}
+        {"f":"img/1733_O_Becka_Jan_Janku_Magdalena_Vsen.jpg","t":"Sňatek s Janem Bečkou, Všeň 1733"},
+        {"f":"img/1716_N_Jankova_Magdalena_Vsen.jpg","t":"Křest 28. 1. 1716, Všeň (kandidát)"}
       ]
     },
     {
@@ -12813,6 +12817,40 @@ window.RODOKMEN = {
       sources: [
         "SOA Plzeň, Osek 01 O, sn. 153 vlevo (11. 5. 1708) – https://www.portafontium.eu/iipimage/30066667/osek-01_1531-o",
         "SOA Plzeň, Osek 01 N, sn. 56 vpravo (1711), sn. 69 vlevo (1714)"
+      ]
+    },
+    {
+      id: "jan_jk",
+      name: "Jan Janek (Janků)",
+      line: "mraz",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1685)","year":1685,"approx":true,"place":"Všeň"},
+      spouse: "alzbeta_jk",
+      notes: [
+        "KANDIDÁT (K+): otec Magdaleny Bečkové – „vlastní dcera Jana Janků ze Všeně“ při sňatku 1733 (žil); dcera Magdalena pokřtěna 28. 1. 1716 (matka Alžběta; N Všeň 5286 sn. 26 vpravo). Nezaměňovat s Janem Jankem ze Všeně † před X 1707 ani s Václavem Jankem × Alžbětou (děti 1696, 1700)."
+      ],
+      sources: [
+        "SOA Zámrsk, N Všeň 5286, sn. 26 vpravo, pag. 43 (28. 1. 1716)"
+      ],
+      scans: [
+        {"f":"img/1716_N_Jankova_Magdalena_Vsen.jpg","t":"Křest dcery Magdaleny, Všeň 1716"}
+      ]
+    },
+    {
+      id: "alzbeta_jk",
+      name: "Alžběta Janková",
+      line: "mraz",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      spouse: "jan_jk",
+      notes: [
+        "KANDIDÁTKA (K+): matka Magdaleny (*1716, Všeň) – viz Jan Janek."
+      ],
+      sources: [
+        "SOA Zámrsk, N Všeň 5286, sn. 26 vpravo, pag. 43 (28. 1. 1716)"
+      ],
+      scans: [
+        {"f":"img/1716_N_Jankova_Magdalena_Vsen.jpg","t":"Křest dcery Magdaleny, Všeň 1716"}
       ]
     }
   ]
