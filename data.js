@@ -7355,8 +7355,10 @@ window.RODOKMEN = {
       name: "Pavel Čada",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      b: {"date":"neznámé (asi 1689, kandidátní křest – viz poznámky)","year":1689,"approx":true,"place":"Volduchy"},
       d: {"date":"20. 9. 1769","year":1769,"place":"Volduchy (fara Osek)"},
+      father: "matous_cd",
+      mother: "katerina_cd",
       spouse: "marketa_ca",
       occ: "Volduchy",
       notes: [
@@ -7365,13 +7367,16 @@ window.RODOKMEN = {
         "Syn Martin pokřtěn 6. 10. 1728 ve Volduchách – „Martin, vlastní syn Pavla Čady a Markéty, manželky jeho“ (Osek 02 N str. 7, sn. 5 vpravo; M) → manželka Pavla 1728 = Markéta (KANDIDÁTKA na matku Matouše). Martin × 14. 11. 1751 Kateřina, dcera Prokopa Hanzlíka (* 7. 11. 1728, Prokop × Barbora; K+), † 1. 8. 1759 Volduchy, „34 let“ (Osek 03 Z sn. 193; K+).",
         "Druhý syn Martin (*1728 × 1751 Kateřina Hanzlíková, † 1759) – KANDIDÁT předka přes Dorotu Aubrechtovou (K).",
         "Manželka Markéta; děti ve Volduchách (Osek 01 N; M): Matouš 2. 9. 1719, Kateřina 3. 3. 1721, Barbora 6. 12. 1724, Jakub 29. 4. 1726, Martin 5. 10. 1728 – Pavel a Markéta jsou předky Jirky dvakrát (přes Matouše i Martina).",
-        "Zemřel 20. 9. 1769 ve Volduchách (pohřben 22. 9.): „Paulus Čada, rusticus Wolduchensis, senex ut ipse agebat 100 annorum“ (Osek 04 Z str. 40, sn. 124 vlevo; M, nativně ověřeno agentem) – věk udaný jím samým nadsazen; 2. 7. 1715 byl ještě svobodný (družba, Osek 01 O sn. 158 vpravo; M) → *~1690. Sňatek s Markétou VII 1715 – II 1719 není v Osek 01 O → nejspíš ve faře nevěsty (stopa: kmotři z Litohlav)."
+        "Zemřel 20. 9. 1769 ve Volduchách (pohřben 22. 9.): „Paulus Čada, rusticus Wolduchensis, senex ut ipse agebat 100 annorum“ (Osek 04 Z str. 40, sn. 124 vlevo; M, nativně ověřeno agentem) – věk udaný jím samým nadsazen; 2. 7. 1715 byl ještě svobodný (družba, Osek 01 O sn. 158 vpravo; M) → *~1690. Sňatek s Markétou VII 1715 – II 1719 není v Osek 01 O → nejspíš ve faře nevěsty (stopa: kmotři z Litohlav).",
+        "KANDIDÁT křtu (K+): 22. 5. 1689 Volduchy – „pokřtěno dítě jménem Pavel. Rod.: Matouš Čuda, Kateřina. Kmot.: Pavel Lehner, Václav Hanzlík, Lyduška Opová (?)“ (Rokycany 02 N str. 78, sn. 41 vlevo; M, ověřeno koordinátorem) – jediný Pavel Čuda v rejstříku 1684–95; syn Matouš (1719) nese jméno děda; při úmrtí 1769 mu bylo 80 (ne 100). Sňatek s Markétou (1715–19) je nejspíš v Rokycanech (Litohlavy) – O Rokycany před 1736 nejsou digitalizovány."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o"
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o",
+        "SOA Plzeň, Rokycany 02 N, str. 78, sn. 41 vlevo (22. 5. 1689) – https://www.portafontium.eu/iipimage/30067886/rokycany-02_0410-n"
       ],
       scans: [
-        {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"}
+        {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"},
+        {"f":"img/1689_N_Cada_Pavel_Volduchy.jpg","t":"Křest 22. 5. 1689, Volduchy (kandidát)"}
       ]
     },
     {
@@ -13356,6 +13361,40 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1753_N_Chvatalova_Katerina_Suchomasty.jpg","t":"Křest dcery Kateřiny, Suchomasty 1753"}
+      ]
+    },
+    {
+      id: "matous_cd",
+      name: "Matouš Čada (Čuda)",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1660)","year":1660,"approx":true,"place":"Volduchy"},
+      spouse: "katerina_cd",
+      notes: [
+        "KANDIDÁT (K+): otec Pavla Čady (*1689). Děti s Kateřinou ve Volduchách (rejstřík Rokycany 02 N, 1684–95): Jan (str. 53), Pavel (str. 78, 22. 5. 1689; M), Dorota (str. 114), Judita (str. 143). Sňatek a úmrtí nehledány (Osek 01 Z 1705–27)."
+      ],
+      sources: [
+        "SOA Plzeň, Rokycany 02 N, str. 78, sn. 41 vlevo (22. 5. 1689) – https://www.portafontium.eu/iipimage/30067886/rokycany-02_0410-n"
+      ],
+      scans: [
+        {"f":"img/1689_N_Cada_Pavel_Volduchy.jpg","t":"Křest syna Pavla, Volduchy 1689"}
+      ]
+    },
+    {
+      id: "katerina_cd",
+      name: "Kateřina Čadová (Čudová)",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1665)","year":1665,"approx":true},
+      spouse: "matous_cd",
+      notes: [
+        "KANDIDÁTKA (K+): matka Pavla Čady (*1689) – viz Matouš Čada."
+      ],
+      sources: [
+        "SOA Plzeň, Rokycany 02 N, str. 78, sn. 41 vlevo (22. 5. 1689) – https://www.portafontium.eu/iipimage/30067886/rokycany-02_0410-n"
+      ],
+      scans: [
+        {"f":"img/1689_N_Cada_Pavel_Volduchy.jpg","t":"Křest syna Pavla, Volduchy 1689"}
       ]
     }
   ]
