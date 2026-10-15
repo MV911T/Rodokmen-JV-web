@@ -7899,7 +7899,8 @@ window.RODOKMEN = {
         {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"},
         {"f":"img/1783_O_13136_sn15R_Simonik_Martin_x_Johanna_Magek_svedek_Pavel_Hrabovsky_offset1.jpg","t":"Sňatek Martina Šimoníka a Johanny Magkové (?), Hodějice 6. 5. 1783"},
         {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest 25. 10. 1756, Hodějice (kandidát)"},
-        {"f":"img/1825_Z_Simonik_Martin_Hodejice77.jpg","t":"Úmrtí 2. 4. 1825, Hodějice č. 77"}
+        {"f":"img/1825_Z_Simonik_Martin_Hodejice77.jpg","t":"Úmrtí 2. 4. 1825, Hodějice č. 77"},
+        {"f":"img/1762_Z_Simonikova_Apolonie_Hodejice.jpg","t":"Úmrtí matky Apolonie (kandidát), Hodějice 1762"}
       ]
     },
     {
@@ -12649,10 +12650,10 @@ window.RODOKMEN = {
       b: {"date":"neznámé (asi 1715)","year":1715,"approx":true,"place":"Hodějice"},
       d: {"date":"10. 4. 1776","year":1776,"place":"Hodějice č. p. 52"},
       spouse: "apolonie_si",
-      marriage: "18. 1. 1750, Hodějice – s Apolonií Láníčkovou",
+      marriage: "1) 18. 1. 1750, Hodějice – s Apolonií Láníčkovou; 2) 3. 6. 1762, Hodějice – s Johannou, dcerou Šebestiána Svobody (?)",
       notes: [
         "KANDIDÁT (K+): otec Martina Šimoníka (*25. 10. 1756). Syn † Josefa Šimoníka; × 18. (I) 1750 Hodějice „honesta puella Apollonia filia Mathiae Lanižek, utrique Hodiegicio“; svědci Josef Masnička (?) a Josef Majek (O 13120 sn. 269 vlevo; M zápis). 1752–1756 podruh (1754 sedlák ?) v Hodějicích; děti Jakub 1752, Josef 1754, Martin 1756, Jan († 1765). Úmrtí nehledáno (Z 13121 od sn. 447).",
-        "Pohřben 10. 4. 1776 v Hodějicích č. 52: „Georgius Schimonik“, 61 let (Z 13121 sn. 517 vpravo; M zápis, ověřeno koordinátorem; K+ – týž dům č. 52 jako Martin 1781–85, jiný Jiří Šimoník 1770–78 není) → *~1715. Manželka v zápisu neuvedena; vdova Johanna po † Jiřím Šimoníkovi (× 7. 1. 1783 Ondřej Horáček, č. 84) byla nejspíš jeho 2. manželka (K). Apolonie v Z Slavkov VI 1766 – XII 1778 nezemřela."
+        "Pohřben 10. 4. 1776 v Hodějicích č. 52: „Georgius Schimonik“, 61 let (Z 13121 sn. 517 vpravo; M zápis, ověřeno koordinátorem; K+ – týž dům č. 52 jako Martin 1781–85, jiný Jiří Šimoník 1770–78 není) → *~1715. Manželka v zápisu neuvedena; Apolonie † 13. 4. 1762; jako vdovec, čtvrtník, oddán 3. 6. 1762 s pannou Johannou, dcerou Šebestiána Svobody (?) z Hodějic (O 13121 sn. 311 vpravo; M) – tatáž vdova Johanna se 7. 1. 1783 vdala za Ondřeje Horáčka (K+)."
       ],
       sources: [
         "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
@@ -12661,7 +12662,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest syna Martina, Hodějice 1756"},
-        {"f":"img/1776_Z_Simonik_Jiri_Hodejice52.jpg","t":"Úmrtí 10. 4. 1776, Hodějice č. 52 (kandidát)"}
+        {"f":"img/1776_Z_Simonik_Jiri_Hodejice52.jpg","t":"Úmrtí 10. 4. 1776, Hodějice č. 52 (kandidát)"},
+        {"f":"img/1762_Z_Simonikova_Apolonie_Hodejice.jpg","t":"Úmrtí manželky Apolonie, Hodějice 1762"}
       ]
     },
     {
@@ -12671,18 +12673,21 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "K",
       b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true,"place":"Hodějice"},
+      d: {"date":"13. 4. 1762","year":1762,"place":"Hodějice"},
       spouse: "jiri_si",
       marriage: "18. 1. 1750, Hodějice – s Jiřím Šimoníkem",
       notes: [
         "KANDIDÁTKA (K+): matka Martina Šimoníka; dcera Matěje Láníčka z Hodějic (O 13120 sn. 269 vlevo). Vztah k Láníčkům z linie Hrabovských (Pavel Láníček *~1745) neověřen – možný implex.",
-        "Úmrtí nenalezeno v Z Slavkov VI 1766 – XII 1778; zbývá 1756 – V 1766 (Z 13121 sn. ~395–446)."
+        "KANDIDÁT úmrtí (K+): 13. 4. 1762 Hodějice – „Appollonia uxor Georgii Schimonik quadrantarii Hodějicio“, 28 let (Z 13121 sn. 418 vpravo; M zápis, ověřeno koordinátorem) – jediný Jiří Šimoník v Hodějicích, za 7 týdnů se znovu žení. ROZPOR věku: 28 → *~1734 (nevěsta 1750 by měla 16) – věk nejspíš podhodnocen. Děti Jiřího † 1762: František (1 r. 3 m.) 3. 7., Jan (6 m.) 29. 7."
       ],
       sources: [
         "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
-        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, Z 13121, sn. 418 vpravo (1762) – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
-        {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest syna Martina, Hodějice 1756"}
+        {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest syna Martina, Hodějice 1756"},
+        {"f":"img/1762_Z_Simonikova_Apolonie_Hodejice.jpg","t":"Úmrtí 13. 4. 1762, Hodějice (kandidát)"}
       ]
     },
     {
