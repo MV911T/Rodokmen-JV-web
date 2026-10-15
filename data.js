@@ -12119,7 +12119,8 @@ window.RODOKMEN = {
         "Pokřtěn 31. 5. 1720 ve Zdicích: „pacholátko jménem Vít Jiří, z otce Václava Merhauta, z matky Anny“; levans Jiří Mazaček (?), svědci Šebestián Mateš (?), Jan Vronek (?), urozená panna Anna Kraiserová (?), Zuzana Reynerová (?) (Žebrák 01 N sn. 58 vlevo; M, ověřeno koordinátorem; rok z okolních snímků).",
         "Otec Dominika Merhauta: křest 1754 „otce Víta Merhauta, matky Anny“ a oddací zápis syna 1776 „filius Viti Merhout, rustici ex Zdicz“ (M).",
         "Oddán 31. 10. 1741 (ze Zdic): „Ženich Vít, vlastní syn Václava Merhauta ze Zdic. Nevěsta Anna, vlastní dcera po neb. Blažejovi Šmidovi“; svědci Václav Mrázek z Bavoryně, Maximiliána Wajsfortová (?) z Chodouně, Vojtěch Zvonek z Hředel (Žebrák 01 O sn. 253 vpravo; M, ověřeno koordinátorem; rok z okolních zápisů). Zdické matriky do 1743 jsou v knize Žebrák 01 (9695).",
-        "Zemřel v říjnu 1781 (den 5 ?) ve Zdicích č. 21: „Vitus Merhout, rusticus Zdiensis, in silva ab arbore ad mortem concussus“ (v lese zabit stromem), bez zaopatření, 60 let (Zdice 01 Z, sn. 261 vpravo; M) – skutečně 61. Vyvrácen kandidátní křest Víta 1. 6. 1732 v Bavoryni (syn Martina × Marie Magdaleny) – věkově nesedí (TODO kap. 4)."
+        "Zemřel v říjnu 1781 (den 5 ?) ve Zdicích č. 21: „Vitus Merhout, rusticus Zdiensis, in silva ab arbore ad mortem concussus“ (v lese zabit stromem), bez zaopatření, 60 let (Zdice 01 Z, sn. 261 vpravo; M) – skutečně 61. Vyvrácen kandidátní křest Víta 1. 6. 1732 v Bavoryni (syn Martina × Marie Magdaleny) – věkově nesedí (TODO kap. 4).",
+        "Sourozenci: Jiří Marek (1722), dvojčata František a Matěj (1724). Syn Josef Václav pokřtěn 4. 3. 1744 ve Zdicích – „Víta Merhauta otce, Anny mateře“ (Zdice 01 sn. 4 vlevo; M)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), fol. 37, sn. 40 vpravo; O sn. 318 vlevo",
@@ -12681,7 +12682,7 @@ window.RODOKMEN = {
       spouse: "anna_mh00",
       notes: [
         "Ze Zdic; otec Víta Merhauta – „Vít, vlastní syn Václava Merhauta ze Zdic“ při sňatku 31. 10. 1741 (Žebrák 01 O sn. 253 vpravo; M). Při sňatku syna žil (bez „†“). Křest Víta (~1719–22) a sňatek Václava hledat v Žebrák 01 (9695).",
-        "Syn Vít Jiří pokřtěn 31. 5. 1720 (matka Anna); Martin 10. (?) 11. 1721 (matka Rozálie – ROZPOR, viz Anna Merhautová)."
+        "Děti s Annou (Žebrák 01 N; M): Vít Jiří 31. 5. 1720, Jiří Marek 27. 4. 1722, dvojčata František a Matěj 20. 3. 1724. Nezaměňovat s druhým Václavem Merhautem ze Zdic × Rozina/Rozálie (Martin 1721, Jan 1724). Úmrtí nehledáno (Žebrák 01 Z 1721–1743)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253"
@@ -12717,7 +12718,7 @@ window.RODOKMEN = {
       spouse: "vaclav_mh00",
       notes: [
         "Matka Víta Merhauta – křest 31. 5. 1720 Zdice „z otce Václava Merhauta, z matky Anny“ (Žebrák 01 N sn. 58 vlevo; M). Rodné příjmení neznámé.",
-        "ROZPOR / otázka: 10. (20. ?) 11. 1721 pokřtěn Martin, syn Václava Merhauta ze Zdic a Rozálie (sn. 61 vpravo) – buď Anna zemřela 1720/21 a Václav se znovu oženil, nebo ve Zdicích žili dva Václavové Merhautové (Václav Merhaut je i kmotrem). Praha N37: úmrtí Anny v Z II 1720 – III 1721 ani sňatek Václava × Rozálie v O IX 1719 – 1722 nejsou; u Martinova křtu je svědkem rovněž „Václav Merhaut ze Zdic“ → spíš dva Václavové (K). Sňatek Václava × Anny není v O 1708–1715; O ~1716 – VIII 1719 v knize chybí."
+        "Rozpor vyřešen (Praha N38): ve Zdicích žili dva Václavové Merhautové – Václav × Anna (děti Vít Jiří 1720, Jiří Marek 27. 4. 1722, dvojčata František a Matěj 20. 3. 1724; stálí kmotři Jiří Mazaček, mlynář chodounský, Šebestián Mareš a Jan Froník z Černína) a Václav × Rozina/Rozálie (Martin 1721, Jan ~25. 6. 1724, u obou je svědkem „Václav Merhaut ze Zdic“) (Žebrák 01 N sn. 58–70; M zápisy)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, Žebrák 01 (9695), N, sn. 58 vlevo (31. 5. 1720) – https://ebadatelna.soapraha.cz/d/9695/58"
