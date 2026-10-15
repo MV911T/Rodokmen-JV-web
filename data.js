@@ -12681,7 +12681,8 @@ window.RODOKMEN = {
       marriage: "1) 18. 1. 1750, Hodějice – s Apolonií Láníčkovou; 2) 3. 6. 1762, Hodějice – s Johannou, dcerou Šebestiána Svobody (?)",
       notes: [
         "KANDIDÁT (K+): otec Martina Šimoníka (*25. 10. 1756). Syn † Josefa Šimoníka; × 18. (I) 1750 Hodějice „honesta puella Apollonia filia Mathiae Lanižek, utrique Hodiegicio“; svědci Josef Masnička (?) a Josef Majek (O 13120 sn. 269 vlevo; M zápis). 1752–1756 podruh (1754 sedlák ?) v Hodějicích; děti Jakub 1752, Josef 1754, Martin 1756, Jan († 1765). Úmrtí nehledáno (Z 13121 od sn. 447).",
-        "Pohřben 10. 4. 1776 v Hodějicích č. 52: „Georgius Schimonik“, 61 let (Z 13121 sn. 517 vpravo; M zápis, ověřeno koordinátorem; K+ – týž dům č. 52 jako Martin 1781–85, jiný Jiří Šimoník 1770–78 není) → *~1715. Manželka v zápisu neuvedena; Apolonie † 13. 4. 1762; jako vdovec, čtvrtník, oddán 3. 6. 1762 s pannou Johannou, dcerou Šebestiána Svobody (?) z Hodějic (O 13121 sn. 311 vpravo; M) – tatáž vdova Johanna se 7. 1. 1783 vdala za Ondřeje Horáčka (K+)."
+        "Pohřben 10. 4. 1776 v Hodějicích č. 52: „Georgius Schimonik“, 61 let (Z 13121 sn. 517 vpravo; M zápis, ověřeno koordinátorem; K+ – týž dům č. 52 jako Martin 1781–85, jiný Jiří Šimoník 1770–78 není) → *~1715. Manželka v zápisu neuvedena; Apolonie † 13. 4. 1762; jako vdovec, čtvrtník, oddán 3. 6. 1762 s pannou Johannou, dcerou Šebestiána Svobody (?) z Hodějic (O 13121 sn. 311 vpravo; M) – tatáž vdova Johanna se 7. 1. 1783 vdala za Ondřeje Horáčka (K+).",
+        "Křest v N 13120 1712 – X 1726 nenalezen; mezi sourozenci (1718–1725) není místo pro *~1715 → hledat XI 1726 – 1730 (N 13120 sn. ~110–135)."
       ],
       sources: [
         "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
@@ -12998,7 +12999,8 @@ window.RODOKMEN = {
       marriage: "17. 1. 1717, Slavkov – s Marinou, dcerou Pavla Mazourka (?) z Hodějic",
       notes: [
         "KANDIDÁT (K+): otec Jiřího Šimoníka – ženich 1750 „Georgius post def. Josephum Schimonik“ (O 13120 sn. 269 vlevo; M). Manželka Marina: kmotři 18. 8. 1717 („Josephus Schimonik & Marina eius uxor“, N 13120 sn. 55 vpravo; M, ověřeno); děti Rosina 25. 4. 1721 (sn. 76 vpravo), Václav 11. 9. 1723 († dítě; sn. 89 vlevo) – kmotři vždy Jiří Florian × Kateřina z Hodějic. Křest Jiřího v N 1712 – I 1724 nenalezen;",
-        "Oddán 17. 1. 1717: „Copulavit … Josephum Schimonik cum Marina filia Pauli Mazourek (?) ex Hodiegitz“; svědci Jan Vrána a Jiří Kocourek (?) (O 13120 sn. 187 vpravo; M, ověřeno koordinátorem) → Jiří *nejdříve X 1717 (věk 61 při † 1776 nadsazen). Další syn Josef 28. 1. 1725 (N sn. 97 vlevo). Snad syn Jana Šimoníka z Hodějic († před XI 1715; syn Tomáš × 1715 Dorota Ruprechtová z Němčan) – K."
+        "Oddán 17. 1. 1717: „Copulavit … Josephum Schimonik cum Marina filia Pauli Mazourek (?) ex Hodiegitz“; svědci Jan Vrána a Jiří Kocourek (?) (O 13120 sn. 187 vpravo; M, ověřeno koordinátorem) → Jiří *nejdříve X 1717 (věk 61 při † 1776 nadsazen). Další syn Josef 28. 1. 1725 (N sn. 97 vlevo). Snad syn Jana Šimoníka z Hodějic († před XI 1715; syn Tomáš × 1715 Dorota Ruprechtová z Němčan) – K.",
+        "Děti s Marinou (N 13120; M): Matěj 21. 9. 1718 († dítě), Martin 30. 9. 1719, Rosina 1721, Václav 1723 (†), Josef 1725 – Jiří mezi nimi 1712 – X 1726 není → narozen nejspíš XI 1726 – ~1729 (věk 61 v r. 1776 nadsazen) nebo jiný otec (K). Otec snad Jan Šimoník × Anna, Hodějice (dcera Rosina 8. 1. 1690; N 13119 sn. 2 vpravo; M); křest Josefa v N 13119 I 1690 – VIII 1691 není."
       ],
       sources: [
         "MZA Brno, N 13120, sn. 55, 76, 89 – https://www.mza.cz/actapublica/matrika/detail/1946",
