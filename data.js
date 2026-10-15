@@ -5331,7 +5331,8 @@ window.RODOKMEN = {
         "Starší zdické křty (do 1743) v matrice Žebrák 03 nejsou – Černín, Zdice ani Knížkovice se tam neobjevují; zdická matrika 1717–1743 se zřejmě nedochovala. Další cesta: pozemkové knihy / urbář panství Králův Dvůr (Černín č. 7).",
         "KANDIDÁTI – děti podle indexu narozených Zdice (Diviš, Černín): Anna (fol. 110), Josef (115), Matěj (123, 1776), Kateřina (127), Veronika (131), Anna (133–134), dvojčata (135).",
         "Zemřel 2. (nebo 3.) 10. 1828 (pohřben 5. 10.) v Černíně č. 7: „Josef Diwiš, wejminkář z Černjna“, 75 let (Zdice 12 sn. 51 vlevo, str. 96; M) → *~1753. ROZPOR s dřívějším odhadem (*před 1744); křest nedohledán.",
-        "Sourozenci (děti Václava Diviše × Kateřiny z Černína, Zdice 01 N; M): František (17. 1. 1745), Kateřina (16. 12. 1746), Matěj (5. 2. 1750), Jan Václav (22. 1. 1752). Josef v rejstříku N Zdice 01 (od 1744) není → narozen spíš před 1744 (věk 75 v r. 1828 nejspíš podhodnocen); matka nejspíš Kateřina (K)."
+        "Sourozenci (děti Václava Diviše × Kateřiny z Černína, Zdice 01 N; M): František (17. 1. 1745), Kateřina (16. 12. 1746), Matěj (5. 2. 1750), Jan Václav (22. 1. 1752). Josef v rejstříku N Zdice 01 (od 1744) není → narozen spíš před 1744 (věk 75 v r. 1828 nejspíš podhodnocen); matka nejspíš Kateřina (K).",
+        "Křest v Zdice 01 N 1741–1759 není (Praha N38–N43, včetně mezery IX 1747 – X 1749 v plném čtení) – zbývá Žebrák 01 N XI 1740 – 1743 v plném rozlišení nebo jiná fara."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
@@ -8808,7 +8809,8 @@ window.RODOKMEN = {
       notes: [
         "Sedlák v Bykoši č. 10 (poddaný suchomastský); manželka Kateřina. Děti: Kateřina (1776), Josef (1785), František (1789), František (1791). Pozor: jiný Jan Klika, syn Václava, sedláka z Bykoše, se II 1775 oženil s Ludmilou Burianovou. Syn František † 12. 9. 1789 č. 10 (Borek 05 Z; K).",
         "Zemřel 24. 6. 1831 (pohřben 27. 6.) v Bykoši č. 10: „Klika Jan, bývalý sedlák a výminkář bikoský, z Bikoše rozený“, 83 let (Borek 14, sn. 4 vlevo, pag. 4; M, ověřeno) → *~1748. Křest 12. 9. 1748 (Jan, syn Václava Kliky) patří spíš Janovi z č. 17 – viz poznámka o sňatku.",
-        "Oddán 26. 9. 1773 (Bykoš): „Klika Joannes laboriosus honestus juvenis proprius filius Wenceslai Kreiczj rustici Bikoschensis cum honesta virgine Catharina propria filia Wenceslai Chwatal molitoris Suchomastensis“; svědci Jan Krbec, sedlák z Bykoše, a Matěj Burian, sedlák ze Suchomast (Borek 03, pag. 98, sn. 240 vlevo; M, ověřeno koordinátorem). Ztotožnění s Janem č. 10: kmotr dcery 1776 Jakub Chvátal, mlýnář ze Suchomast. Otec „Václav Kreiczj, sedlák bykošský“ – v Bykoši skutečně žil samostatný Václav Krejčí, sedlák (× ~1732 Kateřina Krbcová; děti 1739–1770; svědkem 1773 Jan Krbec) → ROZPOR (otec): převažuje (a) Václav Klika × Kateřina Krejčová (K, silný) – křest Jana 12. 9. 1748, věk 83 v r. 1831; „Kreiczj“ 1773 nejspíš přízvisko po matce. Varianta (b) Václav Krejčí ztratila kandidáta: jediný jeho syn Jan (*23. 1. 1742) zemřel svobodný 7. 4. 1759, 18 let (Borek 03 Z p. 39; M); Václav Krejčí † 24. 7. 1784 č. 22 (70). Ale (Praha N30): Václav Klika, sedlák v č. 17 († 3. 3. 1783, 69; vdova Kateřina † 25. 3. 1783, 67; Borek 04 Z p. 56–57; M) je otcem Jana z č. 17 (× 1775 Ludmila) – křest 1748 může patřit jemu. Kolem 1729/30 navíc dva páry „Václav Klika × Kateřina“ (Duchoňová, Krejčová). Otec Jana č. 10 tedy NEROZHODNUT; implex se Skálovými NEZAPSÁN – k rozhodnutí uživatele."
+        "Oddán 26. 9. 1773 (Bykoš): „Klika Joannes laboriosus honestus juvenis proprius filius Wenceslai Kreiczj rustici Bikoschensis cum honesta virgine Catharina propria filia Wenceslai Chwatal molitoris Suchomastensis“; svědci Jan Krbec, sedlák z Bykoše, a Matěj Burian, sedlák ze Suchomast (Borek 03, pag. 98, sn. 240 vlevo; M, ověřeno koordinátorem). Ztotožnění s Janem č. 10: kmotr dcery 1776 Jakub Chvátal, mlýnář ze Suchomast. Otec „Václav Kreiczj, sedlák bykošský“ – v Bykoši skutečně žil samostatný Václav Krejčí, sedlák (× ~1732 Kateřina Krbcová; děti 1739–1770; svědkem 1773 Jan Krbec) → ROZPOR (otec): převažuje (a) Václav Klika × Kateřina Krejčová (K, silný) – křest Jana 12. 9. 1748, věk 83 v r. 1831; „Kreiczj“ 1773 nejspíš přízvisko po matce. Varianta (b) Václav Krejčí ztratila kandidáta: jediný jeho syn Jan (*23. 1. 1742) zemřel svobodný 7. 4. 1759, 18 let (Borek 03 Z p. 39; M); Václav Krejčí † 24. 7. 1784 č. 22 (70). Ale (Praha N30): Václav Klika, sedlák v č. 17 († 3. 3. 1783, 69; vdova Kateřina † 25. 3. 1783, 67; Borek 04 Z p. 56–57; M) je otcem Jana z č. 17 (× 1775 Ludmila) – křest 1748 může patřit jemu. Kolem 1729/30 navíc dva páry „Václav Klika × Kateřina“ (Duchoňová, Krejčová). Otec Jana č. 10 tedy NEROZHODNUT; implex se Skálovými NEZAPSÁN – k rozhodnutí uživatele.",
+        "Oddací zápis 26. 9. 1773 (Borek 03 sn. 240 vlevo, pag. 98) znovu v plném rozlišení: „Klika Joannes … proprius filius Wenceslai Kreiczj rustici Bikoschensis“ – u otce jistě „Kreiczj“ (příjmení, nebo přízvisko Václava Kliky, jehož manželka byla roz. Krejčová – nerozhodnuto; ROZPOR trvá)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20",
@@ -12721,15 +12723,17 @@ window.RODOKMEN = {
       name: "Václav Merhaut",
       line: "merhaut",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true,"place":"Zdice"},
+      b: {"date":"neznámé (asi 1683)","year":1683,"approx":true,"place":"Zdice"},
+      d: {"date":"2. 3. 1755","year":1755,"place":"Zdice"},
       spouse: "anna_mh00",
       notes: [
         "Ze Zdic; otec Víta Merhauta – „Vít, vlastní syn Václava Merhauta ze Zdic“ při sňatku 31. 10. 1741 (Žebrák 01 O sn. 253 vpravo; M). Při sňatku syna žil (bez „†“). Křest Víta (~1719–22) a sňatek Václava hledat v Žebrák 01 (9695).",
         "Děti s Annou (Žebrák 01 N; M): Vít Jiří 31. 5. 1720, Jiří Marek 27. 4. 1722, dvojčata František a Matěj 20. 3. 1724. Nezaměňovat s druhým Václavem Merhautem ze Zdic × Rozina/Rozálie (Martin 1721, Jan 1724). Úmrtí nehledáno (Žebrák 01 Z 1721–1743).",
-        "KANDIDÁT úmrtí (K−): ~9. 9. 1754 Zdice, „Václav Merhaut“, věk čten 40 / 70 (?) – koordinátor čte spíš „40“ (pak jiný Václav); manželka neuvedena (Zdice 01 Z sn. 203 vpravo). Úmrtí jiného dospělého Václava Merhauta VIII 1750 – IX 1754 není."
+        "KANDIDÁT úmrtí (K+): 2. (?) 3. 1755 Zdice (pohřben 3. 3.) – „Usnul v Pánu Václav Merhaut vdo[vec] (?), věku 72“, zaopatřen svátostmi (Zdice 01 Z sn. 204 vpravo; M zápis, ověřeno koordinátorem) → *~1683 – sedí na otce Víta (*1720); Anna Merhautová † 1750 (60) by byla jeho manželka. Václav Merhaut † 9. 9. 1754 má 40 let (ne 70) – jiný. Ve Zdicích žil 1749 i mladší pár Václav × Anna (dcera Veronika)."
       ],
       sources: [
-        "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253"
+        "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253",
+        "SOA Praha, Zdice 01 Z, sn. 204 vpravo (1755) – https://ebadatelna.soapraha.cz/d/9095/204"
       ],
       scans: [
         {"f":"img/1741_O_Merhaut_Vit_Smidova_Anna_Zdice.jpg","t":"Sňatek syna Víta, Zdice 1741"},
