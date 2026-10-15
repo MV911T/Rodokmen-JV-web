@@ -3145,6 +3145,7 @@ window.RODOKMEN = {
       b: {"date":"neznámé (asi 1739)","year":1739,"approx":true},
       d: {"date":"9. 2. 1809","year":1809,"place":"Volduchy č. p. 67"},
       father: "jan_tgk",
+      mother: "barbora_tg",
       spouse: "dorota_v",
       occ: "sedlák ve Volduchách č. 67",
       marriage: "22. 11. 1757, Osek – s Dorotou Dudlovou z Volduch",
@@ -11314,16 +11315,20 @@ window.RODOKMEN = {
       name: "Jan Trgjk",
       line: "lezak",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
+      spouse: "barbora_tg",
       occ: "Volduchy (fara Osek)",
+      marriage: "5. 11. 1719, Volduchy – s Barborou Grbkovou (?)",
       notes: [
         "Z Volduch; otec Josefa Trgjka – oddací zápis syna 22. 11. 1757: „Jozef, vlastní syn Jana Begjka [= Trgjka] z Wolduch“ (M). Datum narození je odhad.",
-        "KANDIDÁTKA manželky: Barbora – matka Josefa pokřtěného 11. 1. 1734 ve Volduchách (K+). Sňatek Jana × Barbory nehledán (před 1729).",
-        "Děti s Barborou ve Volduchách (Osek 02 N, M): Kateřina Anna (25. 2. 1730), Lucie (1. 10. 1732), Josef (10. 1. 1734, K+), Lidmila Barbora (29. 11. 1736). Sňatek v O Osek 1725 – VII 1730 není (ve Volduchách žilo 4–5 rodin Trgjků)."
+        "Manželka Barbora – oddáni 5. 11. 1719 (z Volduch): „Jan Brgjk [Trgjk] s poctivou děvečkou Barborou Grbkovou (?)“; družba František Hol[ub ?] (Osek 01 O sn. 163 vpravo; M, nativně ověřeno agentem; rodiče snoubenců neuvedeni) → Jan *spíš ~1690–1698.",
+        "Děti s Barborou ve Volduchách (Osek 02 N, M): Kateřina Anna (25. 2. 1730), Lucie (1. 10. 1732), Josef (10. 1. 1734, K+), Lidmila Barbora (29. 11. 1736). Sňatek v O Osek 1725 – VII 1730 není (ve Volduchách žilo 4–5 rodin Trgjků).",
+        "Pozor: Václav Trgjk × 30. 1. 1723 Kateřina Forgtková (Forejtová ?) (Osek 01 O sn. 166 vpravo; M) – děti „Jana Brgjka a Kateřiny“ 1725 (Václav) a 1726 (Ludmila) patří nejspíš Václavovi (záměna jména otce) – ne Janovi × Barboře (K). Dítě Jana Brgjka † 3. 12. 1724 (Osek 01 Z sn. 188 vlevo)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o",
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 02 (N), str. 57, snímek 30 vpravo (10./11. 1. 1734); rejstřík B („Brgjck Josef 57“) – https://www.portafontium.eu/iipimage/30066668/osek-02_0300-n"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 02 (N), str. 57, snímek 30 vpravo (10./11. 1. 1734); rejstřík B („Brgjck Josef 57“) – https://www.portafontium.eu/iipimage/30066668/osek-02_0300-n",
+        "SOA Plzeň, Osek 01 O, sn. 163 vpravo (5. 11. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_1631-o"
       ],
       scans: [
         {"f":"img/1757_O_Trgjk_Josef_Dudlova_Dorota_Volduchy.jpg","t":"Sňatek syna Josefa, Osek 22. 11. 1757"},
@@ -13529,6 +13534,22 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1751_O_Mlejnek_Jiri_Stastna_Magdalena_Loucky.jpg","t":"Sňatek dcery Magdaleny, 1751"}
+      ]
+    },
+    {
+      id: "barbora_tg",
+      name: "Barbora Trgjková",
+      maiden: "Grbková (?)",
+      line: "lezak",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1698)","year":1698,"approx":true},
+      spouse: "jan_tgk",
+      marriage: "5. 11. 1719, Volduchy – s Janem Trgjkem",
+      notes: [
+        "KANDIDÁTKA (K+): matka Josefa Trgjka – děti Jana × Barbory ve Volduchách 1730–1736 (Osek 02 N; M). Oddána 5. 11. 1719 jako „Barbora Grbková (?)“ (Osek 01 O sn. 163 vpravo; M – příjmení nejisté, Grbková / Hrbková)."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O, sn. 163 vpravo (5. 11. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_1631-o"
       ]
     }
   ]
