@@ -12056,13 +12056,15 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "K",
       b: {"date":"7. 11. 1728","year":1728,"place":"Volduchy (fara Osek)"},
+      father: "prokop_hz",
+      mother: "barbora_hz",
       spouse: "martin_ca",
       marriage: "14. 11. 1751 – s Martinem Čadou",
       notes: [
         "KANDIDÁTKA (K+): matka Doroty Aubrechtové. Narozena 7. 11., pokřtěna 8. 11. 1728 ve Volduchách: „Kateřina, vlastní dcera Prokopa Hanzlíka a Barbory“ (Osek 02 N str. 8, sn. 6 vlevo; M zápis, jediná v rejstříku). Rodiče: Prokop Hanzlík × Barbora (sňatek nehledán).",
         "Podruhé oddána 29. 1. 1760 ve Volduchách: „Vojtěch, vlastní syn pozůstalý po † Danielovi Nuchovi, s poctivou vdovou Kateřinou pozůstalou po † Martinovi Čádovi“; družba Václav Kermes (Osek 04 O str. 1, sn. 66 vpravo; M) – dále Nuhová (Nuchová). Úmrtí nehledáno.",
         "Úmrtí jako Nuchová není v Osek 08 Z Volduchy 1778 – VI 1788 (bez mezer, D); zbývá 1772–77 a VII 1788 – 1808.",
-        "Rodiče: Prokop Hanzlík × 6. 11. 1725 Volduchy Barbora Forejtová („Prokop Hanzlík s Barborau Foregtowau“; Osek 01 O sn. 169 vlevo; M zápis, K++ ztotožnění) – matka tedy rozená Forejtová. Kandidátní křest Barbory 28. 11. 1706 Volduchy (Matěj Forejt × Kateřina; K) – ne dcera Martina × Alžběty. Barbora, vdova po † Prokopu Hanzlíkovi, † 25. 6. 1744 Volduchy, „60“ (M) – věk nesedí na *1706; Prokop Hanzlík je otcem ještě 1742 (dítě † 24. 7. 1742) a snad i 1745/1751 → možná dva Prokopové (nerozhodnuto). Křest a úmrtí Prokopa nenalezeny."
+        "Rodiče: Prokop Hanzlík × 6. 11. 1725 Volduchy Barbora Forejtová (viz jejich karty). Sourozenci (Osek 02 N; M): Dorota 26. 5. 1731, Šimon 19. 11. 1733, Kašpar 6. 1. 1739 († 1741), Magdalena (~1741, † 24. 7. 1742)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 8 (sn. 6 vlevo); Osek 03 O str. 45 (sn. 131 vpravo)"
@@ -13040,6 +13042,41 @@ window.RODOKMEN = {
       ],
       sources: [
         "MZA Brno, O 13120, sn. 208 vlevo (1725)"
+      ]
+    },
+    {
+      id: "prokop_hz",
+      name: "Prokop Hanzlík",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true,"place":"Volduchy (?)"},
+      d: {"date":"VIII 1742 – VI 1744","year":1743,"approx":true,"place":"Volduchy (?)"},
+      spouse: "barbora_hz",
+      marriage: "6. 11. 1725, Volduchy – s Barborou Forejtovou",
+      notes: [
+        "KANDIDÁT (K+): otec Kateřiny Čadové (*7. 11. 1728). Oddán 6. 11. 1725 ve Volduchách: „Prokop Hanzlík s Barborau Foregtowau“ (Osek 01 O sn. 169 vlevo; M). Děti z Volduch, vždy s matkou Barborou (Osek 02 N; M): Kateřina 1728, Dorota 1731, Šimon 1733, Kašpar 1739; Magdalena † 24. 7. 1742 (1 rok; otec bez „†“). Jediný Prokop Hanzlík ve faře 1728–1739; kmotři Budínovi (Volduchy) a Laukotovi (Osek). Zemřel mezi VII 1742 a VI 1744 (vdova Barbora). Křest a rodiče nenalezeny – snad bratr Ondřeje Hanzlíka (K)."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O sn. 169 vlevo (1725); Osek 02 N str. 8, 26, 56, 98 (1728–1739)"
+      ]
+    },
+    {
+      id: "barbora_hz",
+      name: "Barbora Hanzlíková",
+      maiden: "Forejtová",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (asi 1706, kandidátní křest – viz poznámky)","year":1706,"approx":true,"place":"Volduchy"},
+      d: {"date":"25. 6. 1744","year":1744,"place":"Volduchy (fara Osek)"},
+      spouse: "prokop_hz",
+      marriage: "6. 11. 1725, Volduchy – s Prokopem Hanzlíkem",
+      notes: [
+        "KANDIDÁTKA (K+): matka Kateřiny Čadové. Zemřela 25. 6. 1744 ve Volduchách jako „pozůstalá vdova po neb. Prokopovi Hanzlíkovi“, „60 let“ (Osek 03 Z sn. 166 vlevo; M) – věk nadsazen (při porodu 1739 by jí bylo 55).",
+        "KANDIDÁT křtu (K+): 28. 11. 1706 Volduchy – „Barbara; P. Mathias Foregt, M. Catharina“; kmotra Dorota Šuchová, svědci Magdalena Pechancová, Jan Kermes (Osek 01 N str. 81, sn. 42 vpravo; M, nativně ověřeno agentem). Matěj Forejt není Martin Forejt (× Alžběta) – implex nedoložen."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O sn. 169 vlevo (1725); Osek 02 N str. 8, 26, 56, 98 (1728–1739)",
+        "SOA Plzeň, Osek 01 N sn. 42 vpravo (1706); Osek 03 Z sn. 166 vlevo (1744)"
       ]
     }
   ]
