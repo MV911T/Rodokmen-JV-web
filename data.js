@@ -4050,12 +4050,11 @@ window.RODOKMEN = {
       mother: "ludmila_vd",
       notes: [
         "Narozena a pokřtěna 21. 10. 1788 v Pačejově č. 1: „Lidmilla Stodlowa“, otec Jan Stodl, mistr ovčácký, matka „Ludmilla rozená R…cowa“ (Pačejov 01 N sn. 6; M). Ztotožnění (K++, ověřeno koordinátorem): u nemanželských dětí v Pačejově je matka „Lidmilla Stodlowa, dcera po † Janovi Stodlovi a mateře Lidmilly“ (syn Bartoloměj 6. 7. 1812, č. 8; Pačejov 04 sn. 31) a „…po † Janovi Stodlovi, domkáři z Pačejova No 6, matky Ludmily Rosecowy“ (dcera Magdalena 11. 7. 1817; MB 13 sn. 316) – rodné příjmení babičky Rosecová shodné se křtem 1788. Forma „Stadler“ je až z úředních zápisů 1848–1874; dřívější kandidáti Staral (Tetín) a Stadková (M. Hydčice) vyloučeni.",
-        "Nemanželské děti v Pačejově: Bartoloměj (6. 7. 1812, č. 8; † 4. 1. 1819 ? „syn Ludmilly …“, č. 38) a Magdalena (11. 7. 1817, č. 6) – stejný kmotr Bartoloměj Nozor a bába Terezie Jandová.",
+        "Nemanželské děti v Pačejově: Bartoloměj (6. 7. 1812, č. 8; † 4. 1. 1819 Pačejov č. 38 (?) – „Bartolomey, syn Lidmilly Stodlowy, podruhyně z Pačejova“, 6 let (MB 12 sn. 109 vlevo; čteno koordinátorem, K+)) a Magdalena (11. 7. 1817, č. 6) – stejný kmotr Bartoloměj Nozor a bába Terezie Jandová.",
         "Matka Magdaleny Svobodové (nemanželské dcery); dcera † Jana Stadlera, mistra polního z Tetína, a matky Ludmily rozené Vadlejškové z Hořaždovic (křest vnučky 1848, Borek 09 sn. 38 vpravo – ověřeno ve 2× zvětšení; potvrzuje sňatek 1874, Borek 20 sn. 28; M). Hypotéza „Sladký, krejčí z Tetína“ vyvrácena.",
         "Křest v N Borek 1789–1821 ani Tetín 1737–1811 není (Praha N12) – narozena jinde (Hořaždovice ?).",
         "Dcera Magdalena narozena 11. 7. 1817 v Pačejově č. 6 (fara Malý Bor, panství Horažďovice) – Ludmila pocházela z Pačejova, ne z Tetína („Tetín“ v zápisech 1848/1874 je zřejmě zkomolený „Pačejov“). Křest Ludmily (~1790–1797, Malý Bor 10) nehledán.",
-        "Otec Jan Stodl, „polní mistr“, zemřel nejspíš 28. 2. 1794 v Pačejově č. 38 (K+) – souhlasí s „† Jan“ v křtu 1817 a s „mistr polní“ v zápisech 1848/1874.",
-        "KANDIDÁT (K−): 4. 1. 1819 Pačejov č. 38 (?) zemřel Bartoloměj, ~6 týdnů, „syn Ludmilly Bretowy (?), podruhyně v Pačejově“ (MB 12 sn. 109) – příjmení nesedí, snad další nemanželské dítě."
+        "Otec Jan Stodl, „polní mistr“, zemřel nejspíš 28. 2. 1794 v Pačejově č. 38 (K+) – souhlasí s „† Jan“ v křtu 1817 a s „mistr polní“ v zápisech 1848/1874."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
@@ -4265,7 +4264,8 @@ window.RODOKMEN = {
         "V Z Malý Bor 12 (Pačejov XI 1805 – XII 1822) ani 14 (V 1823 – II 1828) úmrtí Jana Stodla, mistra ovčáka, ani Ludmily Stodlové st. není; 13. 12. 1810 zemřela v Pačejově č. 25 „Marie, dcera po † Janovi Stodlovi (?)“, 16 let (MB 12 sn. 104) → varianta „jeden Jan“ (mistr ovčák → podruh, † 1794) sílí, nerozhodnuto. 1815 už v č. 1 jiný mistr ovčák.",
         "Stopa (K): křest 20./21. 9. 1818 Pačejov č. 40 – matka Kateřina, „dcera Františka L…ky (?) z Malých Hydčic No 44, matky Ludmily rozené Stadlerový z Malých Hydčic No 6“ (Malý Bor 13 sn. 320; ověřeno koordinátorem) → Stadlerovi v Malých Hydčicích č. 6 (srov. 1851 „domkář z H…č…a No 6“). Starší Ludmila Stadlerová (*před ~1775) – snad dcera nebo sestra Jana. Úmrtí Ludmily *1788 v Z Pačejov 1805–1843 není.",
         "Pozor (Plzeň N30): Malé Hydčice č. 6 patřilo 1786–1812 sedlákům STADEK (Michal † před 1799, vdova Anna † 1799, 80; Matěj † 1806, 52; děti 1794–1806) – „Ludmila rozená Stadlerová (?) z Malých Hydčic No 6“ (1818) je spíš roz. Stadková; v M. Hydčicích žil i bednář Ignác Stadl(er) (?) (č. 1, 7). Jan Stadler/Stodl ani Ludmila v N/Z Malé Hydčice 1793–1822 nejsou → stopa Hydčice slábne, platí Pačejov (Jan Stodl, mistr ovčák).",
-        "Ověřeno (Plzeň N31): křty vnoučat 1812 a 1817 – „dcera po † Janovi Stodlovi“, „Jan Stodl, domkář z Pačejova No 6“ (M) – Jan je Jan Stodl z Pačejova; † před VII 1812 (nejspíš 28. 2. 1794 jako podruh v č. 38, K+)."
+        "Ověřeno (Plzeň N31): křty vnoučat 1812 a 1817 – „dcera po † Janovi Stodlovi“, „Jan Stodl, domkář z Pačejova No 6“ (M) – Jan je Jan Stodl z Pačejova; † před VII 1812 (nejspíš 28. 2. 1794 jako podruh v č. 38, K+).",
+        "Sňatek s Ludmilou Rosecovou není v O Malý Bor 08 (1778–84) ani Hradešice 07/10 (1778–92) – Pačejov tam nefiguruje; mateřská fara Pačejova před 1787 neurčena. Možný příbuzný (K): „Thomas Stedl (?), pastor gregis“ (ovčák), vdovec, × X 1782 Krutěnice Magdalena Fiková (Hradešice 07 sn. 13 vlevo)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
