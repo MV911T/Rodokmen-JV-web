@@ -2467,7 +2467,8 @@ window.RODOKMEN = {
         "Dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily; při sňatku 1835 22 let. Rodné příjmení matky Ludmily: 1835 „Šimonová (?)“, 1836 „Lhotková (?)“ – ROZPOR / nejisté čtení.",
         "KANDIDÁT / ROZPOR: v indexu narozených Mezilesí 1808–1816 není manželská Marie Václava a Ludmily Karafiátových; jsou tam dvě nemanželské Marie Karafiátové – *5. 10. 1809 (č. 2) a *8. 8. 1813 (č. 34), obě dcery Alžběty, dcery Šimona Karafiáta, šenkýře z Mezilesí (Lukavec 5370 pag. 49; 5371 fol. 3). Nevěsta 1835 (22 let) může být Marie *1813 – nebo se narodila po 1816. Nerozhodnuto.",
         "KANDIDÁT: manželská Marie Václava a Ludmily se narodila až 1825 (v roce 1835 by jí bylo 10) – nevěstou Jana Michala 1835 je tedy nejspíš Marie *8. 8. 1813 (Mezilesí č. 34), nemanželská dcera Alžběty Karafiátové, dcery šenkýře Šimona Karafiáta. Zápis 1835 jako otce uvádí Václava Karafiáta – možná nevlastní otec nebo strýc.",
-        "Třeboň N19: nemanželská Marie *5. 10. 1809 (dcera Alžběty Karafiátové) zemřela 12. 2. 1810, ¼ roku (Z Lukavec 5381 sn. 131 vlevo, pag. 16; M) → jako nevěsta 1835 zbývá jen Marie nar. 8. 8. 1813 (č. 34, nemanž. dcera Alžběty) nebo dosud nenalezená manželská Marie Václava × Ludmily 1811–1813 (N 5370 sn. 31–33, 5371 sn. 3 nepřečteny – blokace). Sestra Magdalena, dcera Václava × Ludmily, pokřtěna 25. 3. 1811 (5370 sn. 30 vpravo; M). Strukturu (otec Václav × Ludmila) zatím ponechávám – podle sňatku 1835 a křtu dcery 1836."
+        "Třeboň N19: nemanželská Marie *5. 10. 1809 (dcera Alžběty Karafiátové) zemřela 12. 2. 1810, ¼ roku (Z Lukavec 5381 sn. 131 vlevo, pag. 16; M) → jako nevěsta 1835 zbývá jen Marie nar. 8. 8. 1813 (č. 34, nemanž. dcera Alžběty) nebo dosud nenalezená manželská Marie Václava × Ludmily 1811–1813 (N 5370 sn. 31–33, 5371 sn. 3 nepřečteny – blokace). Sestra Magdalena, dcera Václava × Ludmily, pokřtěna 25. 3. 1811 (5370 sn. 30 vpravo; M). Strukturu (otec Václav × Ludmila) zatím ponechávám – podle sňatku 1835 a křtu dcery 1836.",
+        "ROZPOR (Třeboň N20, k rozhodnutí uživatelem): manželská Marie Václava × Ludmily v N Lukavec IV 1811 – X 1812 a IV–VIII 1813 není (5370 sn. 31–36, 5371 sn. 3; nečtena jen XI 1812 – III 1813). Nevěstě 1835 bylo 22 let – sedí jen na Marii nar. 8. 8. 1813, Mezilesí 34, nemanž. dceru Alžběty, dcery šenkýře Šimona Karafiáta (5371 sn. 3, pag. 3; M; bez přípisu legitimace). Oddací 1835 znovu čten: „dcera Václava Karafiáta, šenkýře z Mezilesí No 2, z matky Ludmily rozené Šimonové (?)“ – „Šimonová“ může znamenat „dcera Šimona“ (tj. Alžběta). Strukturu ponechávám (Václav × Ludmila) do rozhodnutí."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -13577,7 +13578,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true,"place":"Knížkovice"},
       spouse: "dorota_cv",
       notes: [
-        "Z Knížkovic; otec Vojtěcha Červeného – „Vojtěch, vlastní syn Josefa Červeného“ (sňatek 1752; Zdice 01 O sn. 283 vlevo; M). S Dorotou děti Vojtěch ~14. 4. 1730 a Matěj 16. 1. 1733 (Žebrák 01 N sn. 89 vpravo, 95 vpravo; M). Josef Červený × Barbora (Lidmila 5. 9. 1751, Knížkovice) – snad 2. manželství (K). Sňatek s Dorotou v mezeře O Žebrák 01 XII 1727 – IX 1732 (nedohledatelný)."
+        "Z Knížkovic; otec Vojtěcha Červeného – „Vojtěch, vlastní syn Josefa Červeného“ (sňatek 1752; Zdice 01 O sn. 283 vlevo; M). S Dorotou děti Vojtěch ~14. 4. 1730 a Matěj 16. 1. 1733 (Žebrák 01 N sn. 89 vpravo, 95 vpravo; M). Josef Červený × Barbora (Lidmila 5. 9. 1751, Knížkovice) – snad 2. manželství (K). Sňatek s Dorotou v mezeře O Žebrák 01 XII 1727 – IX 1732 (nedohledatelný).",
+        "Dcera Anna pokřtěna 14. 4. 1729 Knížkovice (Josef × Dorota; Žebrák 01 N sn. 87 vpravo; M) – nejstarší známé dítě."
       ],
       sources: [
         "SOA Praha, Zdice 01 (9095) O, sn. 283 vlevo, pag. 14 (20. 11. 1752) – https://ebadatelna.soapraha.cz/d/9095/283",
@@ -13605,7 +13607,8 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
       notes: [
-        "Otec Anny Červené – „Anna, vlastní dcera Františka Kosole (?)“ (sňatek 1752; Zdice 01 O sn. 283 vlevo; M zápis, příjmení nejisté). Obec neuvedena."
+        "Otec Anny Červené – „Anna, vlastní dcera Františka Kosole (?)“ (sňatek 1752; Zdice 01 O sn. 283 vlevo; M zápis, příjmení nejisté). Obec neuvedena.",
+        "Příjmení nejspíš Kozler (Kossler) – v Knížkovicích hojný rod Kozlerů (rejstřík N Zdice 01 1744–84: Franc, Jakub, Anna, Vojtěch …); Kosol/Kosel tam není (K). Křest Anny (~1730) spadá do mezery N Žebrák 01 XII 1730 – IX 1732."
       ],
       sources: [
         "SOA Praha, Zdice 01 (9095) O, sn. 283 vlevo, pag. 14 (20. 11. 1752) – https://ebadatelna.soapraha.cz/d/9095/283"
