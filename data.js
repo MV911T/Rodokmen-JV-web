@@ -12062,7 +12062,7 @@ window.RODOKMEN = {
         "KANDIDÁTKA (K+): matka Doroty Aubrechtové. Narozena 7. 11., pokřtěna 8. 11. 1728 ve Volduchách: „Kateřina, vlastní dcera Prokopa Hanzlíka a Barbory“ (Osek 02 N str. 8, sn. 6 vlevo; M zápis, jediná v rejstříku). Rodiče: Prokop Hanzlík × Barbora (sňatek nehledán).",
         "Podruhé oddána 29. 1. 1760 ve Volduchách: „Vojtěch, vlastní syn pozůstalý po † Danielovi Nuchovi, s poctivou vdovou Kateřinou pozůstalou po † Martinovi Čádovi“; družba Václav Kermes (Osek 04 O str. 1, sn. 66 vpravo; M) – dále Nuhová (Nuchová). Úmrtí nehledáno.",
         "Úmrtí jako Nuchová není v Osek 08 Z Volduchy 1778 – VI 1788 (bez mezer, D); zbývá 1772–77 a VII 1788 – 1808.",
-        "Matka (K): Barbora, vdova po † Prokopu Hanzlíkovi, † 25. 6. 1744 Volduchy, 60 let (Osek 03 Z sn. 166 vlevo; M) → Prokop † před VI 1744."
+        "Rodiče: Prokop Hanzlík × 6. 11. 1725 Volduchy Barbora Forejtová („Prokop Hanzlík s Barborau Foregtowau“; Osek 01 O sn. 169 vlevo; M zápis, K++ ztotožnění) – matka tedy rozená Forejtová. Kandidátní křest Barbory 28. 11. 1706 Volduchy (Matěj Forejt × Kateřina; K) – ne dcera Martina × Alžběty. Barbora, vdova po † Prokopu Hanzlíkovi, † 25. 6. 1744 Volduchy, „60“ (M) – věk nesedí na *1706; Prokop Hanzlík je otcem ještě 1742 (dítě † 24. 7. 1742) a snad i 1745/1751 → možná dva Prokopové (nerozhodnuto). Křest a úmrtí Prokopa nenalezeny."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 8 (sn. 6 vlevo); Osek 03 O str. 45 (sn. 131 vpravo)"
