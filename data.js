@@ -5895,7 +5895,8 @@ window.RODOKMEN = {
         "Otec Apolonie Hrazdílkové.",
         "Manželka Terezie roz. Michálková (?) (sňatek dcery 1827).",
         "Při křtu dcery Apolonie 1788 „Schullehrer (?)“ (čtení nejisté), Hodějice č. 59; manželka Marta (1788).",
-        "KANDIDÁT otce: Tomáš Ambros, sedlák v Hodějicích († před 1772; dcery Rosina × Martin Hudeček 1772 a Anna 1777–78). Sňatek Antona s Martou ve Slavkově XI 1764 – IX 1774 nenalezen."
+        "KANDIDÁT otce: Tomáš Ambros, sedlák v Hodějicích († před 1772; dcery Rosina × Martin Hudeček 1772 a Anna 1777–78). Sňatek Antona s Martou ve Slavkově XI 1764 – IX 1774 nenalezen.",
+        "MZA N47: v Hodějicích kolem 1757–60 tři otcové Ambrosové – Tomáš, Blažej (podruh) × Anna (děti 1757, 1758) a Jiří × Rozina (syn Blažej 1760) – Antonův křest hledat v N 13121 ~1765–1772."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
@@ -8077,7 +8078,8 @@ window.RODOKMEN = {
       occ: "třičtvrtník v Křenovicích č. 35",
       notes: [
         "Otec Anny Maláčové (sňatek 1819: „Tochter nach Mathias Spačil“, č. 35). Zemřel 29. 6. 1813 (pohřben 1. 7.) v Křenovicích č. 35, 54 let, na tyfus; 19. 7. 1813 mu zemřel dvanáctidenní syn Vavřinec.",
-        "Manželka Johanna Leblová / Lebnerová (?) (křty 1788–1799). KANDIDÁT sňatku: 28. 1. 1783 Křenovice č. 4 – „Spačil Martinus, honestus juvenis, cum … Joanna filia Simeonis Lebek (?)“ – ženich zapsán jako Martin (ROZPOR jména; jiný Martin Spačil × Johanna v Křenovicích 1784–1799 neexistuje)."
+        "Manželka Johanna Leblová / Lebnerová (?) (křty 1788–1799). KANDIDÁT sňatku: 28. 1. 1783 Křenovice č. 4 – „Spačil Martinus, honestus juvenis, cum … Joanna filia Simeonis Lebek (?)“ – ženich zapsán jako Martin (ROZPOR jména; jiný Martin Spačil × Johanna v Křenovicích 1784–1799 neexistuje).",
+        "MZA N47: křest není v NOZ 13121 X 1757 – IV 1760 (věk při úmrtí → VII 1758 – VI 1759; všichni Matějové té doby mají jiné otce) → narozen nejspíš mimo faru Slavkov. Pozor: 15. 12. 1758 Martin Špalek (ne Spačil)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, Z, sign. 13149, oddíl Křenovice, str. 145, snímek 126 – https://www.mza.cz/actapublica/matrika/detail/1964",
