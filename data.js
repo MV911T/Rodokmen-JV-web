@@ -13497,7 +13497,7 @@ window.RODOKMEN = {
       notes: [
         "Z Louček; otec Anny Horáčkové – „Anna filia Georgii Mlegnek ex Lauczek“ při sňatku 1779 (O Turnov 5257 sn. 26 vpravo; M). Manželka Magdalena (křest Anny 1753; K+). Sňatek a úmrtí nehledány.",
         "Oddán 31. 10. 1751 (ex Lauczek, subd. Magno-Skall.): „Georgium filium post def. Thomam Mlegnek cum Magdalena filia post Joannem Stiaſni ex Swatoniowicz“; svědci Jan Petrův ze Jeben (?) a Anna, dcera Matěje Vilka (svědkyně i u křtu Anny 1753) (O Turnov 5256 sn. 95 vlevo, fol. 90v; M, ověřeno koordinátorem).",
-        "Jiří Mlejnek, chalupník v Loučkách č. 5, měl 1784 manželku Dorotu († II 1784, 47 let; Z 5272 sn. 43 vpravo; M) – náš Jiří po 2. sňatku (index O 5256 fol. 100: Jiří Mlejnek × Dorota Blažková), nebo jiný Jiří (K). Úmrtí Jiřího, Jana Horáčka a Kateřiny v Z Hruštice XI 1779 – IV 1784 není."
+        "Jiří Mlejnek, chalupník v Loučkách č. 5, měl 1784 manželku Dorotu († II 1784, 47 let; Z 5272 sn. 43 vpravo; M) – snad náš Jiří po 2. sňatku (K) – sňatek „Jiří Mlejnek × Dorota Blažková“ (V 1753, fol. 99v) je jiný Jiří z Kacanov (× vdova po Martinu Blažkovi; M). Další položky indexu: × Dorota Mištová (?) fol. 70, × Dorota Králová fol. 13 (?) – neověřeny. Úmrtí Jiřího, Jana Horáčka a Kateřiny v Z Hruštice XI 1779 – IV 1784 není."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 5257, sn. 26 vpravo, pag. 24, č. 9 (9. 11. 1779) – https://aron.vychodoceskearchivy.cz/apu/33f4494f-762b-4bf2-b480-f6468eee579a",
@@ -13518,7 +13518,8 @@ window.RODOKMEN = {
       spouse: "jiri_ml",
       notes: [
         "KANDIDÁTKA (K+): matka Anny (křest 16. 9. 1753 Loučky – „Anna filia Georgii Mleinek, mat. Magdalena“; N Turnov 5252 sn. 269 vlevo; M zápis).",
-        "Oddána 31. 10. 1751 jako „Magdalena filia post Joannem Stiaſni ex Swatoniowicz“ (O 5256 sn. 95 vlevo; M) – sňatek 2 roky před křtem Anny (K+). Matka snad Dorota, vdova po † Janu Šťastném ve Svatoňovicích, † 4. 5. 1765, 70 let (Z 5256 sn. 240 vpravo; K)."
+        "Oddána 31. 10. 1751 jako „Magdalena filia post Joannem Stiaſni ex Swatoniowicz“ (O 5256 sn. 95 vlevo; M) – sňatek 2 roky před křtem Anny (K+). Matka snad Dorota, vdova po † Janu Šťastném ve Svatoňovicích, † 4. 5. 1765, 70 let (Z 5256 sn. 240 vpravo; K).",
+        "Úmrtí není v Z Hruštice I 1754 – IV 1759 (Z 5256 sn. 246–254)."
       ],
       sources: [
         "SOA Zámrsk, N Turnov 5252 sn. 269 vlevo (1753)",
