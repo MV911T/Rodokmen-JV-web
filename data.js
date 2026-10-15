@@ -7859,7 +7859,9 @@ window.RODOKMEN = {
       name: "Martin Šimoník",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      b: {"date":"neznámé (asi 1756, kandidátní křest – viz poznámky)","year":1756,"approx":true,"place":"Hodějice"},
+      father: "jiri_si",
+      mother: "apolonie_si",
       spouse: "johanna_mg",
       occ: "čtvrtník v Hodějicích č. 35",
       marriage: "2. sňatek 6. 5. 1783, Hodějice – s Johannou Magkovou (?)",
@@ -7867,15 +7869,17 @@ window.RODOKMEN = {
         "Otec Magdaleny Hrabovské (sňatek 1806).",
         "Manželka Johanna (křty 1784, 1785).",
         "Podruhé oddán 6. 5. 1783 v Hodějicích (č. 52) jako vdovec s Johannou, dcerou † Antonína Magka (?) z Hodějic; svědci Pavel Hrabovský (budoucí tchán dcery Magdaleny) a Jakub Ambrosík.",
-        "KANDIDÁTI rodičů (K): Jiří, syn † Josefa Šimoníka, × 18. (I ?) 1750 Hodějice Apolonie, dcera Matěje Laníčka (O 13120 sn. 269 vlevo; M zápis). Křest Martina (~1750–1760, N 13121 sn. ~77–145) nedohledán; pozor na Josefa Šimoníka × Mariannu v Hodějicích."
+        "KANDIDÁT křtu (K+): 25. 10. 1756 Hodějice – „Martinus; Georgius Schimonik inqu[ilinus] Hodiegicio, Apollonia“; kmotři Jiří Florian, sedlák z Hodějic, a Kateřina jeho manželka (N 13121 sn. 119 vpravo; M zápis, ověřeno koordinátorem). Sourozenci (stejní rodiče a kmotři): Jakub 14. 7. 1752, Josef 27. 2. 1754 (snad Josef Šimoník × Marianna, × 1775), Jan († dítě IX 1765). Pro M chybí věk při úmrtí Martina."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959",
-        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 15 – https://www.mza.cz/actapublica/matrika/detail/1958"
+        "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 15 – https://www.mza.cz/actapublica/matrika/detail/1958",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
         {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"},
-        {"f":"img/1783_O_13136_sn15R_Simonik_Martin_x_Johanna_Magek_svedek_Pavel_Hrabovsky_offset1.jpg","t":"Sňatek Martina Šimoníka a Johanny Magkové (?), Hodějice 6. 5. 1783"}
+        {"f":"img/1783_O_13136_sn15R_Simonik_Martin_x_Johanna_Magek_svedek_Pavel_Hrabovsky_offset1.jpg","t":"Sňatek Martina Šimoníka a Johanny Magkové (?), Hodějice 6. 5. 1783"},
+        {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest 25. 10. 1756, Hodějice (kandidát)"}
       ]
     },
     {
@@ -8682,7 +8686,8 @@ window.RODOKMEN = {
       marriage: "25. 5. 1721 – s Pavlem Hrazdírkem",
       notes: [
         "Dcera Jakuba Schusty z Hodějic; oddána 25. 5. 1721 s Pavlem Hrazdírkem. Matka Martina (*1727). Úmrtí 1748–1754 ani XII 1755 – VII 1765 nenalezeno.",
-        "KANDIDÁT křtu: IV 1701 Rašovice (fara Křižanovice) – „Kateřina, otec Jakub Šusta, matka Maryna z Rašovic“; kmotři Kryštof Ježebek s manželkou Kateřinou (NOZ 12750 sn. 33 vpravo, s. 59). Jediná Kateřina Jakuba Šusty 1695–1703; v r. 1721 by jí bylo 20. Proti: zápis 1721 uvádí Jakuba „z Hodějic“, Jakub Šusta je ale doložen v sousedních Rašovicích 1696–1729 – ztotožnění D. Sourozenci: Jakub (1692, později „Jakub ml.“ † 1755), Pavel (1696), Rozina (1701), Kristián (1702)."
+        "KANDIDÁT křtu: IV 1701 Rašovice (fara Křižanovice) – „Kateřina, otec Jakub Šusta, matka Maryna z Rašovic“; kmotři Kryštof Ježebek s manželkou Kateřinou (NOZ 12750 sn. 33 vpravo, s. 59). Jediná Kateřina Jakuba Šusty 1695–1703; v r. 1721 by jí bylo 20. Proti: zápis 1721 uvádí Jakuba „z Hodějic“, Jakub Šusta je ale doložen v sousedních Rašovicích 1696–1729 – ztotožnění D. Sourozenci: Jakub (1692, později „Jakub ml.“ † 1755), Pavel (1696), Rozina (1701), Kristián (1702).",
+        "KANDIDÁT úmrtí (K+): 3. 6. 1766 Hodějice – „Catharina post †† Hrazdilek vidua“, 80 let (Z 13121 sn. 446 vpravo; M zápis); ROZPOR věku (80 → *~1686 proti odhadu ~1695–1701). Znovu se v l. 1747–1751 neprovdala (MZA N24)."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
@@ -12543,6 +12548,45 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1732_N_Holub_Simon_Osek.jpg","t":"Křest syna Šimona, Osek 1732"}
+      ]
+    },
+    {
+      id: "jiri_si",
+      name: "Jiří Šimoník",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true,"place":"Hodějice"},
+      spouse: "apolonie_si",
+      marriage: "18. 1. 1750, Hodějice – s Apolonií Láníčkovou",
+      notes: [
+        "KANDIDÁT (K+): otec Martina Šimoníka (*25. 10. 1756). Syn † Josefa Šimoníka; × 18. (I) 1750 Hodějice „honesta puella Apollonia filia Mathiae Lanižek, utrique Hodiegicio“; svědci Josef Masnička (?) a Josef Majek (O 13120 sn. 269 vlevo; M zápis). 1752–1756 podruh (1754 sedlák ?) v Hodějicích; děti Jakub 1752, Josef 1754, Martin 1756, Jan († 1765). Úmrtí nehledáno (Z 13121 od sn. 447)."
+      ],
+      sources: [
+        "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948"
+      ],
+      scans: [
+        {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest syna Martina, Hodějice 1756"}
+      ]
+    },
+    {
+      id: "apolonie_si",
+      name: "Apolonie Šimoníková",
+      maiden: "Láníčková",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true,"place":"Hodějice"},
+      spouse: "jiri_si",
+      marriage: "18. 1. 1750, Hodějice – s Jiřím Šimoníkem",
+      notes: [
+        "KANDIDÁTKA (K+): matka Martina Šimoníka; dcera Matěje Láníčka z Hodějic (O 13120 sn. 269 vlevo). Vztah k Láníčkům z linie Hrabovských (Pavel Láníček *~1745) neověřen – možný implex."
+      ],
+      sources: [
+        "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948"
+      ],
+      scans: [
+        {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest syna Martina, Hodějice 1756"}
       ]
     }
   ]
