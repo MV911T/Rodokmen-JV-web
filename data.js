@@ -2466,7 +2466,8 @@ window.RODOKMEN = {
       notes: [
         "Dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily; při sňatku 1835 22 let. Rodné příjmení matky Ludmily: 1835 „Šimonová (?)“, 1836 „Lhotková (?)“ – ROZPOR / nejisté čtení.",
         "KANDIDÁT / ROZPOR: v indexu narozených Mezilesí 1808–1816 není manželská Marie Václava a Ludmily Karafiátových; jsou tam dvě nemanželské Marie Karafiátové – *5. 10. 1809 (č. 2) a *8. 8. 1813 (č. 34), obě dcery Alžběty, dcery Šimona Karafiáta, šenkýře z Mezilesí (Lukavec 5370 pag. 49; 5371 fol. 3). Nevěsta 1835 (22 let) může být Marie *1813 – nebo se narodila po 1816. Nerozhodnuto.",
-        "KANDIDÁT: manželská Marie Václava a Ludmily se narodila až 1825 (v roce 1835 by jí bylo 10) – nevěstou Jana Michala 1835 je tedy nejspíš Marie *8. 8. 1813 (Mezilesí č. 34), nemanželská dcera Alžběty Karafiátové, dcery šenkýře Šimona Karafiáta. Zápis 1835 jako otce uvádí Václava Karafiáta – možná nevlastní otec nebo strýc."
+        "KANDIDÁT: manželská Marie Václava a Ludmily se narodila až 1825 (v roce 1835 by jí bylo 10) – nevěstou Jana Michala 1835 je tedy nejspíš Marie *8. 8. 1813 (Mezilesí č. 34), nemanželská dcera Alžběty Karafiátové, dcery šenkýře Šimona Karafiáta. Zápis 1835 jako otce uvádí Václava Karafiáta – možná nevlastní otec nebo strýc.",
+        "Třeboň N19: nemanželská Marie *5. 10. 1809 (dcera Alžběty Karafiátové) zemřela 12. 2. 1810, ¼ roku (Z Lukavec 5381 sn. 131 vlevo, pag. 16; M) → jako nevěsta 1835 zbývá jen Marie nar. 8. 8. 1813 (č. 34, nemanž. dcera Alžběty) nebo dosud nenalezená manželská Marie Václava × Ludmily 1811–1813 (N 5370 sn. 31–33, 5371 sn. 3 nepřečteny – blokace). Sestra Magdalena, dcera Václava × Ludmily, pokřtěna 25. 3. 1811 (5370 sn. 30 vpravo; M). Strukturu (otec Václav × Ludmila) zatím ponechávám – podle sňatku 1835 a křtu dcery 1836."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -3470,7 +3471,8 @@ window.RODOKMEN = {
         "Šenkýř v Mezilesí č. 2 (křest syna Františka Serafína 19. 8. 1813); manželka Ludmila, dcera Pavla Lhotka, mlynáře z „Holzburger“ mlýna (?), a Terezie roz. Hamannové (?).",
         "Oddán poprvé 1805 v Mezilesí (20 let, šenkýř) s Johannou (?), podruhé jako vdovec 24. 11. 1808 v Salačově Lhotě č. 24 (28 let) s Ludmilou „Lhotkin“ (23 let) – Lukavec O 5378, sn. 101 a 118. ROZPOR ve věku (1805: 20, 1808: 28). Manželské děti dle indexu: Johann a Václav 1819 (s Ludmilou), Marie 1825, Kristýna 1829, Vilém 1831 (matka po † Ludmily 1821 nejspíš Josefa – ověřit).",
         "Zemřel 20. 4. 1852 ve 3 hod. odpoledne v Mezilesí č. 2 (pohřben 22. 4., kaplan Václav Roubal, farář P. Joannes Wrbický): „Václav Karafiát, šenkýř“, 75 let, souchotiny (M). ROZPOR věku: 75 (→ ~1777) × sňatky 1805 (20 let) a 1808 (28 let).",
-        "Další manželka: Josefa, roz. Studničková (?), † 11. 11. 1849 v Mezilesí č. 2 jako „manželka Wáclawa Karafiáta šenkýře“, 50 let, zánět plic (Z Lukavec 5383, sn. 17 vpravo, pag. 29; M) – Ludmila zemřela VIII 1821 (pád z půdy; M) a Václav se znovu oženil (sňatek s Josefou ~1822–1825 nehledán)."
+        "Další manželka: Josefa, roz. Studničková (?), † 11. 11. 1849 v Mezilesí č. 2 jako „manželka Wáclawa Karafiáta šenkýře“, 50 let, zánět plic (Z Lukavec 5383, sn. 17 vpravo, pag. 29; M) – Ludmila zemřela VIII 1821 (pád z půdy; M) a Václav se znovu oženil (sňatek s Josefou ~1822–1825 nehledán).",
+        "Šimon Karafiát, šenkýř, Mezilesí 2, † 24. 2. 1810, 91 (?) let (Z Lukavec 5381 sn. 131 vlevo; M) → *~1719 – spíš děd než otec Václava (K)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -9154,7 +9156,8 @@ window.RODOKMEN = {
       notes: [
         "Manželka mlynáře Pavla Lhotka, rovněž z „Holzburger“ mlýna (?); matka Ludmily Karafiátové.",
         "Zemřela 14. 3. 1836 v 7 hod. večer (pohřbena 16. 3.) v Salačově Lhotě č. 24 („Holzbürg“): „Terezie, vdova po † Pavlovi Lhotkovi, svobodníku z Lhoty“, 72 let (Z 5381 pag. 30, sn. 179 vlevo; M, ověřeno) → *~1764. Úmrtní list vydán 20. 8. 1858 pro soudní řízení.",
-        "ROZPOR věku: † 1836 ve 72 letech (→ *~1764) × dcera Ludmila *~1774 (věk 47 při † 1821) – Terezii by bylo ~10 let. Buď je věk v úmrtním zápisu podhodnocen, nebo je Ludmila z 1. manželství Pavla Lhotky (křty vnoučat 1813/1819 ale uvádějí matku Ludmily „Theresia gebohrne Hamann (?)“). Nerozhodnuto."
+        "ROZPOR věku: † 1836 ve 72 letech (→ *~1764) × dcera Ludmila *~1774 (věk 47 při † 1821) – Terezii by bylo ~10 let. Buď je věk v úmrtním zápisu podhodnocen, nebo je Ludmila z 1. manželství Pavla Lhotky (křty vnoučat 1813/1819 ale uvádějí matku Ludmily „Theresia gebohrne Hamann (?)“). Nerozhodnuto.",
+        "Při křtu vnučky Magdaleny 1811: „Theresia gebohrne Holzburger (?)“ (5370 sn. 30 vpravo; čtení nejisté, dříve „Hamann ?“)."
       ],
       sources: [
         "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371",
