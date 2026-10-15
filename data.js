@@ -6287,7 +6287,8 @@ window.RODOKMEN = {
       spouse: "magdalena_tr",
       occ: "sedlák v Oseku č. 83",
       notes: [
-        "Otec Šimona Trgjka. Zemřel (pohřben ?) 1. 9. 1772 v Oseku č. 83 jako sedlák, 50 let (farář Franz Engelthaler)."
+        "Otec Šimona Trgjka. Zemřel (pohřben ?) 1. 9. 1772 v Oseku č. 83 jako sedlák, 50 let (farář Franz Engelthaler).",
+        "KANDIDÁTI křtu (K): (a) 19. 7. 1718 Osek – Jakub, syn Václava Brgjka [Trgjka] × Kateřiny (Osek 01 N sn. 84 vpravo; M) – Osek sedí s bydlištěm č. 83, věk 54 (ne 50); (b) 9. 1. 1723 Volduchy – Jakub, syn Jana Brgjka × Kateřiny (sn. 106 vpravo; M) – věk 50 sedí přesně. Nerozhodnuto; rozhodne sňatek Jakuba × Magdaleny (Osek 03 O ~1740–1756) nebo dětské úmrtí jednoho z nich."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
@@ -11323,7 +11324,8 @@ window.RODOKMEN = {
         "Z Volduch; otec Josefa Trgjka – oddací zápis syna 22. 11. 1757: „Jozef, vlastní syn Jana Begjka [= Trgjka] z Wolduch“ (M). Datum narození je odhad.",
         "Manželka Barbora – oddáni 5. 11. 1719 (z Volduch): „Jan Brgjk [Trgjk] s poctivou děvečkou Barborou Grbkovou (?)“; družba František Hol[ub ?] (Osek 01 O sn. 163 vpravo; M, nativně ověřeno agentem; rodiče snoubenců neuvedeni) → Jan *spíš ~1690–1698.",
         "Děti s Barborou ve Volduchách (Osek 02 N, M): Kateřina Anna (25. 2. 1730), Lucie (1. 10. 1732), Josef (10. 1. 1734, K+), Lidmila Barbora (29. 11. 1736). Sňatek v O Osek 1725 – VII 1730 není (ve Volduchách žilo 4–5 rodin Trgjků).",
-        "Pozor: Václav Trgjk × 30. 1. 1723 Kateřina Forgtková (Forejtová ?) (Osek 01 O sn. 166 vpravo; M) – děti „Jana Brgjka a Kateřiny“ 1725 (Václav) a 1726 (Ludmila) patří nejspíš Václavovi (záměna jména otce) – ne Janovi × Barboře (K). Dítě Jana Brgjka † 3. 12. 1724 (Osek 01 Z sn. 188 vlevo)."
+        "Pozor: ve Volduchách žili současně dva Janové Trgjkové – Jan × Barbora (tento) a Jan × Kateřina (syn Jakub 9. 1. 1723, Václav 1725, Ludmila 1726); Václav Trgjk × 30. 1. 1723 Kateřina Forgtková (?) je třetí rodina (Osek 01 N sn. 106 vpravo; O sn. 166 vpravo; M). Dřívější výklad „záměna jména otce“ opuštěn.",
+        "Další děti s Barborou (Osek 01 N; M): Josef ~IX–XII 1720 (sn. 96 vlevo, měsíc ?), Bartoloměj 4. 7. 1722 (sn. 103 vlevo), Rosalie ~1727 (sn. 129 vpravo; D)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o",
