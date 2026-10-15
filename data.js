@@ -3260,7 +3260,8 @@ window.RODOKMEN = {
         "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Syn Jan žil v Jetřichovci (č. 10) už 1816–1819 – úmrtí 1828 (č. 27, 60 let) a 1833 (Terezie, č. 42, 60 let) tak patří nejspíš Janovým rodičům; číslo 22 zatím nedoloženo.",
         "Vyloučeno: „Martin Votava, jehlář v Lukavci č. 71“ (děti 1794–1804) je ve skutečnosti Martin Vokoun (Wokoun) – jiná rodina. Údaj „bývalý chalupník z Lstůh / Letůh (?)“ a „Terezie roz. Martina Marody též z Lstůh (?)“ pochází z 2. sňatku syna Jana (Těchobuz 6. 2. 1844) a patří tedy Votavům – obec neurčena (snad „z Luhů“ ?).",
         "KANDIDÁTI rodičů (K): Tomáš Votava, výminkář v Cetuli č. 4, a Magdalena († 13. 11. 1807 Cetule č. 4, 66 (?) let – „Magdalena manž. Tomáše Wotawy, wejminkáře“; Z 8206, sn. 26 vlevo; M zápis, příjmení ověřeno srovnáním písmene W). V č. 4 hospodařil Jan Votava (× Magdalena Dajzová) – snad Martinův bratr. Vazba nedoložena. Úmrtí Tomáše v Z 8206 do 1821 není. Jan Wotawa, sedlák v č. 4, × Rozalie Ma…ová (?) (křest dcery Magdaleny 1802).",
-        "Jan Wotawa z Cetule č. 4 (snad mladší bratr, K) se 20. 1. 1801 oženil podruhé – vdovec, 27 let (→ *~1774), s Rozárou Mazinec (?) (8197 sn. 4 vpravo; M); formulář rodiče neuvádí."
+        "Jan Wotawa z Cetule č. 4 (snad mladší bratr, K) se 20. 1. 1801 oženil podruhé – vdovec, 27 let (→ *~1774), s Rozárou Mazinec (?) (8197 sn. 4 vpravo; M); formulář rodiče neuvádí.",
+        "KANDIDÁT (K) na matku: Anna, † 24. 11. 1818 Jetřichovec č. 10 (dům Jana a Kateřiny 1816–19), 70 let, „manželka Jana Wotka (?)“ s pozdější vložkou „Wottawa (?)“ (6239 sn. 114 vlevo) – konkuruje kandidátům Tomáš × Magdalena z Cetule. Před 1815 v Jetřichovci žádný Votava (index N 6256)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -9035,7 +9036,8 @@ window.RODOKMEN = {
       spouse: "pavel_lh",
       notes: [
         "Manželka mlynáře Pavla Lhotka, rovněž z „Holzburger“ mlýna (?); matka Ludmily Karafiátové.",
-        "Zemřela 14. 3. 1836 v 7 hod. večer (pohřbena 16. 3.) v Salačově Lhotě č. 24 („Holzbürg“): „Terezie, vdova po † Pavlovi Lhotkovi, svobodníku z Lhoty“, 72 let (Z 5381 pag. 30, sn. 179 vlevo; M, ověřeno) → *~1764. Úmrtní list vydán 20. 8. 1858 pro soudní řízení."
+        "Zemřela 14. 3. 1836 v 7 hod. večer (pohřbena 16. 3.) v Salačově Lhotě č. 24 („Holzbürg“): „Terezie, vdova po † Pavlovi Lhotkovi, svobodníku z Lhoty“, 72 let (Z 5381 pag. 30, sn. 179 vlevo; M, ověřeno) → *~1764. Úmrtní list vydán 20. 8. 1858 pro soudní řízení.",
+        "ROZPOR věku: † 1836 ve 72 letech (→ *~1764) × dcera Ludmila *~1774 (věk 47 při † 1821) – Terezii by bylo ~10 let. Buď je věk v úmrtním zápisu podhodnocen, nebo je Ludmila z 1. manželství Pavla Lhotky (křty vnoučat 1813/1819 ale uvádějí matku Ludmily „Theresia gebohrne Hamann (?)“). Nerozhodnuto."
       ],
       sources: [
         "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371",
