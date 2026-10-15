@@ -13489,7 +13489,8 @@ window.RODOKMEN = {
       marriage: "31. 10. 1751, Turnov (z Louček) – s Magdalenou Šťastnou (?) ze Svatoňovic",
       notes: [
         "Z Louček; otec Anny Horáčkové – „Anna filia Georgii Mlegnek ex Lauczek“ při sňatku 1779 (O Turnov 5257 sn. 26 vpravo; M). Manželka Magdalena (křest Anny 1753; K+). Sňatek a úmrtí nehledány.",
-        "Oddán 31. 10. 1751 (ex Lauczek, subd. Magno-Skall.): „Georgium filium post def. Thomam Mlegnek cum Magdalena filia post Joannem Stiaſni ex Swatoniowicz“; svědci Jan Petrův ze Jeben (?) a Anna, dcera Matěje Vilka (svědkyně i u křtu Anny 1753) (O Turnov 5256 sn. 95 vlevo, fol. 90v; M, ověřeno koordinátorem)."
+        "Oddán 31. 10. 1751 (ex Lauczek, subd. Magno-Skall.): „Georgium filium post def. Thomam Mlegnek cum Magdalena filia post Joannem Stiaſni ex Swatoniowicz“; svědci Jan Petrův ze Jeben (?) a Anna, dcera Matěje Vilka (svědkyně i u křtu Anny 1753) (O Turnov 5256 sn. 95 vlevo, fol. 90v; M, ověřeno koordinátorem).",
+        "Jiří Mlejnek, chalupník v Loučkách č. 5, měl 1784 manželku Dorotu († II 1784, 47 let; Z 5272 sn. 43 vpravo; M) – náš Jiří po 2. sňatku (index O 5256 fol. 100: Jiří Mlejnek × Dorota Blažková), nebo jiný Jiří (K). Úmrtí Jiřího, Jana Horáčka a Kateřiny v Z Hruštice XI 1779 – IV 1784 není."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 5257, sn. 26 vpravo, pag. 24, č. 9 (9. 11. 1779) – https://aron.vychodoceskearchivy.cz/apu/33f4494f-762b-4bf2-b480-f6468eee579a",
@@ -13528,7 +13529,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true,"place":"Loučky (?)"},
       d: {"date":"před 31. 10. 1751","year":1751,"approx":true},
       notes: [
-        "KANDIDÁT (K+): otec Jiřího Mlejnka – „Georgium filium post def. Thomam Mlegnek“ (1751; O 5256 sn. 95 vlevo; M). Snad × Alžběta Adamičková (?) ~1740 (index O 5256 fol. 30; neověřeno)."
+        "KANDIDÁT (K+): otec Jiřího Mlejnka – „Georgium filium post def. Thomam Mlegnek“ (1751; O 5256 sn. 95 vlevo; M). Snad × Alžběta Adamičková (?) ~1740 (index O 5256 fol. 30; neověřeno).",
+        "Jako vdovec oddán 3. (?) IX 1740 Turnov s Alžbětou Adamičkovou (O 5256 sn. 33 vpravo, fol. 30; M) → Jiří (*~1720–30) spíš z 1. manželství; Alžběta = nevlastní matka (K)."
       ],
       sources: [
         "SOA Zámrsk, O Turnov 5256, sn. 95 vlevo, fol. 90v (31. 10. 1751)"
