@@ -12475,7 +12475,8 @@ window.RODOKMEN = {
         "Jan Bečka a „Magdalena uxor Joannis Beczka ex pago Mokrý“ jsou kmotry v Mokrém ~1740–1744 (N Všeň 5286 sn. 169–192; M). Dorota, „vlastní dcera Jana Bečky z Mokrého“ (× X 1739) je spíš dcera Jana st. (sestra Jana ml., K).",
         "Oddán 11. 10. 1733 ve Všeni: „poctivý mládenec Jan, syn Jana Bečky ze vsi Mokrého, s poctivou děvečkou Mandalenou, vlastní dcerou Jana Janků ze Všeně“; svědci Jan …, Jakub Čížek (?) v Mokrém, P. Erasmus Wag… (O Všeň 5291 sn. 37 vpravo, pag. 63; M, ověřeno koordinátorem). Otec Jan Bečka st. z Mokrého.",
         "Děti v Mokrém (N Všeň 5286; M): Kateřina (10. 10. 1735, sn. 138 vlevo), Jan (28. 11. 1737, sn. 151 vlevo; snad ženich 1765), Filip Jakub (28. 4. 1740); Magdalena kmotrou 25. 12. 1734 (sn. 132 vpravo).",
-        "Otec Jan Bečka st. z Mokrého pohřben 9. 11. 1743 ve Všeni, 75 let (→ *~1668) (Z Všeň 5294 sn. 117 vpravo; M zápis, K+). Syn Matěj (*~1744) † 8. 8. 1748, 4 roky (sn. 138 vlevo; K). Úmrtí Jana ml. a Magdaleny v Z Všeň 1743–1761 není."
+        "Otec Jan Bečka st. z Mokrého pohřben 9. 11. 1743 ve Všeni, 75 let (→ *~1668) (Z Všeň 5294 sn. 117 vpravo; M zápis, K+). Syn Matěj (*~1744) † 8. 8. 1748, 4 roky (sn. 138 vlevo; K). Úmrtí Jana ml. a Magdaleny v Z Všeň 1743–1761 není.",
+        "Matka nejspíš Magdalena: 30. 1. 1713 kmotra „Magdalena, manželka Jana Bečky (?) z Mokrého“ (N Všeň 5286 sn. 14 vlevo; M zápis, K ztotožnění). Křest Jana ml. ani Magdaleny Janků v N 5286 I 1710 – VII 1713 není (střední negativ) → Jan spíš *před 1710 (N 5285)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 168 vpravo, pag. 303 (28. 4. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1",
