@@ -7191,7 +7191,8 @@ window.RODOKMEN = {
         {"f":"img/1814_oddani_martin_lodl_anna_vdova_prokopa_laukoty_osek07_sn23_nativ.jpg","t":"Sňatek Martina Lodla a Anny, vdovy po Prokopu Laukotovi, Osek 9. 9. 1814"},
         {"f":"img/1774_krest_anna_holubova_otec_simon_holub_chalupnik_osek85_osek05_sn6.jpg","t":"Křest Anny Holubové, Osek 13. (?) 6. 1774"},
         {"f":"img/1853_Z_Lodlova_Anna_Volduchy.jpg","t":"Úmrtí 6. 6. 1853, Volduchy č. 154"},
-        {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí matky Kateřiny Holubové, Osek 1793"}
+        {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí matky Kateřiny Holubové, Osek 1793"},
+        {"f":"img/1803_Z_Holub_Simon_Osek85.jpg","t":"Úmrtí otce Šimona Holuba, Osek 1803"}
       ]
     },
     {
@@ -7442,7 +7443,9 @@ window.RODOKMEN = {
       name: "Šimon Holub",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      b: {"date":"neznámé (asi 1732–1734)","year":1733,"approx":true},
+      d: {"date":"27. 11. 1803","year":1803,"place":"Osek u Rokycan č. p. 85"},
+      cause: "Brand (sněť ?)",
       father: "kaspar_hl",
       spouse: "katerina_hb",
       occ: "chalupník v Oseku (č. 85 v r. 1774, č. 83 v r. 1814)",
@@ -7451,18 +7454,21 @@ window.RODOKMEN = {
         "Oddán 13. 2. 1763 v Oseku: „Simon superstes filius post defunctum Casparum Holub ex pago Wossek, cum honesta vidua post defunctum Jacobum Gyšt (?) Catharina“; svědci Matěj Aubrecht, Jan Košař (?) a Anna Košařová (?).",
         "Chalupník (subrusticus) v Oseku č. 85 – křest syna Kašpara 21. 6. 1771 (kmotr hrabě Kašpar ze Šternberka); otec Anny (*1774, provdaná Laukotová, pak Lodlová). Pozor: v Oseku žil i pár Mikuláš Holub × Kateřina.",
         "KANDIDÁT křtu: Kašparovi Holubovi se narodili dva Šimonové – 4. 10. 1732 (matka Ludmila; Osek 02 sn. 23) a 13. 10. 1746 (matka Kateřina; Osek 03 sn. 33); který se ženil 1763, zatím nerozhodnuto.",
-        "Úmrtí zatím nenalezeno. Šimon Holub, podruh, † 27. 3. 1805 Osek č. 108, 64 let, a Barbora, manželka † Šimona Holuby, † 18. 1. 1808 č. 108, 58 let (Osek 08 Z str. 62, 68; M) – spíš druhý Šimon (z č. 73), ne náš (manželka Kateřina † 1793 v č. 85, nový sňatek v Oseku VII 1793 – II 1803 není). Č. 85 v l. 1801–1810 drží Jindřich Holub (snad syn)."
+        "Šimon Holub, podruh, † 27. 3. 1805 Osek č. 108, 64 let, a Barbora, manželka † Šimona Holuby, † 18. 1. 1808 č. 108, 58 let (Osek 08 Z str. 62, 68; M) – spíš druhý Šimon (z č. 73), ne náš (manželka Kateřina † 1793 v č. 85, nový sňatek v Oseku VII 1793 – II 1803 není). Č. 85 v l. 1801–1810 drží Jindřich Holub (snad syn).",
+        "Zemřel 27. 11. 1803 v Oseku č. 85: „Simon Holub, Chalupner“, 69 (?) let, Brand (Osek 08 Z str. 59, sn. 34 vpravo; M, ověřeno koordinátorem) → *~1734 – podporuje kandidátní křest 4. 10. 1732 (matka Ludmila) proti 1746. Jindřich Holub (č. 85 od 1801) je syn Adama Holuba × Anny (*1761) – ne Šimonův syn."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n",
         "SOA Plzeň, fara Osek, Osek 04 (O), snímek 75 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_0750-o",
-        "SOA Plzeň, fara Osek, Osek 04 (N), snímek 40 vlevo (křest syna Kašpara 21. 6. 1771, Osek 85) – https://www.portafontium.eu/iipimage/30066670/osek-04_0400-n"
+        "SOA Plzeň, fara Osek, Osek 04 (N), snímek 40 vlevo (křest syna Kašpara 21. 6. 1771, Osek 85) – https://www.portafontium.eu/iipimage/30066670/osek-04_0400-n",
+        "SOA Plzeň, Osek 08 Z str. 59, sn. 34 vpravo – https://www.portafontium.eu/iipimage/30066674/osek-08_0340-z"
       ],
       scans: [
         {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
         {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"},
-        {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí manželky Kateřiny, Osek 1793"}
+        {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí manželky Kateřiny, Osek 1793"},
+        {"f":"img/1803_Z_Holub_Simon_Osek85.jpg","t":"Úmrtí 27. 11. 1803, Osek č. 85"}
       ]
     },
     {
