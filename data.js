@@ -12343,7 +12343,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁT (K+): otec Filipa Bečky – křest 28. 4. 1740 Mokré (N Všeň 5286 sn. 168 vpravo; M zápis). Snad i otec Jana Bečky ml. z Mokrého (× 29. 10. 1765 Dorota Bursová, „filius Joannis Beczka“; O 5291 sn. 109).",
         "Jan Bečka a „Magdalena uxor Joannis Beczka ex pago Mokrý“ jsou kmotry v Mokrém ~1740–1744 (N Všeň 5286 sn. 169–192; M). Dorota, „vlastní dcera Jana Bečky z Mokrého“ (× X 1739) je spíš dcera Jana st. (sestra Jana ml., K).",
-        "Oddán 11. 10. 1733 ve Všeni: „poctivý mládenec Jan, syn Jana Bečky ze vsi Mokrého, s poctivou děvečkou Mandalenou, vlastní dcerou Jana Janků ze Všeně“; svědci Jan …, Jakub Čížek (?) v Mokrém, P. Erasmus Wag… (O Všeň 5291 sn. 37 vpravo, pag. 63; M, ověřeno koordinátorem). Otec Jan Bečka st. z Mokrého."
+        "Oddán 11. 10. 1733 ve Všeni: „poctivý mládenec Jan, syn Jana Bečky ze vsi Mokrého, s poctivou děvečkou Mandalenou, vlastní dcerou Jana Janků ze Všeně“; svědci Jan …, Jakub Čížek (?) v Mokrém, P. Erasmus Wag… (O Všeň 5291 sn. 37 vpravo, pag. 63; M, ověřeno koordinátorem). Otec Jan Bečka st. z Mokrého.",
+        "Děti v Mokrém (N Všeň 5286; M): Kateřina (10. 10. 1735, sn. 138 vlevo), Jan (28. 11. 1737, sn. 151 vlevo; snad ženich 1765), Filip Jakub (28. 4. 1740); Magdalena kmotrou 25. 12. 1734 (sn. 132 vpravo)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 168 vpravo, pag. 303 (28. 4. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1",
@@ -12365,7 +12366,8 @@ window.RODOKMEN = {
       marriage: "11. 10. 1733, Všeň – s Janem Bečkou",
       notes: [
         "KANDIDÁTKA (K+): matka Filipa Bečky (viz Jan Bečka). Rodné příjmení neuvedeno.",
-        "Oddána 11. 10. 1733 ve Všeni jako „vlastní dcera Jana Janků ze Všeně“ (O 5291 sn. 37 vpravo; M, ověřeno)."
+        "Oddána 11. 10. 1733 ve Všeni jako „vlastní dcera Jana Janků ze Všeně“ (O 5291 sn. 37 vpravo; M, ověřeno).",
+        "Děti v Mokrém (N Všeň 5286; M): Kateřina (10. 10. 1735, sn. 138 vlevo), Jan (28. 11. 1737, sn. 151 vlevo; snad ženich 1765), Filip Jakub (28. 4. 1740); Magdalena kmotrou 25. 12. 1734 (sn. 132 vpravo)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 168 vpravo, pag. 303 (28. 4. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1",
