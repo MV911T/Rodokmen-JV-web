@@ -12836,6 +12836,8 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1683)","year":1683,"approx":true,"place":"Zdice"},
       d: {"date":"2. 3. 1755","year":1755,"place":"Zdice"},
+      father: "krystof_mh",
+      mother: "anna_mh000",
       spouse: "anna_mh00",
       notes: [
         "Ze Zdic; otec Víta Merhauta – „Vít, vlastní syn Václava Merhauta ze Zdic“ při sňatku 31. 10. 1741 (Žebrák 01 O sn. 253 vpravo; M). Při sňatku syna žil (bez „†“). Křest Víta (~1719–22) a sňatek Václava hledat v Žebrák 01 (9695).",
@@ -12844,15 +12846,17 @@ window.RODOKMEN = {
         "Další dítě s Annou: Václav 12. 12. 1717 Zdice („z otce Václava Merhauta ze Zdic, z matky Anny“; Žebrák 01 N sn. 51 vlevo; M) – sňatek Václava × Anny tedy před 1717.",
         "Anna, manželka Václava Merhauta ze Zdic, kmotrou již 3. 12. 1713 (Žebrák 01 N sn. 44 vlevo; M) → sňatek před XII 1713 (O 1708–1715 bez něj; snad 1707 nebo dříve, Žebrák 02). Starší Václav Merhout ze Zdic † před XI 1711 (sn. 259 vlevo; K – snad otec).",
         "Sňatek s Annou není v zdické faře 1697–1715 (Žebrák 02 O VII 1697 – XI 1708, Žebrák 01 O 1708–1715) → nejspíš v jiné faře (Hořovice, Králův Dvůr, Beroun ?).",
-        "Křest (*~1683) v Žebrák 02 N sn. 31–60 (~1681–1688; zdické zápisy čteny jen začátky) nenalezen – střední negativ. Ve Zdicích tehdy Jakub Merhaut × Kateřina (děti Dorota ~1685/86, Bartoloměj ~1687; sn. 48 vlevo, 57 vpravo; M) – možní rodiče (K−)."
+        "KANDIDÁT křtu (K+): 1. 7. 1687 Zdice – „pokřtěn Waczlaw, Kryštoffa Merhauta, souseda, a Anny manželův; kmotr Jan Bedřanský (?), svědkové Matouš Lapek (?) a paní Dorota Brandová (?), všichni Zdičtí“ (Žebrák 02 N sn. 61 vpravo, fol. 72; M, ověřeno koordinátorem; rok z hlavičky „A° 1687“ na sn. 58 vpravo). Věk 72 při úmrtí 1755 je nadsazen (skutečně 67); jiný Václav Merhaut ze Zdic ~1680–1690 nenalezen. Ve Zdicích tehdy i Jakub Merhaut × Kateřina a Jan Merhaut (syn Matěj × I 1687 Kateřina Hejnová ?)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253",
-        "SOA Praha, Zdice 01 Z, sn. 204 vpravo (1755) – https://ebadatelna.soapraha.cz/d/9095/204"
+        "SOA Praha, Zdice 01 Z, sn. 204 vpravo (1755) – https://ebadatelna.soapraha.cz/d/9095/204",
+        "SOA Praha, Žebrák 02 (9731) N, sn. 61 vpravo, fol. 72 (1. 7. 1687), https://ebadatelna.soapraha.cz/d/9731/61"
       ],
       scans: [
         {"f":"img/1741_O_Merhaut_Vit_Smidova_Anna_Zdice.jpg","t":"Sňatek syna Víta, Zdice 1741"},
-        {"f":"img/1720_N_Merhaut_Vit_Zdice.jpg","t":"Křest syna Víta, Zdice 1720"}
+        {"f":"img/1720_N_Merhaut_Vit_Zdice.jpg","t":"Křest syna Víta, Zdice 1720"},
+        {"f":"img/1687_krest_vaclav_merhaut.jpg","t":"Křest 1. 7. 1687, Zdice (kandidát)"}
       ]
     },
     {
@@ -12952,7 +12956,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁT (K+): otec Anny Aubrechtové – při jejím sňatku 28. 10. 1732 „vlastní dcera Šimona Gocha (?) z Volduch“ (Osek 02 O sn. 69 vpravo). Oddán 11. 5. 1708 v Oseku: „Simon Gech ex Wossek cum Ludmilla Swogdowa (?) ex pago Wossek“; svědci Matěj Wagner a Anna Latková (?) (Osek 01 O sn. 153 vlevo; M zápis). Děti: Vojtěch 23. 4. 1711 (sn. 56 vpravo), Šimon 26. 10. 1714 (sn. 69 vlevo); Anna 17. 6. 1708 (sn. 48 vlevo). Příjmení kolísá Goch / Gech / Gocha (?).",
         "Žil 28. 10. 1732 (sňatek dcery bez „†“). Po 1714 další děti v Osek 01 N do V 1722 nejsou; Úmrtí není v Osek 03 Z XII 1744 – 1759 ani v rejstříku Osek 04 Z; zbývá Osek 02 Z XI 1732 – 1739 a Osek 03 Z 1740–44.",
-        "Úmrtí není v Osek Z 1732–1777 (Osek 02 Z XI 1732–1739 D-negativ, husté roky 1736–39 s výhradou; Osek 03 Z 1740–1759 souvisle negativní) → zemřel nejspíš mimo faru."
+        "Úmrtí není v Osek Z 1732–1777 (Osek 02 Z XI 1732–1739 D-negativ, husté roky 1736–39 s výhradou; Osek 03 Z 1740–1759 souvisle negativní) → zemřel nejspíš mimo faru.",
+        "Plzeň N79: oddací zápis 11. 5. 1708 znovu přečten – „Simon Gech (ex Wossek) cum Ludmilla Swogdowa (Svojdová ?) ex pago Wossek“, svědci Matěj Wagner a Anna Latková (?); otcové snoubenců neuvedeni (Osek 01 O sn. 153 vlevo; M). Úmrtí Šimona není v Osek 02 Z I 1728 – 1739, Osek 03 Z 1740–59 ani v rejstříku Osek 04 Z (1760–77) → nejspíš † X 1714 – XI 1727 (Osek 01 Z, dosud nečteno)."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O, sn. 153 vlevo (11. 5. 1708) – https://www.portafontium.eu/iipimage/30066667/osek-01_1531-o",
@@ -13710,6 +13715,40 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1742_krest_katerina_kucerova.jpg","t":"Křest dcery Kateřiny, 1742"}
+      ]
+    },
+    {
+      id: "krystof_mh",
+      name: "Kryštof Merhaut",
+      line: "merhaut",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1655)","year":1655,"approx":true,"place":"Zdice (?)"},
+      notes: [
+        "KANDIDÁT (K+): otec Václava Merhauta – křest 1. 7. 1687 Zdice „Waczlaw, Kryštoffa Merhauta, souseda, a Anny manželův“ (Žebrák 02 N sn. 61 vpravo; M). Soused (usedlík) ve Zdicích.",
+        "Sňatek s Annou není v Žebrák 02 O IX 1684 – V 1687 (střední negativ; V–IX 1686 v knize chybí); hledat před IX 1684 (sn. ~430–436). Úmrtí nehledáno."
+      ],
+      sources: [
+        "SOA Praha, Žebrák 02 (9731) N, sn. 61 vpravo, fol. 72 (1. 7. 1687), https://ebadatelna.soapraha.cz/d/9731/61"
+      ],
+      scans: [
+        {"f":"img/1687_krest_vaclav_merhaut.jpg","t":"Křest syna Václava, 1687"}
+      ]
+    },
+    {
+      id: "anna_mh000",
+      name: "Anna Merhautová",
+      maiden: "",
+      line: "merhaut",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1660)","year":1660,"approx":true},
+      notes: [
+        "KANDIDÁTKA (K+): matka Václava Merhauta – křest 1. 7. 1687 Zdice (Žebrák 02 N sn. 61 vpravo; M). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Praha, Žebrák 02 (9731) N, sn. 61 vpravo, fol. 72 (1. 7. 1687), https://ebadatelna.soapraha.cz/d/9731/61"
+      ],
+      scans: [
+        {"f":"img/1687_krest_vaclav_merhaut.jpg","t":"Křest syna Václava, 1687"}
       ]
     }
   ]
