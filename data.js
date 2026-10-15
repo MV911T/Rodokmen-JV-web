@@ -8690,26 +8690,29 @@ window.RODOKMEN = {
       name: "Pavel Hrazdírek",
       line: "hrazdilek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1692)","year":1692,"approx":true},
+      b: {"date":"neznámé (asi 1699, kandidátní křest – viz poznámky)","year":1699,"approx":true,"place":"Hodějice"},
       d: {"date":"5. 5. 1747","year":1747,"place":"Hodějice"},
+      father: "pavel_hz0",
+      mother: "alzbeta_hz0",
       spouse: "katerina_hz",
       marriage: "25. 5. 1721 (fara Slavkov) – s Kateřinou Schustovou",
       notes: [
         "Oddán 25. 5. 1721 jako „hon. Juvenis Paulus Hrazdirek cum hon. Virg. Catharina filia Jacobi Schusta, Hodegiciis“; svědci Jiří Florián a Pavel Němčanský z Hodějic.",
         "Sedlák v Hodějicích; s Kateřinou děti Josef (23. 1. 1722), Apolonie (I 1724), František (X 1725), Martin (4. 10. 1727).",
         "Zemřel 5. 5. 1747 v Hodějicích, 55 let (věk čten s jistotou D).",
-        "KANDIDÁT: syn Pavla Hrazdírka st. († VII 1707 Hodějice, ~60 let) × Alžběty (vdova se 1711 znovu vdala); sňatek s Kateřinou nenalezen.",
-        "Rodina otce (K+): Pavel Hrazdírek st. (Hradil, Hodějice, † VII 1707) × Susanna – syn Šimon pokřtěn 28. 10. 1693 („Simon; Paulus Hradil, Mr Susanna ex Hodeitz“; N 13119 sn. 31 vpravo; M) = Šimon, „syn † Pavla Hrazdílka z Hodějic“, ženich III 1726 (O 13120 sn. 210 vlevo) → Šimon je nejspíš bratr Pavla ml. Křest Pavla ml. v N 13119 VIII 1691 – X 1695 (ani 1690–91) není → *≤1689 (N 1665–89 chybí) nebo ≥XI 1695. Pozor: Pavel Hradil × Dorota z Rašovic († 1711) – jiný."
+        "KANDIDÁT křtu (K+): 18. 1. 1699 Hodějice – „Bapt. Paulus. Pr. Paulus Hrazdil. Mr. Elisabeth ex Hodegicz. Patr. Paulus Hambalek cum uxore Mariana ex Raschowitz“ (N 13119 sn. 66 vlevo; M, ověřeno koordinátorem) – jediný syn Pavel Pavla Hrazdila v Hodějicích 1690 – X 1702; kmotr Hambálek z Rašovic jako u všech dětí. ROZPOR: věk 55 při † 1747 (→ *~1692) proti křtu 1699 (48) – platí křest; při sňatku 1721 mu bylo 22. Sourozenci: vlastní František 28. 3. 1701; nevlastní (matka Susanna) Šimon 1693, Anna 1696."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
         "MZA Brno, fara Slavkov, NOZ (sign. 13121), Z, snímek 355 vpravo (5. 5. 1747) – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946"
+        "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), O, snímek 199 vlevo (25. 5. 1721) – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, NOZ 13119 (Slavkov 1690–1707): N sn. 66 vlevo (1699), O sn. 131 vlevo (1697) – https://www.mza.cz/actapublica/matrika/detail/1942"
       ],
       scans: [
         {"f":"img/1721_O_Hrazdirek_Pavel_Schustova_Katerina.jpg","t":"Sňatek Pavla Hrazdírka s Kateřinou, dcerou Jakuba Schusty, Hodějice 25. 5. 1721"},
         {"f":"img/1727_N_Hrazdilek_Martin_Hodejice.jpg","t":"Křest Martina Hrazdílka, syna Pavla a Kateřiny, Hodějice 4. 10. 1727"},
-        {"f":"img/1747_Z_Hrazdirek_Pavel_Hodejice.jpg","t":"Úmrtí Pavla Hrazdírka, Hodějice 5. 5. 1747"}
+        {"f":"img/1747_Z_Hrazdirek_Pavel_Hodejice.jpg","t":"Úmrtí Pavla Hrazdírka, Hodějice 5. 5. 1747"},
+        {"f":"img/1699_N_Hrazdirek_Pavel_Hodejice.jpg","t":"Křest 18. 1. 1699, Hodějice (kandidát)"}
       ]
     },
     {
@@ -13254,6 +13257,44 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Plzeň, Osek 01 O, sn. 139 vlevo (10. 11. ? 1675) – https://www.portafontium.eu/iipimage/30066667/osek-01_1391-o"
+      ]
+    },
+    {
+      id: "pavel_hz0",
+      name: "Pavel Hrazdírek (Hrazdil)",
+      line: "hrazdilek",
+      cert: "K",
+      b: {"date":"neznámé (asi 1647)","year":1647,"approx":true},
+      d: {"date":"29. 7. 1707","year":1707,"place":"Hodějice"},
+      spouse: "alzbeta_hz0",
+      marriage: "7. (?) 10. 1697 Hodějice – s Alžbětou (2. manželství; 1. manželka Susanna)",
+      notes: [
+        "KANDIDÁT (K+): otec Pavla Hrazdírka ml. (*18. 1. 1699). 1. manželka Susanna (děti Šimon 28. 10. 1693, Anna 22. 7. 1696; snad i Rosina I 1693), † mezi VII 1696 a X 1697 (Z Slavkov před 1704 chybí). Oddán 7. (?) 10. 1697: „Copulatus Paulus Hrazdil cum Elisabeth, uterque ex Hodeitz“; svědci Matouš Obrzálek, Václav Láníček (O 13119 sn. 131 vlevo; M). Děti s Alžbětou: Pavel 1699, František 28. 3. 1701. Zemřel 29. 7. 1707: „Paulus Hrazdirek, aetatis suae circiter 60“, pohřben v Hodějicích (Z 13120 sn. 281 vpravo; M) → *~1647. Nezaměňovat s Pavlem Hradilem × Dorotou z Rašovic."
+      ],
+      sources: [
+        "MZA Brno, NOZ 13119 (Slavkov 1690–1707): N sn. 66 vlevo (1699), O sn. 131 vlevo (1697) – https://www.mza.cz/actapublica/matrika/detail/1942",
+        "MZA Brno, Z 13120 sn. 281 vpravo (1707)"
+      ],
+      scans: [
+        {"f":"img/1699_N_Hrazdirek_Pavel_Hodejice.jpg","t":"Křest syna Pavla, Hodějice 1699"}
+      ]
+    },
+    {
+      id: "alzbeta_hz0",
+      name: "Alžběta Hrazdírková",
+      line: "hrazdilek",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1670)","year":1670,"approx":true},
+      spouse: "pavel_hz0",
+      marriage: "7. (?) 10. 1697 Hodějice – s Pavlem Hrazdilem (1711 znovu provdána)",
+      notes: [
+        "KANDIDÁTKA (K+): matka Pavla Hrazdírka ml. (křest 1699 „Mr. Elisabeth ex Hodegicz“); 2. manželka Pavla Hrazdila (× 1697; O 13119 sn. 131 vlevo; M); jako vdova se 1711 znovu vdala. Rodné příjmení neznámé."
+      ],
+      sources: [
+        "MZA Brno, NOZ 13119 (Slavkov 1690–1707): N sn. 66 vlevo (1699), O sn. 131 vlevo (1697) – https://www.mza.cz/actapublica/matrika/detail/1942"
+      ],
+      scans: [
+        {"f":"img/1699_N_Hrazdirek_Pavel_Hodejice.jpg","t":"Křest syna Pavla, Hodějice 1699"}
       ]
     }
   ]
