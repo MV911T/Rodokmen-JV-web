@@ -12525,7 +12525,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Kateřiny Klikové – oddací zápis 1773 „filia Wenceslai Chwatal molitoris Suchomastensis“ (M). Kmotr vnučky 1776 Jakub Chvátal, mlynář ze Suchomast (asi syn).",
         "Sňatek není v rejstřících O Borek 02 (1710–47) ani 03 (1748–73) → mimo faru. Jakub Chvátal, mlynář na dolejším mlýně č. 25 (1776–1790), je syn Josefa Chvátala, ne Václava.",
-        "Zemřel 5. 9. 1802 v Suchomastech č. 56: „Václav Chvátal, mlynář“, 86 let, „starostí“ (Borek 06 Z sn. 117 vpravo; M zápis, K+ ztotožnění – povolání jako 1773) → *~1716. Děti s Josefou: Kateřina 1753, Anna 1755, Josefa 1757 (snad i Šimon a Matěj z 1. manželství ?)."
+        "Zemřel 5. 9. 1802 v Suchomastech č. 56: „Václav Chvátal, mlynář“, 86 let, „starostí“ (Borek 06 Z sn. 117 vpravo; M zápis, K+ ztotožnění – povolání jako 1773) → *~1716. Děti s Josefou: Kateřina 1753, Anna 1755, Josefa 1757; nejstarší Matěj 7. 2. 1751 („M: Jozefy“; Borek 03 sn. 13 vlevo; M) → sňatek ~1749–50.",
+        "Sňatek s Josefou není v O Borek 02–03 ani Tmaň 02 IX 1746 – XI 1750 ani Liteň 22 (rejstřík od 1750); zbývá Liteň 03 O 1728–65 / rejstřík Liteň 27. KANDIDÁTI křtu (K): Václav ~1711/12 (Jiří, Suchomasty), 4. 9. 1718 (Jakub × Anna, Bykoš), ~XI 1722 (Jan × Ludmila Vodičková, Suchomasty) (Borek 02 N sn. 32 vpravo, 41 vpravo, 48 vlevo) – věk 86 (1802) nesedí přesně na žádného."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 03 (O), pag. 98, sn. 240 vlevo (26. 9. 1773) – https://ebadatelna.soapraha.cz/d/4072/240",
