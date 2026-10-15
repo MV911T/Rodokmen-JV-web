@@ -11959,13 +11959,16 @@ window.RODOKMEN = {
       name: "Petr Aubrecht",
       line: "aubrecht",
       cert: "K",
-      b: {"date":"neznámé (asi 1749)","year":1749,"approx":true,"place":"Volduchy (fara Osek)"},
+      b: {"date":"24. 6. 1749","year":1749,"place":"Volduchy (fara Osek)"},
       d: {"date":"14. 12. (?) 1818","year":1818,"place":"Volduchy č. p. 21"},
+      father: "bartolomej_au",
+      mother: "anna_au0",
       spouse: "dorota_au",
       occ: "sedlák ve Volduchách č. 20",
       marriage: "1) 22. 7. 1772 Volduchy – s Dorotou Čadovou; 2) 3. 7. 1804 – s Markétou Kermesovou (?)",
       notes: [
         "KANDIDÁT (K, silný): otec Kašpara Aubrechta. Kašpar pokřtěn 3. 2. 1781 ve Volduchách č. 20 jako syn Petra Aubrechta, sedláka, a Doroty (Osek 05, sn. 77; M). Ztotožnění s Kašparem z Oseka č. 72 nepřímé: jediný jiný dospělý Kašpar Aubrecht ve faře je o generaci starší (*~1751, Volduchy č. 10, † 1813); Kašpar *1781 v dětství nezemřel; 28. 4. 1807 dvojí svatba – Kašpar s Annou a Jan Aubrecht z Volduch č. 20 (syn Petra) s Marií, obě dcery Václava Holuba z Oseka č. 8, se stejnými svědky (Osek 07 str. 37, sn. 56 vpravo; M).",
+        "Narozen a pokřtěn 24. 6. 1749 ve Volduchách: „Petr, vlastní syn … Otce Bartoloměje Aubrechta, Matky Anny“; levans Daniel Nucha, svědci Jan Kovář (?), Markéta Sýkorová (?) z Volduch (Osek 03 N str. 86, sn. 46 vlevo; M, ověřeno koordinátorem; jediný Petr Aubrecht v rejstříku N 1740–59). Sedí s otcem „Bartl Aubrecht“ (1772) i věkem 55 (1804).",
         "Oddán 22. 7. 1772 ve Volduchách č. 11: „Peter Sohn des Bartl Aubrecht Bauern v Woldüch mit Dorothea Tochter des verst. Martin Czada Bauern v Woldüch“ (Osek 07 str. 37, sn. 38 vpravo; M).",
         "Jako vdovec, sedlák ve Volduchách č. 20, 55 let, oddán 3. 7. 1804 s Markétou, dcerou † Matěje Kermese (?), 28 let (Osek 07 str. 35, sn. 55 vpravo; M) → *~1749.",
         "Dcera Marie se mu narodila 20. 9. 1807 v č. 20 („Petr Aubrecht, sedlák“ × Markéta; Osek 06 N pag. 7, sn. 59 vpravo; M) → žil ještě IX 1807. V č. 20 tehdy žily i rodiny Jana (syn, × Marie Holubová) a Matěje Aubrechta; Kašpar není kmotrem u křtů v č. 20 1807–1809.",
@@ -11974,9 +11977,11 @@ window.RODOKMEN = {
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 07 (O 1772–1820), oddíl Volduchy, str. 37 (sn. 38 vpravo; 22. 7. 1772), str. 35 (sn. 55 vpravo; 3. 7. 1804), str. 37 (sn. 56 vpravo; 28. 4. 1807) – https://www.portafontium.eu/iipimage/30066673/osek-07_0380-so",
         "SOA Plzeň, Osek 05 N, sn. 77 (křest Kašpara 3. 2. 1781)",
-        "SOA Plzeň, Osek 08 Z, oddíl Volduchy, sn. 134 vpravo (1818) – https://www.portafontium.eu/iipimage/30066674/osek-08_1340-z"
+        "SOA Plzeň, Osek 08 Z, oddíl Volduchy, sn. 134 vpravo (1818) – https://www.portafontium.eu/iipimage/30066674/osek-08_1340-z",
+        "SOA Plzeň, Osek 03 N, str. 86, sn. 46 vlevo (24. 6. 1749) – https://www.portafontium.eu/iipimage/30066669/osek-03_0460-n"
       ],
       scans: [
+        {"f":"img/1749_N_Aubrecht_Petr_Volduchy.jpg","t":"Křest 24. 6. 1749, Volduchy"},
         {"f":"img/1772_O_Aubrecht_Petr_Cadova_Dorota_Volduchy.jpg","t":"Sňatek s Dorotou Čadovou, Volduchy 22. 7. 1772"},
         {"f":"img/1804_O_Aubrecht_Petr_Kermesova_Marketa_Volduchy.jpg","t":"2. sňatek s Markétou Kermesovou, 1804"},
         {"f":"img/1807_O_Aubrecht_Jan_Holubova_Marie_Volduchy.jpg","t":"Sňatek syna Jana s Marií Holubovou, 1807"},
@@ -12037,7 +12042,8 @@ window.RODOKMEN = {
       spouse: "martin_ca",
       marriage: "14. 11. 1751 – s Martinem Čadou",
       notes: [
-        "KANDIDÁTKA (K+): matka Doroty Aubrechtové. Narozena 7. 11., pokřtěna 8. 11. 1728 ve Volduchách: „Kateřina, vlastní dcera Prokopa Hanzlíka a Barbory“ (Osek 02 N str. 8, sn. 6 vlevo; M zápis, jediná v rejstříku). Rodiče: Prokop Hanzlík × Barbora (sňatek nehledán)."
+        "KANDIDÁTKA (K+): matka Doroty Aubrechtové. Narozena 7. 11., pokřtěna 8. 11. 1728 ve Volduchách: „Kateřina, vlastní dcera Prokopa Hanzlíka a Barbory“ (Osek 02 N str. 8, sn. 6 vlevo; M zápis, jediná v rejstříku). Rodiče: Prokop Hanzlík × Barbora (sňatek nehledán).",
+        "Podruhé oddána 29. 1. 1760 ve Volduchách: „Vojtěch, vlastní syn pozůstalý po † Danielovi Nuchovi, s poctivou vdovou Kateřinou pozůstalou po † Martinovi Čádovi“; družba Václav Kermes (Osek 04 O str. 1, sn. 66 vpravo; M) – dále Nuhová (Nuchová). Úmrtí nehledáno."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 8 (sn. 6 vlevo); Osek 03 O str. 45 (sn. 131 vpravo)"
@@ -12714,6 +12720,46 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1720_N_Merhaut_Vit_Zdice.jpg","t":"Křest syna Víta, Zdice 1720"}
+      ]
+    },
+    {
+      id: "bartolomej_au",
+      name: "Bartoloměj Aubrecht",
+      line: "aubrecht",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1708)","year":1708,"approx":true},
+      spouse: "anna_au0",
+      occ: "sedlák ve Volduchách",
+      marriage: "28. 10. 1732, Volduchy – s Annou, dcerou Šimona Hycha (?)",
+      notes: [
+        "KANDIDÁT (K+, jako otec Petra – viz Petr Aubrecht): sedlák ve Volduchách. Oddán 28. 10. 1732 Volduchy s pannou Annou, vlastní dcerou Šimona Hycha (?) z Volduch; družba Matouš Holubek (?), faktor Petr Vítek (?) (Osek 02 O sn. 69 vpravo; M zápis). Děti: Jan 1733, Ludmila 1736, Dorota 1738, Petr 24. 6. 1749. Vztah k Josefovi Aubrechtovi (*~1685) neznámý – spíš jiná rodina. Úmrtí nehledáno."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 02 O, sn. 69 vpravo (28. 10. 1732)",
+        "SOA Plzeň, Osek 03 N, str. 86, sn. 46 vlevo (24. 6. 1749) – https://www.portafontium.eu/iipimage/30066669/osek-03_0460-n"
+      ],
+      scans: [
+        {"f":"img/1749_N_Aubrecht_Petr_Volduchy.jpg","t":"Křest syna Petra, Volduchy 1749"}
+      ]
+    },
+    {
+      id: "anna_au0",
+      name: "Anna Aubrechtová",
+      maiden: "Hychová (?)",
+      line: "aubrecht",
+      cert: "K",
+      b: {"date":"neznámé (asi 1715)","year":1715,"approx":true,"place":"Volduchy"},
+      d: {"date":"9. 10. 1765","year":1765,"place":"Volduchy"},
+      spouse: "bartolomej_au",
+      notes: [
+        "KANDIDÁTKA (K+): matka Petra Aubrechta (*1749); dcera Šimona Hycha (?) z Volduch, × 28. 10. 1732 (Osek 02 O sn. 69 vpravo). Zemřela 9. 10. 1765, 50 let (dřívější relace, §285) → *~1715."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 02 O, sn. 69 vpravo (28. 10. 1732)",
+        "SOA Plzeň, Osek 03 N, str. 86, sn. 46 vlevo (24. 6. 1749) – https://www.portafontium.eu/iipimage/30066669/osek-03_0460-n"
+      ],
+      scans: [
+        {"f":"img/1749_N_Aubrecht_Petr_Volduchy.jpg","t":"Křest syna Petra, Volduchy 1749"}
       ]
     }
   ]
