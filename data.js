@@ -7449,7 +7449,8 @@ window.RODOKMEN = {
       notes: [
         "Oddán 13. 2. 1763 v Oseku: „Simon superstes filius post defunctum Casparum Holub ex pago Wossek, cum honesta vidua post defunctum Jacobum Gyšt (?) Catharina“; svědci Matěj Aubrecht, Jan Košař (?) a Anna Košařová (?).",
         "Chalupník (subrusticus) v Oseku č. 85 – křest syna Kašpara 21. 6. 1771 (kmotr hrabě Kašpar ze Šternberka); otec Anny (*1774, provdaná Laukotová, pak Lodlová). Pozor: v Oseku žil i pár Mikuláš Holub × Kateřina.",
-        "KANDIDÁT křtu: Kašparovi Holubovi se narodili dva Šimonové – 4. 10. 1732 (matka Ludmila; Osek 02 sn. 23) a 13. 10. 1746 (matka Kateřina; Osek 03 sn. 33); který se ženil 1763, zatím nerozhodnuto."
+        "KANDIDÁT křtu: Kašparovi Holubovi se narodili dva Šimonové – 4. 10. 1732 (matka Ludmila; Osek 02 sn. 23) a 13. 10. 1746 (matka Kateřina; Osek 03 sn. 33); který se ženil 1763, zatím nerozhodnuto.",
+        "Úmrtí zatím nenalezeno. Šimon Holub, podruh, † 27. 3. 1805 Osek č. 108, 64 let, a Barbora, manželka † Šimona Holuby, † 18. 1. 1808 č. 108, 58 let (Osek 08 Z str. 62, 68; M) – spíš druhý Šimon (z č. 73), ne náš (manželka Kateřina † 1793 v č. 85, nový sňatek v Oseku VII 1793 – II 1803 není). Č. 85 v l. 1801–1810 drží Jindřich Holub (snad syn)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
