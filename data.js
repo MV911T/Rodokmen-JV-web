@@ -6180,7 +6180,8 @@ window.RODOKMEN = {
         "Narozen a pokřtěn 20. 7. 1817 v Heršpicích č. 52; otec Martin Svoboda, tesař, matka Magdalena Tichá; kmotři Pavel Láníček a manželka Magdalena (budoucí tchán a tchyně).",
         "Oddán 1841 v Heršpicích (č. 52/57) jako domkář, 23 let; syn † Martina Svobody, domkáře v Heršpicích, a Magdaleny roz. Fuchsové (?) – podle křtu Tiché.",
         "Později čtvrtník v Heršpicích; otec Anežky Kučerové.",
-        "Žil 3. 10. 1873 (úmrtí manželky, M). V indexu Z fary Slavkov 1872–1907 (S) není – zemřel jinde nebo pod zkomoleným jménem."
+        "Žil 3. 10. 1873 (úmrtí manželky, M). V indexu Z fary Slavkov 1872–1907 (S) není – zemřel jinde nebo pod zkomoleným jménem.",
+        "Žil ještě 11. 8. 1878 jako výměnkář v Heršpicích č. 48: oddací zápis dcery Mariany (*~1853) s Tomášem Svobodou (dispens pro příbuzenství 2. stupně – Tomášův otec František Svoboda snad Jakubův bratr) „dcera živého Jakuba Svobody, výměnkáře z Heršpic, a zemřelé Kateřiny rozené Láníčkové“; 4. 3. 1867 dcera Agnes × Franz Jacubetz (O 13144 sn. 16, 25 vlevo; M). Úmrtí po 1878 – v Z Heršpice 1873–1905 ani v indexu nenalezeno."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -6547,7 +6548,8 @@ window.RODOKMEN = {
         {"f":"img/1836_Z_Svoboda_Martin_Herspice.jpg","t":"Úmrtí 26. 8. 1836, Heršpice č. 52"},
         {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest Martina, Heršpice 2. 11. 1779 (kandidát)"},
         {"f":"img/1776_O_Svoboda_Jakub_Ondrova_Marianna_Herspice.jpg","t":"Sňatek rodičů Jakuba Svobody a Marianny, 1776 (kandidát)"},
-        {"f":"img/1813_Z_Svobodova_Marianna_Herspice52.jpg","t":"Úmrtí matky Marianny, Heršpice č. 52, 1813"}
+        {"f":"img/1813_Z_Svobodova_Marianna_Herspice52.jpg","t":"Úmrtí matky Marianny, Heršpice č. 52, 1813"},
+        {"f":"img/1847_Z_Svobodova_Magdalena_Herspice52.jpg","t":"Úmrtí vdovy Magdaleny, Heršpice 1847"}
       ]
     },
     {
@@ -6556,22 +6558,31 @@ window.RODOKMEN = {
       maiden: "Tichá",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1798)","year":1798,"approx":true,"place":"Heršpice č. 26 (?)"},
+      b: {"date":"13. 7. 1797","year":1797,"place":"Heršpice č. p. 26"},
+      d: {"date":"4. 6. 1847","year":1847,"place":"Heršpice č. p. 52"},
+      cause: "chrlení krve (Blutsturz ?)",
       father: "jakub_ti",
+      mother: "katerina_hn",
       spouse: "martin_sv",
       marriage: "27. 8. 1816, Heršpice – s Martinem Svobodou",
       notes: [
+        "Pokřtěna 13. 7. 1797 v Heršpicích č. 26: „Magdalena“, otec „Jakob Tichy, Innmann“, matka „Katharina Han…kin (?)“; kmotři Bartoloměj Navrátil a Marianna (N 13123 sn. 380, str. 392; M, ověřeno koordinátorem; rodné příjmení matky nejisté – Hanušková / Hanůžková ?).",
         "Oddána 27. 8. 1816 v Heršpicích jako dcera Jakoba Tichého, čtvrtníka (č. 26), 18 let – rodné příjmení Tichá potvrzeno (M).",
-        "Matka Jakuba Svobody. ROZPOR: křest syna 1817 uvádí „Magdalena Tichy“, oddací zápis 1841 „Fuchs (?)“ (dcera Jakuba) – platí křest; čtení 1841 nejisté."
+        "Matka Jakuba Svobody. ROZPOR: křest syna 1817 uvádí „Magdalena Tichy“, oddací zápis 1841 „Fuchs (?)“ (dcera Jakuba) – platí křest; čtení 1841 nejisté.",
+        "Zemřela 4. 6. 1847 (pohřbena 6. 6.) v Heršpicích č. 52: „Magdalena, Wittwe nach Martin Swoboda, Häuslerin“, 50 let (Z 13155 sn. 10 vlevo, pag. 16; M, ověřeno). Past: index Z 13161 ji vede chybně „Swoboda Magdalena – Kornowitz – 17“."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 48, snímek 344 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, N sign. 13123, oddíl Heršpice, str. 420, snímek 408 – https://www.mza.cz/actapublica/matrika/detail/1951",
-        "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959"
+        "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959",
+        "MZA Brno, N 13123, sn. 380, str. 392 (13. 7. 1797) – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, Z Heršpice 13155, sn. 10 vlevo, pag. 16 (1847) – https://www.mza.cz/actapublica/matrika/detail/12384"
       ],
       scans: [
         {"f":"img/1841_O_13138_sn344R_Herspice_str48_Svoboda_Jakub_Lanickova_Katerina.jpg","t":"Sňatek Jakuba Svobody a Kateřiny Láníčkové, Heršpice 1841 (dítě: Jakub Svoboda)"},
-        {"f":"img/1817_N_13123_sn408_str420_Herspice_Svoboda_Jakub_Tichy_Magdalena.jpg","t":"Křest syna Jakuba Svobody, Heršpice 20. 7. 1817"}
+        {"f":"img/1817_N_13123_sn408_str420_Herspice_Svoboda_Jakub_Tichy_Magdalena.jpg","t":"Křest syna Jakuba Svobody, Heršpice 20. 7. 1817"},
+        {"f":"img/1797_N_Ticha_Magdalena_Herspice26.jpg","t":"Křest Magdaleny, Heršpice č. 26, 13. 7. 1797"},
+        {"f":"img/1847_Z_Svobodova_Magdalena_Herspice52.jpg","t":"Úmrtí 4. 6. 1847, Heršpice č. 52"}
       ]
     },
     {
@@ -11664,6 +11675,7 @@ window.RODOKMEN = {
       cause: "sešlost věkem (Altersschwäche)",
       father: "martin_ti",
       mother: "katerina_ti",
+      spouse: "katerina_hn",
       occ: "čtvrtník v Heršpicích (č. 26)",
       notes: [
         "Čtvrtník (4tler) v Heršpicích; otec Magdaleny, provdané Svobodové – oddací zápis 1816, kde dal osobní svolení (M).",
@@ -11677,7 +11689,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest Jakuba, Heršpice 17. 6. 1771 (kandidát)"},
         {"f":"img/1844_Z_Tichy_Jakub_Herspice.jpg","t":"Úmrtí 9. 3. 1844, Heršpice č. 26"},
-        {"f":"img/1823_Z_Tichy_Martin_Herspice.jpg","t":"Úmrtí otce Martina, Heršpice č. 26, 1823"}
+        {"f":"img/1823_Z_Tichy_Martin_Herspice.jpg","t":"Úmrtí otce Martina, Heršpice č. 26, 1823"},
+        {"f":"img/1797_N_Ticha_Magdalena_Herspice26.jpg","t":"Křest dcery Magdaleny, Heršpice 1797"}
       ]
     },
     {
@@ -12058,7 +12071,8 @@ window.RODOKMEN = {
         {"f":"img/1779_N_Svoboda_Martin_Herspice.jpg","t":"Křest syna Martina, Heršpice 1779"},
         {"f":"img/1776_O_Svoboda_Jakub_Ondrova_Marianna_Herspice.jpg","t":"Sňatek s Mariannou Ondrovou, 1776"},
         {"f":"img/1786_N_Svoboda_Matej_Herspice52.jpg","t":"Křest syna Matěje, Heršpice č. 52, 1786"},
-        {"f":"img/1813_Z_Svobodova_Marianna_Herspice52.jpg","t":"Úmrtí vdovy Marianny, Heršpice 1813"}
+        {"f":"img/1813_Z_Svobodova_Marianna_Herspice52.jpg","t":"Úmrtí vdovy Marianny, Heršpice 1813"},
+        {"f":"img/1847_Z_Svobodova_Magdalena_Herspice52.jpg","t":"Úmrtí snachy Magdaleny, Heršpice 1847"}
       ]
     },
     {
@@ -12261,6 +12275,24 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek dcery Kateřiny, Bykoš 1773"}
+      ]
+    },
+    {
+      id: "katerina_hn",
+      name: "Kateřina Tichá",
+      maiden: "Hanušková (?)",
+      line: "svobodah",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true},
+      spouse: "jakub_ti",
+      notes: [
+        "Manželka Jakuba Tichého, matka Magdaleny Svobodové – křest 13. 7. 1797 Heršpice č. 26: „Mutter: Katharina Han…kin (?)“ (N 13123 sn. 380; M, příjmení nejisté). Sňatek s Jakubem (~1790–1796) a úmrtí nehledány."
+      ],
+      sources: [
+        "MZA Brno, N 13123, sn. 380, str. 392 (13. 7. 1797) – https://www.mza.cz/actapublica/matrika/detail/1951"
+      ],
+      scans: [
+        {"f":"img/1797_N_Ticha_Magdalena_Herspice26.jpg","t":"Křest dcery Magdaleny, Heršpice 1797"}
       ]
     }
   ]
