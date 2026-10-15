@@ -6666,7 +6666,8 @@ window.RODOKMEN = {
       notes: [
         "Dcera Martina Šimoníka, čtvrtníka v Hodějicích č. 35; oddána 20. 7. 1806 (20 let). Matka Josefa Hrabovského (*1819).",
         "Zemřela 3. 1. 1846 v Hodějicích č. 50 (pohřbena 5. 1., kaplan Emil Wondráček ?): „Magdalena, Eheweib des Georg Hrabowsky, Ausgedinger“, 60 let (M; věk sedí se sňatkem 1806 i kandidátem křtu 1785).",
-        "KANDIDÁT křtu: 22. 7. 1785 Hodějice č. 52 – Magdalena, dcera Martina Šimoníka a Johanny (N 13122, str. 20) – věk 20 v r. 1806 sedí, číslo domu ne (52 × 35). Pozor: jiná Magdalena Šimoníková *14. 7. 1788 (otec Josef). Rodiče se vzali 6. 5. 1783 v č. 52 – číslo domu 52 sedí s křtem 1785."
+        "KANDIDÁT křtu: 22. 7. 1785 Hodějice č. 52 – Magdalena, dcera Martina Šimoníka a Johanny (N 13122, str. 20) – věk 20 v r. 1806 sedí, číslo domu ne (52 × 35). Pozor: jiná Magdalena Šimoníková *14. 7. 1788 (otec Josef). Rodiče se vzali 6. 5. 1783 v č. 52 – číslo domu 52 sedí s křtem 1785.",
+        "Matka: pokud platí křest 1785, je to Johanna (2. manželka Martina, × 1783) – křest 22. 7. 1785 znovu přečten: „Vater Martin Schimonik Einw. – Mutter Johanna“ (MZA N27); 1. manželka Rosina Pavelková zemřela před V 1783."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -7874,19 +7875,21 @@ window.RODOKMEN = {
       mother: "apolonie_si",
       spouse: "johanna_mg",
       occ: "čtvrtník v Hodějicích č. 35; výměnkář (1825)",
-      marriage: "2. sňatek 6. 5. 1783, Hodějice – s Johannou Magkovou (?)",
+      marriage: "1. sňatek 6. 2. 1781, Hodějice – s Rosinou Pavelkovou; 2. sňatek 6. 5. 1783, Hodějice – s Johannou Magkovou (?)",
       notes: [
         "Otec Magdaleny Hrabovské (sňatek 1806).",
         "Manželka Johanna (křty 1784, 1785).",
+        "Poprvé oddán 6. (II) 1781 v Hodějicích č. 52 jako mládenec s Rosinou, dcerou † Antonína Pavelky z Hodějic; svědci Jan Florian a Jakub Ambrosík (O 13136 sn. 10 vlevo; M zápis, věk neuveden). Rosina zemřela před V 1783.",
         "Podruhé oddán 6. 5. 1783 v Hodějicích (č. 52) jako vdovec s Johannou, dcerou † Antonína Magka (?) z Hodějic; svědci Pavel Hrabovský (budoucí tchán dcery Magdaleny) a Jakub Ambrosík.",
-        "Zemřel 2. 4. 1825 (pohřben 4. 4.) v Hodějicích č. 77: „Martin Schimonik, Ausgedinger“, 74 let, Lungensucht (Z 13149 str. 270, sn. 243 vlevo; index Z 13161 sn. 177 vlevo – jediný Martin Šimoník 1800–1825; M zápis, ověřeno koordinátorem) → *~1751. ROZPOR: kandidátní křest 25. 10. 1756 by dával 68 let.",
+        "Zemřel 2. 4. 1825 (pohřben 4. 4.) v Hodějicích č. 77: „Martin Schimonik, Ausgedinger“, 74 let, Lungensucht (Z 13149 str. 270, sn. 243 vlevo; index Z 13161 sn. 177 vlevo – jediný Martin Šimoník 1800–1825; M zápis, ověřeno koordinátorem) → *~1751. ROZPOR: kandidátní křest 25. 10. 1756 by dával 68 let. Jiný křest Martina Šimoníka v N 13121 I 1749 – XII 1752 není (D) → věk 74 v r. 1825 nejspíš nadsazen.",
         "KANDIDÁT křtu (K+): 25. 10. 1756 Hodějice – „Martinus; Georgius Schimonik inqu[ilinus] Hodiegicio, Apollonia“; kmotři Jiří Florian, sedlák z Hodějic, a Kateřina jeho manželka (N 13121 sn. 119 vpravo; M zápis, ověřeno koordinátorem). Sourozenci (stejní rodiče a kmotři): Jakub 14. 7. 1752, Josef 27. 2. 1754 (snad Josef Šimoník × Marianna, × 1775), Jan († dítě IX 1765). Pro M chybí věk při úmrtí Martina."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959",
         "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 15 – https://www.mza.cz/actapublica/matrika/detail/1958",
         "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, Z 13149, str. 270, sn. 243 vlevo – https://www.mza.cz/actapublica/matrika/detail/1964"
+        "MZA Brno, Z 13149, str. 270, sn. 243 vlevo – https://www.mza.cz/actapublica/matrika/detail/1964",
+        "MZA Brno, O 13136, sn. 10 vlevo (1781) – https://www.mza.cz/actapublica/matrika/detail/1958"
       ],
       scans: [
         {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"},
@@ -12619,7 +12622,8 @@ window.RODOKMEN = {
       marriage: "18. 1. 1750, Hodějice – s Apolonií Láníčkovou",
       notes: [
         "KANDIDÁT (K+): otec Martina Šimoníka (*25. 10. 1756). Syn † Josefa Šimoníka; × 18. (I) 1750 Hodějice „honesta puella Apollonia filia Mathiae Lanižek, utrique Hodiegicio“; svědci Josef Masnička (?) a Josef Majek (O 13120 sn. 269 vlevo; M zápis). 1752–1756 podruh (1754 sedlák ?) v Hodějicích; děti Jakub 1752, Josef 1754, Martin 1756, Jan († 1765). Úmrtí nehledáno (Z 13121 od sn. 447).",
-        "Žil ~1769 (dítě Kateřina † XII 1769, Z 13121 sn. 470 vlevo; K). Úmrtí Jiřího a Apolonie nenalezeno v Z 13121 VI 1766 – X 1770 ani v indexu Z 13161 S 1784 – ~1795."
+        "Žil ~1769 (dítě Kateřina † XII 1769, Z 13121 sn. 470 vlevo; K). Úmrtí Jiřího a Apolonie nenalezeno v Z 13121 VI 1766 – X 1770 ani v indexu Z 13161 S 1784 – ~1795.",
+        "Jiří Šimoník zemřel před 7. 1. 1783 – tehdy se vdova Johanna po † Jiřím Šimoníkovi (Hodějice č. 84) vdala za Ondřeje Horáčka (O 13136 sn. 14 vpravo; M) – zda jde o téhož Jiřího (pak 2. manželka), K."
       ],
       sources: [
         "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
