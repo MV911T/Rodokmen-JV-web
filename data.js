@@ -8853,20 +8853,24 @@ window.RODOKMEN = {
       maiden: "Chvátalová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1752)","year":1752,"approx":true},
+      b: {"date":"neznámé (asi 1753, kandidátní křest – viz poznámky)","year":1753,"approx":true,"place":"Suchomasty"},
       father: "vaclav_chv",
+      mother: "rozina_chv",
       spouse: "jan_kl",
       marriage: "26. 9. 1773, Bykoš – s Janem Klikou",
       notes: [
-        "Manželka Jana Kliky, sedláka v Bykoši č. 10; matka Kateřiny (*1776). Oddána 26. 9. 1773 jako „Catharina propria filia Wenceslai Chwatal molitoris Suchomastensis“ (Borek 03 sn. 240 vlevo; M)."
+        "Manželka Jana Kliky, sedláka v Bykoši č. 10; matka Kateřiny (*1776). Oddána 26. 9. 1773 jako „Catharina propria filia Wenceslai Chwatal molitoris Suchomastensis“ (Borek 03 sn. 240 vlevo; M).",
+        "KANDIDÁT křtu (K+): 28. 1. 1753 Suchomasty – „narozena a téhož dne pokřtěna dcera Kateřina Carolina z poctivých rodičův otce Václava Chvátala, M. Roziny (?)“; L. Kateřina Burganová (?) z Suchomast, T. Václav Klika z Bykoše, Ludmila Nováková (?) z Suchomast (Borek 03 N sn. 22 vpravo, p. 39; M, ověřeno koordinátorem) – jediná Kateřina s otcem Václavem Chvátalem v rejstříku N 1748–73; při sňatku 20 let. Nezaměňovat s Kateřinou, dcerou Jana Chvátala, kolaře × Anny Velíkové (24. 6. 1753)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20",
-        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 03 (O), pag. 98, sn. 240 vlevo (26. 9. 1773) – https://ebadatelna.soapraha.cz/d/4072/240"
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 03 (O), pag. 98, sn. 240 vlevo (26. 9. 1773) – https://ebadatelna.soapraha.cz/d/4072/240",
+        "SOA Praha, Borek 03 (4072) N, sn. 22 vpravo, p. 39 (28. 1. 1753) – https://ebadatelna.soapraha.cz/d/4072/22"
       ],
       scans: [
         {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"},
-        {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek s Janem Klikou, Bykoš 1773"}
+        {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek s Janem Klikou, Bykoš 1773"},
+        {"f":"img/1753_N_Chvatalova_Katerina_Suchomasty.jpg","t":"Křest 28. 1. 1753, Suchomasty (kandidát)"}
       ]
     },
     {
@@ -12498,15 +12502,18 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true,"place":"Suchomasty"},
+      spouse: "rozina_chv",
       occ: "mlynář v Suchomastech",
       notes: [
-        "Otec Kateřiny Klikové – oddací zápis 1773 „filia Wenceslai Chwatal molitoris Suchomastensis“ (M). Kmotr vnučky 1776 Jakub Chvátal, mlynář ze Suchomast (asi syn)."
+        "Otec Kateřiny Klikové – oddací zápis 1773 „filia Wenceslai Chwatal molitoris Suchomastensis“ (M). Kmotr vnučky 1776 Jakub Chvátal, mlynář ze Suchomast (asi syn).",
+        "Sňatek není v rejstřících O Borek 02 (1710–47) ani 03 (1748–73) → mimo faru; úmrtí není v Z Borek 04 (1774–84). V r. 1776 držel mlýn v Suchomastech Jakub Chvátal (manželka Anna † IV 1776, 25 let; snad syn Václava; K)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 03 (O), pag. 98, sn. 240 vlevo (26. 9. 1773) – https://ebadatelna.soapraha.cz/d/4072/240"
       ],
       scans: [
-        {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek dcery Kateřiny, Bykoš 1773"}
+        {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek dcery Kateřiny, Bykoš 1773"},
+        {"f":"img/1753_N_Chvatalova_Katerina_Suchomasty.jpg","t":"Křest dcery Kateřiny, Suchomasty 1753"}
       ]
     },
     {
@@ -13332,6 +13339,23 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1719_N_Cada_Matous_Volduchy.jpg","t":"Křest syna Matouše, Volduchy 1719"}
+      ]
+    },
+    {
+      id: "rozina_chv",
+      name: "Rozina Chvátalová",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      spouse: "vaclav_chv",
+      notes: [
+        "KANDIDÁTKA (K): matka Kateřiny Klikové – křest 1753 „otce Václava Chvátala, M. Roziny (?)“ (Borek 03 N sn. 22 vpravo; čtení jména nejisté). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Praha, Borek 03 (4072) N, sn. 22 vpravo, p. 39 (28. 1. 1753) – https://ebadatelna.soapraha.cz/d/4072/22"
+      ],
+      scans: [
+        {"f":"img/1753_N_Chvatalova_Katerina_Suchomasty.jpg","t":"Křest dcery Kateřiny, Suchomasty 1753"}
       ]
     }
   ]
