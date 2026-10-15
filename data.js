@@ -5406,7 +5406,8 @@ window.RODOKMEN = {
         {"f":"img/1817_Z_Merhaut_Dominik_Zdice.jpg","t":"Úmrtí 15. 6. 1817, Zdice č. 21"},
         {"f":"img/1819_Z_Merhautova_Anna_Zdice.jpg","t":"Úmrtí manželky Anny, Zdice 1819"},
         {"f":"img/1781_Z_Merhaut_Vit_Zdice.jpg","t":"Úmrtí otce Víta, Zdice 1781"},
-        {"f":"img/1741_O_Merhaut_Vit_Smidova_Anna_Zdice.jpg","t":"Sňatek rodičů Víta a Anny, Zdice 1741"}
+        {"f":"img/1741_O_Merhaut_Vit_Smidova_Anna_Zdice.jpg","t":"Sňatek rodičů Víta a Anny, Zdice 1741"},
+        {"f":"img/1720_N_Merhaut_Vit_Zdice.jpg","t":"Křest otce Víta Merhauta, Zdice 1720"}
       ]
     },
     {
@@ -12098,24 +12099,28 @@ window.RODOKMEN = {
       name: "Vít Merhaut",
       line: "merhaut",
       cert: "M",
-      b: {"date":"neznámé (asi 1721)","year":1721,"approx":true},
+      b: {"date":"31. 5. 1720","year":1720,"place":"Zdice"},
       d: {"date":"5. (?) 10. 1781","year":1781,"place":"Zdice č. p. 21"},
       cause: "zabit stromem v lese",
       father: "vaclav_mh00",
+      mother: "anna_mh00",
       spouse: "anna_mh0",
       occ: "sedlák ve Zdicích",
       marriage: "31. 10. 1741, Zdice – s Annou Šmidovou (?)",
       notes: [
+        "Pokřtěn 31. 5. 1720 ve Zdicích: „pacholátko jménem Vít Jiří, z otce Václava Merhauta, z matky Anny“; levans Jiří Mazaček (?), svědci Šebestián Mateš (?), Jan Vronek (?), urozená panna Anna Kraiserová (?), Zuzana Reynerová (?) (Žebrák 01 N sn. 58 vlevo; M, ověřeno koordinátorem; rok z okolních snímků).",
         "Otec Dominika Merhauta: křest 1754 „otce Víta Merhauta, matky Anny“ a oddací zápis syna 1776 „filius Viti Merhout, rustici ex Zdicz“ (M).",
         "Oddán 31. 10. 1741 (ze Zdic): „Ženich Vít, vlastní syn Václava Merhauta ze Zdic. Nevěsta Anna, vlastní dcera po neb. Blažejovi Šmidovi“; svědci Václav Mrázek z Bavoryně, Maximiliána Wajsfortová (?) z Chodouně, Vojtěch Zvonek z Hředel (Žebrák 01 O sn. 253 vpravo; M, ověřeno koordinátorem; rok z okolních zápisů). Zdické matriky do 1743 jsou v knize Žebrák 01 (9695).",
-        "Zemřel v říjnu 1781 (den 5 ?) ve Zdicích č. 21: „Vitus Merhout, rusticus Zdiensis, in silva ab arbore ad mortem concussus“ (v lese zabit stromem), bez zaopatření, 60 let (Zdice 01 Z, sn. 261 vpravo; M) → *~1721. Vyvrácen kandidátní křest Víta 1. 6. 1732 v Bavoryni (syn Martina × Marie Magdaleny) – věkově nesedí (TODO kap. 4)."
+        "Zemřel v říjnu 1781 (den 5 ?) ve Zdicích č. 21: „Vitus Merhout, rusticus Zdiensis, in silva ab arbore ad mortem concussus“ (v lese zabit stromem), bez zaopatření, 60 let (Zdice 01 Z, sn. 261 vpravo; M) – skutečně 61. Vyvrácen kandidátní křest Víta 1. 6. 1732 v Bavoryni (syn Martina × Marie Magdaleny) – věkově nesedí (TODO kap. 4)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), fol. 37, sn. 40 vpravo; O sn. 318 vlevo",
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (Z), sn. 261 vpravo (1781), sn. 264 vpravo (1784), sn. 262 vpravo (1782) – https://ebadatelna.soapraha.cz/d/9095/261",
-        "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253"
+        "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253",
+        "SOA Praha, Sbírka matrik, Žebrák 01 (9695), N, sn. 58 vlevo (31. 5. 1720) – https://ebadatelna.soapraha.cz/d/9695/58"
       ],
       scans: [
+        {"f":"img/1720_N_Merhaut_Vit_Zdice.jpg","t":"Křest 31. 5. 1720, Zdice"},
         {"f":"img/1754_N_Merhaut_Dominik_Zdice.jpg","t":"Křest syna Dominika, Zdice 1754"},
         {"f":"img/1776_O_Merhaut_Dominik_Hronkova_Anna_Zdice.jpg","t":"Sňatek syna Dominika, Zdice 1776"},
         {"f":"img/1781_Z_Merhaut_Vit_Zdice.jpg","t":"Úmrtí X 1781, Zdice č. 21 (zabit stromem)"},
@@ -12663,14 +12668,17 @@ window.RODOKMEN = {
       line: "merhaut",
       cert: "M",
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true,"place":"Zdice"},
+      spouse: "anna_mh00",
       notes: [
-        "Ze Zdic; otec Víta Merhauta – „Vít, vlastní syn Václava Merhauta ze Zdic“ při sňatku 31. 10. 1741 (Žebrák 01 O sn. 253 vpravo; M). Při sňatku syna žil (bez „†“). Křest Víta (~1719–22) a sňatek Václava hledat v Žebrák 01 (9695)."
+        "Ze Zdic; otec Víta Merhauta – „Vít, vlastní syn Václava Merhauta ze Zdic“ při sňatku 31. 10. 1741 (Žebrák 01 O sn. 253 vpravo; M). Při sňatku syna žil (bez „†“). Křest Víta (~1719–22) a sňatek Václava hledat v Žebrák 01 (9695).",
+        "Syn Vít Jiří pokřtěn 31. 5. 1720 (matka Anna); Martin 10. (?) 11. 1721 (matka Rozálie – ROZPOR, viz Anna Merhautová)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253"
       ],
       scans: [
-        {"f":"img/1741_O_Merhaut_Vit_Smidova_Anna_Zdice.jpg","t":"Sňatek syna Víta, Zdice 1741"}
+        {"f":"img/1741_O_Merhaut_Vit_Smidova_Anna_Zdice.jpg","t":"Sňatek syna Víta, Zdice 1741"},
+        {"f":"img/1720_N_Merhaut_Vit_Zdice.jpg","t":"Křest syna Víta, Zdice 1720"}
       ]
     },
     {
@@ -12688,6 +12696,24 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1741_O_Merhaut_Vit_Smidova_Anna_Zdice.jpg","t":"Sňatek dcery Anny, Zdice 1741"}
+      ]
+    },
+    {
+      id: "anna_mh00",
+      name: "Anna Merhautová",
+      line: "merhaut",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
+      spouse: "vaclav_mh00",
+      notes: [
+        "Matka Víta Merhauta – křest 31. 5. 1720 Zdice „z otce Václava Merhauta, z matky Anny“ (Žebrák 01 N sn. 58 vlevo; M). Rodné příjmení neznámé.",
+        "ROZPOR / otázka: 10. (20. ?) 11. 1721 pokřtěn Martin, syn Václava Merhauta ze Zdic a Rozálie (sn. 61 vpravo) – buď Anna zemřela 1720/21 a Václav se znovu oženil, nebo ve Zdicích žili dva Václavové Merhautové (Václav Merhaut je i kmotrem). Úmrtí Anny a sňatek Václava × Rozálie nehledány."
+      ],
+      sources: [
+        "SOA Praha, Sbírka matrik, Žebrák 01 (9695), N, sn. 58 vlevo (31. 5. 1720) – https://ebadatelna.soapraha.cz/d/9695/58"
+      ],
+      scans: [
+        {"f":"img/1720_N_Merhaut_Vit_Zdice.jpg","t":"Křest syna Víta, Zdice 1720"}
       ]
     }
   ]
