@@ -11382,7 +11382,8 @@ window.RODOKMEN = {
       notes: [
         "Forman (?) z Mašova č. 18 (1813), nájemník z Mašova č. 16 (1833), panství Hrubá Skála; otec Kateřiny, provdané Ťukalové (křest vnuka Jana 1813, sňatek vnuka 1833 – M).",
         "Při křtu dcery Kateřiny 3. 4. 1784 „inquilinus“ (podruh) v Mašově č. 2 (M). Pozor: v Turnově současně Václav Horáček × Dorota z Chloumku č. 2 (jiná rodina). Sňatek s Annou Mlejnkovou (~1775–1783, O 5257) nehledán.",
-        "Zemřel 1. 11. 1821 (pohřben 3. 11.) v Mašově č. 18: „Václav Horáček, podruh“, 70 let, stářím (Z 5274, sn. 20; M) → *~1751. Dům č. 18 shodný s křtem vnuka Jana 1813. Údaj „nájemník z Mašova č. 16“ v oddacím zápisu vnuka 1833 (bez †) jen popisuje původ nevěsty. Jiný Václav Horák, baráčník z č. 17 († 1835, 85) je jiná rodina."
+        "Zemřel 1. 11. 1821 (pohřben 3. 11.) v Mašově č. 18: „Václav Horáček, podruh“, 70 let, stářím (Z 5274, sn. 20; M) → *~1751. Dům č. 18 shodný s křtem vnuka Jana 1813. Údaj „nájemník z Mašova č. 16“ v oddacím zápisu vnuka 1833 (bez †) jen popisuje původ nevěsty. Jiný Václav Horák, baráčník z č. 17 († 1835, 85) je jiná rodina.",
+        "KANDIDÁTI křtu (K+): v Mašově (fara Turnov) pokřtěni tři Václavové, synové Jana Horáčka × Kateřiny – 4. 2. 1748, 15. 9. 1753 a 3. 10. 1754 (N Turnov 5252 sn. 192 vlevo, 269 vlevo, 287 vpravo; M zápisy) – přežil nejspíš Václav *1754 (opakované jméno); jediný Václav Horáček z Mašova v indexu 1747–1755. Rodiče Jan Horáček × Kateřina (× 1740/1743 Turnov, svědci Jan a Ludmila Mlejnkovi; O 5256 fol. 29; K). Úmrtí starších Václavů nehledána (Z Turnov)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
@@ -11411,7 +11412,8 @@ window.RODOKMEN = {
       notes: [
         "Manželka Václava Horáčka z Mašova; matka Kateřiny Ťukalové (křest vnuka Jana 1813 – „a matky Anny“, M).",
         "Rodné příjmení Mlejnková: křest dcery Kateřiny 3. 4. 1784 „uxor Anna Mleinkova“ (M); v oddacím zápisu dcery 1806 dříve čteno „Vlož…ová (?)“ – správně „Mlegkowé“ (oprava čtení). Mlejnkovi žili v Mašově (kmotra 1784 Ludmila, dcera Jakuba Mlejnka).",
-        "Zemřela 30. 11. 1820 (pohřbena 2. 12.) v Mašově č. 18: „Anna, manželka Václava Horáčka, podruha“, 70 let, stářím (Z 5274, sn. 20, pag. 19; M) → *~1750."
+        "Zemřela 30. 11. 1820 (pohřbena 2. 12.) v Mašově č. 18: „Anna, manželka Václava Horáčka, podruha“, 70 let, stářím (Z 5274, sn. 20, pag. 19; M) → *~1750.",
+        "KANDIDÁTKA křtu (K): 16. 9. 1753 Loučky (fara Turnov) – „Anna filia Georgii Mleinek, mat. Magdalena“ (N 5252 sn. 269 vlevo; M zápis) – index M neprošlý, jiné Anny nevyloučeny."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
