@@ -4112,7 +4112,8 @@ window.RODOKMEN = {
         "Manželka Josefa Trgjka, sedláka ve Volduchách č. 67; matka Veroniky (křest 12. 3. 1783 „Mutter Dorothea“, M). Babička Matěje Forejta; rodné příjmení nečitelné.",
         "Oddána 22. 11. 1757 v Oseku s Josefem Trgjkem jako „poctivá děvečka, vlastní dcera Do-rota Matěje Dudla též z Wolduch“ (M; jméno rozdělené přes konec řádku, ověřeno v plném rozlišení). Křest v rejstříku N Osek 1728–1739 (D) není – rejstřík neúplný.",
         "Zemřela 19. 10. 1799 ve Volduchách č. 67: „Dorothea Eheweib des Joseph Trgjrk“, 65 let, vysílení (M). Věk 65 by dával narození ~1734 a porod Veroniky ve 49 letech – věk asi nadsazený (?).",
-        "Plzeň N84: křest není v Osek 02 N I 1728 – IV 1735 (montáže; mezery ~III–IV 1729, ~VII–IX 1733) – Matěj Dudl tam jako otec není. Pozor: ve Volduchách 1730. let tři páry Matěj × Rozina (Dudl, Hoška (?), Chmelařík). Zbývá Osek 02 N V 1735 – 1740 (rejstřík „Dudl Lydmila 99“ ~1737)."
+        "Plzeň N84: křest není v Osek 02 N I 1728 – IV 1735 (montáže; mezery ~III–IV 1729, ~VII–IX 1733) – Matěj Dudl tam jako otec není. Pozor: ve Volduchách 1730. let tři páry Matěj × Rozina (Dudl, Hoška (?), Chmelařík). Zbývá Osek 02 N V 1735 – 1740 (rejstřík „Dudl Lydmila 99“ ~1737).",
+        "KANDIDÁT křtu (K): 7. 2. 1739 Volduchy (nar. 6. 2.) – „dítě jménem Dorota Apolena … otce Matěje Dudla, matky Doroty“, levans Dorota Vytázková (?) z Oseka, testes Kateřina Kernpka (?) a Pavel Čada z Volduch (Osek 02 N sn. 51 vpravo, str. 99; M, ověřeno koordinátorem). Jediná Dorota Dudlová v Osek 02 N 1728–1739; věk při sňatku 1757 by byl 18, při úmrtí 60 (zápis „65“). Matka DOROTA (ne Rozina) → buď 2. manželka mladšího Matěje Dudla, nebo jiný Matěj (Matěj i Dorota Dudlovi kmotry ve Volduchách 1738)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
