@@ -8765,31 +8765,30 @@ window.RODOKMEN = {
       maiden: "Hanzlíková",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1677)","year":1677,"approx":true},
+      b: {"date":"neznámé (asi 1676, kandidátní křest – viz poznámky)","year":1676,"approx":true,"place":"Volduchy (fara Osek)"},
       d: {"date":"21. 3. 1750","year":1750,"place":"Volduchy (fara Osek)"},
-      father: "vaclav_hzl",
+      father: "petr_hzl",
+      mother: "katerina_hzl",
       spouse: "martin_fo",
       marriage: "25. 10. 1705, Volduchy – s Martinem Forejtem",
       notes: [
         "Oddána 25. 10. 1705 ve Volduchách: „Copulatus est Martinus Foregt cum Elisabetha filia Wenceslai Hanzlik“; svědci Martin Blahník, Tomáš Šlemenda, Alžběta Gišová a Barbora Hanzlíková (Osek 01 O, sn. 150 vlevo; M – jediný Martin Forejt ženich 1700–1727).",
         "Zemřela 21. (III) 1750 ve Volduchách (pohřbena 23.), „Alžběta Foregtová … ze všemi svátostmi zaopatřena“, 73 let (Osek 03 Z, sn. 178 vpravo; M zápis, ztotožnění K+ – manžel neuveden) → *~1677.",
-        "Manželka Martina Forejta z Volduch; matka Pavla (*1716). Rodné příjmení neznámé.",
-        "ROZPOR (otec): oddací zápis 1705 „filia Wenceslai Hanzlik“ × KANDIDÁT křtu (K+) 14. 4. 1676 Volduchy: „Alžběta … Petrovi Hanslykovi, matce Kateřina“ (Osek 01 N str. 8, sn. 6 vlevo; M zápis; věk 73 při úmrtí 1750 sedí přesně). Václav Hanzlík byl nejspíš její bratr (*10. 7. 1678, syn Petra × Kateřiny; M), který ji r. 1705 vdával. Dítě Václava Hanzlíka v N 1673–1683 není. Strom zatím ponechán podle oddacího zápisu – nerozhodnuto.",
-        "K ROZPORU: ve Volduchách žil i starší Václav Hanzlík s dospělými dětmi (syn Matěj × 27. 2. 1707 Ludmila Brazová; Osek 01 O sn. 152 vlevo; M) – výklad „vdával ji bratr Václav *1678“ tím slábne; dcera Alžběta Václava ale nikde nalezena. Kateřina Hanzlíková † 22. 3. 1706, 60 let (K: manželka Petra). Dál: index N Rokycany 01/02 (H).",
-        "K ROZPORU (Plzeň N19): rejstřík N Rokycany 01 (1659–1682, celé H) zná jen Hanzlíka Petra (děti Kateřina 1669, Jan 1672, Kašpar 1674 – kmotři shodní s Václavem 1678 v Oseku); Václav Hanzlík jako otec 1659–1683 nikde, jediná Alžběta Hanzlíková = dcera Petra *1676. Dcera staršího Václava by se narodila až po 1683 (při † 1750 by měla nejvýš ~67, zápis uvádí 73) → otec Petr pravděpodobnější (K+). Strukturu zatím neměněna – rozhodne rejstřík Rokycany 02 (N 1684–1695), případně uživatel.",
-        "K ROZPORU (Plzeň N20): rejstřík N Rokycany 02 (1684–1695, H) zná děti Václava Hanzlíka (Barbora, Rozina, Matouš, Ondřej) a Pavla – Alžběta mezi nimi není. Jediná známá Alžběta Hanzlíková je dcera Petra *1676 → otec Petr K++; „filia Wenceslai“ (1705) zůstává ROZPOR. Strukturu ponechávám k rozhodnutí uživatele.",
-        "K ROZPORU (Plzeň N21): Václav Hanzlík × Kateřina měli ve Volduchách děti Barboru (1685), Rozinu (1687), Matouše (1689) a Ondřeje (1693) (Rokycany 02; M) – hned po posledním dítěti Petra × Kateřiny (1678). HYPOTÉZA (K): Petr zemřel ~1679–1684 a vdova Kateřina († 1706, 60) se provdala za Václava → Alžběta (*1676, dcera Petra) byla Václavovou nevlastní dcerou („filia Wenceslai“ 1705). Ověřit sňatkem Václava s vdovou Kateřinou ~1679–1684.",
-        "K ROZPORU (Plzeň N22): sňatek Václava Hanzlíka s vdovou Kateřinou v Osek 01 O IX 1678 – VIII 1681 a X 1683 – XII 1684 není (mezera VIII 1681 – X 1683); rokycanské O před 1736 a Z před 1704 nejsou digitalizovány → hypotézu „otčím Václav“ nelze online ověřit."
+        "Manželka Martina Forejta z Volduch; matka Pavla (*1716).",
+        "KANDIDÁT křtu (K++): 14. 4. 1676 Volduchy – „křtěno dítě jménem Alžběta, z Wolduch, Petrovi Hanslykovi, matce Kateřina“ (Osek 01 N str. 8, sn. 6 vlevo; M, ověřeno koordinátorem) – jediná Alžběta Hanzlíková ve Volduchách 1659–1695 (rejstříky Rokycany 01–02); věk 73 při úmrtí 1750 sedí na měsíc.",
+        "ROZPOR (otec) – rozhodnuto podle pravidla křest > oddací (15. 10. 2026): oddací zápis 1705 „Elisabetha filia Wenceslai Hanzlik“ (M) – farář Werner u mrtvých otců píše „filia defuncti“, Václav tedy v r. 1705 žil a platil za otce. Výklad: Petr zemřel ~1679–1684, vdova Kateřina se provdala za Václava Hanzlíka (děti 1685–1693) → Václav = otčím (K+, sňatek nedohledatelný – mezera O VIII 1681 – X 1683, rokycanské O před 1736 nedigitalizovány). Pozor: Václav, syn Petra, *10. 7. 1678 (bratr); Václav Hanzlík × 22. 6. 1706 Anna Kozlová (který Václav – nejasné)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 150 vlevo (25. 10. 1705) – https://www.portafontium.eu/iipimage/30066667/osek-01_1501-o",
-        "SOA Plzeň, Osek 03 Z, sn. 178 vpravo (21. 3. 1750) – https://www.portafontium.eu/iipimage/30066669/osek-03_1780-z"
+        "SOA Plzeň, Osek 03 Z, sn. 178 vpravo (21. 3. 1750) – https://www.portafontium.eu/iipimage/30066669/osek-03_1780-z",
+        "SOA Plzeň, Osek 01 N, str. 8, sn. 6 vlevo (14. 4. 1676)"
       ],
       scans: [
         {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"},
         {"f":"img/1705_O_Forejt_Martin_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Sňatek s Martinem Forejtem, Volduchy 1705"},
-        {"f":"img/1750_Z_Forejtova_Alzbeta_Volduchy.jpg","t":"Úmrtí 1750, Volduchy (73 let)"}
+        {"f":"img/1750_Z_Forejtova_Alzbeta_Volduchy.jpg","t":"Úmrtí 1750, Volduchy (73 let)"},
+        {"f":"img/1676_N_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Křest 14. 4. 1676, Volduchy (kandidát)"}
       ]
     },
     {
@@ -12216,15 +12215,18 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1650)","year":1650,"approx":true,"place":"Volduchy (fara Osek)"},
+      spouse: "katerina_hzl",
       notes: [
-        "Otec Alžběty Forejtové – oddací zápis 25. 10. 1705: „Elisabetha filia Wenceslai Hanzlik“ (Volduchy; M). Svědkyně Barbora Hanzlíková (sestra ?). Vztah k Prokopu Hanzlíkovi (otec Kateřiny Čadové, *1728) neznámý (K).",
-        "ROZPOR: v Oseku pokřtěn 10. 7. 1678 Václav, syn Petra Hanzlíka a Kateřiny (Volduchy; M) – možná jde o bratra Alžběty, ne otce (viz karta Alžběty Forejtové)."
+        "Nejspíš OTČÍM Alžběty Forejtové (K+): oddací zápis 25. 10. 1705 „Elisabetha filia Wenceslai Hanzlik“ (Volduchy; M) – vlastním otcem je podle křtu 1676 Petr Hanzlík (viz Alžběta). Svědkyně Barbora Hanzlíková (nevlastní sestra, *1685 ?). Vztah k Prokopu Hanzlíkovi (otec Kateřiny Čadové, *1728) neznámý (K).",
+        "ROZPOR: v Oseku pokřtěn 10. 7. 1678 Václav, syn Petra Hanzlíka a Kateřiny (Volduchy; M) – možná jde o bratra Alžběty, ne otce (viz karta Alžběty Forejtové).",
+        "Děti s Kateřinou (Rokycany 02 N; M): Barbora 1685, Rozina 1687, Matouš 1689, Ondřej 1693. Sňatek s vdovou Kateřinou nedohledán. Syn Matěj × 27. 2. 1707 Ludmila Brazová. Václav Hanzlík × 22. 6. 1706 Anna Kozlová (Osek 01 O sn. 150 vpravo; M) – 3 měsíce po smrti Kateřiny; zda tento Václav, nebo Václav *1678 (syn Petra), nejasné."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 150 vlevo (25. 10. 1705) – https://www.portafontium.eu/iipimage/30066667/osek-01_1501-o"
       ],
       scans: [
-        {"f":"img/1705_O_Forejt_Martin_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Sňatek dcery Alžběty, Volduchy 1705"}
+        {"f":"img/1705_O_Forejt_Martin_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Sňatek dcery Alžběty, Volduchy 1705"},
+        {"f":"img/1706_Z_Hanzlikova_Katerina_Volduchy.jpg","t":"Úmrtí manželky Kateřiny, Volduchy 1706"}
       ]
     },
     {
@@ -12875,6 +12877,45 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1716_N_Jankova_Magdalena_Vsen.jpg","t":"Křest dcery Magdaleny, Všeň 1716"}
+      ]
+    },
+    {
+      id: "petr_hzl",
+      name: "Petr Hanzlík",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1640)","year":1640,"approx":true,"place":"Volduchy"},
+      d: {"date":"asi 1679–1684 (?)","year":1682,"approx":true},
+      spouse: "katerina_hzl",
+      notes: [
+        "KANDIDÁT (K++): otec Alžběty Forejtové – křest 14. 4. 1676 Volduchy (Osek 01 N sn. 6 vlevo; M). Děti s Kateřinou (rejstřík N Rokycany 01 a Osek 01 N; M): Kateřina 1669, Jan 1672, Kašpar 1674, Alžběta 1676, Václav 10. 7. 1678. Po 1678 jako otec nevystupuje – nejspíš zemřel ~1679–1684 (úmrtní matriky Rokycany před 1704 nejsou digitalizovány)."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 N, str. 8, sn. 6 vlevo (14. 4. 1676)",
+        "SOA Plzeň, Rokycany 01 N, rejstřík H (1659–1682)"
+      ],
+      scans: [
+        {"f":"img/1676_N_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Křest dcery Alžběty, Volduchy 1676"}
+      ]
+    },
+    {
+      id: "katerina_hzl",
+      name: "Kateřina Hanzlíková",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (asi 1646)","year":1646,"approx":true},
+      d: {"date":"22. 3. 1706","year":1706,"place":"Volduchy (fara Osek)"},
+      spouse: "petr_hzl",
+      notes: [
+        "KANDIDÁTKA (K+): matka Alžběty Forejtové – křest 1676 „matce Kateřina“. Nejspíš podruhé provdána za Václava Hanzlíka (děti 1685–1693; K). Zemřela 22. 3. 1706 ve Volduchách, 60 let (Osek 01 Z sn. 196 vlevo; M zápis) → *~1646 – sedí na obě řady dětí."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 N, str. 8, sn. 6 vlevo (14. 4. 1676)",
+        "SOA Plzeň, Osek 01 Z, sn. 196 vlevo (1706)"
+      ],
+      scans: [
+        {"f":"img/1676_N_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Křest dcery Alžběty, Volduchy 1676"},
+        {"f":"img/1706_Z_Hanzlikova_Katerina_Volduchy.jpg","t":"Úmrtí 22. 3. 1706, Volduchy"}
       ]
     }
   ]
