@@ -4113,7 +4113,8 @@ window.RODOKMEN = {
         "Oddána 22. 11. 1757 v Oseku s Josefem Trgjkem jako „poctivá děvečka, vlastní dcera Do-rota Matěje Dudla též z Wolduch“ (M; jméno rozdělené přes konec řádku, ověřeno v plném rozlišení). Křest v rejstříku N Osek 1728–1739 (D) není – rejstřík neúplný.",
         "Zemřela 19. 10. 1799 ve Volduchách č. 67: „Dorothea Eheweib des Joseph Trgjrk“, 65 let, vysílení (M). Věk 65 by dával narození ~1734 a porod Veroniky ve 49 letech – věk asi nadsazený (?).",
         "Plzeň N84: křest není v Osek 02 N I 1728 – IV 1735 (montáže; mezery ~III–IV 1729, ~VII–IX 1733) – Matěj Dudl tam jako otec není. Pozor: ve Volduchách 1730. let tři páry Matěj × Rozina (Dudl, Hoška (?), Chmelařík). Zbývá Osek 02 N V 1735 – 1740 (rejstřík „Dudl Lydmila 99“ ~1737).",
-        "KANDIDÁT křtu (K): 7. 2. 1739 Volduchy (nar. 6. 2.) – „dítě jménem Dorota Apolena … otce Matěje Dudla, matky Doroty“, levans Dorota Vytázková (?) z Oseka, testes Kateřina Kernpka (?) a Pavel Čada z Volduch (Osek 02 N sn. 51 vpravo, str. 99; M, ověřeno koordinátorem). Jediná Dorota Dudlová v Osek 02 N 1728–1739; věk při sňatku 1757 by byl 18, při úmrtí 60 (zápis „65“). Matka DOROTA (ne Rozina) → buď 2. manželka mladšího Matěje Dudla, nebo jiný Matěj (Matěj i Dorota Dudlovi kmotry ve Volduchách 1738)."
+        "KANDIDÁT křtu (K): 7. 2. 1739 Volduchy (nar. 6. 2.) – „dítě jménem Dorota Apolena … otce Matěje Dudla, matky Doroty“, levans Dorota Vytázková (?) z Oseka, testes Kateřina Kernpka (?) a Pavel Čada z Volduch (Osek 02 N sn. 51 vpravo, str. 99; M, ověřeno koordinátorem). Jediná Dorota Dudlová v Osek 02 N 1728–1739; věk při sňatku 1757 by byl 18, při úmrtí 60 (zápis „65“). Matka DOROTA (ne Rozina) → buď 2. manželka mladšího Matěje Dudla, nebo jiný Matěj (Matěj i Dorota Dudlovi kmotry ve Volduchách 1738).",
+        "Plzeň N86: Dorota Apolena (nar. 1739) v dětství nezemřela (Osek 02/03 Z III 1739 – XII 1757 bez jejího pohřbu) → ztotožnění K+. Rodina Matěje Dudla × Doroty: Anna † 24. 10. 1742 (1 rok), Anna † 17. 4. 1746 (9 týdnů, Vitinka ?); Dorota Dudlová, Volduchy, † 8. 3. 1752, 42 let (Osek 03 Z sn. 182 vlevo; M) – nejspíš matka (*~1710, K+)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
@@ -11079,11 +11080,13 @@ window.RODOKMEN = {
       name: "František Willam (Wilam)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      b: {"date":"neznámé (asi 1738, podle věku při úmrtí)","year":1738,"approx":true},
+      d: {"date":"22. 6. 1815","year":1815,"place":"Heršpice č. p. 38"},
       occ: "domkář v Heršpicích (č. 18, 1808), později čtvrtník",
       notes: [
         "Domkář v Heršpicích č. 18; otec Magdaleny, která se 8. 11. 1808 vdala za Pavla Láníčka (M); v křtu vnučky 1822 a v zápisech 1841 „čtvrtník“. Datum narození je odhad podle dcery (*~1786).",
-        "KANDIDÁT manželky: Marina – matka Magdaleny pokřtěné 21. 5. 1784 v Heršpicích č. 38 („Franz Wilam, čtvrtník × Marina“; jediná Magdalena Wilam v indexu 1784–1790; K)."
+        "KANDIDÁT manželky: Marina – matka Magdaleny pokřtěné 21. 5. 1784 v Heršpicích č. 38 („Franz Wilam, čtvrtník × Marina“; jediná Magdalena Wilam v indexu 1784–1790; K).",
+        "KANDIDÁT úmrtí (K+): 22. 6. 1815 (pohřben 24. 6.) Heršpice č. 38 – „Franz Wilam, 4tler“, 77 let, sešlost věkem (Z 13149 sn. 262 vlevo, str. 276; M zápis, ověřeno koordinátorem) → *~1738; sedí dům č. 38 a „čtvrtník“ z křtu dcery 1784. Pozor: druhý František Wilam, podruh z č. 36, † 24. 10. 1810, 77 let (str. 271) – jiná osoba (*~1733). Křest ~1738 hledat v N 13121 sn. 2–8; sňatek s Marinou nejspíš před 1770."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959",
@@ -11387,7 +11390,8 @@ window.RODOKMEN = {
         "Z Volduch; otec Doroty, která se 22. 11. 1757 vdala za Josefa Trgjka – „vlastní dcera … Matěje Dudla též z Wolduch“ (M). Datum narození je odhad.",
         "KANDIDÁT sňatku (K): 26. 1. 1717 Volduchy – „Matěj Dudl s Rozinou Kordovou“ (?), družba Kašpar (?) Mochyna (?), družička Lidmila Šaulíková (?); rodiče ani stav ženicha neuvedeni (Osek 01 O sn. 160 vlevo; M zápis). Ztotožnění jen podle jména a obce; pak by narození bylo spíš ~1690–1697. V Rokycany 02 (křty 1684–95) jsou Dudlové Václav, Jan a Matěj (děti Adam, Kateřina), ale dítě Matěj ne; křest Osek 1688 – VIII 1700 v knize chybí.",
         "Plzeň N82: starší Matěj Dudl × ROZINA z Volduch – děti Adam 21. 2. 1692 a Kateřina 22. 4. 1694 (Rokycany 02 N pag. 112, 137; M). Shoda jména Roziny se sňatkem 1717 → buď je ženich 1717 tentýž Matěj (2. sňatek, Rozina Kordová jiná), nebo syn (K−). Rozhodne úmrtí staršího Matěje / Roziny (Osek 01 Z 1694–1717).",
-        "Plzeň N83: starší Matěj Dudl (× Rozina, děti 1692, 1694) pohřben 2. 10. 1715 z Volduch („Pohřben Matěj Dudl při chrámu Páně sv. Bartoloměje“; Osek 01 Z sn. 174 vpravo, str. 343; M, ověřeno koordinátorem; věk neuveden) → ženich 26. 1. 1717 je mladší Matěj, nejspíš jeho syn (K+). Mladší Matěj × Rozina (Kordová ?): syn Matěj (?) 17. 11. 1717 (Osek 01 N sn. 81 vpravo) a Jakub VII 1719 (sn. 90 vpravo; M), oba s levantem Janem Laukotou z Oseka. KANDIDÁTI rodičů (K+): Matěj Dudl st. († 1715) × Rozina. Křest Doroty (*~1734) hledat v Osek 02 N."
+        "Plzeň N83: starší Matěj Dudl (× Rozina, děti 1692, 1694) pohřben 2. 10. 1715 z Volduch („Pohřben Matěj Dudl při chrámu Páně sv. Bartoloměje“; Osek 01 Z sn. 174 vpravo, str. 343; M, ověřeno koordinátorem; věk neuveden) → ženich 26. 1. 1717 je mladší Matěj, nejspíš jeho syn (K+). Mladší Matěj × Rozina (Kordová ?): syn Matěj (?) 17. 11. 1717 (Osek 01 N sn. 81 vpravo) a Jakub VII 1719 (sn. 90 vpravo; M), oba s levantem Janem Laukotou z Oseka. KANDIDÁTI rodičů (K+): Matěj Dudl st. († 1715) × Rozina. Křest Doroty (*~1734) hledat v Osek 02 N.",
+        "Plzeň N86: Matěj Dudl × Dorota (Dorota † 1752, 42) – děti Dorota Apolena 1739, Anna † 1742, Anna † 1746; Matěj do V 1758 v osecké faře nezemřel. Ve Volduchách též Jan Dudl (manželka Magdalena † 1742, 53). Zda je Matěj × Dorota týž jako Matěj × Rozina (1717), nerozhodnuto."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o"
@@ -12330,7 +12334,8 @@ window.RODOKMEN = {
       spouse: "jan_hrz",
       notes: [
         "Matka Anny Merhautové roz. Hronkové – křest 16. 4. 1754 ve Zdicích „otce Jana Hroňka, matky Kateřiny“ (M). Rodné příjmení neuvedeno.",
-        "KANDIDÁT rodného příjmení (K, neprokázáno): Šubertová ? – svědci Jakub a Dorota Šubertovi jen u jejích dětí 1749–1756 (ne u dětí druhého Jana Froňka × Anny); Jakub Šubert i svědkem oddavek dcery Anny 1776."
+        "KANDIDÁT rodného příjmení (K, neprokázáno): Šubertová ? – svědci Jakub a Dorota Šubertovi jen u jejích dětí 1749–1756 (ne u dětí druhého Jana Froňka × Anny); Jakub Šubert i svědkem oddavek dcery Anny 1776.",
+        "Praha N69: jediní Šubertové s dětmi ve Zdicích 1744–49 jsou Jan × Veronika (dvojčata 1745, František 1749; M); Jakub a Dorota Šubertovi (kmotři u Kateřininých dětí) v indexu N jako rodiče nejsou → snad starší generace, Kateřina jejich dcera (K, nedoloženo). Sňatek Jana Froňka × Kateřiny není ani v Žebrák 03 O X 1745 – XI 1748 (jen okraje, střední negativ)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01, fol. 37, sn. 40 vpravo"
