@@ -12522,7 +12522,7 @@ window.RODOKMEN = {
         "Rodiče (K+; sňatek VI 1700 – viz Jan Bečka st.): Jan Bečka st. z Mokrého × Magdalena – syn Matěj pokřtěn 22. 3. 1708 („Matěj syn Jana Bečky z Mokrého, matky Magdaleny“, na okraji „+“; N Všeň 5285 sn. 69 vlevo; M). Křest Jana ml. není v N 5285 IX 1707 – XII 1709 ani v N 5286 1710 – I 1715; sourozenci (M): Alžběta 4. 12. 1701 (5285 sn. 54 vpravo), Matěj 24. (?) 8. 1705 († před 1708; sn. 63 vlevo), Matěj 22. 3. 1708. Jan ml. v N Všeň VI 1701 – I 1715 není → *před VI 1701 (N 5285 sn. ~45–53).",
         "Jan ml. není v N Všeň VII 1697 – I 1715 (Zámrsk 35–38) → *před VII 1697 nebo jinde. Sňatek Jana st. × Magdaleny není v O 5285 XII 1693 – XI 1696.",
         "Jan ml. v N Všeň VI 1695 – I 1715 není (Zámrsk 35–39); Alžběta 1698 je spíš dcera Jana Kopeckého.",
-        "Křest zatím nenalezen; rodiče se vzali VI 1700 → *po VI 1700; N 5285/5286 1701–1715 prošlé jen částečně v ¼ rozlišení (nepřečteno pečlivě 1704, 1706–07, 1709–15)."
+        "Křest zatím nenalezen (rodiče × VI 1700): v ½ rozlišení prošlé N 5285 X 1703 – IV 1707 a N 5286 I 1710 – VII 1713 bez něj; v N 5286 chybějí zápisy VII–IX 1710 (vložený lístek nečitelný); slabě (¼) zbývá 1705, IV 1707 – XII 1709, VIII 1713 – I 1715. Nezaměňovat s Janem Bečkou ml. z Příšovic (ženatý už 1706)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 168 vpravo, pag. 303 (28. 4. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1",
