@@ -4111,7 +4111,8 @@ window.RODOKMEN = {
       notes: [
         "Manželka Josefa Trgjka, sedláka ve Volduchách č. 67; matka Veroniky (křest 12. 3. 1783 „Mutter Dorothea“, M). Babička Matěje Forejta; rodné příjmení nečitelné.",
         "Oddána 22. 11. 1757 v Oseku s Josefem Trgjkem jako „poctivá děvečka, vlastní dcera Do-rota Matěje Dudla též z Wolduch“ (M; jméno rozdělené přes konec řádku, ověřeno v plném rozlišení). Křest v rejstříku N Osek 1728–1739 (D) není – rejstřík neúplný.",
-        "Zemřela 19. 10. 1799 ve Volduchách č. 67: „Dorothea Eheweib des Joseph Trgjrk“, 65 let, vysílení (M). Věk 65 by dával narození ~1734 a porod Veroniky ve 49 letech – věk asi nadsazený (?)."
+        "Zemřela 19. 10. 1799 ve Volduchách č. 67: „Dorothea Eheweib des Joseph Trgjrk“, 65 let, vysílení (M). Věk 65 by dával narození ~1734 a porod Veroniky ve 49 letech – věk asi nadsazený (?).",
+        "Plzeň N84: křest není v Osek 02 N I 1728 – IV 1735 (montáže; mezery ~III–IV 1729, ~VII–IX 1733) – Matěj Dudl tam jako otec není. Pozor: ve Volduchách 1730. let tři páry Matěj × Rozina (Dudl, Hoška (?), Chmelařík). Zbývá Osek 02 N V 1735 – 1740 (rejstřík „Dudl Lydmila 99“ ~1737)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
@@ -12306,7 +12307,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Anny Merhautové: oddací zápis 1776 „Anna, filia legitima Joannis Hroniek, rustici ex Zdicz“ (M). Křest dcery Anny 16. 4. 1754 (manželka Kateřina; M). V indexu N Zdice 01 psán „Froněk“ (pod F).",
         "KANDIDÁT úmrtí (K): XII 1782 (den 5 ?) ve Zdicích „Joannes Froniek, rusticus Zdiensis“, 52 let (Zdice 01 Z, sn. 262 vpravo; M zápis – manželka neuvedena, ztotožnění jen jménem a obcí) → *~1730.",
-        "Praha N66: sňatek s Kateřinou není v Zdice 01 O X 1749 – XI 1753 (všechny zápisy; IV–X 1749 vybledlé); 25. 10. 1750 „Jan Kříška (?) × Kateřina“ porovnán s rukopisem „Jana Hronka“ 1754 – jiné příjmení (ověřeno koordinátorem). Ve Zdicích Václav a Anna Froňkovi (1752–53) – snad příbuzní (K). Zbývá O 1744–48 a fara nevěsty."
+        "Praha N66: sňatek s Kateřinou není v Zdice 01 O X 1749 – XI 1753 (všechny zápisy; IV–X 1749 vybledlé); 25. 10. 1750 „Jan Kříška (?) × Kateřina“ porovnán s rukopisem „Jana Hronka“ 1754 – jiné příjmení (ověřeno koordinátorem). Ve Zdicích Václav a Anna Froňkovi (1752–53) – snad příbuzní (K). Zbývá O 1744–48 a fara nevěsty.",
+        "Praha N67: syn Matěj pokřtěn 24. 2. 1749 Zdice (nar. 23. 2.) – „otec Jan Froněk, matka Kateřina, obojí poddaní k Točníku“ (Zdice 01 N sn. 22 vpravo, fol. 19; M; v indexu „Froněk“ – Hronek = Froněk) → sňatek nejpozději ~V 1748. Sňatek není v Zdice 01 O I 1744 – XI 1753 → před 1744 nebo ve farnosti nevěsty (Žebrák 03, Hořovice, Tmaň). Ve Zdicích tehdy i Václav Froněk a Matěj Froněk × 1745 Dorota Marešová (?) – snad příbuzní (K)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), O sn. 318 vlevo (1776)"
