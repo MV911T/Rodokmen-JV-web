@@ -12958,7 +12958,8 @@ window.RODOKMEN = {
       spouse: "magdalena_bc00",
       marriage: "VI 1700, Všeň – s Magdalenou, vdovou po Jakubu Bernatovi",
       notes: [
-        "KANDIDÁT (K+): otec Jana Bečky ml. (ženich 1733 „syn Jana Bečky ze vsi Mokrého“). Oddán VI 1700 ve Všeni: „poctivý mládenec Jan Bečka, pozůstalý syn po nebožt. Janovi (?) Bečkovi ze Všeně, s poctivou Magdalenou, pozůstalou vdovou po nebožt. Jakubovi Bernatovi z Mokrého“; družba Jan Plaský (?) z Olešnice (O 5285 sn. 86 vpravo; M zápis, ověřeno koordinátorem). Děti v Mokrém: Alžběta 4. 12. 1701, Matěj 1705 († před 1708), Matěj 22. 3. 1708. Zemřel 9. 11. 1743, 75 let (dřívější relace; K)."
+        "KANDIDÁT (K+): otec Jana Bečky ml. (ženich 1733 „syn Jana Bečky ze vsi Mokrého“). Oddán VI 1700 ve Všeni: „poctivý mládenec Jan Bečka, pozůstalý syn po nebožt. Janovi (?) Bečkovi ze Všeně, s poctivou Magdalenou, pozůstalou vdovou po nebožt. Jakubovi Bernatovi z Mokrého“; družba Jan Plaský (?) z Olešnice (O 5285 sn. 86 vpravo; M zápis, ověřeno koordinátorem). Děti v Mokrém: Alžběta 4. 12. 1701, Matěj 1705 († před 1708), Matěj 22. 3. 1708. Zemřel 9. 11. 1743, 75 let (dřívější relace; K).",
+        "Otec: † Jan Bečka ze Všeně – snad tentýž „nebožtík Bečka ze Všeně“, jehož vdova Dorota se 3. 11. 1686 vdala za Jana Hrdinu (O 5285 sn. 79 vpravo; M zápis, vazba K) → otec † před XI 1686, matka snad Dorota. V Z 5294 1690 – V 1702 žádný Bečka nezemřel."
       ],
       sources: [
         "SOA Zámrsk, O Všeň 5285, sn. 86 vpravo, fol. 160 (VI 1700)"
@@ -12976,7 +12977,8 @@ window.RODOKMEN = {
       spouse: "jan_bc00",
       marriage: "1) s Jakubem Bernatem z Mokrého; 2) VI 1700, Všeň – s Janem Bečkou",
       notes: [
-        "KANDIDÁTKA (K+): matka Jana Bečky ml. – vdova po † Jakubu Bernatovi z Mokrého, × VI 1700 Jan Bečka (O 5285 sn. 86 vpravo; M). Rodné příjmení neznámé. Ve Všeni nezemřela ~1740–1761."
+        "KANDIDÁTKA (K+): matka Jana Bečky ml. – vdova po † Jakubu Bernatovi z Mokrého, × VI 1700 Jan Bečka (O 5285 sn. 86 vpravo; M). Rodné příjmení neznámé. Ve Všeni nezemřela ~1740–1761.",
+        "1. manžel Jakub Bernat z Mokrého † 10. 1. 1700, 40 let (Z Všeň 5294 sn. 10 vlevo; M zápis, K+). Sňatek s Bernatem není v O 5285 I 1686 – IX 1698 (možná mezera XII 1696 – VI 1697) → před 1686, nebo v mezeře."
       ],
       sources: [
         "SOA Zámrsk, O Všeň 5285, sn. 86 vpravo, fol. 160 (VI 1700)"
