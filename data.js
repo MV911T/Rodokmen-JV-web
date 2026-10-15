@@ -12047,7 +12047,7 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁTKA (K+): matka Doroty Aubrechtové. Narozena 7. 11., pokřtěna 8. 11. 1728 ve Volduchách: „Kateřina, vlastní dcera Prokopa Hanzlíka a Barbory“ (Osek 02 N str. 8, sn. 6 vlevo; M zápis, jediná v rejstříku). Rodiče: Prokop Hanzlík × Barbora (sňatek nehledán).",
         "Podruhé oddána 29. 1. 1760 ve Volduchách: „Vojtěch, vlastní syn pozůstalý po † Danielovi Nuchovi, s poctivou vdovou Kateřinou pozůstalou po † Martinovi Čádovi“; družba Václav Kermes (Osek 04 O str. 1, sn. 66 vpravo; M) – dále Nuhová (Nuchová). Úmrtí nehledáno.",
-        "Úmrtí jako Nuchová není v Osek 08 Z Volduchy 1778 – VI 1788 (D); zbývá 1772–77 a VII 1788 – 1808."
+        "Úmrtí jako Nuchová není v Osek 08 Z Volduchy 1778 – VI 1788 (bez mezer, D); zbývá 1772–77 a VII 1788 – 1808."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 8 (sn. 6 vlevo); Osek 03 O str. 45 (sn. 131 vpravo)"
@@ -12766,10 +12766,12 @@ window.RODOKMEN = {
       cert: "K",
       b: {"date":"neznámé (asi 1715)","year":1715,"approx":true,"place":"Volduchy"},
       d: {"date":"9. 10. 1765","year":1765,"place":"Volduchy"},
+      father: "simon_gc",
+      mother: "ludmila_gc",
       spouse: "bartolomej_au",
       notes: [
         "KANDIDÁTKA (K+): matka Petra Aubrechta (*1749); dcera Šimona Gocha (?) (nativně – kurentní G; čtení „Hych“ opuštěno) z Volduch, × 28. 10. 1732 (Osek 02 O sn. 69 vpravo). Zemřela 9. 10. 1765, 50 let (dřívější relace, §285) → *~1715.",
-        "Otec Šimon Goch (?) × Lidmila – syn Šimon pokřtěn 26. 10. 1714 v Oseku („Simon syn Simona Gocha (?) a Lidmille manželky jeho“; Osek 01 N str. 134, sn. 69 vlevo; M zápis, K+ ztotožnění). Křest Anny v Osek 01 N X 1712 – V 1713 a XI 1713 – IV 1717 nenalezen (D)."
+        "Otec Šimon Goch (?) × Lidmila – syn Šimon pokřtěn 26. 10. 1714 v Oseku („Simon syn Simona Gocha (?) a Lidmille manželky jeho“; Osek 01 N str. 134, sn. 69 vlevo; M zápis, K+ ztotožnění). Křest Anny v Osek 01 N I 1709 – IV 1717 nenalezen (D) → *po IV 1717 (věk 50 při † 1765 by dával ~1715)."
       ],
       sources: [
         "SOA Plzeň, Osek 02 O, sn. 69 vpravo (28. 10. 1732)",
@@ -12777,6 +12779,39 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1749_N_Aubrecht_Petr_Volduchy.jpg","t":"Křest syna Petra, Volduchy 1749"}
+      ]
+    },
+    {
+      id: "simon_gc",
+      name: "Šimon Goch (Gech)",
+      line: "aubrecht",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1683)","year":1683,"approx":true},
+      spouse: "ludmila_gc",
+      marriage: "11. 5. 1708, Osek – s Lidmilou Swogdovou (?)",
+      notes: [
+        "KANDIDÁT (K+): otec Anny Aubrechtové – při jejím sňatku 28. 10. 1732 „vlastní dcera Šimona Gocha (?) z Volduch“ (Osek 02 O sn. 69 vpravo). Oddán 11. 5. 1708 v Oseku: „Simon Gech ex Wossek cum Ludmilla Swogdowa (?) ex pago Wossek“; svědci Matěj Wagner a Anna Latková (?) (Osek 01 O sn. 153 vlevo; M zápis). Děti: Vojtěch 23. 4. 1711 (sn. 56 vpravo), Šimon 26. 10. 1714 (sn. 69 vlevo); Anna (*po IV 1717 ?). Příjmení kolísá Goch / Gech / Gocha (?)."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O, sn. 153 vlevo (11. 5. 1708) – https://www.portafontium.eu/iipimage/30066667/osek-01_1531-o",
+        "SOA Plzeň, Osek 01 N, sn. 56 vpravo (1711), sn. 69 vlevo (1714)"
+      ]
+    },
+    {
+      id: "ludmila_gc",
+      name: "Lidmila Gochová",
+      maiden: "Swogdová (?)",
+      line: "aubrecht",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1688)","year":1688,"approx":true},
+      spouse: "simon_gc",
+      marriage: "11. 5. 1708, Osek – se Šimonem Gochem",
+      notes: [
+        "KANDIDÁTKA (K+): matka Anny Aubrechtové; × 11. 5. 1708 Osek (Osek 01 O sn. 153 vlevo; M zápis – rodné příjmení „Swogdowa“ nejisté); matka Vojtěcha (1711) a Šimona (1714)."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O, sn. 153 vlevo (11. 5. 1708) – https://www.portafontium.eu/iipimage/30066667/osek-01_1531-o",
+        "SOA Plzeň, Osek 01 N, sn. 56 vpravo (1711), sn. 69 vlevo (1714)"
       ]
     }
   ]
