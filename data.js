@@ -7368,7 +7368,8 @@ window.RODOKMEN = {
         "Druhý syn Martin (*1728 × 1751 Kateřina Hanzlíková, † 1759) – KANDIDÁT předka přes Dorotu Aubrechtovou (K).",
         "Manželka Markéta; děti ve Volduchách (Osek 01 N; M): Matouš 2. 9. 1719, Kateřina 3. 3. 1721, Barbora 6. 12. 1724, Jakub 29. 4. 1726, Martin 5. 10. 1728 – Pavel a Markéta jsou předky Jirky dvakrát (přes Matouše i Martina).",
         "Zemřel 20. 9. 1769 ve Volduchách (pohřben 22. 9.): „Paulus Čada, rusticus Wolduchensis, senex ut ipse agebat 100 annorum“ (Osek 04 Z str. 40, sn. 124 vlevo; M, nativně ověřeno agentem) – věk udaný jím samým nadsazen; 2. 7. 1715 byl ještě svobodný (družba, Osek 01 O sn. 158 vpravo; M) → *~1690. Sňatek s Markétou VII 1715 – II 1719 není v Osek 01 O → nejspíš ve faře nevěsty (stopa: kmotři z Litohlav).",
-        "KANDIDÁT křtu (K+): 22. 5. 1689 Volduchy – „pokřtěno dítě jménem Pavel. Rod.: Matouš Čuda, Kateřina. Kmot.: Pavel Lehner, Václav Hanzlík, Lyduška Opová (?)“ (Rokycany 02 N str. 78, sn. 41 vlevo; M, ověřeno koordinátorem) – jediný Pavel Čuda v rejstříku 1684–95; syn Matouš (1719) nese jméno děda; při úmrtí 1769 mu bylo 80 (ne 100). Sňatek s Markétou (1715–19) je nejspíš v Rokycanech (Litohlavy) – O Rokycany před 1736 nejsou digitalizovány."
+        "KANDIDÁT křtu (K+): 22. 5. 1689 Volduchy – „pokřtěno dítě jménem Pavel. Rod.: Matouš Čuda, Kateřina. Kmot.: Pavel Lehner, Václav Hanzlík, Lyduška Opová (?)“ (Rokycany 02 N str. 78, sn. 41 vlevo; M, ověřeno koordinátorem) – jediný Pavel Čuda v rejstříku 1684–95; syn Matouš (1719) nese jméno děda; při úmrtí 1769 mu bylo 80 (ne 100). Sňatek s Markétou (1715–19) je nejspíš v Rokycanech (Litohlavy) – O Rokycany před 1736 nejsou digitalizovány.",
+        "Dcera Barbora (*1724) † 3. 12. 1724, 1 rok (Osek 01 Z sn. 188 vlevo; M)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o",
@@ -13383,12 +13384,15 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "K",
       b: {"date":"neznámé (odhad ~1660)","year":1660,"approx":true,"place":"Volduchy"},
+      d: {"date":"14. 5. 1712","year":1712,"place":"Volduchy (fara Osek)"},
       spouse: "katerina_cd",
       notes: [
-        "KANDIDÁT (K+): otec Pavla Čady (*1689). Děti s Kateřinou ve Volduchách (rejstřík Rokycany 02 N, 1684–95): Jan (str. 53), Pavel (str. 78, 22. 5. 1689; M), Dorota (str. 114), Judita (str. 143). Sňatek a úmrtí nehledány (Osek 01 Z 1705–27)."
+        "KANDIDÁT (K+): otec Pavla Čady (*1689). Děti s Kateřinou ve Volduchách (rejstřík Rokycany 02 N, 1684–95): Jan 22. 6. 1687 (str. 53), Pavel 22. 5. 1689 (str. 78), Dorota 27. 4. 1692 (str. 114), Judita 28. 10. 1694 (?) (str. 143) – vždy kmotři Václav Hanzlík, Pavel Lehner, Lyduška Opová (M) → sňatek ~1685–86 (O Rokycany před 1736 nedostupné; v Osek 01 O 1675–88 není).",
+        "KANDIDÁT úmrtí (K+): pohřben 14. 5. 1712 ve Volduchách – „Matouš Čzuda z Volduch, opatřen všemi svátostmi“, věk neuveden (Osek 01 Z sn. 201 vpravo, str. 396; M zápis) – jediný Matouš Čuda v Osek 01 Z. Snad týž Matouš × Magdalena (dítě 1703) × Barbora (dítě 1706) → Kateřina † ~1695–1703 (K)."
       ],
       sources: [
-        "SOA Plzeň, Rokycany 02 N, str. 78, sn. 41 vlevo (22. 5. 1689) – https://www.portafontium.eu/iipimage/30067886/rokycany-02_0410-n"
+        "SOA Plzeň, Rokycany 02 N, str. 78, sn. 41 vlevo (22. 5. 1689) – https://www.portafontium.eu/iipimage/30067886/rokycany-02_0410-n",
+        "SOA Plzeň, Osek 01 Z sn. 201 vpravo (1712)"
       ],
       scans: [
         {"f":"img/1689_N_Cada_Pavel_Volduchy.jpg","t":"Křest syna Pavla, Volduchy 1689"}
@@ -13402,7 +13406,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1665)","year":1665,"approx":true},
       spouse: "matous_cd",
       notes: [
-        "KANDIDÁTKA (K+): matka Pavla Čady (*1689) – viz Matouš Čada."
+        "KANDIDÁTKA (K+): matka Pavla Čady (*1689) – viz Matouš Čada.",
+        "Úmrtí není v Osek 01 Z 1705–1727 – zemřela snad ~1695–1703 (Matouš má 1703 manželku Magdalenu ?; K)."
       ],
       sources: [
         "SOA Plzeň, Rokycany 02 N, str. 78, sn. 41 vlevo (22. 5. 1689) – https://www.portafontium.eu/iipimage/30067886/rokycany-02_0410-n"
