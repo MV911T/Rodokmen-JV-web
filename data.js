@@ -11131,7 +11131,8 @@ window.RODOKMEN = {
         {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest dcery Terezie, Ohrazenice 17. 10. 1813"},
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest vnuka Jana, Kosík 29. 6. 1851"},
         {"f":"img/1832_Z_Mrazova_Dorota_Ohrazenice.jpg","t":"Úmrtí 19. 11. 1832, Ohrazenice č. 8"},
-        {"f":"img/1837_Z_Mraz_Jan_Ohrazenice.jpg","t":"Úmrtí manžela Jana, Ohrazenice 1837"}
+        {"f":"img/1837_Z_Mraz_Jan_Ohrazenice.jpg","t":"Úmrtí manžela Jana, Ohrazenice 1837"},
+        {"f":"img/1810_Z_Becka_Filip_Ohrazenice14.jpg","t":"Úmrtí otce Filipa Bečky, Ohrazenice 1810"}
       ]
     },
     {
@@ -11176,22 +11177,27 @@ window.RODOKMEN = {
       name: "Filip Bečka",
       line: "mraz",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      b: {"date":"neznámé (asi 1740)","year":1740,"approx":true},
+      d: {"date":"30. 12. 1810","year":1810,"place":"Ohrazenice č. p. 14"},
+      cause: "úbytě (?)",
       spouse: "dorota_bc",
       occ: "chalupník v Ohrazenicích č. 14",
       notes: [
         "Chalupník v Ohrazenicích (Wohrazenicích) č. 14; otec Doroty, provdané Mrázové (křest vnučky Terezie 1813, sňatek 1833 – M).",
-        "Syn Matěj 23. 7. 1781 (č. 14; M). Kmotr Matěj Bečka, sedlák z Mokrého (fara Všeň) – rod Bečků snad z Mokrého (K). Sňatek s Dorotou v O Přepeře XI 1770 – XI 1774 není; úmrtí v Z 5102 Ohrazenice do 1818 (č. 14) nenalezeno (kandidát 1810 neověřen)."
+        "Syn Matěj 23. 7. 1781 (č. 14; M). Kmotr Matěj Bečka, sedlák z Mokrého (fara Všeň) – rod Bečků snad z Mokrého (K). Sňatek s Dorotou v O Přepeře XI 1770 – XI 1774 není;",
+        "Zemřel 30. 12. 1810 v Ohrazenicích č. 14: „Filip Bečka, chalupník“, 70 let, „na úbytě (?)“; pohřbil Vojtěch Patočka, lokalista (Z 5102, sn. 116 vlevo, pag. 27; M, ověřeno koordinátorem) → *~1740. V č. 14 zemřel 6. 4. 1828 i Josef Bečka, výměnkář, 70 let (K: bratr ?). Sňatek s Dorotou v O Přepeře 1758–1774 ani ve Všeni X 1766 – II 1775 není."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, kniha 5296, N sn. 208 vlevo, pag. 406 (23. 7. 1781)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, kniha 5296, N sn. 208 vlevo, pag. 406 (23. 7. 1781)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, Z 5102, sn. 116 vlevo (1810)"
       ],
       scans: [
         {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"},
         {"f":"img/1774_N_Beckova_Dorota_Ohrazenice.jpg","t":"Křest dcery Doroty, Ohrazenice 1774"},
-        {"f":"img/1781_N_Becka_Matej_Ohrazenice14.jpg","t":"Křest syna Matěje, Ohrazenice č. 14, 1781"}
+        {"f":"img/1781_N_Becka_Matej_Ohrazenice14.jpg","t":"Křest syna Matěje, Ohrazenice č. 14, 1781"},
+        {"f":"img/1810_Z_Becka_Filip_Ohrazenice14.jpg","t":"Úmrtí 30. 12. 1810, Ohrazenice č. 14"}
       ]
     },
     {
@@ -11204,7 +11210,8 @@ window.RODOKMEN = {
       spouse: "filip_bc",
       notes: [
         "Manželka Filipa Bečky z Ohrazenic č. 14, „rozená Vlasová (?)“ – křest vnučky Terezie 1813 (M; příjmení nejisté).",
-        "Křest syna Matěje 23. 7. 1781 v Ohrazenicích č. 14: „Berzka Philippus casarius, et uxor ejus Dorothea nata Waniczkin“; kmotři Matěj Bečka, sedlák z Mokrého, a Kateřina, manželka Jakuba Plaška, sedláka z Ohrazenic (5296 sn. 208 vlevo; M, ověřeno koordinátorem) → rodné příjmení Vaníčková. ROZPOR: křest vnučky 1813 čten „Vlasová (?)“ – platí starší a čitelný zápis 1781."
+        "Křest syna Matěje 23. 7. 1781 v Ohrazenicích č. 14: „Berzka Philippus casarius, et uxor ejus Dorothea nata Waniczkin“; kmotři Matěj Bečka, sedlák z Mokrého, a Kateřina, manželka Jakuba Plaška, sedláka z Ohrazenic (5296 sn. 208 vlevo; M, ověřeno koordinátorem) → rodné příjmení Vaníčková. ROZPOR: křest vnučky 1813 čten „Vlasová (?)“ – platí starší a čitelný zápis 1781.",
+        "Úmrtí v Ohrazenicích 1785–1842 není (Zámrsk 10, 22, 23) – zemřela jinde (u dětí ?)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
