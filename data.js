@@ -11086,7 +11086,8 @@ window.RODOKMEN = {
       notes: [
         "Domkář v Heršpicích č. 18; otec Magdaleny, která se 8. 11. 1808 vdala za Pavla Láníčka (M); v křtu vnučky 1822 a v zápisech 1841 „čtvrtník“. Datum narození je odhad podle dcery (*~1786).",
         "KANDIDÁT manželky: Marina – matka Magdaleny pokřtěné 21. 5. 1784 v Heršpicích č. 38 („Franz Wilam, čtvrtník × Marina“; jediná Magdalena Wilam v indexu 1784–1790; K).",
-        "KANDIDÁT úmrtí (K+): 22. 6. 1815 (pohřben 24. 6.) Heršpice č. 38 – „Franz Wilam, 4tler“, 77 let, sešlost věkem (Z 13149 sn. 262 vlevo, str. 276; M zápis, ověřeno koordinátorem) → *~1738; sedí dům č. 38 a „čtvrtník“ z křtu dcery 1784. Pozor: druhý František Wilam, podruh z č. 36, † 24. 10. 1810, 77 let (str. 271) – jiná osoba (*~1733). Křest ~1738 hledat v N 13121 sn. 2–8; sňatek s Marinou nejspíš před 1770."
+        "KANDIDÁT úmrtí (K+): 22. 6. 1815 (pohřben 24. 6.) Heršpice č. 38 – „Franz Wilam, 4tler“, 77 let, sešlost věkem (Z 13149 sn. 262 vlevo, str. 276; M zápis, ověřeno koordinátorem) → *~1738; sedí dům č. 38 a „čtvrtník“ z křtu dcery 1784. Pozor: druhý František Wilam, podruh z č. 36, † 24. 10. 1810, 77 let (str. 271) – jiná osoba (*~1733). Křest ~1738 hledat v N 13121 sn. 2–8; sňatek s Marinou nejspíš před 1770.",
+        "MZA N51: syn Martin pokřtěn 2. 11. 1770 Heršpice – „Franciscus Willam, Marina, Herspitiis“, kmotr Jan Wimazal (NOZ 13121 sn. 229 vlevo, pag. 107; M; ztotožnění s Františkem z č. 38 K+) → s Marinou ženat nejpozději 1770. Sňatek není v O 13121 XI 1764 – I 1771 (čteno slabě, D−); křest není v N VI 1737 – IX 1738 (D−). Ve Slavkově 1737 Jan Wylam × Anna (dcera Alžběta) – snad příbuzní (K)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959",
