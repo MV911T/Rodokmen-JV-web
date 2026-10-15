@@ -13579,7 +13579,8 @@ window.RODOKMEN = {
       spouse: "dorota_cv",
       notes: [
         "Z Knížkovic; otec Vojtěcha Červeného – „Vojtěch, vlastní syn Josefa Červeného“ (sňatek 1752; Zdice 01 O sn. 283 vlevo; M). S Dorotou děti Vojtěch ~14. 4. 1730 a Matěj 16. 1. 1733 (Žebrák 01 N sn. 89 vpravo, 95 vpravo; M). Josef Červený × Barbora (Lidmila 5. 9. 1751, Knížkovice) – snad 2. manželství (K). Sňatek s Dorotou v mezeře O Žebrák 01 XII 1727 – IX 1732 (nedohledatelný).",
-        "Dcera Anna pokřtěna 14. 4. 1729 Knížkovice (Josef × Dorota; Žebrák 01 N sn. 87 vpravo; M) – nejstarší známé dítě."
+        "Dcera Anna pokřtěna 14. 4. 1729 Knížkovice (Josef × Dorota; Žebrák 01 N sn. 87 vpravo; M) – nejstarší známé dítě.",
+        "KANDIDÁTI rodičů (K): Jan Červený × Kateřina, oddáni 6. 1. 1702 (z Knížkovic ?; Žebrák 02 O sn. 452 vpravo; M zápis, obec a příjmení nevěsty nejisté). Křest Josefa nenalezen – hledat v přivázané zdické N 1705–16 (Žebrák 02 ~sn. 305–315) a Žebrák 01 N sn. 30–40."
       ],
       sources: [
         "SOA Praha, Zdice 01 (9095) O, sn. 283 vlevo, pag. 14 (20. 11. 1752) – https://ebadatelna.soapraha.cz/d/9095/283",
@@ -13608,7 +13609,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
       notes: [
         "Otec Anny Červené – „Anna, vlastní dcera Františka Kosole (?)“ (sňatek 1752; Zdice 01 O sn. 283 vlevo; M zápis, příjmení nejisté). Obec neuvedena.",
-        "Příjmení nejspíš Kozler (Kossler) – v Knížkovicích hojný rod Kozlerů (rejstřík N Zdice 01 1744–84: Franc, Jakub, Anna, Vojtěch …); Kosol/Kosel tam není (K). Křest Anny (~1730) spadá do mezery N Žebrák 01 XII 1730 – IX 1732."
+        "Příjmení nejspíš Kozler (Kossler) – v Knížkovicích hojný rod Kozlerů (rejstřík N Zdice 01 1744–84: Franc, Jakub, Anna, Vojtěch …); Kosol/Kosel tam není (K). Křest Anny (~1730) spadá do mezery N Žebrák 01 XII 1730 – IX 1732.",
+        "Kosslerové v Knížkovicích 1748–50: Pavel Kossler × Kateřina (děti František 17. 8. 1748, Jakub 29. 10. 1750 ?; Zdice 01 N sn. 20 vpravo, 29 vlevo; M) – František Kossler jako otec zatím nedoložen (K)."
       ],
       sources: [
         "SOA Praha, Zdice 01 (9095) O, sn. 283 vlevo, pag. 14 (20. 11. 1752) – https://ebadatelna.soapraha.cz/d/9095/283"
