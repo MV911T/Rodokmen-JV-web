@@ -8865,7 +8865,7 @@ window.RODOKMEN = {
       marriage: "26. 9. 1773, Bykoš – s Janem Klikou",
       notes: [
         "Manželka Jana Kliky, sedláka v Bykoši č. 10; matka Kateřiny (*1776). Oddána 26. 9. 1773 jako „Catharina propria filia Wenceslai Chwatal molitoris Suchomastensis“ (Borek 03 sn. 240 vlevo; M).",
-        "KANDIDÁT křtu (K+): 28. 1. 1753 Suchomasty – „narozena a téhož dne pokřtěna dcera Kateřina Carolina z poctivých rodičův otce Václava Chvátala, M. Roziny (?)“; L. Kateřina Burganová (?) z Suchomast, T. Václav Klika z Bykoše, Ludmila Nováková (?) z Suchomast (Borek 03 N sn. 22 vpravo, p. 39; M, ověřeno koordinátorem) – jediná Kateřina s otcem Václavem Chvátalem v rejstříku N 1748–73; při sňatku 20 let. Nezaměňovat s Kateřinou, dcerou Jana Chvátala, kolaře × Anny Velíkové (24. 6. 1753)."
+        "KANDIDÁT křtu (K+): 28. 1. 1753 Suchomasty – „narozena a téhož dne pokřtěna dcera Kateřina Carolina z poctivých rodičův otce Václava Chvátala, M: Jozefy“ (dříve čteno „Roziny ?“); L. Kateřina Burganová (?) z Suchomast, T. Václav Klika z Bykoše, Ludmila Nováková (?) z Suchomast (Borek 03 N sn. 22 vpravo, p. 39; M, ověřeno koordinátorem) – jediná Kateřina s otcem Václavem Chvátalem v rejstříku N 1748–73; při sňatku 20 let. Nezaměňovat s Kateřinou, dcerou Jana Chvátala, kolaře × Anny Velíkové (24. 6. 1753)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20",
@@ -12517,15 +12517,18 @@ window.RODOKMEN = {
       name: "Václav Chvátal",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true,"place":"Suchomasty"},
+      b: {"date":"neznámé (asi 1716)","year":1716,"approx":true},
+      d: {"date":"5. 9. 1802","year":1802,"place":"Suchomasty č. p. 56"},
       spouse: "rozina_chv",
       occ: "mlynář v Suchomastech",
       notes: [
         "Otec Kateřiny Klikové – oddací zápis 1773 „filia Wenceslai Chwatal molitoris Suchomastensis“ (M). Kmotr vnučky 1776 Jakub Chvátal, mlynář ze Suchomast (asi syn).",
-        "Sňatek není v rejstřících O Borek 02 (1710–47) ani 03 (1748–73) → mimo faru; úmrtí není v Z Borek 04 (1774–84). V r. 1776 držel mlýn v Suchomastech Jakub Chvátal (manželka Anna † IV 1776, 25 let; snad syn Václava; K)."
+        "Sňatek není v rejstřících O Borek 02 (1710–47) ani 03 (1748–73) → mimo faru. Jakub Chvátal, mlynář na dolejším mlýně č. 25 (1776–1790), je syn Josefa Chvátala, ne Václava.",
+        "Zemřel 5. 9. 1802 v Suchomastech č. 56: „Václav Chvátal, mlynář“, 86 let, „starostí“ (Borek 06 Z sn. 117 vpravo; M zápis, K+ ztotožnění – povolání jako 1773) → *~1716. Děti s Josefou: Kateřina 1753, Anna 1755, Josefa 1757 (snad i Šimon a Matěj z 1. manželství ?)."
       ],
       sources: [
-        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 03 (O), pag. 98, sn. 240 vlevo (26. 9. 1773) – https://ebadatelna.soapraha.cz/d/4072/240"
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 03 (O), pag. 98, sn. 240 vlevo (26. 9. 1773) – https://ebadatelna.soapraha.cz/d/4072/240",
+        "SOA Praha, Borek 06 (4075) Z, sn. 117 vpravo (1802) – https://ebadatelna.soapraha.cz/d/4075/117"
       ],
       scans: [
         {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek dcery Kateřiny, Bykoš 1773"},
@@ -13359,13 +13362,13 @@ window.RODOKMEN = {
     },
     {
       id: "rozina_chv",
-      name: "Rozina Chvátalová",
+      name: "Josefa Chvátalová",
       line: "nezname",
       cert: "K",
       b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
       spouse: "vaclav_chv",
       notes: [
-        "KANDIDÁTKA (K): matka Kateřiny Klikové – křest 1753 „otce Václava Chvátala, M. Roziny (?)“ (Borek 03 N sn. 22 vpravo; čtení jména nejisté). Rodné příjmení neznámé."
+        "KANDIDÁTKA (K+): matka Kateřiny Klikové – křest 1753 „otce Václava Chvátala, M: Jozefy“ (Borek 03 N sn. 22 vpravo; dřívější čtení „Roziny ?“ opraveno koordinátorem srovnáním) – i u dcer Anny 4. 7. 1755 a Josefy 4. 4. 1757 „M: Jozefy“, stejní kmotři (Borek 03 sn. 31 vpravo, 37 vpravo; M). Rodné příjmení neznámé."
       ],
       sources: [
         "SOA Praha, Borek 03 (4072) N, sn. 22 vpravo, p. 39 (28. 1. 1753) – https://ebadatelna.soapraha.cz/d/4072/22"
