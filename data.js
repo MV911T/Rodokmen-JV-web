@@ -11480,7 +11480,8 @@ window.RODOKMEN = {
         "KANDIDÁT sourozence (K): Vojtěch Mráz, „filius defuncti Joannis Mraz casarii Wohrazenicensis“, × 21. 11. 1773 Magdalena, dcera † Václava Prachty (?) (5296 O sn. 289 vlevo; M zápis) – Jan st. st. snad jeho bratr; otec Jan Mráz † před 1763.",
         "Křest v N Přepeře 1740–1749 (Ohrazenice) není; snad *~1738–40 jako syn Jana Mráze × Magdaleny Novářové (× X 1737, O Všeň 5291 sn. 43 vpravo; K).",
         "KANDIDÁT křtu (K+): 24. 6. 1740 Ohrazenice (subd. Rohozec) – „Joannes, P[ater] Joannes Mraz, M[ater] Magdalena“; levans Václav Mráz, svědci Jiří Mráz a Dorota, manželka Václava Prachty, všichni z Ohrazenic (N Všeň 5286 sn. 169 vlevo; M zápis, ověřeno koordinátorem). Rodiče × X 1737 Všeň (Jan Mráz × Magdalena, dcera Jiřího Nováře ?; O 5291 sn. 43 vpravo); sestry Anna (13. 4. 1738) a Magdalena (?) (19. 7. 1739). Věk 50 při † 1794 by dával ~1744 – tolerance; v Ohrazenicích žil i starší Jan Mráz.",
-        "Otčím Václav Prachta (× 9. 9. 1742 vdova Magdalena). V Z Všeň 1740 – VI 1755 nezemřel (Zámrsk 32–33, střední negativ)."
+        "Otčím Václav Prachta (× 9. 9. 1742 vdova Magdalena). V Z Všeň 1740 – VI 1755 nezemřel (Zámrsk 32–33, střední negativ).",
+        "Nevlastní sourozenci (Václav Prachta × Magdalena): Václav *29. (?) 10. 1744 (N 5286 sn. 193 vpravo), Magdalena *13. 10. 1748 (N 5296 sn. 94 vlevo; M). V Ohrazenicích žil i druhý Václav Prachta × Dorota."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
@@ -11510,7 +11511,8 @@ window.RODOKMEN = {
         "Zemřela náhle 19. 3. 1789 v Ohrazenicích č. 8: „Catharina Eheweib des Johann Mraz, Chalupner“, „improvise mortua“, věk nejistě čten (37 ?) (Z 5102, sn. 104 vlevo, pag. 3; M).",
         "K ROZPORU (Zámrsk 30): čtení „Kopušilová“ (1782) se blíží příjmení Kobosil – Kobosilové žili v Ohrazenicích 1740–1766 hojně (např. Jan, syn † Václava Kobosila, × IX 1766 Kateřina, dcera † Jana Mráze; O 5296 sn. 280 vlevo) → možná „Kobosilová (?)“ (K). Sňatek s Janem Mrázem ve Všeni 1766–1775 a v Přepeřích 1758–1774 není; rozpor trvá.",
         "Kandidátka (K): Kateřina, dcera Václava Kobosila × Anny, pokřtěná 13. 9. 1740 nebo ~1741/42 Ohrazenice (N Všeň 5286 sn. 170 vlevo / 176 vlevo; čteno jen ve ¼) – sedí ke čtení „Kopušilová/Kobosilová“ (1782); Prošník ani Jelínek v N Ohrazenice 1740–45 není.",
-        "Kandidátka upřesněna (K): Kateřina, dcera Václava Kobosila × Anny, pokřtěná 25. (?) 10. 1741 Ohrazenice (kmotr mj. Jan Mráz; N Všeň 5286 sn. 176 vlevo; M zápis, plné rozlišení) – starší sestra Kateřina (*13. 9. 1740) zemřela před X 1741; mladší v Z 1741 – VI 1755 nezemřela."
+        "Kandidátka upřesněna (K): Kateřina, dcera Václava Kobosila × Anny, pokřtěná 25. (?) 10. 1741 Ohrazenice (kmotr mj. Jan Mráz; N Všeň 5286 sn. 176 vlevo; M zápis, plné rozlišení) – starší sestra Kateřina (*13. 9. 1740) zemřela před X 1741; mladší v Z 1741 – VI 1755 nezemřela. OSLABENO (Zámrsk 34): Kateřina, dcera † Václava Kobosila z Ohrazenic, se X 1764 provdala za Jana Medka (O 5296 sn. 278 vlevo; M) – v Ohrazenicích ale žili dva Václavové Kobosilové.",
+        "Sňatek s Janem Mrázem není v O Všeň ani Přepeře 1758–1775 (Ohrazenice) → nejspíš ve farnosti nevěsty."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
