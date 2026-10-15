@@ -3271,7 +3271,8 @@ window.RODOKMEN = {
         "KANDIDÁTI rodičů (K): Tomáš Votava, výminkář v Cetuli č. 4, a Magdalena († 13. 11. 1807 Cetule č. 4, 66 (?) let – „Magdalena manž. Tomáše Wotawy, wejminkáře“; Z 8206, sn. 26 vlevo; M zápis, příjmení ověřeno srovnáním písmene W). V č. 4 hospodařil Jan Votava (× Magdalena Dajzová) – snad Martinův bratr. Vazba nedoložena. Úmrtí Tomáše v Z 8206 do 1821 není. Jan Wotawa, sedlák v č. 4, × Rozalie Ma…ová (?) (křest dcery Magdaleny 1802).",
         "Jan Wotawa z Cetule č. 4 (snad mladší bratr, K) se 20. 1. 1801 oženil podruhé – vdovec, 27 let (→ *~1774), s Rozárou Mazinec (?) (8197 sn. 4 vpravo; M); formulář rodiče neuvádí.",
         "KANDIDÁT (K) na matku: Anna, † 24. 11. 1818 Jetřichovec č. 10 (dům Jana a Kateřiny 1816–19), 70 let, „manželka Jana Wotka (?)“ s pozdější vložkou „Wottawa (?)“ (6239 sn. 114 vlevo) – konkuruje kandidátům Tomáš × Magdalena z Cetule. Před 1815 v Jetřichovci žádný Votava (index N 6256).",
-        "V N Velká Chyška 8199 (1801 – ~1816) Martin Votava z Cetule 8 jako otec není – rodina zřejmě odešla brzy po 1800 (Třeboň N11). Nezaměňovat: Martin Wottawa „mladý“, sedlák a dědic gruntu v Bratřicích č. 3, × Terezie, dcera Martina Mařince (?), rychtáře – děti Kateřina XI 1807, Anna ~1811 (8199 sn. 45, 68; M zápisy) – jiná osoba."
+        "V N Velká Chyška 8199 (1801 – ~1816) Martin Votava z Cetule 8 jako otec není – rodina zřejmě odešla brzy po 1800 (Třeboň N11). Nezaměňovat: Martin Wottawa „mladý“, sedlák a dědic gruntu v Bratřicích č. 3, × Terezie, dcera Martina Mařince (?), rychtáře – děti Kateřina XI 1807, Anna ~1811 (8199 sn. 45, 68; M zápisy) – jiná osoba.",
+        "Kde rodina žila 1800–1815, zatím nevyřešeno: V. Chyška (N 8199 1801–~1816, Z 8206 1800–~1821), Pacov-město (Wottawové 1806–1812 = Franz × Josefa Lubová ?), Lukavec – bez Martina (Třeboň N11–N12)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3307,7 +3308,8 @@ window.RODOKMEN = {
         "Matka Jana Votavy; „dcera Martina Marody / Mrkvy (?), podruha z Lom-nice / Lomné (?) č. 23“ (křest vnučky 1834, sňatek syna 1844).",
         "Terezie † 1833 (60 let → *~1773) nemůže být dcerou Martina Maredy oddaného 1787 v Lomné (24 let) – buď starší Martin Maroda, nebo chybné věky. „Lom-nice č. 23“ (1834) / „z Lomnic č. 23“ (1836) – obec neověřena.",
         "Oddána 20. 1. 1789 v Bratřicích s Martinem Votavou, 19 (?) let (M). Marodové žili i v Bratřicích (1789 ženich Bartoloměj Maroda, svědkyně Terezie a Magdalena Marodová – K).",
-        "KANDIDÁT příbuzného (K): Bartoloměj Mareda, Bratřice č. 7 (dům sňatku 1789), † ~XII 1813, 50 let (Z 8206 sn. 49) – snad bratr Terezie; Martin dal prvnímu synovi jméno Bartoloměj (1792)."
+        "KANDIDÁT příbuzného (K): Bartoloměj Mareda, Bratřice č. 7 (dům sňatku 1789), † ~XII 1813, 50 let (Z 8206 sn. 49) – snad bratr Terezie; Martin dal prvnímu synovi jméno Bartoloměj (1792).",
+        "Oddací zápis 1789 znovu přečten zvětšeně: „Terezia Marode“, 19 let (8196 sn. 3, pag. II, No 7; M) – krátké příjmení, ne Mařincová (Mařincovi jsou v Bratřicích samostatná rodina)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
