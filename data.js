@@ -3273,7 +3273,8 @@ window.RODOKMEN = {
         "KANDIDÁT (K) na matku: Anna, † 24. 11. 1818 Jetřichovec č. 10 (dům Jana a Kateřiny 1816–19), 70 let, „manželka Jana Wotka (?)“ s pozdější vložkou „Wottawa (?)“ (6239 sn. 114 vlevo) – konkuruje kandidátům Tomáš × Magdalena z Cetule. Před 1815 v Jetřichovci žádný Votava (index N 6256).",
         "V N Velká Chyška 8199 (1801 – ~1816) Martin Votava z Cetule 8 jako otec není – rodina zřejmě odešla brzy po 1800 (Třeboň N11). Nezaměňovat: Martin Wottawa „mladý“, sedlák a dědic gruntu v Bratřicích č. 3, × Terezie, dcera Martina Mařince (?), rychtáře – děti Kateřina XI 1807, Anna ~1811 (8199 sn. 45, 68; M zápisy) – jiná osoba.",
         "Kde rodina žila 1800–1815, zatím nevyřešeno: V. Chyška (N 8199 1801–~1816, Z 8206 1800–~1821), Pacov-město (Wottawové 1806–1812 = Franz × Josefa Lubová ?), Lukavec – bez Martina (Třeboň N11–N12).",
-        "Dcera Barbora (*4. 12. 1799 Cetule) × Václav Zajíček, domkář v Jetřichovci č. 22 – křest syna Václava 1834: „Barbora, dcera Martina Wotawy, chalupníka z Cetule, a Terezie roz. Marody, sedláka z Bratřic“ (6239 sn. 56, fol. 68; M)."
+        "Dcera Barbora (*4. 12. 1799 Cetule) × 30. 10. 1826 (rok podle indexu 6256) v Jetřichovci Václav Zajíček, syn Josefa, domkáře č. 22: nevěsta „Barbora, dcera Martina Wottawy, výminkáře (?) z Jetřichovce, matky Terezie, Martina Marody z Bratřic“, 26 let (6239 sn. 71, fol. 13; M) – Martin 1826 žil. Křest syna 1834 (fol. 68): „Barbora, dcera Martina Wotawy, chalupníka z Cetule, a Terezie roz. Marody, sedláka z Bratřic“.",
+        "Index NOZ 6260 (vesnice fary Pacov 1800–1849): Votavové v Jetřichovci až od sňatku Jana VI 1815; jediný jiný záznam „Wotawa Wenceslaus † 26. 2. 1809 Zhořec“ (6249, Z pag. 15) – nečteno, snad příbuzný (K)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3314,7 +3315,7 @@ window.RODOKMEN = {
         "Oddána 20. 1. 1789 v Bratřicích s Martinem Votavou, 19 (?) let (M). Marodové žili i v Bratřicích (1789 ženich Bartoloměj Maroda, svědkyně Terezie a Magdalena Marodová – K).",
         "KANDIDÁT příbuzného (K): Bartoloměj Mareda, Bratřice č. 7 (dům sňatku 1789), † ~XII 1813, 50 let (Z 8206 sn. 49) – snad bratr Terezie; Martin dal prvnímu synovi jméno Bartoloměj (1792).",
         "Oddací zápis 1789 znovu přečten zvětšeně: „Terezia Marode“, 19 let (8196 sn. 3, pag. II, No 7; M) – krátké příjmení, ne Mařincová (Mařincovi jsou v Bratřicích samostatná rodina).",
-        "Zemřela 27. 6. 1833 v Jetřichovci č. 42 jako vdova po Martinu Wotawovi, 60 let (K+; v r. 1839 je u dcery Barbory „† matky Terezie“ – 6239 sn. 88). ROZPOR příjmení: zápis 1839 píše „roz. Martina Mař…rince (?) / Mar…ouny (?), sedláka z Cetule“, křest 1834 „Terezie roz. Marody, sedláka z Bratřic“, oddací 1789 „Terezia Marode“ – platí původní zápis (Marode)."
+        "Zemřela 27. 6. 1833 v Jetřichovci č. 42 jako vdova po Martinu Wotawovi, 60 let (K+; v r. 1839 je u dcery Barbory „† matky Terezie“ – 6239 sn. 88). Příjmení: oddací zápis dcery Barbory 30. 10. 1826 (Jetřichovec) „matky Terezie, Martina Marody z Bratřic“ (6239 sn. 71, fol. 13; M) potvrzuje Marodu; zkomolené „Mař…“ (1839) je chyba písaře – rozpor uzavřen."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
