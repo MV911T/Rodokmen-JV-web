@@ -7356,6 +7356,7 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      d: {"date":"20. 9. 1769","year":1769,"place":"Volduchy (fara Osek)"},
       spouse: "marketa_ca",
       occ: "Volduchy",
       notes: [
@@ -7363,7 +7364,8 @@ window.RODOKMEN = {
         "Dcera Markéta se v květnu 1741 provdala za Víta Nového z Oseka; družbou Václav Čada (asi syn). Matěj Čada z Volduch (sňatek 1740) byl syn Jana (?) Čady – jiná rodina.",
         "Syn Martin pokřtěn 6. 10. 1728 ve Volduchách – „Martin, vlastní syn Pavla Čady a Markéty, manželky jeho“ (Osek 02 N str. 7, sn. 5 vpravo; M) → manželka Pavla 1728 = Markéta (KANDIDÁTKA na matku Matouše). Martin × 14. 11. 1751 Kateřina, dcera Prokopa Hanzlíka (* 7. 11. 1728, Prokop × Barbora; K+), † 1. 8. 1759 Volduchy, „34 let“ (Osek 03 Z sn. 193; K+).",
         "Druhý syn Martin (*1728 × 1751 Kateřina Hanzlíková, † 1759) – KANDIDÁT předka přes Dorotu Aubrechtovou (K).",
-        "Manželka Markéta; děti ve Volduchách (Osek 01 N; M): Matouš 2. 9. 1719, Kateřina 3. 3. 1721, Barbora 6. 12. 1724, Jakub 29. 4. 1726, Martin 5. 10. 1728 – Pavel a Markéta jsou předky Jirky dvakrát (přes Matouše i Martina)."
+        "Manželka Markéta; děti ve Volduchách (Osek 01 N; M): Matouš 2. 9. 1719, Kateřina 3. 3. 1721, Barbora 6. 12. 1724, Jakub 29. 4. 1726, Martin 5. 10. 1728 – Pavel a Markéta jsou předky Jirky dvakrát (přes Matouše i Martina).",
+        "Zemřel 20. 9. 1769 ve Volduchách (pohřben 22. 9.): „Paulus Čada, rusticus Wolduchensis, senex ut ipse agebat 100 annorum“ (Osek 04 Z str. 40, sn. 124 vlevo; M, nativně ověřeno agentem) – věk udaný jím samým nadsazen; 2. 7. 1715 byl ještě svobodný (družba, Osek 01 O sn. 158 vpravo; M) → *~1690. Sňatek s Markétou VII 1715 – II 1719 není v Osek 01 O → nejspíš ve faře nevěsty (stopa: kmotři z Litohlav)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o"
@@ -13318,10 +13320,12 @@ window.RODOKMEN = {
       name: "Markéta Čadová",
       line: "nezname",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
+      b: {"date":"neznámé (asi 1698)","year":1698,"approx":true},
+      d: {"date":"14. 6. 1751","year":1751,"place":"Volduchy (fara Osek)"},
       spouse: "pavel_ca",
       notes: [
-        "KANDIDÁTKA (K++): manželka Pavla Čady z Volduch, matka Matouše (*1719) a Martina (*1728) i jejich sourozenců (Osek 01 N; M zápisy). Rodné příjmení neznámé; sňatek nehledán (Osek 01 O ~1710–1719)."
+        "KANDIDÁTKA (K++): manželka Pavla Čady z Volduch, matka Matouše (*1719) a Martina (*1728) i jejich sourozenců (Osek 01 N; M zápisy). Rodné příjmení neznámé; sňatek nehledán (Osek 01 O ~1710–1719).",
+        "KANDIDÁT úmrtí (K+): 14. 6. 1751 Volduchy (pohřbena 16. 6.) – „Markéta Čadová … 53 léta stará“, bez manžela (Osek 03 Z sn. 181 vlevo; M zápis) – jiná Markéta, manželka Čady, ve Volduchách 1740–51 není."
       ],
       sources: [
         "SOA Plzeň, Osek 01 N sn. 91, 96, 116, 123 (1719–1726)"
