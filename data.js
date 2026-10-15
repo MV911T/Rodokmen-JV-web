@@ -8708,7 +8708,8 @@ window.RODOKMEN = {
         "Oddán 25. 5. 1721 jako „hon. Juvenis Paulus Hrazdirek cum hon. Virg. Catharina filia Jacobi Schusta, Hodegiciis“; svědci Jiří Florián a Pavel Němčanský z Hodějic.",
         "Sedlák v Hodějicích; s Kateřinou děti Josef (23. 1. 1722), Apolonie (I 1724), František (X 1725), Martin (4. 10. 1727).",
         "Zemřel 5. 5. 1747 v Hodějicích, 55 let (věk čten s jistotou D).",
-        "KANDIDÁT křtu (K+): 18. 1. 1699 Hodějice – „Bapt. Paulus. Pr. Paulus Hrazdil. Mr. Elisabeth ex Hodegicz. Patr. Paulus Hambalek cum uxore Mariana ex Raschowitz“ (N 13119 sn. 66 vlevo; M, ověřeno koordinátorem) – jediný syn Pavel Pavla Hrazdila v Hodějicích 1690 – X 1702; kmotr Hambálek z Rašovic jako u všech dětí. ROZPOR: věk 55 při † 1747 (→ *~1692) proti křtu 1699 (48) – platí křest; při sňatku 1721 mu bylo 22. Sourozenci: vlastní František 28. 3. 1701; nevlastní (matka Susanna) Šimon 1693, Anna 1696."
+        "KANDIDÁT křtu (K+): 18. 1. 1699 Hodějice – „Bapt. Paulus. Pr. Paulus Hrazdil. Mr. Elisabeth ex Hodegicz. Patr. Paulus Hambalek cum uxore Mariana ex Raschowitz“ (N 13119 sn. 66 vlevo; M, ověřeno koordinátorem) – jediný syn Pavel Pavla Hrazdila v Hodějicích 1690 – X 1702; kmotr Hambálek z Rašovic jako u všech dětí. ROZPOR: věk 55 při † 1747 (→ *~1692) proti křtu 1699 (48) – platí křest; při sňatku 1721 mu bylo 22. Sourozenci: vlastní František 28. 3. 1701; nevlastní (matka Susanna) Šimon 1693, Anna 1696.",
+        "Děti zemřelé 1747 (K): Apolonie, 24 let (IX 1747), Marina, 14 let (19. 12. 1747) (Z 13121 sn. 357–358 vpravo)."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
@@ -13282,7 +13283,8 @@ window.RODOKMEN = {
       spouse: "alzbeta_hz0",
       marriage: "7. (?) 10. 1697 Hodějice – s Alžbětou (2. manželství; 1. manželka Susanna)",
       notes: [
-        "KANDIDÁT (K+): otec Pavla Hrazdírka ml. (*18. 1. 1699). 1. manželka Susanna (děti Šimon 28. 10. 1693, Anna 22. 7. 1696; snad i Rosina I 1693), † mezi VII 1696 a X 1697 (Z Slavkov před 1704 chybí). Oddán 7. (?) 10. 1697: „Copulatus Paulus Hrazdil cum Elisabeth, uterque ex Hodeitz“; svědci Matouš Obrzálek, Václav Láníček (O 13119 sn. 131 vlevo; M). Děti s Alžbětou: Pavel 1699, František 28. 3. 1701. Zemřel 29. 7. 1707: „Paulus Hrazdirek, aetatis suae circiter 60“, pohřben v Hodějicích (Z 13120 sn. 281 vpravo; M) → *~1647. Nezaměňovat s Pavlem Hradilem × Dorotou z Rašovic."
+        "KANDIDÁT (K+): otec Pavla Hrazdírka ml. (*18. 1. 1699). 1. manželka Susanna (děti Šimon 28. 10. 1693, Anna 22. 7. 1696; snad i Rosina I 1693), † mezi VII 1696 a X 1697 (Z Slavkov před 1704 chybí). Oddán 7. (?) 10. 1697: „Copulatus Paulus Hrazdil cum Elisabeth, uterque ex Hodeitz“; svědci Matouš Obrzálek, Václav Láníček (O 13119 sn. 131 vlevo; M). Děti s Alžbětou: Pavel 1699, František 28. 3. 1701. Zemřel 29. 7. 1707: „Paulus Hrazdirek, aetatis suae circiter 60“, pohřben v Hodějicích (Z 13120 sn. 281 vpravo; M) → *~1647. Nezaměňovat s Pavlem Hradilem × Dorotou z Rašovic.",
+        "Další syn s Alžbětou: Josef 5. 3. 1703 (N 13119 sn. 90 vlevo; M; kmotr Hambálek) – snad Josef Hrazdílek, sedlák z Heršpic, svědek 1754 (K+). Jiné děti v N XI 1702 – III 1707 a pohrobek do V 1708 nejsou."
       ],
       sources: [
         "MZA Brno, NOZ 13119 (Slavkov 1690–1707): N sn. 66 vlevo (1699), O sn. 131 vlevo (1697) – https://www.mza.cz/actapublica/matrika/detail/1942",
@@ -13301,7 +13303,8 @@ window.RODOKMEN = {
       spouse: "pavel_hz0",
       marriage: "7. (?) 10. 1697 Hodějice – s Pavlem Hrazdilem (1711 znovu provdána)",
       notes: [
-        "KANDIDÁTKA (K+): matka Pavla Hrazdírka ml. (křest 1699 „Mr. Elisabeth ex Hodegicz“); 2. manželka Pavla Hrazdila (× 1697; O 13119 sn. 131 vlevo; M); jako vdova se 1711 znovu vdala. Rodné příjmení neznámé."
+        "KANDIDÁTKA (K+): matka Pavla Hrazdírka ml. (křest 1699 „Mr. Elisabeth ex Hodegicz“); 2. manželka Pavla Hrazdila (× 1697; O 13119 sn. 131 vlevo; M); jako vdova se 1711 znovu vdala. Rodné příjmení neznámé.",
+        "Podruhé oddána 22. 8. 1711 jako vdova po † Pavlovi Hrazdírkovi s Václavem Masníčkem, vdovcem z Hodějic (O 13120 sn. 177 vpravo; M); rodné příjmení neuvedeno ani 1697, ani 1711."
       ],
       sources: [
         "MZA Brno, NOZ 13119 (Slavkov 1690–1707): N sn. 66 vlevo (1699), O sn. 131 vlevo (1697) – https://www.mza.cz/actapublica/matrika/detail/1942"
