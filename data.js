@@ -8682,34 +8682,43 @@ window.RODOKMEN = {
       d: {"date":"24. 6. 1831","year":1831,"place":"Bykoš č. p. 10"},
       cause: "věkem sešlý",
       spouse: "katerina_kl",
+      marriage: "26. 9. 1773, Bykoš (fara Borek) – s Kateřinou Chvátalovou",
       notes: [
-        "Sedlák v Bykoši č. 10 (poddaný suchomastský); manželka Kateřina. Děti: Kateřina (1776), Josef (1785), František (1789), František (1791). Sňatek ve faře Borek II 1774 – VII 1777 není (spíš před 1774). Pozor: jiný Jan Klika, syn Václava, sedláka z Bykoše, se II 1775 oženil s Ludmilou Burianovou.",
-        "Zemřel 24. 6. 1831 (pohřben 27. 6.) v Bykoši č. 10: „Klika Jan, bývalý sedlák a výminkář bikoský, z Bikoše rozený“, 83 let (Borek 14, sn. 4 vlevo, pag. 4; M, ověřeno) → *~1748. KANDIDÁT křtu (K): Jan, syn Václava Kliky × Kateřiny z Bykoše, pokřtěn 12. 9. 1748 – pak by Eva Skálová (× 1770) byla jeho sestrou (implex); pozor na druhého Jana, syna Václava (× 1775 Ludmila Burianová)."
+        "Sedlák v Bykoši č. 10 (poddaný suchomastský); manželka Kateřina. Děti: Kateřina (1776), Josef (1785), František (1789), František (1791). Pozor: jiný Jan Klika, syn Václava, sedláka z Bykoše, se II 1775 oženil s Ludmilou Burianovou.",
+        "Zemřel 24. 6. 1831 (pohřben 27. 6.) v Bykoši č. 10: „Klika Jan, bývalý sedlák a výminkář bikoský, z Bikoše rozený“, 83 let (Borek 14, sn. 4 vlevo, pag. 4; M, ověřeno) → *~1748. KANDIDÁT křtu (K): Jan, syn Václava Kliky × Kateřiny z Bykoše, pokřtěn 12. 9. 1748 – pak by Eva Skálová (× 1770) byla jeho sestrou (implex); pozor na druhého Jana, syna Václava (× 1775 Ludmila Burianová).",
+        "Oddán 26. 9. 1773 (Bykoš): „Klika Joannes laboriosus honestus juvenis proprius filius Wenceslai Kreiczj rustici Bikoschensis cum honesta virgine Catharina propria filia Wenceslai Chwatal molitoris Suchomastensis“; svědci Jan Krbec, sedlák z Bykoše, a Matěj Burian, sedlák ze Suchomast (Borek 03, pag. 98, sn. 240 vlevo; M, ověřeno koordinátorem). Ztotožnění s Janem č. 10: kmotr dcery 1776 Jakub Chvátal, mlýnář ze Suchomast. Otec „Václav Kreiczj“ = nejspíš Václav Klika (× 1730 Kateřina Krejčová – „Krejčí“ jako přízvisko) → KANDIDÁT (K+) na rodiče vaclav_kb × katerina_kb a implex se Skálovými (Eva × 1770 Jiří Skála by byla Janova sestra). Strukturu neměněna – k potvrzení (Jan *12. 9. 1748 v dětství nezemřel; druhý Jan, syn Václava, × 1775 Ludmila Burianová)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20",
-        "SOA Praha, Borek 14 (Z), sn. 4 vlevo – https://ebadatelna.soapraha.cz/d/4083/4"
+        "SOA Praha, Borek 14 (Z), sn. 4 vlevo – https://ebadatelna.soapraha.cz/d/4083/4",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 03 (O), pag. 98, sn. 240 vlevo (26. 9. 1773) – https://ebadatelna.soapraha.cz/d/4072/240"
       ],
       scans: [
         {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"},
-        {"f":"img/1831_Z_Klika_Jan_Bykos10.jpg","t":"Úmrtí 24. 6. 1831, Bykoš č. 10"}
+        {"f":"img/1831_Z_Klika_Jan_Bykos10.jpg","t":"Úmrtí 24. 6. 1831, Bykoš č. 10"},
+        {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek s Kateřinou Chvátalovou, Bykoš 26. 9. 1773"}
       ]
     },
     {
       id: "katerina_kl",
       name: "Kateřina Kliková",
+      maiden: "Chvátalová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1752)","year":1752,"approx":true},
+      father: "vaclav_chv",
       spouse: "jan_kl",
+      marriage: "26. 9. 1773, Bykoš – s Janem Klikou",
       notes: [
-        "Manželka Jana Kliky, sedláka v Bykoši č. 10; matka Kateřiny (*1776). Rodné příjmení neznámé."
+        "Manželka Jana Kliky, sedláka v Bykoši č. 10; matka Kateřiny (*1776). Oddána 26. 9. 1773 jako „Catharina propria filia Wenceslai Chwatal molitoris Suchomastensis“ (Borek 03 sn. 240 vlevo; M)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 03 (O), pag. 98, sn. 240 vlevo (26. 9. 1773) – https://ebadatelna.soapraha.cz/d/4072/240"
       ],
       scans: [
-        {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"}
+        {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"},
+        {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek s Janem Klikou, Bykoš 1773"}
       ]
     },
     {
@@ -12226,6 +12235,23 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1733_N_Roskopal_Josef_Hrusky.jpg","t":"Křest syna Josefa, Hrušky 1733"}
+      ]
+    },
+    {
+      id: "vaclav_chv",
+      name: "Václav Chvátal",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true,"place":"Suchomasty"},
+      occ: "mlynář v Suchomastech",
+      notes: [
+        "Otec Kateřiny Klikové – oddací zápis 1773 „filia Wenceslai Chwatal molitoris Suchomastensis“ (M). Kmotr vnučky 1776 Jakub Chvátal, mlynář ze Suchomast (asi syn)."
+      ],
+      sources: [
+        "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 03 (O), pag. 98, sn. 240 vlevo (26. 9. 1773) – https://ebadatelna.soapraha.cz/d/4072/240"
+      ],
+      scans: [
+        {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek dcery Kateřiny, Bykoš 1773"}
       ]
     }
   ]
