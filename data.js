@@ -6335,7 +6335,8 @@ window.RODOKMEN = {
       marriage: "7. 5. 1805, Křenovice – s Mariannou Zrůnkovou (?)",
       notes: [
         "Otec Veroniky Kučerové.",
-        "Oddán 7. 5. 1805 v Křenovicích (č. 82) jako „Patental Invalid“, 30 let, s Mariannou, dcerou Ondřeje Zrůnka (?) z č. 53 (22 let); svědci Matěj a Pavel Spačilové, třičtvrtníci. Pozor: na téže straně jiný František Spačil (č. 70) × Marianna Hložková."
+        "Oddán 7. 5. 1805 v Křenovicích (č. 82) jako „Patental Invalid“, 30 let, s Mariannou, dcerou Ondřeje Zrůnka (?) z č. 53 (22 let); svědci Matěj a Pavel Spačilové, třičtvrtníci. Pozor: na téže straně jiný František Spačil (č. 70) × Marianna Hložková.",
+        "KANDIDÁT křtu (K): 27. I 1773 Křenovice č. 34 – „Franciscus; Joann Spačil (?) et Anna uxor; patrini Jakub Hořiček (?) & Rosalia“ (N 13121 sn. 248 vlevo; M zápis) – jediný František Spačil v N X 1772 – XII 1776; v Křenovicích ale 1805 dva ženiši František Spačil (č. 82 a č. 70) a v l. 1773–76 aspoň čtyři otcové Spačilové → nerozhodnuto."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
@@ -6480,7 +6481,8 @@ window.RODOKMEN = {
         "S Kateřinou Lotrabovou (?) měl v Heršpicích č. 40 děti: Anežka (1801), Kateřina (1803), Anna (1804 ?), další 1806–1811, Josef (1813), Jan (1816); r. 1801–1803 podruh, později třičtvrtník. Kmotři z Kobeřic (Štěpán Zahula ?) – Kateřina snad z Kobeřic. Sňatek není v indexu oddaných Slavkov 1784–1820.",
         "Zemřel 28. 12. 1835 (pohřben 30. 12.) v Heršpicích č. 40 jako třičtvrtník, 68 let, sešlostí věkem (Z 13149, str. 310).",
         "POZOR: kolem 1800 žili v Heršpicích tři Tobiášové Kučerové – Tobiáš × Barbora (čtvrtník, č. 47, děti 1783–1799), náš Tobiáš (č. 40) a Tobiáš ml. × Tekla Hrabovská (podruh, č. 20).",
-        "KANDIDÁT křtu: 18. 5. 1767 pokřtěn „Dobias“, syn Václava Kučery, sedláka v Heršpicích, a Kateřiny (NOZ 13121, sn. 201) – přesně sedí s věkem; jiné Tobiáše 1763–1771 zatím neprověřeny."
+        "KANDIDÁT křtu: 18. 5. 1767 pokřtěn „Dobias“, syn Václava Kučery, sedláka v Heršpicích, a Kateřiny (NOZ 13121, sn. 201) – přesně sedí s věkem; jiné Tobiáše 1763–1771 zatím neprověřeny.",
+        "Bratr (M): Jan, 19. 6. 1765 Heršpice – „Wenceslaus Kučera rusticus, Catharina“; kmotr Pavel Lauth, kožešník ze Slavkova – týž jako u křtu Tobiáše 1767 (N 13121 sn. 182 vpravo) → vazba na křest 1767 K+. Pozor: současně Václav Kučera × Marianna (Heršpice; Jiří 1765) – jiná rodina. Jiný Tobiáš Kučera II 1765 – V 1769 není."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
