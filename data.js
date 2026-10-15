@@ -8507,7 +8507,8 @@ window.RODOKMEN = {
         "Vnuk Kašpar (syn Šimona, *21. 6. 1771) zemřel 10. 7. 1771 v Oseku č. 85.",
         "Syn Jakub („pozůstalý vlastní syn po † Kašparovi Holubovi ze wsi Woska“) × 29. 10. 1752 Osek Anna, vlastní dcera Josefa Gotfrida z Oseka; družba Adam Holub z Vytinky (Osek 03 O sn. 133 vlevo; M). Jakub pokřtěn 4. 10. 1721 (*3. 10.) v Oseku: „Jakub, vlastní syn Kašpara Holuba a Lydmilly manželky jeho“ (Osek 01 N sn. 100 vpravo; M) – nejstarší známé dítě; sňatek Kašpara × Ludmily není v Osek 01 O 1712 – X 1721. Křest Kašpara (~1696) v Oseku nelze – mezera N ~1688 – VIII 1700.",
         "KANDIDÁT (K): spíš bratr než syn Matěje Holuba (*~1683 † 1733) – Kašpar měl děti už od 1721 (Jakub) a při úmrtí 1740 měl ~44 let; snad syn Matěje st. († před X 1712). Křest v Oseku nedohledatelný (mezera N ~1688 – VIII 1700).",
-        "Sňatek s Ludmilou není v Osek 01 O III 1715 – VIII 1720 ani IX–XI 1721 a 1725–39 (Plzeň N81); kniha má mezeru VIII 1720 – IX 1721 – sňatek nejspíš tam (syn Jakub *3. 10. 1721), nebo ve farnosti nevěsty."
+        "Sňatek s Ludmilou není v Osek 01 O III 1715 – VIII 1720 ani IX–XI 1721 a 1725–39 (Plzeň N81); kniha má mezeru VIII 1720 – IX 1721 – sňatek nejspíš tam (syn Jakub *3. 10. 1721), nebo ve farnosti nevěsty.",
+        "Rokycany 02 rejstřík H (křty 1684–95): jen Matěj Holub (děti Jan, Kateřina, Kateřina), dítě Kašpar není; Matěj snad otec (K−, jen příjmení)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 04 (O), snímek 75 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_0750-o",
@@ -11355,7 +11356,8 @@ window.RODOKMEN = {
         "Manželka Barbora – oddáni 5. 11. 1719 (z Volduch): „Jan Brgjk [Trgjk] s poctivou děvečkou Barborou Grbkovou (?)“; družba František Hol[ub ?] (Osek 01 O sn. 163 vpravo; M, nativně ověřeno agentem; rodiče snoubenců neuvedeni) → Jan *spíš ~1690–1698.",
         "Děti s Barborou ve Volduchách (Osek 02 N, M): Kateřina Anna (25. 2. 1730), Lucie (1. 10. 1732), Josef (10. 1. 1734, K+), Lidmila Barbora (29. 11. 1736). Sňatek v O Osek 1725 – VII 1730 není (ve Volduchách žilo 4–5 rodin Trgjků).",
         "Pozor: ve Volduchách žili současně dva Janové Trgjkové – Jan × Barbora (tento) a Jan × Kateřina (syn Jakub 9. 1. 1723, Václav 1725, Ludmila 1726); Václav Trgjk × 30. 1. 1723 Kateřina Forgtková (?) je třetí rodina (Osek 01 N sn. 106 vpravo; O sn. 166 vpravo; M). Dřívější výklad „záměna jména otce“ opuštěn.",
-        "Další děti s Barborou (Osek 01 N; M): Josef ~IX–XII 1720 (sn. 96 vlevo, měsíc ?), Bartoloměj 4. 7. 1722 (sn. 103 vlevo), Rosalie ~1727 (sn. 129 vpravo; D)."
+        "Další děti s Barborou (Osek 01 N; M): Josef ~IX–XII 1720 (sn. 96 vlevo, měsíc ?), Bartoloměj 4. 7. 1722 (sn. 103 vlevo), Rosalie ~1727 (sn. 129 vpravo; D).",
+        "Plzeň N82: v rejstřících Rokycany 02 (křty 1684–95) T ani B Trgjk / Brgjk není – na Porta fontium vyčerpáno (Osek N 1688–1700 a Rokycany N 1696–1718 tam chybí)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o",
@@ -11375,7 +11377,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
       notes: [
         "Z Volduch; otec Doroty, která se 22. 11. 1757 vdala za Josefa Trgjka – „vlastní dcera … Matěje Dudla též z Wolduch“ (M). Datum narození je odhad.",
-        "KANDIDÁT sňatku (K): 26. 1. 1717 Volduchy – „Matěj Dudl s Rozinou Kordovou“ (?), družba Kašpar (?) Mochyna (?), družička Lidmila Šaulíková (?); rodiče ani stav ženicha neuvedeni (Osek 01 O sn. 160 vlevo; M zápis). Ztotožnění jen podle jména a obce; pak by narození bylo spíš ~1690–1697. V Rokycany 02 (křty 1684–95) jsou Dudlové Václav, Jan a Matěj (děti Adam, Kateřina), ale dítě Matěj ne; křest Osek 1688 – VIII 1700 v knize chybí."
+        "KANDIDÁT sňatku (K): 26. 1. 1717 Volduchy – „Matěj Dudl s Rozinou Kordovou“ (?), družba Kašpar (?) Mochyna (?), družička Lidmila Šaulíková (?); rodiče ani stav ženicha neuvedeni (Osek 01 O sn. 160 vlevo; M zápis). Ztotožnění jen podle jména a obce; pak by narození bylo spíš ~1690–1697. V Rokycany 02 (křty 1684–95) jsou Dudlové Václav, Jan a Matěj (děti Adam, Kateřina), ale dítě Matěj ne; křest Osek 1688 – VIII 1700 v knize chybí.",
+        "Plzeň N82: starší Matěj Dudl × ROZINA z Volduch – děti Adam 21. 2. 1692 a Kateřina 22. 4. 1694 (Rokycany 02 N pag. 112, 137; M). Shoda jména Roziny se sňatkem 1717 → buď je ženich 1717 tentýž Matěj (2. sňatek, Rozina Kordová jiná), nebo syn (K−). Rozhodne úmrtí staršího Matěje / Roziny (Osek 01 Z 1694–1717)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o"
