@@ -7130,29 +7130,33 @@ window.RODOKMEN = {
       name: "Matouš Čada",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true,"place":"Volduchy"},
+      b: {"date":"neznámé (asi 1719, kandidátní křest – viz poznámky)","year":1719,"approx":true,"place":"Volduchy"},
       d: {"date":"3. 8. (?) 1805","year":1805,"place":"Volduchy č. p. 54"},
       cause: "stáří (Alterthum)",
       father: "pavel_ca",
+      mother: "marketa_ca",
       spouse: "eva_ho",
       occ: "sedlák v Oseku, od 1751 ve Volduchách (č. 51 ?)",
       marriage: "3. 11. 1744, Osek – s Evou Holubovou",
       notes: [
         "Oddán 3. 11. 1744 v Oseku jako „počtivý mládenec Matouš Čada, vlastní syn Pavla Čady z Volduch“, s Evou Holubovou, dcerou † Matěje Holuba z Oseka; družba Jan Andrle z Volduch.",
         "Děti: Barbora (1745), Jakub (1747), dvojčata Adam a Eva (1750) – v Oseku; Martin (1751) a Kateřina (1754) – ve Volduchách. V oddacím zápisu dcery 1771 „Mattheus Czada, rusticus Wolduchensis“. Pozor: ve Volduchách současně žil Matěj Čada.",
-        "Zemřel 3. (VIII ?) 1805 ve Volduchách č. 54: „Czada Mataus, Bauer“, 86 let, stářím (Osek 08 Z, fol. 81, sn. 112 vlevo; M; měsíc odvozen z okolních zápisů) → *~1719, souhlasí se sňatkem 1744. Dřívější kandidát († 22. 6. 1780, č. 69, 72 let) byl Matěj Čada – vyvráceno."
+        "Zemřel 3. (VIII ?) 1805 ve Volduchách č. 54: „Czada Mataus, Bauer“, 86 let, stářím (Osek 08 Z, fol. 81, sn. 112 vlevo; M; měsíc odvozen z okolních zápisů) → *~1719, souhlasí se sňatkem 1744. Dřívější kandidát († 22. 6. 1780, č. 69, 72 let) byl Matěj Čada – vyvráceno.",
+        "KANDIDÁT křtu (K++): narozen a pokřtěn 2. 9. 1719 (z Volduch) – „Matauš, vlastní syn Pavla Čudy [Čady] a manželky jeho Markéty“; levans Bartoloměj Gyšt (?) z Litohlav, svědci Jan Procházka (?) z Volduch, Markéta Romantová (?) z Litohlav; P. Šebestián Říha (Osek 01 N str. 178, sn. 91 vlevo; M, ověřeno koordinátorem) – věk 86 při † 1805 sedí; dřívější negativ IX 1717–1727 opraven (montáž sn. 91 vlevo vynechala). Vlastní bratr Martina Čady (*1728) → Pavel a Markéta jsou předky dvakrát."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 04 (NOZ 1760–1772), oddíl O, str. 41, snímek 86 – https://www.portafontium.eu/iipimage/30066670/osek-04_0860-o",
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o",
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl N, snímek 28 – https://www.portafontium.eu/iipimage/30066669/osek-03_0280-n",
         "SOA Plzeň, fara Osek, kniha Osek 08, oddíl Volduchy, snímek 74 – https://www.portafontium.eu/iipimage/30066674/osek-08_0740-z",
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 08 Z, oddíl Volduchy, fol. 81, sn. 112 vlevo – https://www.portafontium.eu/iipimage/30066674/osek-08_1120-z"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 08 Z, oddíl Volduchy, fol. 81, sn. 112 vlevo – https://www.portafontium.eu/iipimage/30066674/osek-08_1120-z",
+        "SOA Plzeň, Osek 01 N, str. 178, sn. 91 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0911-n"
       ],
       scans: [
         {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"},
         {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"},
-        {"f":"img/1805_Z_Cada_Matous_Volduchy.jpg","t":"Úmrtí 1805, Volduchy č. 54 (86 let)"}
+        {"f":"img/1805_Z_Cada_Matous_Volduchy.jpg","t":"Úmrtí 1805, Volduchy č. 54 (86 let)"},
+        {"f":"img/1719_N_Cada_Matous_Volduchy.jpg","t":"Křest 2. 9. 1719, Volduchy (kandidát)"}
       ]
     },
     {
@@ -7350,12 +7354,14 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      spouse: "marketa_ca",
       occ: "Volduchy",
       notes: [
         "Otec Matouše Čady (sňatek 1744).",
         "Dcera Markéta se v květnu 1741 provdala za Víta Nového z Oseka; družbou Václav Čada (asi syn). Matěj Čada z Volduch (sňatek 1740) byl syn Jana (?) Čady – jiná rodina.",
         "Syn Martin pokřtěn 6. 10. 1728 ve Volduchách – „Martin, vlastní syn Pavla Čady a Markéty, manželky jeho“ (Osek 02 N str. 7, sn. 5 vpravo; M) → manželka Pavla 1728 = Markéta (KANDIDÁTKA na matku Matouše). Martin × 14. 11. 1751 Kateřina, dcera Prokopa Hanzlíka (* 7. 11. 1728, Prokop × Barbora; K+), † 1. 8. 1759 Volduchy, „34 let“ (Osek 03 Z sn. 193; K+).",
-        "Druhý syn Martin (*1728 × 1751 Kateřina Hanzlíková, † 1759) – KANDIDÁT předka přes Dorotu Aubrechtovou (K)."
+        "Druhý syn Martin (*1728 × 1751 Kateřina Hanzlíková, † 1759) – KANDIDÁT předka přes Dorotu Aubrechtovou (K).",
+        "Manželka Markéta; děti ve Volduchách (Osek 01 N; M): Matouš 2. 9. 1719, Kateřina 3. 3. 1721, Barbora 6. 12. 1724, Jakub 29. 4. 1726, Martin 5. 10. 1728 – Pavel a Markéta jsou předky Jirky dvakrát (přes Matouše i Martina)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o"
@@ -12054,6 +12060,7 @@ window.RODOKMEN = {
       b: {"date":"5. 10. 1728","year":1728,"place":"Volduchy (fara Osek)"},
       d: {"date":"1. 8. 1759","year":1759,"place":"Volduchy"},
       father: "pavel_ca",
+      mother: "marketa_ca",
       spouse: "katerina_hzc",
       occ: "sedlák ve Volduchách",
       marriage: "14. 11. 1751 – s Kateřinou Hanzlíkovou",
@@ -13295,6 +13302,23 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1699_N_Hrazdirek_Pavel_Hodejice.jpg","t":"Křest syna Pavla, Hodějice 1699"}
+      ]
+    },
+    {
+      id: "marketa_ca",
+      name: "Markéta Čadová",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
+      spouse: "pavel_ca",
+      notes: [
+        "KANDIDÁTKA (K++): manželka Pavla Čady z Volduch, matka Matouše (*1719) a Martina (*1728) i jejich sourozenců (Osek 01 N; M zápisy). Rodné příjmení neznámé; sňatek nehledán (Osek 01 O ~1710–1719)."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 N sn. 91, 96, 116, 123 (1719–1726)"
+      ],
+      scans: [
+        {"f":"img/1719_N_Cada_Matous_Volduchy.jpg","t":"Křest syna Matouše, Volduchy 1719"}
       ]
     }
   ]
