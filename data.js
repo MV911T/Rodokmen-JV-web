@@ -12311,7 +12311,7 @@ window.RODOKMEN = {
     {
       id: "katerina_hn",
       name: "Kateřina Tichá",
-      maiden: "Hanušková / Hanučková (?)",
+      maiden: "Hanučková (?)",
       line: "svobodah",
       cert: "M",
       b: {"date":"neznámé (asi 1768)","year":1768,"approx":true},
@@ -12321,7 +12321,8 @@ window.RODOKMEN = {
       notes: [
         "Manželka Jakuba Tichého, matka Magdaleny Svobodové – křest 13. 7. 1797 Heršpice č. 26: „Mutter: Katharina Han…kin (?)“ (N 13123 sn. 380; M, příjmení nejisté). Sňatek s Jakubem (~1790–1796) a úmrtí nehledány.",
         "Rodné příjmení ze čtyř křtů dětí (Jan 1795, Magdalena 1797, Anna 24. 7. 1801, Valentin 13. 2. 1804 – vždy Heršpice, kmotři Navrátilovi; N 13123 sn. 375, 380, 387, 391; M): „Catharina Hanutschek / Hanuczek“ – v r. 1801 a 1804 zřetelné kurentní H, odlišné od „Lanitschek“ téhož písaře → Hanušková / Hanučková (K+). Čtení „Láníčková“ (1795) nepotvrzeno.",
-        "Zemřela 17. 12. 1848 (pohřbena 19. 12.) v Heršpicích č. 26: „Katharina, Wittwe nach Jakob Tichy, Ausgedinglerinn“, 80 let (Z 13155 sn. 11 vlevo, pag. 18; M, ověřeno koordinátorem). Sňatek s Jakubem v O Slavkov 1784–1812 není (asi ve faře nevěsty). Kateřina Láníčková *4. 11. 1765 (dcera Pavla) je jiná osoba (× 1791 Jakub H…)."
+        "Zemřela 17. 12. 1848 (pohřbena 19. 12.) v Heršpicích č. 26: „Katharina, Wittwe nach Jakob Tichy, Ausgedinglerinn“, 80 let (Z 13155 sn. 11 vlevo, pag. 18; M, ověřeno koordinátorem). Sňatek s Jakubem v O Slavkov 1784–1812 není (asi ve faře nevěsty). Kateřina Láníčková *4. 11. 1765 (dcera Pavla) je jiná osoba (× 1791 Jakub H…).",
+        "Křest Magdaleny 1797 znovu čten (offset 0): „Catharina Hanuczkin“ (kurentní H, u s kroužkem) → Hanučková (K+). Rod Hanučků ve faře Slavkov 1784–1802 (index N, Z – H) ani křest Kateřiny 1766–1769 není → pocházela z jiné fary; tam nejspíš i sňatek (~1790–95). Josef Tichý 1797 (str. 392) je syn Vavřince × Marianny, č. 40 – ne dvojče Magdaleny."
       ],
       sources: [
         "MZA Brno, N 13123, sn. 380, str. 392 (13. 7. 1797) – https://www.mza.cz/actapublica/matrika/detail/1951",
