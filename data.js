@@ -6852,7 +6852,8 @@ window.RODOKMEN = {
         "KANDIDÁT: 1772 svědčí „Mathias Diwisch, Rusticus ex Gernin“, 62 let (*~1710) – příbuznost neznámá.",
         "Zemřel 15. 5. 1787 v Černíně č. 7: „Václav Diviš, sedlák z Černína patřícího ku Králo-Dvoru“, 70 let (Zdice 02 sn. 332, 4. zápis; M). Manželka Kateřina † 24. 3. 1787 tamtéž, 70 let. Děti (Zdice 01 N): František 1745, Kateřina 1746, Matěj 1750, Jan Václav 1752; Josef (*před 1744).",
         "Dcera Dorota pokřtěna 9. 1. 1743 (*8. 1.) z Černína, poddaní Králodvorští: „Václava Diviše otce, Kateřiny matky“ (Žebrák 01 sn. 156 vpravo; M, ověřeno koordinátorem) – nejstarší známé dítě.",
-        "Sňatek (K+): 20. 11. 1740 z Černína „Václav po † neb. Janovi Diw…[hřbet]“ s Kateřinou „po † neb. Ondřejovi (?) Hladkovi z B…“; družba Jan Muss…, družka Kateřina Janková (?) z Černína (Žebrák 01 O sn. 252 vlevo; plné rozlišení – konec příjmení ženicha ve hřbetu). Podporuje: syn Václav pokřtěn ~21. 9. 1741 (Václav Diviš × Kateřina; sn. 151 vpravo; M), deset měsíců po sňatku. Josef v N III–X 1741 a IV–XI 1743 není; zbývá I–III 1743, XI 1743 – 1744."
+        "Sňatek (K+): 20. 11. 1740 z Černína „Václav po † neb. Janovi Diw…[hřbet]“ s Kateřinou „po † neb. Ondřejovi (?) Hladkovi z B…“; družba Jan Muss…, družka Kateřina Janková (?) z Černína (Žebrák 01 O sn. 252 vlevo; plné rozlišení – konec příjmení ženicha ve hřbetu). Podporuje: syn Václav pokřtěn ~21. 9. 1741 (Václav Diviš × Kateřina; sn. 151 vpravo; M), deset měsíců po sňatku. Josef v N III–X 1741 a IV–XI 1743 není; zbývá I–III 1743, XI 1743 – 1744.",
+        "Další děti (Zdice 01; M): Matěj Tadeáš (*II 1750, † 11 dní), Rozálie 30. 4. 1754. Josef v N Zdice 01 1744–1758 NENÍ (rejstříkoví „Josef 1758“ a „Martin 1755“ jsou děti Matěje Diviše × Anny Novákové) – Josef (× 1773 jako syn Václava z Černína 7) zůstává bez křtu; zbývá rejstříkové Terezie ~1756, Karel a Kateřina ~1759."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316",
@@ -12122,7 +12123,7 @@ window.RODOKMEN = {
       mother: "anna_mh00",
       spouse: "anna_mh0",
       occ: "sedlák ve Zdicích",
-      marriage: "31. 10. 1741, Zdice – s Annou Šmidovou (?)",
+      marriage: "31. 10. 1741, Zdice – s Annou Šmidovou",
       notes: [
         "Pokřtěn 31. 5. 1720 ve Zdicích: „pacholátko jménem Vít Jiří, z otce Václava Merhauta, z matky Anny“; levans Jiří Mazaček (?), svědci Šebestián Mateš (?), Jan Vronek (?), urozená panna Anna Kraiserová (?), Zuzana Reynerová (?) (Žebrák 01 N sn. 58 vlevo; M, ověřeno koordinátorem; rok z okolních snímků).",
         "Otec Dominika Merhauta: křest 1754 „otce Víta Merhauta, matky Anny“ a oddací zápis syna 1776 „filius Viti Merhout, rustici ex Zdicz“ (M).",
@@ -12149,7 +12150,7 @@ window.RODOKMEN = {
     {
       id: "anna_mh0",
       name: "Anna Merhautová",
-      maiden: "Šmidová (?)",
+      maiden: "Šmidová",
       line: "merhaut",
       cert: "M",
       b: {"date":"neznámé (asi 1717)","year":1717,"approx":true},
@@ -12159,12 +12160,14 @@ window.RODOKMEN = {
       notes: [
         "Matka Dominika Merhauta (křest 4. 4. 1754, Zdice: „matky Anny“; M).",
         "Oddána 31. 10. 1741 s Vítem Merhautem: „Anna, vlastní dcera po neb. Blažejovi Šmidovi“ (Žebrák 01 O sn. 253 vpravo; M).",
-        "Zemřela 3. 8. 1784 ve Zdicích č. 21: „Anna, vdova po † Vítovi Merhautovi, sedláku zdickém“, 67 let (Zdice 01 Z, sn. 264 vpravo; M) → *~1717."
+        "Zemřela 3. 8. 1784 ve Zdicích č. 21: „Anna, vdova po † Vítovi Merhautovi, sedláku zdickém“, 67 let (Zdice 01 Z, sn. 264 vpravo; M) → *~1717.",
+        "Rodné příjmení potvrzeno: křest dcery Rozálie 20. 8. 1758 ve Zdicích – „otce Víta Merhauta, matky Anny rozený Šmidovy, obou k Točníku poddaných“ (Zdice 01 N sn. 54 vpravo; M, ověřeno koordinátorem)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), fol. 37, sn. 40 vpravo",
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (Z), sn. 261 vpravo (1781), sn. 264 vpravo (1784), sn. 262 vpravo (1782) – https://ebadatelna.soapraha.cz/d/9095/261",
-        "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253"
+        "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253",
+        "SOA Praha, Zdice 01 N, sn. 54 vpravo (1758) – https://ebadatelna.soapraha.cz/d/9095/54"
       ],
       scans: [
         {"f":"img/1754_N_Merhaut_Dominik_Zdice.jpg","t":"Křest syna Dominika, Zdice 1754"},
@@ -12743,7 +12746,8 @@ window.RODOKMEN = {
       spouse: "vaclav_mh00",
       notes: [
         "Matka Víta Merhauta – křest 31. 5. 1720 Zdice „z otce Václava Merhauta, z matky Anny“ (Žebrák 01 N sn. 58 vlevo; M). Rodné příjmení neznámé.",
-        "Rozpor vyřešen (Praha N38): ve Zdicích žili dva Václavové Merhautové – Václav × Anna (děti Vít Jiří 1720, Jiří Marek 27. 4. 1722, dvojčata František a Matěj 20. 3. 1724; stálí kmotři Jiří Mazaček, mlynář chodounský, Šebestián Mareš a Jan Froník z Černína) a Václav × Rozina/Rozálie (Martin 1721, Jan ~25. 6. 1724, u obou je svědkem „Václav Merhaut ze Zdic“) (Žebrák 01 N sn. 58–70; M zápisy)."
+        "Rozpor vyřešen (Praha N38): ve Zdicích žili dva Václavové Merhautové – Václav × Anna (děti Vít Jiří 1720, Jiří Marek 27. 4. 1722, dvojčata František a Matěj 20. 3. 1724; stálí kmotři Jiří Mazaček, mlynář chodounský, Šebestián Mareš a Jan Froník z Černína) a Václav × Rozina/Rozálie (Martin 1721, Jan ~25. 6. 1724, u obou je svědkem „Václav Merhaut ze Zdic“) (Žebrák 01 N sn. 58–70; M zápisy).",
+        "KANDIDÁT úmrtí (K): 9. 7. 1750 Zdice (pohřbena 13. 7.) – „Anna Merhautová, věku svého 60“, bez manžela (Zdice 01 Z sn. 195 vlevo; M zápis) → *~1690; nejistá – Václav × Anna měli snad syna Jana 1742. Václav Merhaut (kterýkoli) v Z X 1747 – VIII 1750 nezemřel."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, Žebrák 01 (9695), N, sn. 58 vlevo (31. 5. 1720) – https://ebadatelna.soapraha.cz/d/9695/58"
