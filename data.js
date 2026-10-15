@@ -9617,7 +9617,8 @@ window.RODOKMEN = {
       marriage: "13. 1. 1788, Nová Hasina č. 6 – s Janem Hofmanem (vdovcem)",
       notes: [
         "Oddána 13. 1. 1788 v Nové Hasině č. 6 (fara Rožďalovice), svobodná, 23 let (→ *~1765), s vdovcem Janem Hofmanem (42); rodiče neuvedeni. Matka Františka (1790), Jiřího (1793) a Anny (1795), Dobrovany č. 16.",
-        "KANDIDÁTI rodičů (K): Matěj Zajíček, podruh (incola) × Anna ze Staré Hasiny (panství Křinec) – dcera Anna Kateřina pokřtěna ~2. 3. 1766 (Rožďalovice 03 sn. 91 vpravo; M); Matěj kmotrem v Hasině 1763–64. Opírá se jen o příjmení, obec a generaci. Marie v N VIII 1762 – IV 1766 není (Praha N64) – hledat 1760–62 a 1766–67 a sňatek Matěje × Anny."
+        "KANDIDÁTI rodičů (K): Matěj Zajíček, podruh (incola) × Anna ze Staré Hasiny (panství Křinec) – dcera Anna Kateřina pokřtěna ~2. 3. 1766 (Rožďalovice 03 sn. 91 vpravo; M); Matěj kmotrem v Hasině 1763–64. Opírá se jen o příjmení, obec a generaci. Marie v N VIII 1762 – IV 1766 není (Praha N64) – hledat 1760–62 a 1766–67 a sňatek Matěje × Anny.",
+        "Praha N65: křest Marie, dcery Matěje Zajíčka, v Rožďalovice 03 N V 1760 – VII 1767 není; sňatek Matěje × Anny v Rožďalovice 10 O X 1758 – VIII 1764 není (Matěj kmotrem už VII 1762 → sňatek spíš před 1758 nebo ve farnosti nevěsty). Marie snad narozena před 1760 nebo jinde – kandidátní rodiče zůstávají jen K."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Dobrovany, pag. 95, snímek 51 vpravo (22. 1. 1795); index Rožďalovice 22 sn. 73 – https://ebadatelna.soapraha.cz/d/11182/51",
