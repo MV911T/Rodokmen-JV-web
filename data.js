@@ -11470,7 +11470,8 @@ window.RODOKMEN = {
         "Zemřel 24. 2. 1794 v Ohrazenicích č. 8: „Jan Mraz, chalupník“, 50 let, „na hlmoníčku (?)“ (Z 5102, sn. 106 vpravo, pag. 8; M) → *~1744; souhlasí „syn po † Janu Mrázovi“ při sňatku syna 3. 6. 1794.",
         "KANDIDÁT sourozence (K): Vojtěch Mráz, „filius defuncti Joannis Mraz casarii Wohrazenicensis“, × 21. 11. 1773 Magdalena, dcera † Václava Prachty (?) (5296 O sn. 289 vlevo; M zápis) – Jan st. st. snad jeho bratr; otec Jan Mráz † před 1763.",
         "Křest v N Přepeře 1740–1749 (Ohrazenice) není; snad *~1738–40 jako syn Jana Mráze × Magdaleny Novářové (× X 1737, O Všeň 5291 sn. 43 vpravo; K).",
-        "KANDIDÁT křtu (K+): 24. 6. 1740 Ohrazenice (subd. Rohozec) – „Joannes, P[ater] Joannes Mraz, M[ater] Magdalena“; levans Václav Mráz, svědci Jiří Mráz a Dorota, manželka Václava Prachty, všichni z Ohrazenic (N Všeň 5286 sn. 169 vlevo; M zápis, ověřeno koordinátorem). Rodiče × X 1737 Všeň (Jan Mráz × Magdalena, dcera Jiřího Nováře ?; O 5291 sn. 43 vpravo); sestry Anna (13. 4. 1738) a Magdalena (?) (19. 7. 1739). Věk 50 při † 1794 by dával ~1744 – tolerance; v Ohrazenicích žil i starší Jan Mráz."
+        "KANDIDÁT křtu (K+): 24. 6. 1740 Ohrazenice (subd. Rohozec) – „Joannes, P[ater] Joannes Mraz, M[ater] Magdalena“; levans Václav Mráz, svědci Jiří Mráz a Dorota, manželka Václava Prachty, všichni z Ohrazenic (N Všeň 5286 sn. 169 vlevo; M zápis, ověřeno koordinátorem). Rodiče × X 1737 Všeň (Jan Mráz × Magdalena, dcera Jiřího Nováře ?; O 5291 sn. 43 vpravo); sestry Anna (13. 4. 1738) a Magdalena (?) (19. 7. 1739). Věk 50 při † 1794 by dával ~1744 – tolerance; v Ohrazenicích žil i starší Jan Mráz.",
+        "Otčím Václav Prachta (× 9. 9. 1742 vdova Magdalena). V Z Všeň 1740 – VI 1755 nezemřel (Zámrsk 32–33, střední negativ)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
@@ -11499,7 +11500,8 @@ window.RODOKMEN = {
         "Manželka Jana Mráze, chalupníka v Ohrazenicích č. 8; matka Jana (křest 9. 1. 1774 – „uxor ejus Catharina“, M). Rodné příjmení neznámé.",
         "Zemřela náhle 19. 3. 1789 v Ohrazenicích č. 8: „Catharina Eheweib des Johann Mraz, Chalupner“, „improvise mortua“, věk nejistě čten (37 ?) (Z 5102, sn. 104 vlevo, pag. 3; M).",
         "K ROZPORU (Zámrsk 30): čtení „Kopušilová“ (1782) se blíží příjmení Kobosil – Kobosilové žili v Ohrazenicích 1740–1766 hojně (např. Jan, syn † Václava Kobosila, × IX 1766 Kateřina, dcera † Jana Mráze; O 5296 sn. 280 vlevo) → možná „Kobosilová (?)“ (K). Sňatek s Janem Mrázem ve Všeni 1766–1775 a v Přepeřích 1758–1774 není; rozpor trvá.",
-        "Kandidátka (K): Kateřina, dcera Václava Kobosila × Anny, pokřtěná 13. 9. 1740 nebo ~1741/42 Ohrazenice (N Všeň 5286 sn. 170 vlevo / 176 vlevo; čteno jen ve ¼) – sedí ke čtení „Kopušilová/Kobosilová“ (1782); Prošník ani Jelínek v N Ohrazenice 1740–45 není."
+        "Kandidátka (K): Kateřina, dcera Václava Kobosila × Anny, pokřtěná 13. 9. 1740 nebo ~1741/42 Ohrazenice (N Všeň 5286 sn. 170 vlevo / 176 vlevo; čteno jen ve ¼) – sedí ke čtení „Kopušilová/Kobosilová“ (1782); Prošník ani Jelínek v N Ohrazenice 1740–45 není.",
+        "Kandidátka upřesněna (K): Kateřina, dcera Václava Kobosila × Anny, pokřtěná 25. (?) 10. 1741 Ohrazenice (kmotr mj. Jan Mráz; N Všeň 5286 sn. 176 vlevo; M zápis, plné rozlišení) – starší sestra Kateřina (*13. 9. 1740) zemřela před X 1741; mladší v Z 1741 – VI 1755 nezemřela."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
@@ -12524,10 +12526,11 @@ window.RODOKMEN = {
       spouse: "jan_mz00",
       notes: [
         "KANDIDÁTKA (K+): matka Jana Mráze st. st. (viz Jan Mráz); dcera Jiříka Nováře (?) z Ohrazenic.",
-        "Ovdověla 8. 3. 1742 (manžel 31 let); 2. sňatek nehledán."
+        "Ovdověla 8. 3. 1742; podruhé oddána 9. 9. 1742 ve Všeni: „Václav, vlastní syn Jana Prachty z Ohrazenic, s poctivou vdovou po † Janovi Mrázovi rovněž z Ohrazenic“ (na okraji „+ Magdalena“); svědci Samuel a Anna Rowan (?) (O Všeň 5291 sn. 55; M zápis, ověřeno koordinátorem). Jan *1740 tedy vyrůstal u otčíma Václava Prachty v Ohrazenicích."
       ],
       sources: [
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 169 vlevo, pag. 304 (24. 6. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 169 vlevo, pag. 304 (24. 6. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1",
+        "SOA Zámrsk, O Všeň 5291, sn. 55 (9. 9. 1742) – N 5286 sn. 170 vlevo, 176 vlevo"
       ],
       scans: [
         {"f":"img/1740_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest syna Jana, Ohrazenice 1740"}
