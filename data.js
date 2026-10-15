@@ -11408,9 +11408,13 @@ window.RODOKMEN = {
       b: {"date":"neznámé (asi 1751)","year":1751,"approx":true},
       d: {"date":"1. 11. 1821","year":1821,"place":"Mašov č. p. 18 (fara Turnov)"},
       cause: "stáří",
+      father: "jan_hc0",
+      mother: "katerina_hc0",
       spouse: "anna_hc",
       occ: "forman (?) / nájemník v Mašově č. 18 (16)",
+      marriage: "9. 11. 1779, Mašov (fara Turnov) – s Annou, dcerou Jiřího Mlejnka z Louček",
       notes: [
+        "Oddán 9. 11. 1779 (Mašov č. 13): „Wenceslaus Joannis Horaczek ex Maschow cum sua sponsa Anna filia Georgii Mlegnek ex Lauczek“; svědci Matěj Kraus, podruh z Pelešan, a Jan Mlejnek, podruh z Mašova (O Turnov 5257 sn. 26 vpravo, pag. 24, č. 9; M, ověřeno koordinátorem). Otec tedy Jan Horáček z Mašova.",
         "Forman (?) z Mašova č. 18 (1813), nájemník z Mašova č. 16 (1833), panství Hrubá Skála; otec Kateřiny, provdané Ťukalové (křest vnuka Jana 1813, sňatek vnuka 1833 – M).",
         "Při křtu dcery Kateřiny 3. 4. 1784 „inquilinus“ (podruh) v Mašově č. 2 (M). Pozor: v Turnově současně Václav Horáček × Dorota z Chloumku č. 2 (jiná rodina). Sňatek s Annou Mlejnkovou (~1775–1783, O 5257) nehledán.",
         "Zemřel 1. 11. 1821 (pohřben 3. 11.) v Mašově č. 18: „Václav Horáček, podruh“, 70 let, stářím (Z 5274, sn. 20; M) → *~1751. Dům č. 18 shodný s křtem vnuka Jana 1813. Údaj „nájemník z Mašova č. 16“ v oddacím zápisu vnuka 1833 (bez †) jen popisuje původ nevěsty. Jiný Václav Horák, baráčník z č. 17 († 1835, 85) je jiná rodina.",
@@ -11422,14 +11426,16 @@ window.RODOKMEN = {
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, N 1783–1784 (kniha 5254), sn. 18 vlevo – https://aron.vychodoceskearchivy.cz/apu/503f59e4-507f-48fd-92d1-3be71f03c623",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, Z 1813–1868 (kniha 5274), oddíl Mašov, sn. 20 – https://aron.vychodoceskearchivy.cz/apu/7a1db664-1dda-4e82-9976-16b6f49b2c12"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, Z 1813–1868 (kniha 5274), oddíl Mašov, sn. 20 – https://aron.vychodoceskearchivy.cz/apu/7a1db664-1dda-4e82-9976-16b6f49b2c12",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 5257, sn. 26 vpravo, pag. 24, č. 9 (9. 11. 1779) – https://aron.vychodoceskearchivy.cz/apu/33f4494f-762b-4bf2-b480-f6468eee579a"
       ],
       scans: [
         {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest vnuka Jana, Lažany 1813"},
         {"f":"img/1806_O_Tukal_Jan_Horackova_Katerina_Masov.jpg","t":"Sňatek dcery Kateřiny s Janem Ťukalem, Mašov 1806"},
         {"f":"img/1784_N_Horackova_Katerina_Masov.jpg","t":"Křest dcery Kateřiny, Mašov 1784"},
         {"f":"img/1821_Z_Horacek_Vaclav_Masov.jpg","t":"Úmrtí 1. 11. 1821, Mašov č. 18"},
-        {"f":"img/1820_Z_Horackova_Anna_Masov.jpg","t":"Úmrtí manželky Anny, Mašov 1820"}
+        {"f":"img/1820_Z_Horackova_Anna_Masov.jpg","t":"Úmrtí manželky Anny, Mašov 1820"},
+        {"f":"img/1779_O_Horacek_Vaclav_Mlejnkova_Anna_Masov.jpg","t":"Sňatek 9. 11. 1779, Mašov"}
       ]
     },
     {
@@ -11438,11 +11444,14 @@ window.RODOKMEN = {
       maiden: "Mlejnková",
       line: "fukal",
       cert: "M",
-      b: {"date":"neznámé (asi 1750)","year":1750,"approx":true},
+      b: {"date":"neznámé (asi 1753, kandidátní křest – viz poznámky)","year":1753,"approx":true,"place":"Loučky (fara Turnov)"},
       d: {"date":"30. 11. 1820","year":1820,"place":"Mašov č. p. 18 (fara Turnov)"},
       cause: "stáří",
+      father: "jiri_ml",
+      mother: "magdalena_ml",
       spouse: "vaclav_hc",
       notes: [
+        "Oddána 9. 11. 1779 jako „Anna filia Georgii Mlegnek ex Lauczek“ (O Turnov 5257 sn. 26 vpravo; M, ověřeno koordinátorem) → otec Jiří Mlejnek z Louček; kandidátní křest 16. 9. 1753 Loučky (Jiří × Magdalena; N 5252 sn. 269 vlevo; K+) – jediná Anna, dcera Jiřího Mlejnka, v indexu 1745–55. Anna Maria *1751 (dcera Jakuba, Mašov) se 1780 vdala jinam – vyloučena.",
         "Manželka Václava Horáčka z Mašova; matka Kateřiny Ťukalové (křest vnuka Jana 1813 – „a matky Anny“, M).",
         "Rodné příjmení Mlejnková: křest dcery Kateřiny 3. 4. 1784 „uxor Anna Mleinkova“ (M); v oddacím zápisu dcery 1806 dříve čteno „Vlož…ová (?)“ – správně „Mlegkowé“ (oprava čtení). Mlejnkovi žili v Mašově (kmotra 1784 Ludmila, dcera Jakuba Mlejnka).",
         "Zemřela 30. 11. 1820 (pohřbena 2. 12.) v Mašově č. 18: „Anna, manželka Václava Horáčka, podruha“, 70 let, stářím (Z 5274, sn. 20, pag. 19; M) → *~1750.",
@@ -11452,12 +11461,14 @@ window.RODOKMEN = {
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, N 1783–1784 (kniha 5254), sn. 18 vlevo – https://aron.vychodoceskearchivy.cz/apu/503f59e4-507f-48fd-92d1-3be71f03c623",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, Z 1813–1868 (kniha 5274), oddíl Mašov, sn. 20 – https://aron.vychodoceskearchivy.cz/apu/7a1db664-1dda-4e82-9976-16b6f49b2c12"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, Z 1813–1868 (kniha 5274), oddíl Mašov, sn. 20 – https://aron.vychodoceskearchivy.cz/apu/7a1db664-1dda-4e82-9976-16b6f49b2c12",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 5257, sn. 26 vpravo, pag. 24, č. 9 (9. 11. 1779) – https://aron.vychodoceskearchivy.cz/apu/33f4494f-762b-4bf2-b480-f6468eee579a"
       ],
       scans: [
         {"f":"img/1813_N_Tukal_Jan_Lazany.jpg","t":"Křest vnuka Jana, Lažany 1813"},
         {"f":"img/1784_N_Horackova_Katerina_Masov.jpg","t":"Křest dcery Kateřiny, Mašov 1784"},
-        {"f":"img/1820_Z_Horackova_Anna_Masov.jpg","t":"Úmrtí 30. 11. 1820, Mašov č. 18"}
+        {"f":"img/1820_Z_Horackova_Anna_Masov.jpg","t":"Úmrtí 30. 11. 1820, Mašov č. 18"},
+        {"f":"img/1779_O_Horacek_Vaclav_Mlejnkova_Anna_Masov.jpg","t":"Sňatek 9. 11. 1779, Mašov"}
       ]
     },
     {
@@ -13395,6 +13406,68 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1689_N_Cada_Pavel_Volduchy.jpg","t":"Křest syna Pavla, Volduchy 1689"}
+      ]
+    },
+    {
+      id: "jan_hc0",
+      name: "Jan Horáček",
+      line: "fukal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true,"place":"Mašov (?)"},
+      spouse: "katerina_hc0",
+      marriage: "24. 2. 1740, Turnov – s Kateřinou Knofskovou (?) (K)",
+      notes: [
+        "Z Mašova; otec Václava Horáčka – „Wenceslaus Joannis Horaczek ex Maschow“ při sňatku 1779 (O Turnov 5257 sn. 26 vpravo; M). KANDIDÁT (K+): totožný s Janem Horáčkem × Kateřinou (× 24. 2. 1740 Turnov, Kateřina Knofsková ?; svědci Jan a Ludmila Mlejnkovi; O 5256 fol. 29), jejichž synové Václav byli pokřtěni 1748, 1753 a 1754 v Mašově (N 5252). Další děti: Kateřina × 1772 Jiří Kraus z Pelešan, Anna (svědkyně 1772)."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 5257, sn. 26 vpravo, pag. 24, č. 9 (9. 11. 1779) – https://aron.vychodoceskearchivy.cz/apu/33f4494f-762b-4bf2-b480-f6468eee579a",
+        "SOA Zámrsk, O Turnov 5256 fol. 29 (1740); N 5252 sn. 192, 269, 287"
+      ],
+      scans: [
+        {"f":"img/1779_O_Horacek_Vaclav_Mlejnkova_Anna_Masov.jpg","t":"Sňatek syna Václava, Mašov 1779"}
+      ]
+    },
+    {
+      id: "katerina_hc0",
+      name: "Kateřina Horáčková",
+      maiden: "Knofsková (?)",
+      line: "fukal",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1718)","year":1718,"approx":true},
+      spouse: "jan_hc0",
+      notes: [
+        "KANDIDÁTKA (K+): matka Václava Horáčka – „Wenceslaus filius Joannis Horaczek et Catharinae“ (křty 1748–1754, Mašov); × 24. 2. 1740 Turnov jako „Catharina Knofskowa (?)“ (O 5256 fol. 29; příjmení nejisté)."
+      ],
+      sources: [
+        "SOA Zámrsk, O Turnov 5256 fol. 29; N 5252"
+      ]
+    },
+    {
+      id: "jiri_ml",
+      name: "Jiří Mlejnek",
+      line: "fukal",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true,"place":"Loučky (fara Turnov)"},
+      spouse: "magdalena_ml",
+      notes: [
+        "Z Louček; otec Anny Horáčkové – „Anna filia Georgii Mlegnek ex Lauczek“ při sňatku 1779 (O Turnov 5257 sn. 26 vpravo; M). Manželka Magdalena (křest Anny 1753; K+). Sňatek a úmrtí nehledány."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 5257, sn. 26 vpravo, pag. 24, č. 9 (9. 11. 1779) – https://aron.vychodoceskearchivy.cz/apu/33f4494f-762b-4bf2-b480-f6468eee579a"
+      ]
+    },
+    {
+      id: "magdalena_ml",
+      name: "Magdalena Mlejnková",
+      line: "fukal",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      spouse: "jiri_ml",
+      notes: [
+        "KANDIDÁTKA (K+): matka Anny (křest 16. 9. 1753 Loučky – „Anna filia Georgii Mleinek, mat. Magdalena“; N Turnov 5252 sn. 269 vlevo; M zápis)."
+      ],
+      sources: [
+        "SOA Zámrsk, N Turnov 5252 sn. 269 vlevo (1753)"
       ]
     }
   ]
