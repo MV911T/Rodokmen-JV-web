@@ -13638,7 +13638,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true,"place":"Křenovice"},
       spouse: "anna_sp0",
       notes: [
-        "KANDIDÁT (K+): otec Františka Spačila – křest 27. 1. 1773 Křenovice č. 34: „Franciscus; Joann Spačil, Anna uxor; patrini Jacob Hořiček (?) & Rosalia uxor“ (N 13121 sn. 248 vlevo; M zápis). V Křenovicích tehdy více Janů Spačilů (× Anna, × Viktorie) – rozlišovat podle manželky."
+        "KANDIDÁT (K+): otec Františka Spačila – křest 27. 1. 1773 Křenovice č. 34: „Franciscus; Joann Spačil, Anna uxor; patrini Jacob Hořiček (?) & Rosalia uxor“ (N 13121 sn. 248 vlevo; M zápis). V Křenovicích tehdy více Janů Spačilů (× Anna, × Viktorie) – rozlišovat podle manželky.",
+        "Jiný František Spačil v N I 1771 – XII 1778 není (MZA N42). Sňatek Jana × Anny není v O 13121 I 1753 – I 1764. V Křenovicích více Janů: Jan Spačil, vdovec × 2. 8. 1763 Barbora, vdova Schubertová (O 13121 sn. 315 vlevo; M); starší Jan, otec Martina (× 1760, sn. 308 vpravo) – rozlišení nejasné (K)."
       ],
       sources: [
         "MZA Brno, N 13121, sn. 248 vlevo (27. 1. 1773) – https://www.mza.cz/actapublica/matrika/detail/1948"
