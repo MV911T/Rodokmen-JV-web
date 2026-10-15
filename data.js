@@ -11428,7 +11428,8 @@ window.RODOKMEN = {
         "Manželka Kateřina – rodné příjmení ve křtech dětí pokaždé jinak: „nata Prošniková“ (~1779), „Jelínková“ (29. 7. 1781), „Kopušilová (?)“ (25. 8. 1782) – ROZPOR, rozhodne oddací zápis (nenalezen).",
         "Sňatek s Kateřinou v O Přepeře 1758–1773 není (nejspíš ve farnosti nevěsty nebo před 1758); úmrtí v Z 1781 – IV 1784 není (→ V 1784 – VI 1794). Dcera Anna *29. 7. 1781, † 23. 8. 1781 (M). KANDIDÁT otce (K): starší Jan Mráz z Ohrazenic, † před 1763 (dcery Anna × 1763, Kateřina × 1766 „po † Janu Mrázovi“).",
         "Zemřel 24. 2. 1794 v Ohrazenicích č. 8: „Jan Mraz, chalupník“, 50 let, „na hlmoníčku (?)“ (Z 5102, sn. 106 vpravo, pag. 8; M) → *~1744; souhlasí „syn po † Janu Mrázovi“ při sňatku syna 3. 6. 1794.",
-        "KANDIDÁT sourozence (K): Vojtěch Mráz, „filius defuncti Joannis Mraz casarii Wohrazenicensis“, × 21. 11. 1773 Magdalena, dcera † Václava Prachty (?) (5296 O sn. 289 vlevo; M zápis) – Jan st. st. snad jeho bratr; otec Jan Mráz † před 1763."
+        "KANDIDÁT sourozence (K): Vojtěch Mráz, „filius defuncti Joannis Mraz casarii Wohrazenicensis“, × 21. 11. 1773 Magdalena, dcera † Václava Prachty (?) (5296 O sn. 289 vlevo; M zápis) – Jan st. st. snad jeho bratr; otec Jan Mráz † před 1763.",
+        "Křest v N Přepeře 1740–1749 (Ohrazenice) není; snad *~1738–40 jako syn Jana Mráze × Magdaleny Novářové (× X 1737, O Všeň 5291 sn. 43 vpravo; K)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
@@ -11452,7 +11453,8 @@ window.RODOKMEN = {
       spouse: "jan_mz0",
       notes: [
         "Manželka Jana Mráze, chalupníka v Ohrazenicích č. 8; matka Jana (křest 9. 1. 1774 – „uxor ejus Catharina“, M). Rodné příjmení neznámé.",
-        "Zemřela náhle 19. 3. 1789 v Ohrazenicích č. 8: „Catharina Eheweib des Johann Mraz, Chalupner“, „improvise mortua“, věk nejistě čten (37 ?) (Z 5102, sn. 104 vlevo, pag. 3; M)."
+        "Zemřela náhle 19. 3. 1789 v Ohrazenicích č. 8: „Catharina Eheweib des Johann Mraz, Chalupner“, „improvise mortua“, věk nejistě čten (37 ?) (Z 5102, sn. 104 vlevo, pag. 3; M).",
+        "K ROZPORU (Zámrsk 30): čtení „Kopušilová“ (1782) se blíží příjmení Kobosil – Kobosilové žili v Ohrazenicích 1740–1766 hojně (např. Jan, syn † Václava Kobosila, × IX 1766 Kateřina, dcera † Jana Mráze; O 5296 sn. 280 vlevo) → možná „Kobosilová (?)“ (K). Sňatek s Janem Mrázem ve Všeni 1766–1775 a v Přepeřích 1758–1774 není; rozpor trvá."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
