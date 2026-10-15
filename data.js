@@ -5896,7 +5896,8 @@ window.RODOKMEN = {
         "Manželka Terezie roz. Michálková (?) (sňatek dcery 1827).",
         "Při křtu dcery Apolonie 1788 „Schullehrer (?)“ (čtení nejisté), Hodějice č. 59; manželka Marta (1788).",
         "KANDIDÁT otce: Tomáš Ambros, sedlák v Hodějicích († před 1772; dcery Rosina × Martin Hudeček 1772 a Anna 1777–78). Sňatek Antona s Martou ve Slavkově XI 1764 – IX 1774 nenalezen.",
-        "MZA N47: v Hodějicích kolem 1757–60 tři otcové Ambrosové – Tomáš, Blažej (podruh) × Anna (děti 1757, 1758) a Jiří × Rozina (syn Blažej 1760) – Antonův křest hledat v N 13121 ~1765–1772."
+        "MZA N47: v Hodějicích kolem 1757–60 tři otcové Ambrosové – Tomáš, Blažej (podruh) × Anna (děti 1757, 1758) a Jiří × Rozina (syn Blažej 1760) – Antonův křest hledat v N 13121 ~1765–1772.",
+        "MZA N48: křest není v NOZ 13121 I 1765 – III 1771 (všichni Antonové mají jiné otce) → narozen spíš 1754–1764 nebo mimo faru. Otcové Ambrosové v Hodějicích 1757–70: Tomáš, Blažej (× Anna, později × Barbora ?), Jiří × Rozina, Ondřej × Anna (?)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
@@ -8117,7 +8118,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1762)","year":1762,"approx":true},
       spouse: "matej_spa",
       notes: [
-        "Matka Anny Maláčové (*1799) a jejích sourozenců (1788–1798); příjmení psáno „Leblin / Lebnin / Lebner“. KANDIDÁT: dcera Šimona Lebka (?) z Křenovic (sňatek 28. 1. 1783)."
+        "Matka Anny Maláčové (*1799) a jejích sourozenců (1788–1798); příjmení psáno „Leblin / Lebnin / Lebner“. KANDIDÁT: dcera Šimona Lebka (?) z Křenovic (sňatek 28. 1. 1783).",
+        "Stopa (K, nečteno ostře): v Křenovicích Šimon „Laber“ (? = Lebek) × Rosina / Rosalie – děti ~X 1765 a V 1768 (NOZ 13121 sn. 186 vpravo, 208 vlevo)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 182 A, snímek 174 – https://www.mza.cz/actapublica/matrika/detail/1951"
@@ -12303,7 +12305,8 @@ window.RODOKMEN = {
       occ: "sedlák ve Zdicích",
       notes: [
         "Otec Anny Merhautové: oddací zápis 1776 „Anna, filia legitima Joannis Hroniek, rustici ex Zdicz“ (M). Křest dcery Anny 16. 4. 1754 (manželka Kateřina; M). V indexu N Zdice 01 psán „Froněk“ (pod F).",
-        "KANDIDÁT úmrtí (K): XII 1782 (den 5 ?) ve Zdicích „Joannes Froniek, rusticus Zdiensis“, 52 let (Zdice 01 Z, sn. 262 vpravo; M zápis – manželka neuvedena, ztotožnění jen jménem a obcí) → *~1730."
+        "KANDIDÁT úmrtí (K): XII 1782 (den 5 ?) ve Zdicích „Joannes Froniek, rusticus Zdiensis“, 52 let (Zdice 01 Z, sn. 262 vpravo; M zápis – manželka neuvedena, ztotožnění jen jménem a obcí) → *~1730.",
+        "Praha N66: sňatek s Kateřinou není v Zdice 01 O X 1749 – XI 1753 (všechny zápisy; IV–X 1749 vybledlé); 25. 10. 1750 „Jan Kříška (?) × Kateřina“ porovnán s rukopisem „Jana Hronka“ 1754 – jiné příjmení (ověřeno koordinátorem). Ve Zdicích Václav a Anna Froňkovi (1752–53) – snad příbuzní (K). Zbývá O 1744–48 a fara nevěsty."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), O sn. 318 vlevo (1776)"
