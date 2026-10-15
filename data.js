@@ -6334,7 +6334,8 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (asi 1773, kandidátní křest – viz poznámky)","year":1773,"approx":true,"place":"Křenovice č. p. 34"},
-      d: {"date":"před 9. 7. 1837","year":1837,"approx":true},
+      d: {"date":"21. 8. 1832","year":1832,"place":"Křenovice č. p. 82"},
+      cause: "cholera",
       father: "jan_sp0",
       mother: "anna_sp0",
       spouse: "marianna_sp",
@@ -6343,19 +6344,22 @@ window.RODOKMEN = {
       notes: [
         "Otec Veroniky Kučerové.",
         "Oddán 7. 5. 1805 v Křenovicích (č. 82) jako „Patental Invalid“, 30 let, s Mariannou, dcerou Ondřeje Zrůnka (?) z č. 53 (22 let); svědci Matěj a Pavel Spačilové, třičtvrtníci. Pozor: na téže straně jiný František Spačil (č. 70) × Marianna Hložková.",
-        "KANDIDÁT křtu (K+; ověřeno koordinátorem): 27. I 1773 Křenovice č. 34 – „Franciscus; Joann Spačil (?) et Anna uxor; patrini Jakub Hořiček (?) & Rosalia“ (N 13121 sn. 248 vlevo; M zápis) – jediný František Spačil v N X 1772 – XII 1776; v Křenovicích ale 1805 dva ženiši František Spačil (č. 82 a č. 70) a v l. 1773–76 aspoň čtyři otcové Spačilové → druhý ženich František Spačil (č. 70, 4. 11. 1805) byl 22letý vdovec (O 13137 sn. 71; M) – křest 1773 tedy patří našemu Františkovi (č. 82, „30, svobodný“); jiný František Spačil v N I 1771 – XII 1778 není."
+        "KANDIDÁT křtu (K+; ověřeno koordinátorem): 27. I 1773 Křenovice č. 34 – „Franciscus; Joann Spačil (?) et Anna uxor; patrini Jakub Hořiček (?) & Rosalia“ (N 13121 sn. 248 vlevo; M zápis) – jediný František Spačil v N X 1772 – XII 1776; v Křenovicích ale 1805 dva ženiši František Spačil (č. 82 a č. 70) a v l. 1773–76 aspoň čtyři otcové Spačilové → druhý ženich František Spačil (č. 70, 4. 11. 1805) byl 22letý vdovec (O 13137 sn. 71; M) – křest 1773 tedy patří našemu Františkovi (č. 82, „30, svobodný“); jiný František Spačil v N I 1771 – XII 1778 není.",
+        "Zemřel 21. 8. 1832 (pohřben 23. 8.) v Křenovicích č. 82: „Franz Spatschil, Chalupner“, 57 let, cholera; 23. 8. tamtéž syn Josef, 9 let 10 měsíců, cholera (Z 13149 str. 184, sn. 146 vlevo; M, ověřeno koordinátorem) → *~1775 (věk 1805 i 1832 shodně) – kandidátní křest 1773 by dával 59 (K+, nepovýšeno)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
         "MZA Brno, O Heršpice 13144, str. 36 (1872)",
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Křenovice, str. 78, snímek 71 – https://www.mza.cz/actapublica/matrika/detail/1959",
-        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 212, snímek 205 – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 212, snímek 205 – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, Z 13149, str. 184, sn. 146 vlevo (1832) – https://www.mza.cz/actapublica/matrika/detail/1964"
       ],
       scans: [
         {"f":"img/1805_O_13137_sn71_str78_Spacil_Frantisek_x_Marianna_Andreas_Zrunek_plne_rozl.jpg","t":"Sňatek Františka Spačila a Marianny Zrůnkové (?), Křenovice 7. 5. 1805"},
         {"f":"img/1814_N_13123_sn205_str212_Krenovice_c82_Spacilova_Veronika_radek_plne_rozl.jpg","t":"Křest dcery Veroniky Spačilové, Křenovice 28. 1. 1814"},
-        {"f":"img/1773_N_Spacil_Frantisek_Krenovice34.jpg","t":"Křest 27. 1. 1773, Křenovice č. 34 (kandidát)"}
+        {"f":"img/1773_N_Spacil_Frantisek_Krenovice34.jpg","t":"Křest 27. 1. 1773, Křenovice č. 34 (kandidát)"},
+        {"f":"img/1832_Z_Spacil_Frantisek_Krenovice82.jpg","t":"Úmrtí 21. 8. 1832, Křenovice č. 82"}
       ]
     },
     {
