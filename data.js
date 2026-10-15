@@ -11334,7 +11334,8 @@ window.RODOKMEN = {
         {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"},
         {"f":"img/1774_N_Beckova_Dorota_Ohrazenice.jpg","t":"Křest dcery Doroty, Ohrazenice 1774"},
         {"f":"img/1781_N_Becka_Matej_Ohrazenice14.jpg","t":"Křest syna Matěje, Ohrazenice č. 14, 1781"},
-        {"f":"img/1810_Z_Becka_Filip_Ohrazenice14.jpg","t":"Úmrtí 30. 12. 1810, Ohrazenice č. 14"}
+        {"f":"img/1810_Z_Becka_Filip_Ohrazenice14.jpg","t":"Úmrtí 30. 12. 1810, Ohrazenice č. 14"},
+        {"f":"img/1700_O_Becka_Jan_Bernatova_Magdalena_Vsen.jpg","t":"Sňatek prarodičů Jana Bečky × Magdaleny, Všeň 1700"}
       ]
     },
     {
@@ -12499,7 +12500,9 @@ window.RODOKMEN = {
       name: "Jan Bečka",
       line: "mraz",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true,"place":"Mokré (fara Všeň)"},
+      b: {"date":"neznámé (asi 1701–1712)","year":1706,"approx":true,"place":"Mokrý (fara Všeň)"},
+      father: "jan_bc00",
+      mother: "magdalena_bc00",
       spouse: "magdalena_bc0",
       marriage: "11. 10. 1733, Všeň – s Magdalenou Janků",
       notes: [
@@ -12509,9 +12512,10 @@ window.RODOKMEN = {
         "Děti v Mokrém (N Všeň 5286; M): Kateřina (10. 10. 1735, sn. 138 vlevo), Jan (28. 11. 1737, sn. 151 vlevo; snad ženich 1765), Filip Jakub (28. 4. 1740); Magdalena kmotrou 25. 12. 1734 (sn. 132 vpravo).",
         "Otec Jan Bečka st. z Mokrého pohřben 9. 11. 1743 ve Všeni, 75 let (→ *~1668) (Z Všeň 5294 sn. 117 vpravo; M zápis, K+). Syn Matěj (*~1744) † 8. 8. 1748, 4 roky (sn. 138 vlevo; K). Úmrtí Jana ml. a Magdaleny v Z Všeň 1743–1761 není.",
         "Matka nejspíš Magdalena: 30. 1. 1713 kmotra „Magdalena, manželka Jana Bečky (?) z Mokrého“ (N Všeň 5286 sn. 14 vlevo; M zápis, K ztotožnění). Křest Jana ml. ani Magdaleny Janků v N 5286 I 1710 – VII 1713 není (střední negativ) → Jan spíš *před 1710 (N 5285).",
-        "Rodiče (K): Jan Bečka st. z Mokrého × Magdalena – syn Matěj pokřtěn 22. 3. 1708 („Matěj syn Jana Bečky z Mokrého, matky Magdaleny“, na okraji „+“; N Všeň 5285 sn. 69 vlevo; M). Křest Jana ml. není v N 5285 IX 1707 – XII 1709 ani v N 5286 1710 – I 1715; sourozenci (M): Alžběta 4. 12. 1701 (5285 sn. 54 vpravo), Matěj 24. (?) 8. 1705 († před 1708; sn. 63 vlevo), Matěj 22. 3. 1708. Jan ml. v N Všeň VI 1701 – I 1715 není → *před VI 1701 (N 5285 sn. ~45–53).",
+        "Rodiče (K+; sňatek VI 1700 – viz Jan Bečka st.): Jan Bečka st. z Mokrého × Magdalena – syn Matěj pokřtěn 22. 3. 1708 („Matěj syn Jana Bečky z Mokrého, matky Magdaleny“, na okraji „+“; N Všeň 5285 sn. 69 vlevo; M). Křest Jana ml. není v N 5285 IX 1707 – XII 1709 ani v N 5286 1710 – I 1715; sourozenci (M): Alžběta 4. 12. 1701 (5285 sn. 54 vpravo), Matěj 24. (?) 8. 1705 († před 1708; sn. 63 vlevo), Matěj 22. 3. 1708. Jan ml. v N Všeň VI 1701 – I 1715 není → *před VI 1701 (N 5285 sn. ~45–53).",
         "Jan ml. není v N Všeň VII 1697 – I 1715 (Zámrsk 35–38) → *před VII 1697 nebo jinde. Sňatek Jana st. × Magdaleny není v O 5285 XII 1693 – XI 1696.",
-        "Jan ml. v N Všeň VI 1695 – I 1715 není (Zámrsk 35–39); Alžběta 1698 je spíš dcera Jana Kopeckého."
+        "Jan ml. v N Všeň VI 1695 – I 1715 není (Zámrsk 35–39); Alžběta 1698 je spíš dcera Jana Kopeckého.",
+        "Křest zatím nenalezen; rodiče se vzali VI 1700 → *po VI 1700; N 5285/5286 1701–1715 prošlé jen částečně v ¼ rozlišení (nepřečteno pečlivě 1704, 1706–07, 1709–15)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 168 vpravo, pag. 303 (28. 4. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1",
@@ -12923,6 +12927,43 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1676_N_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Křest dcery Alžběty, Volduchy 1676"},
         {"f":"img/1706_Z_Hanzlikova_Katerina_Volduchy.jpg","t":"Úmrtí 22. 3. 1706, Volduchy"}
+      ]
+    },
+    {
+      id: "jan_bc00",
+      name: "Jan Bečka",
+      line: "mraz",
+      cert: "K",
+      b: {"date":"neznámé (asi 1668)","year":1668,"approx":true,"place":"Všeň"},
+      d: {"date":"9. 11. 1743","year":1743,"place":"Mokrý (fara Všeň)"},
+      spouse: "magdalena_bc00",
+      marriage: "VI 1700, Všeň – s Magdalenou, vdovou po Jakubu Bernatovi",
+      notes: [
+        "KANDIDÁT (K+): otec Jana Bečky ml. (ženich 1733 „syn Jana Bečky ze vsi Mokrého“). Oddán VI 1700 ve Všeni: „poctivý mládenec Jan Bečka, pozůstalý syn po nebožt. Janovi (?) Bečkovi ze Všeně, s poctivou Magdalenou, pozůstalou vdovou po nebožt. Jakubovi Bernatovi z Mokrého“; družba Jan Plaský (?) z Olešnice (O 5285 sn. 86 vpravo; M zápis, ověřeno koordinátorem). Děti v Mokrém: Alžběta 4. 12. 1701, Matěj 1705 († před 1708), Matěj 22. 3. 1708. Zemřel 9. 11. 1743, 75 let (dřívější relace; K)."
+      ],
+      sources: [
+        "SOA Zámrsk, O Všeň 5285, sn. 86 vpravo, fol. 160 (VI 1700)"
+      ],
+      scans: [
+        {"f":"img/1700_O_Becka_Jan_Bernatova_Magdalena_Vsen.jpg","t":"Sňatek VI 1700, Všeň"}
+      ]
+    },
+    {
+      id: "magdalena_bc00",
+      name: "Magdalena Bečková",
+      line: "mraz",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1670)","year":1670,"approx":true},
+      spouse: "jan_bc00",
+      marriage: "1) s Jakubem Bernatem z Mokrého; 2) VI 1700, Všeň – s Janem Bečkou",
+      notes: [
+        "KANDIDÁTKA (K+): matka Jana Bečky ml. – vdova po † Jakubu Bernatovi z Mokrého, × VI 1700 Jan Bečka (O 5285 sn. 86 vpravo; M). Rodné příjmení neznámé. Ve Všeni nezemřela ~1740–1761."
+      ],
+      sources: [
+        "SOA Zámrsk, O Všeň 5285, sn. 86 vpravo, fol. 160 (VI 1700)"
+      ],
+      scans: [
+        {"f":"img/1700_O_Becka_Jan_Bernatova_Magdalena_Vsen.jpg","t":"Sňatek VI 1700, Všeň"}
       ]
     }
   ]
