@@ -12774,20 +12774,23 @@ window.RODOKMEN = {
       maiden: "Gochová (?)",
       line: "aubrecht",
       cert: "K",
-      b: {"date":"neznámé (asi 1715)","year":1715,"approx":true,"place":"Volduchy"},
+      b: {"date":"neznámé (asi 1708, kandidátní křest – viz poznámky)","year":1708,"approx":true,"place":"Osek u Rokycan"},
       d: {"date":"9. 10. 1765","year":1765,"place":"Volduchy"},
       father: "simon_gc",
       mother: "ludmila_gc",
       spouse: "bartolomej_au",
       notes: [
         "KANDIDÁTKA (K+): matka Petra Aubrechta (*1749); dcera Šimona Gocha (?) (nativně – kurentní G; čtení „Hych“ opuštěno) z Volduch, × 28. 10. 1732 (Osek 02 O sn. 69 vpravo). Zemřela 9. 10. 1765, 50 let (dřívější relace, §285) → *~1715.",
-        "Otec Šimon Goch (?) × Lidmila – syn Šimon pokřtěn 26. 10. 1714 v Oseku („Simon syn Simona Gocha (?) a Lidmille manželky jeho“; Osek 01 N str. 134, sn. 69 vlevo; M zápis, K+ ztotožnění). Křest Anny v Osek 01 N I 1709 – IV 1717 nenalezen (D) → *po IV 1717 (věk 50 při † 1765 by dával ~1715)."
+        "Otec Šimon Goch (?) × Lidmila – syn Šimon pokřtěn 26. 10. 1714 v Oseku („Simon syn Simona Gocha (?) a Lidmille manželky jeho“; Osek 01 N str. 134, sn. 69 vlevo; M zápis, K+ ztotožnění).",
+        "KANDIDÁT křtu (K++): 17. 6. 1708 Osek – „pokřtěna dcera jménem Anna z řádného lože Šymona Gochy z Woseka a Lydmilly manželky jeho“; kmotra paní Terezie Kyšelová Wolnerová (?), svědci mj. Václav Basák (i u křtů sourozenců 1711, 1714) (Osek 01 N str. 92, sn. 48 vlevo; M, ověřeno koordinátorem) – 5 týdnů po sňatku rodičů, prvorozená; jiná Anna, dcera Šimona Gocha, v N VI 1708 – V 1722 není. Věk 50 při † 1765 by byl podhodnocen o 7 let."
       ],
       sources: [
         "SOA Plzeň, Osek 02 O, sn. 69 vpravo (28. 10. 1732)",
-        "SOA Plzeň, Osek 03 N, str. 86, sn. 46 vlevo (24. 6. 1749) – https://www.portafontium.eu/iipimage/30066669/osek-03_0460-n"
+        "SOA Plzeň, Osek 03 N, str. 86, sn. 46 vlevo (24. 6. 1749) – https://www.portafontium.eu/iipimage/30066669/osek-03_0460-n",
+        "SOA Plzeň, Osek 01 N, str. 92, sn. 48 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0481-n"
       ],
       scans: [
+        {"f":"img/1708_N_Gochova_Anna_Osek.jpg","t":"Křest 17. 6. 1708, Osek (kandidát)"},
         {"f":"img/1749_N_Aubrecht_Petr_Volduchy.jpg","t":"Křest syna Petra, Volduchy 1749"}
       ]
     },
@@ -12800,12 +12803,15 @@ window.RODOKMEN = {
       spouse: "ludmila_gc",
       marriage: "11. 5. 1708, Osek – s Lidmilou Swogdovou (?)",
       notes: [
-        "KANDIDÁT (K+): otec Anny Aubrechtové – při jejím sňatku 28. 10. 1732 „vlastní dcera Šimona Gocha (?) z Volduch“ (Osek 02 O sn. 69 vpravo). Oddán 11. 5. 1708 v Oseku: „Simon Gech ex Wossek cum Ludmilla Swogdowa (?) ex pago Wossek“; svědci Matěj Wagner a Anna Latková (?) (Osek 01 O sn. 153 vlevo; M zápis). Děti: Vojtěch 23. 4. 1711 (sn. 56 vpravo), Šimon 26. 10. 1714 (sn. 69 vlevo); Anna (*po IV 1717 ?). Příjmení kolísá Goch / Gech / Gocha (?).",
-        "Žil 28. 10. 1732 (sňatek dcery bez „†“). Po 1714 další děti v Osek 01 N do V 1722 nejsou; křest Anny v I 1709 – V 1722 nenalezen (zbývá V 1708 – I 1709). Úmrtí není v Osek 03 Z XII 1744 – IV 1749 ani v rejstříku Osek 04 Z."
+        "KANDIDÁT (K+): otec Anny Aubrechtové – při jejím sňatku 28. 10. 1732 „vlastní dcera Šimona Gocha (?) z Volduch“ (Osek 02 O sn. 69 vpravo). Oddán 11. 5. 1708 v Oseku: „Simon Gech ex Wossek cum Ludmilla Swogdowa (?) ex pago Wossek“; svědci Matěj Wagner a Anna Latková (?) (Osek 01 O sn. 153 vlevo; M zápis). Děti: Vojtěch 23. 4. 1711 (sn. 56 vpravo), Šimon 26. 10. 1714 (sn. 69 vlevo); Anna 17. 6. 1708 (sn. 48 vlevo). Příjmení kolísá Goch / Gech / Gocha (?).",
+        "Žil 28. 10. 1732 (sňatek dcery bez „†“). Po 1714 další děti v Osek 01 N do V 1722 nejsou; Úmrtí není v Osek 03 Z XII 1744 – 1759 ani v rejstříku Osek 04 Z; zbývá Osek 02 Z XI 1732 – 1739 a Osek 03 Z 1740–44."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O, sn. 153 vlevo (11. 5. 1708) – https://www.portafontium.eu/iipimage/30066667/osek-01_1531-o",
         "SOA Plzeň, Osek 01 N, sn. 56 vpravo (1711), sn. 69 vlevo (1714)"
+      ],
+      scans: [
+        {"f":"img/1708_N_Gochova_Anna_Osek.jpg","t":"Křest dcery Anny, Osek 1708"}
       ]
     },
     {
@@ -12826,6 +12832,9 @@ window.RODOKMEN = {
         "SOA Plzeň, Osek 01 O, sn. 153 vlevo (11. 5. 1708) – https://www.portafontium.eu/iipimage/30066667/osek-01_1531-o",
         "SOA Plzeň, Osek 01 N, sn. 56 vpravo (1711), sn. 69 vlevo (1714)",
         "SOA Plzeň, Osek 03 Z, sn. 172 vpravo – https://www.portafontium.eu/iipimage/30066669/osek-03_1720-z"
+      ],
+      scans: [
+        {"f":"img/1708_N_Gochova_Anna_Osek.jpg","t":"Křest dcery Anny, Osek 1708"}
       ]
     },
     {
