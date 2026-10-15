@@ -11987,7 +11987,8 @@ window.RODOKMEN = {
         {"f":"img/1772_O_Aubrecht_Petr_Cadova_Dorota_Volduchy.jpg","t":"Sňatek s Dorotou Čadovou, Volduchy 22. 7. 1772"},
         {"f":"img/1804_O_Aubrecht_Petr_Kermesova_Marketa_Volduchy.jpg","t":"2. sňatek s Markétou Kermesovou, 1804"},
         {"f":"img/1807_O_Aubrecht_Jan_Holubova_Marie_Volduchy.jpg","t":"Sňatek syna Jana s Marií Holubovou, 1807"},
-        {"f":"img/1818_Z_Aubrecht_Petr_Volduchy.jpg","t":"Úmrtí 1818, Volduchy č. 21 (65 let)"}
+        {"f":"img/1818_Z_Aubrecht_Petr_Volduchy.jpg","t":"Úmrtí 1818, Volduchy č. 21 (65 let)"},
+        {"f":"img/1776_Z_Aubrecht_Bartolomej_Volduchy11.jpg","t":"Úmrtí otce Bartoloměje Aubrechta, Volduchy 1776"}
       ]
     },
     {
@@ -12732,32 +12733,36 @@ window.RODOKMEN = {
       name: "Bartoloměj Aubrecht",
       line: "aubrecht",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1708)","year":1708,"approx":true},
+      b: {"date":"neznámé (asi 1696)","year":1696,"approx":true},
+      d: {"date":"1. 6. 1776","year":1776,"place":"Volduchy č. p. 11"},
       spouse: "anna_au0",
       occ: "sedlák ve Volduchách",
-      marriage: "28. 10. 1732, Volduchy – s Annou, dcerou Šimona Hycha (?)",
+      marriage: "1) 28. 10. 1732, Volduchy – s Annou, dcerou Šimona Jocha / Hycha (?); 2) 24. 6. 1766, Osek – s Kateřinou, vdovou po Šebestiánovi Chmelaříkovi (?)",
       notes: [
-        "KANDIDÁT (K+, jako otec Petra – viz Petr Aubrecht): sedlák ve Volduchách. Oddán 28. 10. 1732 Volduchy s pannou Annou, vlastní dcerou Šimona Hycha (?) z Volduch; družba Matouš Holubek (?), faktor Petr Vítek (?) (Osek 02 O sn. 69 vpravo; M zápis). Děti: Jan 1733, Ludmila 1736, Dorota 1738, Petr 24. 6. 1749. Vztah k Josefovi Aubrechtovi (*~1685) neznámý – spíš jiná rodina. Úmrtí nehledáno."
+        "KANDIDÁT (K+, jako otec Petra – viz Petr Aubrecht): sedlák ve Volduchách. Oddán 28. 10. 1732 Volduchy s pannou Annou, vlastní dcerou Šimona J(?)ocha / Hycha (?) z Volduch; družba Matouš Holubek (?), faktor Petr Vítek (?) (Osek 02 O sn. 69 vpravo; M zápis). Děti: Jan 1733, Ludmila 1736, Dorota 1738, Petr 24. 6. 1749. Vztah k Josefovi Aubrechtovi (*~1685) neznámý – spíš jiná rodina.",
+        "Jako vdovec, sedlák z Volduch, oddán 24. 6. 1766 v Oseku s Kateřinou, vdovou po † Šebestiánovi Chmelaříkovi (?) (Osek 04 O str. 28, sn. 80 vlevo; M). Syn Jiří (?) × 30. 10. 1770 Magdalena Riedlová (?) (str. 40). Zemřel 1. 6. 1776 ve Volduchách č. 11: „Bartl Aubrecht, Bauer“, 80 let (Osek 08 Z fol. 11, sn. 77 vlevo; M, ověřeno koordinátorem) – v č. 11 žil 1774–76 i syn Petr → ztotožnění silné; věk nejspíš nadsazen."
       ],
       sources: [
         "SOA Plzeň, Osek 02 O, sn. 69 vpravo (28. 10. 1732)",
-        "SOA Plzeň, Osek 03 N, str. 86, sn. 46 vlevo (24. 6. 1749) – https://www.portafontium.eu/iipimage/30066669/osek-03_0460-n"
+        "SOA Plzeň, Osek 03 N, str. 86, sn. 46 vlevo (24. 6. 1749) – https://www.portafontium.eu/iipimage/30066669/osek-03_0460-n",
+        "SOA Plzeň, Osek 08 Z, fol. 11, sn. 77 vlevo – https://www.portafontium.eu/iipimage/30066674/osek-08_0770-z"
       ],
       scans: [
+        {"f":"img/1776_Z_Aubrecht_Bartolomej_Volduchy11.jpg","t":"Úmrtí 1. 6. 1776, Volduchy č. 11"},
         {"f":"img/1749_N_Aubrecht_Petr_Volduchy.jpg","t":"Křest syna Petra, Volduchy 1749"}
       ]
     },
     {
       id: "anna_au0",
       name: "Anna Aubrechtová",
-      maiden: "Hychová (?)",
+      maiden: "Jochová / Hychová (?)",
       line: "aubrecht",
       cert: "K",
       b: {"date":"neznámé (asi 1715)","year":1715,"approx":true,"place":"Volduchy"},
       d: {"date":"9. 10. 1765","year":1765,"place":"Volduchy"},
       spouse: "bartolomej_au",
       notes: [
-        "KANDIDÁTKA (K+): matka Petra Aubrechta (*1749); dcera Šimona Hycha (?) z Volduch, × 28. 10. 1732 (Osek 02 O sn. 69 vpravo). Zemřela 9. 10. 1765, 50 let (dřívější relace, §285) → *~1715."
+        "KANDIDÁTKA (K+): matka Petra Aubrechta (*1749); dcera Šimona J(?)ocha (nativně – první písmeno spíš J/G než H) z Volduch, × 28. 10. 1732 (Osek 02 O sn. 69 vpravo). Zemřela 9. 10. 1765, 50 let (dřívější relace, §285) → *~1715."
       ],
       sources: [
         "SOA Plzeň, Osek 02 O, sn. 69 vpravo (28. 10. 1732)",
