@@ -5344,7 +5344,8 @@ window.RODOKMEN = {
         {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776"},
         {"f":"img/1773_snatek_josef_divis_anna_cervena_zdice01_sn316_a.jpg","t":"Sňatek Josefa Diviše a Anny Červené (?), Zdice 4. 10. 1773"},
         {"f":"img/1828_Z_Divis_Josef_Cernin7.jpg","t":"Úmrtí X 1828, Černín č. 7"},
-        {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí rodičů Václava a Kateřiny, Černín 1787"}
+        {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí rodičů Václava a Kateřiny, Černín 1787"},
+        {"f":"img/1759_N_Divis_Karel_Cernin_matka_Hladka.jpg","t":"Křest bratra Karla 1759 – matka Kateřina roz. Hladká"}
       ]
     },
     {
@@ -6852,8 +6853,9 @@ window.RODOKMEN = {
         "KANDIDÁT: 1772 svědčí „Mathias Diwisch, Rusticus ex Gernin“, 62 let (*~1710) – příbuznost neznámá.",
         "Zemřel 15. 5. 1787 v Černíně č. 7: „Václav Diviš, sedlák z Černína patřícího ku Králo-Dvoru“, 70 let (Zdice 02 sn. 332, 4. zápis; M). Manželka Kateřina † 24. 3. 1787 tamtéž, 70 let. Děti (Zdice 01 N): František 1745, Kateřina 1746, Matěj 1750, Jan Václav 1752; Josef (*před 1744).",
         "Dcera Dorota pokřtěna 9. 1. 1743 (*8. 1.) z Černína, poddaní Králodvorští: „Václava Diviše otce, Kateřiny matky“ (Žebrák 01 sn. 156 vpravo; M, ověřeno koordinátorem) – nejstarší známé dítě.",
-        "Sňatek (K+): 20. 11. 1740 z Černína „Václav po † neb. Janovi Diw…[hřbet]“ s Kateřinou „po † neb. Ondřejovi (?) Hladkovi z B…“; družba Jan Muss…, družka Kateřina Janková (?) z Černína (Žebrák 01 O sn. 252 vlevo; plné rozlišení – konec příjmení ženicha ve hřbetu). Podporuje: syn Václav pokřtěn ~21. 9. 1741 (Václav Diviš × Kateřina; sn. 151 vpravo; M), deset měsíců po sňatku. Josef v N III–X 1741 a IV–XI 1743 není; zbývá I–III 1743, XI 1743 – 1744.",
-        "Další děti (Zdice 01; M): Matěj Tadeáš (*II 1750, † 11 dní), Rozálie 30. 4. 1754. Josef v N Zdice 01 1744–1758 NENÍ (rejstříkoví „Josef 1758“ a „Martin 1755“ jsou děti Matěje Diviše × Anny Novákové) – Josef (× 1773 jako syn Václava z Černína 7) zůstává bez křtu; zbývá rejstříkové Terezie ~1756, Karel a Kateřina ~1759."
+        "Sňatek (M – rodné příjmení nevěsty potvrzeno 1759): 20. 11. 1740 z Černína „Václav po † neb. Janovi Diw…[hřbet]“ s Kateřinou „po † neb. Ondřejovi (?) Hladkovi z B…“; družba Jan Muss…, družka Kateřina Janková (?) z Černína (Žebrák 01 O sn. 252 vlevo; plné rozlišení – konec příjmení ženicha ve hřbetu). Podporuje: syn Václav pokřtěn ~21. 9. 1741 (Václav Diviš × Kateřina; sn. 151 vpravo; M), deset měsíců po sňatku. Josef v N III–X 1741 a IV–XI 1743 není; zbývá I–III 1743, XI 1743 – 1744.",
+        "Další děti (Zdice 01; M): Matěj Tadeáš (*II 1750, † 11 dní), Rozálie 30. 4. 1754. Josef v N Zdice 01 1744–1758 NENÍ (rejstříkoví „Josef 1758“ a „Martin 1755“ jsou děti Matěje Diviše × Anny Novákové) – Josef (× 1773 jako syn Václava z Černína 7) zůstává bez křtu; zbývá rejstříkové Terezie ~1756, Karel a Kateřina ~1759.",
+        "Další děti (Zdice 01): Terezie ~13. 10. 1756, Karel 17. 9. 1759; Jan Václav (*1752) † 15. 4. 1754; dítě Jan (*~1749) † VII 1751 – v rejstříku N chybí, rejstřík je neúplný. Oddací 1773 (znovu čten): „Josephus filius Wenceslai Diwiš rustici ex pago Černin N: 7“ – Josef je syn Václava; křest nejspíš v mezeře 1747–1749 (N sn. 17–24), věk 75 při † 1828 podhodnocen."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316",
@@ -6862,7 +6864,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776 (dítě: Josef Diviš)"},
-        {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí Václava a Kateřiny Divišových, Černín 1787"}
+        {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí Václava a Kateřiny Divišových, Černín 1787"},
+        {"f":"img/1759_N_Divis_Karel_Cernin_matka_Hladka.jpg","t":"Křest syna Karla, Černín 1759"}
       ]
     },
     {
@@ -12055,7 +12058,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁTKA (K+): matka Doroty Aubrechtové. Narozena 7. 11., pokřtěna 8. 11. 1728 ve Volduchách: „Kateřina, vlastní dcera Prokopa Hanzlíka a Barbory“ (Osek 02 N str. 8, sn. 6 vlevo; M zápis, jediná v rejstříku). Rodiče: Prokop Hanzlík × Barbora (sňatek nehledán).",
         "Podruhé oddána 29. 1. 1760 ve Volduchách: „Vojtěch, vlastní syn pozůstalý po † Danielovi Nuchovi, s poctivou vdovou Kateřinou pozůstalou po † Martinovi Čádovi“; družba Václav Kermes (Osek 04 O str. 1, sn. 66 vpravo; M) – dále Nuhová (Nuchová). Úmrtí nehledáno.",
-        "Úmrtí jako Nuchová není v Osek 08 Z Volduchy 1778 – VI 1788 (bez mezer, D); zbývá 1772–77 a VII 1788 – 1808."
+        "Úmrtí jako Nuchová není v Osek 08 Z Volduchy 1778 – VI 1788 (bez mezer, D); zbývá 1772–77 a VII 1788 – 1808.",
+        "Matka (K): Barbora, vdova po † Prokopu Hanzlíkovi, † 25. 6. 1744 Volduchy, 60 let (Osek 03 Z sn. 166 vlevo; M) → Prokop † před VI 1744."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 8 (sn. 6 vlevo); Osek 03 O str. 45 (sn. 131 vpravo)"
@@ -12621,6 +12625,7 @@ window.RODOKMEN = {
     {
       id: "katerina_dv",
       name: "Kateřina Divišová",
+      maiden: "Hladká",
       line: "divis",
       cert: "K",
       b: {"date":"neznámé (asi 1717)","year":1717,"approx":true},
@@ -12629,14 +12634,15 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁTKA (K): matka Josefa Diviše – manželka Václava Diviše a matka jeho dětí 1745–1752 (Zdice 01 N; M); Josefův křest (před 1744) nenalezen.",
         "Zemřela 24. 3. 1787 v Černíně č. 7: „Katharina, manželka Václava Diviše, sedláka z Černína“, 70 let (Zdice 02 sn. 332, 2. zápis; M). Rodné příjmení neuvedeno.",
-        "Rodným příjmením nejspíš Hladká (K+), dcera † Ondřeje (?) Hladkého – sňatek 20. 11. 1740 (viz Václav Diviš). Syn Václav ~21. 9. 1741. Dcera Dorota *8. 1. 1743 (Žebrák 01 sn. 156 vpravo; M)."
+        "Rodným příjmením Hladká – potvrzeno křtem syna Karla 17. 9. 1759: „otce Václava Diviše, matky Kateřiny rozené Hladkové, obou ke Královému Dvoru poddaných“ (Zdice 01 N sn. 58 vlevo; M, ověřeno koordinátorem);, dcera † Ondřeje (?) Hladkého – sňatek 20. 11. 1740 (viz Václav Diviš). Syn Václav ~21. 9. 1741. Dcera Dorota *8. 1. 1743 (Žebrák 01 sn. 156 vpravo; M)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 02 (Z), Černín, sn. 332 (1787) – https://ebadatelna.soapraha.cz/d/9096/332",
         "SOA Praha, Sbírka matrik, ř.-k. fara Žebrák (Zdice), Žebrák 01 (N 1663–1743, O 1707–1743), sn. 156 vpravo (N 1743) a sn. 252 vlevo (O 1740) – https://ebadatelna.soapraha.cz/d/9695/156"
       ],
       scans: [
-        {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí 24. 3. 1787, Černín č. 7"}
+        {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí 24. 3. 1787, Černín č. 7"},
+        {"f":"img/1759_N_Divis_Karel_Cernin_matka_Hladka.jpg","t":"Křest syna Karla 1759 – „Kateřiny rozené Hladkové“"}
       ]
     },
     {
@@ -12717,7 +12723,8 @@ window.RODOKMEN = {
       spouse: "anna_mh00",
       notes: [
         "Ze Zdic; otec Víta Merhauta – „Vít, vlastní syn Václava Merhauta ze Zdic“ při sňatku 31. 10. 1741 (Žebrák 01 O sn. 253 vpravo; M). Při sňatku syna žil (bez „†“). Křest Víta (~1719–22) a sňatek Václava hledat v Žebrák 01 (9695).",
-        "Děti s Annou (Žebrák 01 N; M): Vít Jiří 31. 5. 1720, Jiří Marek 27. 4. 1722, dvojčata František a Matěj 20. 3. 1724. Nezaměňovat s druhým Václavem Merhautem ze Zdic × Rozina/Rozálie (Martin 1721, Jan 1724). Úmrtí nehledáno (Žebrák 01 Z 1721–1743)."
+        "Děti s Annou (Žebrák 01 N; M): Vít Jiří 31. 5. 1720, Jiří Marek 27. 4. 1722, dvojčata František a Matěj 20. 3. 1724. Nezaměňovat s druhým Václavem Merhautem ze Zdic × Rozina/Rozálie (Martin 1721, Jan 1724). Úmrtí nehledáno (Žebrák 01 Z 1721–1743).",
+        "KANDIDÁT úmrtí (K−): ~9. 9. 1754 Zdice, „Václav Merhaut“, věk čten 40 / 70 (?) – koordinátor čte spíš „40“ (pak jiný Václav); manželka neuvedena (Zdice 01 Z sn. 203 vpravo). Úmrtí jiného dospělého Václava Merhauta VIII 1750 – IX 1754 není."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253"
@@ -12823,7 +12830,8 @@ window.RODOKMEN = {
       marriage: "11. 5. 1708, Osek – s Lidmilou Swogdovou (?)",
       notes: [
         "KANDIDÁT (K+): otec Anny Aubrechtové – při jejím sňatku 28. 10. 1732 „vlastní dcera Šimona Gocha (?) z Volduch“ (Osek 02 O sn. 69 vpravo). Oddán 11. 5. 1708 v Oseku: „Simon Gech ex Wossek cum Ludmilla Swogdowa (?) ex pago Wossek“; svědci Matěj Wagner a Anna Latková (?) (Osek 01 O sn. 153 vlevo; M zápis). Děti: Vojtěch 23. 4. 1711 (sn. 56 vpravo), Šimon 26. 10. 1714 (sn. 69 vlevo); Anna 17. 6. 1708 (sn. 48 vlevo). Příjmení kolísá Goch / Gech / Gocha (?).",
-        "Žil 28. 10. 1732 (sňatek dcery bez „†“). Po 1714 další děti v Osek 01 N do V 1722 nejsou; Úmrtí není v Osek 03 Z XII 1744 – 1759 ani v rejstříku Osek 04 Z; zbývá Osek 02 Z XI 1732 – 1739 a Osek 03 Z 1740–44."
+        "Žil 28. 10. 1732 (sňatek dcery bez „†“). Po 1714 další děti v Osek 01 N do V 1722 nejsou; Úmrtí není v Osek 03 Z XII 1744 – 1759 ani v rejstříku Osek 04 Z; zbývá Osek 02 Z XI 1732 – 1739 a Osek 03 Z 1740–44.",
+        "Úmrtí není v Osek Z 1732–1777 (Osek 02 Z XI 1732–1739 D-negativ, husté roky 1736–39 s výhradou; Osek 03 Z 1740–1759 souvisle negativní) → zemřel nejspíš mimo faru."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O, sn. 153 vlevo (11. 5. 1708) – https://www.portafontium.eu/iipimage/30066667/osek-01_1531-o",
