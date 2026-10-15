@@ -12713,7 +12713,7 @@ window.RODOKMEN = {
       spouse: "vaclav_mh00",
       notes: [
         "Matka Víta Merhauta – křest 31. 5. 1720 Zdice „z otce Václava Merhauta, z matky Anny“ (Žebrák 01 N sn. 58 vlevo; M). Rodné příjmení neznámé.",
-        "ROZPOR / otázka: 10. (20. ?) 11. 1721 pokřtěn Martin, syn Václava Merhauta ze Zdic a Rozálie (sn. 61 vpravo) – buď Anna zemřela 1720/21 a Václav se znovu oženil, nebo ve Zdicích žili dva Václavové Merhautové (Václav Merhaut je i kmotrem). Úmrtí Anny a sňatek Václava × Rozálie nehledány."
+        "ROZPOR / otázka: 10. (20. ?) 11. 1721 pokřtěn Martin, syn Václava Merhauta ze Zdic a Rozálie (sn. 61 vpravo) – buď Anna zemřela 1720/21 a Václav se znovu oženil, nebo ve Zdicích žili dva Václavové Merhautové (Václav Merhaut je i kmotrem). Praha N37: úmrtí Anny v Z II 1720 – III 1721 ani sňatek Václava × Rozálie v O IX 1719 – 1722 nejsou; u Martinova křtu je svědkem rovněž „Václav Merhaut ze Zdic“ → spíš dva Václavové (K). Sňatek Václava × Anny není v O 1708–1715; O ~1716 – VIII 1719 v knize chybí."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, Žebrák 01 (9695), N, sn. 58 vlevo (31. 5. 1720) – https://ebadatelna.soapraha.cz/d/9695/58"
