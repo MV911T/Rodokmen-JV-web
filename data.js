@@ -12318,7 +12318,8 @@ window.RODOKMEN = {
         "KANDIDÁTKA (K+): matka Šimona Laukoty (viz Josef Laukota); z Vitinky, rodné příjmení čteno Altmanová (?).",
         "Děti v Oseku (M): Barbora (26. 8. 1728; levans Barbora Kratochvílová, svědek Matěj Fotorný z Vitinky – svatební hosté 1727), Matěj (19. 7. 1730), Šimon (27. 10. 1732), František (1735), Václav (1739). Úmrtí nehledána.",
         "Zemřela 29. 12. 1767 (pohřbena 31. 12. v Oseku): „Rozina superstes vidua post def. Josephum Laukota, senex 64 annorum“ (Osek 04 Z str. 30, sn. 119 vlevo; M zápis, ověřeno koordinátorem; měsíc z předchozí strany; ztotožnění K+ – jediná Rozina Laukotová 1760–1777) → *~1703. Josef tedy zemřel před XII 1767 (Osek 03 Z V 1745 – XII 1759 a Osek 04 Z 1760–77 bez něj → asi 1739–1745).",
-        "Ovdověla nejspíš 26. 3. 1743 (viz Josef Laukota)."
+        "Ovdověla nejspíš 26. 3. 1743 (viz Josef Laukota).",
+        "Sňatek XI 1727 (4. nebo 11. 11.) přečten nativně: „Jozef Laukota s Rozinau Altmanowau (?) z Witthinky“; družba Matěj Fotorny (?) z Vitinky, faktor František Kratochvíl z Volduch (Osek 01 O sn. 172 vlevo; M) – čtení Ullmanová vyloučeno (přeškrtnuté „t“); rodiče snoubenců v zápisu nejsou. Křest Roziny (~1703, Vitinka) nehledán."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 172 vlevo (XI 1727) – https://www.portafontium.eu/iipimage/30066667/osek-01_1721-o",
