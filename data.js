@@ -5319,7 +5319,8 @@ window.RODOKMEN = {
         "Křest nenalezen ve Zdicích 1744–1757 (Josef *1758 je syn Matěje Diviše a Anny Novákové – jiný); zdické křty před 1744 jsou v matrice Žebrák 03 (1729–1760) – zatím neprověřeno.",
         "Starší zdické křty (do 1743) v matrice Žebrák 03 nejsou – Černín, Zdice ani Knížkovice se tam neobjevují; zdická matrika 1717–1743 se zřejmě nedochovala. Další cesta: pozemkové knihy / urbář panství Králův Dvůr (Černín č. 7).",
         "KANDIDÁTI – děti podle indexu narozených Zdice (Diviš, Černín): Anna (fol. 110), Josef (115), Matěj (123, 1776), Kateřina (127), Veronika (131), Anna (133–134), dvojčata (135).",
-        "Zemřel 2. (nebo 3.) 10. 1828 (pohřben 5. 10.) v Černíně č. 7: „Josef Diwiš, wejminkář z Černjna“, 75 let (Zdice 12 sn. 51 vlevo, str. 96; M) → *~1753. ROZPOR s dřívějším odhadem (*před 1744); křest nedohledán."
+        "Zemřel 2. (nebo 3.) 10. 1828 (pohřben 5. 10.) v Černíně č. 7: „Josef Diwiš, wejminkář z Černjna“, 75 let (Zdice 12 sn. 51 vlevo, str. 96; M) → *~1753. ROZPOR s dřívějším odhadem (*před 1744); křest nedohledán.",
+        "Sourozenci (děti Václava Diviše × Kateřiny z Černína, Zdice 01 N; M): František (17. 1. 1745), Kateřina (16. 12. 1746), Matěj (5. 2. 1750), Jan Václav (22. 1. 1752). Josef v rejstříku N Zdice 01 (od 1744) není → narozen spíš před 1744 (věk 75 v r. 1828 nejspíš podhodnocen); matka nejspíš Kateřina (K)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
