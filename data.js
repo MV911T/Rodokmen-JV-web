@@ -13220,7 +13220,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1625)","year":1625,"approx":true,"place":"Volduchy (?)"},
       spouse: "zuzana_fo00",
       notes: [
-        "KANDIDÁT (K+): otec Jakuba Forejta („Jakub syn Matěje Forejta“, 1675; M). Snad tentýž Matěj Forejt × Zuzana – děti Matěj 23. 2. 1662 (kmotr Jan Dudl; Rokycany 01 pag. 29, sn. 21 vpravo) a Adam V 1665 (pag. 63, sn. 38 vpravo; M zápisy)."
+        "KANDIDÁT (K+): otec Jakuba Forejta („Jakub syn Matěje Forejta“, 1675; M). Snad tentýž Matěj Forejt × Zuzana – děti Matěj 23. 2. 1662 (kmotr Jan Dudl; Rokycany 01 pag. 29, sn. 21 vpravo) a Adam V 1665 (pag. 63, sn. 38 vpravo; M zápisy).",
+        "Sňatek (~1645–1655) a úmrtí (před 1705) na portafontiu nedohledatelné – Osek 01 O začíná 1675, Z 1705; oddací Rokycany před 1736 nedigitalizovány."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O, sn. 139 vlevo (10. 11. ? 1675) – https://www.portafontium.eu/iipimage/30066667/osek-01_1391-o",
@@ -13248,7 +13249,8 @@ window.RODOKMEN = {
       cert: "K",
       b: {"date":"neznámé (odhad ~1620)","year":1620,"approx":true,"place":"Volduchy (?)"},
       notes: [
-        "KANDIDÁT (K++): otec Kateřiny Forejtové – „Kateřina dcera Matěje Dudla“ při sňatku 1675 (Osek 01 O sn. 139 vlevo; M). Jan Dudl kmotrem u Forejtů 1662 (příbuzný ?)."
+        "KANDIDÁT (K++): otec Kateřiny Forejtové – „Kateřina dcera Matěje Dudla“ při sňatku 1675 (Osek 01 O sn. 139 vlevo; M). Jan Dudl kmotrem u Forejtů 1662 (příbuzný ?).",
+        "V rejstříku N Rokycany 01 (1659–1682) Matěj Dudl jako otec není → jeho děti *před 1659. Současník Jan Dudl z Volduch (× Helena, děti 1666, 1670; × Kateřina, děti 1674, 1677; syn Václav × 6. 2. 1678 Sabina) – snad bratr (K−). Úmrtí před 1705 a sňatek ~1640 na portafontiu nejsou (Osek 01 Z od 1705, O od 1675)."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O, sn. 139 vlevo (10. 11. ? 1675) – https://www.portafontium.eu/iipimage/30066667/osek-01_1391-o"
