@@ -11480,7 +11480,8 @@ window.RODOKMEN = {
         {"f":"img/1774_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest syna Jana, Ohrazenice 1774"},
         {"f":"img/1794_O_Mraz_Jan_Beckova_Dorota_Ohrazenice.jpg","t":"Sňatek syna Jana, Ohrazenice 1794"},
         {"f":"img/1794_Z_Mraz_Jan_Ohrazenice.jpg","t":"Úmrtí 24. 2. 1794, Ohrazenice č. 8"},
-        {"f":"img/1789_Z_Mrazova_Katerina_Ohrazenice.jpg","t":"Úmrtí manželky Kateřiny, Ohrazenice 1789"}
+        {"f":"img/1789_Z_Mrazova_Katerina_Ohrazenice.jpg","t":"Úmrtí manželky Kateřiny, Ohrazenice 1789"},
+        {"f":"img/1742_Z_Mraz_Jan_Ohrazenice.jpg","t":"Úmrtí otce Jana Mráze (kandidát), Ohrazenice 1742"}
       ]
     },
     {
@@ -11494,7 +11495,8 @@ window.RODOKMEN = {
       notes: [
         "Manželka Jana Mráze, chalupníka v Ohrazenicích č. 8; matka Jana (křest 9. 1. 1774 – „uxor ejus Catharina“, M). Rodné příjmení neznámé.",
         "Zemřela náhle 19. 3. 1789 v Ohrazenicích č. 8: „Catharina Eheweib des Johann Mraz, Chalupner“, „improvise mortua“, věk nejistě čten (37 ?) (Z 5102, sn. 104 vlevo, pag. 3; M).",
-        "K ROZPORU (Zámrsk 30): čtení „Kopušilová“ (1782) se blíží příjmení Kobosil – Kobosilové žili v Ohrazenicích 1740–1766 hojně (např. Jan, syn † Václava Kobosila, × IX 1766 Kateřina, dcera † Jana Mráze; O 5296 sn. 280 vlevo) → možná „Kobosilová (?)“ (K). Sňatek s Janem Mrázem ve Všeni 1766–1775 a v Přepeřích 1758–1774 není; rozpor trvá."
+        "K ROZPORU (Zámrsk 30): čtení „Kopušilová“ (1782) se blíží příjmení Kobosil – Kobosilové žili v Ohrazenicích 1740–1766 hojně (např. Jan, syn † Václava Kobosila, × IX 1766 Kateřina, dcera † Jana Mráze; O 5296 sn. 280 vlevo) → možná „Kobosilová (?)“ (K). Sňatek s Janem Mrázem ve Všeni 1766–1775 a v Přepeřích 1758–1774 není; rozpor trvá.",
+        "Kandidátka (K): Kateřina, dcera Václava Kobosila × Anny, pokřtěná 13. 9. 1740 nebo ~1741/42 Ohrazenice (N Všeň 5286 sn. 170 vlevo / 176 vlevo; čteno jen ve ¼) – sedí ke čtení „Kopušilová/Kobosilová“ (1782); Prošník ani Jelínek v N Ohrazenice 1740–45 není."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
@@ -12483,19 +12485,22 @@ window.RODOKMEN = {
       name: "Jan Mráz",
       line: "mraz",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1712)","year":1712,"approx":true,"place":"Ohrazenice"},
-      d: {"date":"před 1763 (?)","year":1762,"approx":true},
+      b: {"date":"neznámé (asi 1711)","year":1711,"approx":true,"place":"Ohrazenice"},
+      d: {"date":"8. 3. 1742","year":1742,"place":"Ohrazenice (pohřben v Přepeřích)"},
       spouse: "magdalena_mzn",
       marriage: "X 1737, Všeň – s Magdalenou Novářovou (?)",
       notes: [
-        "KANDIDÁT (K+): otec Jana Mráze st. st. – křest 24. 6. 1740 (N Všeň 5286 sn. 169 vlevo; M zápis). Syn Jiříka Mráze z Ohrazenic; × X 1737 Magdalena, dcera Jiříka Nováře (?) (O Všeň 5291 sn. 43 vpravo; M zápis). Děti Anna 1738, Magdalena (?) 1739, Jan 1740. Snad totožný s „† Janem Mrázem“ (dcery × 1763 a 1766)."
+        "KANDIDÁT (K+): otec Jana Mráze st. st. – křest 24. 6. 1740 (N Všeň 5286 sn. 169 vlevo; M zápis). Syn Jiříka Mráze z Ohrazenic; × X 1737 Magdalena, dcera Jiříka Nováře (?) (O Všeň 5291 sn. 43 vpravo; M zápis). Děti Anna 1738, Magdalena (?) 1739, Jan 1740.",
+        "Pohřben 8. 3. 1742 u filiálního kostela sv. Jakuba v Přepeřích: „Joannes Mraz“ z Ohrazenic, zaopatřen svátostmi, 31 let (Z Všeň 5294 sn. 109 vpravo; M zápis, ověřeno koordinátorem) → *~1711. Pohrobek Kateřina pokřtěna 30. 5. 1742 (N 5286 sn. 179 vpravo), † 26. 2. 1745 (?) „dcera po † Janu Mrázovi“, 2½ roku. Nevěsta 1766 a kmotra 1745/46 („Kateřina, dcera Jana Mráze“) patří ke staršímu Janu Mrázovi. Jiný otec Mráz v N Ohrazenice 1740–1745 není; Jan *1740 v Z 1740 – II 1745 nezemřel."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 169 vlevo, pag. 304 (24. 6. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1",
-        "SOA Zámrsk, O Všeň 5291 sn. 43 vpravo (X 1737); N 5296 sn. 84 vpravo, 86 vpravo"
+        "SOA Zámrsk, O Všeň 5291 sn. 43 vpravo (X 1737); N 5296 sn. 84 vpravo, 86 vpravo",
+        "SOA Zámrsk, Z Všeň 5294, sn. 109 vpravo (8. 3. 1742) – APU f576a8f6-7be8-496c-884f-64e7ca6dc3e4"
       ],
       scans: [
-        {"f":"img/1740_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest syna Jana, Ohrazenice 1740"}
+        {"f":"img/1740_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest syna Jana, Ohrazenice 1740"},
+        {"f":"img/1742_Z_Mraz_Jan_Ohrazenice.jpg","t":"Úmrtí 8. 3. 1742, Ohrazenice"}
       ]
     },
     {
@@ -12507,7 +12512,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true,"place":"Ohrazenice"},
       spouse: "jan_mz00",
       notes: [
-        "KANDIDÁTKA (K+): matka Jana Mráze st. st. (viz Jan Mráz); dcera Jiříka Nováře (?) z Ohrazenic."
+        "KANDIDÁTKA (K+): matka Jana Mráze st. st. (viz Jan Mráz); dcera Jiříka Nováře (?) z Ohrazenic.",
+        "Ovdověla 8. 3. 1742 (manžel 31 let); 2. sňatek nehledán."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 169 vlevo, pag. 304 (24. 6. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1"
