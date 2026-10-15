@@ -12673,12 +12673,13 @@ window.RODOKMEN = {
       cert: "K",
       b: {"date":"neznámé (asi 1715)","year":1715,"approx":true,"place":"Hodějice"},
       d: {"date":"10. 4. 1776","year":1776,"place":"Hodějice č. p. 52"},
+      father: "josef_si0",
+      mother: "marina_si0",
       spouse: "apolonie_si",
       marriage: "1) 18. 1. 1750, Hodějice – s Apolonií Láníčkovou; 2) 3. 6. 1762, Hodějice – s Johannou, dcerou Šebestiána Svobody (?)",
       notes: [
         "KANDIDÁT (K+): otec Martina Šimoníka (*25. 10. 1756). Syn † Josefa Šimoníka; × 18. (I) 1750 Hodějice „honesta puella Apollonia filia Mathiae Lanižek, utrique Hodiegicio“; svědci Josef Masnička (?) a Josef Majek (O 13120 sn. 269 vlevo; M zápis). 1752–1756 podruh (1754 sedlák ?) v Hodějicích; děti Jakub 1752, Josef 1754, Martin 1756, Jan († 1765). Úmrtí nehledáno (Z 13121 od sn. 447).",
-        "Pohřben 10. 4. 1776 v Hodějicích č. 52: „Georgius Schimonik“, 61 let (Z 13121 sn. 517 vpravo; M zápis, ověřeno koordinátorem; K+ – týž dům č. 52 jako Martin 1781–85, jiný Jiří Šimoník 1770–78 není) → *~1715. Manželka v zápisu neuvedena; Apolonie † 13. 4. 1762; jako vdovec, čtvrtník, oddán 3. 6. 1762 s pannou Johannou, dcerou Šebestiána Svobody (?) z Hodějic (O 13121 sn. 311 vpravo; M) – tatáž vdova Johanna se 7. 1. 1783 vdala za Ondřeje Horáčka (K+).",
-        "Otec Josef Šimoník – snad × Marina: 18. 8. 1717 kmotři „Josephus Schimonik & Marina eius uxor“ u křtu Bartoloměje, syna Jiřího Floriana × Kateřiny (N 13120 sn. 55 vpravo; čtení kmotrů K). Křest Jiřího v N X 1713 – VII 1718 není."
+        "Pohřben 10. 4. 1776 v Hodějicích č. 52: „Georgius Schimonik“, 61 let (Z 13121 sn. 517 vpravo; M zápis, ověřeno koordinátorem; K+ – týž dům č. 52 jako Martin 1781–85, jiný Jiří Šimoník 1770–78 není) → *~1715. Manželka v zápisu neuvedena; Apolonie † 13. 4. 1762; jako vdovec, čtvrtník, oddán 3. 6. 1762 s pannou Johannou, dcerou Šebestiána Svobody (?) z Hodějic (O 13121 sn. 311 vpravo; M) – tatáž vdova Johanna se 7. 1. 1783 vdala za Ondřeje Horáčka (K+)."
       ],
       sources: [
         "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
@@ -12699,13 +12700,14 @@ window.RODOKMEN = {
       cert: "K",
       b: {"date":"neznámé (asi 1732, kandidátní křest – viz poznámky)","year":1732,"approx":true,"place":"Slavkov u Brna"},
       d: {"date":"13. 4. 1762","year":1762,"place":"Hodějice"},
+      father: "matej_la0",
+      mother: "anna_la00",
       spouse: "jiri_si",
       marriage: "18. 1. 1750, Hodějice – s Jiřím Šimoníkem",
       notes: [
         "KANDIDÁTKA (K+): matka Martina Šimoníka; dcera Matěje Láníčka z Hodějic (O 13120 sn. 269 vlevo). Vztah k Láníčkům z linie Hrabovských (Pavel Láníček *~1745) neověřen – možný implex.",
         "KANDIDÁT úmrtí (K+): 13. 4. 1762 Hodějice – „Appollonia uxor Georgii Schimonik quadrantarii Hodějicio“, 28 let (Z 13121 sn. 418 vpravo; M zápis, ověřeno koordinátorem) – jediný Jiří Šimoník v Hodějicích, za 7 týdnů se znovu žení. Věk 28 sedí téměř přesně na křest 1732 (skutečně 29). Děti Jiřího † 1762: František (1 r. 3 m.) 3. 7., Jan (6 m.) 29. 7.",
-        "KANDIDÁT křtu (K+): 28. 8. 1732 Slavkov – „Apolloniam; Mathia Laniežek, Anna, Austerl.“; kmotři Václav Hošinka (?) a Apolonie jeho manželka ze Slavkova (N 13120 sn. 143 vlevo; M, ověřeno koordinátorem; měsíc a rok z pořadí v knize). Při sňatku 1750 jí bylo 17. Láníčkové žili v Hodějicích už 1714 (Václav × Kateřina, kmotři) – vazba na Láníčky z linie Hrabovských nedoložena.",
-        "Rodina Láníčků (K): sňatek Matěje Láníčka × Anny není v O Slavkov III 1726 – V 1732. Václav Láníček z Hodějic, vdovec, × I 1728 Rosina vdova po Tomáši Černém (?) ze Slavkova; † před V 1730 (vdova Rosina × Tomáš Karel); Václav × Kateřina kmotři v Hodějicích 1714–17 – Matěj snad jejich syn (K)."
+        "KANDIDÁT křtu (K+): 28. 8. 1732 Slavkov – „Apolloniam; Mathia Laniežek, Anna, Austerl.“; kmotři Václav Hošinka (?) a Apolonie jeho manželka ze Slavkova (N 13120 sn. 143 vlevo; M, ověřeno koordinátorem; měsíc a rok z pořadí v knize). Při sňatku 1750 jí bylo 17. Láníčkové žili v Hodějicích už 1714 (Václav × Kateřina, kmotři) – vazba na Láníčky z linie Hrabovských nedoložena."
       ],
       sources: [
         "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
@@ -12979,6 +12981,65 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1700_O_Becka_Jan_Bernatova_Magdalena_Vsen.jpg","t":"Sňatek VI 1700, Všeň"}
+      ]
+    },
+    {
+      id: "josef_si0",
+      name: "Josef Šimoník",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true,"place":"Hodějice"},
+      d: {"date":"před 18. 1. 1750","year":1749,"approx":true},
+      spouse: "marina_si0",
+      notes: [
+        "KANDIDÁT (K+): otec Jiřího Šimoníka – ženich 1750 „Georgius post def. Josephum Schimonik“ (O 13120 sn. 269 vlevo; M). Manželka Marina: kmotři 18. 8. 1717 („Josephus Schimonik & Marina eius uxor“, N 13120 sn. 55 vpravo; M, ověřeno); děti Rosina 25. 4. 1721 (sn. 76 vpravo), Václav 11. 9. 1723 († dítě; sn. 89 vlevo) – kmotři vždy Jiří Florian × Kateřina z Hodějic. Křest Jiřího v N 1712 – I 1724 nenalezen; sňatek Josefa × Mariny nehledán (O 13120 sn. 170–206)."
+      ],
+      sources: [
+        "MZA Brno, N 13120, sn. 55, 76, 89 – https://www.mza.cz/actapublica/matrika/detail/1946"
+      ]
+    },
+    {
+      id: "marina_si0",
+      name: "Marina Šimoníková",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
+      spouse: "josef_si0",
+      notes: [
+        "KANDIDÁTKA (K): manželka Josefa Šimoníka z Hodějic 1717–1723 – matkou Jiřího (*~1715) jen tehdy, nebyl-li Josef dříve ženatý jinak."
+      ],
+      sources: [
+        "MZA Brno, N 13120, sn. 55, 76, 89"
+      ]
+    },
+    {
+      id: "matej_la0",
+      name: "Matěj Láníček",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
+      spouse: "anna_la00",
+      marriage: "2. 7. 1725, Slavkov – s Annou, vdovou „Hermanin“ (?)",
+      notes: [
+        "KANDIDÁT (K+): otec Apolonie Šimoníkové (*28. 8. 1732 Slavkov). Oddán 2. 7. 1725 ve Slavkově jako mládenec s vdovou Annou „Hermanin“ (?), oba ze Slavkova; svědci Martin Brichlík (?) a Jan Andršík (?) (O 13120 sn. 208 vlevo; M zápis, rok z pořadí v knize). Rodiče neuvedeni – snad syn Václava Láníčka × Kateřiny z Hodějic (Václav † 1728–30; K). Pozor: Martin Láníček × Anna (dcera Marina 1723) – jiný pár."
+      ],
+      sources: [
+        "MZA Brno, O 13120, sn. 208 vlevo (1725) – https://www.mza.cz/actapublica/matrika/detail/1946"
+      ]
+    },
+    {
+      id: "anna_la00",
+      name: "Anna Láníčková",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
+      spouse: "matej_la0",
+      marriage: "1) s N. Hermanem (?); 2) 2. 7. 1725, Slavkov – s Matějem Láníčkem",
+      notes: [
+        "KANDIDÁTKA (K+): matka Apolonie (*1732); 1725 vdova „Hermanin“ (?) ze Slavkova (O 13120 sn. 208 vlevo)."
+      ],
+      sources: [
+        "MZA Brno, O 13120, sn. 208 vlevo (1725)"
       ]
     }
   ]
