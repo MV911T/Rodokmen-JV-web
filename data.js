@@ -4019,7 +4019,8 @@ window.RODOKMEN = {
         "Matka Marie Klikové; nemanželská dcera Ludmily Stádlerové ze Suchomast.",
         "Oddána 10. 2. 1851 v Suchomastech č. 21 s Václavem Svobodou: „Magdalena, dcera Ludmily, dcery Jana Stadlera, domkáře z K…ína (?) No 6, panství Hořaždovice, z K…ína rozená, báby Ludmily rozené Rozné (?) z K…ína, panství Hořaždovice“, 34 let; „nevěsta dle křestního listu fary K… rozena dne 11. června 1817“ (Borek 13, sn. 3; M, ověřeno koordinátorem; obec a fara nečteny).",
         "Zemřela 27. 6. 1864 (pohřbena 29. 6. v Borku) v Suchomastech č. 21: „Svobodová Magdalena, manželka Václava Svobody, domkáře a silničkáře z Suchomast č. 21, a rozené Stadlerové z Pačiva (?) č. d. 6“, 47 let, vodnatelnost (Borek 15, sn. 72; M, ověřeno koordinátorem). Obec „Pačiv (?)“ – K Pačejov u Horažďovic (dům č. 6 shodný se sňatkem 1851).",
-        "Podle rejstříku měla i starší dceru Annu Stadlerovou (*18. 10. 1846, Suchomasty 21) – nečteno."
+        "Podle rejstříku měla i starší dceru Annu Stadlerovou (*18. 10. 1846, Suchomasty 21) – nečteno.",
+        "Ve křtu 1817 psána „Magdalena Stodlowa“ (ověřeno v nativním rozlišení, Plzeň N31)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
@@ -4040,16 +4041,18 @@ window.RODOKMEN = {
     {
       id: "ludmila_sta",
       name: "Ludmila Stádlerová",
+      maiden: "Stodlová (úředně později Stadlerová)",
       line: "stadler",
       cert: "M",
-      b: {"date":"neznámé (asi 1788, kandidátní křest – viz poznámky)","year":1788,"approx":true,"place":"Pačejov (?)"},
+      b: {"date":"21. 10. 1788","year":1788,"place":"Pačejov č. p. 1 (fara Malý Bor / lokálie Pačejov)"},
       father: "jan_sta",
       mother: "ludmila_vd",
       notes: [
+        "Narozena a pokřtěna 21. 10. 1788 v Pačejově č. 1: „Lidmilla Stodlowa“, otec Jan Stodl, mistr ovčácký, matka „Ludmilla rozená R…cowa“ (Pačejov 01 N sn. 6; M). Ztotožnění (K++, ověřeno koordinátorem): u nemanželských dětí v Pačejově je matka „Lidmilla Stodlowa, dcera po † Janovi Stodlovi a mateře Lidmilly“ (syn Bartoloměj 6. 7. 1812, č. 8; Pačejov 04 sn. 31) a „…po † Janovi Stodlovi, domkáři z Pačejova No 6, matky Ludmily Rosecowy“ (dcera Magdalena 11. 7. 1817; MB 13 sn. 316) – rodné příjmení babičky Rosecová shodné se křtem 1788. Forma „Stadler“ je až z úředních zápisů 1848–1874; dřívější kandidáti Staral (Tetín) a Stadková (M. Hydčice) vyloučeni.",
+        "Nemanželské děti v Pačejově: Bartoloměj (6. 7. 1812, č. 8; † 4. 1. 1819 ? „syn Ludmilly …“, č. 38) a Magdalena (11. 7. 1817, č. 6) – stejný kmotr Bartoloměj Nozor a bába Terezie Jandová.",
         "Matka Magdaleny Svobodové (nemanželské dcery); dcera † Jana Stadlera, mistra polního z Tetína, a matky Ludmily rozené Vadlejškové z Hořaždovic (křest vnučky 1848, Borek 09 sn. 38 vpravo – ověřeno ve 2× zvětšení; potvrzuje sňatek 1874, Borek 20 sn. 28; M). Hypotéza „Sladký, krejčí z Tetína“ vyvrácena.",
         "Křest v N Borek 1789–1821 ani Tetín 1737–1811 není (Praha N12) – narozena jinde (Hořaždovice ?).",
         "Dcera Magdalena narozena 11. 7. 1817 v Pačejově č. 6 (fara Malý Bor, panství Horažďovice) – Ludmila pocházela z Pačejova, ne z Tetína („Tetín“ v zápisech 1848/1874 je zřejmě zkomolený „Pačejov“). Křest Ludmily (~1790–1797, Malý Bor 10) nehledán.",
-        "KANDIDÁT křtu (K+): 21. 10. 1788 Pačejov č. 1, „Lidmilla Stodlowa“, manželská; otec „Jan Stodl, Mistr Owčácký“ (mistr ovčák), matka „Ludmilla rozená R… (?)“ (příjmení ve hřbetu knihy); kmotři Ludmila Benediktová, šafářka, Vojtěch Klaut (?), podruh z Hejné (?); křtil P. Václav Wöllner, lokalista (Pačejov 01 N, sn. 6; M zápis, ověřeno koordinátorem). Pro: jména Ludmila – Jan × Ludmila, Pačejov, Stodl ≈ Stadler, „mistr ovčácký“ ≈ pozdější „mistr polní“; proti: dům č. 1 (1817 č. 6). Jediná Ludmila Stodlová v N Pačejov 1787–1804.",
         "Otec Jan Stodl, „polní mistr“, zemřel nejspíš 28. 2. 1794 v Pačejově č. 38 (K+) – souhlasí s „† Jan“ v křtu 1817 a s „mistr polní“ v zápisech 1848/1874.",
         "KANDIDÁT (K−): 4. 1. 1819 Pačejov č. 38 (?) zemřel Bartoloměj, ~6 týdnů, „syn Ludmilly Bretowy (?), podruhyně v Pačejově“ (MB 12 sn. 109) – příjmení nesedí, snad další nemanželské dítě."
       ],
@@ -4058,12 +4061,15 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
         "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28",
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Malý Bor, Malý Bor 13 (N 1812–1827), oddíl Pačejov, fol. 309, sn. 316 vlevo – https://www.portafontium.eu/iipimage/30065508/maly-bor-13_0316-n"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Malý Bor, Malý Bor 13 (N 1812–1827), oddíl Pačejov, fol. 309, sn. 316 vlevo – https://www.portafontium.eu/iipimage/30065508/maly-bor-13_0316-n",
+        "SOA Plzeň, Sbírka matrik: Pačejov 01 N sn. 6 (1788); Pačejov 04 N sn. 31 (1812); Malý Bor 13 N sn. 316 (1817)"
       ],
       scans: [
+        {"f":"img/1788_N_Stodlova_Ludmila_Pacejov.jpg","t":"Křest Ludmily Stodlové, Pačejov 21. 10. 1788"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Magdalena Svobodová)"},
         {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest vnučky 1848 – rodokmen Stadlerových (Borek)"},
-        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest dcery Magdaleny, Pačejov 1817"}
+        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest dcery Magdaleny, Pačejov 1817"},
+        {"f":"img/1812_N_Stodl_Bartolomej_Pacejov8.jpg","t":"Křest syna Bartoloměje, Pačejov 1812"}
       ]
     },
     {
@@ -4242,7 +4248,7 @@ window.RODOKMEN = {
     },
     {
       id: "jan_sta",
-      name: "Jan Stádler",
+      name: "Jan Stodl (Stadler)",
       line: "stadler",
       cert: "M",
       b: {"date":"neznámé (odhad ~1738)","year":1738,"approx":true},
@@ -4257,7 +4263,8 @@ window.RODOKMEN = {
         "Pozor (Plzeň N27): Ludmila st. v Z Pačejov X 1788 – 1802 nezemřela → možná dva Janové Stodlové (mistr ovčák v č. 1 × Ludmila; podruh/„polní mistr“ v č. 38 × Magdalena). Rodné příjmení Ludmily v křtu 1788 čteno „Rysecová / Rosecová (?)“ (K). Úmrtí po 1805 v Malém Boru 12 (Z 1793–1822, str. 117–126) a 14 – nečteno.",
         "V Z Malý Bor 12 (Pačejov XI 1805 – XII 1822) ani 14 (V 1823 – II 1828) úmrtí Jana Stodla, mistra ovčáka, ani Ludmily Stodlové st. není; 13. 12. 1810 zemřela v Pačejově č. 25 „Marie, dcera po † Janovi Stodlovi (?)“, 16 let (MB 12 sn. 104) → varianta „jeden Jan“ (mistr ovčák → podruh, † 1794) sílí, nerozhodnuto. 1815 už v č. 1 jiný mistr ovčák.",
         "Stopa (K): křest 20./21. 9. 1818 Pačejov č. 40 – matka Kateřina, „dcera Františka L…ky (?) z Malých Hydčic No 44, matky Ludmily rozené Stadlerový z Malých Hydčic No 6“ (Malý Bor 13 sn. 320; ověřeno koordinátorem) → Stadlerovi v Malých Hydčicích č. 6 (srov. 1851 „domkář z H…č…a No 6“). Starší Ludmila Stadlerová (*před ~1775) – snad dcera nebo sestra Jana. Úmrtí Ludmily *1788 v Z Pačejov 1805–1843 není.",
-        "Pozor (Plzeň N30): Malé Hydčice č. 6 patřilo 1786–1812 sedlákům STADEK (Michal † před 1799, vdova Anna † 1799, 80; Matěj † 1806, 52; děti 1794–1806) – „Ludmila rozená Stadlerová (?) z Malých Hydčic No 6“ (1818) je spíš roz. Stadková; v M. Hydčicích žil i bednář Ignác Stadl(er) (?) (č. 1, 7). Jan Stadler/Stodl ani Ludmila v N/Z Malé Hydčice 1793–1822 nejsou → stopa Hydčice slábne, platí Pačejov (Jan Stodl, mistr ovčák)."
+        "Pozor (Plzeň N30): Malé Hydčice č. 6 patřilo 1786–1812 sedlákům STADEK (Michal † před 1799, vdova Anna † 1799, 80; Matěj † 1806, 52; děti 1794–1806) – „Ludmila rozená Stadlerová (?) z Malých Hydčic No 6“ (1818) je spíš roz. Stadková; v M. Hydčicích žil i bednář Ignác Stadl(er) (?) (č. 1, 7). Jan Stadler/Stodl ani Ludmila v N/Z Malé Hydčice 1793–1822 nejsou → stopa Hydčice slábne, platí Pačejov (Jan Stodl, mistr ovčák).",
+        "Ověřeno (Plzeň N31): křty vnoučat 1812 a 1817 – „dcera po † Janovi Stodlovi“, „Jan Stodl, domkář z Pačejova No 6“ (M) – Jan je Jan Stodl z Pačejova; † před VII 1812 (nejspíš 28. 2. 1794 jako podruh v č. 38, K+)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
@@ -4268,7 +4275,8 @@ window.RODOKMEN = {
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Magdalena Svobodová) (dítě: Ludmila Stádlerová)"},
         {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest pravnučky 1848 – zmínka o Janu Stadlerovi"},
         {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek vnučky Magdaleny 1851 – zmínka o Janu Stadlerovi"},
-        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest vnučky Magdaleny, Pačejov 1817"}
+        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest vnučky Magdaleny, Pačejov 1817"},
+        {"f":"img/1788_N_Stodlova_Ludmila_Pacejov.jpg","t":"Křest dcery Ludmily, Pačejov 1788"}
       ]
     },
     {
@@ -11699,7 +11707,8 @@ window.RODOKMEN = {
         {"f":"img/1771_N_Tichy_Jakub_Herspice.jpg","t":"Křest Jakuba, Heršpice 17. 6. 1771 (kandidát)"},
         {"f":"img/1844_Z_Tichy_Jakub_Herspice.jpg","t":"Úmrtí 9. 3. 1844, Heršpice č. 26"},
         {"f":"img/1823_Z_Tichy_Martin_Herspice.jpg","t":"Úmrtí otce Martina, Heršpice č. 26, 1823"},
-        {"f":"img/1797_N_Ticha_Magdalena_Herspice26.jpg","t":"Křest dcery Magdaleny, Heršpice 1797"}
+        {"f":"img/1797_N_Ticha_Magdalena_Herspice26.jpg","t":"Křest dcery Magdaleny, Heršpice 1797"},
+        {"f":"img/1848_Z_Ticha_Katerina_Herspice26.jpg","t":"Úmrtí vdovy Kateřiny, Heršpice 1848"}
       ]
     },
     {
@@ -12115,7 +12124,7 @@ window.RODOKMEN = {
     {
       id: "ludmila_vd",
       name: "Ludmila Stadlerová",
-      maiden: "Vadlejšková",
+      maiden: "Rosecová (?)",
       line: "stadler",
       cert: "M",
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true,"place":"Hořaždovice (?)"},
@@ -12123,7 +12132,8 @@ window.RODOKMEN = {
       notes: [
         "Matka Ludmily Stádlerové: „matky Ludmily rozené Vadlejškové z Hořaždovic“ (křest vnučky Magdaleny 1848, Borek 09 sn. 38 vpravo; M). Hořaždovice = asi Horažďovice (Prácheňsko).",
         "ROZPOR (rodné příjmení): 1851 „baby Ludmily rozené Rozné (?) z K…ína, panství Hořaždovice“ (Borek 13 sn. 3) × 1848 „rozené Vadlejškové z Hořaždovic“ – obě verze uvedeny, čtení obou nejisté.",
-        "Křest vnučky 1817: „matky Ludmily Rozovy (?) z Sazjone (?)“ (Malý Bor 13 sn. 316) – podporuje čtení „Rozná / Rozová“ z 1851 proti „Vadlejšková“ z 1848."
+        "Křest vnučky 1817: „matky Ludmily Rozovy (?) z Sazjone (?)“ (Malý Bor 13 sn. 316) – podporuje čtení „Rozná / Rozová“ z 1851 proti „Vadlejšková“ z 1848.",
+        "Rodné příjmení Rosecová: křest dcery 1788 „Ludmilla rozená R…cowa“ a křest vnučky 1817 „matky Ludmily Rosecowy z Sazjone (?)“ (MB 13 sn. 316; M, čteno celé). Varianty „Vadlejšková“ (1848) a „Rozná“ (1851) jsou zkomoleniny pozdních zápisů."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28"
@@ -12131,7 +12141,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest pravnučky 1848 – zmínka o Ludmile roz. Vadlejškové"},
         {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek pravnučky Magdaleny 1851 – zmínka o Ludmile"},
-        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest pravnučky Magdaleny, Pačejov 1817"}
+        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest pravnučky Magdaleny, Pačejov 1817"},
+        {"f":"img/1788_N_Stodlova_Ludmila_Pacejov.jpg","t":"Křest dcery Ludmily, Pačejov 1788"}
       ]
     },
     {
@@ -12289,20 +12300,25 @@ window.RODOKMEN = {
     {
       id: "katerina_hn",
       name: "Kateřina Tichá",
-      maiden: "Láníčková (?) / Hanušková (?)",
+      maiden: "Láníčková (?)",
       line: "svobodah",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true},
+      b: {"date":"neznámé (asi 1765–1768)","year":1767,"approx":true,"place":"Heršpice"},
+      d: {"date":"17. 12. 1848","year":1848,"place":"Heršpice č. p. 26"},
+      cause: "stáří (Altersschwäche)",
       spouse: "jakub_ti",
       notes: [
         "Manželka Jakuba Tichého, matka Magdaleny Svobodové – křest 13. 7. 1797 Heršpice č. 26: „Mutter: Katharina Han…kin (?)“ (N 13123 sn. 380; M, příjmení nejisté). Sňatek s Jakubem (~1790–1796) a úmrtí nehledány.",
-        "ROZPOR čtení rodného příjmení: křest syna Jana 5. 5. 1795 Heršpice č. 25 (Jakob Tichy, Innmann × „Catharina Laneczek / Laniczek (?)“, kmotři Bartl Navrátil a Marianna – tíž jako 1797; N 13123 sn. 375, str. 387; M) × křest Magdaleny 1797 „Han…kin / Hrnoßkin (?)“ – srovnáno koordinátorem, první písmena se liší, nerozhodnuto. KANDIDÁT (K): Kateřina, dcera Pavla Láníčka, ¾láníka, 26 let, × 24. 10. 1791 (?) Jakub Hawischka (?) z č. 20 (O 13136 sn. 81) – snad 1. manželství. Sňatek s Jakubem Tichým v indexu O 1784–1812 není."
+        "ROZPOR čtení rodného příjmení: křest syna Jana 5. 5. 1795 Heršpice č. 25 (Jakob Tichy, Innmann × „Catharina Laneczek / Laniczek (?)“, kmotři Bartl Navrátil a Marianna – tíž jako 1797; N 13123 sn. 375, str. 387; M) × křest Magdaleny 1797 „Han…kin / Hrnoßkin (?)“ – srovnáno koordinátorem, první písmena se liší, nerozhodnuto. KANDIDÁT (K): Kateřina, dcera Pavla Láníčka, ¾láníka, 26 let, × 24. 10. 1791 (?) Jakub Hawischka (?) z č. 20 (O 13136 sn. 81) – snad 1. manželství. Sňatek s Jakubem Tichým v indexu O 1784–1812 není.",
+        "Zemřela 17. 12. 1848 (pohřbena 19. 12.) v Heršpicích č. 26: „Katharina, Wittwe nach Jakob Tichy, Ausgedinglerinn“, 80 let (Z 13155 sn. 11 vlevo, pag. 18; M, ověřeno koordinátorem). KANDIDÁT křtu (K+): Kateřina, dcera Pavla Laníčka, podruha, a Anny, XI 1765 Heršpice (N 13121 sn. 188 vlevo; čteno jen v montáži). Rodné příjmení Láníčková K+ (1795 „Laneczek“), „Hanušková“ (1797) nejspíš chybné čtení; sňatek s Jakubem v O Slavkov 1789–1795 není."
       ],
       sources: [
-        "MZA Brno, N 13123, sn. 380, str. 392 (13. 7. 1797) – https://www.mza.cz/actapublica/matrika/detail/1951"
+        "MZA Brno, N 13123, sn. 380, str. 392 (13. 7. 1797) – https://www.mza.cz/actapublica/matrika/detail/1951",
+        "MZA Brno, Z Heršpice 13155, sn. 11 vlevo (1848)"
       ],
       scans: [
-        {"f":"img/1797_N_Ticha_Magdalena_Herspice26.jpg","t":"Křest dcery Magdaleny, Heršpice 1797"}
+        {"f":"img/1797_N_Ticha_Magdalena_Herspice26.jpg","t":"Křest dcery Magdaleny, Heršpice 1797"},
+        {"f":"img/1848_Z_Ticha_Katerina_Herspice26.jpg","t":"Úmrtí 17. 12. 1848, Heršpice č. 26"}
       ]
     },
     {
