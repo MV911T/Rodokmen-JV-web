@@ -12800,7 +12800,8 @@ window.RODOKMEN = {
       spouse: "ludmila_gc",
       marriage: "11. 5. 1708, Osek – s Lidmilou Swogdovou (?)",
       notes: [
-        "KANDIDÁT (K+): otec Anny Aubrechtové – při jejím sňatku 28. 10. 1732 „vlastní dcera Šimona Gocha (?) z Volduch“ (Osek 02 O sn. 69 vpravo). Oddán 11. 5. 1708 v Oseku: „Simon Gech ex Wossek cum Ludmilla Swogdowa (?) ex pago Wossek“; svědci Matěj Wagner a Anna Latková (?) (Osek 01 O sn. 153 vlevo; M zápis). Děti: Vojtěch 23. 4. 1711 (sn. 56 vpravo), Šimon 26. 10. 1714 (sn. 69 vlevo); Anna (*po IV 1717 ?). Příjmení kolísá Goch / Gech / Gocha (?)."
+        "KANDIDÁT (K+): otec Anny Aubrechtové – při jejím sňatku 28. 10. 1732 „vlastní dcera Šimona Gocha (?) z Volduch“ (Osek 02 O sn. 69 vpravo). Oddán 11. 5. 1708 v Oseku: „Simon Gech ex Wossek cum Ludmilla Swogdowa (?) ex pago Wossek“; svědci Matěj Wagner a Anna Latková (?) (Osek 01 O sn. 153 vlevo; M zápis). Děti: Vojtěch 23. 4. 1711 (sn. 56 vpravo), Šimon 26. 10. 1714 (sn. 69 vlevo); Anna (*po IV 1717 ?). Příjmení kolísá Goch / Gech / Gocha (?).",
+        "Žil 28. 10. 1732 (sňatek dcery bez „†“). Po 1714 další děti v Osek 01 N do V 1722 nejsou; křest Anny v I 1709 – V 1722 nenalezen (zbývá V 1708 – I 1709). Úmrtí není v Osek 03 Z XII 1744 – IV 1749 ani v rejstříku Osek 04 Z."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O, sn. 153 vlevo (11. 5. 1708) – https://www.portafontium.eu/iipimage/30066667/osek-01_1531-o",
@@ -12813,15 +12814,18 @@ window.RODOKMEN = {
       maiden: "Swogdová (?)",
       line: "aubrecht",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1688)","year":1688,"approx":true},
+      b: {"date":"neznámé (asi 1684)","year":1684,"approx":true},
+      d: {"date":"19. 2. 1747","year":1747,"place":"Osek u Rokycan"},
       spouse: "simon_gc",
       marriage: "11. 5. 1708, Osek – se Šimonem Gochem",
       notes: [
-        "KANDIDÁTKA (K+): matka Anny Aubrechtové; × 11. 5. 1708 Osek (Osek 01 O sn. 153 vlevo; M zápis – rodné příjmení „Swogdowa“ nejisté); matka Vojtěcha (1711) a Šimona (1714)."
+        "KANDIDÁTKA (K+): matka Anny Aubrechtové; × 11. 5. 1708 Osek (Osek 01 O sn. 153 vlevo; M zápis – rodné příjmení „Swogdowa“ nejisté); matka Vojtěcha (1711) a Šimona (1714).",
+        "Zemřela 19. 2. 1747 (pohřbena 21. 2.) v Oseku: „Lydmilla Gechowa“, 63 let, zaopatřena svátostmi (Osek 03 Z str. 258, sn. 172 vpravo; M zápis, K++) → *~1684."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O, sn. 153 vlevo (11. 5. 1708) – https://www.portafontium.eu/iipimage/30066667/osek-01_1531-o",
-        "SOA Plzeň, Osek 01 N, sn. 56 vpravo (1711), sn. 69 vlevo (1714)"
+        "SOA Plzeň, Osek 01 N, sn. 56 vpravo (1711), sn. 69 vlevo (1714)",
+        "SOA Plzeň, Osek 03 Z, sn. 172 vpravo – https://www.portafontium.eu/iipimage/30066669/osek-03_1720-z"
       ]
     },
     {
