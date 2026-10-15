@@ -13127,7 +13127,8 @@ window.RODOKMEN = {
       spouse: "matej_fo0",
       notes: [
         "KANDIDÁTKA (K++): matka Barbory (*1706); dcera Adama Polky, × 22. 11. 1705 Matěj Forejt (Osek 01 O sn. 150 vpravo; M); 19. 11. 1702 ještě svobodná družička (sn. 147 vpravo).",
-        "Zemřela 11. 4. 1732 ve Volduchách (pohřbena 13. 4.): „Kateřina Foregtová … stáří 47 let“, bez uvedení manžela (Osek 02 Z str. 186, sn. 101 vlevo; M zápis, K+) → *~1685. Křest nenalezen (Osek 01 N II 1680 – II 1681 bez ní, VI 1683 – V 1687 v knize chybí; Adam Polka není v rejstříku Rokycany 02 P). Bratr (K+): Vojtěch, syn Adama Polky a Marie (?), pokřtěn 23. 4. 1681 Volduchy (Osek 01 N sn. 15 vlevo; M), † 30. 5. 1734 Volduchy, „něco přes padesát let“ (Osek 02 Z sn. 109 vpravo; M). Ondřej 1680 je syn Adama Bolka – nepatří. Adam Polka v Osek 02 Z 1728 – II 1732 nezemřel."
+        "Zemřela 11. 4. 1732 ve Volduchách (pohřbena 13. 4.): „Kateřina Foregtová … stáří 47 let“, bez uvedení manžela (Osek 02 Z str. 186, sn. 101 vlevo; M zápis, K+) → *~1685. Křest nenalezen (Osek 01 N II 1680 – II 1681 bez ní, VI 1683 – V 1687 v knize chybí; Adam Polka není v rejstříku Rokycany 02 P). Bratr (K+): Vojtěch, syn Adama Polky a Marie (?), pokřtěn 23. 4. 1681 Volduchy (Osek 01 N sn. 15 vlevo; M), † 30. 5. 1734 Volduchy, „něco přes padesát let“ (Osek 02 Z sn. 109 vpravo; M). Ondřej 1680 je syn Adama Bolka – nepatří. Adam Polka v Osek 02 Z 1728 – II 1732 nezemřel.",
+        "Polkové v Osek 01 Z (K): † 29. 5. 1710 Anna Polka z Volduch, 48 let (sn. 199 vpravo); pohřeb 22. 3. 1711 Mařena (Marjana) Polková (?), 73 let (sn. 200 vlevo) – snad matka (Mařa, 1681). Adam Polka v Osek 01 Z I 1705 – V 1713 a III 1722 – XI 1727 nezemřel; VI 1713 – II 1722 nepřečteno."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O sn. 150 vpravo (22. 11. 1705); Osek 01 N str. 81, sn. 42 vpravo (1706)",
