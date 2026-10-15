@@ -7890,7 +7890,7 @@ window.RODOKMEN = {
       notes: [
         "Otec Magdaleny Hrabovské (sňatek 1806).",
         "Manželka Johanna (křty 1784, 1785).",
-        "Poprvé oddán 6. (II) 1781 v Hodějicích č. 52 jako mládenec s Rosinou, dcerou † Antonína Pavelky z Hodějic; svědci Jan Florian a Jakub Ambrosík (O 13136 sn. 10 vlevo; M zápis, věk neuveden). Rosina zemřela před V 1783.",
+        "Poprvé oddán 6. (II) 1781 v Hodějicích č. 52 jako mládenec s Rosinou, dcerou † Antonína Pavelky z Hodějic; svědci Jan Florian a Jakub Ambrosík (O 13136 sn. 10 vlevo; M zápis, věk neuveden). Rosina † III 1783 (10. ?) v Hodějicích č. 52, „uxor Martini Schimonik“, 26 let, nejspíš po porodu – dítě pokřtěné babičkou † 2. 3. 1783 (Z 13148 sn. 20; M).",
         "Podruhé oddán 6. 5. 1783 v Hodějicích (č. 52) jako vdovec s Johannou, dcerou † Antonína Magka (?) z Hodějic; svědci Pavel Hrabovský (budoucí tchán dcery Magdaleny) a Jakub Ambrosík.",
         "Zemřel 2. 4. 1825 (pohřben 4. 4.) v Hodějicích č. 77: „Martin Schimonik, Ausgedinger“, 74 let, Lungensucht (Z 13149 str. 270, sn. 243 vlevo; index Z 13161 sn. 177 vlevo – jediný Martin Šimoník 1800–1825; M zápis, ověřeno koordinátorem) → *~1751. ROZPOR: kandidátní křest 25. 10. 1756 by dával 68 let. Jiný křest Martina Šimoníka v N 13121 I 1749 – XII 1752 není (D) → věk 74 v r. 1825 nejspíš nadsazen.",
         "KANDIDÁT křtu (K+): 25. 10. 1756 Hodějice – „Martinus; Georgius Schimonik inqu[ilinus] Hodiegicio, Apollonia“; kmotři Jiří Florian, sedlák z Hodějic, a Kateřina jeho manželka (N 13121 sn. 119 vpravo; M zápis, ověřeno koordinátorem). Sourozenci (stejní rodiče a kmotři): Jakub 14. 7. 1752, Josef 27. 2. 1754 (snad Josef Šimoník × Marianna, × 1775), Jan († dítě IX 1765). Pro M chybí věk při úmrtí Martina."
@@ -12683,20 +12683,23 @@ window.RODOKMEN = {
       maiden: "Láníčková",
       line: "nezname",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true,"place":"Hodějice"},
+      b: {"date":"neznámé (asi 1732, kandidátní křest – viz poznámky)","year":1732,"approx":true,"place":"Slavkov u Brna"},
       d: {"date":"13. 4. 1762","year":1762,"place":"Hodějice"},
       spouse: "jiri_si",
       marriage: "18. 1. 1750, Hodějice – s Jiřím Šimoníkem",
       notes: [
         "KANDIDÁTKA (K+): matka Martina Šimoníka; dcera Matěje Láníčka z Hodějic (O 13120 sn. 269 vlevo). Vztah k Láníčkům z linie Hrabovských (Pavel Láníček *~1745) neověřen – možný implex.",
-        "KANDIDÁT úmrtí (K+): 13. 4. 1762 Hodějice – „Appollonia uxor Georgii Schimonik quadrantarii Hodějicio“, 28 let (Z 13121 sn. 418 vpravo; M zápis, ověřeno koordinátorem) – jediný Jiří Šimoník v Hodějicích, za 7 týdnů se znovu žení. ROZPOR věku: 28 → *~1734 (nevěsta 1750 by měla 16) – věk nejspíš podhodnocen. Děti Jiřího † 1762: František (1 r. 3 m.) 3. 7., Jan (6 m.) 29. 7."
+        "KANDIDÁT úmrtí (K+): 13. 4. 1762 Hodějice – „Appollonia uxor Georgii Schimonik quadrantarii Hodějicio“, 28 let (Z 13121 sn. 418 vpravo; M zápis, ověřeno koordinátorem) – jediný Jiří Šimoník v Hodějicích, za 7 týdnů se znovu žení. Věk 28 sedí téměř přesně na křest 1732 (skutečně 29). Děti Jiřího † 1762: František (1 r. 3 m.) 3. 7., Jan (6 m.) 29. 7.",
+        "KANDIDÁT křtu (K+): 28. 8. 1732 Slavkov – „Apolloniam; Mathia Laniežek, Anna, Austerl.“; kmotři Václav Hošinka (?) a Apolonie jeho manželka ze Slavkova (N 13120 sn. 143 vlevo; M, ověřeno koordinátorem; měsíc a rok z pořadí v knize). Při sňatku 1750 jí bylo 17. Láníčkové žili v Hodějicích už 1714 (Václav × Kateřina, kmotři) – vazba na Láníčky z linie Hrabovských nedoložena."
       ],
       sources: [
         "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
         "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948",
-        "MZA Brno, Z 13121, sn. 418 vpravo (1762) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, Z 13121, sn. 418 vpravo (1762) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, N 13120, sn. 143 vlevo (1732) – https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
+        {"f":"img/1732_N_Lanickova_Apolonie_Slavkov.jpg","t":"Křest 28. 8. 1732, Slavkov (kandidát)"},
         {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest syna Martina, Hodějice 1756"},
         {"f":"img/1762_Z_Simonikova_Apolonie_Hodejice.jpg","t":"Úmrtí 13. 4. 1762, Hodějice (kandidát)"}
       ]
