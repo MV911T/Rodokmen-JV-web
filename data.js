@@ -12308,7 +12308,8 @@ window.RODOKMEN = {
         "Otec Anny Merhautové: oddací zápis 1776 „Anna, filia legitima Joannis Hroniek, rustici ex Zdicz“ (M). Křest dcery Anny 16. 4. 1754 (manželka Kateřina; M). V indexu N Zdice 01 psán „Froněk“ (pod F).",
         "KANDIDÁT úmrtí (K): XII 1782 (den 5 ?) ve Zdicích „Joannes Froniek, rusticus Zdiensis“, 52 let (Zdice 01 Z, sn. 262 vpravo; M zápis – manželka neuvedena, ztotožnění jen jménem a obcí) → *~1730.",
         "Praha N66: sňatek s Kateřinou není v Zdice 01 O X 1749 – XI 1753 (všechny zápisy; IV–X 1749 vybledlé); 25. 10. 1750 „Jan Kříška (?) × Kateřina“ porovnán s rukopisem „Jana Hronka“ 1754 – jiné příjmení (ověřeno koordinátorem). Ve Zdicích Václav a Anna Froňkovi (1752–53) – snad příbuzní (K). Zbývá O 1744–48 a fara nevěsty.",
-        "Praha N67: syn Matěj pokřtěn 24. 2. 1749 Zdice (nar. 23. 2.) – „otec Jan Froněk, matka Kateřina, obojí poddaní k Točníku“ (Zdice 01 N sn. 22 vpravo, fol. 19; M; v indexu „Froněk“ – Hronek = Froněk) → sňatek nejpozději ~V 1748. Sňatek není v Zdice 01 O I 1744 – XI 1753 → před 1744 nebo ve farnosti nevěsty (Žebrák 03, Hořovice, Tmaň). Ve Zdicích tehdy i Václav Froněk a Matěj Froněk × 1745 Dorota Marešová (?) – snad příbuzní (K)."
+        "Praha N67: syn Matěj pokřtěn 24. 2. 1749 Zdice (nar. 23. 2.) – „otec Jan Froněk, matka Kateřina, obojí poddaní k Točníku“ (Zdice 01 N sn. 22 vpravo, fol. 19; M; v indexu „Froněk“ – Hronek = Froněk) → sňatek nejpozději ~V 1748. Sňatek není v Zdice 01 O I 1744 – XI 1753 → před 1744 nebo ve farnosti nevěsty (Žebrák 03, Hořovice, Tmaň). Ve Zdicích tehdy i Václav Froněk a Matěj Froněk × 1745 Dorota Marešová (?) – snad příbuzní (K).",
+        "Praha N68: ve Zdicích 1744–56 DVA Janové Froňkové – Jan × Anna (děti 1745, 1748, 1750) a náš Jan × Kateřina (Matěj 24. 2. 1749, Jakub ~1. 5. 1751, Anna 16. 4. 1754, Rozálie 28. 2. 1756; Zdice 01 N sn. 22 vpravo, 30 vlevo, 47 vlevo; M) – při hledání úmrtí a křtu rozlišovat podle manželky. Žádné dítě Jana × Kateřiny před 1749 → sňatek ~1747 – V 1748 mimo Zdice. Stálí kmotři Stojčičtí (celý rod) a u Kateřininých dětí Šubertovi (Jakub, Dorota)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), O sn. 318 vlevo (1776)"
@@ -12326,7 +12327,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
       spouse: "jan_hrz",
       notes: [
-        "Matka Anny Merhautové roz. Hronkové – křest 16. 4. 1754 ve Zdicích „otce Jana Hroňka, matky Kateřiny“ (M). Rodné příjmení neuvedeno."
+        "Matka Anny Merhautové roz. Hronkové – křest 16. 4. 1754 ve Zdicích „otce Jana Hroňka, matky Kateřiny“ (M). Rodné příjmení neuvedeno.",
+        "KANDIDÁT rodného příjmení (K, neprokázáno): Šubertová ? – svědci Jakub a Dorota Šubertovi jen u jejích dětí 1749–1756 (ne u dětí druhého Jana Froňka × Anny); Jakub Šubert i svědkem oddavek dcery Anny 1776."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01, fol. 37, sn. 40 vpravo"
