@@ -11457,7 +11457,8 @@ window.RODOKMEN = {
         "Rodné příjmení Mlejnková: křest dcery Kateřiny 3. 4. 1784 „uxor Anna Mleinkova“ (M); v oddacím zápisu dcery 1806 dříve čteno „Vlož…ová (?)“ – správně „Mlegkowé“ (oprava čtení). Mlejnkovi žili v Mašově (kmotra 1784 Ludmila, dcera Jakuba Mlejnka).",
         "Zemřela 30. 11. 1820 (pohřbena 2. 12.) v Mašově č. 18: „Anna, manželka Václava Horáčka, podruha“, 70 let, stářím (Z 5274, sn. 20, pag. 19; M) → *~1750.",
         "KANDIDÁTKY křtu (K): (a) 1. 8. 1751 Mašov – „Anna Maria filia Patris Jacobi Mlegnek, Matris Anna“; svědkyně Anna, manželka Jiřího Janků z Mašova (svědek i u křtů Václava Horáčka 1753/54) (N Turnov 5252 sn. 239 vpravo, pag. 467; M zápis) – stejná obec a věk 70 při † 1820 sedí → silnější kandidátka; (b) 16. 9. 1753 Loučky – Anna, dcera Jiřího Mlejnka × Magdaleny (sn. 269 vlevo). Další Anny Mlejnkové v indexu 1745–55 (pag. 305, 385, Vyskeř, Bukovina, Radeč ?) nečteny.",
-        "Další kandidátka (slabší, K): Anna, dcera Matěje Mlejnka × Kateřiny, 21. 7. 1748 Loučky (N 5252 sn. 198 vlevo; M zápis) – při † 1820 by jí bylo 72."
+        "Další kandidátka (slabší, K): Anna, dcera Matěje Mlejnka × Kateřiny, 21. 7. 1748 Loučky (N 5252 sn. 198 vlevo; M zápis) – při † 1820 by jí bylo 72.",
+        "Rodiče oddáni 31. 10. 1751 (Jiří, syn † Tomáše Mlejnka × Magdalena, dcera † Jana Šťastného ? ze Svatoňovic; O 5256 sn. 95 vlevo) – svědkyně Anna Vilková i u křtu 1753 → vazba téměř jistá (K++)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
@@ -13457,26 +13458,75 @@ window.RODOKMEN = {
       line: "fukal",
       cert: "M",
       b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true,"place":"Loučky (fara Turnov)"},
+      father: "tomas_ml",
       spouse: "magdalena_ml",
+      marriage: "31. 10. 1751, Turnov (z Louček) – s Magdalenou Šťastnou (?) ze Svatoňovic",
       notes: [
-        "Z Louček; otec Anny Horáčkové – „Anna filia Georgii Mlegnek ex Lauczek“ při sňatku 1779 (O Turnov 5257 sn. 26 vpravo; M). Manželka Magdalena (křest Anny 1753; K+). Sňatek a úmrtí nehledány."
+        "Z Louček; otec Anny Horáčkové – „Anna filia Georgii Mlegnek ex Lauczek“ při sňatku 1779 (O Turnov 5257 sn. 26 vpravo; M). Manželka Magdalena (křest Anny 1753; K+). Sňatek a úmrtí nehledány.",
+        "Oddán 31. 10. 1751 (ex Lauczek, subd. Magno-Skall.): „Georgium filium post def. Thomam Mlegnek cum Magdalena filia post Joannem Stiaſni ex Swatoniowicz“; svědci Jan Petrův ze Jeben (?) a Anna, dcera Matěje Vilka (svědkyně i u křtu Anny 1753) (O Turnov 5256 sn. 95 vlevo, fol. 90v; M, ověřeno koordinátorem)."
       ],
       sources: [
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 5257, sn. 26 vpravo, pag. 24, č. 9 (9. 11. 1779) – https://aron.vychodoceskearchivy.cz/apu/33f4494f-762b-4bf2-b480-f6468eee579a"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 5257, sn. 26 vpravo, pag. 24, č. 9 (9. 11. 1779) – https://aron.vychodoceskearchivy.cz/apu/33f4494f-762b-4bf2-b480-f6468eee579a",
+        "SOA Zámrsk, O Turnov 5256, sn. 95 vlevo, fol. 90v (31. 10. 1751)"
+      ],
+      scans: [
+        {"f":"img/1751_O_Mlejnek_Jiri_Stastna_Magdalena_Loucky.jpg","t":"Sňatek 31. 10. 1751, Loučky"}
       ]
     },
     {
       id: "magdalena_ml",
       name: "Magdalena Mlejnková",
+      maiden: "Šťastná (?)",
       line: "fukal",
       cert: "K",
       b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      father: "jan_st",
       spouse: "jiri_ml",
       notes: [
-        "KANDIDÁTKA (K+): matka Anny (křest 16. 9. 1753 Loučky – „Anna filia Georgii Mleinek, mat. Magdalena“; N Turnov 5252 sn. 269 vlevo; M zápis)."
+        "KANDIDÁTKA (K+): matka Anny (křest 16. 9. 1753 Loučky – „Anna filia Georgii Mleinek, mat. Magdalena“; N Turnov 5252 sn. 269 vlevo; M zápis).",
+        "Oddána 31. 10. 1751 jako „Magdalena filia post Joannem Stiaſni ex Swatoniowicz“ (O 5256 sn. 95 vlevo; M) – sňatek 2 roky před křtem Anny (K+). Matka snad Dorota, vdova po † Janu Šťastném ve Svatoňovicích, † 4. 5. 1765, 70 let (Z 5256 sn. 240 vpravo; K)."
       ],
       sources: [
-        "SOA Zámrsk, N Turnov 5252 sn. 269 vlevo (1753)"
+        "SOA Zámrsk, N Turnov 5252 sn. 269 vlevo (1753)",
+        "SOA Zámrsk, O Turnov 5256, sn. 95 vlevo, fol. 90v (31. 10. 1751)"
+      ],
+      scans: [
+        {"f":"img/1751_O_Mlejnek_Jiri_Stastna_Magdalena_Loucky.jpg","t":"Sňatek 31. 10. 1751, Loučky"}
+      ]
+    },
+    {
+      id: "tomas_ml",
+      name: "Tomáš Mlejnek",
+      line: "fukal",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true,"place":"Loučky (?)"},
+      d: {"date":"před 31. 10. 1751","year":1751,"approx":true},
+      notes: [
+        "KANDIDÁT (K+): otec Jiřího Mlejnka – „Georgium filium post def. Thomam Mlegnek“ (1751; O 5256 sn. 95 vlevo; M). Snad × Alžběta Adamičková (?) ~1740 (index O 5256 fol. 30; neověřeno)."
+      ],
+      sources: [
+        "SOA Zámrsk, O Turnov 5256, sn. 95 vlevo, fol. 90v (31. 10. 1751)"
+      ],
+      scans: [
+        {"f":"img/1751_O_Mlejnek_Jiri_Stastna_Magdalena_Loucky.jpg","t":"Sňatek syna Jiřího, 1751"}
+      ]
+    },
+    {
+      id: "jan_st",
+      name: "Jan Šťastný (?)",
+      line: "fukal",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true,"place":"Svatoňovice (?)"},
+      d: {"date":"před 31. 10. 1751","year":1751,"approx":true},
+      notes: [
+        "KANDIDÁT (K+): otec Magdaleny Mlejnkové – „Magdalena filia post Joannem Stiaſni ex Swatoniowicz“ (1751; O 5256 sn. 95 vlevo; M; příjmení a obec čteny s oporou zápisu 1765 „Joannem Sstiaſny in pago Swatoniowicz“). Vdova Dorota † 4. 5. 1765, 70 let; dcera Anna † 14. 5. 1765, 23 (Z 5256 sn. 240 vpravo; K)."
+      ],
+      sources: [
+        "SOA Zámrsk, O Turnov 5256, sn. 95 vlevo, fol. 90v (31. 10. 1751)",
+        "SOA Zámrsk, Z Turnov 5256 sn. 240 vpravo (1765)"
+      ],
+      scans: [
+        {"f":"img/1751_O_Mlejnek_Jiri_Stastna_Magdalena_Loucky.jpg","t":"Sňatek dcery Magdaleny, 1751"}
       ]
     }
   ]
