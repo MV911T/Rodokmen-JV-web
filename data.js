@@ -12764,7 +12764,8 @@ window.RODOKMEN = {
         "KANDIDÁT úmrtí (K+): 2. (?) 3. 1755 Zdice (pohřben 3. 3.) – „Usnul v Pánu Václav Merhaut vdo[vec] (?), věku 72“, zaopatřen svátostmi (Zdice 01 Z sn. 204 vpravo; M zápis, ověřeno koordinátorem) → *~1683 – sedí na otce Víta (*1720); Anna Merhautová † 1750 (60) by byla jeho manželka. Václav Merhaut † 9. 9. 1754 má 40 let (ne 70) – jiný. Ve Zdicích žil 1749 i mladší pár Václav × Anna (dcera Veronika).",
         "Další dítě s Annou: Václav 12. 12. 1717 Zdice („z otce Václava Merhauta ze Zdic, z matky Anny“; Žebrák 01 N sn. 51 vlevo; M) – sňatek Václava × Anny tedy před 1717.",
         "Anna, manželka Václava Merhauta ze Zdic, kmotrou již 3. 12. 1713 (Žebrák 01 N sn. 44 vlevo; M) → sňatek před XII 1713 (O 1708–1715 bez něj; snad 1707 nebo dříve, Žebrák 02). Starší Václav Merhout ze Zdic † před XI 1711 (sn. 259 vlevo; K – snad otec).",
-        "Sňatek s Annou není v zdické faře 1697–1715 (Žebrák 02 O VII 1697 – XI 1708, Žebrák 01 O 1708–1715) → nejspíš v jiné faře (Hořovice, Králův Dvůr, Beroun ?)."
+        "Sňatek s Annou není v zdické faře 1697–1715 (Žebrák 02 O VII 1697 – XI 1708, Žebrák 01 O 1708–1715) → nejspíš v jiné faře (Hořovice, Králův Dvůr, Beroun ?).",
+        "Křest (*~1683) v Žebrák 02 N sn. 31–60 (~1681–1688; zdické zápisy čteny jen začátky) nenalezen – střední negativ. Ve Zdicích tehdy Jakub Merhaut × Kateřina (děti Dorota ~1685/86, Bartoloměj ~1687; sn. 48 vlevo, 57 vpravo; M) – možní rodiče (K−)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253",
