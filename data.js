@@ -11785,19 +11785,24 @@ window.RODOKMEN = {
       name: "Václav Svoboda",
       line: "svoboda",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      b: {"date":"neznámé (odhad ~1748)","year":1748,"approx":true},
+      father: "vaclav_sv2",
       spouse: "ludmila_sv1",
       occ: "domkář v Málkově (panství Tmaň)",
+      marriage: "11. 7. 1771, Tmaň (Málkov č. 1) – s Ludmilou Sýkorovou (?) z Lounína (K++)",
       notes: [
         "Domkář v Málkově (panství Tmaň); otec Matěje Svobody – oddací zápis syna 1818 (M). Nezaměňovat s Václavem Svobodou (*~1781, syn Matěje × Anny, domkář v Suchomastech č. 14).",
         "V roce 1791 sedlák v Málkově č. 1, „rodaný Tmanský“ (křest syna Matěje, M).",
         "KANDIDÁTI rodiny (K): v Tmani žil Tomáš Svoboda († před 1780; syn Šimon × 1780 Ludmila Hogelová z Koněprus); 27. 11. 1781 se Václav, syn Jakuba Svobody, sedláka z Málkova, voják pluku Callenberg, oženil s Kateřinou, dcerou † Jana Allemanda (?) z Tmaně, Málkov č. 16 (Tmaň 02 sn. 200 vlevo) – jiný Václav, pokud nejde o 1. sňatek. Sňatek s Ludmilou v O Tmaň 1774–1790 není.",
         "KANDIDÁT sňatku (K, silný): 11. 7. 1771 Málkov č. 1 – „honestus juvenis Wenceslaus, rustici Wenceslai Swoboda filius Malkoviensis, cum virgine Ludmilla, Mathiae Sykora rustici superstite filia legitima Launiniensi“ (Tmaň 02, sn. 192 vlevo; M zápis) – stejný dům a jména jako 1791; proti: děti 1771–1789 neznámy, Ludmila by r. 1794 měla ~43 let. Syn Mikuláš *13. 6. 1794 Málkov 1 (rejstřík N Borek 11).",
-        "Kandidát 1771 slábne: v Tmaň 02 N 1772–1784 žádný křest z Málkova č. 1 (Praha N7)."
+        "Kandidát 1771 slábne: v Tmaň 02 N 1772–1784 žádný křest z Málkova č. 1 (Praha N7).",
+        "Praha N71 – kandidát sňatku 1771 výrazně posílen (K++): při sňatku dcery Josefy (16 let) II 1798 „dcera Václava Svobody a † Lidmily rozené S(ý)korové (?) z Lounína, No 1“ (Borek 06 O sn. 84 vpravo; M, ověřeno koordinátorem – příjmení nejisté, obec Lounín jistá) = táž obec i dům jako 1771; Václav Svoboda st., „otec Václava Svobody, rychtáře (?)“, † 19. 1. 1797 Málkov č. 1, „102 let“ (Borek 06 Z sn. 114 vlevo; M). Děti: Josefa ~1782, Matěj 1791, Mikuláš 13. 6. 1794 (matka Ludmila – žila VI 1794). Po † 1. manželky (VI 1794 – II 1798) 2. sňatek s Ludmilou, dcerou Václava …ického (?) (křest Petra 1. 8. 1810, Borek 06 N sn. 38 vlevo; M)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 05 (4074, N 1784–1795), pag. 53, snímek 55, 1. zápis (9. 10. 1791) – https://ebadatelna.soapraha.cz/d/4074/55"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 05 (4074, N 1784–1795), pag. 53, snímek 55, 1. zápis (9. 10. 1791) – https://ebadatelna.soapraha.cz/d/4074/55",
+        "SOA Praha, Borek 06 (4075), O Málkov sn. 84 vpravo, fol. 45 (II 1798), https://ebadatelna.soapraha.cz/d/4075/84",
+        "SOA Praha, Borek 06 (4075), Z sn. 114 vlevo (19. 1. 1797), https://ebadatelna.soapraha.cz/d/4075/114"
       ],
       scans: [
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek syna Matěje, Málkov 1818"},
@@ -12018,16 +12023,20 @@ window.RODOKMEN = {
     {
       id: "ludmila_sv1",
       name: "Ludmila Svobodová",
+      maiden: "Sýkorová (?)",
       line: "svoboda",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      father: "matej_sy",
       spouse: "vaclav_sv1",
       notes: [
         "Manželka Václava Svobody, sedláka (1791) / domkáře (1818) v Málkově, „rodaná Tmanská“; matka Matěje (*9. 10. 1791) – křest syna (M). Rodné příjmení neuvedeno; sňatek a křty hledat ve faře Tmaň.",
-        "KANDIDÁT původu (K): Ludmila, dcera Matěje Sýkory, sedláka z Lounína, × 11. 7. 1771 Václav Svoboda (viz karta Václava)."
+        "KANDIDÁT původu (K): Ludmila, dcera Matěje Sýkory, sedláka z Lounína, × 11. 7. 1771 Václav Svoboda (viz karta Václava).",
+        "Praha N71: jako † matka při sňatku dcery Josefy II 1798 „Lidmila rozená S(ý)korová (?) z Lounína“ (Borek 06 O sn. 84 vpravo; M) → totožná s nevěstou 1771 (K++); † VI 1794 – II 1798 (úmrtí zatím nenalezeno). Matka Matěje *1791 (žila 1794) – 2. manželka Václava je jiná Ludmila (dcera Václava …ického ?)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 05 (4074, N 1784–1795), pag. 53, snímek 55, 1. zápis (9. 10. 1791) – https://ebadatelna.soapraha.cz/d/4074/55"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 05 (4074, N 1784–1795), pag. 53, snímek 55, 1. zápis (9. 10. 1791) – https://ebadatelna.soapraha.cz/d/4074/55",
+        "SOA Praha, Borek 06 (4075), O Málkov sn. 84 vpravo, fol. 45 (II 1798), https://ebadatelna.soapraha.cz/d/4075/84"
       ],
       scans: [
         {"f":"img/1791_N_Svoboda_Matej_Malkov.jpg","t":"Křest syna Matěje, Málkov 1791"}
@@ -13779,6 +13788,35 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1687_krest_vaclav_merhaut.jpg","t":"Křest syna Václava, 1687"}
+      ]
+    },
+    {
+      id: "vaclav_sv2",
+      name: "Václav Svoboda",
+      line: "svoboda",
+      cert: "K",
+      b: {"date":"neznámé (asi 1700–1715)","year":1708,"approx":true,"place":"Tmaň (?)"},
+      d: {"date":"19. 1. 1797","year":1797,"place":"Málkov č. p. 1"},
+      notes: [
+        "KANDIDÁT (K++): otec Václava Svobody – sňatek syna 11. 7. 1771 „Wenceslaus, rustici Wenceslai Swoboda filius Malkoviensis“ (Tmaň 02 O sn. 192 vlevo; M). Sedlák v Málkově č. 1.",
+        "Zemřel 19. 1. 1797 Málkov č. 1 – „Václav Svoboda, otec Václava Svobody, rychtáře (?)“, věk zapsán 102 let (jistě nadsazený), stářím (Borek 06 Z sn. 114 vlevo; M)."
+      ],
+      sources: [
+        "SOA Praha, Tmaň 02, O sn. 192 vlevo (11. 7. 1771)",
+        "SOA Praha, Borek 06 (4075), Z sn. 114 vlevo (19. 1. 1797), https://ebadatelna.soapraha.cz/d/4075/114"
+      ]
+    },
+    {
+      id: "matej_sy",
+      name: "Matěj Sýkora",
+      line: "svoboda",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true,"place":"Lounín (?)"},
+      notes: [
+        "KANDIDÁT (K++): otec Ludmily Svobodové – sňatek 11. 7. 1771 „Ludmilla, Mathiae Sykora rustici superstite filia legitima Launiniensi“ (Tmaň 02 O sn. 192 vlevo; M) – sedlák v Lounínu, tehdy žil. Úmrtí a manželka nehledány."
+      ],
+      sources: [
+        "SOA Praha, Tmaň 02, O sn. 192 vlevo (11. 7. 1771)"
       ]
     }
   ]
