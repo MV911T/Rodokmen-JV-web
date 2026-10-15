@@ -12993,25 +12993,31 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true,"place":"Hodějice"},
       d: {"date":"před 18. 1. 1750","year":1749,"approx":true},
       spouse: "marina_si0",
+      marriage: "17. 1. 1717, Slavkov – s Marinou, dcerou Pavla Mazourka (?) z Hodějic",
       notes: [
-        "KANDIDÁT (K+): otec Jiřího Šimoníka – ženich 1750 „Georgius post def. Josephum Schimonik“ (O 13120 sn. 269 vlevo; M). Manželka Marina: kmotři 18. 8. 1717 („Josephus Schimonik & Marina eius uxor“, N 13120 sn. 55 vpravo; M, ověřeno); děti Rosina 25. 4. 1721 (sn. 76 vpravo), Václav 11. 9. 1723 († dítě; sn. 89 vlevo) – kmotři vždy Jiří Florian × Kateřina z Hodějic. Křest Jiřího v N 1712 – I 1724 nenalezen; sňatek Josefa × Mariny nehledán (O 13120 sn. 170–206)."
+        "KANDIDÁT (K+): otec Jiřího Šimoníka – ženich 1750 „Georgius post def. Josephum Schimonik“ (O 13120 sn. 269 vlevo; M). Manželka Marina: kmotři 18. 8. 1717 („Josephus Schimonik & Marina eius uxor“, N 13120 sn. 55 vpravo; M, ověřeno); děti Rosina 25. 4. 1721 (sn. 76 vpravo), Václav 11. 9. 1723 († dítě; sn. 89 vlevo) – kmotři vždy Jiří Florian × Kateřina z Hodějic. Křest Jiřího v N 1712 – I 1724 nenalezen;",
+        "Oddán 17. 1. 1717: „Copulavit … Josephum Schimonik cum Marina filia Pauli Mazourek (?) ex Hodiegitz“; svědci Jan Vrána a Jiří Kocourek (?) (O 13120 sn. 187 vpravo; M, ověřeno koordinátorem) → Jiří *nejdříve X 1717 (věk 61 při † 1776 nadsazen). Další syn Josef 28. 1. 1725 (N sn. 97 vlevo). Snad syn Jana Šimoníka z Hodějic († před XI 1715; syn Tomáš × 1715 Dorota Ruprechtová z Němčan) – K."
       ],
       sources: [
-        "MZA Brno, N 13120, sn. 55, 76, 89 – https://www.mza.cz/actapublica/matrika/detail/1946"
+        "MZA Brno, N 13120, sn. 55, 76, 89 – https://www.mza.cz/actapublica/matrika/detail/1946",
+        "MZA Brno, O 13120, sn. 187 vpravo (17. 1. 1717) – https://www.mza.cz/actapublica/matrika/detail/1946"
       ]
     },
     {
       id: "marina_si0",
       name: "Marina Šimoníková",
+      maiden: "Mazourková (?)",
       line: "nezname",
       cert: "K",
       b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
+      father: undefined,
       spouse: "josef_si0",
       notes: [
-        "KANDIDÁTKA (K): manželka Josefa Šimoníka z Hodějic 1717–1723 – matkou Jiřího (*~1715) jen tehdy, nebyl-li Josef dříve ženatý jinak."
+        "KANDIDÁTKA (K+): matka Jiřího Šimoníka – sňatek s Josefem 17. 1. 1717 předchází narození Jiřího (*≥ X 1717). Dcera Pavla Mazourka (?) z Hodějic (O 13120 sn. 187 vpravo; M)."
       ],
       sources: [
-        "MZA Brno, N 13120, sn. 55, 76, 89"
+        "MZA Brno, N 13120, sn. 55, 76, 89",
+        "MZA Brno, O 13120, sn. 187 vpravo (17. 1. 1717) – https://www.mza.cz/actapublica/matrika/detail/1946"
       ]
     },
     {
