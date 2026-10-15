@@ -11903,7 +11903,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁT (K+): otec Kateřiny Holubové (1. × Gyšt) – oddací zápis 28. 10. 1755: Jakub Gyšt „s poctivou děvečkou, vlastní dcerou otce Josefa Gottfrida též z Woseka“ (M zápis; jméno nevěsty v zápisu chybí, ztotožnění přes křty dětí Jakuba × Kateřiny 1757, 1759). Z Oseka; děti s Kateřinou: Barbora (1737), Ludmila (1739).",
         "Děti v Oseku: Eva (25. 12. 1725), Kateřina (25. 12. 1727), Barbora (13. 4. 1737), Ludmila (1739) (M zápisy). Sňatek v O Osek VIII 1714 – 1727 není (před 1714 nebo jinde).",
-        "KANDIDÁT úmrtí (K+): 10. 1. 1772 Osek č. 80 – „Joseph Gottfried, Gemeind-Hirt“, 81 let (Osek 08 Z fol. 1, sn. 4 vpravo; M zápis, ověřeno koordinátorem) → *~1691; jediný Josef Gottfried v Z Osek 1772–1810. Jako obecní pastýř mohl přijít odjinud – proto sňatek v Oseku chybí. Dcera Anna × 29. 10. 1752 Jakub Holub (syn † Kašpara)."
+        "KANDIDÁT úmrtí (K+): 10. 1. 1772 Osek č. 80 – „Joseph Gottfried, Gemeind-Hirt“, 81 let (Osek 08 Z fol. 1, sn. 4 vpravo; M zápis, ověřeno koordinátorem) → *~1691; jediný Josef Gottfried v Z Osek 1772–1810. Jako obecní pastýř mohl přijít odjinud – proto sňatek v Oseku chybí. Dcera Anna × 29. 10. 1752 Jakub Holub (syn † Kašpara).",
+        "Snad syn (K): Jakub Kotfrid × Eva, Osek – děti † 14. 2. 1754 (Jan, 1½ r.) a 18. 9. 1757 (Osek 03 Z sn. 184 vpravo, 189 vlevo); Jakub by se narodil ~1720–24."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 03 O str. 58 (28. 10. 1755); Osek 02 N str. 84, 105",
@@ -11923,7 +11924,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁTKA (K): manželka Josefa Gottfrida z Oseka – „matky Kateřiny“ ve křtech dcer Barbory (1737) a Ludmily (1739) (M zápisy); matka Kateřiny Holubové, pokud byla z téhož manželství.",
         "Děti v Oseku: Eva (25. 12. 1725), Kateřina (25. 12. 1727), Barbora (13. 4. 1737), Ludmila (1739) (M zápisy). Sňatek v O Osek VIII 1714 – 1727 není (před 1714 nebo jinde).",
-        "Úmrtí nenalezeno: Osek 03 Z X 1740 – V 1745 a index Osek 08 Z 1772–1810 bez ní; zbývá Osek 03 Z VI 1745 – 1759 a Osek 04 Z 1762–1771 (index neúplný)."
+        "Úmrtí nenalezeno: Osek Z X 1740 – XII 1759 (do konce knihy 03) a 1772–1810 bez ní; zbývá Osek 04 Z 1760–1771.",
+        "Kmotra 5. 10. 1724 „Kateřina Kodfridová z Volduch“ (Osek 01 N str. 226, sn. 115 vlevo; M zápis) – snad tatáž (K+): rodina by tehdy žila ve Volduchách (filiálka fary Osek)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 N str. 84, 105"
