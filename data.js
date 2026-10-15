@@ -7452,28 +7452,31 @@ window.RODOKMEN = {
       name: "Šimon Holub",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1732–1734)","year":1733,"approx":true},
+      b: {"date":"4. 10. 1732","year":1732,"place":"Osek u Rokycan"},
       d: {"date":"27. 11. 1803","year":1803,"place":"Osek u Rokycan č. p. 85"},
       cause: "Brand (sněť ?)",
       father: "kaspar_hl",
+      mother: "ludmila_hb0",
       spouse: "katerina_hb",
       occ: "chalupník v Oseku (č. 85 v r. 1774, č. 83 v r. 1814)",
       marriage: "13. 2. 1763, Osek – s Kateřinou, vdovou po Jakubu Gyštovi (?)",
       notes: [
         "Oddán 13. 2. 1763 v Oseku: „Simon superstes filius post defunctum Casparum Holub ex pago Wossek, cum honesta vidua post defunctum Jacobum Gyšt (?) Catharina“; svědci Matěj Aubrecht, Jan Košař (?) a Anna Košařová (?).",
+        "Narozen 4. 10., pokřtěn 5. 10. 1732 v Oseku: „Šymon, vlastní syn Kašpara Holuba, Ludmily manželky jeho“; levans Šimon Krom (?) z Volduch (Osek 02 N str. 43, sn. 23 vpravo; M, ověřeno koordinátorem). Věk sedí se sňatkem 1763 (30) i úmrtím 1803 (69). Šimon *13. 10. 1746 je syn Josefa Holuba × Kateřiny (Osek 03 N sn. 33 vpravo – „Otce Gozeffa Holuba“, ověřeno), ne Kašparův.",
         "Chalupník (subrusticus) v Oseku č. 85 – křest syna Kašpara 21. 6. 1771 (kmotr hrabě Kašpar ze Šternberka); otec Anny (*1774, provdaná Laukotová, pak Lodlová). Pozor: v Oseku žil i pár Mikuláš Holub × Kateřina.",
-        "KANDIDÁT křtu: Kašparovi Holubovi se narodili dva Šimonové – 4. 10. 1732 (matka Ludmila; Osek 02 sn. 23) a 13. 10. 1746 (matka Kateřina; Osek 03 sn. 33); který se ženil 1763, zatím nerozhodnuto.",
         "Šimon Holub, podruh, † 27. 3. 1805 Osek č. 108, 64 let, a Barbora, manželka † Šimona Holuby, † 18. 1. 1808 č. 108, 58 let (Osek 08 Z str. 62, 68; M) – spíš druhý Šimon (z č. 73), ne náš (manželka Kateřina † 1793 v č. 85, nový sňatek v Oseku VII 1793 – II 1803 není). Č. 85 v l. 1801–1810 drží Jindřich Holub (snad syn).",
-        "Zemřel 27. 11. 1803 v Oseku č. 85: „Simon Holub, Chalupner“, 69 (?) let, Brand (Osek 08 Z str. 59, sn. 34 vpravo; M, ověřeno koordinátorem) → *~1734 – podporuje kandidátní křest 4. 10. 1732 (matka Ludmila) proti 1746. Jindřich Holub (č. 85 od 1801) je syn Adama Holuba × Anny (*1761) – ne Šimonův syn."
+        "Zemřel 27. 11. 1803 v Oseku č. 85: „Simon Holub, Chalupner“, 69 (?) let, Brand (Osek 08 Z str. 59, sn. 34 vpravo; M, ověřeno koordinátorem) → *~1734. Jindřich Holub (č. 85 od 1801) je syn Adama Holuba × Anny (*1761) – ne Šimonův syn."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 24, snímek 14 – https://www.portafontium.eu/iipimage/30066673/osek-07_0140-o",
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n",
         "SOA Plzeň, fara Osek, Osek 04 (O), snímek 75 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_0750-o",
         "SOA Plzeň, fara Osek, Osek 04 (N), snímek 40 vlevo (křest syna Kašpara 21. 6. 1771, Osek 85) – https://www.portafontium.eu/iipimage/30066670/osek-04_0400-n",
-        "SOA Plzeň, Osek 08 Z str. 59, sn. 34 vpravo – https://www.portafontium.eu/iipimage/30066674/osek-08_0340-z"
+        "SOA Plzeň, Osek 08 Z str. 59, sn. 34 vpravo – https://www.portafontium.eu/iipimage/30066674/osek-08_0340-z",
+        "SOA Plzeň, Osek 02 N, str. 43, sn. 23 vpravo – https://www.portafontium.eu/iipimage/30066668/osek-02_0230-n"
       ],
       scans: [
+        {"f":"img/1732_N_Holub_Simon_Osek.jpg","t":"Křest 4. 10. 1732, Osek"},
         {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
         {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"},
         {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí manželky Kateřiny, Osek 1793"},
@@ -8407,17 +8410,19 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      spouse: "ludmila_hb0",
       notes: [
-        "Z Oseku; zemřel před únorem 1763 (sňatek syna Šimona). Děti v Oseku 1728–1760 (rejstříky N ověřeny v zápisech): Matěj *21. 2. 1731 a Šimon *4. 10. 1732 (matka Ludmila), Šimon *13. 10. 1746 (matka Kateřina); mimo rejstříky ještě Lidmila *10. 12. 1726 Osek (matka Lidmila; Osek 01 N sn. 125) a Matěj († 13. 3. 1731, 3 neděle, Osek 02 Z) – D; sňatek s Ludmilou není v O Osek V 1725 – VI 1731.",
+        "Z Oseku; zemřel před únorem 1763 (sňatek syna Šimona). Děti v Oseku 1728–1760 (rejstříky N ověřeny v zápisech): Matěj *21. 2. 1731 a Šimon *4. 10. 1732 (matka Ludmila); mimo rejstříky ještě Lidmila *10. 12. 1726 Osek (matka Lidmila; Osek 01 N sn. 125) a Matěj († 13. 3. 1731, 3 neděle, Osek 02 Z) – D; sňatek s Ludmilou není v O Osek V 1725 – VI 1731.",
+        "Křest Šimona 13. 10. 1746 dříve chybně přičten Kašparovi – otcem je Josef Holub × Kateřina (Plzeň N39); rozpor o dvou manželkách tím odpadá. Úmrtí Kašpara v Oseku X 1746 – II 1763 nenalezeno.",
         "Vnuk Kašpar (syn Šimona, *21. 6. 1771) zemřel 10. 7. 1771 v Oseku č. 85.",
-        "KANDIDÁT: syn Matěje Holuba (~1690) – Matějův syn Pavel zemřel 27. 4. 1740 ve 22 letech „po neb. Matějovi Holubovi“ (Osek 03 Z, sn. 156); vazba Kašpar → Matěj nedoložena.",
-        "ROZPOR / otázka: Ludmila Holubová zemřela 6. 3. 1753 (51 let) a Kateřina Holubová 26. 5. 1759 (45 let), obě z Oseka bez uvedení manžela – pokud byla Ludmila Kašparovou ženou (syn Šimon 1732), nemohl týž Kašpar mít 1746 manželku Kateřinu; možná dva Kašparové Holubové. Úmrtí Kašpara v Oseku X 1746 – II 1763 nenalezeno."
+        "KANDIDÁT: syn Matěje Holuba (~1690) – Matějův syn Pavel zemřel 27. 4. 1740 ve 22 letech „po neb. Matějovi Holubovi“ (Osek 03 Z, sn. 156); vazba Kašpar → Matěj nedoložena."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 04 (O), snímek 75 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_0750-o"
       ],
       scans: [
-        {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"}
+        {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"},
+        {"f":"img/1732_N_Holub_Simon_Osek.jpg","t":"Křest syna Šimona, Osek 1732"}
       ]
     },
     {
@@ -12516,6 +12521,24 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí 24. 3. 1787, Černín č. 7"}
+      ]
+    },
+    {
+      id: "ludmila_hb0",
+      name: "Ludmila Holubová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1702)","year":1702,"approx":true},
+      spouse: "kaspar_hl",
+      notes: [
+        "Manželka Kašpara Holuba z Oseka, matka Ludmily (*10. 12. 1726), Matěje (*21. 2. 1731) a Šimona (*4. 10. 1732) (Osek 01–02 N; M). Rodné příjmení neznámé; sňatek není v O Osek V 1725 – VI 1731.",
+        "KANDIDÁT úmrtí (K+): „Lidmilla Holubová“ † 6. 3. 1753 Osek, 51 let, bez uvedení manžela (Osek 03 Z sn. 183 vpravo) → *~1702; v Oseku 1756 žila i Ludmila, manželka Jana Holuba."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 02 N, str. 43, sn. 23 vpravo – https://www.portafontium.eu/iipimage/30066668/osek-02_0230-n"
+      ],
+      scans: [
+        {"f":"img/1732_N_Holub_Simon_Osek.jpg","t":"Křest syna Šimona, Osek 1732"}
       ]
     }
   ]
