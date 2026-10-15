@@ -3256,7 +3256,7 @@ window.RODOKMEN = {
       line: "votava",
       cert: "M",
       b: {"date":"neznámé (asi 1770)","year":1770,"approx":true},
-      d: {"date":"před 6. 2. 1844","year":1844,"approx":true},
+      d: {"date":"8. 8. 1828","year":1828,"place":"Jetřichovec (fara Pacov) č. p. 27"},
       spouse: "terezie_mk",
       occ: "nádeník v Jetřichovicích č. 22",
       marriage: "20. 1. 1789, Bratřice (fara Velká Chyška), č. 7 – s Terezií Marodovou",
@@ -3266,13 +3266,14 @@ window.RODOKMEN = {
         "Otcovství doloženo oddacím zápisem syna Jana 10. 6. 1815 v Jetřichovci (fara Pacov): „Jan, syn Martina Wottawy, sedláka (?)“, Jetřichovec č. 23 (?).",
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Cetule“ (dříve čteno „z Letů / L?tůh“) – zemřel před 1844.",
         "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno.",
-        "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Syn Jan žil v Jetřichovci (č. 10) už 1816–1819 – úmrtí 1828 (č. 27, 60 let) a 1833 (Terezie, č. 42, 60 let) tak patří nejspíš Janovým rodičům; číslo 22 zatím nedoloženo. ROZPOR (Třeboň N13): oddací zápis syna Jana 6. 2. 1844 píše „syn † Martina Wotawy … a matky Terezie“ – křížek jen u Martina, ne u Terezie (u rodičů nevěsty v témže zápisu oba křížky) → Terezie v r. 1844 nejspíš žila, což odporuje † Terezie 1833 (č. 42), a tím i † Martina 1828 (č. 27). Křty vnoučat 1834 a 1836 (Martin „nádeník z Getřichowic No 22“, bez křížku) to nerozhodnou – táž ruka křížky nepíše vůbec. Ztotožnění oslabeno (K).",
+        "Úmrtí (K+, ROZPOR vyřešen – Třeboň N14): Martin Wotawa, podruh, † 8. 8. 1828 Jetřichovec č. 27 (60 let) a Terezie, vdova, † 27. 6. 1833 č. 42 (60 let) – jediný Martin v indexu Z Jetřichovec. Křest vnuka Jakuba Zajíčka 1839 (Jetřichovec č. 22) uvádí matku „Barbora, vlastní dcera † Martina Wotawy, bývalého podruha z Getřichowcy, a † matky Terezie rozené Martina Mař…(?), sedláka z Cetule, farnosti Velká Chýška“ – oba s křížkem, písař křížky dělá systematicky (6239 sn. 88; M, ověřeno koordinátorem). Chybějící křížek u Terezie v oddacím 1844 je opomenutí. „Martin, nádeník z Getřichowic No 22“ (Těchobuz 1834/36) = adresa rodiny dcery Barbory (× Václav Zajíček, domkář č. 22).",
         "Vyloučeno: „Martin Votava, jehlář v Lukavci č. 71“ (děti 1794–1804) je ve skutečnosti Martin Vokoun (Wokoun) – jiná rodina. Údaj „bývalý chalupník z Lstůh / Letůh (?)“ a „Terezie roz. Martina Marody též z Lstůh (?)“ pochází z 2. sňatku syna Jana (Těchobuz 6. 2. 1844) a patří tedy Votavům – obec neurčena (snad „z Luhů“ ?).",
         "KANDIDÁTI rodičů (K): Tomáš Votava, výminkář v Cetuli č. 4, a Magdalena († 13. 11. 1807 Cetule č. 4, 66 (?) let – „Magdalena manž. Tomáše Wotawy, wejminkáře“; Z 8206, sn. 26 vlevo; M zápis, příjmení ověřeno srovnáním písmene W). V č. 4 hospodařil Jan Votava (× Magdalena Dajzová) – snad Martinův bratr. Vazba nedoložena. Úmrtí Tomáše v Z 8206 do 1821 není. Jan Wotawa, sedlák v č. 4, × Rozalie Ma…ová (?) (křest dcery Magdaleny 1802).",
         "Jan Wotawa z Cetule č. 4 (snad mladší bratr, K) se 20. 1. 1801 oženil podruhé – vdovec, 27 let (→ *~1774), s Rozárou Mazinec (?) (8197 sn. 4 vpravo; M); formulář rodiče neuvádí.",
         "KANDIDÁT (K) na matku: Anna, † 24. 11. 1818 Jetřichovec č. 10 (dům Jana a Kateřiny 1816–19), 70 let, „manželka Jana Wotka (?)“ s pozdější vložkou „Wottawa (?)“ (6239 sn. 114 vlevo) – konkuruje kandidátům Tomáš × Magdalena z Cetule. Před 1815 v Jetřichovci žádný Votava (index N 6256).",
         "V N Velká Chyška 8199 (1801 – ~1816) Martin Votava z Cetule 8 jako otec není – rodina zřejmě odešla brzy po 1800 (Třeboň N11). Nezaměňovat: Martin Wottawa „mladý“, sedlák a dědic gruntu v Bratřicích č. 3, × Terezie, dcera Martina Mařince (?), rychtáře – děti Kateřina XI 1807, Anna ~1811 (8199 sn. 45, 68; M zápisy) – jiná osoba.",
-        "Kde rodina žila 1800–1815, zatím nevyřešeno: V. Chyška (N 8199 1801–~1816, Z 8206 1800–~1821), Pacov-město (Wottawové 1806–1812 = Franz × Josefa Lubová ?), Lukavec – bez Martina (Třeboň N11–N12)."
+        "Kde rodina žila 1800–1815, zatím nevyřešeno: V. Chyška (N 8199 1801–~1816, Z 8206 1800–~1821), Pacov-město (Wottawové 1806–1812 = Franz × Josefa Lubová ?), Lukavec – bez Martina (Třeboň N11–N12).",
+        "Dcera Barbora (*4. 12. 1799 Cetule) × Václav Zajíček, domkář v Jetřichovci č. 22 – křest syna Václava 1834: „Barbora, dcera Martina Wotawy, chalupníka z Cetule, a Terezie roz. Marody, sedláka z Bratřic“ (6239 sn. 56, fol. 68; M)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3281,7 +3282,8 @@ window.RODOKMEN = {
         "SOA Třeboň, fara Pacov, Jetřichovec NOZ 1785–1843 (kniha 6239), O fol. 8, snímek 66; index 6256 sn. 25 – https://digi.ceskearchivy.cz/6239",
         "SOA Třeboň, fara Zhoř, kniha 8826, N 1845, snímek 80 vlevo, 1. zápis (14./15. 1. 1845, Těchobuz č. 13) – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Velká Chyška, Cetule N/O/Z 1785–1801 (kniha 8197), snímky 9–12 (křty 1792–1799) – https://digi.ceskearchivy.cz/8197",
-        "SOA Třeboň, fara Velká Chyška, oddaní Bratřice 1785–1801 (kniha 8196), pag. II, snímek 3, 1. zápis (20. 1. 1789) – https://digi.ceskearchivy.cz/8196"
+        "SOA Třeboň, fara Velká Chyška, oddaní Bratřice 1785–1801 (kniha 8196), pag. II, snímek 3, 1. zápis (20. 1. 1789) – https://digi.ceskearchivy.cz/8196",
+        "SOA Třeboň, fara Pacov, N Jetřichovec 6239, sn. 88 (fol. 79, 1839) a sn. 56 (fol. 68, 1834)"
       ],
       scans: [
         {"f":"img/1815_O_Votava_Jan_Hamrova_Katerina_Jetrichovec.jpg","t":"Sňatek Jana Votavy a Kateřiny Hamrové (Flemrové), Jetřichovec 10. 6. 1815"},
@@ -3289,7 +3291,8 @@ window.RODOKMEN = {
         {"f":"img/1792_N_Votava_Bartolomej_Cetule.jpg","t":"Křest syna Bartoloměje, Cetule č. 7, 8. 8. 1792"},
         {"f":"img/1799_N_Votavova_Barbora_Cetule.jpg","t":"Křest dcery Barbory Marie, Cetule č. 8, 4. 12. 1799"},
         {"f":"img/1789_O_Votava_Martin_Marodova_Terezie_Bratrice.jpg","t":"Sňatek s Terezií Marodovou, Bratřice 20. 1. 1789"},
-        {"f":"img/1794_N_Votava_Jan_Cetule.jpg","t":"Křest syna Jana, Cetule 1794"}
+        {"f":"img/1794_N_Votava_Jan_Cetule.jpg","t":"Křest syna Jana, Cetule 1794"},
+        {"f":"img/1839_N_Zajicek_Jakub_Jetrichovec22.jpg","t":"Křest vnuka 1839 – Martin a Terezie † (Jetřichovec 22)"}
       ]
     },
     {
@@ -3299,6 +3302,7 @@ window.RODOKMEN = {
       line: "mrkva",
       cert: "M",
       b: {"date":"neznámé (asi 1770)","year":1770,"approx":true},
+      d: {"date":"27. 6. 1833","year":1833,"place":"Jetřichovec (fara Pacov) č. p. 42"},
       father: "martin_mr",
       mother: "mariana_mr",
       spouse: "martin_v",
@@ -3310,21 +3314,23 @@ window.RODOKMEN = {
         "Oddána 20. 1. 1789 v Bratřicích s Martinem Votavou, 19 (?) let (M). Marodové žili i v Bratřicích (1789 ženich Bartoloměj Maroda, svědkyně Terezie a Magdalena Marodová – K).",
         "KANDIDÁT příbuzného (K): Bartoloměj Mareda, Bratřice č. 7 (dům sňatku 1789), † ~XII 1813, 50 let (Z 8206 sn. 49) – snad bratr Terezie; Martin dal prvnímu synovi jméno Bartoloměj (1792).",
         "Oddací zápis 1789 znovu přečten zvětšeně: „Terezia Marode“, 19 let (8196 sn. 3, pag. II, No 7; M) – krátké příjmení, ne Mařincová (Mařincovi jsou v Bratřicích samostatná rodina).",
-        "Úmrtí: kandidátka † 27. 6. 1833 Jetřichovec 42 je oslabena – v r. 1844 je u ní na rozdíl od manžela bez křížku (Třeboň N13). Hledat † po 1844 (Těchobuz 8825/8826, Zhoř)."
+        "Zemřela 27. 6. 1833 v Jetřichovci č. 42 jako vdova po Martinu Wotawovi, 60 let (K+; v r. 1839 je u dcery Barbory „† matky Terezie“ – 6239 sn. 88). ROZPOR příjmení: zápis 1839 píše „roz. Martina Mař…rince (?) / Mar…ouny (?), sedláka z Cetule“, křest 1834 „Terezie roz. Marody, sedláka z Bratřic“, oddací 1789 „Terezia Marode“ – platí původní zápis (Marode)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8826), fol. 7, snímek 8 – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Zhoř, kniha 8826, N 1845, snímek 80 vlevo, 1. zápis (14./15. 1. 1845, Těchobuz č. 13) – https://digi.ceskearchivy.cz/8826",
         "SOA Třeboň, fara Velká Chyška, Cetule N/O/Z 1785–1801 (kniha 8197), snímky 9–12 (křty 1792–1799) – https://digi.ceskearchivy.cz/8197",
-        "SOA Třeboň, fara Velká Chyška, oddaní Bratřice 1785–1801 (kniha 8196), pag. II, snímek 3, 1. zápis (20. 1. 1789) – https://digi.ceskearchivy.cz/8196"
+        "SOA Třeboň, fara Velká Chyška, oddaní Bratřice 1785–1801 (kniha 8196), pag. II, snímek 3, 1. zápis (20. 1. 1789) – https://digi.ceskearchivy.cz/8196",
+        "SOA Třeboň, fara Pacov, N Jetřichovec 6239, sn. 88 (fol. 79, 1839) a sn. 56 (fol. 68, 1834)"
       ],
       scans: [
         {"f":"img/1836_krest_Michalova_Antonie_Votava_Stepan_Techobuz_b.jpg","t":"Křty Antonie Michalové a Štěpána Votavy, Těchobuz 1836 – rodiče (dítě: Jan Votava)"},
         {"f":"img/1845_N_Votava_Frantisek_Cetule_Techobuz.jpg","t":"Křest vnuka Františka 1845 – „Terezie roz. Martina Marody z Cetůle“"},
         {"f":"img/1792_N_Votava_Bartolomej_Cetule.jpg","t":"Křest syna Bartoloměje, Cetule 1792"},
         {"f":"img/1789_O_Votava_Martin_Marodova_Terezie_Bratrice.jpg","t":"Sňatek s Martinem Votavou, Bratřice 1789"},
-        {"f":"img/1794_N_Votava_Jan_Cetule.jpg","t":"Křest syna Jana, Cetule 1794"}
+        {"f":"img/1794_N_Votava_Jan_Cetule.jpg","t":"Křest syna Jana, Cetule 1794"},
+        {"f":"img/1839_N_Zajicek_Jakub_Jetrichovec22.jpg","t":"Křest vnuka 1839 – „† matky Terezie“"}
       ]
     },
     {
