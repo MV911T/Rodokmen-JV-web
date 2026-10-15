@@ -5311,6 +5311,7 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1742)","year":1742,"approx":true,"place":"Černín (?)"},
       d: {"date":"2. (?) 10. 1828","year":1828,"place":"Černín č. p. 7"},
       father: "vaclav_di",
+      mother: "katerina_dv",
       spouse: "anna_di",
       occ: "sedlák v Černíně č. 7",
       marriage: "4. 10. 1773, Zdice (z Knížkovic do Černína) – s Annou Červenou (?)",
@@ -5332,7 +5333,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776"},
         {"f":"img/1773_snatek_josef_divis_anna_cervena_zdice01_sn316_a.jpg","t":"Sňatek Josefa Diviše a Anny Červené (?), Zdice 4. 10. 1773"},
-        {"f":"img/1828_Z_Divis_Josef_Cernin7.jpg","t":"Úmrtí X 1828, Černín č. 7"}
+        {"f":"img/1828_Z_Divis_Josef_Cernin7.jpg","t":"Úmrtí X 1828, Černín č. 7"},
+        {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí rodičů Václava a Kateřiny, Černín 1787"}
       ]
     },
     {
@@ -6828,17 +6830,22 @@ window.RODOKMEN = {
       name: "Václav Diviš",
       line: "divis",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      b: {"date":"neznámé (asi 1717)","year":1717,"approx":true},
+      d: {"date":"15. 5. 1787","year":1787,"place":"Černín č. p. 7"},
+      spouse: "katerina_dv",
       occ: "sedlák v Černíně č. 7",
       notes: [
         "Otec Josefa Diviše (sňatek 1773).",
-        "KANDIDÁT: 1772 svědčí „Mathias Diwisch, Rusticus ex Gernin“, 62 let (*~1710) – příbuznost neznámá."
+        "KANDIDÁT: 1772 svědčí „Mathias Diwisch, Rusticus ex Gernin“, 62 let (*~1710) – příbuznost neznámá.",
+        "Zemřel 15. 5. 1787 v Černíně č. 7: „Václav Diviš, sedlák z Černína patřícího ku Králo-Dvoru“, 70 let (Zdice 02 sn. 332, 4. zápis; M). Manželka Kateřina † 24. 3. 1787 tamtéž, 70 let. Děti (Zdice 01 N): František 1745, Kateřina 1746, Matěj 1750, Jan Václav 1752; Josef (*před 1744)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 02 (Z), Černín, sn. 332 (1787) – https://ebadatelna.soapraha.cz/d/9096/332"
       ],
       scans: [
-        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776 (dítě: Josef Diviš)"}
+        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776 (dítě: Josef Diviš)"},
+        {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí Václava a Kateřiny Divišových, Černín 1787"}
       ]
     },
     {
@@ -6850,7 +6857,8 @@ window.RODOKMEN = {
       spouse: "anna_cv",
       occ: "Knížkovice č. 17",
       notes: [
-        "Otec Anny Doroty (*1753, sňatek 1773); Knížkovice č. 17. Příjmení Červený/Czerweny v obou zápisech (ne Červenka)."
+        "Otec Anny Doroty (*1753, sňatek 1773); Knížkovice č. 17. Příjmení Červený/Czerweny v obou zápisech (ne Červenka).",
+        "KANDIDÁT úmrtí (K+): 16. 3. 1799 Knížkovice č. 13, „Vojtěch Červený, chalupník knížkovický“, 60 let (věk podhodnocen; Zdice 02 sn. 389; M zápis) – jediný dospělý Vojtěch Červený 1785–1813; dům 13 × 17 při sňatku dcery 1773."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316",
@@ -6971,7 +6979,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1728)","year":1728,"approx":true},
       spouse: "vojtech_cv",
       notes: [
-        "Matka Anny Doroty Divišové (křest 1753); rodné příjmení neuvedeno."
+        "Matka Anny Doroty Divišové (křest 1753); rodné příjmení neuvedeno.",
+        "KANDIDÁT úmrtí (K+): 12. 11. 1800 Knížkovice č. 13, „Anna, vdova po † Vojtěchovi Červeném, sedláku knížkovickém“, 70 let (Zdice 02 sn. 390; M zápis) → *~1730."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, fol. 34, snímek 37 – https://ebadatelna.soapraha.cz/d/9095/37"
@@ -11428,24 +11437,29 @@ window.RODOKMEN = {
       name: "Jan Mráz",
       line: "mraz",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      b: {"date":"neznámé (asi 1740, kandidátní křest – viz poznámky)","year":1740,"approx":true,"place":"Ohrazenice"},
       d: {"date":"24. 2. 1794","year":1794,"place":"Ohrazenice č. p. 8"},
+      father: "jan_mz00",
+      mother: "magdalena_mzn",
       spouse: "katerina_mz0",
       occ: "chalupník (casarius) / baráčník v Ohrazenicích č. 8",
       notes: [
         "Chalupník (casarius) v Ohrazenicích č. 8 (panství Rohozec); otec Jana (křest 9. 1. 1774, M). Při sňatku syna 3. 6. 1794 už nežil („syn po † Janovi Mrázovi, baráčníku“, M). Synem snad i Václav (*30. 6. 1776, č. 8 – K).",
         "Manželka Kateřina – rodné příjmení ve křtech dětí pokaždé jinak: „nata Prošniková“ (~1779), „Jelínková“ (29. 7. 1781), „Kopušilová (?)“ (25. 8. 1782) – ROZPOR, rozhodne oddací zápis (nenalezen).",
-        "Sňatek s Kateřinou v O Přepeře 1758–1773 není (nejspíš ve farnosti nevěsty nebo před 1758); úmrtí v Z 1781 – IV 1784 není (→ V 1784 – VI 1794). Dcera Anna *29. 7. 1781, † 23. 8. 1781 (M). KANDIDÁT otce (K): starší Jan Mráz z Ohrazenic, † před 1763 (dcery Anna × 1763, Kateřina × 1766 „po † Janu Mrázovi“).",
+        "Sňatek s Kateřinou v O Přepeře 1758–1773 není (nejspíš ve farnosti nevěsty nebo před 1758); úmrtí v Z 1781 – IV 1784 není (→ V 1784 – VI 1794). Dcera Anna *29. 7. 1781, † 23. 8. 1781 (M).",
         "Zemřel 24. 2. 1794 v Ohrazenicích č. 8: „Jan Mraz, chalupník“, 50 let, „na hlmoníčku (?)“ (Z 5102, sn. 106 vpravo, pag. 8; M) → *~1744; souhlasí „syn po † Janu Mrázovi“ při sňatku syna 3. 6. 1794.",
         "KANDIDÁT sourozence (K): Vojtěch Mráz, „filius defuncti Joannis Mraz casarii Wohrazenicensis“, × 21. 11. 1773 Magdalena, dcera † Václava Prachty (?) (5296 O sn. 289 vlevo; M zápis) – Jan st. st. snad jeho bratr; otec Jan Mráz † před 1763.",
-        "Křest v N Přepeře 1740–1749 (Ohrazenice) není; snad *~1738–40 jako syn Jana Mráze × Magdaleny Novářové (× X 1737, O Všeň 5291 sn. 43 vpravo; K)."
+        "Křest v N Přepeře 1740–1749 (Ohrazenice) není; snad *~1738–40 jako syn Jana Mráze × Magdaleny Novářové (× X 1737, O Všeň 5291 sn. 43 vpravo; K).",
+        "KANDIDÁT křtu (K+): 24. 6. 1740 Ohrazenice (subd. Rohozec) – „Joannes, P[ater] Joannes Mraz, M[ater] Magdalena“; levans Václav Mráz, svědci Jiří Mráz a Dorota, manželka Václava Prachty, všichni z Ohrazenic (N Všeň 5286 sn. 169 vlevo; M zápis, ověřeno koordinátorem). Rodiče × X 1737 Všeň (Jan Mráz × Magdalena, dcera Jiřího Nováře ?; O 5291 sn. 43 vpravo); sestry Anna (13. 4. 1738) a Magdalena (?) (19. 7. 1739). Věk 50 při † 1794 by dával ~1744 – tolerance; v Ohrazenicích žil i starší Jan Mráz."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
         "SOA Zámrsk, Sbírka matrik, fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 119 (3. 6. 1794)",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, Z 1785–1842 (kniha 5102), oddíl Ohrazenice – https://aron.vychodoceskearchivy.cz/apu/2fd18ca0-7b4a-431f-acfb-9e6f9eb4e81b (sn. 104, 106)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, Z 1785–1842 (kniha 5102), oddíl Ohrazenice – https://aron.vychodoceskearchivy.cz/apu/2fd18ca0-7b4a-431f-acfb-9e6f9eb4e81b (sn. 104, 106)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 169 vlevo, pag. 304 (24. 6. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1"
       ],
       scans: [
+        {"f":"img/1740_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest Jana, Ohrazenice 24. 6. 1740 (kandidát)"},
         {"f":"img/1774_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest syna Jana, Ohrazenice 1774"},
         {"f":"img/1794_O_Mraz_Jan_Beckova_Dorota_Ohrazenice.jpg","t":"Sňatek syna Jana, Ohrazenice 1794"},
         {"f":"img/1794_Z_Mraz_Jan_Ohrazenice.jpg","t":"Úmrtí 24. 2. 1794, Ohrazenice č. 8"},
@@ -12445,6 +12459,63 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1715_O_Holub_Matej_Vlckova_Anna_Osek.jpg","t":"Sňatek s Matějem Holubem, Osek 1715"},
         {"f":"img/1716_N_Holubova_Eva_Osek.jpg","t":"Křest dcery Evy, Osek 1716"}
+      ]
+    },
+    {
+      id: "jan_mz00",
+      name: "Jan Mráz",
+      line: "mraz",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1712)","year":1712,"approx":true,"place":"Ohrazenice"},
+      d: {"date":"před 1763 (?)","year":1762,"approx":true},
+      spouse: "magdalena_mzn",
+      marriage: "X 1737, Všeň – s Magdalenou Novářovou (?)",
+      notes: [
+        "KANDIDÁT (K+): otec Jana Mráze st. st. – křest 24. 6. 1740 (N Všeň 5286 sn. 169 vlevo; M zápis). Syn Jiříka Mráze z Ohrazenic; × X 1737 Magdalena, dcera Jiříka Nováře (?) (O Všeň 5291 sn. 43 vpravo; M zápis). Děti Anna 1738, Magdalena (?) 1739, Jan 1740. Snad totožný s „† Janem Mrázem“ (dcery × 1763 a 1766)."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 169 vlevo, pag. 304 (24. 6. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1",
+        "SOA Zámrsk, O Všeň 5291 sn. 43 vpravo (X 1737); N 5296 sn. 84 vpravo, 86 vpravo"
+      ],
+      scans: [
+        {"f":"img/1740_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest syna Jana, Ohrazenice 1740"}
+      ]
+    },
+    {
+      id: "magdalena_mzn",
+      name: "Magdalena Mrázová",
+      maiden: "Novářová (?)",
+      line: "mraz",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true,"place":"Ohrazenice"},
+      spouse: "jan_mz00",
+      notes: [
+        "KANDIDÁTKA (K+): matka Jana Mráze st. st. (viz Jan Mráz); dcera Jiříka Nováře (?) z Ohrazenic."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 169 vlevo, pag. 304 (24. 6. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1"
+      ],
+      scans: [
+        {"f":"img/1740_N_Mraz_Jan_Ohrazenice.jpg","t":"Křest syna Jana, Ohrazenice 1740"}
+      ]
+    },
+    {
+      id: "katerina_dv",
+      name: "Kateřina Divišová",
+      line: "divis",
+      cert: "K",
+      b: {"date":"neznámé (asi 1717)","year":1717,"approx":true},
+      d: {"date":"24. 3. 1787","year":1787,"place":"Černín č. p. 7"},
+      spouse: "vaclav_di",
+      notes: [
+        "KANDIDÁTKA (K): matka Josefa Diviše – manželka Václava Diviše a matka jeho dětí 1745–1752 (Zdice 01 N; M); Josefův křest (před 1744) nenalezen.",
+        "Zemřela 24. 3. 1787 v Černíně č. 7: „Katharina, manželka Václava Diviše, sedláka z Černína“, 70 let (Zdice 02 sn. 332, 2. zápis; M). Rodné příjmení neuvedeno."
+      ],
+      sources: [
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 02 (Z), Černín, sn. 332 (1787) – https://ebadatelna.soapraha.cz/d/9096/332"
+      ],
+      scans: [
+        {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí 24. 3. 1787, Černín č. 7"}
       ]
     }
   ]
