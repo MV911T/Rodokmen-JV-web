@@ -11191,12 +11191,15 @@ window.RODOKMEN = {
       name: "Filip Bečka",
       line: "mraz",
       cert: "M",
-      b: {"date":"neznámé (asi 1740)","year":1740,"approx":true},
+      b: {"date":"neznámé (asi 1740, kandidátní křest – viz poznámky)","year":1740,"approx":true,"place":"Mokré (fara Všeň)"},
       d: {"date":"30. 12. 1810","year":1810,"place":"Ohrazenice č. p. 14"},
       cause: "úbytě (?)",
+      father: "jan_bc0",
+      mother: "magdalena_bc0",
       spouse: "dorota_bc",
       occ: "chalupník v Ohrazenicích č. 14",
       notes: [
+        "KANDIDÁT křtu (K+): 28. 4. 1740 pokřtěn „Philippus Jacobus, P[ater]: Joannes Bečka, M[ater]: Magdalena“, ex Mokrý, subd. Swigan.; levans Václav Radovský z Ohrazenic, svědci Jan Kopecký z Mokrého a Dorota, manželka Matěje Jandy z Plaukonic (N Všeň 5286 sn. 168 vpravo; M zápis, ověřeno koordinátorem). Věk 70 při úmrtí 1810 sedí; kmotr dětí Matěj Bečka ze Mokrého.",
         "Chalupník v Ohrazenicích (Wohrazenicích) č. 14; otec Doroty, provdané Mrázové (křest vnučky Terezie 1813, sňatek 1833 – M).",
         "Syn Matěj 23. 7. 1781 (č. 14; M). Kmotr Matěj Bečka, sedlák z Mokrého (fara Všeň) – rod Bečků snad z Mokrého (K). Sňatek s Dorotou v O Přepeře XI 1770 – XI 1774 není;",
         "Zemřel 30. 12. 1810 v Ohrazenicích č. 14: „Filip Bečka, chalupník“, 70 let, „na úbytě (?)“; pohřbil Vojtěch Patočka, lokalista (Z 5102, sn. 116 vlevo, pag. 27; M, ověřeno koordinátorem) → *~1740. V č. 14 zemřel 6. 4. 1828 i Josef Bečka, výměnkář, 70 let (K: bratr ?). Sňatek s Dorotou v O Přepeře 1758–1774 ani ve Všeni X 1766 – II 1775 není."
@@ -11205,9 +11208,11 @@ window.RODOKMEN = {
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)",
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, kniha 5296, N sn. 208 vlevo, pag. 406 (23. 7. 1781)",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, Z 5102, sn. 116 vlevo (1810)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, Z 5102, sn. 116 vlevo (1810)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 168 vpravo, pag. 303 (28. 4. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1"
       ],
       scans: [
+        {"f":"img/1740_N_Becka_Filip_Mokre.jpg","t":"Křest Filipa Jakuba, Mokré 28. 4. 1740 (kandidát)"},
         {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"},
         {"f":"img/1774_N_Beckova_Dorota_Ohrazenice.jpg","t":"Křest dcery Doroty, Ohrazenice 1774"},
         {"f":"img/1781_N_Becka_Matej_Ohrazenice14.jpg","t":"Křest syna Matěje, Ohrazenice č. 14, 1781"},
@@ -11434,7 +11439,8 @@ window.RODOKMEN = {
         "Pohřben 16. 12. 1755 u filiálního kostela v Přepeřích, „Joannes Tiukal relinquens uxorem Dorotheam“, z Lažan (panství Hrubá Skála), 73 let (Z 5296, sn. 292 vpravo, pag. 577; M) → *~1682 (věk vůči dětem 1741–1751 vysoký – snad nadsazen). Děti s Dorotou: František (5. 10. 1741 ?), Alžběta (7. 3. 1751 ?; M).",
         "Sňatek s Dorotou v Liber II Copulatorum Přepeře 1738–1740 a 1744 není; sňatky 1741–1743 jsou ve farní matrice Všeň („vide in Matricula Parochiali“) – nečteno.",
         "Dcera Mařena (?) se 20. 11. 1735 v Přepeřích vdala za Jana, syna Petra Poláka z Lažan („vlastní dcerou Jana Ťukala z Lažan“; 5296 sn. 249 vlevo, pag. 490; M zápis, ztotožnění K) → Jan měl dospělou dceru už 1735; Dorota (matka dětí 1741, 1751) byla nejspíš jeho 2. manželkou. Sňatek s Dorotou v Liber II Přepeře 1734–1740 ani ve Všeni V 1740 – I 1742 není.",
-        "Dcera Kateřina se 23. 11. 1734 v Přepeřích vdala za Václava, syna Matěje Nováka z Lažan – „vlastní dcerou Jana Ťukala, rychtáře též z Lažan“ (5296 sn. 247 vpravo, pag. 487; M zápis, ztotožnění K+) → Jan byl 1734 rychtářem; dvě dcery na vdávání 1734/35 → 1. sňatek nejpozději ~1714. Sňatek s Dorotou v Liber II Přepeře 1720–1740 není."
+        "Dcera Kateřina se 23. 11. 1734 v Přepeřích vdala za Václava, syna Matěje Nováka z Lažan – „vlastní dcerou Jana Ťukala, rychtáře též z Lažan“ (5296 sn. 247 vpravo, pag. 487; M zápis, ztotožnění K+) → Jan byl 1734 rychtářem; dvě dcery na vdávání 1734/35 → 1. sňatek nejpozději ~1714. Sňatek s Dorotou v Liber II Přepeře 1720–1740 není.",
+        "Syn Matěj: „Mathias oriundus ex Lažan filius post defunctum Joannem Tukal“ × 25. 11. 1764 Dorota, dcera † Jiřího Egrta (?) z Modřic (O Všeň 5291 sn. 108 vlevo; M zápis, K ztotožnění)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), sign. 5296, O pag. 560, snímek 284 vlevo (26. 11. 1769)",
@@ -12294,6 +12300,40 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1797_N_Ticha_Magdalena_Herspice26.jpg","t":"Křest dcery Magdaleny, Heršpice 1797"}
+      ]
+    },
+    {
+      id: "jan_bc0",
+      name: "Jan Bečka",
+      line: "mraz",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true,"place":"Mokré (fara Všeň)"},
+      spouse: "magdalena_bc0",
+      notes: [
+        "KANDIDÁT (K+): otec Filipa Bečky – křest 28. 4. 1740 Mokré (N Všeň 5286 sn. 168 vpravo; M zápis). Snad i otec Jana Bečky ml. z Mokrého (× 29. 10. 1765 Dorota Bursová, „filius Joannis Beczka“; O 5291 sn. 109)."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 168 vpravo, pag. 303 (28. 4. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1"
+      ],
+      scans: [
+        {"f":"img/1740_N_Becka_Filip_Mokre.jpg","t":"Křest syna Filipa, Mokré 1740"}
+      ]
+    },
+    {
+      id: "magdalena_bc0",
+      name: "Magdalena Bečková",
+      line: "mraz",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      spouse: "jan_bc0",
+      notes: [
+        "KANDIDÁTKA (K+): matka Filipa Bečky (viz Jan Bečka). Rodné příjmení neuvedeno."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Všeň, N 5286, sn. 168 vpravo, pag. 303 (28. 4. 1740) – APU 44cb7922-3349-49b9-84fc-db5d4f1239a1"
+      ],
+      scans: [
+        {"f":"img/1740_N_Becka_Filip_Mokre.jpg","t":"Křest syna Filipa, Mokré 1740"}
       ]
     }
   ]
