@@ -3494,7 +3494,8 @@ window.RODOKMEN = {
         {"f":"img/1835_oddani_Michal_Jan_Karafiatova_Marie_Mezilesi2_5379.jpg","t":"Sňatek Jana Michala a Marie Karafiátové, Mezilesí 10. 11. 1835 (dítě: Marie Michalová)"},
         {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"},
         {"f":"img/1852_Z_Karafiat_Vaclav_Mezilesi.jpg","t":"Úmrtí manžela Václava, Mezilesí 20. 4. 1852"},
-        {"f":"img/1821_Z_Karafiatova_Ludmila_Mezilesi.jpg","t":"Úmrtí VIII 1821, Mezilesí č. 2 (pád z půdy)"}
+        {"f":"img/1821_Z_Karafiatova_Ludmila_Mezilesi.jpg","t":"Úmrtí VIII 1821, Mezilesí č. 2 (pád z půdy)"},
+        {"f":"img/1822_Z_Lhotka_Pavel_SalacovaLhota24.jpg","t":"Úmrtí otce Pavla Lhotky, Salačova Lhota 1822"}
       ]
     },
     {
@@ -9005,15 +9006,21 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      d: {"date":"28. 10. 1822","year":1822,"place":"Salačova Lhota č. p. 24 (mlýn „Hatzburg“)"},
       spouse: "terezie_lh",
+      occ: "mlynář, Salačova Lhota č. 24 (mlýn Hatzburg / Holzburg)",
       notes: [
-        "Mlynář v „Holzburger“ mlýně (?) – obec nejasná (snad u Salačovy Lhoty, fara Lukavec); otec Ludmily Karafiátové."
+        "Mlynář v „Holzburger“ mlýně (?) – obec nejasná (snad u Salačovy Lhoty, fara Lukavec); otec Ludmily Karafiátové.",
+        "Zemřel 28. 10. 1822 (pohřben 29.) v Salačově Lhotě č. 24: „Pawel Lhotka, Müllner“, věk 7? let (druhá číslice nečitelná) (Z 5381 pag. 16, sn. 172 vlevo; M, ověřeno koordinátorem). Mlýn „Hatzburgk / Holzburg“ = Salačova Lhota č. 24 (syn František † ~1820–21, 15 let, „Mühle Hatzburgk No 24 zu Lhota“, pag. 15). Lhotkovi jsou v Salačově Lhotě až od 1787 – sňatek a křest Ludmily nejspíš mimo faru Lukavec."
       ],
       sources: [
-        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371"
+        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371",
+        "SOA Třeboň, Sbírka matrik, ř.-k. fara Lukavec, Z 5381, oddíl Salačova Lhota, pag. 16 (sn. 172 vlevo, 1822), pag. 30 (sn. 179 vlevo, 1836) – https://digi.ceskearchivy.cz/5381"
       ],
       scans: [
-        {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"}
+        {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"},
+        {"f":"img/1822_Z_Lhotka_Pavel_SalacovaLhota24.jpg","t":"Úmrtí 28. 10. 1822, Salačova Lhota č. 24"},
+        {"f":"img/1836_Z_Lhotkova_Terezie_SalacovaLhota24.jpg","t":"Úmrtí vdovy Terezie, Salačova Lhota 1836"}
       ]
     },
     {
@@ -9022,16 +9029,20 @@ window.RODOKMEN = {
       maiden: "Hamannová (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      b: {"date":"neznámé (asi 1764)","year":1764,"approx":true},
+      d: {"date":"14. 3. 1836","year":1836,"place":"Salačova Lhota č. p. 24 (mlýn Holzburg)"},
       spouse: "pavel_lh",
       notes: [
-        "Manželka mlynáře Pavla Lhotka, rovněž z „Holzburger“ mlýna (?); matka Ludmily Karafiátové."
+        "Manželka mlynáře Pavla Lhotka, rovněž z „Holzburger“ mlýna (?); matka Ludmily Karafiátové.",
+        "Zemřela 14. 3. 1836 v 7 hod. večer (pohřbena 16. 3.) v Salačově Lhotě č. 24 („Holzbürg“): „Terezie, vdova po † Pavlovi Lhotkovi, svobodníku z Lhoty“, 72 let (Z 5381 pag. 30, sn. 179 vlevo; M, ověřeno) → *~1764. Úmrtní list vydán 20. 8. 1858 pro soudní řízení."
       ],
       sources: [
-        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371"
+        "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371",
+        "SOA Třeboň, Sbírka matrik, ř.-k. fara Lukavec, Z 5381, oddíl Salačova Lhota, pag. 16 (sn. 172 vlevo, 1822), pag. 30 (sn. 179 vlevo, 1836) – https://digi.ceskearchivy.cz/5381"
       ],
       scans: [
-        {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"}
+        {"f":"img/1819_N_Karafiat_Mezilesi.jpg","t":"Křest dítěte Karafiátových, Mezilesí č. 2, 1819 – matka Ludmila, dcera Pavla Lhotka, mlynáře"},
+        {"f":"img/1836_Z_Lhotkova_Terezie_SalacovaLhota24.jpg","t":"Úmrtí 14. 3. 1836, Salačova Lhota č. 24"}
       ]
     },
     {
@@ -12300,17 +12311,17 @@ window.RODOKMEN = {
     {
       id: "katerina_hn",
       name: "Kateřina Tichá",
-      maiden: "Láníčková (?)",
+      maiden: "Hanušková / Hanučková (?)",
       line: "svobodah",
       cert: "M",
-      b: {"date":"neznámé (asi 1765–1768)","year":1767,"approx":true,"place":"Heršpice"},
+      b: {"date":"neznámé (asi 1768)","year":1768,"approx":true},
       d: {"date":"17. 12. 1848","year":1848,"place":"Heršpice č. p. 26"},
       cause: "stáří (Altersschwäche)",
       spouse: "jakub_ti",
       notes: [
         "Manželka Jakuba Tichého, matka Magdaleny Svobodové – křest 13. 7. 1797 Heršpice č. 26: „Mutter: Katharina Han…kin (?)“ (N 13123 sn. 380; M, příjmení nejisté). Sňatek s Jakubem (~1790–1796) a úmrtí nehledány.",
-        "ROZPOR čtení rodného příjmení: křest syna Jana 5. 5. 1795 Heršpice č. 25 (Jakob Tichy, Innmann × „Catharina Laneczek / Laniczek (?)“, kmotři Bartl Navrátil a Marianna – tíž jako 1797; N 13123 sn. 375, str. 387; M) × křest Magdaleny 1797 „Han…kin / Hrnoßkin (?)“ – srovnáno koordinátorem, první písmena se liší, nerozhodnuto. KANDIDÁT (K): Kateřina, dcera Pavla Láníčka, ¾láníka, 26 let, × 24. 10. 1791 (?) Jakub Hawischka (?) z č. 20 (O 13136 sn. 81) – snad 1. manželství. Sňatek s Jakubem Tichým v indexu O 1784–1812 není.",
-        "Zemřela 17. 12. 1848 (pohřbena 19. 12.) v Heršpicích č. 26: „Katharina, Wittwe nach Jakob Tichy, Ausgedinglerinn“, 80 let (Z 13155 sn. 11 vlevo, pag. 18; M, ověřeno koordinátorem). KANDIDÁT křtu (K+): Kateřina, dcera Pavla Laníčka, podruha, a Anny, XI 1765 Heršpice (N 13121 sn. 188 vlevo; čteno jen v montáži). Rodné příjmení Láníčková K+ (1795 „Laneczek“), „Hanušková“ (1797) nejspíš chybné čtení; sňatek s Jakubem v O Slavkov 1789–1795 není."
+        "Rodné příjmení ze čtyř křtů dětí (Jan 1795, Magdalena 1797, Anna 24. 7. 1801, Valentin 13. 2. 1804 – vždy Heršpice, kmotři Navrátilovi; N 13123 sn. 375, 380, 387, 391; M): „Catharina Hanutschek / Hanuczek“ – v r. 1801 a 1804 zřetelné kurentní H, odlišné od „Lanitschek“ téhož písaře → Hanušková / Hanučková (K+). Čtení „Láníčková“ (1795) nepotvrzeno.",
+        "Zemřela 17. 12. 1848 (pohřbena 19. 12.) v Heršpicích č. 26: „Katharina, Wittwe nach Jakob Tichy, Ausgedinglerinn“, 80 let (Z 13155 sn. 11 vlevo, pag. 18; M, ověřeno koordinátorem). Sňatek s Jakubem v O Slavkov 1784–1812 není (asi ve faře nevěsty). Kateřina Láníčková *4. 11. 1765 (dcera Pavla) je jiná osoba (× 1791 Jakub H…)."
       ],
       sources: [
         "MZA Brno, N 13123, sn. 380, str. 392 (13. 7. 1797) – https://www.mza.cz/actapublica/matrika/detail/1951",
