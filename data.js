@@ -7845,7 +7845,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Magdaleny Hrabovské (sňatek 1806).",
         "Manželka Johanna (křty 1784, 1785).",
-        "Podruhé oddán 6. 5. 1783 v Hodějicích (č. 52) jako vdovec s Johannou, dcerou † Antonína Magka (?) z Hodějic; svědci Pavel Hrabovský (budoucí tchán dcery Magdaleny) a Jakub Ambrosík."
+        "Podruhé oddán 6. 5. 1783 v Hodějicích (č. 52) jako vdovec s Johannou, dcerou † Antonína Magka (?) z Hodějic; svědci Pavel Hrabovský (budoucí tchán dcery Magdaleny) a Jakub Ambrosík.",
+        "KANDIDÁTI rodičů (K): Jiří, syn † Josefa Šimoníka, × 18. (I ?) 1750 Hodějice Apolonie, dcera Matěje Laníčka (O 13120 sn. 269 vlevo; M zápis). Křest Martina (~1750–1760, N 13121 sn. ~77–145) nedohledán; pozor na Josefa Šimoníka × Mariannu v Hodějicích."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959",
