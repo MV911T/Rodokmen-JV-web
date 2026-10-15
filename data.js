@@ -6290,7 +6290,8 @@ window.RODOKMEN = {
       occ: "sedlák v Oseku č. 83",
       notes: [
         "Otec Šimona Trgjka. Zemřel (pohřben ?) 1. 9. 1772 v Oseku č. 83 jako sedlák, 50 let (farář Franz Engelthaler).",
-        "KANDIDÁT křtu (K+): 19. 7. 1718 Osek – „Jakub, vlastní syn Václava Brgjka [Trgjka] a Kateřiny“ (Osek 01 N sn. 84 vpravo; M zápis) – sedí bydliště Osek; věk 50 při † 1772 podhodnocen o ~4 roky. Druhý kandidát (Jakub *9. 1. 1723, syn Jana × Kateřiny, Volduchy) vyloučen – pohřben 20. 11. 1724 jako dítě, 2 léta (Osek 01 Z sn. 187 vpravo; M). Rodiče zatím nepřiřazeny (Václav Trgjk × 1723 Kateřina Forgtková ? – 2. manželství, nebo jiný Václav). Sňatek Jakuba × Magdaleny není v Osek 03 O 1740–1759 → fara nevěsty."
+        "KANDIDÁT křtu (K+): 19. 7. 1718 Osek – „Jakub, vlastní syn Václava Brgjka [Trgjka] a Kateřiny“ (Osek 01 N sn. 84 vpravo; M zápis) – sedí bydliště Osek; věk 50 při † 1772 podhodnocen o ~4 roky. Druhý kandidát (Jakub *9. 1. 1723, syn Jana × Kateřiny, Volduchy) vyloučen – pohřben 20. 11. 1724 jako dítě, 2 léta (Osek 01 Z sn. 187 vpravo; M). Rodiče zatím nepřiřazeny (Václav Trgjk × 1723 Kateřina Forgtková ? – 2. manželství, nebo jiný Václav). Sňatek Jakuba × Magdaleny není v Osek 03 O 1740–1759 → fara nevěsty.",
+        "Kandidátní rodiče Václav Brgjk × Kateřina z Oseka mají i syna Jana Václava 24. 9. 1716 (Osek 01 N sn. 77 vlevo; M) → oddáni nejpozději 1715 (v Osek 01 O X 1711 – II 1718 není). Václav × 1723 Kateřina Forgtková (mládenec, Volduchy) je jiný Václav. V rejstříku N Osek 03 je Šimon Begjrk fol. 162 (~1757)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
