@@ -8745,6 +8745,8 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1676, kandidátní křest – viz poznámky)","year":1676,"approx":true,"place":"Volduchy (fara Osek)"},
       d: {"date":"15. 12. 1732","year":1732,"place":"Volduchy (fara Osek)"},
+      father: "jakub_fo0",
+      mother: "katerina_dd",
       spouse: "alzbeta_fo",
       marriage: "25. 10. 1705, Volduchy – s Alžbětou Hanzlíkovou",
       notes: [
@@ -8753,9 +8755,9 @@ window.RODOKMEN = {
         "Zemřel 15. 12. 1732 ve Volduchách (pohřben 17. 12.): „Martin Foregt, před smrtí 3 dny všemi svátostmi zaopatřen, stáří svého měl 54 léta“ (Osek 02 Z str. 191, sn. 103 vpravo; M zápis, ztotožnění K+ – jediný Martin Forejt) → *~1678. Snad bratr Matěje Forejta († 1743, 64 let; K).",
         "Ve stejné době žil ve Volduchách Matěj Lomryk (?) × Kateřina (syn Václav 18. 9. 1712) – dřívější čtení „Matěj Forejt“ chybné.",
         "Křest v Osek 01 N XII 1673 – 1687 není; kniha má mezery IV–IX 1680, XI 1681 – I 1683, VI 1683 – V 1687 („hic desunt quatuor anni“) a část křtů je v matrice Rokycany.",
-        "KANDIDÁT křtu (K+): „Die 5. Novembris pokřtěno dítě z Wolduch jménem Martin, rodičové Jakub Foregt, manželka Kateřina“; kmotři Martin Tomanek, Šebestián Brada, Markéta Budinová (Rokycany 01 N, pag. 256, sn. 135 vlevo; M zápis, rok 1676 – po zápisech z 27. 12. následuje na pag. 259 nadpis „Letha Páně 1677“; ověřeno koordinátorem). Tentýž kmotr Šebestián Brada jako u bratra Matěje (*1679).",
+        "KANDIDÁT křtu (K++; nativně ověřeno koordinátorem): „Die 5. Novembris pokřtěno dítě z Wolduch jménem Martin, rodičové Jakub Foregt, manželka Kateřina“; kmotři Martin Tomanek, Šebestián Brada, Markéta Budinová (Rokycany 01 N, pag. 256, sn. 135 vlevo; M zápis, rok 1676 – po zápisech z 27. 12. následuje na pag. 259 nadpis „Letha Páně 1677“; ověřeno koordinátorem). Tentýž kmotr Šebestián Brada jako u bratra Matěje (*1679).",
         "Sourozenci (M): Matěj (26. 2. 1679, Osek), Anna (31. 5. 1681, Osek), Magdalena (7. 4. 1686, Volduchy; Rokycany 02 pag. 35) – vždy kmotr Šebestián Brada.",
-        "Pohřeb 20. 10. 1716 ve Volduchách: „Jakub Foregt, věku svého 65 let“ (Osek 01 Z sn. 176 vpravo; M zápis) – kandidát na otce Martina (kandidátní křest 1676: Jakub × Kateřina; K). Syn Václav (*~1713) † 15. 2. 1719, „synáček Martina Forejta“ (sn. 180 vpravo; M)."
+        "Rodiče (K++): Jakub Forejt × Kateřina Dudlová – oddáni 10. 11. (?) 1675 z Volduch, „Jakub syn Matěje Forejta s Kateřinou dcerou Matěje Dudla“ (Osek 01 O sn. 139 vlevo; M, ověřeno koordinátorem), rok před Martinovým křtem. Bratr Václav (*~1713, syn Martina) † 1719."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
@@ -8767,7 +8769,9 @@ window.RODOKMEN = {
         {"f":"img/1716_N_Forejt_Pavel_Volduchy.jpg","t":"Křest Pavla Forejta, syna Martina a Alžběty, Volduchy 10. 5. 1716"},
         {"f":"img/1732_Z_Forejt_Martin_Volduchy.jpg","t":"Úmrtí 15. 12. 1732, Volduchy (54 let)"},
         {"f":"img/1705_O_Forejt_Martin_Hanzlikova_Alzbeta_Volduchy.jpg","t":"Sňatek s Alžbětou Hanzlíkovou, Volduchy 1705"},
-        {"f":"img/1750_Z_Forejtova_Alzbeta_Volduchy.jpg","t":"Úmrtí manželky Alžběty, Volduchy 1750"}
+        {"f":"img/1750_Z_Forejtova_Alzbeta_Volduchy.jpg","t":"Úmrtí manželky Alžběty, Volduchy 1750"},
+        {"f":"img/1676_N_Forejt_Martin_Volduchy.jpg","t":"Křest 5. 11. 1676, Volduchy (Rokycany 01)"},
+        {"f":"img/1675_O_Forejt_Jakub_Dudlova_Katerina_Volduchy.jpg","t":"Sňatek rodičů Jakuba a Kateřiny, 1675"}
       ]
     },
     {
@@ -13161,6 +13165,92 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, Žebrák 01 (9695) Z sn. 197 vlevo (1728); N sn. 44 vpravo (1714) – https://ebadatelna.soapraha.cz/d/9695/197"
+      ]
+    },
+    {
+      id: "jakub_fo0",
+      name: "Jakub Forejt",
+      line: "forejt",
+      cert: "K",
+      b: {"date":"neznámé (asi 1651)","year":1651,"approx":true,"place":"Volduchy"},
+      d: {"date":"20. 10. 1716","year":1716,"place":"Volduchy (fara Osek)"},
+      father: "matej_fo00",
+      mother: "zuzana_fo00",
+      spouse: "katerina_dd",
+      marriage: "10. 11. (?) 1675, Volduchy – s Kateřinou, dcerou Matěje Dudla",
+      notes: [
+        "KANDIDÁT (K++): otec Martina Forejta (*5. 11. 1676). Oddán 10. 11. (?) 1675 z Volduch: „Jakub syn Matěje Forejta s Kateřinou dcerou Matěje Dudla“; ženich Jiřík Šmaus (?) z Hytoslav, družba Matěj Kratochvíl, družička Anna, dcera Jana Srbyho (?) (Osek 01 O sn. 139 vlevo; M, ověřeno koordinátorem). Děti: Martin 1676, Matěj 1679, Anna 1681, Magdalena 1686, dcera × 25. 11. 1703 Ondřej Fan (?) (Osek 01 O sn. 148 vpravo; družba Matěj Forejt). Pohřben 20. 10. 1716 ve Volduchách, 65 let (Osek 01 Z sn. 176 vpravo; M) → *~1651 (před začátkem Rokycany 01 N 1659)."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O, sn. 139 vlevo (10. 11. ? 1675) – https://www.portafontium.eu/iipimage/30066667/osek-01_1391-o",
+        "SOA Plzeň, Osek 01 Z sn. 176 vpravo (1716)"
+      ],
+      scans: [
+        {"f":"img/1675_O_Forejt_Jakub_Dudlova_Katerina_Volduchy.jpg","t":"Sňatek 1675, Volduchy"},
+        {"f":"img/1676_N_Forejt_Martin_Volduchy.jpg","t":"Křest syna Martina 1676"}
+      ]
+    },
+    {
+      id: "katerina_dd",
+      name: "Kateřina Forejtová",
+      maiden: "Dudlová",
+      line: "forejt",
+      cert: "K",
+      b: {"date":"neznámé (asi 1645)","year":1645,"approx":true,"place":"Volduchy"},
+      d: {"date":"16. 12. 1715","year":1715,"place":"Volduchy (fara Osek)"},
+      father: "matej_dd",
+      spouse: "jakub_fo0",
+      notes: [
+        "KANDIDÁTKA (K++): matka Martina Forejta; dcera Matěje Dudla, × 1675 Jakub Forejt (Osek 01 O sn. 139 vlevo; M). Pohřbena 16. 12. 1715 ve Volduchách: „Kateřina Foregtová … věku svého okolo 70 let“ (Osek 01 Z sn. 174 vpravo; M, K+) → *~1645."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O, sn. 139 vlevo (10. 11. ? 1675) – https://www.portafontium.eu/iipimage/30066667/osek-01_1391-o",
+        "SOA Plzeň, Osek 01 Z sn. 174 vpravo (1715)"
+      ],
+      scans: [
+        {"f":"img/1675_O_Forejt_Jakub_Dudlova_Katerina_Volduchy.jpg","t":"Sňatek 1675, Volduchy"}
+      ]
+    },
+    {
+      id: "matej_fo00",
+      name: "Matěj Forejt",
+      line: "forejt",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1625)","year":1625,"approx":true,"place":"Volduchy (?)"},
+      spouse: "zuzana_fo00",
+      notes: [
+        "KANDIDÁT (K+): otec Jakuba Forejta („Jakub syn Matěje Forejta“, 1675; M). Snad tentýž Matěj Forejt × Zuzana – děti Matěj 23. 2. 1662 (kmotr Jan Dudl; Rokycany 01 pag. 29, sn. 21 vpravo) a Adam V 1665 (pag. 63, sn. 38 vpravo; M zápisy)."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O, sn. 139 vlevo (10. 11. ? 1675) – https://www.portafontium.eu/iipimage/30066667/osek-01_1391-o",
+        "SOA Plzeň, Rokycany 01 N, pag. 29 a 63"
+      ]
+    },
+    {
+      id: "zuzana_fo00",
+      name: "Zuzana Forejtová",
+      line: "forejt",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1630)","year":1630,"approx":true},
+      spouse: "matej_fo00",
+      notes: [
+        "KANDIDÁTKA (K): manželka Matěje Forejta v letech 1662–1665 (Rokycany 01 N); matkou Jakuba (*~1651) jen tehdy, nebyl-li Matěj dříve ženatý jinak."
+      ],
+      sources: [
+        "SOA Plzeň, Rokycany 01 N, pag. 29 a 63"
+      ]
+    },
+    {
+      id: "matej_dd",
+      name: "Matěj Dudl",
+      line: "forejt",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1620)","year":1620,"approx":true,"place":"Volduchy (?)"},
+      notes: [
+        "KANDIDÁT (K++): otec Kateřiny Forejtové – „Kateřina dcera Matěje Dudla“ při sňatku 1675 (Osek 01 O sn. 139 vlevo; M). Jan Dudl kmotrem u Forejtů 1662 (příbuzný ?)."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O, sn. 139 vlevo (10. 11. ? 1675) – https://www.portafontium.eu/iipimage/30066667/osek-01_1391-o"
       ]
     }
   ]
