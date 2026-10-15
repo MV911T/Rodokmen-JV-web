@@ -13054,7 +13054,8 @@ window.RODOKMEN = {
       spouse: "barbora_hz",
       marriage: "6. 11. 1725, Volduchy – s Barborou Forejtovou",
       notes: [
-        "KANDIDÁT (K+): otec Kateřiny Čadové (*7. 11. 1728). Oddán 6. 11. 1725 ve Volduchách: „Prokop Hanzlík s Barborau Foregtowau“ (Osek 01 O sn. 169 vlevo; M). Děti z Volduch, vždy s matkou Barborou (Osek 02 N; M): Kateřina 1728, Dorota 1731, Šimon 1733, Kašpar 1739; Magdalena † 24. 7. 1742 (1 rok; otec bez „†“). Jediný Prokop Hanzlík ve faře 1728–1739; kmotři Budínovi (Volduchy) a Laukotovi (Osek). Zemřel mezi VII 1742 a VI 1744 (vdova Barbora). Křest a rodiče nenalezeny – snad bratr Ondřeje Hanzlíka (K)."
+        "KANDIDÁT (K+): otec Kateřiny Čadové (*7. 11. 1728). Oddán 6. 11. 1725 ve Volduchách: „Prokop Hanzlík s Barborau Foregtowau“ (Osek 01 O sn. 169 vlevo; M). Děti z Volduch, vždy s matkou Barborou (Osek 02 N; M): Kateřina 1728, Dorota 1731, Šimon 1733, Kašpar 1739; Magdalena † 24. 7. 1742 (1 rok; otec bez „†“). Jediný Prokop Hanzlík ve faře 1728–1739; kmotři Budínovi (Volduchy) a Laukotovi (Osek). Zemřel mezi VII 1742 a VI 1744 (vdova Barbora). Křest a rodiče nenalezeny – snad bratr Ondřeje Hanzlíka (K).",
+        "Křest Prokopa v Osek 01 N IX 1700 – V 1709 není (žádný Prokop) → *před IX 1700 (mezera ~1688 – VIII 1700)."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O sn. 169 vlevo (1725); Osek 02 N str. 8, 26, 56, 98 (1728–1739)"
@@ -13068,15 +13069,47 @@ window.RODOKMEN = {
       cert: "K",
       b: {"date":"neznámé (asi 1706, kandidátní křest – viz poznámky)","year":1706,"approx":true,"place":"Volduchy"},
       d: {"date":"25. 6. 1744","year":1744,"place":"Volduchy (fara Osek)"},
+      father: "matej_fo0",
+      mother: "katerina_pl",
       spouse: "prokop_hz",
       marriage: "6. 11. 1725, Volduchy – s Prokopem Hanzlíkem",
       notes: [
         "KANDIDÁTKA (K+): matka Kateřiny Čadové. Zemřela 25. 6. 1744 ve Volduchách jako „pozůstalá vdova po neb. Prokopovi Hanzlíkovi“, „60 let“ (Osek 03 Z sn. 166 vlevo; M) – věk nadsazen (při porodu 1739 by jí bylo 55).",
-        "KANDIDÁT křtu (K+): 28. 11. 1706 Volduchy – „Barbara; P. Mathias Foregt, M. Catharina“; kmotra Dorota Šuchová, svědci Magdalena Pechancová, Jan Kermes (Osek 01 N str. 81, sn. 42 vpravo; M, nativně ověřeno agentem). Matěj Forejt není Martin Forejt (× Alžběta) – implex nedoložen."
+        "KANDIDÁT křtu (K++): 28. 11. 1706 Volduchy – „Barbara; P. Mathias Foregt, M. Catharina“; kmotra Dorota Šuchová, svědci Magdalena Pechancová, Jan Kermes (Osek 01 N str. 81, sn. 42 vpravo; M, nativně ověřeno agentem). Matěj Forejt není Martin Forejt (× Alžběta) – implex nedoložen. Jediná Barbora Forejtová pokřtěná v Oseku IX 1700 – V 1709 (Plzeň N58); svědci Kermes a Šuchová jsou i na sňatku rodičů 1705."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O sn. 169 vlevo (1725); Osek 02 N str. 8, 26, 56, 98 (1728–1739)",
         "SOA Plzeň, Osek 01 N sn. 42 vpravo (1706); Osek 03 Z sn. 166 vlevo (1744)"
+      ]
+    },
+    {
+      id: "matej_fo0",
+      name: "Matěj Forejt",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1680)","year":1680,"approx":true,"place":"Volduchy"},
+      spouse: "katerina_pl",
+      marriage: "22. 11. 1705, Volduchy – s Kateřinou, dcerou Adama Polky",
+      notes: [
+        "KANDIDÁT (K++): otec Barbory Hanzlíkové (*28. 11. 1706). Oddán 22. 11. 1705 (z Volduch): „Copulatus est Mathias Foregt cum Catharina filia Adami Polka“; svědci Martin Blahník, Jan Kermes, Dorota Šuchová, Mariana Gyšková (?) (Osek 01 O sn. 150 vpravo; M, ověřeno koordinátorem). Pozor: ve Volduchách žil současně jiný Matěj Forejt × Barbora (dcera Kateřina 7. 5. 1702; Barbora Forejtová kmotrou ještě 1706–08) – dva Matějové (K+); který z nich † 1743 (*~1679), nerozhodnuto. Vztah k Martinu Forejtovi (× 1705 Alžběta Hanzlíková) nedoložen."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O sn. 150 vpravo (22. 11. 1705); Osek 01 N str. 81, sn. 42 vpravo (1706)"
+      ]
+    },
+    {
+      id: "katerina_pl",
+      name: "Kateřina Forejtová",
+      maiden: "Polková",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1683)","year":1683,"approx":true},
+      spouse: "matej_fo0",
+      notes: [
+        "KANDIDÁTKA (K++): matka Barbory (*1706); dcera Adama Polky, × 22. 11. 1705 Matěj Forejt (Osek 01 O sn. 150 vpravo; M); 19. 11. 1702 ještě svobodná družička (sn. 147 vpravo)."
+      ],
+      sources: [
+        "SOA Plzeň, Osek 01 O sn. 150 vpravo (22. 11. 1705); Osek 01 N str. 81, sn. 42 vpravo (1706)"
       ]
     }
   ]
