@@ -11154,34 +11154,40 @@ window.RODOKMEN = {
       spouse: "dorota_bc",
       occ: "chalupník v Ohrazenicích č. 14",
       notes: [
-        "Chalupník v Ohrazenicích (Wohrazenicích) č. 14; otec Doroty, provdané Mrázové (křest vnučky Terezie 1813, sňatek 1833 – M)."
+        "Chalupník v Ohrazenicích (Wohrazenicích) č. 14; otec Doroty, provdané Mrázové (křest vnučky Terezie 1813, sňatek 1833 – M).",
+        "Syn Matěj 23. 7. 1781 (č. 14; M). Kmotr Matěj Bečka, sedlák z Mokrého (fara Všeň) – rod Bečků snad z Mokrého (K). Sňatek s Dorotou v O Přepeře XI 1770 – XI 1774 není; úmrtí v Z 5102 Ohrazenice do 1818 (č. 14) nenalezeno (kandidát 1810 neověřen)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, O 1784–1856 (sign. 5101), oddíl Ohrazenice, snímek 134, poslední zápis (18. 2. 1833)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, kniha 5296, N sn. 208 vlevo, pag. 406 (23. 7. 1781)"
       ],
       scans: [
         {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"},
-        {"f":"img/1774_N_Beckova_Dorota_Ohrazenice.jpg","t":"Křest dcery Doroty, Ohrazenice 1774"}
+        {"f":"img/1774_N_Beckova_Dorota_Ohrazenice.jpg","t":"Křest dcery Doroty, Ohrazenice 1774"},
+        {"f":"img/1781_N_Becka_Matej_Ohrazenice14.jpg","t":"Křest syna Matěje, Ohrazenice č. 14, 1781"}
       ]
     },
     {
       id: "dorota_bc",
       name: "Dorota Bečková",
-      maiden: "Vlasová (?)",
+      maiden: "Vaníčková",
       line: "mraz",
       cert: "M",
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
       spouse: "filip_bc",
       notes: [
-        "Manželka Filipa Bečky z Ohrazenic č. 14, „rozená Vlasová (?)“ – křest vnučky Terezie 1813 (M; příjmení nejisté)."
+        "Manželka Filipa Bečky z Ohrazenic č. 14, „rozená Vlasová (?)“ – křest vnučky Terezie 1813 (M; příjmení nejisté).",
+        "Křest syna Matěje 23. 7. 1781 v Ohrazenicích č. 14: „Berzka Philippus casarius, et uxor ejus Dorothea nata Waniczkin“; kmotři Matěj Bečka, sedlák z Mokrého, a Kateřina, manželka Jakuba Plaška, sedláka z Ohrazenic (5296 sn. 208 vlevo; M, ověřeno koordinátorem) → rodné příjmení Vaníčková. ROZPOR: křest vnučky 1813 čten „Vlasová (?)“ – platí starší a čitelný zápis 1781."
       ],
       sources: [
-        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)"
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
+        "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, kniha 5296, N sn. 208 vlevo, pag. 406 (23. 7. 1781)"
       ],
       scans: [
         {"f":"img/1813_N_Mrazova_Terezie_Ohrazenice.jpg","t":"Křest vnučky Terezie, Ohrazenice 1813"},
-        {"f":"img/1774_N_Beckova_Dorota_Ohrazenice.jpg","t":"Křest dcery Doroty, Ohrazenice 1774"}
+        {"f":"img/1774_N_Beckova_Dorota_Ohrazenice.jpg","t":"Křest dcery Doroty, Ohrazenice 1774"},
+        {"f":"img/1781_N_Becka_Matej_Ohrazenice14.jpg","t":"Křest syna Matěje, Ohrazenice č. 14, 1781"}
       ]
     },
     {
@@ -11313,7 +11319,8 @@ window.RODOKMEN = {
         "Chalupník (casarius) v Ohrazenicích č. 8 (panství Rohozec); otec Jana (křest 9. 1. 1774, M). Při sňatku syna 3. 6. 1794 už nežil („syn po † Janovi Mrázovi, baráčníku“, M). Synem snad i Václav (*30. 6. 1776, č. 8 – K).",
         "Manželka Kateřina – rodné příjmení ve křtech dětí pokaždé jinak: „nata Prošniková“ (~1779), „Jelínková“ (29. 7. 1781), „Kopušilová (?)“ (25. 8. 1782) – ROZPOR, rozhodne oddací zápis (nenalezen).",
         "Sňatek s Kateřinou v O Přepeře 1758–1773 není (nejspíš ve farnosti nevěsty nebo před 1758); úmrtí v Z 1781 – IV 1784 není (→ V 1784 – VI 1794). Dcera Anna *29. 7. 1781, † 23. 8. 1781 (M). KANDIDÁT otce (K): starší Jan Mráz z Ohrazenic, † před 1763 (dcery Anna × 1763, Kateřina × 1766 „po † Janu Mrázovi“).",
-        "Zemřel 24. 2. 1794 v Ohrazenicích č. 8: „Jan Mraz, chalupník“, 50 let, „na hlmoníčku (?)“ (Z 5102, sn. 106 vpravo, pag. 8; M) → *~1744; souhlasí „syn po † Janu Mrázovi“ při sňatku syna 3. 6. 1794."
+        "Zemřel 24. 2. 1794 v Ohrazenicích č. 8: „Jan Mraz, chalupník“, 50 let, „na hlmoníčku (?)“ (Z 5102, sn. 106 vpravo, pag. 8; M) → *~1744; souhlasí „syn po † Janu Mrázovi“ při sňatku syna 3. 6. 1794.",
+        "KANDIDÁT sourozence (K): Vojtěch Mráz, „filius defuncti Joannis Mraz casarii Wohrazenicensis“, × 21. 11. 1773 Magdalena, dcera † Václava Prachty (?) (5296 O sn. 289 vlevo; M zápis) – Jan st. st. snad jeho bratr; otec Jan Mráz † před 1763."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
