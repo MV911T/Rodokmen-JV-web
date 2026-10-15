@@ -6848,6 +6848,7 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1717)","year":1717,"approx":true},
       d: {"date":"15. 5. 1787","year":1787,"place":"Černín č. p. 7"},
+      father: "jan_di0",
       spouse: "katerina_dv",
       occ: "sedlák v Černíně č. 7",
       notes: [
@@ -12737,7 +12738,8 @@ window.RODOKMEN = {
         "Ze Zdic; otec Víta Merhauta – „Vít, vlastní syn Václava Merhauta ze Zdic“ při sňatku 31. 10. 1741 (Žebrák 01 O sn. 253 vpravo; M). Při sňatku syna žil (bez „†“). Křest Víta (~1719–22) a sňatek Václava hledat v Žebrák 01 (9695).",
         "Děti s Annou (Žebrák 01 N; M): Vít Jiří 31. 5. 1720, Jiří Marek 27. 4. 1722, dvojčata František a Matěj 20. 3. 1724. Nezaměňovat s druhým Václavem Merhautem ze Zdic × Rozina/Rozálie (Martin 1721, Jan 1724). Úmrtí nehledáno (Žebrák 01 Z 1721–1743).",
         "KANDIDÁT úmrtí (K+): 2. (?) 3. 1755 Zdice (pohřben 3. 3.) – „Usnul v Pánu Václav Merhaut vdo[vec] (?), věku 72“, zaopatřen svátostmi (Zdice 01 Z sn. 204 vpravo; M zápis, ověřeno koordinátorem) → *~1683 – sedí na otce Víta (*1720); Anna Merhautová † 1750 (60) by byla jeho manželka. Václav Merhaut † 9. 9. 1754 má 40 let (ne 70) – jiný. Ve Zdicích žil 1749 i mladší pár Václav × Anna (dcera Veronika).",
-        "Další dítě s Annou: Václav 12. 12. 1717 Zdice („z otce Václava Merhauta ze Zdic, z matky Anny“; Žebrák 01 N sn. 51 vlevo; M) – sňatek Václava × Anny tedy před 1717."
+        "Další dítě s Annou: Václav 12. 12. 1717 Zdice („z otce Václava Merhauta ze Zdic, z matky Anny“; Žebrák 01 N sn. 51 vlevo; M) – sňatek Václava × Anny tedy před 1717.",
+        "Anna, manželka Václava Merhauta ze Zdic, kmotrou již 3. 12. 1713 (Žebrák 01 N sn. 44 vlevo; M) → sňatek před XII 1713 (O 1708–1715 bez něj; snad 1707 nebo dříve, Žebrák 02). Starší Václav Merhout ze Zdic † před XI 1711 (sn. 259 vlevo; K – snad otec)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, Žebrák 01 (9695), O, sn. 253 vpravo (31. 10. 1741) – https://ebadatelna.soapraha.cz/d/9695/253",
@@ -13128,6 +13130,20 @@ window.RODOKMEN = {
       sources: [
         "SOA Plzeň, Osek 01 O sn. 150 vpravo (22. 11. 1705); Osek 01 N str. 81, sn. 42 vpravo (1706)",
         "SOA Plzeň, Osek 02 Z, sn. 101 vlevo (1732)"
+      ]
+    },
+    {
+      id: "jan_di0",
+      name: "Jan Diviš",
+      line: "divis",
+      cert: "K",
+      b: {"date":"neznámé (asi 1678)","year":1678,"approx":true,"place":"Černín (?)"},
+      d: {"date":"8. 12. 1728","year":1728,"place":"Černín (fara Zdice)"},
+      notes: [
+        "KANDIDÁT (K+): otec Václava Diviše – ženich 20. 11. 1740 „Václav po † neb. Janovi Diw…“ (Žebrák 01 O sn. 252 vlevo). Pohřben 8. 12. 1728 z Černína: „pohřben Jan Diwyš, … svátostmi zaopatřený, stáří svého 50 (?) let“, P. František Hatl, kaplan (Žebrák 01 Z sn. 197 vlevo; M zápis, ověřeno koordinátorem – věk nejistý, 50/60; rok z nadpisu protější strany). Dcera Kateřina kmotrou 15. 4. 1714 („Kateřina, dcera Jana Diviše z Černína“; N sn. 44 vpravo; M) → sňatek ~1695–1700 (mimo O 1708–1716). Manželka snad Dorota Divišová (kmotra 1719; K)."
+      ],
+      sources: [
+        "SOA Praha, Žebrák 01 (9695) Z sn. 197 vlevo (1728); N sn. 44 vpravo (1714) – https://ebadatelna.soapraha.cz/d/9695/197"
       ]
     }
   ]
