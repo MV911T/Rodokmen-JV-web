@@ -12193,7 +12193,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
       spouse: "jan_rk0",
       notes: [
-        "Matka Josefa Roskopala – křest 31. 1. 1733 Hrušky „Joanne Roskopal, Anna“ (M); dcera Rosalie 6. 8. 1731. Rodné příjmení, sňatek (~1725–1731) a úmrtí nehledány."
+        "Matka Josefa Roskopala – křest 31. 1. 1733 Hrušky „Joanne Roskopal, Anna“ (M); dcera Rosalie 6. 8. 1731. Rodné příjmení, sňatek (~1725–1731) a úmrtí nehledány.",
+        "Žila ještě III 1739 (dvojčata Jiří a Marianna 7. 3. 1739, Jan Roskopal × Anna; N 13121 sn. 10 vlevo; M) → vdova Kateřina († 1793) byla Janova 2. manželka. KANDIDÁT původu (K, slabý): sňatek I–III 1731 Hrušky „Mathei (!) Roskopal × Anna, dcera Pavla Pospíšila“ (O 13120 sn. 219 vlevo; M zápis, ověřeno – ženich jasně Matěj, ne Jan) – ROZPOR jména; nezapisovat bez dalšího dokladu."
       ],
       sources: [
         "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov u Brna, N 13120, sn. 145 vlevo, str. 283 (31. 1. 1733) – https://www.mza.cz/actapublica/matrika/detail/1946",
