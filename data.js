@@ -7288,20 +7288,24 @@ window.RODOKMEN = {
       maiden: "Holubová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1722)","year":1722,"approx":true,"place":"Osek u Rokycan"},
+      b: {"date":"neznámé (asi 1716, kandidátní křest – viz poznámky)","year":1716,"approx":true,"place":"Osek u Rokycan"},
       father: "matej_ho",
+      mother: "anna_hlv",
       spouse: "matej_ca",
       marriage: "3. 11. 1744, Osek – s Matoušem Čadou",
       notes: [
-        "Dcera † Matěje Holuba z Oseka; matka Barbory Forejtové (*1745)."
+        "Dcera † Matěje Holuba z Oseka; matka Barbory Forejtové (*1745).",
+        "KANDIDÁT křtu (K+): 16. 1. 1716 z Oseka – „Eva, dcera Matěje Holubického (?) a Anny, manželky jeho“; levans Lidmila Křížková (?), svědci Eva Lorencová z Volduch a Jan … (Osek 01 N str. 144, sn. 74 vlevo; M zápis, ověřeno koordinátorem). Jediná Eva, dcera Matěje Holuba, 1709–1739; sestra Kateřina 6. 11. 1719 (kmotr Jan Lorenc); věk 28 při sňatku 1744 sedí."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o",
-        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl N, snímek 28 – https://www.portafontium.eu/iipimage/30066669/osek-03_0280-n"
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl N, snímek 28 – https://www.portafontium.eu/iipimage/30066669/osek-03_0280-n",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 N str. 144 (sn. 74 vlevo, 1716), Osek 01 O str. 312 (sn. 158 vlevo, 1715)"
       ],
       scans: [
         {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"},
-        {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"}
+        {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"},
+        {"f":"img/1716_N_Holubova_Eva_Osek.jpg","t":"Křest Evy, Osek 16. 1. 1716 (kandidát)"}
       ]
     },
     {
@@ -7331,15 +7335,21 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
       d: {"date":"před 3. 11. 1744","year":1744,"approx":true},
+      spouse: "anna_hlv",
       occ: "Osek",
+      marriage: "17. 2. 1715, Osek – s Annou Vlčkovou (?)",
       notes: [
-        "Otec Evy Čadové (sňatek 1744: „po nebožtíkovi Matějovi Holubovi ze vsi Oseka“)."
+        "Otec Evy Čadové (sňatek 1744: „po nebožtíkovi Matějovi Holubovi ze vsi Oseka“).",
+        "Oddán 17. 2. 1715 v Oseku: „Matěj Holubický s Annou Vlčkovou (?), oba poddaní panství Oseckého“; družba Daniel Grül (?), družička Kateřina Danielka (?) (Osek 01 O str. 312, sn. 158 vlevo; M zápis, ověřeno; příjmení nevěsty nejisté). KANDIDÁT otce (K): Matěj Holub (Holubický) z Oseka, † před 23. 10. 1712 (dcery Anna × 1712, Kateřina × 1714 „po neb. Matějovi Holubickém“)."
       ],
       sources: [
-        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o"
+        "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o",
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 N str. 144 (sn. 74 vlevo, 1716), Osek 01 O str. 312 (sn. 158 vlevo, 1715)"
       ],
       scans: [
-        {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"}
+        {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"},
+        {"f":"img/1715_O_Holub_Matej_Vlckova_Anna_Osek.jpg","t":"Sňatek s Annou Vlčkovou (?), Osek 17. 2. 1715"},
+        {"f":"img/1716_N_Holubova_Eva_Osek.jpg","t":"Křest dcery Evy, Osek 1716"}
       ]
     },
     {
@@ -12398,6 +12408,26 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1740_N_Becka_Filip_Mokre.jpg","t":"Křest syna Filipa, Mokré 1740"},
         {"f":"img/1733_O_Becka_Jan_Janku_Magdalena_Vsen.jpg","t":"Sňatek s Janem Bečkou, Všeň 1733"}
+      ]
+    },
+    {
+      id: "anna_hlv",
+      name: "Anna Holubová",
+      maiden: "Vlčková (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
+      spouse: "matej_ho",
+      marriage: "17. 2. 1715, Osek – s Matějem Holubem",
+      notes: [
+        "Manželka Matěje Holuba (Holubického) z Oseka – sňatek 17. 2. 1715 (Osek 01 O sn. 158 vlevo; M, příjmení Vlčková nejisté); matka dětí 1716–1732 (Eva 1716, Kateřina 1719 …). KANDIDÁT úmrtí (K): Anna Holubová † 15. 8. 1744, 58 let (Osek 03 Z sn. 166 vpravo) – neověřeno."
+      ],
+      sources: [
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 N str. 144 (sn. 74 vlevo, 1716), Osek 01 O str. 312 (sn. 158 vlevo, 1715)"
+      ],
+      scans: [
+        {"f":"img/1715_O_Holub_Matej_Vlckova_Anna_Osek.jpg","t":"Sňatek s Matějem Holubem, Osek 1715"},
+        {"f":"img/1716_N_Holubova_Eva_Osek.jpg","t":"Křest dcery Evy, Osek 1716"}
       ]
     }
   ]
