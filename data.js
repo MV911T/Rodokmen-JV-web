@@ -6331,15 +6331,17 @@ window.RODOKMEN = {
       name: "František Spačil",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1775","year":1775,"approx":true,"place":"Křenovice"},
+      b: {"date":"neznámé (asi 1773, kandidátní křest – viz poznámky)","year":1773,"approx":true,"place":"Křenovice č. p. 34"},
       d: {"date":"před 9. 7. 1837","year":1837,"approx":true},
+      father: "jan_sp0",
+      mother: "anna_sp0",
       spouse: "marianna_sp",
       occ: "patentální invalida (1805), domkář (1814), pololáník v Křenovicích č. 82",
       marriage: "7. 5. 1805, Křenovice – s Mariannou Zrůnkovou (?)",
       notes: [
         "Otec Veroniky Kučerové.",
         "Oddán 7. 5. 1805 v Křenovicích (č. 82) jako „Patental Invalid“, 30 let, s Mariannou, dcerou Ondřeje Zrůnka (?) z č. 53 (22 let); svědci Matěj a Pavel Spačilové, třičtvrtníci. Pozor: na téže straně jiný František Spačil (č. 70) × Marianna Hložková.",
-        "KANDIDÁT křtu (K): 27. I 1773 Křenovice č. 34 – „Franciscus; Joann Spačil (?) et Anna uxor; patrini Jakub Hořiček (?) & Rosalia“ (N 13121 sn. 248 vlevo; M zápis) – jediný František Spačil v N X 1772 – XII 1776; v Křenovicích ale 1805 dva ženiši František Spačil (č. 82 a č. 70) a v l. 1773–76 aspoň čtyři otcové Spačilové → nerozhodnuto."
+        "KANDIDÁT křtu (K+; ověřeno koordinátorem): 27. I 1773 Křenovice č. 34 – „Franciscus; Joann Spačil (?) et Anna uxor; patrini Jakub Hořiček (?) & Rosalia“ (N 13121 sn. 248 vlevo; M zápis) – jediný František Spačil v N X 1772 – XII 1776; v Křenovicích ale 1805 dva ženiši František Spačil (č. 82 a č. 70) a v l. 1773–76 aspoň čtyři otcové Spačilové → druhý ženich František Spačil (č. 70, 4. 11. 1805) byl 22letý vdovec (O 13137 sn. 71; M) – křest 1773 tedy patří našemu Františkovi (č. 82, „30, svobodný“); jiný František Spačil v N I 1771 – XII 1778 není."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
@@ -6350,7 +6352,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1805_O_13137_sn71_str78_Spacil_Frantisek_x_Marianna_Andreas_Zrunek_plne_rozl.jpg","t":"Sňatek Františka Spačila a Marianny Zrůnkové (?), Křenovice 7. 5. 1805"},
-        {"f":"img/1814_N_13123_sn205_str212_Krenovice_c82_Spacilova_Veronika_radek_plne_rozl.jpg","t":"Křest dcery Veroniky Spačilové, Křenovice 28. 1. 1814"}
+        {"f":"img/1814_N_13123_sn205_str212_Krenovice_c82_Spacilova_Veronika_radek_plne_rozl.jpg","t":"Křest dcery Veroniky Spačilové, Křenovice 28. 1. 1814"},
+        {"f":"img/1773_N_Spacil_Frantisek_Krenovice34.jpg","t":"Křest 27. 1. 1773, Křenovice č. 34 (kandidát)"}
       ]
     },
     {
@@ -13609,6 +13612,40 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1752_O_Cerveny_Vojtech_Kosle_Anna_Knizkovice.jpg","t":"Sňatek dcery Anny, 1752"}
+      ]
+    },
+    {
+      id: "jan_sp0",
+      name: "Jan Spačil",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true,"place":"Křenovice"},
+      spouse: "anna_sp0",
+      notes: [
+        "KANDIDÁT (K+): otec Františka Spačila – křest 27. 1. 1773 Křenovice č. 34: „Franciscus; Joann Spačil, Anna uxor; patrini Jacob Hořiček (?) & Rosalia uxor“ (N 13121 sn. 248 vlevo; M zápis). V Křenovicích tehdy více Janů Spačilů (× Anna, × Viktorie) – rozlišovat podle manželky."
+      ],
+      sources: [
+        "MZA Brno, N 13121, sn. 248 vlevo (27. 1. 1773) – https://www.mza.cz/actapublica/matrika/detail/1948"
+      ],
+      scans: [
+        {"f":"img/1773_N_Spacil_Frantisek_Krenovice34.jpg","t":"Křest syna Františka, 1773"}
+      ]
+    },
+    {
+      id: "anna_sp0",
+      name: "Anna Spačilová",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      spouse: "jan_sp0",
+      notes: [
+        "KANDIDÁTKA (K+): matka Františka Spačila (křest 1773, viz Jan Spačil)."
+      ],
+      sources: [
+        "MZA Brno, N 13121, sn. 248 vlevo (27. 1. 1773) – https://www.mza.cz/actapublica/matrika/detail/1948"
+      ],
+      scans: [
+        {"f":"img/1773_N_Spacil_Frantisek_Krenovice34.jpg","t":"Křest syna Františka, 1773"}
       ]
     }
   ]
