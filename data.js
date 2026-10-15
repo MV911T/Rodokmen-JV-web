@@ -7481,7 +7481,8 @@ window.RODOKMEN = {
         {"f":"img/1798_oddani_prokop_laukota_hirt_x_anna_holub_osek10_osek07_sn14.jpg","t":"Sňatek Prokopa Laukoty a Anny Holubové, Osek 16. 1. 1798"},
         {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"},
         {"f":"img/1793_Z_Holubova_Katerina_Osek.jpg","t":"Úmrtí manželky Kateřiny, Osek 1793"},
-        {"f":"img/1803_Z_Holub_Simon_Osek85.jpg","t":"Úmrtí 27. 11. 1803, Osek č. 85"}
+        {"f":"img/1803_Z_Holub_Simon_Osek85.jpg","t":"Úmrtí 27. 11. 1803, Osek č. 85"},
+        {"f":"img/1740_Z_Holub_Kaspar_Osek.jpg","t":"Úmrtí otce Kašpara Holuba, Osek 1740"}
       ]
     },
     {
@@ -8414,21 +8415,23 @@ window.RODOKMEN = {
       name: "Kašpar Holub",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true},
-      d: {"date":"před 8. 10. 1752","year":1752,"approx":true,"place":"Osek u Rokycan (?)"},
+      b: {"date":"neznámé (asi 1696)","year":1696,"approx":true},
+      d: {"date":"11. 6. 1740","year":1740,"place":"Osek u Rokycan"},
       spouse: "ludmila_hb0",
       notes: [
-        "Z Oseku; zemřel před 8. 10. 1752 – při ohláškách syna Jakuba je „† Kašpar Holub ze wsi Woska“ (Osek 03 O str. 98, sn. 133 vlevo; M zápis, ověřeno koordinátorem). Děti v Oseku 1728–1760 (rejstříky N ověřeny v zápisech): Matěj *21. 2. 1731 a Šimon *4. 10. 1732 (matka Ludmila); mimo rejstříky ještě Lidmila *10. 12. 1726 Osek (matka Lidmila; Osek 01 N sn. 125) a Matěj († 13. 3. 1731, 3 neděle, Osek 02 Z) – D; sňatek s Ludmilou není v O Osek V 1725 – VI 1731.",
-        "Křest Šimona 13. 10. 1746 dříve chybně přičten Kašparovi – otcem je Josef Holub × Kateřina (Plzeň N39); rozpor o dvou manželkách tím odpadá. Úmrtí Kašpara v Oseku X 1746 – II 1763 nenalezeno.",
+        "Z Oseku; zemřel 11. 6. 1740 (pohřben 13. 6.) v Oseku: „Kasspar Holub“, svátostmi zaopatřený, stáří 44 (?) let (Osek 03 Z sn. 156 vpravo; M, ověřeno koordinátorem; jediný Kašpar Holub v Oseku 1721–1752). V r. 1752 je při ohláškách syna Jakuba „† Kašpar Holub ze wsi Woska“ (Osek 03 O str. 98, sn. 133 vlevo; M zápis, ověřeno koordinátorem). Děti v Oseku 1728–1760 (rejstříky N ověřeny v zápisech): Matěj *21. 2. 1731 a Šimon *4. 10. 1732 (matka Ludmila); mimo rejstříky ještě Lidmila *10. 12. 1726 Osek (matka Lidmila; Osek 01 N sn. 125) a Matěj († 13. 3. 1731, 3 neděle, Osek 02 Z) – D; sňatek s Ludmilou není v O Osek V 1725 – VI 1731.",
+        "Křest Šimona 13. 10. 1746 dříve chybně přičten Kašparovi – otcem je Josef Holub × Kateřina (Plzeň N39); rozpor o dvou manželkách tím odpadá.",
         "Vnuk Kašpar (syn Šimona, *21. 6. 1771) zemřel 10. 7. 1771 v Oseku č. 85.",
-        "KANDIDÁT (K): spíš bratr než syn Matěje Holuba (*~1683 † 1733) – Kašpar měl děti už od 1721 (Jakub, K) a 1726, narodil se tedy nejpozději ~1698; snad syn Matěje st. († před X 1712). Křest hledat v Osek 01 N 1689–1700.",
-        "Syn Jakub („pozůstalý vlastní syn po † Kašparovi Holubovi ze wsi Woska“) × 29. 10. 1752 Osek Anna, vlastní dcera Josefa Gotfrida z Oseka; družba Adam Holub z Vytinky (Osek 03 O sn. 133 vlevo; M). Snad týž Jakub, „syn Kašpara Holuba (?) a Lidmily“, pokřtěný 3. 10. 1721 (Osek 01 N sn. 100 vpravo; K, neověřeno). Úmrtí Kašpara v Osek Z X 1732 – XII 1739 a V 1745 – 1752 není; zbývá I 1740 – V 1745."
+        "Syn Jakub („pozůstalý vlastní syn po † Kašparovi Holubovi ze wsi Woska“) × 29. 10. 1752 Osek Anna, vlastní dcera Josefa Gotfrida z Oseka; družba Adam Holub z Vytinky (Osek 03 O sn. 133 vlevo; M). Jakub pokřtěn 4. 10. 1721 (*3. 10.) v Oseku: „Jakub, vlastní syn Kašpara Holuba a Lydmilly manželky jeho“ (Osek 01 N sn. 100 vpravo; M) – nejstarší známé dítě; sňatek Kašpara × Ludmily není v Osek 01 O 1712 – X 1721. Křest Kašpara (~1696) v Oseku nelze – mezera N ~1688 – VIII 1700.",
+        "KANDIDÁT (K): spíš bratr než syn Matěje Holuba (*~1683 † 1733) – Kašpar měl děti už od 1721 (Jakub) a při úmrtí 1740 měl ~44 let; snad syn Matěje st. († před X 1712). Křest v Oseku nedohledatelný (mezera N ~1688 – VIII 1700)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 04 (O), snímek 75 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_0750-o",
-        "SOA Plzeň, Osek 03 O, str. 98, sn. 133 vlevo – https://www.portafontium.eu/iipimage/30066669/osek-03_1330-o"
+        "SOA Plzeň, Osek 03 O, str. 98, sn. 133 vlevo – https://www.portafontium.eu/iipimage/30066669/osek-03_1330-o",
+        "SOA Plzeň, Osek 03 Z, sn. 156 vpravo – https://www.portafontium.eu/iipimage/30066669/osek-03_1560-z"
       ],
       scans: [
+        {"f":"img/1740_Z_Holub_Kaspar_Osek.jpg","t":"Úmrtí 11. 6. 1740, Osek"},
         {"f":"img/1763_O_Holub_Simon_Katerina_Osek.jpg","t":"Sňatek Šimona Holuba, syna † Kašpara, s vdovou Kateřinou, Osek 13. 2. 1763"},
         {"f":"img/1732_N_Holub_Simon_Osek.jpg","t":"Křest syna Šimona, Osek 1732"}
       ]
@@ -12540,7 +12543,7 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1702)","year":1702,"approx":true},
       spouse: "kaspar_hl",
       notes: [
-        "Manželka Kašpara Holuba z Oseka, matka Ludmily (*10. 12. 1726), Matěje (*21. 2. 1731) a Šimona (*4. 10. 1732) (Osek 01–02 N; M). Rodné příjmení neznámé; sňatek není v O Osek V 1725 – VI 1731.",
+        "Manželka Kašpara Holuba z Oseka, matka Jakuba (*3. 10. 1721), Ludmily (*10. 12. 1726), Matěje (*21. 2. 1731) a Šimona (*4. 10. 1732) (Osek 01–02 N; M). Rodné příjmení neznámé; sňatek není v O Osek V 1725 – VI 1731. Ovdověla 11. 6. 1740.",
         "KANDIDÁT úmrtí (K+): „Lidmilla Holubová“ † 6. 3. 1753 Osek, 51 let, bez uvedení manžela (Osek 03 Z sn. 183 vpravo) → *~1702; v Oseku 1756 žila i Ludmila, manželka Jana Holuba."
       ],
       sources: [
