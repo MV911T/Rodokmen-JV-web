@@ -8753,7 +8753,8 @@ window.RODOKMEN = {
         "Ve stejné době žil ve Volduchách Matěj Lomryk (?) × Kateřina (syn Václav 18. 9. 1712) – dřívější čtení „Matěj Forejt“ chybné.",
         "Křest v Osek 01 N XII 1673 – 1687 není; kniha má mezery IV–IX 1680, XI 1681 – I 1683, VI 1683 – V 1687 („hic desunt quatuor anni“) a část křtů je v matrice Rokycany.",
         "KANDIDÁT křtu (K+): „Die 5. Novembris pokřtěno dítě z Wolduch jménem Martin, rodičové Jakub Foregt, manželka Kateřina“; kmotři Martin Tomanek, Šebestián Brada, Markéta Budinová (Rokycany 01 N, pag. 256, sn. 135 vlevo; M zápis, rok 1676 – po zápisech z 27. 12. následuje na pag. 259 nadpis „Letha Páně 1677“; ověřeno koordinátorem). Tentýž kmotr Šebestián Brada jako u bratra Matěje (*1679).",
-        "Sourozenci (M): Matěj (26. 2. 1679, Osek), Anna (31. 5. 1681, Osek), Magdalena (7. 4. 1686, Volduchy; Rokycany 02 pag. 35) – vždy kmotr Šebestián Brada."
+        "Sourozenci (M): Matěj (26. 2. 1679, Osek), Anna (31. 5. 1681, Osek), Magdalena (7. 4. 1686, Volduchy; Rokycany 02 pag. 35) – vždy kmotr Šebestián Brada.",
+        "Pohřeb 20. 10. 1716 ve Volduchách: „Jakub Foregt, věku svého 65 let“ (Osek 01 Z sn. 176 vpravo; M zápis) – kandidát na otce Martina (kandidátní křest 1676: Jakub × Kateřina; K). Syn Václav (*~1713) † 15. 2. 1719, „synáček Martina Forejta“ (sn. 180 vpravo; M)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
@@ -13118,7 +13119,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁT (K++): otec Barbory Hanzlíkové (*28. 11. 1706). Oddán 22. 11. 1705 (z Volduch): „Copulatus est Mathias Foregt cum Catharina filia Adami Polka“; svědci Martin Blahník, Jan Kermes, Dorota Šuchová, Mariana Gyšková (?) (Osek 01 O sn. 150 vpravo; M, ověřeno koordinátorem). Pozor: ve Volduchách žil současně jiný Matěj Forejt × Barbora (dcera Kateřina 7. 5. 1702; Barbora Forejtová kmotrou ještě 1706–08) – dva Matějové (K+); který z nich † 1743 (*~1679), nerozhodnuto. Vztah k Martinu Forejtovi (× 1705 Alžběta Hanzlíková) nedoložen.",
         "Jako vdovec oddán 28. 7. 1733 ve Volduchách s vdovou Lidmilou po † Ondřejovi Firkovi (?); faktor Prokop Hanzlík z Volduch – jeho zeť (Osek 02 O sn. 74 vlevo; M, nativně) → ženich 1733 je tento Matěj (Barbora, žena druhého Matěje, žila do 1734). Který Matěj Forejt † 1743 (64), nerozhodnuto.",
-        "KANDIDÁT úmrtí (K+): Matěj Forejt † 1743, 64 let (Osek 03 Z; dřívější relace) – jediný Matěj doložený po 1706; Matěj × Barbora po 1702 už děti nemá (snad brzy zemřel). Lidmila Forejtová v Osek 03 Z II 1743 – IX 1744 nezemřela."
+        "KANDIDÁT úmrtí (K+): Matěj Forejt † 1743, 64 let (Osek 03 Z; dřívější relace) – jediný Matěj doložený po 1706; Matěj × Barbora po 1702 už děti nemá (snad brzy zemřel). Lidmila Forejtová v Osek 03 Z II 1743 – IX 1744 nezemřela.",
+        "Druhý Matěj Forejt (× Barbora) v Osek 01 Z 1705–1727 nezemřel (Plzeň N61–N62) → buď † 1702–1704, nebo je † 1743 jeho; K+ pro tohoto Matěje beze změny."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O sn. 150 vpravo (22. 11. 1705); Osek 01 N str. 81, sn. 42 vpravo (1706)"
@@ -13136,7 +13138,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁTKA (K++): matka Barbory (*1706); dcera Adama Polky, × 22. 11. 1705 Matěj Forejt (Osek 01 O sn. 150 vpravo; M); 19. 11. 1702 ještě svobodná družička (sn. 147 vpravo).",
         "Zemřela 11. 4. 1732 ve Volduchách (pohřbena 13. 4.): „Kateřina Foregtová … stáří 47 let“, bez uvedení manžela (Osek 02 Z str. 186, sn. 101 vlevo; M zápis, K+) → *~1685. Křest nenalezen (Osek 01 N II 1680 – II 1681 bez ní, VI 1683 – V 1687 v knize chybí; Adam Polka není v rejstříku Rokycany 02 P). Bratr (K+): Vojtěch, syn Adama Polky a Marie (?), pokřtěn 23. 4. 1681 Volduchy (Osek 01 N sn. 15 vlevo; M), † 30. 5. 1734 Volduchy, „něco přes padesát let“ (Osek 02 Z sn. 109 vpravo; M). Ondřej 1680 je syn Adama Bolka – nepatří. Adam Polka v Osek 02 Z 1728 – II 1732 nezemřel.",
-        "Polkové v Osek 01 Z (K): † 29. 5. 1710 Anna Polka z Volduch, 48 let (sn. 199 vpravo); pohřeb 22. 3. 1711 Mařena (Marjana) Polková (?), 73 let (sn. 200 vlevo) – snad matka (Mařa, 1681). Adam Polka v Osek 01 Z I 1705 – V 1713 a III 1722 – XI 1727 nezemřel; VI 1713 – II 1722 nepřečteno."
+        "Polkové v Osek 01 Z (K): † 29. 5. 1710 Anna Polka z Volduch, 48 let (sn. 199 vpravo); pohřeb 22. 3. 1711 Mařena (Marjana) Polková (?), 73 let (sn. 200 vlevo) – snad matka (Mařa, 1681). Adam Polka v Osek 01 Z I 1705 – V 1713 a III 1722 – XI 1727 nezemřel; VI 1713 – II 1722 nepřečteno.",
+        "Ondřej Polka (?) z Volduch pohřben VI 1717, 70 let (Osek 01 Z sn. 179 vlevo; M zápis) – příbuzný (bratr ?) Adama (K). Adam Polka v Osek 01 Z 1705–1727 ani Osek 02 Z 1728–II 1732 nezemřel → † před 1705."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O sn. 150 vpravo (22. 11. 1705); Osek 01 N str. 81, sn. 42 vpravo (1706)",
