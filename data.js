@@ -3266,7 +3266,7 @@ window.RODOKMEN = {
         "Otcovství doloženo oddacím zápisem syna Jana 10. 6. 1815 v Jetřichovci (fara Pacov): „Jan, syn Martina Wottawy, sedláka (?)“, Jetřichovec č. 23 (?).",
         "Otec Jana Votavy; nádeník v Jetřichovicích č. 22 (křty vnoučat 1834, 1836), podle sňatku syna 1844 „bývalý chalupník z Cetule“ (dříve čteno „z Letů / L?tůh“) – zemřel před 1844.",
         "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno.",
-        "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Syn Jan žil v Jetřichovci (č. 10) už 1816–1819 – úmrtí 1828 (č. 27, 60 let) a 1833 (Terezie, č. 42, 60 let) tak patří nejspíš Janovým rodičům; číslo 22 zatím nedoloženo.",
+        "KANDIDÁT: úmrtí v Jetřichovci u Pacova 1828 (Martin Wotawa, podruh, č. 27) a 1833 (Terezie, vdova, č. 42) – posíleno: křest vnuka Václava 1868 (Pravonín) uvádí Jana Votavu „z Jetřichovic č. 22, okres Pacovský v Táborsku“; Jetřichovice u Sedlce do okresu Pacov nepatřily. Syn Jan žil v Jetřichovci (č. 10) už 1816–1819 – úmrtí 1828 (č. 27, 60 let) a 1833 (Terezie, č. 42, 60 let) tak patří nejspíš Janovým rodičům; číslo 22 zatím nedoloženo. ROZPOR (Třeboň N13): oddací zápis syna Jana 6. 2. 1844 píše „syn † Martina Wotawy … a matky Terezie“ – křížek jen u Martina, ne u Terezie (u rodičů nevěsty v témže zápisu oba křížky) → Terezie v r. 1844 nejspíš žila, což odporuje † Terezie 1833 (č. 42), a tím i † Martina 1828 (č. 27). Křty vnoučat 1834 a 1836 (Martin „nádeník z Getřichowic No 22“, bez křížku) to nerozhodnou – táž ruka křížky nepíše vůbec. Ztotožnění oslabeno (K).",
         "Vyloučeno: „Martin Votava, jehlář v Lukavci č. 71“ (děti 1794–1804) je ve skutečnosti Martin Vokoun (Wokoun) – jiná rodina. Údaj „bývalý chalupník z Lstůh / Letůh (?)“ a „Terezie roz. Martina Marody též z Lstůh (?)“ pochází z 2. sňatku syna Jana (Těchobuz 6. 2. 1844) a patří tedy Votavům – obec neurčena (snad „z Luhů“ ?).",
         "KANDIDÁTI rodičů (K): Tomáš Votava, výminkář v Cetuli č. 4, a Magdalena († 13. 11. 1807 Cetule č. 4, 66 (?) let – „Magdalena manž. Tomáše Wotawy, wejminkáře“; Z 8206, sn. 26 vlevo; M zápis, příjmení ověřeno srovnáním písmene W). V č. 4 hospodařil Jan Votava (× Magdalena Dajzová) – snad Martinův bratr. Vazba nedoložena. Úmrtí Tomáše v Z 8206 do 1821 není. Jan Wotawa, sedlák v č. 4, × Rozalie Ma…ová (?) (křest dcery Magdaleny 1802).",
         "Jan Wotawa z Cetule č. 4 (snad mladší bratr, K) se 20. 1. 1801 oženil podruhé – vdovec, 27 let (→ *~1774), s Rozárou Mazinec (?) (8197 sn. 4 vpravo; M); formulář rodiče neuvádí.",
@@ -3309,7 +3309,8 @@ window.RODOKMEN = {
         "Terezie † 1833 (60 let → *~1773) nemůže být dcerou Martina Maredy oddaného 1787 v Lomné (24 let) – buď starší Martin Maroda, nebo chybné věky. „Lom-nice č. 23“ (1834) / „z Lomnic č. 23“ (1836) – obec neověřena.",
         "Oddána 20. 1. 1789 v Bratřicích s Martinem Votavou, 19 (?) let (M). Marodové žili i v Bratřicích (1789 ženich Bartoloměj Maroda, svědkyně Terezie a Magdalena Marodová – K).",
         "KANDIDÁT příbuzného (K): Bartoloměj Mareda, Bratřice č. 7 (dům sňatku 1789), † ~XII 1813, 50 let (Z 8206 sn. 49) – snad bratr Terezie; Martin dal prvnímu synovi jméno Bartoloměj (1792).",
-        "Oddací zápis 1789 znovu přečten zvětšeně: „Terezia Marode“, 19 let (8196 sn. 3, pag. II, No 7; M) – krátké příjmení, ne Mařincová (Mařincovi jsou v Bratřicích samostatná rodina)."
+        "Oddací zápis 1789 znovu přečten zvětšeně: „Terezia Marode“, 19 let (8196 sn. 3, pag. II, No 7; M) – krátké příjmení, ne Mařincová (Mařincovi jsou v Bratřicích samostatná rodina).",
+        "Úmrtí: kandidátka † 27. 6. 1833 Jetřichovec 42 je oslabena – v r. 1844 je u ní na rozdíl od manžela bez křížku (Třeboň N13). Hledat † po 1844 (Těchobuz 8825/8826, Zhoř)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -9097,7 +9098,8 @@ window.RODOKMEN = {
       occ: "mlynář, Salačova Lhota č. 24 (mlýn Hatzburg / Holzburg)",
       notes: [
         "Mlynář v „Holzburger“ mlýně (?) – obec nejasná (snad u Salačovy Lhoty, fara Lukavec); otec Ludmily Karafiátové.",
-        "Zemřel 28. 10. 1822 (pohřben 29.) v Salačově Lhotě č. 24: „Pawel Lhotka, Müllner“, věk 7? let (druhá číslice nečitelná) (Z 5381 pag. 16, sn. 172 vlevo; M, ověřeno koordinátorem). Mlýn „Hatzburgk / Holzburg“ = Salačova Lhota č. 24 (syn František † ~1820–21, 15 let, „Mühle Hatzburgk No 24 zu Lhota“, pag. 15). Lhotkovi jsou v Salačově Lhotě až od 1787 – sňatek a křest Ludmily nejspíš mimo faru Lukavec."
+        "Zemřel 28. 10. 1822 (pohřben 29.) v Salačově Lhotě č. 24: „Pawel Lhotka, Müllner“, věk 7? let (druhá číslice nečitelná) (Z 5381 pag. 16, sn. 172 vlevo; M, ověřeno koordinátorem). Mlýn „Hatzburgk / Holzburg“ = Salačova Lhota č. 24 (syn František † ~1820–21, 15 let, „Mühle Hatzburgk No 24 zu Lhota“, pag. 15). Lhotkovi jsou v Salačově Lhotě až od 1787 – sňatek a křest Ludmily nejspíš mimo faru Lukavec.",
+        "Věk při úmrtí 1822 čten zvětšeně „78 (?)“ (5381 sn. 172 vlevo, pag. 16) → *~1744 (K); nemoc nečitelná."
       ],
       sources: [
         "SOA Třeboň, fara Lukavec, N Mezilesí 1812–1876 (kniha 5371), pag. 19, snímek 13 vpravo (19. 4. 1819) – https://digi.ceskearchivy.cz/5371",
