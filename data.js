@@ -6837,11 +6837,14 @@ window.RODOKMEN = {
       notes: [
         "Otec Josefa Diviše (sňatek 1773).",
         "KANDIDÁT: 1772 svědčí „Mathias Diwisch, Rusticus ex Gernin“, 62 let (*~1710) – příbuznost neznámá.",
-        "Zemřel 15. 5. 1787 v Černíně č. 7: „Václav Diviš, sedlák z Černína patřícího ku Králo-Dvoru“, 70 let (Zdice 02 sn. 332, 4. zápis; M). Manželka Kateřina † 24. 3. 1787 tamtéž, 70 let. Děti (Zdice 01 N): František 1745, Kateřina 1746, Matěj 1750, Jan Václav 1752; Josef (*před 1744)."
+        "Zemřel 15. 5. 1787 v Černíně č. 7: „Václav Diviš, sedlák z Černína patřícího ku Králo-Dvoru“, 70 let (Zdice 02 sn. 332, 4. zápis; M). Manželka Kateřina † 24. 3. 1787 tamtéž, 70 let. Děti (Zdice 01 N): František 1745, Kateřina 1746, Matěj 1750, Jan Václav 1752; Josef (*před 1744).",
+        "Dcera Dorota pokřtěna 9. 1. 1743 (*8. 1.) z Černína, poddaní Králodvorští: „Václava Diviše otce, Kateřiny matky“ (Žebrák 01 sn. 156 vpravo; M, ověřeno koordinátorem) – nejstarší známé dítě.",
+        "KANDIDÁT sňatku (K): 20. 11. 1740 z Černína „Václav po † neb. Janovi Divi[šovi] (?) s Kateřinou po † neb. Matějovi (?) Hladkovi z B… (?)“ (Žebrák 01 sn. 252 vlevo; příjmení ženicha uříznuto u hřbetu – nutno přečíst v plném rozlišení). Pokud platí: otec Jan Diviš, tchán Matěj (?) Hladký, oba † před 1740. Josefův křest v N Černín XI 1740 – 1743 zatím nenalezen (střední negativ)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316",
-        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 02 (Z), Černín, sn. 332 (1787) – https://ebadatelna.soapraha.cz/d/9096/332"
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 02 (Z), Černín, sn. 332 (1787) – https://ebadatelna.soapraha.cz/d/9096/332",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Žebrák (Zdice), Žebrák 01 (N 1663–1743, O 1707–1743), sn. 156 vpravo (N 1743) a sn. 252 vlevo (O 1740) – https://ebadatelna.soapraha.cz/d/9695/156"
       ],
       scans: [
         {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776 (dítě: Josef Diviš)"},
@@ -12540,10 +12543,12 @@ window.RODOKMEN = {
       spouse: "vaclav_di",
       notes: [
         "KANDIDÁTKA (K): matka Josefa Diviše – manželka Václava Diviše a matka jeho dětí 1745–1752 (Zdice 01 N; M); Josefův křest (před 1744) nenalezen.",
-        "Zemřela 24. 3. 1787 v Černíně č. 7: „Katharina, manželka Václava Diviše, sedláka z Černína“, 70 let (Zdice 02 sn. 332, 2. zápis; M). Rodné příjmení neuvedeno."
+        "Zemřela 24. 3. 1787 v Černíně č. 7: „Katharina, manželka Václava Diviše, sedláka z Černína“, 70 let (Zdice 02 sn. 332, 2. zápis; M). Rodné příjmení neuvedeno.",
+        "KANDIDÁT (K): rodným příjmením snad Hladká – sňatek 20. 11. 1740 (viz Václav Diviš). Dcera Dorota *8. 1. 1743 (Žebrák 01 sn. 156 vpravo; M)."
       ],
       sources: [
-        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 02 (Z), Černín, sn. 332 (1787) – https://ebadatelna.soapraha.cz/d/9096/332"
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 02 (Z), Černín, sn. 332 (1787) – https://ebadatelna.soapraha.cz/d/9096/332",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Žebrák (Zdice), Žebrák 01 (N 1663–1743, O 1707–1743), sn. 156 vpravo (N 1743) a sn. 252 vlevo (O 1740) – https://ebadatelna.soapraha.cz/d/9695/156"
       ],
       scans: [
         {"f":"img/1787_Z_Divis_Vaclav_Katerina_Cernin7.jpg","t":"Úmrtí 24. 3. 1787, Černín č. 7"}
