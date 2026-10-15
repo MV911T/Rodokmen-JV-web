@@ -12124,7 +12124,7 @@ window.RODOKMEN = {
         "Oddán 31. 10. 1741 (ze Zdic): „Ženich Vít, vlastní syn Václava Merhauta ze Zdic. Nevěsta Anna, vlastní dcera po neb. Blažejovi Šmidovi“; svědci Václav Mrázek z Bavoryně, Maximiliána Wajsfortová (?) z Chodouně, Vojtěch Zvonek z Hředel (Žebrák 01 O sn. 253 vpravo; M, ověřeno koordinátorem; rok z okolních zápisů). Zdické matriky do 1743 jsou v knize Žebrák 01 (9695).",
         "Zemřel v říjnu 1781 (den 5 ?) ve Zdicích č. 21: „Vitus Merhout, rusticus Zdiensis, in silva ab arbore ad mortem concussus“ (v lese zabit stromem), bez zaopatření, 60 let (Zdice 01 Z, sn. 261 vpravo; M) – skutečně 61. Vyvrácen kandidátní křest Víta 1. 6. 1732 v Bavoryni (syn Martina × Marie Magdaleny) – věkově nesedí (TODO kap. 4).",
         "Sourozenci: Jiří Marek (1722), dvojčata František a Matěj (1724). Syn Josef Václav pokřtěn 4. 3. 1744 ve Zdicích – „Víta Merhauta otce, Anny mateře“ (Zdice 01 sn. 4 vlevo; M).",
-        "Syn František (~VIII 1742) † VIII 1743, 1 rok („František, syn Víta Merhouta“; Žebrák 01 Z sn. 225 vpravo; M)."
+        "Syn Jakub František *14. 7., pokřtěn 15. 7. 1742 ve Zdicích („Víta Merhauta otce, Anny mateře, poddaných k Točníku“; Žebrák 01 N sn. 155 vlevo; M) † VIII 1743, 1 rok (Z sn. 225 vpravo)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), fol. 37, sn. 40 vpravo; O sn. 318 vlevo",
