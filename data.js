@@ -12638,20 +12638,22 @@ window.RODOKMEN = {
       name: "Jiří Šimoník",
       line: "nezname",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true,"place":"Hodějice"},
+      b: {"date":"neznámé (asi 1715)","year":1715,"approx":true,"place":"Hodějice"},
+      d: {"date":"10. 4. 1776","year":1776,"place":"Hodějice č. p. 52"},
       spouse: "apolonie_si",
       marriage: "18. 1. 1750, Hodějice – s Apolonií Láníčkovou",
       notes: [
         "KANDIDÁT (K+): otec Martina Šimoníka (*25. 10. 1756). Syn † Josefa Šimoníka; × 18. (I) 1750 Hodějice „honesta puella Apollonia filia Mathiae Lanižek, utrique Hodiegicio“; svědci Josef Masnička (?) a Josef Majek (O 13120 sn. 269 vlevo; M zápis). 1752–1756 podruh (1754 sedlák ?) v Hodějicích; děti Jakub 1752, Josef 1754, Martin 1756, Jan († 1765). Úmrtí nehledáno (Z 13121 od sn. 447).",
-        "Žil ~1769 (dítě Kateřina † XII 1769, Z 13121 sn. 470 vlevo; K). Úmrtí Jiřího a Apolonie nenalezeno v Z 13121 VI 1766 – X 1770 ani v indexu Z 13161 S 1784 – ~1795.",
-        "Jiří Šimoník zemřel před 7. 1. 1783 – tehdy se vdova Johanna po † Jiřím Šimoníkovi (Hodějice č. 84) vdala za Ondřeje Horáčka (O 13136 sn. 14 vpravo; M) – zda jde o téhož Jiřího (pak 2. manželka), K."
+        "Pohřben 10. 4. 1776 v Hodějicích č. 52: „Georgius Schimonik“, 61 let (Z 13121 sn. 517 vpravo; M zápis, ověřeno koordinátorem; K+ – týž dům č. 52 jako Martin 1781–85, jiný Jiří Šimoník 1770–78 není) → *~1715. Manželka v zápisu neuvedena; vdova Johanna po † Jiřím Šimoníkovi (× 7. 1. 1783 Ondřej Horáček, č. 84) byla nejspíš jeho 2. manželka (K). Apolonie v Z Slavkov VI 1766 – XII 1778 nezemřela."
       ],
       sources: [
         "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
-        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, Z 13121, sn. 517 vpravo (1776) – https://www.mza.cz/actapublica/matrika/detail/1948"
       ],
       scans: [
-        {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest syna Martina, Hodějice 1756"}
+        {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest syna Martina, Hodějice 1756"},
+        {"f":"img/1776_Z_Simonik_Jiri_Hodejice52.jpg","t":"Úmrtí 10. 4. 1776, Hodějice č. 52 (kandidát)"}
       ]
     },
     {
@@ -12664,7 +12666,8 @@ window.RODOKMEN = {
       spouse: "jiri_si",
       marriage: "18. 1. 1750, Hodějice – s Jiřím Šimoníkem",
       notes: [
-        "KANDIDÁTKA (K+): matka Martina Šimoníka; dcera Matěje Láníčka z Hodějic (O 13120 sn. 269 vlevo). Vztah k Láníčkům z linie Hrabovských (Pavel Láníček *~1745) neověřen – možný implex."
+        "KANDIDÁTKA (K+): matka Martina Šimoníka; dcera Matěje Láníčka z Hodějic (O 13120 sn. 269 vlevo). Vztah k Láníčkům z linie Hrabovských (Pavel Láníček *~1745) neověřen – možný implex.",
+        "Úmrtí nenalezeno v Z Slavkov VI 1766 – XII 1778; zbývá 1756 – V 1766 (Z 13121 sn. ~395–446)."
       ],
       sources: [
         "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
