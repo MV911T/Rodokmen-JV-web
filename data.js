@@ -13061,7 +13061,8 @@ window.RODOKMEN = {
       marriage: "6. 11. 1725, Volduchy – s Barborou Forejtovou",
       notes: [
         "KANDIDÁT (K+): otec Kateřiny Čadové (*7. 11. 1728). Oddán 6. 11. 1725 ve Volduchách: „Prokop Hanzlík s Barborau Foregtowau“ (Osek 01 O sn. 169 vlevo; M). Děti z Volduch, vždy s matkou Barborou (Osek 02 N; M): Kateřina 1728, Dorota 1731, Šimon 1733, Kašpar 1739; Magdalena † 24. 7. 1742 (1 rok; otec bez „†“). Jediný Prokop Hanzlík ve faře 1728–1739; kmotři Budínovi (Volduchy) a Laukotovi (Osek). Zemřel mezi VII 1742 a VI 1744 (vdova Barbora). Křest a rodiče nenalezeny – snad bratr Ondřeje Hanzlíka (K).",
-        "Křest Prokopa v Osek 01 N IX 1700 – V 1709 není (žádný Prokop) → *před IX 1700 (mezera ~1688 – VIII 1700)."
+        "Křest Prokopa v Osek 01 N IX 1700 – V 1709 není (žádný Prokop) → *před IX 1700 (mezera ~1688 – VIII 1700).",
+        "Faktorem na 2. sňatku tchána Matěje Forejta 28. 7. 1733 (Osek 02 O sn. 74 vlevo; M) – potvrzuje vazbu Barbory na Matěje × Kateřinu."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O sn. 169 vlevo (1725); Osek 02 N str. 8, 26, 56, 98 (1728–1739)"
@@ -13095,9 +13096,10 @@ window.RODOKMEN = {
       cert: "K",
       b: {"date":"neznámé (odhad ~1680)","year":1680,"approx":true,"place":"Volduchy"},
       spouse: "katerina_pl",
-      marriage: "22. 11. 1705, Volduchy – s Kateřinou, dcerou Adama Polky",
+      marriage: "1) 22. 11. 1705, Volduchy – s Kateřinou Polkovou; 2) 28. 7. 1733, Volduchy – s Lidmilou, vdovou po Ondřejovi Firkovi (?)",
       notes: [
-        "KANDIDÁT (K++): otec Barbory Hanzlíkové (*28. 11. 1706). Oddán 22. 11. 1705 (z Volduch): „Copulatus est Mathias Foregt cum Catharina filia Adami Polka“; svědci Martin Blahník, Jan Kermes, Dorota Šuchová, Mariana Gyšková (?) (Osek 01 O sn. 150 vpravo; M, ověřeno koordinátorem). Pozor: ve Volduchách žil současně jiný Matěj Forejt × Barbora (dcera Kateřina 7. 5. 1702; Barbora Forejtová kmotrou ještě 1706–08) – dva Matějové (K+); který z nich † 1743 (*~1679), nerozhodnuto. Vztah k Martinu Forejtovi (× 1705 Alžběta Hanzlíková) nedoložen."
+        "KANDIDÁT (K++): otec Barbory Hanzlíkové (*28. 11. 1706). Oddán 22. 11. 1705 (z Volduch): „Copulatus est Mathias Foregt cum Catharina filia Adami Polka“; svědci Martin Blahník, Jan Kermes, Dorota Šuchová, Mariana Gyšková (?) (Osek 01 O sn. 150 vpravo; M, ověřeno koordinátorem). Pozor: ve Volduchách žil současně jiný Matěj Forejt × Barbora (dcera Kateřina 7. 5. 1702; Barbora Forejtová kmotrou ještě 1706–08) – dva Matějové (K+); který z nich † 1743 (*~1679), nerozhodnuto. Vztah k Martinu Forejtovi (× 1705 Alžběta Hanzlíková) nedoložen.",
+        "Jako vdovec oddán 28. 7. 1733 ve Volduchách s vdovou Lidmilou po † Ondřejovi Firkovi (?); faktor Prokop Hanzlík z Volduch – jeho zeť (Osek 02 O sn. 74 vlevo; M, nativně) → ženich 1733 je tento Matěj (Barbora, žena druhého Matěje, žila do 1734). Který Matěj Forejt † 1743 (64), nerozhodnuto."
       ],
       sources: [
         "SOA Plzeň, Osek 01 O sn. 150 vpravo (22. 11. 1705); Osek 01 N str. 81, sn. 42 vpravo (1706)"
@@ -13109,13 +13111,16 @@ window.RODOKMEN = {
       maiden: "Polková",
       line: "nezname",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1683)","year":1683,"approx":true},
+      b: {"date":"neznámé (asi 1685)","year":1685,"approx":true},
+      d: {"date":"11. 4. 1732","year":1732,"place":"Volduchy (fara Osek)"},
       spouse: "matej_fo0",
       notes: [
-        "KANDIDÁTKA (K++): matka Barbory (*1706); dcera Adama Polky, × 22. 11. 1705 Matěj Forejt (Osek 01 O sn. 150 vpravo; M); 19. 11. 1702 ještě svobodná družička (sn. 147 vpravo)."
+        "KANDIDÁTKA (K++): matka Barbory (*1706); dcera Adama Polky, × 22. 11. 1705 Matěj Forejt (Osek 01 O sn. 150 vpravo; M); 19. 11. 1702 ještě svobodná družička (sn. 147 vpravo).",
+        "Zemřela 11. 4. 1732 ve Volduchách (pohřbena 13. 4.): „Kateřina Foregtová … stáří 47 let“, bez uvedení manžela (Osek 02 Z str. 186, sn. 101 vlevo; M zápis, K+) → *~1685. Křest nenalezen (Osek 01 N II 1680 – II 1681 bez ní, VI 1683 – V 1687 v knize chybí; Adam Polka není v rejstříku Rokycany 02 P). Děti Adama Polky: Ondřej 1. 12. 1680 (matka Anna), Vojtěch 23. 4. 1681 (matka Marja ?) (Osek 01 N sn. 14–15; K)."
       ],
       sources: [
-        "SOA Plzeň, Osek 01 O sn. 150 vpravo (22. 11. 1705); Osek 01 N str. 81, sn. 42 vpravo (1706)"
+        "SOA Plzeň, Osek 01 O sn. 150 vpravo (22. 11. 1705); Osek 01 N str. 81, sn. 42 vpravo (1706)",
+        "SOA Plzeň, Osek 02 Z, sn. 101 vlevo (1732)"
       ]
     }
   ]
