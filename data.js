@@ -8698,7 +8698,8 @@ window.RODOKMEN = {
         "Oddán 25. 5. 1721 jako „hon. Juvenis Paulus Hrazdirek cum hon. Virg. Catharina filia Jacobi Schusta, Hodegiciis“; svědci Jiří Florián a Pavel Němčanský z Hodějic.",
         "Sedlák v Hodějicích; s Kateřinou děti Josef (23. 1. 1722), Apolonie (I 1724), František (X 1725), Martin (4. 10. 1727).",
         "Zemřel 5. 5. 1747 v Hodějicích, 55 let (věk čten s jistotou D).",
-        "KANDIDÁT: syn Pavla Hrazdírka st. († VII 1707 Hodějice, ~60 let) × Alžběty (vdova se 1711 znovu vdala); sňatek s Kateřinou nenalezen."
+        "KANDIDÁT: syn Pavla Hrazdírka st. († VII 1707 Hodějice, ~60 let) × Alžběty (vdova se 1711 znovu vdala); sňatek s Kateřinou nenalezen.",
+        "Rodina otce (K+): Pavel Hrazdírek st. (Hradil, Hodějice, † VII 1707) × Susanna – syn Šimon pokřtěn 28. 10. 1693 („Simon; Paulus Hradil, Mr Susanna ex Hodeitz“; N 13119 sn. 31 vpravo; M) = Šimon, „syn † Pavla Hrazdílka z Hodějic“, ženich III 1726 (O 13120 sn. 210 vlevo) → Šimon je nejspíš bratr Pavla ml. Křest Pavla ml. v N 13119 VIII 1691 – X 1695 (ani 1690–91) není → *≤1689 (N 1665–89 chybí) nebo ≥XI 1695. Pozor: Pavel Hradil × Dorota z Rašovic († 1711) – jiný."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
@@ -13155,7 +13156,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (asi 1678)","year":1678,"approx":true,"place":"Černín (?)"},
       d: {"date":"8. 12. 1728","year":1728,"place":"Černín (fara Zdice)"},
       notes: [
-        "KANDIDÁT (K+): otec Václava Diviše – ženich 20. 11. 1740 „Václav po † neb. Janovi Diw…“ (Žebrák 01 O sn. 252 vlevo). Pohřben 8. 12. 1728 z Černína: „pohřben Jan Diwyš, … svátostmi zaopatřený, stáří svého 50 (?) let“, P. František Hatl, kaplan (Žebrák 01 Z sn. 197 vlevo; M zápis, ověřeno koordinátorem – věk nejistý, 50/60; rok z nadpisu protější strany). Dcera Kateřina kmotrou 15. 4. 1714 („Kateřina, dcera Jana Diviše z Černína“; N sn. 44 vpravo; M) → sňatek ~1695–1700 (mimo O 1708–1716). Manželka neznámá – Dorota Divišová (kmotra 1719) byla spíš žena Jakuba Diviše (× II 1702 Dorota Chvojková ?, Černín; Žebrák 02 O sn. 452 vpravo; M); v Černíně žil i Šimon Diviš (svědek 1704). Sňatek Jana není v Žebrák 02 O VII 1697 – IX 1710."
+        "KANDIDÁT (K+): otec Václava Diviše – ženich 20. 11. 1740 „Václav po † neb. Janovi Diw…“ (Žebrák 01 O sn. 252 vlevo). Pohřben 8. 12. 1728 z Černína: „pohřben Jan Diwyš, … svátostmi zaopatřený, stáří svého 50 (?) let“, P. František Hatl, kaplan (Žebrák 01 Z sn. 197 vlevo; M zápis, ověřeno koordinátorem – věk nejistý, 50/60; rok z nadpisu protější strany). Dcera Kateřina kmotrou 15. 4. 1714 („Kateřina, dcera Jana Diviše z Černína“; N sn. 44 vpravo; M) → sňatek ~1695–1700 (mimo O 1708–1716). Manželka neznámá – Dorota Divišová (kmotra 1719) byla spíš žena Jakuba Diviše (× II 1702 Dorota Chvojková ?, Černín; Žebrák 02 O sn. 452 vpravo; M); v Černíně žil i Šimon Diviš (svědek 1704). Sňatek Jana není v Žebrák 02 O VII 1697 – IX 1710.",
+        "V Černíně žil už ~1690–1695 starší Jan Diviš, „soused“: dcera Dorota družičkou VIII 1692 a × 30. 10. 1695 Jan, syn † Adama Arnošta (Žebrák 02 O sn. 445 vlevo, 447 vlevo; M) → *≤~1655; snad otec Doroty, Jakuba (× 1702), Šimona (1704) a Jana † 1728 – nebo tentýž Jan, je-li věk 50 při † 1728 chybný (K). Zdické a černínské křty 1673–1705 jsou v Žebrák 02 N (ne Žebrák 01)."
       ],
       sources: [
         "SOA Praha, Žebrák 01 (9695) Z sn. 197 vlevo (1728); N sn. 44 vpravo (1714) – https://ebadatelna.soapraha.cz/d/9695/197"
