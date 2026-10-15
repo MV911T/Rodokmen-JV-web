@@ -12282,23 +12282,26 @@ window.RODOKMEN = {
       name: "Josef Laukota",
       line: "nezname",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true,"place":"Osek u Rokycan"},
-      d: {"date":"před 29. 12. 1767 (asi 1739–1745 ?)","year":1745,"approx":true,"place":"Osek u Rokycan (?)"},
+      b: {"date":"neznámé (asi 1703)","year":1703,"approx":true},
+      d: {"date":"26. 3. 1743","year":1743,"place":"Osek u Rokycan"},
       spouse: "rozina_la",
       marriage: "4. nebo 11. (?) 11. 1727, Osek – s Rozinou Altmanovou (?) z Vitinky",
       notes: [
         "KANDIDÁT (K+): otec Šimona Laukoty – kandidátní křest X 1732 Osek „syn Josefa Laukoty a Roziny“ (Osek 02 str. 44; levans František Kratochvíl z Volduch).",
         "Oddán v XI 1727 (4. nebo 11.; ohlášky 19., 26. a 28. 10.) v Oseku: „Jozef Laukota s Rozinau Altmanowau (?) z Witthinky“; družba Matěj Fojtorný (?) z Vitinky, družička Anna …blová z Oseka, faktor František Kratochvíl z Volduch – týž jako levans při křtu Šimona 1732 (Osek 01 O, sn. 172 vlevo; M zápis, ověřeno koordinátorem; příjmení nevěsty nejisté).",
         "Děti v Oseku (M): Barbora (26. 8. 1728; levans Barbora Kratochvílová, svědek Matěj Fotorný z Vitinky – svatební hosté 1727), Matěj (19. 7. 1730), Šimon (27. 10. 1732), František (1735), Václav (1739). Úmrtí nehledána.",
-        "Zemřel před 29. 12. 1767 (manželka tehdy vdovou); v Osek 03 Z V 1745 – XII 1759 a v rejstříku Osek 04 Z 1760–1777 není → nejspíš III 1739 – IV 1745 (nečteno)."
+        "Zemřel před 29. 12. 1767 (manželka tehdy vdovou); v Osek 03 Z V 1745 – XII 1759 a v rejstříku Osek 04 Z 1760–1777 není → nejspíš III 1739 – IV 1745 (nečteno).",
+        "KANDIDÁT úmrtí (K+): 26. 3. 1743 (pohřben 27. 3.) v Oseku – „Joseph Laukota, zámečník (?), před smrtí svatými svátostmi zaopatřen, stáří okolo čtyřiceti let“ (Osek 03 Z sn. 163 vlevo; M zápis, ověřeno koordinátorem) → *~1703; jediný dospělý Josef Laukota v Osek Z 1739–1767. Syn Václav (*26. 1. 1739) † 16. 2. 1739, otec tehdy žil (Osek 02 Z sn. 117 vpravo)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 172 vlevo (XI 1727) – https://www.portafontium.eu/iipimage/30066667/osek-01_1721-o",
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 N str. 44 (sn. 24 vlevo), str. 6, str. 17 – https://www.portafontium.eu/iipimage/30066668/osek-02_0240-n"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 02 N str. 44 (sn. 24 vlevo), str. 6, str. 17 – https://www.portafontium.eu/iipimage/30066668/osek-02_0240-n",
+        "SOA Plzeň, Osek 03 Z, sn. 163 vlevo – https://www.portafontium.eu/iipimage/30066669/osek-03_1630-z"
       ],
       scans: [
         {"f":"img/1727_O_Laukota_Josef_Altmanova_Rozina_Osek.jpg","t":"Sňatek s Rozinou Altmanovou (?), Osek 1727"},
-        {"f":"img/1732_N_Laukota_Simon_Osek.jpg","t":"Křest syna Šimona, Osek 1732"}
+        {"f":"img/1732_N_Laukota_Simon_Osek.jpg","t":"Křest syna Šimona, Osek 1732"},
+        {"f":"img/1743_Z_Laukota_Josef_Osek.jpg","t":"Úmrtí 26. 3. 1743, Osek (kandidát)"}
       ]
     },
     {
@@ -12314,7 +12317,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁTKA (K+): matka Šimona Laukoty (viz Josef Laukota); z Vitinky, rodné příjmení čteno Altmanová (?).",
         "Děti v Oseku (M): Barbora (26. 8. 1728; levans Barbora Kratochvílová, svědek Matěj Fotorný z Vitinky – svatební hosté 1727), Matěj (19. 7. 1730), Šimon (27. 10. 1732), František (1735), Václav (1739). Úmrtí nehledána.",
-        "Zemřela 29. 12. 1767 (pohřbena 31. 12. v Oseku): „Rozina superstes vidua post def. Josephum Laukota, senex 64 annorum“ (Osek 04 Z str. 30, sn. 119 vlevo; M zápis, ověřeno koordinátorem; měsíc z předchozí strany; ztotožnění K+ – jediná Rozina Laukotová 1760–1777) → *~1703. Josef tedy zemřel před XII 1767 (Osek 03 Z V 1745 – XII 1759 a Osek 04 Z 1760–77 bez něj → asi 1739–1745)."
+        "Zemřela 29. 12. 1767 (pohřbena 31. 12. v Oseku): „Rozina superstes vidua post def. Josephum Laukota, senex 64 annorum“ (Osek 04 Z str. 30, sn. 119 vlevo; M zápis, ověřeno koordinátorem; měsíc z předchozí strany; ztotožnění K+ – jediná Rozina Laukotová 1760–1777) → *~1703. Josef tedy zemřel před XII 1767 (Osek 03 Z V 1745 – XII 1759 a Osek 04 Z 1760–77 bez něj → asi 1739–1745).",
+        "Ovdověla nejspíš 26. 3. 1743 (viz Josef Laukota)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 O, sn. 172 vlevo (XI 1727) – https://www.portafontium.eu/iipimage/30066667/osek-01_1721-o",
