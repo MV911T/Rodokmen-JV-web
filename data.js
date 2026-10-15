@@ -7305,7 +7305,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"},
         {"f":"img/1745_krest_barbora_otec_matous_cada_eva_osek_osek03_sn28_kandidat.jpg","t":"Křest Barbory Čadové, Osek 2. 12. 1745"},
-        {"f":"img/1716_N_Holubova_Eva_Osek.jpg","t":"Křest Evy, Osek 16. 1. 1716 (kandidát)"}
+        {"f":"img/1716_N_Holubova_Eva_Osek.jpg","t":"Křest Evy, Osek 16. 1. 1716 (kandidát)"},
+        {"f":"img/1733_Z_Holub_Matej_Osek.jpg","t":"Úmrtí otce Matěje Holuba, Osek 1733"}
       ]
     },
     {
@@ -7333,23 +7334,26 @@ window.RODOKMEN = {
       name: "Matěj Holub",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true},
-      d: {"date":"před 3. 11. 1744","year":1744,"approx":true},
+      b: {"date":"neznámé (asi 1683)","year":1683,"approx":true},
+      d: {"date":"20. 10. 1733","year":1733,"place":"Osek u Rokycan"},
       spouse: "anna_hlv",
       occ: "Osek",
       marriage: "17. 2. 1715, Osek – s Annou Vlčkovou (?)",
       notes: [
         "Otec Evy Čadové (sňatek 1744: „po nebožtíkovi Matějovi Holubovi ze vsi Oseka“).",
-        "Oddán 17. 2. 1715 v Oseku: „Matěj Holubický s Annou Vlčkovou (?), oba poddaní panství Oseckého“; družba Daniel Grül (?), družička Kateřina Danielka (?) (Osek 01 O str. 312, sn. 158 vlevo; M zápis, ověřeno; příjmení nevěsty nejisté). KANDIDÁT otce (K): Matěj Holub (Holubický) z Oseka, † před 23. 10. 1712 (dcery Anna × 1712, Kateřina × 1714 „po neb. Matějovi Holubickém“)."
+        "Oddán 17. 2. 1715 v Oseku: „Matěj Holubický s Annou Vlčkovou (?), oba poddaní panství Oseckého“; družba Daniel Grül (?), družička Kateřina Danielka (?) (Osek 01 O str. 312, sn. 158 vlevo; M zápis, ověřeno; příjmení nevěsty nejisté). KANDIDÁT otce (K): Matěj Holub (Holubický) z Oseka, † před 23. 10. 1712 (dcery Anna × 1712, Kateřina × 1714 „po neb. Matějovi Holubickém“).",
+        "Zemřel 20. 10. 1733 (pohřben 22. 10.) v Oseku: „Matěj Holub, před smrtí ten den všemi svátostmi zaopatřen, byl stáří okolo 50 let“ (Osek 02 Z str. 198, sn. 107 vlevo; M zápis, ověřeno koordinátorem; ztotožnění K+ – jediný dospělý Matěj Holub IX 1732 – X 1733, poslední dítě 17. 8. 1732) → *~1683."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o",
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 N str. 144 (sn. 74 vlevo, 1716), Osek 01 O str. 312 (sn. 158 vlevo, 1715)"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 N str. 144 (sn. 74 vlevo, 1716), Osek 01 O str. 312 (sn. 158 vlevo, 1715)",
+        "SOA Plzeň, Osek 02 Z, str. 198, sn. 107 vlevo – https://www.portafontium.eu/iipimage/30066668/osek-02_1070-z"
       ],
       scans: [
         {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"},
         {"f":"img/1715_O_Holub_Matej_Vlckova_Anna_Osek.jpg","t":"Sňatek s Annou Vlčkovou (?), Osek 17. 2. 1715"},
-        {"f":"img/1716_N_Holubova_Eva_Osek.jpg","t":"Křest dcery Evy, Osek 1716"}
+        {"f":"img/1716_N_Holubova_Eva_Osek.jpg","t":"Křest dcery Evy, Osek 1716"},
+        {"f":"img/1733_Z_Holub_Matej_Osek.jpg","t":"Úmrtí 20. 10. 1733, Osek (~50 let)"}
       ]
     },
     {
@@ -12421,7 +12425,8 @@ window.RODOKMEN = {
       spouse: "matej_ho",
       marriage: "17. 2. 1715, Osek – s Matějem Holubem",
       notes: [
-        "Manželka Matěje Holuba (Holubického) z Oseka – sňatek 17. 2. 1715 (Osek 01 O sn. 158 vlevo; M, příjmení Vlčková nejisté); matka dětí 1716–1732 (Eva 1716, Kateřina 1719 …). KANDIDÁT úmrtí (K): Anna Holubová † 15. 8. 1744, 58 let (Osek 03 Z sn. 166 vpravo) – neověřeno."
+        "Manželka Matěje Holuba (Holubického) z Oseka – sňatek 17. 2. 1715 (Osek 01 O sn. 158 vlevo; M, příjmení Vlčková nejisté); matka dětí 1716–1732 (Eva 1716, Kateřina 1719 …). KANDIDÁT úmrtí (K): Anna Holubová † 15. 8. 1744, 58 let (Osek 03 Z sn. 166 vpravo) – neověřeno.",
+        "Úmrtí 15. 8. 1744 (Osek 03 Z sn. 166 vpravo) přečteno: „Anna Holubová“, 58 let – manžel ani vdovství neuvedeny → ztotožnění K+ (*~1686)."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, Osek 01 N str. 144 (sn. 74 vlevo, 1716), Osek 01 O str. 312 (sn. 158 vlevo, 1715)"
