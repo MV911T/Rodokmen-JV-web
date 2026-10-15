@@ -12046,7 +12046,8 @@ window.RODOKMEN = {
       marriage: "14. 11. 1751 – s Martinem Čadou",
       notes: [
         "KANDIDÁTKA (K+): matka Doroty Aubrechtové. Narozena 7. 11., pokřtěna 8. 11. 1728 ve Volduchách: „Kateřina, vlastní dcera Prokopa Hanzlíka a Barbory“ (Osek 02 N str. 8, sn. 6 vlevo; M zápis, jediná v rejstříku). Rodiče: Prokop Hanzlík × Barbora (sňatek nehledán).",
-        "Podruhé oddána 29. 1. 1760 ve Volduchách: „Vojtěch, vlastní syn pozůstalý po † Danielovi Nuchovi, s poctivou vdovou Kateřinou pozůstalou po † Martinovi Čádovi“; družba Václav Kermes (Osek 04 O str. 1, sn. 66 vpravo; M) – dále Nuhová (Nuchová). Úmrtí nehledáno."
+        "Podruhé oddána 29. 1. 1760 ve Volduchách: „Vojtěch, vlastní syn pozůstalý po † Danielovi Nuchovi, s poctivou vdovou Kateřinou pozůstalou po † Martinovi Čádovi“; družba Václav Kermes (Osek 04 O str. 1, sn. 66 vpravo; M) – dále Nuhová (Nuchová). Úmrtí nehledáno.",
+        "Úmrtí jako Nuchová není v Osek 08 Z Volduchy 1778 – VI 1788 (D); zbývá 1772–77 a VII 1788 – 1808."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 8 (sn. 6 vlevo); Osek 03 O str. 45 (sn. 131 vpravo)"
@@ -12740,9 +12741,9 @@ window.RODOKMEN = {
       d: {"date":"1. 6. 1776","year":1776,"place":"Volduchy č. p. 11"},
       spouse: "anna_au0",
       occ: "sedlák ve Volduchách",
-      marriage: "1) 28. 10. 1732, Volduchy – s Annou, dcerou Šimona Jocha / Hycha (?); 2) 24. 6. 1766, Osek – s Kateřinou, vdovou po Šebestiánovi Chmelaříkovi (?)",
+      marriage: "1) 28. 10. 1732, Volduchy – s Annou, dcerou Šimona Gocha (?); 2) 24. 6. 1766, Osek – s Kateřinou, vdovou po Šebestiánovi Chmelaříkovi (?)",
       notes: [
-        "KANDIDÁT (K+, jako otec Petra – viz Petr Aubrecht): sedlák ve Volduchách. Oddán 28. 10. 1732 Volduchy s pannou Annou, vlastní dcerou Šimona J(?)ocha / Hycha (?) z Volduch; družba Matouš Holubek (?), faktor Petr Vítek (?) (Osek 02 O sn. 69 vpravo; M zápis). Děti: Jan 1733, Ludmila 1736, Dorota 1738, Petr 24. 6. 1749. Vztah k Josefovi Aubrechtovi (*~1685) neznámý – spíš jiná rodina.",
+        "KANDIDÁT (K+, jako otec Petra – viz Petr Aubrecht): sedlák ve Volduchách. Oddán 28. 10. 1732 Volduchy s pannou Annou, vlastní dcerou Šimona Gocha (?) z Volduch; družba Matouš Holubek (?), faktor Petr Vítek (?) (Osek 02 O sn. 69 vpravo; M zápis). Děti: Jan 1733, Ludmila 1736, Dorota 1738, Petr 24. 6. 1749. Vztah k Josefovi Aubrechtovi (*~1685) neznámý – spíš jiná rodina.",
         "Jako vdovec, sedlák z Volduch, oddán 24. 6. 1766 v Oseku s Kateřinou, vdovou po † Šebestiánovi Chmelaříkovi (?) (Osek 04 O str. 28, sn. 80 vlevo; M). Syn Jiří (?) × 30. 10. 1770 Magdalena Riedlová (?) (str. 40). Zemřel 1. 6. 1776 ve Volduchách č. 11: „Bartl Aubrecht, Bauer“, 80 let (Osek 08 Z fol. 11, sn. 77 vlevo; M, ověřeno koordinátorem) – v č. 11 žil 1774–76 i syn Petr → ztotožnění silné; věk nejspíš nadsazen."
       ],
       sources: [
@@ -12758,14 +12759,15 @@ window.RODOKMEN = {
     {
       id: "anna_au0",
       name: "Anna Aubrechtová",
-      maiden: "Jochová / Hychová (?)",
+      maiden: "Gochová (?)",
       line: "aubrecht",
       cert: "K",
       b: {"date":"neznámé (asi 1715)","year":1715,"approx":true,"place":"Volduchy"},
       d: {"date":"9. 10. 1765","year":1765,"place":"Volduchy"},
       spouse: "bartolomej_au",
       notes: [
-        "KANDIDÁTKA (K+): matka Petra Aubrechta (*1749); dcera Šimona J(?)ocha (nativně – první písmeno spíš J/G než H) z Volduch, × 28. 10. 1732 (Osek 02 O sn. 69 vpravo). Zemřela 9. 10. 1765, 50 let (dřívější relace, §285) → *~1715."
+        "KANDIDÁTKA (K+): matka Petra Aubrechta (*1749); dcera Šimona Gocha (?) (nativně – kurentní G; čtení „Hych“ opuštěno) z Volduch, × 28. 10. 1732 (Osek 02 O sn. 69 vpravo). Zemřela 9. 10. 1765, 50 let (dřívější relace, §285) → *~1715.",
+        "Otec Šimon Goch (?) × Lidmila – syn Šimon pokřtěn 26. 10. 1714 v Oseku („Simon syn Simona Gocha (?) a Lidmille manželky jeho“; Osek 01 N str. 134, sn. 69 vlevo; M zápis, K+ ztotožnění). Křest Anny v Osek 01 N X 1712 – V 1713 a XI 1713 – IV 1717 nenalezen (D)."
       ],
       sources: [
         "SOA Plzeň, Osek 02 O, sn. 69 vpravo (28. 10. 1732)",
