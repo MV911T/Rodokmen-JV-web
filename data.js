@@ -5381,7 +5381,8 @@ window.RODOKMEN = {
         {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776"},
         {"f":"img/1773_snatek_josef_divis_anna_cervena_zdice01_sn316_a.jpg","t":"Sňatek Anny Červené (?) a Josefa Diviše, Zdice 1773"},
         {"f":"img/1753_krest_anna_dorota_cervena_knizkovice_zdice01_sn37_a.jpg","t":"Křest Anny Doroty Červené, Zdice 9. 6. 1753"},
-        {"f":"img/1836_Z_Divisova_Anna_Cernin7.jpg","t":"Úmrtí 14. 2. 1836, Černín č. 7"}
+        {"f":"img/1836_Z_Divisova_Anna_Cernin7.jpg","t":"Úmrtí 14. 2. 1836, Černín č. 7"},
+        {"f":"img/1752_O_Cerveny_Vojtech_Kosle_Anna_Knizkovice.jpg","t":"Sňatek rodičů Vojtěcha a Anny Červených, 1752"}
       ]
     },
     {
@@ -6883,19 +6884,26 @@ window.RODOKMEN = {
       name: "Vojtěch Červený",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
+      b: {"date":"neznámé (asi 1730, kandidátní křest – viz poznámky)","year":1730,"approx":true,"place":"Knížkovice"},
+      father: "josef_cv",
+      mother: "dorota_cv",
       spouse: "anna_cv",
       occ: "Knížkovice č. 17",
+      marriage: "20. 11. 1752, Zdice – s Annou, dcerou Františka Kosole (?)",
       notes: [
         "Otec Anny Doroty (*1753, sňatek 1773); Knížkovice č. 17. Příjmení Červený/Czerweny v obou zápisech (ne Červenka).",
+        "Oddán 20. 11. 1752 (z Knížkovic): „ženicha Vojtěcha, vlastního syna Josefa Červeného, s nevěstou Annou, vlastní dcerou Františka Kosole (?)“; ohlášky 22., 29. 10. a 5. 11.; družba Matěj Červený (bratr), družička Ludmila Bara…ková (?), Matěj Chapa (?) (Zdice 01 O sn. 283 vlevo; M, ověřeno koordinátorem). KANDIDÁT křtu (K+): ~14. 4. 1730 Knížkovice – „Vojtěch, otce Josefa Červeného, z matky Doroty“ (Žebrák 01 N sn. 89 vpravo) → při † 1799 mu bylo ~69 (zapsáno 60).",
         "KANDIDÁT úmrtí (K+): 16. 3. 1799 Knížkovice č. 13, „Vojtěch Červený, chalupník knížkovický“, 60 let (věk podhodnocen; Zdice 02 sn. 389; M zápis) – jediný dospělý Vojtěch Červený 1785–1813; dům 13 × 17 při sňatku dcery 1773."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316",
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, fol. 34, snímek 37 – https://ebadatelna.soapraha.cz/d/9095/37"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, fol. 34, snímek 37 – https://ebadatelna.soapraha.cz/d/9095/37",
+        "SOA Praha, Zdice 01 (9095) O, sn. 283 vlevo, pag. 14 (20. 11. 1752) – https://ebadatelna.soapraha.cz/d/9095/283",
+        "SOA Praha, Žebrák 01 (9695) N, sn. 89 vpravo (14. ? 4. 1730)"
       ],
       scans: [
-        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776 (dítě: Anna Divišová)"}
+        {"f":"img/1776_krest_matej_divis_cernin7_zdice01_sn126_a.jpg","t":"Křest syna Matěje, Zdice 1776 (dítě: Anna Divišová)"},
+        {"f":"img/1752_O_Cerveny_Vojtech_Kosle_Anna_Knizkovice.jpg","t":"Sňatek 20. 11. 1752, Knížkovice"}
       ]
     },
     {
@@ -7004,19 +7012,23 @@ window.RODOKMEN = {
     {
       id: "anna_cv",
       name: "Anna Červená",
+      maiden: "Kosolová (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1728)","year":1728,"approx":true},
+      father: "frantisek_ks",
       spouse: "vojtech_cv",
       notes: [
-        "Matka Anny Doroty Divišové (křest 1753); rodné příjmení neuvedeno.",
+        "Matka Anny Doroty Divišové (křest 9. 6. 1753 – 6½ měsíce po sňatku). Oddána 20. 11. 1752 jako „Anna, vlastní dcera Františka Kosole (?)“ (Zdice 01 O sn. 283 vlevo; M; příjmení nejisté).",
         "KANDIDÁT úmrtí (K+): 12. 11. 1800 Knížkovice č. 13, „Anna, vdova po † Vojtěchovi Červeném, sedláku knížkovickém“, 70 let (Zdice 02 sn. 390; M zápis) → *~1730."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, fol. 34, snímek 37 – https://ebadatelna.soapraha.cz/d/9095/37"
+        "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, fol. 34, snímek 37 – https://ebadatelna.soapraha.cz/d/9095/37",
+        "SOA Praha, Zdice 01 (9095) O, sn. 283 vlevo, pag. 14 (20. 11. 1752) – https://ebadatelna.soapraha.cz/d/9095/283"
       ],
       scans: [
-        {"f":"img/1753_krest_anna_dorota_cervena_knizkovice_zdice01_sn37_a.jpg","t":"Křest dcery Anny Doroty, Zdice 1753"}
+        {"f":"img/1753_krest_anna_dorota_cervena_knizkovice_zdice01_sn37_a.jpg","t":"Křest dcery Anny Doroty, Zdice 1753"},
+        {"f":"img/1752_O_Cerveny_Vojtech_Kosle_Anna_Knizkovice.jpg","t":"Sňatek 20. 11. 1752"}
       ]
     },
     {
@@ -13552,6 +13564,51 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Plzeň, Osek 01 O, sn. 163 vpravo (5. 11. 1719) – https://www.portafontium.eu/iipimage/30066667/osek-01_1631-o"
+      ]
+    },
+    {
+      id: "josef_cv",
+      name: "Josef Červený",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true,"place":"Knížkovice"},
+      spouse: "dorota_cv",
+      notes: [
+        "Z Knížkovic; otec Vojtěcha Červeného – „Vojtěch, vlastní syn Josefa Červeného“ (sňatek 1752; Zdice 01 O sn. 283 vlevo; M). S Dorotou děti Vojtěch ~14. 4. 1730 a Matěj 16. 1. 1733 (Žebrák 01 N sn. 89 vpravo, 95 vpravo; M). Josef Červený × Barbora (Lidmila 5. 9. 1751, Knížkovice) – snad 2. manželství (K). Sňatek s Dorotou v mezeře O Žebrák 01 XII 1727 – IX 1732 (nedohledatelný)."
+      ],
+      sources: [
+        "SOA Praha, Zdice 01 (9095) O, sn. 283 vlevo, pag. 14 (20. 11. 1752) – https://ebadatelna.soapraha.cz/d/9095/283",
+        "SOA Praha, Žebrák 01 (9695) N, sn. 89 vpravo (14. ? 4. 1730)"
+      ]
+    },
+    {
+      id: "dorota_cv",
+      name: "Dorota Červená",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      spouse: "josef_cv",
+      notes: [
+        "KANDIDÁTKA (K+): matka Vojtěcha Červeného – křest ~1730 „z matky Doroty“ (Žebrák 01 N sn. 89 vpravo; M zápis)."
+      ],
+      sources: [
+        "SOA Praha, Žebrák 01 (9695) N, sn. 89 vpravo (14. ? 4. 1730)"
+      ]
+    },
+    {
+      id: "frantisek_ks",
+      name: "František Kosole (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
+      notes: [
+        "Otec Anny Červené – „Anna, vlastní dcera Františka Kosole (?)“ (sňatek 1752; Zdice 01 O sn. 283 vlevo; M zápis, příjmení nejisté). Obec neuvedena."
+      ],
+      sources: [
+        "SOA Praha, Zdice 01 (9095) O, sn. 283 vlevo, pag. 14 (20. 11. 1752) – https://ebadatelna.soapraha.cz/d/9095/283"
+      ],
+      scans: [
+        {"f":"img/1752_O_Cerveny_Vojtech_Kosle_Anna_Knizkovice.jpg","t":"Sňatek dcery Anny, 1752"}
       ]
     }
   ]
