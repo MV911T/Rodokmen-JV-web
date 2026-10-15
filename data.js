@@ -5899,7 +5899,8 @@ window.RODOKMEN = {
         "Při křtu dcery Apolonie 1788 „Schullehrer (?)“ (čtení nejisté), Hodějice č. 59; manželka Marta (1788).",
         "KANDIDÁT otce: Tomáš Ambros, sedlák v Hodějicích († před 1772; dcery Rosina × Martin Hudeček 1772 a Anna 1777–78). Sňatek Antona s Martou ve Slavkově XI 1764 – IX 1774 nenalezen.",
         "MZA N47: v Hodějicích kolem 1757–60 tři otcové Ambrosové – Tomáš, Blažej (podruh) × Anna (děti 1757, 1758) a Jiří × Rozina (syn Blažej 1760) – Antonův křest hledat v N 13121 ~1765–1772.",
-        "MZA N48: křest není v NOZ 13121 I 1765 – III 1771 (všichni Antonové mají jiné otce) → narozen spíš 1754–1764 nebo mimo faru. Otcové Ambrosové v Hodějicích 1757–70: Tomáš, Blažej (× Anna, později × Barbora ?), Jiří × Rozina, Ondřej × Anna (?)."
+        "MZA N48: křest není v NOZ 13121 I 1765 – III 1771 (všichni Antonové mají jiné otce) → narozen spíš 1754–1764 nebo mimo faru. Otcové Ambrosové v Hodějicích 1757–70: Tomáš, Blažej (× Anna, později × Barbora ?), Jiří × Rozina, Ondřej × Anna (?).",
+        "MZA N49: křest není v NOZ 13121 ~1753 – III 1771 (celé období) → narozen mimo faru Slavkov nebo před 1753. Blažej Ambros × Anna – děti 1756–1764 (mj. Ondřej 28. 11. 1764; M), Anton mezi nimi není."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
@@ -8121,7 +8122,7 @@ window.RODOKMEN = {
       spouse: "matej_spa",
       notes: [
         "Matka Anny Maláčové (*1799) a jejích sourozenců (1788–1798); příjmení psáno „Leblin / Lebnin / Lebner“. KANDIDÁT: dcera Šimona Lebka (?) z Křenovic (sňatek 28. 1. 1783).",
-        "Stopa (K, nečteno ostře): v Křenovicích Šimon „Laber“ (? = Lebek) × Rosina / Rosalie – děti ~X 1765 a V 1768 (NOZ 13121 sn. 186 vpravo, 208 vlevo)."
+        "Stopa ověřena (MZA N49): 17. 5. 1768 Křenovice „Johanna – Simon Laber, Rosaria“ (NOZ 13121 sn. 208 vlevo; M) – příjmení zřetelně LABER, ne Lebek, a při sňatku 1783 by jí bylo 14 → spíš jiná osoba (K−)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 182 A, snímek 174 – https://www.mza.cz/actapublica/matrika/detail/1951"
