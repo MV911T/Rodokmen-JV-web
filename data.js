@@ -6182,7 +6182,8 @@ window.RODOKMEN = {
         "Oddán 1841 v Heršpicích (č. 52/57) jako domkář, 23 let; syn † Martina Svobody, domkáře v Heršpicích, a Magdaleny roz. Fuchsové (?) – podle křtu Tiché.",
         "Později čtvrtník v Heršpicích; otec Anežky Kučerové.",
         "Žil 3. 10. 1873 (úmrtí manželky, M). V indexu Z fary Slavkov 1872–1907 (S) není – zemřel jinde nebo pod zkomoleným jménem.",
-        "Žil ještě 11. 8. 1878 jako výměnkář v Heršpicích č. 48: oddací zápis dcery Mariany (*~1853) s Tomášem Svobodou (dispens pro příbuzenství 2. stupně – Tomášův otec František Svoboda snad Jakubův bratr) „dcera živého Jakuba Svobody, výměnkáře z Heršpic, a zemřelé Kateřiny rozené Láníčkové“; 4. 3. 1867 dcera Agnes × Franz Jacubetz (O 13144 sn. 16, 25 vlevo; M). Úmrtí po 1878 – v Z Heršpice 1873–1905 ani v indexu nenalezeno."
+        "Žil ještě 11. 8. 1878 jako výměnkář v Heršpicích č. 48: oddací zápis dcery Mariany (*~1853) s Tomášem Svobodou (dispens pro příbuzenství 2. stupně – Tomášův otec František Svoboda snad Jakubův bratr) „dcera živého Jakuba Svobody, výměnkáře z Heršpic, a zemřelé Kateřiny rozené Láníčkové“; 4. 3. 1867 dcera Agnes × Franz Jacubetz (O 13144 sn. 16, 25 vlevo; M). Úmrtí po 1878 – v Z Heršpice 1873–1905 ani v indexu nenalezeno.",
+        "V Z Heršpice 1873–1905 (celé řádky 1878–1894) není → zemřel mimo faru Slavkov."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O Heršpice 1850–1949, sign. 13144, str. 36, snímek 21 – https://www.mza.cz/actapublica/matrika/detail/12387",
@@ -12287,13 +12288,14 @@ window.RODOKMEN = {
     {
       id: "katerina_hn",
       name: "Kateřina Tichá",
-      maiden: "Hanušková (?)",
+      maiden: "Láníčková (?) / Hanušková (?)",
       line: "svobodah",
       cert: "M",
       b: {"date":"neznámé (odhad ~1772)","year":1772,"approx":true},
       spouse: "jakub_ti",
       notes: [
-        "Manželka Jakuba Tichého, matka Magdaleny Svobodové – křest 13. 7. 1797 Heršpice č. 26: „Mutter: Katharina Han…kin (?)“ (N 13123 sn. 380; M, příjmení nejisté). Sňatek s Jakubem (~1790–1796) a úmrtí nehledány."
+        "Manželka Jakuba Tichého, matka Magdaleny Svobodové – křest 13. 7. 1797 Heršpice č. 26: „Mutter: Katharina Han…kin (?)“ (N 13123 sn. 380; M, příjmení nejisté). Sňatek s Jakubem (~1790–1796) a úmrtí nehledány.",
+        "ROZPOR čtení rodného příjmení: křest syna Jana 5. 5. 1795 Heršpice č. 25 (Jakob Tichy, Innmann × „Catharina Laneczek / Laniczek (?)“, kmotři Bartl Navrátil a Marianna – tíž jako 1797; N 13123 sn. 375, str. 387; M) × křest Magdaleny 1797 „Han…kin / Hrnoßkin (?)“ – srovnáno koordinátorem, první písmena se liší, nerozhodnuto. KANDIDÁT (K): Kateřina, dcera Pavla Láníčka, ¾láníka, 26 let, × 24. 10. 1791 (?) Jakub Hawischka (?) z č. 20 (O 13136 sn. 81) – snad 1. manželství. Sňatek s Jakubem Tichým v indexu O 1784–1812 není."
       ],
       sources: [
         "MZA Brno, N 13123, sn. 380, str. 392 (13. 7. 1797) – https://www.mza.cz/actapublica/matrika/detail/1951"
