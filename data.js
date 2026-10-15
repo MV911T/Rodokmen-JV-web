@@ -6377,7 +6377,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"},
         {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest Martina Semence, Zbečno 8. 11. 1807"},
-        {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest dcery Marie Semencové, Zbečno 28. 6. 1838"}
+        {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest dcery Marie Semencové, Zbečno 28. 6. 1838"},
+        {"f":"img/1849_Z_Semencova_Katerina_Zbecno45.jpg","t":"Úmrtí manželky Kateřiny, Zbečno 1849"}
       ]
     },
     {
@@ -6387,22 +6388,27 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"asi 1803","year":1803,"approx":true,"place":"Zbečno č. p. 11"},
+      d: {"date":"14. 1. 1849","year":1849,"place":"Zbečno č. p. 45"},
+      cause: "horečka omladnic (febris puerperalis)",
       father: "vaclav_ws",
       spouse: "martin_se",
       marriage: "6. 11. 1827, Zbečno – s Martinem Semencem",
       notes: [
         "Dcera Václava Wašíka (?), domkáře ve Zbečně č. 11, a Anny roz. Pšan… (?); oddána 6. 11. 1827 (24 let). Rodné příjmení Wašík (?) v zápisech 1827, 1833 (bratr František) a 1838 shodně; čtení „Vojtíšek“ (1869) a „Barbora Hlavičková“ (1870) byla chybná.",
-        "Zápis o úmrtí dcery Marie 1922 uvádí matku „Kateřina roz. Vosyková ze Zbečna č. 11“ – týž dům č. 11 jako u Václava Wašíka (?); potvrzuje tvar Wašík/Vosyk (M)."
+        "Zápis o úmrtí dcery Marie 1922 uvádí matku „Kateřina roz. Vosyková ze Zbečna č. 11“ – týž dům č. 11 jako u Václava Wašíka (?); potvrzuje tvar Wašík/Vosyk (M).",
+        "Zemřela 14. 1. 1849 (pohřbena 16. 1.) ve Zbečně č. 45: „Semencová Kateřina, manželka Martina Semence, chalupníka ze Zbečna čís. 45, rozená Wošíková ze Zbečna“, 43 let, horečka omladnic – den předtím (8. 1.) se jí narodilo a zemřelo dítě (Zbečno 16, sn. 67 vpravo, pag. 131; M, ověřeno)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25",
+        "SOA Praha, Zbečno 16 (Z), sn. 67 vpravo, pag. 131 – https://ebadatelna.soapraha.cz/d/8861/67"
       ],
       scans: [
         {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"},
-        {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest dcery Marie Semencové, Zbečno 28. 6. 1838"}
+        {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest dcery Marie Semencové, Zbečno 28. 6. 1838"},
+        {"f":"img/1849_Z_Semencova_Katerina_Zbecno45.jpg","t":"Úmrtí 14. 1. 1849, Zbečno č. 45"}
       ]
     },
     {
@@ -7564,7 +7570,8 @@ window.RODOKMEN = {
         {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest Marie Semencové, Zbečno 28. 6. 1838"},
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
         {"f":"img/1793_O_Semenec_Frantisek_Hlavickova_Ludmila.jpg","t":"Sňatek Františka Semence a Ludmily Hlavičkové, Branov 27. 10. 1793"},
-        {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest syna Martina Semence, Zbečno 8. 11. 1807"}
+        {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest syna Martina Semence, Zbečno 8. 11. 1807"},
+        {"f":"img/1852_Z_Semencova_Ludmila_Zbecno45.jpg","t":"Úmrtí vdovy Ludmily, Zbečno 1852"}
       ]
     },
     {
@@ -7656,6 +7663,8 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"11. 5. 1771","year":1771,"place":"Branov č. p. 4"},
+      d: {"date":"17. 9. 1852","year":1852,"place":"Zbečno č. p. 45"},
+      cause: "slabost věku",
       father: "vaclav_hl",
       mother: "barbora_hl0",
       spouse: "frantisek_sm",
@@ -7663,19 +7672,22 @@ window.RODOKMEN = {
       notes: [
         "Narozena 11., pokřtěna 12. 5. 1771 v Branově č. 4 (fara Zbečno): rodiče Václav Hlavička a Barbora; kmotři Anna, manželka Františka Peltze z Branova, Barbora Jungmanová (?) z Nezabudic a Petr Dubský (?) z Branova.",
         "Oddána 27. 10. 1793 v Branově (fara Nezabudice) s Františkem Semencem, chalupníkem ze Zbečna (22 let). Děti Martin (*1807), Kateřina (*25. 11. 1817) – v listopadu 1817 žila; starší děti 1794–1806 zatím nehledány.",
-        "Obec „Karnov / Krawno“ v zápisech dětí = Branov (okr. Rakovník)."
+        "Obec „Karnov / Krawno“ v zápisech dětí = Branov (okr. Rakovník).",
+        "Zemřela 17. 9. 1852 (pohřbena 19. 9.) ve Zbečně č. 45: „Ludmila, pozůstalá vdova po † Františku Semencovi, výminkářka ve Zbečně N: 45“, 85 let (skutečně 81) (Zbečno 16, sn. 83 vlevo, pag. 162; M, ověřeno koordinátorem). Manžel František zemřel před 1852 (v Z Zbečno 1805–1828 není)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 67, snímek 36 – https://ebadatelna.soapraha.cz/d/8855/36",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), pag. 463, snímek 237 – https://ebadatelna.soapraha.cz/d/8849/237",
-        "SOA Praha, ř.-k. fara Nezabudice, kniha Nezabudice 06 (9764, O 1785–1873), oddíl Branov, pag. 3, snímek 5 – https://ebadatelna.soapraha.cz/d/9764/5"
+        "SOA Praha, ř.-k. fara Nezabudice, kniha Nezabudice 06 (9764, O 1785–1873), oddíl Branov, pag. 3, snímek 5 – https://ebadatelna.soapraha.cz/d/9764/5",
+        "SOA Praha, Sbírka matrik, ř.-k. fara Zbečno, Zbečno 16 (Z), sn. 83 vlevo, pag. 162 – https://ebadatelna.soapraha.cz/d/8861/83"
       ],
       scans: [
         {"f":"img/1771_N_Hlavickova_Ludmila_Branov.jpg","t":"Křest Ludmily Hlavičkové, Branov č. 4, 12. 5. 1771"},
         {"f":"img/1793_O_Semenec_Frantisek_Hlavickova_Ludmila.jpg","t":"Sňatek Františka Semence a Ludmily Hlavičkové, Branov 27. 10. 1793"},
         {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest syna Martina, Zbečno 1807"},
-        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"}
+        {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
+        {"f":"img/1852_Z_Semencova_Ludmila_Zbecno45.jpg","t":"Úmrtí 17. 9. 1852, Zbečno č. 45"}
       ]
     },
     {
@@ -8666,16 +8678,21 @@ window.RODOKMEN = {
       name: "Jan Klika",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      b: {"date":"neznámé (asi 1748)","year":1748,"approx":true,"place":"Bykoš"},
+      d: {"date":"24. 6. 1831","year":1831,"place":"Bykoš č. p. 10"},
+      cause: "věkem sešlý",
       spouse: "katerina_kl",
       notes: [
-        "Sedlák v Bykoši č. 10 (poddaný suchomastský); manželka Kateřina. Děti: Kateřina (1776), Josef (1785), František (1789), František (1791). Sňatek ve faře Borek II 1774 – VII 1777 není (spíš před 1774). Pozor: jiný Jan Klika, syn Václava, sedláka z Bykoše, se II 1775 oženil s Ludmilou Burianovou."
+        "Sedlák v Bykoši č. 10 (poddaný suchomastský); manželka Kateřina. Děti: Kateřina (1776), Josef (1785), František (1789), František (1791). Sňatek ve faře Borek II 1774 – VII 1777 není (spíš před 1774). Pozor: jiný Jan Klika, syn Václava, sedláka z Bykoše, se II 1775 oženil s Ludmilou Burianovou.",
+        "Zemřel 24. 6. 1831 (pohřben 27. 6.) v Bykoši č. 10: „Klika Jan, bývalý sedlák a výminkář bikoský, z Bikoše rozený“, 83 let (Borek 14, sn. 4 vlevo, pag. 4; M, ověřeno) → *~1748. KANDIDÁT křtu (K): Jan, syn Václava Kliky × Kateřiny z Bykoše, pokřtěn 12. 9. 1748 – pak by Eva Skálová (× 1770) byla jeho sestrou (implex); pozor na druhého Jana, syna Václava (× 1775 Ludmila Burianová)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20",
+        "SOA Praha, Borek 14 (Z), sn. 4 vlevo – https://ebadatelna.soapraha.cz/d/4083/4"
       ],
       scans: [
-        {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"}
+        {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"},
+        {"f":"img/1831_Z_Klika_Jan_Bykos10.jpg","t":"Úmrtí 24. 6. 1831, Bykoš č. 10"}
       ]
     },
     {
