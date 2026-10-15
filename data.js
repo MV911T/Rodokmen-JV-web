@@ -7866,26 +7866,31 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (asi 1756, kandidátní křest – viz poznámky)","year":1756,"approx":true,"place":"Hodějice"},
+      d: {"date":"2. 4. 1825","year":1825,"place":"Hodějice č. p. 77"},
+      cause: "Lungensucht (tuberkulóza)",
       father: "jiri_si",
       mother: "apolonie_si",
       spouse: "johanna_mg",
-      occ: "čtvrtník v Hodějicích č. 35",
+      occ: "čtvrtník v Hodějicích č. 35; výměnkář (1825)",
       marriage: "2. sňatek 6. 5. 1783, Hodějice – s Johannou Magkovou (?)",
       notes: [
         "Otec Magdaleny Hrabovské (sňatek 1806).",
         "Manželka Johanna (křty 1784, 1785).",
         "Podruhé oddán 6. 5. 1783 v Hodějicích (č. 52) jako vdovec s Johannou, dcerou † Antonína Magka (?) z Hodějic; svědci Pavel Hrabovský (budoucí tchán dcery Magdaleny) a Jakub Ambrosík.",
+        "Zemřel 2. 4. 1825 (pohřben 4. 4.) v Hodějicích č. 77: „Martin Schimonik, Ausgedinger“, 74 let, Lungensucht (Z 13149 str. 270, sn. 243 vlevo; index Z 13161 sn. 177 vlevo – jediný Martin Šimoník 1800–1825; M zápis, ověřeno koordinátorem) → *~1751. ROZPOR: kandidátní křest 25. 10. 1756 by dával 68 let.",
         "KANDIDÁT křtu (K+): 25. 10. 1756 Hodějice – „Martinus; Georgius Schimonik inqu[ilinus] Hodiegicio, Apollonia“; kmotři Jiří Florian, sedlák z Hodějic, a Kateřina jeho manželka (N 13121 sn. 119 vpravo; M zápis, ověřeno koordinátorem). Sourozenci (stejní rodiče a kmotři): Jakub 14. 7. 1752, Josef 27. 2. 1754 (snad Josef Šimoník × Marianna, × 1775), Jan († dítě IX 1765). Pro M chybí věk při úmrtí Martina."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Hodějice, str. 150, snímek 122 – https://www.mza.cz/actapublica/matrika/detail/1959",
         "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 15 – https://www.mza.cz/actapublica/matrika/detail/1958",
-        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, Sbírka matrik, ř.-k. fara Slavkov, N 13121, sn. 119 vpravo (25. 10. 1756) – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, Z 13149, str. 270, sn. 243 vlevo – https://www.mza.cz/actapublica/matrika/detail/1964"
       ],
       scans: [
         {"f":"img/1806_O_13137_sn122_str150_Hodejice_Hrabovsky_Jiri_x_Simonikova_Magdalena_plne_rozl.jpg","t":"Sňatek Jiřího Hrabovského a Magdaleny Šimoníkové, Hodějice 20. 7. 1806"},
         {"f":"img/1783_O_13136_sn15R_Simonik_Martin_x_Johanna_Magek_svedek_Pavel_Hrabovsky_offset1.jpg","t":"Sňatek Martina Šimoníka a Johanny Magkové (?), Hodějice 6. 5. 1783"},
-        {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest 25. 10. 1756, Hodějice (kandidát)"}
+        {"f":"img/1756_N_Simonik_Martin_Hodejice.jpg","t":"Křest 25. 10. 1756, Hodějice (kandidát)"},
+        {"f":"img/1825_Z_Simonik_Martin_Hodejice77.jpg","t":"Úmrtí 2. 4. 1825, Hodějice č. 77"}
       ]
     },
     {
@@ -12598,7 +12603,8 @@ window.RODOKMEN = {
       spouse: "apolonie_si",
       marriage: "18. 1. 1750, Hodějice – s Apolonií Láníčkovou",
       notes: [
-        "KANDIDÁT (K+): otec Martina Šimoníka (*25. 10. 1756). Syn † Josefa Šimoníka; × 18. (I) 1750 Hodějice „honesta puella Apollonia filia Mathiae Lanižek, utrique Hodiegicio“; svědci Josef Masnička (?) a Josef Majek (O 13120 sn. 269 vlevo; M zápis). 1752–1756 podruh (1754 sedlák ?) v Hodějicích; děti Jakub 1752, Josef 1754, Martin 1756, Jan († 1765). Úmrtí nehledáno (Z 13121 od sn. 447)."
+        "KANDIDÁT (K+): otec Martina Šimoníka (*25. 10. 1756). Syn † Josefa Šimoníka; × 18. (I) 1750 Hodějice „honesta puella Apollonia filia Mathiae Lanižek, utrique Hodiegicio“; svědci Josef Masnička (?) a Josef Majek (O 13120 sn. 269 vlevo; M zápis). 1752–1756 podruh (1754 sedlák ?) v Hodějicích; děti Jakub 1752, Josef 1754, Martin 1756, Jan († 1765). Úmrtí nehledáno (Z 13121 od sn. 447).",
+        "Žil ~1769 (dítě Kateřina † XII 1769, Z 13121 sn. 470 vlevo; K). Úmrtí Jiřího a Apolonie nenalezeno v Z 13121 VI 1766 – X 1770 ani v indexu Z 13161 S 1784 – ~1795."
       ],
       sources: [
         "MZA Brno, O 13120, sn. 269 vlevo (18. 1. 1750) – https://www.mza.cz/actapublica/matrika/detail/1946",
