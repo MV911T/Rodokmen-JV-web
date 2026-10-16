@@ -12026,17 +12026,24 @@ window.RODOKMEN = {
       maiden: "Sýkorová (?)",
       line: "svoboda",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      b: {"date":"2. (?) 9. 1752 (křest)","year":1752,"place":"Lounín (fara Tmaň)"},
+      d: {"date":"15. 3. 1797","year":1797,"place":"Málkov č. p. 1"},
+      cause: "otok (vodnatelnost)",
       father: "matej_sy",
+      mother: "salomena_sy",
       spouse: "vaclav_sv1",
       notes: [
         "Manželka Václava Svobody, sedláka (1791) / domkáře (1818) v Málkově, „rodaná Tmanská“; matka Matěje (*9. 10. 1791) – křest syna (M). Rodné příjmení neuvedeno; sňatek a křty hledat ve faře Tmaň.",
         "KANDIDÁT původu (K): Ludmila, dcera Matěje Sýkory, sedláka z Lounína, × 11. 7. 1771 Václav Svoboda (viz karta Václava).",
-        "Praha N71: jako † matka při sňatku dcery Josefy II 1798 „Lidmila rozená S(ý)korová (?) z Lounína“ (Borek 06 O sn. 84 vpravo; M) → totožná s nevěstou 1771 (K++); † VI 1794 – II 1798 (úmrtí zatím nenalezeno). Matka Matěje *1791 (žila 1794) – 2. manželka Václava je jiná Ludmila (dcera Václava …ického ?)."
+        "Praha N71: jako † matka při sňatku dcery Josefy II 1798 „Lidmila rozená S(ý)korová (?) z Lounína“ (Borek 06 O sn. 84 vpravo; M) → totožná s nevěstou 1771 (K++); † VI 1794 – II 1798 (úmrtí zatím nenalezeno). Matka Matěje *1791 (žila 1794) – 2. manželka Václava je jiná Ludmila (dcera Václava …ického ?).",
+        "Pokřtěna IX 1752 (den 2 ?, nar. 1 ?) v Lounínu: „Infans Ludmilla, Parens Mathias Sikora, Mater Salomena“, levans Kateřina Zálezská (?) z Tmaně (Tmaň 02 N sn. 43 vlevo; M, ověřeno koordinátorem; rok 1752 podle hlavičky „Anno 1753“ na protější straně) → ztotožnění s nevěstou 1771 (18–19 let) D/K++.",
+        "Zemřela 15. 3. 1797 (pohřbena 17. 3.) Málkov č. 1 – „Lidmila Svobodová, selka“, 40 let, otok (Borek 06 Z sn. 114 vpravo; M). ROZPOR věku: 40 → *~1757 × křest 1752 (platí křest)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 05 (4074, N 1784–1795), pag. 53, snímek 55, 1. zápis (9. 10. 1791) – https://ebadatelna.soapraha.cz/d/4074/55",
-        "SOA Praha, Borek 06 (4075), O Málkov sn. 84 vpravo, fol. 45 (II 1798), https://ebadatelna.soapraha.cz/d/4075/84"
+        "SOA Praha, Borek 06 (4075), O Málkov sn. 84 vpravo, fol. 45 (II 1798), https://ebadatelna.soapraha.cz/d/4075/84",
+        "SOA Praha, Tmaň 02 (10456), N sn. 43 vlevo (IX 1752), https://ebadatelna.soapraha.cz/d/10456/43",
+        "SOA Praha, Borek 06 (4075), Z sn. 114 vpravo (15. 3. 1797), https://ebadatelna.soapraha.cz/d/4075/114"
       ],
       scans: [
         {"f":"img/1791_N_Svoboda_Matej_Malkov.jpg","t":"Křest syna Matěje, Málkov 1791"}
@@ -12443,7 +12450,8 @@ window.RODOKMEN = {
         "Matka Ludmily Stádlerové: „matky Ludmily rozené Vadlejškové z Hořaždovic“ (křest vnučky Magdaleny 1848, Borek 09 sn. 38 vpravo; M). Hořaždovice = asi Horažďovice (Prácheňsko).",
         "ROZPOR (rodné příjmení): 1851 „baby Ludmily rozené Rozné (?) z K…ína, panství Hořaždovice“ (Borek 13 sn. 3) × 1848 „rozené Vadlejškové z Hořaždovic“ – obě verze uvedeny, čtení obou nejisté.",
         "Křest vnučky 1817: „matky Ludmily Rozovy (?) z Sazjone (?)“ (Malý Bor 13 sn. 316) – podporuje čtení „Rozná / Rozová“ z 1851 proti „Vadlejšková“ z 1848.",
-        "Rodné příjmení Rosecová: křest dcery 1788 „Ludmilla rozená R…cowa“ a křest vnučky 1817 „matky Ludmily Rosecowy z Sazjone (?)“ (MB 13 sn. 316; M, čteno celé). Varianty „Vadlejšková“ (1848) a „Rozná“ (1851) jsou zkomoleniny pozdních zápisů."
+        "Rodné příjmení Rosecová: křest dcery 1788 „Ludmilla rozená R…cowa“ a křest vnučky 1817 „matky Ludmily Rosecowy z Sazjone (?)“ (MB 13 sn. 316; M, čteno celé). Varianty „Vadlejšková“ (1848) a „Rozná“ (1851) jsou zkomoleniny pozdních zápisů.",
+        "Plzeň N88: sňatek s Janem Stodlem není v Horažďovice 09 (O 1778–84, celé) ani v rejstřících Horažďovice 24/25 (ženichové S 1755–1840); Rosecová / Rozná v rejstříku N Horažďovice 1754–82 není (jen „Rož…ková Lydmilla“ 1764, K−). Dál fary podle služby ovčáka (Velký Bor, Kvášňovice, Myslív, Žichovice)."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28"
@@ -13813,10 +13821,27 @@ window.RODOKMEN = {
       cert: "K",
       b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true,"place":"Lounín (?)"},
       notes: [
-        "KANDIDÁT (K++): otec Ludmily Svobodové – sňatek 11. 7. 1771 „Ludmilla, Mathiae Sykora rustici superstite filia legitima Launiniensi“ (Tmaň 02 O sn. 192 vlevo; M) – sedlák v Lounínu, tehdy žil. Úmrtí a manželka nehledány."
+        "KANDIDÁT (K++): otec Ludmily Svobodové – sňatek 11. 7. 1771 „Ludmilla, Mathiae Sykora rustici superstite filia legitima Launiniensi“ (Tmaň 02 O sn. 192 vlevo; M) – sedlák v Lounínu, tehdy žil. Úmrtí a manželka nehledány.",
+        "Oženil se VII 1748 s Salomenou, vdovou po Václavu Skálovi z Lounína (Tmaň 02 O sn. 166 vpravo; Praha 45). Dcera Ludmila IX 1752 (Tmaň 02 N sn. 43 vlevo; M)."
       ],
       sources: [
-        "SOA Praha, Tmaň 02, O sn. 192 vlevo (11. 7. 1771)"
+        "SOA Praha, Tmaň 02, O sn. 192 vlevo (11. 7. 1771)",
+        "SOA Praha, Tmaň 02 (10456), N sn. 43 vlevo (IX 1752), https://ebadatelna.soapraha.cz/d/10456/43"
+      ]
+    },
+    {
+      id: "salomena_sy",
+      name: "Salomena Sýkorová",
+      maiden: "Soukalová",
+      line: "svoboda",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1712)","year":1712,"approx":true},
+      notes: [
+        "KANDIDÁTKA (K++): matka Ludmily Svobodové – křest IX 1752 Lounín „Parens Mathias Sikora, Mater Salomena“ (Tmaň 02 N sn. 43 vlevo; M).",
+        "1. sňatek 29. 11. 1733 s Václavem Skálou z Lounína (snad bratr předka Jiřího Skály st.; K); jako vdova × VII 1748 Matěj Sikora (Tmaň 02 O sn. 166 vpravo). Ludmila je tak nevlastní sestra dětí Václava Skály."
+      ],
+      sources: [
+        "SOA Praha, Tmaň 02 (10456), N sn. 43 vlevo (IX 1752), https://ebadatelna.soapraha.cz/d/10456/43"
       ]
     }
   ]
