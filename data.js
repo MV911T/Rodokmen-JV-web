@@ -9475,7 +9475,8 @@ window.RODOKMEN = {
         "Oddán 9. 6. 1765 v kostele v Seleticích: „Georgius Girsko … cum sua honesta sponsa Maria Wolkova ex pago Seletiz, ambo subditi ad Dominium Krzinecense“; svědci Jan Volek, Šimon Hofmann a Anna Jírková; oddal administrátor Václav Schrámek. Rodiče a věk neuvedeny.",
         "Chalupník v Seleticích (fara Rožďalovice); zemřel před XI 1817. Otec Anny Šnejdrové.",
         "S manželkou Marií v Seleticích č. 40: Anna (18. 12. 1776), Dorota (9. 8. 1778), Marie (30. 3. 1780, † 7. 4. 1780).",
-        "Zemřel 3. 12. 1809 (pohřben 5. 12.) Seletice č. 62 – „Jiří Jírek, výměnkář“, 70 let, zaopatřen (Mcely 10 Z sn. 34 vlevo; M, ověřeno koordinátorem; rok z hlavičky „Mrtví ze Seletic v roce 1809“) → *~1739; dům č. 62 = bydliště dcery Anny 1796 (ztotožnění D). Křest: fara Seletic před 1759 nezjištěna – Křinec 02 N VI 1742 – 1743 bez Seletic; zkusit Rožďalovice 02 (1719–48), Kněžice, Dymokury."
+        "Zemřel 3. 12. 1809 (pohřben 5. 12.) Seletice č. 62 – „Jiří Jírek, výměnkář“, 70 let, zaopatřen (Mcely 10 Z sn. 34 vlevo; M, ověřeno koordinátorem; rok z hlavičky „Mrtví ze Seletic v roce 1809“) → *~1739; dům č. 62 = bydliště dcery Anny 1796 (ztotožnění D). Křest: fara Seletic před 1759 nezjištěna – Křinec 02 N VI 1742 – 1743 bez Seletic; zkusit Rožďalovice 02 (1719–48), Kněžice, Dymokury.",
+        "Praha N83 (K): 2. 5. 1800 (pohřbena 4. 5.) Seletice č. 62 (?) – „Magdalena, manželka Jiřího Jírka, chalupníka“, 60 let (Mcely 10 Z sn. 18 vlevo; M zápis, ověřeno koordinátorem – číslo domu čtu spíš 62 než 52) → buď 2. manželka Jiřího (Marie Volková † před 1800 – úmrtí v Mcely 10 Z 1795–1811 není), nebo chybné jméno Marie/Magdalena (ROZPOR, nerozhodnuto). Křest Jiřího: Seletice nejsou v Rožďalovice 02 (1738–41), Všejany 03 (1740–41) ani Městec Králové 02 (1739–40); fara Seletic před 1759 neznámá."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Pojedy, fol. 99, snímek 98 vpravo – https://ebadatelna.soapraha.cz/d/11184/98",
@@ -9779,7 +9780,8 @@ window.RODOKMEN = {
       spouse: "jiri_jr",
       marriage: "9. 6. 1765 – s Jiřím Jírkem",
       notes: [
-        "Ze Seletic (panství Křinec); oddána 9. 6. 1765 s Jiřím Jírkem. Matka Anny (1776), Doroty (1778) a Marie (1780), Seletice č. 40. Vazba na Annu Šnejdrovou D (viz její karta)."
+        "Ze Seletic (panství Křinec); oddána 9. 6. 1765 s Jiřím Jírkem. Matka Anny (1776), Doroty (1778) a Marie (1780), Seletice č. 40. Vazba na Annu Šnejdrovou D (viz její karta).",
+        "Praha N83 (K): 2. 5. 1800 (pohřbena 4. 5.) Seletice č. 62 (?) – „Magdalena, manželka Jiřího Jírka, chalupníka“, 60 let (Mcely 10 Z sn. 18 vlevo; M zápis, ověřeno koordinátorem – číslo domu čtu spíš 62 než 52) → buď 2. manželka Jiřího (Marie Volková † před 1800 – úmrtí v Mcely 10 Z 1795–1811 není), nebo chybné jméno Marie/Magdalena (ROZPOR, nerozhodnuto). Křest Jiřího: Seletice nejsou v Rožďalovice 02 (1738–41), Všejany 03 (1740–41) ani Městec Králové 02 (1739–40); fara Seletic před 1759 neznámá."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 326, snímek 72 vlevo (9. 6. 1765); rejstřík O sn. 86 – https://ebadatelna.soapraha.cz/d/8402/72",
