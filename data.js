@@ -9622,7 +9622,8 @@ window.RODOKMEN = {
       marriage: "18. 1. 1778 – s Jakubem Šulcem",
       notes: [
         "Dcera † Jindřicha Čihala; oddána 18. 1. 1778 v Žitovlicích č. 8 s Jakubem Šulcem, nádeníkem. Matka Kateřiny (1787) a Jana (1789).",
-        "Zemřela 25. 2. 1808 (pohřbena 27. 2.) v Žitovlicích č. 8: „Kateřina, manželka Jakuba Šulce, baráčníka“, 62 let (Rožďalovice 14, fol. 59, sn. 50 vpravo; M zápis, ztotožnění D – rodné příjmení neuvedeno) → *~1746."
+        "Zemřela 25. 2. 1808 (pohřbena 27. 2.) v Žitovlicích č. 8: „Kateřina, manželka Jakuba Šulce, baráčníka“, 62 let (Rožďalovice 14, fol. 59, sn. 50 vpravo; M zápis, ztotožnění D – rodné příjmení neuvedeno) → *~1746.",
+        "Praha N86: křest Kateřiny, dcery Jindřicha Čihala, není v Rožďalovice 02 N II 1745 – X 1747 (montáže, střední negativ); Jindřich Čihal kmotrem u křtu ze Žitovlic 10. 5. 1747 (sn. 225 vpravo; M) – rodina spjatá se Žitovlicemi. Kmotra Kateřina Čihalová 1747 (snad matka, K). V Rožďalovicích i Antonín Čihal × Anna (jiná rodina). Zbývá N 1743–44, 1748 a Rožďalovice 03 (1748–52)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Žitovlice, pag. 9, snímek 8 vpravo (10. 8. 1789); index Rožďalovice 22 sn. 207 – https://ebadatelna.soapraha.cz/d/11182/8",
