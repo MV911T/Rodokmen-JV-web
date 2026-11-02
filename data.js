@@ -9564,7 +9564,8 @@ window.RODOKMEN = {
         "S manželkou Kateřinou děti Kateřina (24. 2. 1787) a Jan (10. 8. 1789) ve Žitovlicích č. 8.",
         "Oddán 18. 1. 1778 (Žitovlice č. 8): „Jacobus Schulcz operarius cum Catharina post Henricum Czihal filia“; svědci Petr Holý, nádeník, a Kateřina, dcera † Jana Kuse (?); oddal kaplan Metoděj Wisinger. Rodiče ženicha a věky neuvedeny.",
         "Zemřel 13. 12. 1808 (pohřben 15. 12.) v Žitovlicích č. 16: „Jakub Šulc, baráčník z Žitovlic“, 54 (?) let (věk přepsaný; index Rožďalovice 37: 54 l.), „na vodnau nemoc“ (Rožďalovice 14, fol. 59, sn. 50 vpravo; M) → *~1754. Dům č. 16, ne č. 8 jako 1789/1808 u manželky.",
-        "Praha N91: křest Jakuba Šulce není v Rožďalovice 03 N V 1752 – XII 1755 (střední negativ); Šulcové na panství: Jan Šulc × Dorota (syn František 11. 12. 1752, z Hamrů ?; sn. 24 vpravo; M), Václav Šulc × Kateřina (Pojedy 1754), Jan Š… (Žitovlice 1753) – kandidáti rodičů (K). Zbývá N 1749–51 a 1756–58."
+        "Praha N91: křest Jakuba Šulce není v Rožďalovice 03 N V 1752 – XII 1755 (střední negativ); Šulcové na panství: Jan Šulc × Dorota (syn František 11. 12. 1752, z Hamrů ?; sn. 24 vpravo; M), Václav Šulc × Kateřina (Pojedy 1754), Jan Š… (Žitovlice 1753) – kandidáti rodičů (K). Zbývá N 1749–51 a 1756–58.",
+        "Praha N92: Jakub Šulc není v Rožďalovice 03 N VIII 1750 – XII 1751 ani XII 1755 – XII 1758 (střední negativ). Další Šulcové: Václav Šul(c) (?), podruh × Dorota, Žitovlice (syn Václav Vít VI 1751); Václav Šulc, soused, Pojedy × Kateřina (1754, 1757) a × Marie Magdalena (II 1758). Zbývá N 1749 – VIII 1750 a 1745–48."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
