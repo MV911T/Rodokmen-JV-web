@@ -13808,7 +13808,8 @@ window.RODOKMEN = {
       d: {"date":"19. 1. 1797","year":1797,"place":"Málkov č. p. 1"},
       notes: [
         "KANDIDÁT (K++): otec Václava Svobody – sňatek syna 11. 7. 1771 „Wenceslaus, rustici Wenceslai Swoboda filius Malkoviensis“ (Tmaň 02 O sn. 192 vlevo; M). Sedlák v Málkově č. 1.",
-        "Zemřel 19. 1. 1797 Málkov č. 1 – „Václav Svoboda, otec Václava Svobody, rychtáře (?)“, věk zapsán 102 let (jistě nadsazený), stářím (Borek 06 Z sn. 114 vlevo; M)."
+        "Zemřel 19. 1. 1797 Málkov č. 1 – „Václav Svoboda, otec Václava Svobody, rychtáře (?)“, věk zapsán 102 let (jistě nadsazený), stářím (Borek 06 Z sn. 114 vlevo; M).",
+        "Praha N73 (K): v Málkově 1744–47 Václav Svoboda × Dorota (Vojtěch 23. 4. 1744, Josefa 13. 6. 1747; Tmaň 02 N sn. 30 vlevo, 34 vlevo; M), sňatek snad 1. 6. 1734 Tmaň – Václav Svoboda × Dorota, vdova po Martinu Hezerovi (?) (Tmaň 02 O sn. 159 vpravo; M) – ztotožnění s Václavem st. z č. 1 jen K (dům neuveden; v Málkově též Šimon a Vavřinec Svobodové). Křest Václava ml. není v Tmaň 02 N 1744–51 – zbývá 1735–43."
       ],
       sources: [
         "SOA Praha, Tmaň 02, O sn. 192 vlevo (11. 7. 1771)",
@@ -13821,13 +13822,15 @@ window.RODOKMEN = {
       line: "svoboda",
       cert: "K",
       b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true,"place":"Lounín (?)"},
+      father: "pavel_sy",
       notes: [
         "KANDIDÁT (K++): otec Ludmily Svobodové – sňatek 11. 7. 1771 „Ludmilla, Mathiae Sykora rustici superstite filia legitima Launiniensi“ (Tmaň 02 O sn. 192 vlevo; M) – sedlák v Lounínu, tehdy žil. Úmrtí a manželka nehledány.",
-        "Oženil se VII 1748 s Salomenou, vdovou po Václavu Skálovi z Lounína (Tmaň 02 O sn. 166 vpravo; Praha 45). Dcera Ludmila IX 1752 (Tmaň 02 N sn. 43 vlevo; M)."
+        "Oženil se 8. 7. 1748 v Tmani: „a Militiis honestus Mathias Sikora proprius filius Pauli Sikora ex pago Svata, cum honesta Salomena vidua post defunctum Wenceslaum Skala ex pago Tman“; svědek Pavel Sikora, družba Václav Sikora, družička Kateřina Sikorová, všichni ze Svaté, poddaní ke Křivoklátu (Tmaň 02 O sn. 166 vpravo; M, ověřeno koordinátorem) → pocházel ze Svaté (panství Křivoklát), byl vysloužilý voják; Praha 46 chybně četla Lounín. Dcera Ludmila IX 1752 (Tmaň 02 N sn. 43 vlevo; M)."
       ],
       sources: [
         "SOA Praha, Tmaň 02, O sn. 192 vlevo (11. 7. 1771)",
-        "SOA Praha, Tmaň 02 (10456), N sn. 43 vlevo (IX 1752), https://ebadatelna.soapraha.cz/d/10456/43"
+        "SOA Praha, Tmaň 02 (10456), N sn. 43 vlevo (IX 1752), https://ebadatelna.soapraha.cz/d/10456/43",
+        "SOA Praha, Tmaň 02 (10456), O sn. 166 vpravo, 3. zápis (8. 7. 1748), https://ebadatelna.soapraha.cz/d/10456/166"
       ]
     },
     {
@@ -13839,10 +13842,23 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1712)","year":1712,"approx":true},
       notes: [
         "KANDIDÁTKA (K++): matka Ludmily Svobodové – křest IX 1752 Lounín „Parens Mathias Sikora, Mater Salomena“ (Tmaň 02 N sn. 43 vlevo; M).",
-        "1. sňatek 29. 11. 1733 s Václavem Skálou z Lounína (snad bratr předka Jiřího Skály st.; K); jako vdova × VII 1748 Matěj Sikora (Tmaň 02 O sn. 166 vpravo). Ludmila je tak nevlastní sestra dětí Václava Skály."
+        "1. sňatek 29. 11. 1733 s Václavem Skálou (otec nevěsty neuveden; Tmaň 02 O sn. 159 vpravo; M); Václav Skála podle zápisu 1748 „z Tmaně“, u křtu dcery Kateřiny 1734 okraj „z Lounína“ – ROZPOR bydliště; snad bratr předka Jiřího Skály st. (K). Jako vdova × 8. 7. 1748 Matěj Sikora ze Svaté (Tmaň 02 O sn. 166 vpravo; M). Ludmila je nevlastní sestra dětí Václava Skály."
       ],
       sources: [
         "SOA Praha, Tmaň 02 (10456), N sn. 43 vlevo (IX 1752), https://ebadatelna.soapraha.cz/d/10456/43"
+      ]
+    },
+    {
+      id: "pavel_sy",
+      name: "Pavel Sikora (Sýkora)",
+      line: "svoboda",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true,"place":"Svatá (panství Křivoklát)"},
+      notes: [
+        "KANDIDÁT (K++): otec Matěje Sikory – „Mathias Sikora proprius filius Pauli Sikora ex pago Svata“ při sňatku 8. 7. 1748 (Tmaň 02 O sn. 166 vpravo; M); Pavel byl svědkem, tedy žil. Ve Svaté též Václav a Kateřina Sikorovi (družba, družička). Křest a úmrtí hledat ve faře Svatá (SOA Praha)."
+      ],
+      sources: [
+        "SOA Praha, Tmaň 02 (10456), O sn. 166 vpravo, 3. zápis (8. 7. 1748), https://ebadatelna.soapraha.cz/d/10456/166"
       ]
     }
   ]
