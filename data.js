@@ -4713,7 +4713,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Václava Oty.",
         "Oddán 18. 1. 1797 (Krchleby č. 17): „Franz, syn po † Pavlovi Otta ze Skrchleb, H. C.“, 18 let, s Annou, dcerou Jana Zajíčka, sedláka ze Skrchleb, 16 let (katol.); svědci Matěj Otta a Pavel Hrnyš (?), chalupníci (Nymburk 08 O sn. 196 vlevo; M, ověřeno koordinátorem).",
-        "KANDIDÁT křtu (K+): X 1777 (den 27 ?) Krchleby č. 17 – „Franciscus, Paulus Otta, Bodrianus (?), uxor Catharina“, kmotři Jiří Krejčík a Anna Sklepníková (Nymburk 08 N sn. 59 vlevo; M) – týž dům a otec. Pozor: Pavel Otta, tkadlec × Dorota ze Všechlap 29 – jiná rodina."
+        "KANDIDÁT křtu (K+): X 1777 (den 27 ?) Krchleby č. 17 – „Franciscus, Paulus Otta, Bodrianus (?), uxor Catharina“, kmotři Jiří Krejčík a Anna Sklepníková (Nymburk 08 N sn. 59 vlevo; M) – týž dům a otec. Pozor: Pavel Otta, tkadlec × Dorota ze Všechlap 29 – jiná rodina.",
+        "Praha N102: den křtu podle pořadí zápisů 11. 10. 1777 (?) (Nymburk 08 N sn. 59 vlevo). „Seznam smíšených manželství“ (Veleliby 13 sn. 52 vlevo; D): František Otto č. 17 H. C. × Anna Zajíček (Jan, kat.); syn Václav × Kateřina, dcera Pavla Málka a Anny Krebsové; Pavel × Anna Maršálková; dcery Anna × Pavel Málek, Kateřina × Matěj Zajíček."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
@@ -14103,7 +14104,7 @@ window.RODOKMEN = {
       notes: [
         "Otec Františka Oty – „Franz, syn po † Pavlovi Otta ze Skrchleb, H. C.“ (sňatek 18. 1. 1797; Nymburk 08 O sn. 196 vlevo; M). Sedlák (?) v Krchlebích č. 17, helvetské vyznání. Kandidátní křest syna X 1777 s manželkou Kateřinou (Nymburk 08 N sn. 59 vlevo). Sňatek a úmrtí nehledány.",
         "Zemřel 11. 5. 1795 (pohřben 13. 5.) Krchleby č. 17 – „Pavel Otta, sedlák“, 60 let; pohřbil Samuel Schütz, superintendent H. C. z Chlebů (Nymburk 05 Z sn. 348 vpravo, pag. 753; M, ověřeno koordinátorem) → *~1735. Děti z č. 17: Dorota † 23. 2. 1784 (5 let), Alžběta † 31. 7. ~1791 (Nymburk 05 Z sn. 340 vlevo, 345 vpravo; M). Pozor: Pavel Ota, podruh z č. 40 (děti † 1784, 1786) – jiný.",
-        "KANDIDÁT sňatku (K+): 10. 5. 1774 Krchleby č. 39 – „Paulus Otta cum Catharina filia Joannis Hles|sek (?)“ (Nymburk 08 O sn. 174 vpravo; M zápis) – dům 39, ženich ~39letý zapsán jako svobodný → ztotožnění nejisté; příjmení Kateřiny nejisté (Hlásková ?)."
+        "Sňatek s Kateřinou nenalezen. Zápis 10. 5. 1774 (č. 39, „Paulus Otta cum Catharina filia Joannis Hlesek (?)“; Nymburk 08 O sn. 174 vpravo) patří spíš Pavlovi Otovi, tkadlci (děti 1774 č. 18, 1777 č. 40) – sedlák měl syna Pavla už 13. 6. 1774 („Paulus Otta Bodrianus uxor Catharina“, kmotr Jiří Krejčík jako u Františka; Nymburk 08 N sn. 47 vpravo; M) → sedlák oženěn dříve (K). V Krchlebích tedy dva páry Pavel Ota × Kateřina."
       ],
       sources: [
         "SOA Praha, Nymburk 08 (10407), O sn. 196 vlevo (18. 1. 1797), https://ebadatelna.soapraha.cz/d/10407/196",
