@@ -5901,7 +5901,8 @@ window.RODOKMEN = {
         "KANDIDÁT otce: Tomáš Ambros, sedlák v Hodějicích († před 1772; dcery Rosina × Martin Hudeček 1772 a Anna 1777–78). Sňatek Antona s Martou ve Slavkově XI 1764 – IX 1774 nenalezen.",
         "MZA N47: v Hodějicích kolem 1757–60 tři otcové Ambrosové – Tomáš, Blažej (podruh) × Anna (děti 1757, 1758) a Jiří × Rozina (syn Blažej 1760) – Antonův křest hledat v N 13121 ~1765–1772.",
         "MZA N48: křest není v NOZ 13121 I 1765 – III 1771 (všichni Antonové mají jiné otce) → narozen spíš 1754–1764 nebo mimo faru. Otcové Ambrosové v Hodějicích 1757–70: Tomáš, Blažej (× Anna, později × Barbora ?), Jiří × Rozina, Ondřej × Anna (?).",
-        "MZA N49: křest není v NOZ 13121 ~1753 – III 1771 (celé období) → narozen mimo faru Slavkov nebo před 1753. Blažej Ambros × Anna – děti 1756–1764 (mj. Ondřej 28. 11. 1764; M), Anton mezi nimi není."
+        "MZA N49: křest není v NOZ 13121 ~1753 – III 1771 (celé období) → narozen mimo faru Slavkov nebo před 1753. Blažej Ambros × Anna – děti 1756–1764 (mj. Ondřej 28. 11. 1764; M), Anton mezi nimi není.",
+        "MZA N53: Jiří Ambros (× Rosina) zemřel před VI 1762 (vdova Rosina × Matěj Lanížek ?; O 13121 sn. 312 vlevo; M) – jako otec Antona (*~1754–64) méně pravděpodobný."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
@@ -8123,7 +8124,8 @@ window.RODOKMEN = {
       spouse: "matej_spa",
       notes: [
         "Matka Anny Maláčové (*1799) a jejích sourozenců (1788–1798); příjmení psáno „Leblin / Lebnin / Lebner“. KANDIDÁT: dcera Šimona Lebka (?) z Křenovic (sňatek 28. 1. 1783).",
-        "Stopa ověřena (MZA N49): 17. 5. 1768 Křenovice „Johanna – Simon Laber, Rosaria“ (NOZ 13121 sn. 208 vlevo; M) – příjmení zřetelně LABER, ne Lebek, a při sňatku 1783 by jí bylo 14 → spíš jiná osoba (K−)."
+        "Stopa ověřena (MZA N49): 17. 5. 1768 Křenovice „Johanna – Simon Laber, Rosaria“ (NOZ 13121 sn. 208 vlevo; M) – příjmení zřetelně LABER, ne Lebek, a při sňatku 1783 by jí bylo 14 → spíš jiná osoba (K−).",
+        "MZA N53: rodiče Johanny Laber (1768) – Šimon, syn Jakuba Labera z Křenovic × Rosalie, dcera † Josefa Kuby z Hrušek, oddáni I 1762 (O 13121 sn. 311 vlevo; M). Johanna Laber by při sňatku 1783 měla 14 let → ztotožnění s naší Johannou stále K−."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1794–1821, sign. 13123, oddíl Křenovice, str. 182 A, snímek 174 – https://www.mza.cz/actapublica/matrika/detail/1951"
@@ -11892,13 +11894,14 @@ window.RODOKMEN = {
       name: "Pavel Láníček",
       line: "lanicek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      b: {"date":"neznámé (asi 1721; nejpozději ~1742)","year":1721,"approx":true},
       spouse: "anna_la0",
       notes: [
         "Z Heršpic (č. 20 v r. 1773); otec Pavla Láníčka (*1773) – křest syna (M).",
         "Sňatek s Annou v O Slavkov 13121 X 1764 – VIII 1769 není. KANDIDÁT příbuzného (K): Jiří Lanížek, † před 1767 (dcera Kateřina × 27. 1. 1767 Ondřej Amon ze Slavkova).",
         "KANDIDÁT (K): Pavel Lanížek z Heršpic, † před 1753 (dcera Barbora × 16. 1. 1753 vdovec Pavel Peischl ze Slavkova; O 13121 sn. 291 vpravo). Sňatek Pavla st. × Anny v O 13121 ~1759–1764 není.",
-        "KANDIDÁT úmrtí (K): 26. 4. 1796 Heršpice č. 24, „Paul Lanitschek, Inmann“, 75 let (Z 13149, sn. 249 vpravo; M zápis – jediný dospělý Pavel Láníček v indexu 1784–1836; věk ~1721 a dům proti křtu syna 1773 nesedí)."
+        "KANDIDÁT úmrtí (K): 26. 4. 1796 Heršpice č. 24, „Paul Lanitschek, Inmann“, 75 let (Z 13149, sn. 249 vpravo; M zápis – jediný dospělý Pavel Láníček v indexu 1784–1836; věk ~1721 a dům proti křtu syna 1773 nesedí).",
+        "MZA N53: I 1763 svědek při sňatku v Heršpicích „Paulus Lanížek inquilinus“ (O 13121 sn. 313 vlevo; M; ztotožnění K+) → dospělý podruh už 1763, narozen nejpozději ~1742; posiluje kandidáta úmrtí 1796 („Inmann“, 75 → *~1721). Sňatek s Annou není v O 13121 I 1755 – XI 1764 (D) → před 1755 (O 13121 sn. 291–295, O 13120 ~1740–52), nebo jde o 2. sňatek po 1769. Ve VI 1762 se v Hodějicích oženil vdovec Matěj Lanížek (?) s Rosinou, vdovou po Jiřím Ambrosovi."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
