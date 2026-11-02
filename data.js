@@ -14100,21 +14100,26 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1735, podle věku při úmrtí)","year":1735,"approx":true,"place":"Krchleby (?)"},
       d: {"date":"11. 5. 1795","year":1795,"place":"Krchleby č. p. 17"},
+      father: "jiri_ot",
       occ: "sedlák v Krchlebích č. 17",
+      marriage: "9. 11. 1760, Nymburk – s Kateřinou Němečkovou (?) (K++)",
       notes: [
         "Otec Františka Oty – „Franz, syn po † Pavlovi Otta ze Skrchleb, H. C.“ (sňatek 18. 1. 1797; Nymburk 08 O sn. 196 vlevo; M). Sedlák (?) v Krchlebích č. 17, helvetské vyznání. Kandidátní křest syna X 1777 s manželkou Kateřinou (Nymburk 08 N sn. 59 vlevo). Sňatek a úmrtí nehledány.",
         "Zemřel 11. 5. 1795 (pohřben 13. 5.) Krchleby č. 17 – „Pavel Otta, sedlák“, 60 let; pohřbil Samuel Schütz, superintendent H. C. z Chlebů (Nymburk 05 Z sn. 348 vpravo, pag. 753; M, ověřeno koordinátorem) → *~1735. Děti z č. 17: Dorota † 23. 2. 1784 (5 let), Alžběta † 31. 7. ~1791 (Nymburk 05 Z sn. 340 vlevo, 345 vpravo; M). Pozor: Pavel Ota, podruh z č. 40 (děti † 1784, 1786) – jiný.",
         "Sňatek s Kateřinou nenalezen. Zápis 10. 5. 1774 (č. 39, „Paulus Otta cum Catharina filia Joannis Hlesek (?)“; Nymburk 08 O sn. 174 vpravo) patří spíš Pavlovi Otovi, tkadlci (děti 1774 č. 18, 1777 č. 40) – sedlák měl syna Pavla už 13. 6. 1774 („Paulus Otta Bodrianus uxor Catharina“, kmotr Jiří Krejčík jako u Františka; Nymburk 08 N sn. 47 vpravo; M) → sedlák oženěn dříve (K). V Krchlebích tedy dva páry Pavel Ota × Kateřina.",
         "Praha N103: sňatek sedláka Pavla Oty není ani v Nymburk 08 O 1767 – XI 1770 → proběhl před 1767 (Nymburk 07 O, sn. ~260–300).",
-        "KANDIDÁT sňatku (K+): 9. 11. 1760 Nymburk – „Honestus Adolescens Paulus filius post defunctum Georgium Otta Colonum ex pago Skrchleb cum honesta Ancilla sponsa Catharina filia post defunctum Joannem Nemeczey (?) Colonum ex pago eodem, ambo subditi Wlkavienses“, oddával děkan Tomáš Kulka, svědci Jiří Kalysta (?) a Kateřina Koselcová (?) (Nymburk 07 O sn. 261 vlevo, pag. 510; M zápis, ověřeno koordinátorem) → otec Pavla † Jiří Ota, sedlák v Krchlebích; Kateřina roz. Němečková (?), dcera † Jana. Ztotožnění K+ (věk sedí; v Krchlebích 1780 ale ještě druhý pár „Pavel Ota, sedlák × Kateřina“, č. 50 ?). Děti sedláka z č. 17: Pavel 1774, František 1777, Dorota 2. (V ?) 1780 († 1784), Alžběta († ~1791); kmotr vždy Jiří Krejčík."
+        "KANDIDÁT sňatku (K+): 9. 11. 1760 Nymburk – „Honestus Adolescens Paulus filius post defunctum Georgium Otta Colonum ex pago Skrchleb cum honesta Ancilla sponsa Catharina filia post defunctum Joannem Nemeczey (?) Colonum ex pago eodem, ambo subditi Wlkavienses“, oddával děkan Tomáš Kulka, svědci Jiří Kalysta (?) a Kateřina Koselcová (?) (Nymburk 07 O sn. 261 vlevo, pag. 510; M zápis, ověřeno koordinátorem) → otec Pavla † Jiří Ota, sedlák v Krchlebích; Kateřina roz. Němečková (?), dcera † Jana. Ztotožnění K+ (věk sedí; v Krchlebích 1780 ale ještě druhý pár „Pavel Ota, sedlák × Kateřina“, č. 50 ?). Děti sedláka z č. 17: Pavel 1774, František 1777, Dorota 2. (V ?) 1780 († 1784), Alžběta († ~1791); kmotr vždy Jiří Krejčík.",
+        "Praha N105: ztotožnění se sňatkem 1760 posíleno na K++ – děti sedláka Pavla Oty × Kateřiny: Matěj 16. 12. 1768 (Nymburk 08 N sn. 23 vlevo), Jan 20. 6. 1772 Krchleby č. 17 (sn. 40 vpravo; M, ověřeno koordinátorem), Pavel 1774, František 1777, Dorota 1780 – vždy kmotr Jiří Krejčík; tkadlec Pavel Ota měl 1768 manželku Dorotu (sn. 18 vpravo), takže 1767–73 byl v Krchlebích jediný pár Pavel × Kateřina."
       ],
       sources: [
         "SOA Praha, Nymburk 08 (10407), O sn. 196 vlevo (18. 1. 1797), https://ebadatelna.soapraha.cz/d/10407/196",
         "SOA Praha, Nymburk 08 (10407), N sn. 59 vlevo (X 1777 ?), https://ebadatelna.soapraha.cz/d/10407/59",
-        "SOA Praha, Nymburk 05 (10404), Z sn. 348 vpravo (11. 5. 1795), https://ebadatelna.soapraha.cz/d/10404/348"
+        "SOA Praha, Nymburk 05 (10404), Z sn. 348 vpravo (11. 5. 1795), https://ebadatelna.soapraha.cz/d/10404/348",
+        "SOA Praha, Nymburk 07 (10406), O sn. 261 vlevo, pag. 510 (9. 11. 1760), https://ebadatelna.soapraha.cz/d/10406/261"
       ],
       scans: [
-        {"f":"img/1797_O_Ota_Frantisek_Zajickova_Anna.jpg","t":"Sňatek syna Františka, 1797"}
+        {"f":"img/1797_O_Ota_Frantisek_Zajickova_Anna.jpg","t":"Sňatek syna Františka, 1797"},
+        {"f":"img/1760_O_Ota_Pavel_Nemeckova_Katerina.jpg","t":"Sňatek 9. 11. 1760, Nymburk"}
       ]
     },
     {
@@ -14123,13 +14128,20 @@ window.RODOKMEN = {
       maiden: "Němečková (?)",
       line: "ota",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      b: {"date":"neznámé (odhad ~1738)","year":1738,"approx":true,"place":"Krchleby (?)"},
+      father: "jan_nm",
+      marriage: "9. 11. 1760, Nymburk – s Pavlem Otou (K++)",
       notes: [
         "KANDIDÁTKA (K+): matka Františka Oty – křest X 1777 Krchleby č. 17 „Paulus Otta … uxor Catharina“ (Nymburk 08 N sn. 59 vlevo; M). Rodné příjmení neznámé.",
-        "KANDIDÁT sňatku (K+): 9. 11. 1760 Nymburk – „Honestus Adolescens Paulus filius post defunctum Georgium Otta Colonum ex pago Skrchleb cum honesta Ancilla sponsa Catharina filia post defunctum Joannem Nemeczey (?) Colonum ex pago eodem, ambo subditi Wlkavienses“, oddával děkan Tomáš Kulka, svědci Jiří Kalysta (?) a Kateřina Koselcová (?) (Nymburk 07 O sn. 261 vlevo, pag. 510; M zápis, ověřeno koordinátorem) → otec Pavla † Jiří Ota, sedlák v Krchlebích; Kateřina roz. Němečková (?), dcera † Jana. Ztotožnění K+ (věk sedí; v Krchlebích 1780 ale ještě druhý pár „Pavel Ota, sedlák × Kateřina“, č. 50 ?). Děti sedláka z č. 17: Pavel 1774, František 1777, Dorota 2. (V ?) 1780 († 1784), Alžběta († ~1791); kmotr vždy Jiří Krejčík."
+        "KANDIDÁT sňatku (K+): 9. 11. 1760 Nymburk – „Honestus Adolescens Paulus filius post defunctum Georgium Otta Colonum ex pago Skrchleb cum honesta Ancilla sponsa Catharina filia post defunctum Joannem Nemeczey (?) Colonum ex pago eodem, ambo subditi Wlkavienses“, oddával děkan Tomáš Kulka, svědci Jiří Kalysta (?) a Kateřina Koselcová (?) (Nymburk 07 O sn. 261 vlevo, pag. 510; M zápis, ověřeno koordinátorem) → otec Pavla † Jiří Ota, sedlák v Krchlebích; Kateřina roz. Němečková (?), dcera † Jana. Ztotožnění K+ (věk sedí; v Krchlebích 1780 ale ještě druhý pár „Pavel Ota, sedlák × Kateřina“, č. 50 ?). Děti sedláka z č. 17: Pavel 1774, František 1777, Dorota 2. (V ?) 1780 († 1784), Alžběta († ~1791); kmotr vždy Jiří Krejčík.",
+        "Praha N105: ztotožnění se sňatkem 1760 posíleno na K++ – děti sedláka Pavla Oty × Kateřiny: Matěj 16. 12. 1768 (Nymburk 08 N sn. 23 vlevo), Jan 20. 6. 1772 Krchleby č. 17 (sn. 40 vpravo; M, ověřeno koordinátorem), Pavel 1774, František 1777, Dorota 1780 – vždy kmotr Jiří Krejčík; tkadlec Pavel Ota měl 1768 manželku Dorotu (sn. 18 vpravo), takže 1767–73 byl v Krchlebích jediný pár Pavel × Kateřina."
       ],
       sources: [
-        "SOA Praha, Nymburk 08 (10407), N sn. 59 vlevo (X 1777 ?), https://ebadatelna.soapraha.cz/d/10407/59"
+        "SOA Praha, Nymburk 08 (10407), N sn. 59 vlevo (X 1777 ?), https://ebadatelna.soapraha.cz/d/10407/59",
+        "SOA Praha, Nymburk 07 (10406), O sn. 261 vlevo, pag. 510 (9. 11. 1760), https://ebadatelna.soapraha.cz/d/10406/261"
+      ],
+      scans: [
+        {"f":"img/1760_O_Ota_Pavel_Nemeckova_Katerina.jpg","t":"Sňatek 9. 11. 1760, Nymburk"}
       ]
     },
     {
@@ -14149,6 +14161,40 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1797_O_Ota_Frantisek_Zajickova_Anna.jpg","t":"Sňatek dcery Anny, 1797"}
+      ]
+    },
+    {
+      id: "jiri_ot",
+      name: "Jiří Ota",
+      line: "ota",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true,"place":"Krchleby (?)"},
+      d: {"date":"před 9. 11. 1760","year":1760,"approx":true},
+      notes: [
+        "KANDIDÁT (K++): otec Pavla Oty – „Paulus filius post defunctum Georgium Otta Colonum ex pago Skrchleb“ (sňatek 9. 11. 1760; Nymburk 07 O sn. 261 vlevo; M). Sedlák v Krchlebích (panství Vlkava), † před XI 1760. Úmrtí a manželka nehledány."
+      ],
+      sources: [
+        "SOA Praha, Nymburk 07 (10406), O sn. 261 vlevo, pag. 510 (9. 11. 1760), https://ebadatelna.soapraha.cz/d/10406/261"
+      ],
+      scans: [
+        {"f":"img/1760_O_Ota_Pavel_Nemeckova_Katerina.jpg","t":"Sňatek syna Pavla, 1760"}
+      ]
+    },
+    {
+      id: "jan_nm",
+      name: "Jan Němeček (?)",
+      line: "ota",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true,"place":"Krchleby (?)"},
+      d: {"date":"před 9. 11. 1760","year":1760,"approx":true},
+      notes: [
+        "KANDIDÁT (K++): otec Kateřiny Otové – „Catharina filia post defunctum Joannem Nemeczey (?) Colonum ex pago eodem [Skrchleb]“ (sňatek 9. 11. 1760; Nymburk 07 O sn. 261 vlevo; M; příjmení nejisté). Sedlák v Krchlebích, † před XI 1760. Pozor: jiný Jan Němeček, sedlák × Kateřina, měl dceru Dorotu 1767."
+      ],
+      sources: [
+        "SOA Praha, Nymburk 07 (10406), O sn. 261 vlevo, pag. 510 (9. 11. 1760), https://ebadatelna.soapraha.cz/d/10406/261"
+      ],
+      scans: [
+        {"f":"img/1760_O_Ota_Pavel_Nemeckova_Katerina.jpg","t":"Sňatek dcery Kateřiny, 1760"}
       ]
     }
   ]
