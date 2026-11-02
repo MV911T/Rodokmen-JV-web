@@ -5862,7 +5862,8 @@ window.RODOKMEN = {
       spouse: "anna_sv0",
       occ: "sedlák v Málkově",
       notes: [
-        "Otec Václava Svobody (*~1781)."
+        "Otec Václava Svobody (*~1781).",
+        "Praha N116: křest syna Václava není v Tmaň 02 N 1781–82 a sňatek Svoboda × Anna/Alžběta není v O 1775–80 (střední negativ); Matěj, syn Tomáše Svobody z Tmaně × 1779 Barbora Růžičková (?) je spíš jiný (Tmaň 26). ROZPOR o matce nerozhodnut; zbývá N 1778–80, 1783, O 1771–75, Borek."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
@@ -8769,7 +8770,8 @@ window.RODOKMEN = {
       spouse: "barbora_hl0",
       notes: [
         "Sedlák (chalupník) v Branově č. 4 (okr. Rakovník; fara Zbečno, od 1785 Nezabudice); manželka Barbora; dcera Ludmila *11. 5. 1771. V r. 1807 uveden jako zemřelý. Sňatek nenalezen (index Zbečno 04 neúplný).",
-        "Praha N115: sňatek s Barborou není v Zbečno 04 O I 1767 – X 1770."
+        "Praha N115: sňatek s Barborou není v Zbečno 04 O I 1767 – X 1770.",
+        "Praha N116: sňatek není v Zbečno 04 O VII 1765 – XI 1771 (střední negativ) → před 1765 nebo jiná fara."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
