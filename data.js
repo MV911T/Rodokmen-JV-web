@@ -4269,7 +4269,8 @@ window.RODOKMEN = {
         "Oddán 20. 10. 1776 v Hrubém Jeseníku (administrátor Ambrož Sedlička): „pracovitý mládenec Karel, manželský syn Josefa Čapka, chalupníka jesenického“, bydliště Jeseník č. 27; svědci Václav Mikš, podruh, a Filip Mašlík, punčochář, z Ronova. Později chalupník v Jeseníku č. 30.",
         "Otec Marie Čapkové (manželky Jana Čapka) – oba rody Čapků z Hrubého Jeseníka.",
         "Podle indexu křtů Hrubý Jeseník děti od 1777 (Dorota 1777, Kateřina 1779, František 1781, Josef 1784/85, Kateřina 1788, Jan Kašpar 1790, Marie 1797) – sňatek s Dorotou Červinkovou nejpozději 1777.",
-        "Zemřel 6. 3. 1800 v Hrubém Jeseníku č. 30 jako chalupník, 45 let → narozen 1753/54: odpovídá křtu 14. 3. 1753 („Carel, otec Josef Czapek, matka Dorotha“). Starší bratr Karel (*25. 8. 1748) se také dožil dospělosti († 30. 3. 1806, 58 let, výminkář) – ztotožnění podle věku a č. domu 30 (dcera Marie *1797 v č. 30)."
+        "Zemřel 6. 3. 1800 v Hrubém Jeseníku č. 30 jako chalupník, 45 let → narozen 1753/54: odpovídá křtu 14. 3. 1753 („Carel, otec Josef Czapek, matka Dorotha“). Starší bratr Karel (*25. 8. 1748) se také dožil dospělosti († 30. 3. 1806, 58 let, výminkář) – ztotožnění podle věku a č. domu 30 (dcera Marie *1797 v č. 30).",
+        "Praha N115: sňatek rodičů Josef Čapek × Dorota není v Hrubý Jeseník 03 O ~1733–35 ani XI 1741 – ~1744 (střední negativ); 1736–41 nečteno; děti „Čapka Joz.“ 1735–63 snad dvou Josefů."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
@@ -8767,7 +8768,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
       spouse: "barbora_hl0",
       notes: [
-        "Sedlák (chalupník) v Branově č. 4 (okr. Rakovník; fara Zbečno, od 1785 Nezabudice); manželka Barbora; dcera Ludmila *11. 5. 1771. V r. 1807 uveden jako zemřelý. Sňatek nenalezen (index Zbečno 04 neúplný)."
+        "Sedlák (chalupník) v Branově č. 4 (okr. Rakovník; fara Zbečno, od 1785 Nezabudice); manželka Barbora; dcera Ludmila *11. 5. 1771. V r. 1807 uveden jako zemřelý. Sňatek nenalezen (index Zbečno 04 neúplný).",
+        "Praha N115: sňatek s Barborou není v Zbečno 04 O I 1767 – X 1770."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
@@ -14326,7 +14328,8 @@ window.RODOKMEN = {
       marriage: "25. 11. 1731, Zbečno (z Račic) – s Ludmilou, vdovou (?) po Václavu Dvořákovi (?)",
       notes: [
         "KANDIDÁT (K+): otec Václava Vošíka st. – křest 31. 8. 1732 Račice „otce Josefa Wossičky (?) a matky Ludmily“ a syn Josef 28. 2. 1734 (Zbečno 03 N sn. 83, 99 vpravo; M). Rejstřík O Zbečno 03 fol. 182 „Wosika Josef“ – sňatek nečten. Snad vdovec Josef z Račic × 1761 (K).",
-        "Praha N114: sňatek 25. 11. (1731; rok z „Anno 1732“ níže) „z Račic“ – „oddán jest skrze troje ohlášky Jozef Wosyka s vdovou (?) Lidmilou po neb. Václavovi Dvořákovi (?)“, družba Josef Kh…, faktor Matěj Kaubek (?) (Zbečno 03 O sn. 186 vlevo; M, ověřeno koordinátorem; K+ pro vazbu – 9 měsíců před křtem Václava); rodiče ženicha ani rodné příjmení nevěsty neuvedeny."
+        "Praha N114: sňatek 25. 11. (1731; rok z „Anno 1732“ níže) „z Račic“ – „oddán jest skrze troje ohlášky Jozef Wosyka s vdovou (?) Lidmilou po neb. Václavovi Dvořákovi (?)“, družba Josef Kh…, faktor Matěj Kaubek (?) (Zbečno 03 O sn. 186 vlevo; M, ověřeno koordinátorem; K+ pro vazbu – 9 měsíců před křtem Václava); rodiče ženicha ani rodné příjmení nevěsty neuvedeny.",
+        "Praha N115 (K): 12. 1. 1768 sňatek Jan, syn Josefa Vošíka (?) z Račic × Veronika, dcera † Martina Jiráska z Bukové (Zbečno 04 O sn. 352 vlevo; M zápis) – snad syn, bratr Václava st."
       ],
       sources: [
         "SOA Praha, Zbečno 03 (8794), N sn. 83 vpravo, fol. 81 (31. 8. 1732), https://ebadatelna.soapraha.cz/d/8794/83",
