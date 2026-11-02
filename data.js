@@ -9563,7 +9563,8 @@ window.RODOKMEN = {
         "Baráčník ve Žitovlicích; zemřel před V 1818 (sňatek syna Jana).",
         "S manželkou Kateřinou děti Kateřina (24. 2. 1787) a Jan (10. 8. 1789) ve Žitovlicích č. 8.",
         "Oddán 18. 1. 1778 (Žitovlice č. 8): „Jacobus Schulcz operarius cum Catharina post Henricum Czihal filia“; svědci Petr Holý, nádeník, a Kateřina, dcera † Jana Kuse (?); oddal kaplan Metoděj Wisinger. Rodiče ženicha a věky neuvedeny.",
-        "Zemřel 13. 12. 1808 (pohřben 15. 12.) v Žitovlicích č. 16: „Jakub Šulc, baráčník z Žitovlic“, 54 (?) let (věk přepsaný; index Rožďalovice 37: 54 l.), „na vodnau nemoc“ (Rožďalovice 14, fol. 59, sn. 50 vpravo; M) → *~1754. Dům č. 16, ne č. 8 jako 1789/1808 u manželky."
+        "Zemřel 13. 12. 1808 (pohřben 15. 12.) v Žitovlicích č. 16: „Jakub Šulc, baráčník z Žitovlic“, 54 (?) let (věk přepsaný; index Rožďalovice 37: 54 l.), „na vodnau nemoc“ (Rožďalovice 14, fol. 59, sn. 50 vpravo; M) → *~1754. Dům č. 16, ne č. 8 jako 1789/1808 u manželky.",
+        "Praha N91: křest Jakuba Šulce není v Rožďalovice 03 N V 1752 – XII 1755 (střední negativ); Šulcové na panství: Jan Šulc × Dorota (syn František 11. 12. 1752, z Hamrů ?; sn. 24 vpravo; M), Václav Šulc × Kateřina (Pojedy 1754), Jan Š… (Žitovlice 1753) – kandidáti rodičů (K). Zbývá N 1749–51 a 1756–58."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
@@ -14018,7 +14019,8 @@ window.RODOKMEN = {
       marriage: "5. 2. 1736, Rožďalovice – (jako vdovec) s Alžbětou Šavlíkovou (?)",
       notes: [
         "Otec Kateřiny Šulcové – oddací zápis 1778 („dcera † Jindřicha Čihala“; M) a křest 17. 12. 1747 Žitovlice (Rožďalovice 02 N sn. 229 vlevo; M). Při sňatku dcery 1778 už nežil.",
-        "Oddán 5. 2. 1736 jako vdovec s Alžbětou, pozůstalou dcerou po † Janu Šavlíkovi (?), „z Wegdi (?)“ = snad Pojedy (Rožďalovice 10 O sn. 11 vpravo – 12 vlevo; M). V V 1744 v Pojedech (dcera Anna), 1747 v Žitovlicích (kmotr 10. 5., dcera Kateřina XII). První manželka a úmrtí nehledány."
+        "Oddán 5. 2. 1736 jako vdovec s Alžbětou, pozůstalou dcerou po † Janu Šavlíkovi (?), „z Wegdi (?)“ = snad Pojedy (Rožďalovice 10 O sn. 11 vpravo – 12 vlevo; M). V V 1744 v Pojedech (dcera Anna), 1747 v Žitovlicích (kmotr 10. 5., dcera Kateřina XII). První manželka a úmrtí nehledány.",
+        "Praha N91: syn František pokřtěn 10. 8. 1752 Žitovlice – „otce Jindřicha Čyhala a matky Alžběty“ (Rožďalovice 03 N sn. 22 vlevo; M) → Jindřich žil VIII 1752; úmrtí 1752–1778 (Rožďalovice 13 Z)."
       ],
       sources: [
         "SOA Praha, Rožďalovice 02 (11180), N sn. 229 vlevo (17. 12. 1747), https://ebadatelna.soapraha.cz/d/11180/229",
