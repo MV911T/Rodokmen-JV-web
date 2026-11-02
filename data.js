@@ -9565,7 +9565,8 @@ window.RODOKMEN = {
         "Oddán 18. 1. 1778 (Žitovlice č. 8): „Jacobus Schulcz operarius cum Catharina post Henricum Czihal filia“; svědci Petr Holý, nádeník, a Kateřina, dcera † Jana Kuse (?); oddal kaplan Metoděj Wisinger. Rodiče ženicha a věky neuvedeny.",
         "Zemřel 13. 12. 1808 (pohřben 15. 12.) v Žitovlicích č. 16: „Jakub Šulc, baráčník z Žitovlic“, 54 (?) let (věk přepsaný; index Rožďalovice 37: 54 l.), „na vodnau nemoc“ (Rožďalovice 14, fol. 59, sn. 50 vpravo; M) → *~1754. Dům č. 16, ne č. 8 jako 1789/1808 u manželky.",
         "Praha N91: křest Jakuba Šulce není v Rožďalovice 03 N V 1752 – XII 1755 (střední negativ); Šulcové na panství: Jan Šulc × Dorota (syn František 11. 12. 1752, z Hamrů ?; sn. 24 vpravo; M), Václav Šulc × Kateřina (Pojedy 1754), Jan Š… (Žitovlice 1753) – kandidáti rodičů (K). Zbývá N 1749–51 a 1756–58.",
-        "Praha N92: Jakub Šulc není v Rožďalovice 03 N VIII 1750 – XII 1751 ani XII 1755 – XII 1758 (střední negativ). Další Šulcové: Václav Šul(c) (?), podruh × Dorota, Žitovlice (syn Václav Vít VI 1751); Václav Šulc, soused, Pojedy × Kateřina (1754, 1757) a × Marie Magdalena (II 1758). Zbývá N 1749 – VIII 1750 a 1745–48."
+        "Praha N92: Jakub Šulc není v Rožďalovice 03 N VIII 1750 – XII 1751 ani XII 1755 – XII 1758 (střední negativ). Další Šulcové: Václav Šul(c) (?), podruh × Dorota, Žitovlice (syn Václav Vít VI 1751); Václav Šulc, soused, Pojedy × Kateřina (1754, 1757) a × Marie Magdalena (II 1758). Zbývá N 1749 – VIII 1750 a 1745–48.",
+        "Praha N93: ani v Rožďalovice 03 N I 1749 – VIII 1750 není → celé 1749–1758 bez Jakuba Šulce (mimo slabá místa); zbývá Rožďalovice 02 1745–48 nebo jiná fara."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
@@ -14021,7 +14022,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Kateřiny Šulcové – oddací zápis 1778 („dcera † Jindřicha Čihala“; M) a křest 17. 12. 1747 Žitovlice (Rožďalovice 02 N sn. 229 vlevo; M). Při sňatku dcery 1778 už nežil.",
         "Oddán 5. 2. 1736 jako vdovec s Alžbětou, pozůstalou dcerou po † Janu Šavlíkovi (?), „z Wegdi (?)“ = snad Pojedy (Rožďalovice 10 O sn. 11 vpravo – 12 vlevo; M). V V 1744 v Pojedech (dcera Anna), 1747 v Žitovlicích (kmotr 10. 5., dcera Kateřina XII). První manželka a úmrtí nehledány.",
-        "Praha N91: syn František pokřtěn 10. 8. 1752 Žitovlice – „otce Jindřicha Čyhala a matky Alžběty“ (Rožďalovice 03 N sn. 22 vlevo; M) → Jindřich žil VIII 1752; úmrtí 1752–1778 (Rožďalovice 13 Z)."
+        "Praha N91: syn František pokřtěn 10. 8. 1752 Žitovlice – „otce Jindřicha Čyhala a matky Alžběty“ (Rožďalovice 03 N sn. 22 vlevo; M) → Jindřich žil VIII 1752; úmrtí 1752–1778 (Rožďalovice 13 Z).",
+        "Praha N93: úmrtí není v rejstříku Z Rožďalovice 37 (1770 – I 1778) → † nejspíš VIII 1752 – 1769 (Rožďalovice 13 Z sn. ~66–121, bez rejstříku) nebo mimo faru. Pozor: v Žitovlicích současně rodina ČIHÁK (Jindřich Čihák † před 1753; syn Matěj † 3. 11. 1753, 21 let; vdova Dorota † 1. 5. 1754, 65) – nezaměňovat (čtení „Czyhk-“)."
       ],
       sources: [
         "SOA Praha, Rožďalovice 02 (11180), N sn. 229 vlevo (17. 12. 1747), https://ebadatelna.soapraha.cz/d/11180/229",
@@ -14041,7 +14043,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
       marriage: "5. 2. 1736, Rožďalovice – s vdovcem Jindřichem Čihalem",
       notes: [
-        "Matka Kateřiny Šulcové – křest 17. 12. 1747 Žitovlice „matky Alžběty“ (Rožďalovice 02 N sn. 229 vlevo; M). Oddána 5. 2. 1736 s vdovcem Jindřichem Čihalem jako „pozůstalá dcera po † Janu Šavlíkovi (?)“ (Rožďalovice 10 O sn. 11–12; M; příjmení nejisté, snad Pavlík). Dcera Anna 20. 5. 1744 Pojedy. Úmrtí nehledáno."
+        "Matka Kateřiny Šulcové – křest 17. 12. 1747 Žitovlice „matky Alžběty“ (Rožďalovice 02 N sn. 229 vlevo; M). Oddána 5. 2. 1736 s vdovcem Jindřichem Čihalem jako „pozůstalá dcera po † Janu Šavlíkovi (?)“ (Rožďalovice 10 O sn. 11–12; M; příjmení nejisté, snad Pavlík). Dcera Anna 20. 5. 1744 Pojedy. Úmrtí nehledáno.",
+        "Praha N93: úmrtí není v rejstříku Z Rožďalovice 37 1770–1782 (1783–1810 jen slabě) → † před 1770, nebo nový sňatek / mimo faru."
       ],
       sources: [
         "SOA Praha, Rožďalovice 02 (11180), N sn. 229 vlevo (17. 12. 1747), https://ebadatelna.soapraha.cz/d/11180/229",
