@@ -6500,10 +6500,10 @@ window.RODOKMEN = {
     {
       id: "barbora_hl",
       name: "Kateřina Semencová",
-      maiden: "Wašíková (?)",
+      maiden: "Vošíková (Wašíková)",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1803","year":1803,"approx":true,"place":"Zbečno č. p. 11"},
+      b: {"date":"10. 5. 1804 (křest)","year":1804,"place":"Zbečno č. p. 11"},
       d: {"date":"14. 1. 1849","year":1849,"place":"Zbečno č. p. 45"},
       cause: "horečka omladnic (febris puerperalis)",
       father: "vaclav_ws",
@@ -6512,19 +6512,22 @@ window.RODOKMEN = {
       notes: [
         "Dcera Václava Wašíka (?), domkáře ve Zbečně č. 11, a Anny roz. Pšan… (?); oddána 6. 11. 1827 (24 let). Rodné příjmení Wašík (?) v zápisech 1827, 1833 (bratr František) a 1838 shodně; čtení „Vojtíšek“ (1869) a „Barbora Hlavičková“ (1870) byla chybná.",
         "Zápis o úmrtí dcery Marie 1922 uvádí matku „Kateřina roz. Vosyková ze Zbečna č. 11“ – týž dům č. 11 jako u Václava Wašíka (?); potvrzuje tvar Wašík/Vosyk (M).",
-        "Zemřela 14. 1. 1849 (pohřbena 16. 1.) ve Zbečně č. 45: „Semencová Kateřina, manželka Martina Semence, chalupníka ze Zbečna čís. 45, rozená Wošíková ze Zbečna“, 43 let, horečka omladnic – den předtím (8. 1.) se jí narodilo a zemřelo dítě (Zbečno 16, sn. 67 vpravo, pag. 131; M, ověřeno)."
+        "Zemřela 14. 1. 1849 (pohřbena 16. 1.) ve Zbečně č. 45: „Semencová Kateřina, manželka Martina Semence, chalupníka ze Zbečna čís. 45, rozená Wošíková ze Zbečna“, 43 let, horečka omladnic – den předtím (8. 1.) se jí narodilo a zemřelo dítě (Zbečno 16, sn. 67 vpravo, pag. 131; M, ověřeno).",
+        "Pokřtěna 10. 5. 1804 ve Zbečně č. 11: „Catharina“, otec „Wentzl Wossika, Fischer“, matka „Anna geborne Pš… (?)“, poddaní křivoklátští; kmotři Kateřina, žena Jana Bürsche (?) z Újezda, a František Dvořák ze Zbečna (Zbečno 10 N sn. 32 vlevo, pag. 58; M, ověřeno koordinátorem). Věk 1827 (24) a 1849 (43) mírně nesedí – platí křest. Sourozenci: František 4. 11. 1795, Anna 2. 8. 1797, Marie 16. 11. 1799, Josef 13. 1. 1801 (sn. 20–26; M)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 22 (O 1868–1899), fol. 7, snímek 9 – https://ebadatelna.soapraha.cz/d/8867/9",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25",
-        "SOA Praha, Zbečno 16 (Z), sn. 67 vpravo, pag. 131 – https://ebadatelna.soapraha.cz/d/8861/67"
+        "SOA Praha, Zbečno 16 (Z), sn. 67 vpravo, pag. 131 – https://ebadatelna.soapraha.cz/d/8861/67",
+        "SOA Praha, Zbečno 10 (8855), N sn. 32 vlevo, pag. 58 (10. 5. 1804), https://ebadatelna.soapraha.cz/d/8855/32"
       ],
       scans: [
         {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"},
         {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest dcery Marie Semencové, Zbečno 28. 6. 1838"},
-        {"f":"img/1849_Z_Semencova_Katerina_Zbecno45.jpg","t":"Úmrtí 14. 1. 1849, Zbečno č. 45"}
+        {"f":"img/1849_Z_Semencova_Katerina_Zbecno45.jpg","t":"Úmrtí 14. 1. 1849, Zbečno č. 45"},
+        {"f":"img/1804_N_Vosikova_Katerina_Zbecno.jpg","t":"Křest 10. 5. 1804, Zbečno 11"}
       ]
     },
     {
@@ -7789,19 +7792,22 @@ window.RODOKMEN = {
     },
     {
       id: "vaclav_ws",
-      name: "Václav Wašík (?)",
+      name: "Václav Vošík (Wašík)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
-      occ: "domkář ve Zbečně č. 11",
+      occ: "rybář (1795–1804), později domkář ve Zbečně č. 11",
       notes: [
-        "Otec Kateřiny Semencové (sňatek 1827) a Františka (sňatek 1833); manželka Anna roz. Pšan… (?). Příjmení nejisté (Wašík / Vašík ?)."
+        "Otec Kateřiny Semencové (sňatek 1827) a Františka (sňatek 1833); manželka Anna roz. Pšan… (?). Příjmení nejisté (Wašík / Vašík ?).",
+        "Praha N110: v křtech dětí 1795–1804 „Wenzl Wossika / Wenceslaus Wossika, Fischer“, Zbečno č. 11 (Zbečno 10 N sn. 20–32; M) → příjmení spíš Vošík (1849 „Wošíková“, 1922 „Vosyková“). Manželka Anna, rodné příjmení nejisté: Pstrzak (?) 1799, Pscharowa (?) 1801, Pš… (?) 1804. Sňatek není v Zbečno 14 O X 1787 – VII 1807 (nejspíš mimo faru). ROZPOR: syn František *1795 × 1833 uveden 30 let."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25",
+        "SOA Praha, Zbečno 10 (8855), N sn. 32 vlevo, pag. 58 (10. 5. 1804), https://ebadatelna.soapraha.cz/d/8855/32"
       ],
       scans: [
-        {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"}
+        {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"},
+        {"f":"img/1804_N_Vosikova_Katerina_Zbecno.jpg","t":"Křest dcery Kateřiny, 1804"}
       ]
     },
     {
