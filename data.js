@@ -3956,8 +3956,8 @@ window.RODOKMEN = {
       occ: "domkář v Suchomastech č. 14",
       marriage: "14. 2. 1832, Suchomasty (fara Borek) – s Annou Svobodovou",
       notes: [
-        "Pokřtěn 6. 7. 1803 v Suchomastech č. 12 (kurát Math. Hefft); otec Václav Klika, „galaunista (?)“, matka Kateřina roz. Šliková (?). ROZPOR: oddací zápis 1832 uvádí 27 let (*~1805) – platí křest.",
-        "Oddán 14. 2. 1832 v Suchomastech (27 let, svobodný): pozůstalý syn † Václava Kliky, vysloužilce (?) a podruha v Suchomastech č. 12, a Kateřiny roz. Šlikové (?) z Litně (?); svědci Matěj Klika, kostelník (?) z Litně (?), a Václav Bůh (?) z Velkých Suchomast.",
+        "Pokřtěn 6. 7. 1803 v Suchomastech č. 12 (kurát Math. Hefft); otec Václav Klika, „galaunista (?)“, matka Kateřina roz. Kliková (dřívější čtení „Šliková“ chybné). ROZPOR: oddací zápis 1832 uvádí 27 let (*~1805) – platí křest.",
+        "Oddán 14. 2. 1832 v Suchomastech (27 let, svobodný): „pozůstalý syn po † Václavovi Klikovi, vyhořelém (?) sedlákovi a poddaném suchomastském z No. 12, ze Suchomast rozený, matky Kateřiny rozené Klikové z Bykoše (?)“ (Borek 06 O sn. 92 vlevo, pag. 60; M, znovu přečteno koordinátorem – dřívější čtení „vysloužilce a podruha“ a „Šlikové z Litně“ chybné, kurentní K); svědci Matěj Klika a Václav Bůh (?) z Velkých Suchomast.",
         "Domkář v Suchomastech (1834); usedlost Suchomasty č. 14 (dům tchána). V roce 1874 už nežil."
       ],
       sources: [
@@ -13898,10 +13898,12 @@ window.RODOKMEN = {
       name: "Vojtěch Klika",
       line: "klika",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1735)","year":1735,"approx":true,"place":"Suchomasty (?)"},
+      b: {"date":"neznámé (odhad ~1722)","year":1722,"approx":true,"place":"Suchomasty / Bykoš (?)"},
+      marriage: "21. 1. 1748, Borek – s Dorotou Duchoňovou",
       notes: [
         "KANDIDÁT (K+): otec Václava Kliky – křest 13. 9. 1765 „Wenceslaus, filius Adalberti Klika et Dorotheae, Suchomast“ (Borek 03 N sn. 77 vlevo; M). Sedlák v Suchomastech č. 12 před Václavem.",
-        "Na č. 12 děti s Kateřinou 6. 7. 1785 (Barbora) a 14. 5. 1787 (Kateřina) (index Borek 11 sn. 16 vpravo) → snad 2. manželka po Dorotě (K). Úmrtí a sňatky nehledány."
+        "Na č. 12 děti s Kateřinou 6. 7. 1785 (Barbora) a 14. 5. 1787 (Kateřina) (index Borek 11 sn. 16 vpravo) → snad 2. manželka po Dorotě (K). Úmrtí a sňatky nehledány.",
+        "Oddán 21. 1. 1748 (fara Borek): „Adalbertus proprius filius Pauli Klika cum Dorothea propria filia defuncti Georgii Duchon“ (Borek 02 O p. 40, sn. 23 vpravo; M; Praha 45) → otec Pavel Klika. Svědek u křtu Václava 1765 Matěj Duchoň (příbuzný matky) podporuje ztotožnění. Další děti s Dorotou: Eva *7. 12. 1752 † 19. 6. 1766, Jan Křtitel † 13. 7. 1764 (3 týdny). Dorota † V 1783 (Borek 04 Z sn. 190 vlevo; K, neověřeno výřezem) → Kateřina (děti 1785, 1787) 2. manželka. Úmrtí Vojtěcha není v Borek 05/06 Z X 1785 – VI 1798."
       ],
       sources: [
         "SOA Praha, Borek 03 (4072), N sn. 77 vlevo, pag. 148 (13. 9. 1765), https://ebadatelna.soapraha.cz/d/4072/77",
@@ -13911,12 +13913,13 @@ window.RODOKMEN = {
     {
       id: "dorota_kl",
       name: "Dorota Kliková",
-      maiden: "",
+      maiden: "Duchoňová",
       line: "klika",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      b: {"date":"neznámé (odhad ~1727)","year":1727,"approx":true},
       notes: [
-        "KANDIDÁTKA (K+): matka Václava Kliky – křest 13. 9. 1765 Suchomasty (Borek 03 N sn. 77 vlevo; M). Rodné příjmení neznámé."
+        "KANDIDÁTKA (K+): matka Václava Kliky – křest 13. 9. 1765 Suchomasty (Borek 03 N sn. 77 vlevo; M). Rodné příjmení neznámé.",
+        "Dcera † Jiřího Duchoně – sňatek 21. 1. 1748 s Vojtěchem, synem Pavla Kliky (Borek 02 O sn. 23 vpravo; M). Zemřela snad V 1783 jako manželka Vojtěcha Kliky, sedláka suchomastského, 56 (?) let (Borek 04 Z sn. 190 vlevo; K)."
       ],
       sources: [
         "SOA Praha, Borek 03 (4072), N sn. 77 vlevo, pag. 148 (13. 9. 1765), https://ebadatelna.soapraha.cz/d/4072/77"
