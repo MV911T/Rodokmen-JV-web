@@ -13871,7 +13871,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true,"place":"Svatá (panství Křivoklát)"},
       notes: [
         "KANDIDÁT (K++): otec Matěje Sikory – „Mathias Sikora proprius filius Pauli Sikora ex pago Svata“ při sňatku 8. 7. 1748 (Tmaň 02 O sn. 166 vpravo; M); Pavel byl svědkem, tedy žil. Ve Svaté též Václav a Kateřina Sikorovi (družba, družička). Křest a úmrtí hledat ve faře Svatá (SOA Praha).",
-        "Praha N74: Svatá patřila 1712–38 k faře Beroun. Pavel Sykora × Anna ve Svaté – syn Ondřej 25. 10. 1722 (Beroun 06 N sn. 91 vpravo; M; ztotožnění podle jména a obce K+); kmotra Kateřina Sýkorová 1720–22. Křest Matěje není v Beroun 06 N I 1720 – IV 1723 → hledat 1715–19 a 1723–25 (snímky 99–112 staženy v 06_poznamky/soapraha/pn74dl/b06) a sňatek Pavla × Anny v Beroun 16 (O 1687–1734)."
+        "Praha N74: Svatá patřila 1712–38 k faře Beroun. Pavel Sykora × Anna ve Svaté – syn Ondřej 25. 10. 1722 (Beroun 06 N sn. 91 vpravo; M; ztotožnění podle jména a obce K+); kmotra Kateřina Sýkorová 1720–22. Křest Matěje není v Beroun 06 N I 1720 – IV 1723 → hledat 1715–19 a 1723–25 (snímky 99–112 staženy v 06_poznamky/soapraha/pn74dl/b06) a sňatek Pavla × Anny v Beroun 16 (O 1687–1734).",
+        "Praha N75: další syn František pokřtěn 27. 6. 1720 Svatá – „Frantz, otce Pavla Sýkory, matky Anny“, levans Ondřej Ber… jako 1722 (Beroun 06 N sn. 74 vpravo; M). Matěj není v Beroun 06 N 1723–25 (celé) ani 1718 – I 1720 (částečně) → zbývá 1716–17 a 1725–28. Sňatek Pavla × Anny není v Beroun 16 O 1715–17 (předběžně)."
       ],
       sources: [
         "SOA Praha, Tmaň 02 (10456), O sn. 166 vpravo, 3. zápis (8. 7. 1748), https://ebadatelna.soapraha.cz/d/10456/166"
