@@ -9616,8 +9616,10 @@ window.RODOKMEN = {
       maiden: "Čihalová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1746)","year":1746,"approx":true},
+      b: {"date":"17. 12. 1747 (křest)","year":1747,"place":"Žitovlice (fara Rožďalovice)"},
       d: {"date":"25. 2. 1808","year":1808,"place":"Žitovlice č. p. 8"},
+      father: "jindrich_ch",
+      mother: "alzbeta_ch",
       spouse: "jakub_sl",
       marriage: "18. 1. 1778 – s Jakubem Šulcem",
       notes: [
@@ -9625,18 +9627,21 @@ window.RODOKMEN = {
         "Zemřela 25. 2. 1808 (pohřbena 27. 2.) v Žitovlicích č. 8: „Kateřina, manželka Jakuba Šulce, baráčníka“, 62 let (Rožďalovice 14, fol. 59, sn. 50 vpravo; M zápis, ztotožnění D – rodné příjmení neuvedeno) → *~1746.",
         "Praha N86: křest Kateřiny, dcery Jindřicha Čihala, není v Rožďalovice 02 N II 1745 – X 1747 (montáže, střední negativ); Jindřich Čihal kmotrem u křtu ze Žitovlic 10. 5. 1747 (sn. 225 vpravo; M) – rodina spjatá se Žitovlicemi. Kmotra Kateřina Čihalová 1747 (snad matka, K). V Rožďalovicích i Antonín Čihal × Anna (jiná rodina). Zbývá N 1743–44, 1748 a Rožďalovice 03 (1748–52).",
         "Praha N88 (K): otec Jindřich Čihal se 5. 2. 1736 jako vdovec oženil s Alžbětou, pozůstalou dcerou po † Janu Šavlíkovi (?), oba poddaní panství Rožďalovice, „z Wegdi (?)“ (Rožďalovice 10 O sn. 11 vpravo – 12 vlevo; M) → Alžběta snad matka Kateřiny (*~1746). Pozor: Dorota, dcera Jindřicha ČEJKY ze Žitovlic (× 1737) – jiná rodina; v Rožďalovicích více rodin Čihalů (Antonín, Daniel, Jan, Petr, Josef).",
-        "Praha N89: Jindřich Čihal × Alžběta žili v POJEDECH – dcera Anna 20. 5. 1744 „z Pojedí … otce Jindřicha Čyhala a matky Alžběty“ (Rožďalovice 02 N sn. 204 vpravo; M); obec v oddacím 1736 „z Wegdi“ je nejspíš „z Pogedi“. Kateřina není v N II 1743 – VI 1744 ani v pojedských zápisech III 1745 – XII 1746 → zbývá 1747–52 (Rožďalovice 02 sn. 223–239, Rožďalovice 03)."
+        "Praha N89: Jindřich Čihal × Alžběta žili v POJEDECH – dcera Anna 20. 5. 1744 „z Pojedí … otce Jindřicha Čyhala a matky Alžběty“ (Rožďalovice 02 N sn. 204 vpravo; M); obec v oddacím 1736 „z Wegdi“ je nejspíš „z Pogedi“. Kateřina není v N II 1743 – VI 1744 ani v pojedských zápisech III 1745 – XII 1746 → zbývá 1747–52 (Rožďalovice 02 sn. 223–239, Rožďalovice 03).",
+        "Pokřtěna 17. 12. 1747 ze Žitovlic: „pokřtěna jest Kateřina, dcera rodičů k panství Rožďalovickému poddaných, otce Jindřicha Čyhala a matky Alžběty“, levans Kateřina, manželka Jiřího Kyzi (?), svědek Jiří Kunický (Rožďalovice 02 N sn. 229 vlevo; M, ověřeno koordinátorem; den ze sledu „17 dito – Eodem – 18 dito“). Sedí otec z oddacího 1778 i obec; věk 62 při úmrtí 1808 nadsazen o ~2 roky (platí křest)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Žitovlice, pag. 9, snímek 8 vpravo (10. 8. 1789); index Rožďalovice 22 sn. 207 – https://ebadatelna.soapraha.cz/d/11182/8",
         "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 58 vlevo",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 185, snímek 96 vpravo (18. 1. 1778) – https://ebadatelna.soapraha.cz/d/11192/96",
-        "SOA Praha, Sbírka matrik, ř.-k. fara Rožďalovice, Rožďalovice 14 (Z), fol. 59, sn. 50 vpravo (1808) – https://ebadatelna.soapraha.cz/d/11198/50"
+        "SOA Praha, Sbírka matrik, ř.-k. fara Rožďalovice, Rožďalovice 14 (Z), fol. 59, sn. 50 vpravo (1808) – https://ebadatelna.soapraha.cz/d/11198/50",
+        "SOA Praha, Rožďalovice 02 (11180), N sn. 229 vlevo (17. 12. 1747), https://ebadatelna.soapraha.cz/d/11180/229"
       ],
       scans: [
         {"f":"img/1778_O_Sulc_Jakub_Cihalova_Katerina_Zitovlice8.jpg","t":"Sňatek Jakuba Šulce s Kateřinou Čihalovou, Žitovlice č. 8, 18. 1. 1778"},
         {"f":"img/1789_N_Sulc_Jan_Zitovlice8.jpg","t":"Křest Jana Šulce, Žitovlice č. 8, 10. 8. 1789"},
-        {"f":"img/1808_Z_Sulcova_Katerina_Zitovlice.jpg","t":"Úmrtí 25. 2. 1808, Žitovlice č. 8"}
+        {"f":"img/1808_Z_Sulcova_Katerina_Zitovlice.jpg","t":"Úmrtí 25. 2. 1808, Žitovlice č. 8"},
+        {"f":"img/1747_N_Cihalova_Katerina_Zitovlice.jpg","t":"Křest 17. 12. 1747, Žitovlice"}
       ]
     },
     {
@@ -14000,6 +14005,47 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1725_N_Klika_Vojtech_Bykos.jpg","t":"Křest syna Vojtěcha, 1725"}
+      ]
+    },
+    {
+      id: "jindrich_ch",
+      name: "Jindřich Čihal",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      d: {"date":"před 18. 1. 1778","year":1778,"approx":true},
+      marriage: "5. 2. 1736, Rožďalovice – (jako vdovec) s Alžbětou Šavlíkovou (?)",
+      notes: [
+        "Otec Kateřiny Šulcové – oddací zápis 1778 („dcera † Jindřicha Čihala“; M) a křest 17. 12. 1747 Žitovlice (Rožďalovice 02 N sn. 229 vlevo; M). Při sňatku dcery 1778 už nežil.",
+        "Oddán 5. 2. 1736 jako vdovec s Alžbětou, pozůstalou dcerou po † Janu Šavlíkovi (?), „z Wegdi (?)“ = snad Pojedy (Rožďalovice 10 O sn. 11 vpravo – 12 vlevo; M). V V 1744 v Pojedech (dcera Anna), 1747 v Žitovlicích (kmotr 10. 5., dcera Kateřina XII). První manželka a úmrtí nehledány."
+      ],
+      sources: [
+        "SOA Praha, Rožďalovice 02 (11180), N sn. 229 vlevo (17. 12. 1747), https://ebadatelna.soapraha.cz/d/11180/229",
+        "SOA Praha, Rožďalovice 10 (11192), O sn. 11 vpravo – 12 vlevo (5. 2. 1736), https://ebadatelna.soapraha.cz/d/11192/11",
+        "SOA Praha, Rožďalovice 02 (11180), N sn. 204 vpravo (20. 5. 1744), https://ebadatelna.soapraha.cz/d/11180/204"
+      ],
+      scans: [
+        {"f":"img/1747_N_Cihalova_Katerina_Zitovlice.jpg","t":"Křest dcery Kateřiny, 1747"}
+      ]
+    },
+    {
+      id: "alzbeta_ch",
+      name: "Alžběta Čihalová",
+      maiden: "Šavlíková (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      marriage: "5. 2. 1736, Rožďalovice – s vdovcem Jindřichem Čihalem",
+      notes: [
+        "Matka Kateřiny Šulcové – křest 17. 12. 1747 Žitovlice „matky Alžběty“ (Rožďalovice 02 N sn. 229 vlevo; M). Oddána 5. 2. 1736 s vdovcem Jindřichem Čihalem jako „pozůstalá dcera po † Janu Šavlíkovi (?)“ (Rožďalovice 10 O sn. 11–12; M; příjmení nejisté, snad Pavlík). Dcera Anna 20. 5. 1744 Pojedy. Úmrtí nehledáno."
+      ],
+      sources: [
+        "SOA Praha, Rožďalovice 02 (11180), N sn. 229 vlevo (17. 12. 1747), https://ebadatelna.soapraha.cz/d/11180/229",
+        "SOA Praha, Rožďalovice 10 (11192), O sn. 11 vpravo – 12 vlevo (5. 2. 1736), https://ebadatelna.soapraha.cz/d/11192/11",
+        "SOA Praha, Rožďalovice 02 (11180), N sn. 204 vpravo (20. 5. 1744), https://ebadatelna.soapraha.cz/d/11180/204"
+      ],
+      scans: [
+        {"f":"img/1747_N_Cihalova_Katerina_Zitovlice.jpg","t":"Křest dcery Kateřiny, 1747"}
       ]
     }
   ]
