@@ -11897,36 +11897,46 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1721; nejpozději ~1742)","year":1721,"approx":true},
       spouse: "anna_la0",
+      marriage: "II 1752, Slavkov (Heršpice) – s Annou, dcerou Martina Kostrny (?) (K+)",
       notes: [
         "Z Heršpic (č. 20 v r. 1773); otec Pavla Láníčka (*1773) – křest syna (M).",
         "Sňatek s Annou v O Slavkov 13121 X 1764 – VIII 1769 není. KANDIDÁT příbuzného (K): Jiří Lanížek, † před 1767 (dcera Kateřina × 27. 1. 1767 Ondřej Amon ze Slavkova).",
         "KANDIDÁT (K): Pavel Lanížek z Heršpic, † před 1753 (dcera Barbora × 16. 1. 1753 vdovec Pavel Peischl ze Slavkova; O 13121 sn. 291 vpravo). Sňatek Pavla st. × Anny v O 13121 ~1759–1764 není.",
         "KANDIDÁT úmrtí (K): 26. 4. 1796 Heršpice č. 24, „Paul Lanitschek, Inmann“, 75 let (Z 13149, sn. 249 vpravo; M zápis – jediný dospělý Pavel Láníček v indexu 1784–1836; věk ~1721 a dům proti křtu syna 1773 nesedí).",
-        "MZA N53: I 1763 svědek při sňatku v Heršpicích „Paulus Lanížek inquilinus“ (O 13121 sn. 313 vlevo; M; ztotožnění K+) → dospělý podruh už 1763, narozen nejpozději ~1742; posiluje kandidáta úmrtí 1796 („Inmann“, 75 → *~1721). Sňatek s Annou není v O 13121 I 1755 – XI 1764 (D) → před 1755 (O 13121 sn. 291–295, O 13120 ~1740–52), nebo jde o 2. sňatek po 1769. Ve VI 1762 se v Hodějicích oženil vdovec Matěj Lanížek (?) s Rosinou, vdovou po Jiřím Ambrosovi."
+        "MZA N53: I 1763 svědek při sňatku v Heršpicích „Paulus Lanížek inquilinus“ (O 13121 sn. 313 vlevo; M; ztotožnění K+) → dospělý podruh už 1763, narozen nejpozději ~1742; posiluje kandidáta úmrtí 1796 („Inmann“, 75 → *~1721). Sňatek s Annou není v O 13121 I 1755 – XI 1764 (D) → před 1755 (O 13121 sn. 291–295, O 13120 ~1740–52), nebo jde o 2. sňatek po 1769. Ve VI 1762 se v Hodějicích oženil vdovec Matěj Lanížek (?) s Rosinou, vdovou po Jiřím Ambrosovi.",
+        "KANDIDÁT sňatku (K+): II 1752 Heršpice – „Honestus Juvenis Paulus Lanížek cum honesta puella Anna filia Martini Kostrna (?) [Kostelna ?], utergue Herspicio“; svědci Josef Velam (Wilam) a Jiří Hrabovský z Heršpic (O 13120 sn. 277 vlevo; M, ověřeno koordinátorem; rok podle „Anno 1752“ na sn. 276 vlevo). Jediný sňatek Pavla Lanížka v O 1745 – I 1774 (MZA N54); sedí s věkem úmrtí Pavla 1796 (75) i Anny 1805 (80). Syn Pavel 1773 by byl pozdní dítě (Anně ~45) – další děti 1752–72 dosud nehledány.",
+        "Starší Pavel Lanížek z Heršpic † před II 1751 (syn Jiří × II 1751 Kateřina; O 13120 sn. 272 vpravo; M) – snad otec (K)."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, O Slavkov 13120, sn. 277 vlevo (II 1752), https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
-        {"f":"img/1773_N_Lanicek_Pavel_Herspice.jpg","t":"Křest syna Pavla, Heršpice 1773"}
+        {"f":"img/1773_N_Lanicek_Pavel_Herspice.jpg","t":"Křest syna Pavla, Heršpice 1773"},
+        {"f":"img/1752_O_Lanicek_Pavel_Anna_Herspice.jpg","t":"Sňatek II 1752, Heršpice (kandidát)"}
       ]
     },
     {
       id: "anna_la0",
       name: "Anna Láníčková",
+      maiden: "Kostrnová (?)",
       line: "lanicek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      b: {"date":"neznámé (asi 1725–1732)","year":1728,"approx":true},
       spouse: "pavel_la0",
+      marriage: "II 1752, Slavkov (Heršpice) – s Pavlem Lanížkem (K+)",
       notes: [
         "Manželka Pavla Láníčka st. z Heršpic; matka Pavla (*1773) – křest syna (M). Rodné příjmení neuvedeno.",
-        "KANDIDÁT úmrtí (K+): 26. 10. 1805 Heršpice č. 29, „Anna Lanitschek, Bettlerinn“, 80 let (Z 13149, sn. 256 vlevo; M zápis – jediná dospělá Anna Láníčková 1784–1836; syn Pavel žil 1808 v č. 29 jako podruh). ROZPOR: věk 80 → *~1725, při narození Pavla 1773 by jí bylo 48."
+        "KANDIDÁT úmrtí (K+): 26. 10. 1805 Heršpice č. 29, „Anna Lanitschek, Bettlerinn“, 80 let (Z 13149, sn. 256 vlevo; M zápis – jediná dospělá Anna Láníčková 1784–1836; syn Pavel žil 1808 v č. 29 jako podruh). ROZPOR: věk 80 → *~1725, při narození Pavla 1773 by jí bylo 48.",
+        "KANDIDÁT sňatku (K+): II 1752 Heršpice – „Honestus Juvenis Paulus Lanížek cum honesta puella Anna filia Martini Kostrna (?) [Kostelna ?], utergue Herspicio“; svědci Josef Velam (Wilam) a Jiří Hrabovský z Heršpic (O 13120 sn. 277 vlevo; M, ověřeno koordinátorem; rok podle „Anno 1752“ na sn. 276 vlevo). Jediný sňatek Pavla Lanížka v O 1745 – I 1774 (MZA N54); sedí s věkem úmrtí Pavla 1796 (75) i Anny 1805 (80). Syn Pavel 1773 by byl pozdní dítě (Anně ~45) – další děti 1752–72 dosud nehledány."
       ],
       sources: [
-        "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, O Slavkov 13120, sn. 277 vlevo (II 1752), https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
-        {"f":"img/1773_N_Lanicek_Pavel_Herspice.jpg","t":"Křest syna Pavla, Heršpice 1773"}
+        {"f":"img/1773_N_Lanicek_Pavel_Herspice.jpg","t":"Křest syna Pavla, Heršpice 1773"},
+        {"f":"img/1752_O_Lanicek_Pavel_Anna_Herspice.jpg","t":"Sňatek II 1752, Heršpice (kandidát)"}
       ]
     },
     {
