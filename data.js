@@ -13949,15 +13949,18 @@ window.RODOKMEN = {
       name: "Pavel Klika",
       line: "klika",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true,"place":"Bykoš (?)"},
+      b: {"date":"neznámé (asi 1686, podle věku při úmrtí)","year":1686,"approx":true,"place":"Bykoš (?)"},
+      d: {"date":"25. 1. 1772","year":1772,"place":"Suchomasty č. p. 12"},
       marriage: "6. 9. (?) 1719, Borek (z Bykoše) – s Veronikou Augeskou (?)",
       notes: [
         "KANDIDÁT (K++): otec Vojtěcha Kliky – křest 15. 7. 1725 z Bykoše „otce Pavla Kliky a mateře Veroniky“ (Borek 02 N sn. 53 vpravo; M) a sňatek syna 1748 „Adalbertus proprius filius Pauli Klika“ (Borek 02 O sn. 23 vpravo; M). Sňatek s Veronikou (rejstřík O Borek 02) a úmrtí nehledány. Možná souvislost s Václavem Klikou (*~1725) z Bykoše – nerozhodnuto.",
-        "Oddán 6. 9. (?) 1719 z Bykoše: „Pavel Klika s poctivou děvečkou Veronikou Augeskou (?)“, družba Ondřej Manda (?), faktor František Baubín; rodiče snoubenců neuvedeni (Borek 02 O sn. 8 vpravo, pag. 11; rejstřík O „Klika Paulus cum Augeskin Veronica 11“; M). Děti z Bykoše (Borek 02 N; M): Jakub 8. 7. 1722, Matěj 2. 2. 1724, Vojtěch 15. 7. 1725 – vždy kmotři Václav Svoboda, Vojtěch Duchoň, Alžběta Krbcová. Úmrtí není v rejstříku Z Borek 02 (1710–47). Snad 2. manželka Marie Magdalena (dcera Ludmila 1739; K)."
+        "Oddán 6. 9. (?) 1719 z Bykoše: „Pavel Klika s poctivou děvečkou Veronikou Augeskou (?)“, družba Ondřej Manda (?), faktor František Baubín; rodiče snoubenců neuvedeni (Borek 02 O sn. 8 vpravo, pag. 11; rejstřík O „Klika Paulus cum Augeskin Veronica 11“; M). Děti z Bykoše (Borek 02 N; M): Jakub 8. 7. 1722, Matěj 2. 2. 1724, Vojtěch 15. 7. 1725 – vždy kmotři Václav Svoboda, Vojtěch Duchoň, Alžběta Krbcová. Úmrtí není v rejstříku Z Borek 02 (1710–47). Snad 2. manželka Marie Magdalena (dcera Ludmila 1739; K).",
+        "Zemřel / pohřben 25. 1. 1772 v Suchomastech č. 12 – „Klika Paulus, inquilinus Suchomastensis“, 86 let (Borek 03 Z sn. 175 vlevo, pag. 124; M, ověřeno koordinátorem; jediný Pavel Klika v rejstřících Z 1710–1773) – dožil u syna Vojtěcha na č. 12 → *~1686 (křest v mezeře Borek 01 1684–97). Snad 2. manželka Markéta Pražáková (rejstřík O Borek 03 „Paulus cum Pražák Margar.“; Margaretha Kliková Z pag. 130 – nečteno); dcera Ludmila 1739 s Marií Magdalenou (?)."
       ],
       sources: [
         "SOA Praha, Borek 02 (4071), N sn. 53 vpravo, pag. 51 (15. 7. 1725), https://ebadatelna.soapraha.cz/d/4071/53",
-        "SOA Praha, Borek 02 (4071), O sn. 8 vpravo, pag. 11 (6. 9. ? 1719), https://ebadatelna.soapraha.cz/d/4071/8"
+        "SOA Praha, Borek 02 (4071), O sn. 8 vpravo, pag. 11 (6. 9. ? 1719), https://ebadatelna.soapraha.cz/d/4071/8",
+        "SOA Praha, Borek 03 (4072), Z sn. 175 vlevo, pag. 124 (I 1772), https://ebadatelna.soapraha.cz/d/4072/175"
       ],
       scans: [
         {"f":"img/1725_N_Klika_Vojtech_Bykos.jpg","t":"Křest syna Vojtěcha, 1725"}
@@ -13972,7 +13975,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
       notes: [
         "KANDIDÁTKA (K++): matka Vojtěcha Kliky – křest 15. 7. 1725 z Bykoše (Borek 02 N sn. 53 vpravo; M). Rodné příjmení neznámé.",
-        "Oddána 6. 9. (?) 1719 s Pavlem Klikou (Borek 02 O sn. 8 vpravo; M); děti Jakub 1722, Matěj 1724, Vojtěch 1725. Úmrtí: kandidáti „Veronica Klika“ v rejstříku Z Borek 02 str. 19, 32, 39 – nečteno."
+        "Oddána 6. 9. (?) 1719 s Pavlem Klikou (Borek 02 O sn. 8 vpravo; M); děti Jakub 1722, Matěj 1724, Vojtěch 1725. Úmrtí: kandidáti „Veronica Klika“ v rejstříku Z Borek 02 str. 19, 32, 39 – nečteno.",
+        "Praha N81: tři „Veronica Klika“ v rejstříku Z Borek 02 jsou malé děti (1727, 1738, ~1746) → úmrtí Veroniky ne v Borek 02; zbývá „Klika Veronica 6“ v Z Borek 03 (~1748/49)."
       ],
       sources: [
         "SOA Praha, Borek 02 (4071), N sn. 53 vpravo, pag. 51 (15. 7. 1725), https://ebadatelna.soapraha.cz/d/4071/53",
