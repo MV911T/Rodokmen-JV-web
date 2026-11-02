@@ -4270,7 +4270,8 @@ window.RODOKMEN = {
         "Otec Marie Čapkové (manželky Jana Čapka) – oba rody Čapků z Hrubého Jeseníka.",
         "Podle indexu křtů Hrubý Jeseník děti od 1777 (Dorota 1777, Kateřina 1779, František 1781, Josef 1784/85, Kateřina 1788, Jan Kašpar 1790, Marie 1797) – sňatek s Dorotou Červinkovou nejpozději 1777.",
         "Zemřel 6. 3. 1800 v Hrubém Jeseníku č. 30 jako chalupník, 45 let → narozen 1753/54: odpovídá křtu 14. 3. 1753 („Carel, otec Josef Czapek, matka Dorotha“). Starší bratr Karel (*25. 8. 1748) se také dožil dospělosti († 30. 3. 1806, 58 let, výminkář) – ztotožnění podle věku a č. domu 30 (dcera Marie *1797 v č. 30).",
-        "Praha N115: sňatek rodičů Josef Čapek × Dorota není v Hrubý Jeseník 03 O ~1733–35 ani XI 1741 – ~1744 (střední negativ); 1736–41 nečteno; děti „Čapka Joz.“ 1735–63 snad dvou Josefů."
+        "Praha N115: sňatek rodičů Josef Čapek × Dorota není v Hrubý Jeseník 03 O ~1733–35 ani XI 1741 – ~1744 (střední negativ); 1736–41 nečteno; děti „Čapka Joz.“ 1735–63 snad dvou Josefů.",
+        "Praha N117: otec Josef Čapek × Dorota i u dětí Josef Constantin 30. 5. 1736 a Václav 28. 9. 1743 (HJ 03 N sn. 118 vpravo, 155 vlevo; M) → patrně jeden pár. KANDIDÁT sňatku (K): 19. 5. 1733 „Jan Josef, syn po † Václavovi Čapkovi (?) s Dorotou, dcerou Václava Far… (?), z Jeseníka“ (HJ 03 O sn. 251 vpravo; M zápis, příjmení nejistá)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08 (N-O-Z 1788–1837), str. 314, snímek 163 – https://ebadatelna.soapraha.cz/d/5728/163",
@@ -5898,7 +5899,8 @@ window.RODOKMEN = {
       spouse: "katerina_kr2",
       occ: "domkář, rodák ze Suchomast",
       notes: [
-        "Otec Josefy Svobodové."
+        "Otec Josefy Svobodové.",
+        "Praha N117: IX 1778 (?) Suchomasty č. 22 – „Jacobus Kreizj, proprius filius Wenceslai Kreizj rustici Bikoschensis cum Josepha, filia Wen. Chvátala (?)“ (Borek 04 O sn. 107 vpravo; M) – nevěsta Josefa, ne Kateřina: 1. manželství, nebo jiný Jakub (K). Sňatek s Kateřinou není v rejstříku O Borek 03 (1748–73) ani Borek 04 O 1774 – ~1782."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
@@ -8940,7 +8942,8 @@ window.RODOKMEN = {
         "Sedlák v Bykoši č. 10 (poddaný suchomastský); manželka Kateřina. Děti: Kateřina (1776), Josef (1785), František (1789), František (1791). Pozor: jiný Jan Klika, syn Václava, sedláka z Bykoše, se II 1775 oženil s Ludmilou Burianovou. Syn František † 12. 9. 1789 č. 10 (Borek 05 Z; K).",
         "Zemřel 24. 6. 1831 (pohřben 27. 6.) v Bykoši č. 10: „Klika Jan, bývalý sedlák a výminkář bikoský, z Bikoše rozený“, 83 let (Borek 14, sn. 4 vlevo, pag. 4; M, ověřeno) → *~1748. Křest 12. 9. 1748 (Jan, syn Václava Kliky) patří spíš Janovi z č. 17 – viz poznámka o sňatku.",
         "Oddán 26. 9. 1773 (Bykoš): „Klika Joannes laboriosus honestus juvenis proprius filius Wenceslai Kreiczj rustici Bikoschensis cum honesta virgine Catharina propria filia Wenceslai Chwatal molitoris Suchomastensis“; svědci Jan Krbec, sedlák z Bykoše, a Matěj Burian, sedlák ze Suchomast (Borek 03, pag. 98, sn. 240 vlevo; M, ověřeno koordinátorem). Ztotožnění s Janem č. 10: kmotr dcery 1776 Jakub Chvátal, mlýnář ze Suchomast. Otec „Václav Kreiczj, sedlák bykošský“ – v Bykoši skutečně žil samostatný Václav Krejčí, sedlák (× ~1732 Kateřina Krbcová; děti 1739–1770; svědkem 1773 Jan Krbec) → ROZPOR (otec): převažuje (a) Václav Klika × Kateřina Krejčová (K, silný) – křest Jana 12. 9. 1748, věk 83 v r. 1831; „Kreiczj“ 1773 nejspíš přízvisko po matce. Varianta (b) Václav Krejčí ztratila kandidáta: jediný jeho syn Jan (*23. 1. 1742) zemřel svobodný 7. 4. 1759, 18 let (Borek 03 Z p. 39; M); Václav Krejčí † 24. 7. 1784 č. 22 (70). Ale (Praha N30): Václav Klika, sedlák v č. 17 († 3. 3. 1783, 69; vdova Kateřina † 25. 3. 1783, 67; Borek 04 Z p. 56–57; M) je otcem Jana z č. 17 (× 1775 Ludmila) – křest 1748 může patřit jemu. Kolem 1729/30 navíc dva páry „Václav Klika × Kateřina“ (Duchoňová, Krejčová). Otec Jana č. 10 tedy NEROZHODNUT; implex se Skálovými NEZAPSÁN – k rozhodnutí uživatele.",
-        "Oddací zápis 26. 9. 1773 (Borek 03 sn. 240 vlevo, pag. 98) znovu v plném rozlišení: „Klika Joannes … proprius filius Wenceslai Kreiczj rustici Bikoschensis“ – u otce jistě „Kreiczj“ (příjmení, nebo přízvisko Václava Kliky, jehož manželka byla roz. Krejčová – nerozhodnuto; ROZPOR trvá)."
+        "Oddací zápis 26. 9. 1773 (Borek 03 sn. 240 vlevo, pag. 98) znovu v plném rozlišení: „Klika Joannes … proprius filius Wenceslai Kreiczj rustici Bikoschensis“ – u otce jistě „Kreiczj“ (příjmení, nebo přízvisko Václava Kliky, jehož manželka byla roz. Krejčová – nerozhodnuto; ROZPOR trvá).",
+        "Praha N117 (k ROZPORU o otci): v Bykoši opravdu žil Václav Krejčí, sedlák (syn Jakub × 1778; Borek 04 O sn. 107 vpravo; M) – podporuje čtení oddacího 1773 „Wenceslai Kreiczj“, ale nerozhoduje, proč se syn jmenuje Klika."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20",
