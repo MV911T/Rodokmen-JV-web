@@ -14017,18 +14017,20 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
-      d: {"date":"před 18. 1. 1778","year":1778,"approx":true},
+      d: {"date":"mezi VIII 1752 a 9. 11. 1761","year":1761,"approx":true},
       marriage: "5. 2. 1736, Rožďalovice – (jako vdovec) s Alžbětou Šavlíkovou (?)",
       notes: [
         "Otec Kateřiny Šulcové – oddací zápis 1778 („dcera † Jindřicha Čihala“; M) a křest 17. 12. 1747 Žitovlice (Rožďalovice 02 N sn. 229 vlevo; M). Při sňatku dcery 1778 už nežil.",
         "Oddán 5. 2. 1736 jako vdovec s Alžbětou, pozůstalou dcerou po † Janu Šavlíkovi (?), „z Wegdi (?)“ = snad Pojedy (Rožďalovice 10 O sn. 11 vpravo – 12 vlevo; M). V V 1744 v Pojedech (dcera Anna), 1747 v Žitovlicích (kmotr 10. 5., dcera Kateřina XII). První manželka a úmrtí nehledány.",
         "Praha N91: syn František pokřtěn 10. 8. 1752 Žitovlice – „otce Jindřicha Čyhala a matky Alžběty“ (Rožďalovice 03 N sn. 22 vlevo; M) → Jindřich žil VIII 1752; úmrtí 1752–1778 (Rožďalovice 13 Z).",
-        "Praha N93: úmrtí není v rejstříku Z Rožďalovice 37 (1770 – I 1778) → † nejspíš VIII 1752 – 1769 (Rožďalovice 13 Z sn. ~66–121, bez rejstříku) nebo mimo faru. Pozor: v Žitovlicích současně rodina ČIHÁK (Jindřich Čihák † před 1753; syn Matěj † 3. 11. 1753, 21 let; vdova Dorota † 1. 5. 1754, 65) – nezaměňovat (čtení „Czyhk-“)."
+        "Praha N93: úmrtí není v rejstříku Z Rožďalovice 37 (1770 – I 1778) → † nejspíš VIII 1752 – 1769 (Rožďalovice 13 Z sn. ~66–121, bez rejstříku) nebo mimo faru. Pozor: v Žitovlicích současně rodina ČIHÁK (Jindřich Čihák † před 1753; syn Matěj † 3. 11. 1753, 21 let; vdova Dorota † 1. 5. 1754, 65) – nezaměňovat (čtení „Czyhk-“).",
+        "Praha N94: 9. 11. 1761 (pohřben 11. 11.) zemřel v Žitovlicích „Franciscus, filius def. Henrici Čzihal, incolae“, 9 let (Rožďalovice 13 Z sn. 87 vlevo, pag. 166; M, ověřeno koordinátorem) = syn *10. 8. 1752 → Jindřich † VIII 1752 – XI 1761; vlastní pohřeb v Z sn. 66–89 nenalezen (střední negativ). Žitovličtí Čihákové (Kateřina † 1758, 40) jsou jiná rodina."
       ],
       sources: [
         "SOA Praha, Rožďalovice 02 (11180), N sn. 229 vlevo (17. 12. 1747), https://ebadatelna.soapraha.cz/d/11180/229",
         "SOA Praha, Rožďalovice 10 (11192), O sn. 11 vpravo – 12 vlevo (5. 2. 1736), https://ebadatelna.soapraha.cz/d/11192/11",
-        "SOA Praha, Rožďalovice 02 (11180), N sn. 204 vpravo (20. 5. 1744), https://ebadatelna.soapraha.cz/d/11180/204"
+        "SOA Praha, Rožďalovice 02 (11180), N sn. 204 vpravo (20. 5. 1744), https://ebadatelna.soapraha.cz/d/11180/204",
+        "SOA Praha, Rožďalovice 13 (11196), Z sn. 87 vlevo (9. 11. 1761), https://ebadatelna.soapraha.cz/d/11196/87"
       ],
       scans: [
         {"f":"img/1747_N_Cihalova_Katerina_Zitovlice.jpg","t":"Křest dcery Kateřiny, 1747"}
