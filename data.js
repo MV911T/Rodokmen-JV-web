@@ -14172,7 +14172,8 @@ window.RODOKMEN = {
       d: {"date":"před 9. 11. 1760","year":1760,"approx":true},
       notes: [
         "KANDIDÁT (K++): otec Pavla Oty – „Paulus filius post defunctum Georgium Otta Colonum ex pago Skrchleb“ (sňatek 9. 11. 1760; Nymburk 07 O sn. 261 vlevo; M). Sedlák v Krchlebích (panství Vlkava), † před XI 1760. Úmrtí a manželka nehledány.",
-        "Praha N106: manželka Kateřina – dcera Marie Magdalena pokřtěna 6. 7. 1734 „ze Skrchleb … O: Jiří Otta, M: Kateřina“, kmotři Marie Kozlová (?), Kateřina Zajíčková, Matěj Kalista (Nymburk 06 N sn. 251 vpravo; M; vazba na Pavlovu rodinu K+); „Kateřina Jiřího Otty“ kmotrou 8. 10. 1736 (sn. 288 vpravo). V Krchlebích tehdy i Jan Ota × Alžběta; ve Všechlapech Pavel Ota × Kateřina (syn Jan 1735) – jiné rodiny. Křest Pavla není v Nymburk 06 X 1733 – IV 1737 → před X 1733 nebo po V 1737."
+        "Praha N106: manželka Kateřina – dcera Marie Magdalena pokřtěna 6. 7. 1734 „ze Skrchleb … O: Jiří Otta, M: Kateřina“, kmotři Marie Kozlová (?), Kateřina Zajíčková, Matěj Kalista (Nymburk 06 N sn. 251 vpravo; M; vazba na Pavlovu rodinu K+); „Kateřina Jiřího Otty“ kmotrou 8. 10. 1736 (sn. 288 vpravo). V Krchlebích tehdy i Jan Ota × Alžběta; ve Všechlapech Pavel Ota × Kateřina (syn Jan 1735) – jiné rodiny. Křest Pavla není v Nymburk 06 X 1733 – IV 1737 → před X 1733 nebo po V 1737.",
+        "Praha N107: další dítě (K+) Josef 16. 10. 1738 – „O: Jiří Otta, M: Kateřina“, kmotr Matěj Kalista jako 1734 (Nymburk 06 N sn. 320 vpravo; M; nadpis obce nečten). Pavel není v N X 1731 – IX 1733 ani IV 1737 – IV 1739 (střední negativ) → zbývá mezera 1735–37 (slabě čtena), před X 1731 nebo po IV 1739."
       ],
       sources: [
         "SOA Praha, Nymburk 07 (10406), O sn. 261 vlevo, pag. 510 (9. 11. 1760), https://ebadatelna.soapraha.cz/d/10406/261"
