@@ -4737,7 +4737,8 @@ window.RODOKMEN = {
       marriage: "18. 1. 1797, Nymburk (Krchleby č. 17) – s Františkem Otou",
       notes: [
         "Matka Václava Oty; čtení příjmení nejisté.",
-        "Oddána 18. 1. 1797 jako „Anna, dcera Jana Zajíčka, sedláka ze Skrchleb“, 16 let, katolička (Nymburk 08 O sn. 196 vlevo; M); totéž v křtech dětí 1799 a 1809 (Veleliby 01; M) → rodné příjmení Zajíčková potvrzeno. KANDIDÁT křtu (K): 9. 7. 1780 Krchleby č. 45, „Joannes Zagjček × Dorothea“ (Nymburk 08 N sn. 67 vlevo) – v Krchlebích ale víc párů Jan Zajíček × Dorota."
+        "Oddána 18. 1. 1797 jako „Anna, dcera Jana Zajíčka, sedláka ze Skrchleb“, 16 let, katolička (Nymburk 08 O sn. 196 vlevo; M); totéž v křtech dětí 1799 a 1809 (Veleliby 01; M) → rodné příjmení Zajíčková potvrzeno. KANDIDÁT křtu (K): 9. 7. 1780 Krchleby č. 45, „Joannes Zagjček × Dorothea“ (Nymburk 08 N sn. 67 vlevo) – v Krchlebích ale víc párů Jan Zajíček × Dorota.",
+        "Praha N101: kandidátní křest 9. 7. 1780 (Krchleby č. 45) posílen na K+ – Jan Zajíček z č. 54 † 1785 vyloučen, z č. 48 byl podruh."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
@@ -14096,14 +14097,18 @@ window.RODOKMEN = {
       name: "Pavel Ota",
       line: "ota",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true,"place":"Krchleby (?)"},
-      d: {"date":"před 18. 1. 1797","year":1797,"approx":true},
+      b: {"date":"neznámé (asi 1735, podle věku při úmrtí)","year":1735,"approx":true,"place":"Krchleby (?)"},
+      d: {"date":"11. 5. 1795","year":1795,"place":"Krchleby č. p. 17"},
+      occ: "sedlák v Krchlebích č. 17",
       notes: [
-        "Otec Františka Oty – „Franz, syn po † Pavlovi Otta ze Skrchleb, H. C.“ (sňatek 18. 1. 1797; Nymburk 08 O sn. 196 vlevo; M). Sedlák (?) v Krchlebích č. 17, helvetské vyznání. Kandidátní křest syna X 1777 s manželkou Kateřinou (Nymburk 08 N sn. 59 vlevo). Sňatek a úmrtí nehledány."
+        "Otec Františka Oty – „Franz, syn po † Pavlovi Otta ze Skrchleb, H. C.“ (sňatek 18. 1. 1797; Nymburk 08 O sn. 196 vlevo; M). Sedlák (?) v Krchlebích č. 17, helvetské vyznání. Kandidátní křest syna X 1777 s manželkou Kateřinou (Nymburk 08 N sn. 59 vlevo). Sňatek a úmrtí nehledány.",
+        "Zemřel 11. 5. 1795 (pohřben 13. 5.) Krchleby č. 17 – „Pavel Otta, sedlák“, 60 let; pohřbil Samuel Schütz, superintendent H. C. z Chlebů (Nymburk 05 Z sn. 348 vpravo, pag. 753; M, ověřeno koordinátorem) → *~1735. Děti z č. 17: Dorota † 23. 2. 1784 (5 let), Alžběta † 31. 7. ~1791 (Nymburk 05 Z sn. 340 vlevo, 345 vpravo; M). Pozor: Pavel Ota, podruh z č. 40 (děti † 1784, 1786) – jiný.",
+        "KANDIDÁT sňatku (K+): 10. 5. 1774 Krchleby č. 39 – „Paulus Otta cum Catharina filia Joannis Hles|sek (?)“ (Nymburk 08 O sn. 174 vpravo; M zápis) – dům 39, ženich ~39letý zapsán jako svobodný → ztotožnění nejisté; příjmení Kateřiny nejisté (Hlásková ?)."
       ],
       sources: [
         "SOA Praha, Nymburk 08 (10407), O sn. 196 vlevo (18. 1. 1797), https://ebadatelna.soapraha.cz/d/10407/196",
-        "SOA Praha, Nymburk 08 (10407), N sn. 59 vlevo (X 1777 ?), https://ebadatelna.soapraha.cz/d/10407/59"
+        "SOA Praha, Nymburk 08 (10407), N sn. 59 vlevo (X 1777 ?), https://ebadatelna.soapraha.cz/d/10407/59",
+        "SOA Praha, Nymburk 05 (10404), Z sn. 348 vpravo (11. 5. 1795), https://ebadatelna.soapraha.cz/d/10404/348"
       ],
       scans: [
         {"f":"img/1797_O_Ota_Frantisek_Zajickova_Anna.jpg","t":"Sňatek syna Františka, 1797"}
@@ -14130,7 +14135,8 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Krchleby"},
       notes: [
-        "Otec Anny Otové – „Anna, dcera Jana Zajíčka, sedláka ze Skrchleb“ (sňatek 18. 1. 1797; Nymburk 08 O sn. 196 vlevo; M) a křty vnuků 1799, 1809 (Veleliby 01; M). Manželka snad Dorota (K; v Krchlebích 1780 víc párů Jan Zajíček × Dorota)."
+        "Otec Anny Otové – „Anna, dcera Jana Zajíčka, sedláka ze Skrchleb“ (sňatek 18. 1. 1797; Nymburk 08 O sn. 196 vlevo; M) a křty vnuků 1799, 1809 (Veleliby 01; M). Manželka snad Dorota (K; v Krchlebích 1780 víc párů Jan Zajíček × Dorota).",
+        "Praha N101: Jan Zajíček, sedlák z Krchleb č. 54, † 16. 5. 1785, 60 let (Nymburk 05 Z sn. 341 vlevo; M) – NENÍ otec Anny (ten v 1797, 1799, 1809 bez „†“). Otec Anny tedy patrně Jan Zajíček, sedlák z č. 45 (křest Anny 9. 7. 1780 – „Joannes Zagjček, Bodianus × Dorothea“; Nymburk 08 N sn. 67 vlevo; K+); třetí Jan Zajíček v č. 48 byl podruh."
       ],
       sources: [
         "SOA Praha, Nymburk 08 (10407), O sn. 196 vlevo (18. 1. 1797), https://ebadatelna.soapraha.cz/d/10407/196",
