@@ -9566,7 +9566,8 @@ window.RODOKMEN = {
         "Zemřel 13. 12. 1808 (pohřben 15. 12.) v Žitovlicích č. 16: „Jakub Šulc, baráčník z Žitovlic“, 54 (?) let (věk přepsaný; index Rožďalovice 37: 54 l.), „na vodnau nemoc“ (Rožďalovice 14, fol. 59, sn. 50 vpravo; M) → *~1754. Dům č. 16, ne č. 8 jako 1789/1808 u manželky.",
         "Praha N91: křest Jakuba Šulce není v Rožďalovice 03 N V 1752 – XII 1755 (střední negativ); Šulcové na panství: Jan Šulc × Dorota (syn František 11. 12. 1752, z Hamrů ?; sn. 24 vpravo; M), Václav Šulc × Kateřina (Pojedy 1754), Jan Š… (Žitovlice 1753) – kandidáti rodičů (K). Zbývá N 1749–51 a 1756–58.",
         "Praha N92: Jakub Šulc není v Rožďalovice 03 N VIII 1750 – XII 1751 ani XII 1755 – XII 1758 (střední negativ). Další Šulcové: Václav Šul(c) (?), podruh × Dorota, Žitovlice (syn Václav Vít VI 1751); Václav Šulc, soused, Pojedy × Kateřina (1754, 1757) a × Marie Magdalena (II 1758). Zbývá N 1749 – VIII 1750 a 1745–48.",
-        "Praha N93: ani v Rožďalovice 03 N I 1749 – VIII 1750 není → celé 1749–1758 bez Jakuba Šulce (mimo slabá místa); zbývá Rožďalovice 02 1745–48 nebo jiná fara."
+        "Praha N93: ani v Rožďalovice 03 N I 1749 – VIII 1750 není → celé 1749–1758 bez Jakuba Šulce (mimo slabá místa); zbývá Rožďalovice 02 1745–48 nebo jiná fara.",
+        "Praha N95 (K): ~6. 2. 1757 Žitovlice sňatek „Václav, syn pozůstalý po † Janu Šůlcovi (?), bývalém sousedu v Pojedech“ × Kateřina Dolejšová (?) (Rožďalovice 10 O sn. 58 vlevo) → Jan Šulc z Pojed † před 1757 – snad otec Jakuba (K)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
@@ -14023,20 +14024,22 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
-      d: {"date":"mezi VIII 1752 a 9. 11. 1761","year":1761,"approx":true},
+      d: {"date":"mezi VIII 1752 a 25. 11. 1760","year":1760,"approx":true},
       marriage: "5. 2. 1736, Rožďalovice – (jako vdovec) s Alžbětou Šavlíkovou (?)",
       notes: [
         "Otec Kateřiny Šulcové – oddací zápis 1778 („dcera † Jindřicha Čihala“; M) a křest 17. 12. 1747 Žitovlice (Rožďalovice 02 N sn. 229 vlevo; M). Při sňatku dcery 1778 už nežil.",
         "Oddán 5. 2. 1736 jako vdovec s Alžbětou, pozůstalou dcerou po † Janu Šavlíkovi (?), „z Wegdi (?)“ = snad Pojedy (Rožďalovice 10 O sn. 11 vpravo – 12 vlevo; M). V V 1744 v Pojedech (dcera Anna), 1747 v Žitovlicích (kmotr 10. 5., dcera Kateřina XII). První manželka a úmrtí nehledány.",
         "Praha N91: syn František pokřtěn 10. 8. 1752 Žitovlice – „otce Jindřicha Čyhala a matky Alžběty“ (Rožďalovice 03 N sn. 22 vlevo; M) → Jindřich žil VIII 1752; úmrtí 1752–1778 (Rožďalovice 13 Z).",
         "Praha N93: úmrtí není v rejstříku Z Rožďalovice 37 (1770 – I 1778) → † nejspíš VIII 1752 – 1769 (Rožďalovice 13 Z sn. ~66–121, bez rejstříku) nebo mimo faru. Pozor: v Žitovlicích současně rodina ČIHÁK (Jindřich Čihák † před 1753; syn Matěj † 3. 11. 1753, 21 let; vdova Dorota † 1. 5. 1754, 65) – nezaměňovat (čtení „Czyhk-“).",
-        "Praha N94: 9. 11. 1761 (pohřben 11. 11.) zemřel v Žitovlicích „Franciscus, filius def. Henrici Čzihal, incolae“, 9 let (Rožďalovice 13 Z sn. 87 vlevo, pag. 166; M, ověřeno koordinátorem) = syn *10. 8. 1752 → Jindřich † VIII 1752 – XI 1761; vlastní pohřeb v Z sn. 66–89 nenalezen (střední negativ). Žitovličtí Čihákové (Kateřina † 1758, 40) jsou jiná rodina."
+        "Praha N94: 9. 11. 1761 (pohřben 11. 11.) zemřel v Žitovlicích „Franciscus, filius def. Henrici Čzihal, incolae“, 9 let (Rožďalovice 13 Z sn. 87 vlevo, pag. 166; M, ověřeno koordinátorem) = syn *10. 8. 1752 → Jindřich † VIII 1752 – XI 1761; vlastní pohřeb v Z sn. 66–89 nenalezen (střední negativ). Žitovličtí Čihákové (Kateřina † 1758, 40) jsou jiná rodina.",
+        "Praha N95: 25. 11. 1760 ze Žitovlic sňatek „Joannes defuncti Wenceslai Kunčík (?) filius cum Dorothea filia defuncti Henrici Čzyhal incolae Žitoblicensis“ (Rožďalovice 10 O sn. 65 vlevo, pag. 122; M, ověřeno koordinátorem) → Jindřich † před 25. 11. 1760; Dorota snad dcera (K – z 1. nebo 2. manželství). Druhý sňatek vdovy Alžběty v O VII 1752 – VII 1763 nenalezen (střední negativ)."
       ],
       sources: [
         "SOA Praha, Rožďalovice 02 (11180), N sn. 229 vlevo (17. 12. 1747), https://ebadatelna.soapraha.cz/d/11180/229",
         "SOA Praha, Rožďalovice 10 (11192), O sn. 11 vpravo – 12 vlevo (5. 2. 1736), https://ebadatelna.soapraha.cz/d/11192/11",
         "SOA Praha, Rožďalovice 02 (11180), N sn. 204 vpravo (20. 5. 1744), https://ebadatelna.soapraha.cz/d/11180/204",
-        "SOA Praha, Rožďalovice 13 (11196), Z sn. 87 vlevo (9. 11. 1761), https://ebadatelna.soapraha.cz/d/11196/87"
+        "SOA Praha, Rožďalovice 13 (11196), Z sn. 87 vlevo (9. 11. 1761), https://ebadatelna.soapraha.cz/d/11196/87",
+        "SOA Praha, Rožďalovice 10 (11192), O sn. 65 vlevo (25. 11. 1760), https://ebadatelna.soapraha.cz/d/11192/65"
       ],
       scans: [
         {"f":"img/1747_N_Cihalova_Katerina_Zitovlice.jpg","t":"Křest dcery Kateřiny, 1747"}
