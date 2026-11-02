@@ -6507,6 +6507,7 @@ window.RODOKMEN = {
       d: {"date":"14. 1. 1849","year":1849,"place":"Zbečno č. p. 45"},
       cause: "horečka omladnic (febris puerperalis)",
       father: "vaclav_ws",
+      mother: "anna_ws",
       spouse: "martin_se",
       marriage: "6. 11. 1827, Zbečno – s Martinem Semencem",
       notes: [
@@ -7795,19 +7796,26 @@ window.RODOKMEN = {
       name: "Václav Vošík (Wašík)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      b: {"date":"neznámé (asi 1774, podle věku při úmrtí)","year":1774,"approx":true,"place":"Zbečno (?)"},
+      d: {"date":"24. 11. 1843","year":1843,"place":"Zbečno č. p. 11"},
+      father: "vaclav_ws0",
+      mother: "katerina_ws",
+      spouse: "anna_ws",
       occ: "rybář (1795–1804), později domkář ve Zbečně č. 11",
       notes: [
         "Otec Kateřiny Semencové (sňatek 1827) a Františka (sňatek 1833); manželka Anna roz. Pšan… (?). Příjmení nejisté (Wašík / Vašík ?).",
-        "Praha N110: v křtech dětí 1795–1804 „Wenzl Wossika / Wenceslaus Wossika, Fischer“, Zbečno č. 11 (Zbečno 10 N sn. 20–32; M) → příjmení spíš Vošík (1849 „Wošíková“, 1922 „Vosyková“). Manželka Anna, rodné příjmení nejisté: Pstrzak (?) 1799, Pscharowa (?) 1801, Pš… (?) 1804. Sňatek není v Zbečno 14 O X 1787 – VII 1807 (nejspíš mimo faru). ROZPOR: syn František *1795 × 1833 uveden 30 let."
+        "Praha N110: v křtech dětí 1795–1804 „Wenzl Wossika / Wenceslaus Wossika, Fischer“, Zbečno č. 11 (Zbečno 10 N sn. 20–32; M) → příjmení spíš Vošík (1849 „Wošíková“, 1922 „Vosyková“). Manželka Anna, rodné příjmení nejisté: Pstrzak (?) 1799, Pscharowa (?) 1801, Pš… (?) 1804. Sňatek není v Zbečno 14 O X 1787 – VII 1807 (nejspíš mimo faru). ROZPOR: syn František *1795 × 1833 uveden 30 let.",
+        "Zemřel 24. 11. 1843 (pohřben 26. 11.) Zbečno č. 11: „Wenzel Wasika, Häusler in Zbečno N. 11, Sohn nach Wenzel Wasika, Häusler daselbst N. 11 und Katharina geborene N. N.“, 69 let (Zbečno 16 Z sn. 57 vpravo, pag. 111; M, ověřeno koordinátorem) → rodiče doloženi. Sňatek není v Zbečno 14 O IX 1784 – VII 1807 (nejspíš ve farnosti nevěsty). V domě 11 žili 1795–1808 dva Václavové, křty 1795–1804 přiřazeny mladšímu podle matky Anny. Křest hledat v Zbečno 04 (rejstřík W sn. 441–443; ~1772–76)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25",
-        "SOA Praha, Zbečno 10 (8855), N sn. 32 vlevo, pag. 58 (10. 5. 1804), https://ebadatelna.soapraha.cz/d/8855/32"
+        "SOA Praha, Zbečno 10 (8855), N sn. 32 vlevo, pag. 58 (10. 5. 1804), https://ebadatelna.soapraha.cz/d/8855/32",
+        "SOA Praha, Zbečno 16 (8861), Z sn. 57 vpravo, pag. 111 (24. 11. 1843), https://ebadatelna.soapraha.cz/d/8861/57"
       ],
       scans: [
         {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"},
-        {"f":"img/1804_N_Vosikova_Katerina_Zbecno.jpg","t":"Křest dcery Kateřiny, 1804"}
+        {"f":"img/1804_N_Vosikova_Katerina_Zbecno.jpg","t":"Křest dcery Kateřiny, 1804"},
+        {"f":"img/1843_Z_Vosik_Vaclav_Zbecno.jpg","t":"Úmrtí 24. 11. 1843, Zbečno 11"}
       ]
     },
     {
@@ -14205,6 +14213,63 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1760_O_Ota_Pavel_Nemeckova_Katerina.jpg","t":"Sňatek dcery Kateřiny, 1760"}
+      ]
+    },
+    {
+      id: "anna_ws",
+      name: "Anna Vošíková",
+      maiden: "Pš… (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (asi 1765, podle věku při úmrtí)","year":1765,"approx":true},
+      d: {"date":"12. 12. 1850","year":1850,"place":"Zbečno č. p. 11"},
+      spouse: "vaclav_ws",
+      notes: [
+        "Matka Kateřiny Semencové – křest 10. 5. 1804 „Anna geborne Pš… (?)“ (Zbečno 10 N sn. 32 vlevo; M). Zemřela 12. 12. 1850 (pohřbena 14. 12.) ve Zbečně č. 11 jako vdova po Václavu Vošíkovi, domkáři, „rozená Pšichenová (?)“, 85 let (Zbečno 16 Z sn. 75 vpravo; M). Rodné příjmení nejisté (1799 Pstrzak ?, 1801 Pscharowa ?, 1804 Pš…, 1850 Pšichenová ?). O ~9 let starší než manžel."
+      ],
+      sources: [
+        "SOA Praha, Zbečno 10 (8855), N sn. 32 vlevo, https://ebadatelna.soapraha.cz/d/8855/32",
+        "SOA Praha, Zbečno 16 (8861), Z sn. 75 vpravo, pag. 147 (12. 12. 1850), https://ebadatelna.soapraha.cz/d/8861/75"
+      ]
+    },
+    {
+      id: "vaclav_ws0",
+      name: "Václav Vošík",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (asi 1734, podle věku při úmrtí)","year":1734,"approx":true},
+      d: {"date":"19. 3. 1808","year":1808,"place":"Zbečno č. p. 11"},
+      spouse: "katerina_ws",
+      occ: "rybář, Zbečno č. 11",
+      notes: [
+        "Otec Václava Vošíka – „Sohn nach Wenzel Wasika, Häusler daselbst N. 11“ (1843; Zbečno 16 Z sn. 57 vpravo; M). Zemřel 19. 3. 1808 Zbečno č. 11: „Wenzl Wosika, Fischer“, 74 let, stářím (Zbečno 16 Z sn. 19 vpravo, pag. 35; M, ověřeno koordinátorem). Ztotožnění podle domu a jména. Sňatek a křest nehledány (Zbečno 04)."
+      ],
+      sources: [
+        "SOA Praha, Zbečno 16 (8861), Z sn. 57 vpravo, pag. 111 (24. 11. 1843), https://ebadatelna.soapraha.cz/d/8861/57",
+        "SOA Praha, Zbečno 16 (8861), Z sn. 19 (10. 7. 1807; 19. 3. 1808), https://ebadatelna.soapraha.cz/d/8861/19"
+      ],
+      scans: [
+        {"f":"img/1843_Z_Vosik_Vaclav_Zbecno.jpg","t":"Úmrtí syna Václava, 1843"}
+      ]
+    },
+    {
+      id: "katerina_ws",
+      name: "Kateřina Vošíková",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (asi 1737, podle věku při úmrtí)","year":1737,"approx":true},
+      d: {"date":"10. 7. 1807","year":1807,"place":"Zbečno č. p. 11"},
+      spouse: "vaclav_ws0",
+      notes: [
+        "Matka Václava Vošíka – „und Katharina geborene N. N.“ (1843; Zbečno 16 Z sn. 57 vpravo; M). Zemřela 10. 7. 1807 Zbečno č. 11: „Catharina, Eheweib des Wenzl Wosika, Fischers“, 70 let, stářím (Zbečno 16 Z sn. 19 vlevo, pag. 34; M)."
+      ],
+      sources: [
+        "SOA Praha, Zbečno 16 (8861), Z sn. 57 vpravo, pag. 111 (24. 11. 1843), https://ebadatelna.soapraha.cz/d/8861/57",
+        "SOA Praha, Zbečno 16 (8861), Z sn. 19 (10. 7. 1807; 19. 3. 1808), https://ebadatelna.soapraha.cz/d/8861/19"
+      ],
+      scans: [
+        {"f":"img/1843_Z_Vosik_Vaclav_Zbecno.jpg","t":"Úmrtí syna Václava, 1843"}
       ]
     }
   ]
