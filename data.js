@@ -13900,16 +13900,27 @@ window.RODOKMEN = {
       name: "Vojtěch Klika",
       line: "klika",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1722)","year":1722,"approx":true,"place":"Suchomasty / Bykoš (?)"},
+      b: {"date":"15. 7. 1725 (křest)","year":1725,"place":"Bykoš"},
+      d: {"date":"9. 9. 1812","year":1812,"place":"Suchomasty č. p. 12"},
+      cause: "bolest u srdce (?)",
+      father: "pavel_kl",
+      mother: "veronika_kl",
       marriage: "21. 1. 1748, Borek – s Dorotou Duchoňovou",
       notes: [
         "KANDIDÁT (K+): otec Václava Kliky – křest 13. 9. 1765 „Wenceslaus, filius Adalberti Klika et Dorotheae, Suchomast“ (Borek 03 N sn. 77 vlevo; M). Sedlák v Suchomastech č. 12 před Václavem.",
         "Na č. 12 děti s Kateřinou 6. 7. 1785 (Barbora) a 14. 5. 1787 (Kateřina) (index Borek 11 sn. 16 vpravo) → snad 2. manželka po Dorotě (K). Úmrtí a sňatky nehledány.",
-        "Oddán 21. 1. 1748 (fara Borek): „Adalbertus proprius filius Pauli Klika cum Dorothea propria filia defuncti Georgii Duchon“ (Borek 02 O p. 40, sn. 23 vpravo; M; Praha 45) → otec Pavel Klika. Svědek u křtu Václava 1765 Matěj Duchoň (příbuzný matky) podporuje ztotožnění. Další děti s Dorotou: Eva *7. 12. 1752 † 19. 6. 1766, Jan Křtitel † 13. 7. 1764 (3 týdny). Dorota † V 1783 (Borek 04 Z sn. 190 vlevo; K, neověřeno výřezem) → Kateřina (děti 1785, 1787) 2. manželka. Úmrtí Vojtěcha není v Borek 05/06 Z X 1785 – VI 1798."
+        "Oddán 21. 1. 1748 (fara Borek): „Adalbertus proprius filius Pauli Klika cum Dorothea propria filia defuncti Georgii Duchon“ (Borek 02 O p. 40, sn. 23 vpravo; M; Praha 45) → otec Pavel Klika. Svědek u křtu Václava 1765 Matěj Duchoň (příbuzný matky) podporuje ztotožnění. Další děti s Dorotou: Eva *7. 12. 1752 † 19. 6. 1766, Jan Křtitel † 13. 7. 1764 (3 týdny). Dorota † V 1783 (Borek 04 Z sn. 190 vlevo; K, neověřeno výřezem) → Kateřina (děti 1785, 1787) 2. manželka. Úmrtí Vojtěcha není v Borek 05/06 Z X 1785 – VI 1798.",
+        "Pokřtěn 15. 7. 1725 z Bykoše: „Pokřtěno jest dítě jménem Vojtěch, otce Pavla Kliky a mateře Veroniky“; kmotři Václav Svoboda, Vojtěch Kozel, Alžběta Krbcová (?) (Borek 02 N sn. 53 vpravo, pag. 51; M, ověřeno koordinátorem; rok podle „Anno 1725“ na pag. 49) – ztotožnění se ženichem 1748 („filius Pauli Klika“) K++ (jiný Vojtěch z Bykoše v rejstříku není).",
+        "Zemřel 9. 9. 1812 (pohřben 11. 9.) Suchomasty č. 12 – „Vojtěch Klika, výminkář, poddaný suchomastský“, 84 (?) let (Borek 06 Z sn. 122 vpravo; M) – dům č. 12 sedí."
       ],
       sources: [
         "SOA Praha, Borek 03 (4072), N sn. 77 vlevo, pag. 148 (13. 9. 1765), https://ebadatelna.soapraha.cz/d/4072/77",
-        "SOA Praha, Borek 11 (4080), index N sn. 16 vpravo (Suchomasty 12: 1785, 1787)"
+        "SOA Praha, Borek 11 (4080), index N sn. 16 vpravo (Suchomasty 12: 1785, 1787)",
+        "SOA Praha, Borek 02 (4071), N sn. 53 vpravo, pag. 51 (15. 7. 1725), https://ebadatelna.soapraha.cz/d/4071/53",
+        "SOA Praha, Borek 06 (4075), Z Suchomasty sn. 122 vpravo, pag. 23 (9. 9. 1812), https://ebadatelna.soapraha.cz/d/4075/122"
+      ],
+      scans: [
+        {"f":"img/1725_N_Klika_Vojtech_Bykos.jpg","t":"Křest 15. 7. 1725, Bykoš"}
       ]
     },
     {
@@ -13919,12 +13930,48 @@ window.RODOKMEN = {
       line: "klika",
       cert: "K",
       b: {"date":"neznámé (odhad ~1727)","year":1727,"approx":true},
+      d: {"date":"24. 5. 1783","year":1783,"place":"Suchomasty č. p. 12"},
       notes: [
         "KANDIDÁTKA (K+): matka Václava Kliky – křest 13. 9. 1765 Suchomasty (Borek 03 N sn. 77 vlevo; M). Rodné příjmení neznámé.",
-        "Dcera † Jiřího Duchoně – sňatek 21. 1. 1748 s Vojtěchem, synem Pavla Kliky (Borek 02 O sn. 23 vpravo; M). Zemřela snad V 1783 jako manželka Vojtěcha Kliky, sedláka suchomastského, 56 (?) let (Borek 04 Z sn. 190 vlevo; K)."
+        "Dcera † Jiřího Duchoně – sňatek 21. 1. 1748 s Vojtěchem, synem Pavla Kliky (Borek 02 O sn. 23 vpravo; M). Zemřela snad V 1783 jako manželka Vojtěcha Kliky, sedláka suchomastského, 56 (?) let (Borek 04 Z sn. 190 vlevo; K).",
+        "Zemřela 24. 5. 1783 Suchomasty č. 12 – „Klikova Dorothea, uxor Adalberti Klika rustici Suchomastensis“, 56 let (Borek 04 Z sn. 190 vlevo, pag. 58; M) → *~1727; Kateřina (děti 1785, 1787) byla 2. manželka Vojtěcha."
       ],
       sources: [
-        "SOA Praha, Borek 03 (4072), N sn. 77 vlevo, pag. 148 (13. 9. 1765), https://ebadatelna.soapraha.cz/d/4072/77"
+        "SOA Praha, Borek 03 (4072), N sn. 77 vlevo, pag. 148 (13. 9. 1765), https://ebadatelna.soapraha.cz/d/4072/77",
+        "SOA Praha, Borek 04 (4073), Z sn. 190 vlevo, pag. 58 (24. 5. 1783), https://ebadatelna.soapraha.cz/d/4073/190"
+      ]
+    },
+    {
+      id: "pavel_kl",
+      name: "Pavel Klika",
+      line: "klika",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true,"place":"Bykoš (?)"},
+      notes: [
+        "KANDIDÁT (K++): otec Vojtěcha Kliky – křest 15. 7. 1725 z Bykoše „otce Pavla Kliky a mateře Veroniky“ (Borek 02 N sn. 53 vpravo; M) a sňatek syna 1748 „Adalbertus proprius filius Pauli Klika“ (Borek 02 O sn. 23 vpravo; M). Sňatek s Veronikou (rejstřík O Borek 02) a úmrtí nehledány. Možná souvislost s Václavem Klikou (*~1725) z Bykoše – nerozhodnuto."
+      ],
+      sources: [
+        "SOA Praha, Borek 02 (4071), N sn. 53 vpravo, pag. 51 (15. 7. 1725), https://ebadatelna.soapraha.cz/d/4071/53"
+      ],
+      scans: [
+        {"f":"img/1725_N_Klika_Vojtech_Bykos.jpg","t":"Křest syna Vojtěcha, 1725"}
+      ]
+    },
+    {
+      id: "veronika_kl",
+      name: "Veronika Kliková",
+      maiden: "",
+      line: "klika",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
+      notes: [
+        "KANDIDÁTKA (K++): matka Vojtěcha Kliky – křest 15. 7. 1725 z Bykoše (Borek 02 N sn. 53 vpravo; M). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Praha, Borek 02 (4071), N sn. 53 vpravo, pag. 51 (15. 7. 1725), https://ebadatelna.soapraha.cz/d/4071/53"
+      ],
+      scans: [
+        {"f":"img/1725_N_Klika_Vojtech_Bykos.jpg","t":"Křest syna Vojtěcha, 1725"}
       ]
     }
   ]
