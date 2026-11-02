@@ -2336,7 +2336,8 @@ window.RODOKMEN = {
         "Křest ani sňatek nejsou ve fondu fary Pacov (index N 1783–1804 a O 1765–1833, písmeno W – bez Votavy). Místo původu ze sňatku 1844 „z Letův / Lstův (?)“ nejisté; matka Terezie „dcera Martina Marody, podruha z Lom… (?) č. 23“.",
         "Křest ani sňatek nejsou ani ve faře Zhoř 1784–1816 (rejstřík 8839, písmeno W); v pozemkové knize domkářů Těchobuz (1805–1870) Votava není – v č. 24 (od 1816 Babičtí) a č. 36 jen bydlel (podruh / nájemník). V Těchobuzi žil 1797 jiný Votava – Jakub, domkář v č. 23. KANDIDÁT původu matky: obec Lomná (?) (fara Zhoř).",
         "ROZPOR ve věku: sňatek 1815 „25 let“ (*~1790), sňatek 1844 „41 let“ (*~1803), úmrtí 1862 „67 let“ (*~1795) – nejstarší zápis (1815) má největší váhu.",
-        "Třeboň N28: koupil 14. 11. 1814 selský grunt Jetřichovec č. 10 od Ignáce Dvořáka (?) za 1780 zl. (rustikální pozemková kniha statku Těchobuz 1785–1850, kniha 127651, fol. 216–217, sn. 226–227 vpravo; D; zapsáno 20. 3. 1815) → Votavovi přišli do Jetřichovce XI 1814; otec Martin (1826 výminkář) žil u něj. Odkud přišli, smlouva neuvádí."
+        "Třeboň N28: koupil 14. 11. 1814 selský grunt Jetřichovec č. 10 od Ignáce Dvořáka (?) za 1780 zl. (rustikální pozemková kniha statku Těchobuz 1785–1850, kniha 127651, fol. 216–217, sn. 226–227 vpravo; D; zapsáno 20. 3. 1815) → Votavovi přišli do Jetřichovce XI 1814; otec Martin (1826 výminkář) žil u něj. Odkud přišli, smlouva neuvádí.",
+        "Třeboň N29: grunt Jetřichovec č. 10 byl pololán (podmínky smlouvy 1814, kniha 127651 fol. 216v; D); výminek pro Martina ani původ kupujícího smlouva neuvádí. Knihy listin Těchobuz 127676 (1813–25, bez rejstříku, mezera IV 1815 – III 1816) a 127657 (do ~1809) kupní ani svatební smlouvu neobsahují."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
