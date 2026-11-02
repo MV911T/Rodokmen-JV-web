@@ -8820,7 +8820,8 @@ window.RODOKMEN = {
       notes: [
         "Sedlák (chalupník) v Branově č. 4 (okr. Rakovník; fara Zbečno, od 1785 Nezabudice); manželka Barbora; dcera Ludmila *11. 5. 1771. V r. 1807 uveden jako zemřelý. Sňatek nenalezen (index Zbečno 04 neúplný).",
         "Praha N115: sňatek s Barborou není v Zbečno 04 O I 1767 – X 1770.",
-        "Praha N116: sňatek není v Zbečno 04 O VII 1765 – XI 1771 (střední negativ) → před 1765 nebo jiná fara."
+        "Praha N116: sňatek není v Zbečno 04 O VII 1765 – XI 1771 (střední negativ) → před 1765 nebo jiná fara.",
+        "KANDIDÁT (K, tvar příjmení nedořešen): křest Barbory, dne 16./17. XII, rok nepřečten (zřejmě ~1778/79), Branov č. 4 – „Klenička (?) Wenceslaus inquilinus, Mater Barbara, subditi Pürglitz“, kmotra Anna, manželka Petra Dubského z Branova (Zbečno 04 N sn. 290 vlevo, pag. 568; M pro zápis, ověřeno koordinátorem). Dům a jména rodičů sedí; první písmeno spíš K, takže rod může být v rejstříku pod K a dřívější negativy sňatku tento tvar mohly přehlédnout."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
