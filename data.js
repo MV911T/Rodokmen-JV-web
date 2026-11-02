@@ -3967,7 +3967,7 @@ window.RODOKMEN = {
         "Pokřtěn 6. 7. 1803 v Suchomastech č. 12 (kurát Math. Hefft); otec Václav Klika, „galaunista (?)“, matka Kateřina roz. Kliková (dřívější čtení „Šliková“ chybné). ROZPOR: oddací zápis 1832 uvádí 27 let (*~1805) – platí křest.",
         "Oddán 14. 2. 1832 v Suchomastech (27 let, svobodný): „pozůstalý syn po † Václavovi Klikovi, vyhořelém (?) sedlákovi a poddaném suchomastském z No. 12, ze Suchomast rozený, matky Kateřiny rozené Klikové z Bykoše (?)“ (Borek 06 O sn. 92 vlevo, pag. 60; M, znovu přečteno koordinátorem – dřívější čtení „vysloužilce a podruha“ a „Šlikové z Litně“ chybné, kurentní K); svědci Matěj Klika a Václav Bůh (?) z Velkých Suchomast.",
         "Domkář v Suchomastech (1834); usedlost Suchomasty č. 14 (dům tchána). V roce 1874 už nežil.",
-        "Zemřel 17. 10. 1846 (pohřben 19. 10.) Suchomasty č. 14: „Klika František, domkář z Suchomast, z Suchomast rozený“, 41 (?) let (Borek 14 Z sn. 67 vpravo, pag. 131; M, ověřeno koordinátorem; index „17. října 1846 | 14 | Klika František“) – dům 14 sedí; věk nižší než podle křtu (43). Ztotožnění K+."
+        "Zemřel 17. 10. 1846 (pohřben 19. 10.) Suchomasty č. 14: „Klika František, domkář z Suchomast, z Suchomast rozený“, 41 (?) let (Borek 14 Z sn. 67 vpravo, pag. 131; M, ověřeno koordinátorem; index „17. října 1846 | 14 | Klika František“) – dům 14 sedí; věk nižší než podle křtu (43). Ztotožnění K+. Manželka v zápise není; neprověřeno: děti v č. 14 po 1846 (Borek 09 N)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
@@ -4747,6 +4747,7 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1780)","year":1780,"approx":true,"place":"Krchleby"},
       d: {"date":"7. 1. 1847","year":1847,"place":"Krchleby č. p. 17"},
+      cause: "souchotiny plicní",
       father: "jan_zj",
       spouse: "frantisek_ot",
       marriage: "18. 1. 1797, Nymburk (Krchleby č. 17) – s Františkem Otou",
@@ -4754,7 +4755,7 @@ window.RODOKMEN = {
         "Matka Václava Oty; čtení příjmení nejisté.",
         "Oddána 18. 1. 1797 jako „Anna, dcera Jana Zajíčka, sedláka ze Skrchleb“, 16 let, katolička (Nymburk 08 O sn. 196 vlevo; M); totéž v křtech dětí 1799 a 1809 (Veleliby 01; M) → rodné příjmení Zajíčková potvrzeno. KANDIDÁT křtu (K): 9. 7. 1780 Krchleby č. 45, „Joannes Zagjček × Dorothea“ (Nymburk 08 N sn. 67 vlevo) – v Krchlebích ale víc párů Jan Zajíček × Dorota.",
         "Praha N101: kandidátní křest 9. 7. 1780 (Krchleby č. 45) posílen na K+ – Jan Zajíček z č. 54 † 1785 vyloučen, z č. 48 byl podruh.",
-        "Zemřela 7. 1. 1847 (pohřbena 9. 1.) Krchleby č. 17: „Anna, pozůstalá vdova po † Františku Otovi, sedláku ze Skrchleb“, 68 let (Veleliby 04 Z sn. 81, str. 78; rejstřík „847 Otto Ann vdo frt. 17“; M)."
+        "Zemřela 7. 1. 1847 (pohřbena 9. 1.) Krchleby č. 17: „Anna, pozůstalá vdova po † Františku Otovi, sedláku ze Skrchleb“, 68 let, souchotiny plicní (Veleliby 04 Z sn. 81, str. 78; rejstřík „847 Otto Ann vdo frt. 17“; M, ověřeno koordinátorem; rodné jméno zápis neuvádí)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
@@ -5243,7 +5244,7 @@ window.RODOKMEN = {
       notes: [
         "Oddán 19. 1. 1806 (fara Borek, dům č. 5), 25 let; vlastní syn Matěje Svobody, sedláka v Málkově, a Anny. Svědci Matěj Janda z Málkova a Václav Zelenka, chalupník z Koněprus.",
         "Domkář v Suchomastech č. 14; zemřel před 1832. Děti: Josef (*27. 2. 1808), Barbora (*8. 5. 1811), Anna (*~1808, ⚭ 1832 František Klika).",
-        "Zemřel 23. (?) 9. 1812 (pohřben 25. ?) Suchomasty č. 14: „Václav Svoboda, domkář, poddaný suchomastský“, 32 let, velký otok (Borek 06 Z sn. 122 vpravo, pag. 23; M, ověřeno koordinátorem; rok z nadpisů 1812/1813) – jméno, dům a věk sedí (25 v 1806); poslední známé dítě Barbora 1811. Dřívější „† před 1832“ upřesněno."
+        "Zemřel 23. (?) 9. 1812 (pohřben 25. ?) Suchomasty č. 14: „Václav Svoboda, domkář, poddaný suchomastský“, 32 let, velký otok (Borek 06 Z sn. 122 vpravo, pag. 23; M, ověřeno koordinátorem; rok z nadpisů 1812/1813) – jméno, dům a věk sedí (25 v 1806); poslední známé dítě Barbora 1811. Dřívější „† před 1832“ upřesněno. Neprověřeno: děti v č. 14 po ~VI 1813 (N Borek 06)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
@@ -5260,7 +5261,7 @@ window.RODOKMEN = {
       maiden: "Krejčí (Krejzí)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi XII 1787, podle věku při úmrtí)","year":1787,"approx":true,"place":"Suchomasty"},
+      b: {"date":"asi 1782","year":1782,"approx":true,"place":"Suchomasty"},
       d: {"date":"16. 3. 1856","year":1856,"place":"Suchomasty č. p. 14"},
       father: "jakub_kr",
       mother: "katerina_kr2",
@@ -5271,7 +5272,7 @@ window.RODOKMEN = {
         "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí).",
         "Praha N120: oddací 19. 1. 1806 ostře – „Josefa, vlastní dcera Jakuba Krejčího, domkáře a rodaného suchomastského, matky Kateřiny“, 24 let (Borek 06 O sn. 64 vlevo; M); „rodaný suchomastský“ sedí na Jakuba × Kateřinu Jaubovou (křest Barbory 12. 11. 1788; Borek 05 N sn. 30). Křest Josefy není v Borek 04 N 1774–84 (ani nemanželské 1779–84) ani v indexu 1784 – VI 1792; Josefa z 3. 3. 1782 je dcera Mikuláše – nesedí. ROZPOR trvá, strukturu ponechávám; zbývá Tmaň (fara ženicha), kandidát úmrtí 30. 3. 1849 (Borek 14 pag. 152, nepřečteno).",
         "Praha N121: † 1849 Josefa č. 57 je jiná (vdova po Matěji, 90 let); křest není ani v Tmaň 02 N IV 1780 – X 1783 ani v Borek 11 J 1784–98.",
-        "Zemřela 16. 3. 1856 (pohřbena 18. 3. v Borku) Suchomasty č. 14: „Josefa, manželka † Václava Svobody, domkáře z Suchomast, … z Suchomast rozená Krejčová (?)“, 68 let 3 měs. 8 dní (Borek 15 Z sn. 33, pag. 62/63; M, ověřeno koordinátorem) → *~8. 12. 1787 – měsíc po sňatku Jakuba Krejčího × Kateřiny Jaubové (13. 11. 1787) → ROZPOR s věkem 24 v 1806 se rozhoduje ve prospěch tohoto páru (K+; věk 1806 by byl 18). Křest v Borek 05 N X 1787 – IV 1788 ale není."
+        "Zemřela 16. 3. 1856 (pohřbena 18. 3. v Borku) Suchomasty č. 14: „Josefa, manželka † Václava Svobody, domkáře z Suchomast, … z Suchomast rozená Krejčová (?)“, 68 let 3 měs. 8 dní (Borek 15 Z sn. 33, pag. 62/63; M, ověřeno koordinátorem; rodné jméno nejisté). ROZPOR věku: úmrtí → *~XII 1787 (měsíc po sňatku Jakuba Krejčího × Kateřiny Jaubové 13. 11. 1787) × oddací 1806 „24 let“ → *~1782. Nerozhodnuto, křest nenalezen (Borek 05 N IX 1787 – IV 1788 ani jinde, viz výše)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
@@ -5920,10 +5921,9 @@ window.RODOKMEN = {
       name: "Jakub Krejčí",
       line: "krejci",
       cert: "M",
-      b: {"date":"neznámé (asi 1766, kandidátní křest – viz poznámky)","year":1766,"approx":true,"place":"Suchomasty"},
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
       spouse: "katerina_kr2",
       occ: "domkář, rodák ze Suchomast",
-      marriage: "13. 11. 1787, Suchomasty – s Kateřinou Jaubovou",
       notes: [
         "Otec Josefy Svobodové.",
         "Praha N117: IX 1778 (?) Suchomasty č. 22 – „Jacobus Kreizj, proprius filius Wenceslai Kreizj rustici Bikoschensis cum Josepha, filia Wen. Chvátala (?)“ (Borek 04 O sn. 107 vpravo; M) – nevěsta Josefa, ne Kateřina: 1. manželství, nebo jiný Jakub (K). Sňatek s Kateřinou není v rejstříku O Borek 03 (1748–73) ani Borek 04 O 1774 – ~1782.",
@@ -5940,16 +5940,14 @@ window.RODOKMEN = {
     {
       id: "katerina_kr2",
       name: "Kateřina Krejčí",
-      maiden: "Jaubová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1763, podle věku při sňatku)","year":1763,"approx":true,"place":"Suchomasty"},
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
       spouse: "jakub_kr",
-      marriage: "13. 11. 1787, Suchomasty – s Jakubem Krejčím",
       notes: [
         "Matka Josefy Svobodové; rodné příjmení neuvedeno.",
         "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí).",
-        "KANDIDÁT křtu (K): 18. (?) 11. 1763 Suchomasty – „Catharina, legitima filia Wenceslai Hauba et uxoris Catharinae“ (Borek 03 N sn. 68 vpravo, pag. 131; M) – věk 24 v 1787 a otec Václav sedí; Hauba = Jauba jen domněnka."
+        "KANDIDÁT křtu (K, jen pokud je to Kateřina Jaubová z ROZPORU výše): 18. (?) 11. 1763 Suchomasty – „Catharina, legitima filia Wenceslai Hauba et uxoris Catharinae“ (Borek 03 N sn. 68 vpravo, pag. 131; M) – otec Václav a věk 24 v 1787 sedí; Hauba = Jauba je jen domněnka."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
@@ -6464,7 +6462,7 @@ window.RODOKMEN = {
         "Děd Anny Červenkové.",
         "V lednu 1838 mlynářský tovaryš ve Zbečně č. 58 (křest syna Františka); syn Jana Vlasáka, nádeníka ve Zbečně č. 8.",
         "Oddán 22. 10. 1833 (fara Nižbor) jako mlynářský tovaryš ve Zbečně č. 36, 25 let, svobodný; syn Jana Vlasáka, domkáře z Hudlic (?), a Marie roz. Jarošové (?) z …brnice (?) č. 6.",
-        "Praha N125: synové † ve Zbečno 23 – Václav Vlasák, mlynářský tovaryš, 1878 (38) a Jan Vlasák, mlynář č. 41, 1882 (48), „syn Jana Vlasáka, mlynáře N. 41, a Marie, dcery Josefa Nováka z Nové Huti N. 34“ (sn. 81, 84 vlevo; M) – další doklad k ROZPORU čísla domu 43/34 u Marie."
+        "Praha N125: synové † ve Zbečno 23 – Václav Vlasák, mlynářský tovaryš, 1878 (38) a Jan Vlasák, mlynář č. 41, 1882 (48), „syn Jana Vlasáka, mlynáře N. 41, a Marie, dcery Josefa Nováka z Nové Huti N. 34“ (sn. 81, 84 vlevo; M) – další doklad k ROZPORU čísla domu 43/34 u Marie. Zápis 1882 ověřen koordinátorem, zápis 1878 čten jen agentem; měsíce nejisté."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
@@ -11911,7 +11909,6 @@ window.RODOKMEN = {
       line: "svoboda",
       cert: "M",
       b: {"date":"neznámé (odhad ~1748)","year":1748,"approx":true},
-      d: {"date":"2. 3. 1821","year":1821,"place":"Málkov č. p. 3"},
       father: "vaclav_sv2",
       spouse: "ludmila_sv1",
       occ: "domkář v Málkově (panství Tmaň)",
@@ -11923,14 +11920,13 @@ window.RODOKMEN = {
         "KANDIDÁT sňatku (K, silný): 11. 7. 1771 Málkov č. 1 – „honestus juvenis Wenceslaus, rustici Wenceslai Swoboda filius Malkoviensis, cum virgine Ludmilla, Mathiae Sykora rustici superstite filia legitima Launiniensi“ (Tmaň 02, sn. 192 vlevo; M zápis) – stejný dům a jména jako 1791; proti: děti 1771–1789 neznámy, Ludmila by r. 1794 měla ~43 let. Syn Mikuláš *13. 6. 1794 Málkov 1 (rejstřík N Borek 11).",
         "Kandidát 1771 slábne: v Tmaň 02 N 1772–1784 žádný křest z Málkova č. 1 (Praha N7).",
         "Praha N71 – kandidát sňatku 1771 výrazně posílen (K++): při sňatku dcery Josefy (16 let) II 1798 „dcera Václava Svobody a † Lidmily rozené S(ý)korové (?) z Lounína, No 1“ (Borek 06 O sn. 84 vpravo; M, ověřeno koordinátorem – příjmení nejisté, obec Lounín jistá) = táž obec i dům jako 1771; Václav Svoboda st., „otec Václava Svobody, rychtáře (?)“, † 19. 1. 1797 Málkov č. 1, „102 let“ (Borek 06 Z sn. 114 vlevo; M). Děti: Josefa ~1782, Matěj 1791, Mikuláš 13. 6. 1794 (matka Ludmila – žila VI 1794). Po † 1. manželky (VI 1794 – II 1798) 2. sňatek s Ludmilou, dcerou Václava …ického (?) (křest Petra 1. 8. 1810, Borek 06 N sn. 38 vlevo; M).",
-        "KANDIDÁT úmrtí (K+): 2. 3. 1821 (pohřben 4. 3.) č. 3 – „Václav Svoboda, výminkář malkovský, rodaný tmanský“, 70 let, velká tělesná slabost (?) (Borek 06 Z sn. 125 vlevo, pag. 28; M, ověřeno koordinátorem; rok z polohy) – „rodaný tmanský“ sedí s křtem 1791; dům č. 3 místo č. 1 (výminek)."
+        "KANDIDÁT úmrtí (K, neztotožněno): † 2. 3. 1821 (pohřben 4. 3.) č. 3 – „Václav Svoboda, výminkář malkovský, rodaný tmanský“, 70 let (Borek 06 Z sn. 125 vlevo, pag. 28; M pro zápis, rok z polohy v knize). Dům č. 3, tento Václav měl č. 1 – vazba nedoložena, proto není v poli úmrtí."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 05 (4074, N 1784–1795), pag. 53, snímek 55, 1. zápis (9. 10. 1791) – https://ebadatelna.soapraha.cz/d/4074/55",
         "SOA Praha, Borek 06 (4075), O Málkov sn. 84 vpravo, fol. 45 (II 1798), https://ebadatelna.soapraha.cz/d/4075/84",
-        "SOA Praha, Borek 06 (4075), Z sn. 114 vlevo (19. 1. 1797), https://ebadatelna.soapraha.cz/d/4075/114",
-        "SOA Praha, Borek 06 (4075), Z sn. 125 vlevo, pag. 28 (III 1821), https://ebadatelna.soapraha.cz/d/4075/125"
+        "SOA Praha, Borek 06 (4075), Z sn. 114 vlevo (19. 1. 1797), https://ebadatelna.soapraha.cz/d/4075/114"
       ],
       scans: [
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek syna Matěje, Málkov 1818"},
