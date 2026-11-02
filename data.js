@@ -4082,6 +4082,8 @@ window.RODOKMEN = {
       line: "stadler",
       cert: "M",
       b: {"date":"21. 10. 1788","year":1788,"place":"Pačejov č. p. 1 (fara Malý Bor / lokálie Pačejov)"},
+      d: {"date":"17. 7. 1850","year":1850,"place":"Suchomasty č. p. 21"},
+      cause: "souchotiny (?)",
       father: "jan_sta",
       mother: "ludmila_vd",
       notes: [
@@ -4090,7 +4092,8 @@ window.RODOKMEN = {
         "Matka Magdaleny Svobodové (nemanželské dcery); dcera † Jana Stadlera, mistra polního z Tetína, a matky Ludmily rozené Vadlejškové z Hořaždovic (křest vnučky 1848, Borek 09 sn. 38 vpravo – ověřeno ve 2× zvětšení; potvrzuje sňatek 1874, Borek 20 sn. 28; M). Hypotéza „Sladký, krejčí z Tetína“ vyvrácena.",
         "Křest v N Borek 1789–1821 ani Tetín 1737–1811 není (Praha N12) – narozena jinde (Hořaždovice ?).",
         "Dcera Magdalena narozena 11. 7. 1817 v Pačejově č. 6 (fara Malý Bor, panství Horažďovice) – Ludmila pocházela z Pačejova, ne z Tetína („Tetín“ v zápisech 1848/1874 je zřejmě zkomolený „Pačejov“). Křest Ludmily (~1790–1797, Malý Bor 10) nehledán.",
-        "Otec Jan Stodl, „polní mistr“, zemřel nejspíš 28. 2. 1794 v Pačejově č. 38 (K+) – souhlasí s „† Jan“ v křtu 1817 a s „mistr polní“ v zápisech 1848/1874."
+        "Otec Jan Stodl, „polní mistr“, zemřel nejspíš 28. 2. 1794 v Pačejově č. 38 (K+) – souhlasí s „† Jan“ v křtu 1817 a s „mistr polní“ v zápisech 1848/1874.",
+        "Zemřela 17. 7. 1850 (pohřbena 19. 7.) Suchomasty č. 21: „Lidmila Stadlerová, domkářka z Suchomast, … z Pačejova panství Horažďovic rozená“, 58 let (Borek 14 Z sn. 84 vlevo, pag. 164; M, ověřeno koordinátorem) – dům dcery Magdaleny Svobodové; potvrzuje původ z Pačejova. ROZPOR věku: 58 → *~1792 × křest 21. 10. 1788 (platí křest; skutečně 61)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
@@ -4098,14 +4101,16 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
         "SOA Praha, Sbírka matrik, ř.-k. fara Borek, Borek 09 (N), sn. 38 vpravo (1848) – https://ebadatelna.soapraha.cz/d/4078/38; Borek 20 (O), sn. 28 (1874) – https://ebadatelna.soapraha.cz/d/14711/28",
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Malý Bor, Malý Bor 13 (N 1812–1827), oddíl Pačejov, fol. 309, sn. 316 vlevo – https://www.portafontium.eu/iipimage/30065508/maly-bor-13_0316-n",
-        "SOA Plzeň, Sbírka matrik: Pačejov 01 N sn. 6 (1788); Pačejov 04 N sn. 31 (1812); Malý Bor 13 N sn. 316 (1817)"
+        "SOA Plzeň, Sbírka matrik: Pačejov 01 N sn. 6 (1788); Pačejov 04 N sn. 31 (1812); Malý Bor 13 N sn. 316 (1817)",
+        "SOA Praha, Borek 14 (4083), Z sn. 84 vlevo, pag. 164 (17. 7. 1850), https://ebadatelna.soapraha.cz/d/4083/84"
       ],
       scans: [
         {"f":"img/1788_N_Stodlova_Ludmila_Pacejov.jpg","t":"Křest Ludmily Stodlové, Pačejov 21. 10. 1788"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Magdalena Svobodová)"},
         {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest vnučky 1848 – rodokmen Stadlerových (Borek)"},
         {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest dcery Magdaleny, Pačejov 1817"},
-        {"f":"img/1812_N_Stodl_Bartolomej_Pacejov8.jpg","t":"Křest syna Bartoloměje, Pačejov 1812"}
+        {"f":"img/1812_N_Stodl_Bartolomej_Pacejov8.jpg","t":"Křest syna Bartoloměje, Pačejov 1812"},
+        {"f":"img/1850_Z_Stadlerova_Ludmila_Suchomasty.jpg","t":"Úmrtí 17. 7. 1850, Suchomasty 21"}
       ]
     },
     {
@@ -5251,7 +5256,8 @@ window.RODOKMEN = {
       notes: [
         "Vlastní dcera Jakuba Krejčího (Krejzího), domkáře rodem ze Suchomast, a Kateřiny; při sňatku 1806 24 let. Čtení „Prajzová“ v oddacím zápise dcery 1832 a „Krejzí“ v křtu syna 1808 – správně nejspíš Krejčí.",
         "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí).",
-        "Praha N120: oddací 19. 1. 1806 ostře – „Josefa, vlastní dcera Jakuba Krejčího, domkáře a rodaného suchomastského, matky Kateřiny“, 24 let (Borek 06 O sn. 64 vlevo; M); „rodaný suchomastský“ sedí na Jakuba × Kateřinu Jaubovou (křest Barbory 12. 11. 1788; Borek 05 N sn. 30). Křest Josefy není v Borek 04 N 1774–84 (ani nemanželské 1779–84) ani v indexu 1784 – VI 1792; Josefa z 3. 3. 1782 je dcera Mikuláše – nesedí. ROZPOR trvá, strukturu ponechávám; zbývá Tmaň (fara ženicha), kandidát úmrtí 30. 3. 1849 (Borek 14 pag. 152, nepřečteno)."
+        "Praha N120: oddací 19. 1. 1806 ostře – „Josefa, vlastní dcera Jakuba Krejčího, domkáře a rodaného suchomastského, matky Kateřiny“, 24 let (Borek 06 O sn. 64 vlevo; M); „rodaný suchomastský“ sedí na Jakuba × Kateřinu Jaubovou (křest Barbory 12. 11. 1788; Borek 05 N sn. 30). Křest Josefy není v Borek 04 N 1774–84 (ani nemanželské 1779–84) ani v indexu 1784 – VI 1792; Josefa z 3. 3. 1782 je dcera Mikuláše – nesedí. ROZPOR trvá, strukturu ponechávám; zbývá Tmaň (fara ženicha), kandidát úmrtí 30. 3. 1849 (Borek 14 pag. 152, nepřečteno).",
+        "Praha N121: † 1849 Josefa č. 57 je jiná (vdova po Matěji, 90 let); křest není ani v Tmaň 02 N IV 1780 – X 1783 ani v Borek 11 J 1784–98."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
@@ -5866,7 +5872,8 @@ window.RODOKMEN = {
       occ: "sedlák v Málkově",
       notes: [
         "Otec Václava Svobody (*~1781).",
-        "Praha N116: křest syna Václava není v Tmaň 02 N 1781–82 a sňatek Svoboda × Anna/Alžběta není v O 1775–80 (střední negativ); Matěj, syn Tomáše Svobody z Tmaně × 1779 Barbora Růžičková (?) je spíš jiný (Tmaň 26). ROZPOR o matce nerozhodnut; zbývá N 1778–80, 1783, O 1771–75, Borek."
+        "Praha N116: křest syna Václava není v Tmaň 02 N 1781–82 a sňatek Svoboda × Anna/Alžběta není v O 1775–80 (střední negativ); Matěj, syn Tomáše Svobody z Tmaně × 1779 Barbora Růžičková (?) je spíš jiný (Tmaň 26). ROZPOR o matce nerozhodnut; zbývá N 1778–80, 1783, O 1771–75, Borek.",
+        "Praha N121 (K): 30. 3. 1849 † Josefa, vdova po † Matěji Svobodovi, vysloužilém sousedu z Málkova, rozená Lautlová (?), 90 let, č. 57 (Borek 14 Z sn. 78 vlevo; M) – snad další manželka (*~1759), nebo jiný Matěj; není Josefa Krejčí."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
