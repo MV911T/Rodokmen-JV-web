@@ -4714,7 +4714,8 @@ window.RODOKMEN = {
       line: "ota",
       cert: "M",
       b: {"date":"neznámé (asi X 1777, kandidátní křest – viz poznámky)","year":1777,"approx":true,"place":"Krchleby č. p. 17"},
-      d: {"date":"před 17. 2. 1830","year":1830,"approx":true},
+      d: {"date":"17. 2. 1818","year":1818,"place":"Krchleby č. p. 17"},
+      cause: "mrtvice",
       father: "pavel_ot",
       mother: "katerina_ot",
       spouse: "anna_za",
@@ -4724,12 +4725,14 @@ window.RODOKMEN = {
         "Otec Václava Oty.",
         "Oddán 18. 1. 1797 (Krchleby č. 17): „Franz, syn po † Pavlovi Otta ze Skrchleb, H. C.“, 18 let, s Annou, dcerou Jana Zajíčka, sedláka ze Skrchleb, 16 let (katol.); svědci Matěj Otta a Pavel Hrnyš (?), chalupníci (Nymburk 08 O sn. 196 vlevo; M, ověřeno koordinátorem).",
         "KANDIDÁT křtu (K+): X 1777 (den 27 ?) Krchleby č. 17 – „Franciscus, Paulus Otta, Bodrianus (?), uxor Catharina“, kmotři Jiří Krejčík a Anna Sklepníková (Nymburk 08 N sn. 59 vlevo; M) – týž dům a otec. Pozor: Pavel Otta, tkadlec × Dorota ze Všechlap 29 – jiná rodina.",
-        "Praha N102: den křtu podle pořadí zápisů 11. 10. 1777 (?) (Nymburk 08 N sn. 59 vlevo). „Seznam smíšených manželství“ (Veleliby 13 sn. 52 vlevo; D): František Otto č. 17 H. C. × Anna Zajíček (Jan, kat.); syn Václav × Kateřina, dcera Pavla Málka a Anny Krebsové; Pavel × Anna Maršálková; dcery Anna × Pavel Málek, Kateřina × Matěj Zajíček."
+        "Praha N102: den křtu podle pořadí zápisů 11. 10. 1777 (?) (Nymburk 08 N sn. 59 vlevo). „Seznam smíšených manželství“ (Veleliby 13 sn. 52 vlevo; D): František Otto č. 17 H. C. × Anna Zajíček (Jan, kat.); syn Václav × Kateřina, dcera Pavla Málka a Anny Krebsové; Pavel × Anna Maršálková; dcery Anna × Pavel Málek, Kateřina × Matěj Zajíček.",
+        "Zemřel 17. 2. 1818 (pohřben 20. 2.) Krchleby č. 17: „Franz Otta, sedlák“, nekatolík, 42 let, „an Schlagfluss“; pohřbil Jos. Pazay, pastor H. C. z Chlebů (Veleliby 04 Z sn. 28, str. 25; rejstřík Veleliby 13 sn. 42 vlevo; M, ověřeno koordinátorem)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
         "SOA Praha, Nymburk 08 (10407), O sn. 196 vlevo (18. 1. 1797), https://ebadatelna.soapraha.cz/d/10407/196",
-        "SOA Praha, Nymburk 08 (10407), N sn. 59 vlevo (X 1777 ?), https://ebadatelna.soapraha.cz/d/10407/59"
+        "SOA Praha, Nymburk 08 (10407), N sn. 59 vlevo (X 1777 ?), https://ebadatelna.soapraha.cz/d/10407/59",
+        "SOA Praha, Veleliby 04 (13542), Z sn. 28, str. 25 (17. 2. 1818), https://ebadatelna.soapraha.cz/d/13542/28"
       ],
       scans: [
         {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851 (dítě: Václav Ota)"},
@@ -4743,18 +4746,21 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (asi 1780)","year":1780,"approx":true,"place":"Krchleby"},
+      d: {"date":"7. 1. 1847","year":1847,"place":"Krchleby č. p. 17"},
       father: "jan_zj",
       spouse: "frantisek_ot",
       marriage: "18. 1. 1797, Nymburk (Krchleby č. 17) – s Františkem Otou",
       notes: [
         "Matka Václava Oty; čtení příjmení nejisté.",
         "Oddána 18. 1. 1797 jako „Anna, dcera Jana Zajíčka, sedláka ze Skrchleb“, 16 let, katolička (Nymburk 08 O sn. 196 vlevo; M); totéž v křtech dětí 1799 a 1809 (Veleliby 01; M) → rodné příjmení Zajíčková potvrzeno. KANDIDÁT křtu (K): 9. 7. 1780 Krchleby č. 45, „Joannes Zagjček × Dorothea“ (Nymburk 08 N sn. 67 vlevo) – v Krchlebích ale víc párů Jan Zajíček × Dorota.",
-        "Praha N101: kandidátní křest 9. 7. 1780 (Krchleby č. 45) posílen na K+ – Jan Zajíček z č. 54 † 1785 vyloučen, z č. 48 byl podruh."
+        "Praha N101: kandidátní křest 9. 7. 1780 (Krchleby č. 45) posílen na K+ – Jan Zajíček z č. 54 † 1785 vyloučen, z č. 48 byl podruh.",
+        "Zemřela 7. 1. 1847 (pohřbena 9. 1.) Krchleby č. 17: „Anna, pozůstalá vdova po † Františku Otovi, sedláku ze Skrchleb“, 68 let (Veleliby 04 Z sn. 81, str. 78; rejstřík „847 Otto Ann vdo frt. 17“; M)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
         "SOA Praha, Nymburk 08 (10407), O sn. 196 vlevo (18. 1. 1797), https://ebadatelna.soapraha.cz/d/10407/196",
-        "SOA Praha, Veleliby 01 (13539), N sn. 19 vlevo, pag. 30 (14. 6. 1809), https://ebadatelna.soapraha.cz/d/13539/19"
+        "SOA Praha, Veleliby 01 (13539), N sn. 19 vlevo, pag. 30 (14. 6. 1809), https://ebadatelna.soapraha.cz/d/13539/19",
+        "SOA Praha, Veleliby 04 (13542), Z sn. 81, str. 78 (7. 1. 1847), https://ebadatelna.soapraha.cz/d/13542/81"
       ],
       scans: [
         {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851 (dítě: Václav Ota)"},
