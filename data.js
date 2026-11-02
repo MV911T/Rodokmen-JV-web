@@ -5249,7 +5249,8 @@ window.RODOKMEN = {
       spouse: "vaclav_sv0",
       marriage: "19. 1. 1806 – s Václavem Svobodou",
       notes: [
-        "Vlastní dcera Jakuba Krejčího (Krejzího), domkáře rodem ze Suchomast, a Kateřiny; při sňatku 1806 24 let. Čtení „Prajzová“ v oddacím zápise dcery 1832 a „Krejzí“ v křtu syna 1808 – správně nejspíš Krejčí."
+        "Vlastní dcera Jakuba Krejčího (Krejzího), domkáře rodem ze Suchomast, a Kateřiny; při sňatku 1806 24 let. Čtení „Prajzová“ v oddacím zápise dcery 1832 a „Krejzí“ v křtu syna 1808 – správně nejspíš Krejčí.",
+        "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
@@ -5901,7 +5902,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Josefy Svobodové.",
         "Praha N117: IX 1778 (?) Suchomasty č. 22 – „Jacobus Kreizj, proprius filius Wenceslai Kreizj rustici Bikoschensis cum Josepha, filia Wen. Chvátala (?)“ (Borek 04 O sn. 107 vpravo; M) – nevěsta Josefa, ne Kateřina: 1. manželství, nebo jiný Jakub (K). Sňatek s Kateřinou není v rejstříku O Borek 03 (1748–73) ani Borek 04 O 1774 – ~1782.",
-        "Praha N118: v letech 1784–91 žili souběžně dva Jakubové Krejčí – × KATEŘINA (Suchomasty 54, 13; děti 1788, 1791; náš, K) a × JOSEFA Chvátalovou (× 1778; Bykoš 44, Suchomasty 1; syn Václava z Bykoše) (index N Borek 11 sn. 16 vpravo, 17 vlevo; M) → „1. manželství téhož Jakuba“ neplatí. Možný otec našeho Jakuba: Václav Krejčí ze Suchomast 54 × Františka (K)."
+        "Praha N118: v letech 1784–91 žili souběžně dva Jakubové Krejčí – × KATEŘINA (Suchomasty 54, 13; děti 1788, 1791; náš, K) a × JOSEFA Chvátalovou (× 1778; Bykoš 44, Suchomasty 1; syn Václava z Bykoše) (index N Borek 11 sn. 16 vpravo, 17 vlevo; M) → „1. manželství téhož Jakuba“ neplatí. Možný otec našeho Jakuba: Václav Krejčí ze Suchomast 54 × Františka (K).",
+        "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
@@ -5918,7 +5920,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
       spouse: "jakub_kr",
       notes: [
-        "Matka Josefy Svobodové; rodné příjmení neuvedeno."
+        "Matka Josefy Svobodové; rodné příjmení neuvedeno.",
+        "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
