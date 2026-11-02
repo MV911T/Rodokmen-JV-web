@@ -9567,7 +9567,8 @@ window.RODOKMEN = {
         "Praha N91: křest Jakuba Šulce není v Rožďalovice 03 N V 1752 – XII 1755 (střední negativ); Šulcové na panství: Jan Šulc × Dorota (syn František 11. 12. 1752, z Hamrů ?; sn. 24 vpravo; M), Václav Šulc × Kateřina (Pojedy 1754), Jan Š… (Žitovlice 1753) – kandidáti rodičů (K). Zbývá N 1749–51 a 1756–58.",
         "Praha N92: Jakub Šulc není v Rožďalovice 03 N VIII 1750 – XII 1751 ani XII 1755 – XII 1758 (střední negativ). Další Šulcové: Václav Šul(c) (?), podruh × Dorota, Žitovlice (syn Václav Vít VI 1751); Václav Šulc, soused, Pojedy × Kateřina (1754, 1757) a × Marie Magdalena (II 1758). Zbývá N 1749 – VIII 1750 a 1745–48.",
         "Praha N93: ani v Rožďalovice 03 N I 1749 – VIII 1750 není → celé 1749–1758 bez Jakuba Šulce (mimo slabá místa); zbývá Rožďalovice 02 1745–48 nebo jiná fara.",
-        "Praha N95 (K): ~6. 2. 1757 Žitovlice sňatek „Václav, syn pozůstalý po † Janu Šůlcovi (?), bývalém sousedu v Pojedech“ × Kateřina Dolejšová (?) (Rožďalovice 10 O sn. 58 vlevo) → Jan Šulc z Pojed † před 1757 – snad otec Jakuba (K)."
+        "Praha N95 (K): ~6. 2. 1757 Žitovlice sňatek „Václav, syn pozůstalý po † Janu Šůlcovi (?), bývalém sousedu v Pojedech“ × Kateřina Dolejšová (?) (Rožďalovice 10 O sn. 58 vlevo) → Jan Šulc z Pojed † před 1757 – snad otec Jakuba (K).",
+        "Praha N97: Jakub není v Rožďalovice 02 N VI 1744 – III 1748 → fara Rožďalovice bez jeho křtu VI 1744 – XII 1758 (střední negativ). Kandidátní rodiny: Jan Šul(c) (?), baráčník × Lidmila, Žitovlice (dcera Alžběta Rozálie 3. 9. 1747; K); Václav Šulc × Kateřina, Pojedy (Anna 1747). Dorota, vdova po † Jiřím (?) Šulcovi z Pojed, pohřbena 16. 7. 1755, 70 let (Z 13 sn. 70 vpravo; M) – snad babička (K)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
