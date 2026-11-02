@@ -10219,13 +10219,14 @@ window.RODOKMEN = {
       name: "Václav Klika",
       line: "klika",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      b: {"date":"neznámé (odhad ~1705; × 1730)","year":1705,"approx":true},
       spouse: "katerina_kb",
       occ: "sedlák v Býkoši",
       notes: [
         "Z Býkoše, sedlák, poddaný suchomastský; otec Evy, provdané 16. 9. 1770 za Jiřího Skálu („propria filia Wenceslai Klika ex pago Bikosch“, M). Děti s Kateřinou v Býkoši (Borek 02 a 03 N, M): Eva 20. 12. 1733 (× 25. ? 11. 1752 Borek Antonín Štěch, syn Matěje Štěcha z Hostomic – M), Kateřina 1735, Veronika 26. 12. 1736, dvojčata Matěj a Kateřina X 1740, Václav 1741, [1742–47 nečteno], Jan 12. 9. 1748, Lidmila 25./26. 12. 1749 (× 1769), Kateřina 5. 7. 1751, Anna 5. 5. 1752 – stále tatáž sada kmotrů (Kocová/Kopová, Štibalová, Velík, Kolaček, Nováková). Doložen 1767, 1769, 1787. Pozor: druhý Václav Klika × Kateřina (Duchoňová, 1728) žil v Suchomastech.",
         "ROZPOR / KANDIDÁT: od r. 1753 je v Býkoši psán „Stanislav Klika × Kateřina“ (Eva 10. 12. 1753, Marie Magdalena 1757, Kateřina 1759; svědek 1761) se stejnými kmotry. Ve faře Borek 1710–1773 ale žádný Stanislav Klika nemá sňatek, křest ani úmrtí → „Stanislav“ je nejspíš písařská/alternativní podoba jména Václava (nedoloženo). Sňatky Václavů Kliků v Borku 02: 24. 8. 1728 Suchomasty × Kateřina Duchoňová; **1730 (12. 12. ?) Býkoš × Kateřina Krejčová** (družba Matěj Kolaček) – jediný Václav × Kateřina z Býkoše = KANDIDÁT rodičů Evy (Kateřina ~*1710–14, v r. 1759 45–49 let). Křty Václavů Kliků z Býkoše ~1716 a ~1743 (rejstřík N Borek 02). Vztah k Janu Klikovi (č. 10) a Matějovi (× 1748 Barbora Chvátalová) nedoložen.",
-        "KANDIDÁT úmrtí (K): Václav Klika, sedlák bykošský, č. 17, pohřben 3. 3. 1783, 69 let; vdova Kateřina † 25. 3. 1783, 67 let (Borek 04 Z p. 56–57, sn. 189; M zápis) – zda jde o pár × 1730 Krejčová, nebo o pár s Duchoňovou (~1729), nerozhodnuto."
+        "KANDIDÁT úmrtí (K): Václav Klika, sedlák bykošský, č. 17, pohřben 3. 3. 1783, 69 let; vdova Kateřina † 25. 3. 1783, 67 let (Borek 04 Z p. 56–57, sn. 189; M zápis) – zda jde o pár × 1730 Krejčová, nebo o pár s Duchoňovou (~1729), nerozhodnuto.",
+        "Praha N80: Václav (× 1730 Kateřina Krejčová) NENÍ syn Pavla Kliky × Veroniky (ti oddáni až 1719) → implex s Vojtěchem Klikou (bratři) nevzniká; narozen nejpozději ~1708 – křest hledat v Borek 01 (4070). Václav, syn Matěje Kliky × Zuzany, nar. 27. 9. 1717 v Bykoši (Borek 02 N sn. 38 vpravo) je jiný."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), O, oddíl Býkoš, str. 87, snímek 234 vpravo (16. 9. 1770); rejstřík O sn. 242 vpravo – https://ebadatelna.soapraha.cz/d/4072/234",
@@ -13948,11 +13949,14 @@ window.RODOKMEN = {
       line: "klika",
       cert: "K",
       b: {"date":"neznámé (odhad ~1695)","year":1695,"approx":true,"place":"Bykoš (?)"},
+      marriage: "6. 9. (?) 1719, Borek (z Bykoše) – s Veronikou Augeskou (?)",
       notes: [
-        "KANDIDÁT (K++): otec Vojtěcha Kliky – křest 15. 7. 1725 z Bykoše „otce Pavla Kliky a mateře Veroniky“ (Borek 02 N sn. 53 vpravo; M) a sňatek syna 1748 „Adalbertus proprius filius Pauli Klika“ (Borek 02 O sn. 23 vpravo; M). Sňatek s Veronikou (rejstřík O Borek 02) a úmrtí nehledány. Možná souvislost s Václavem Klikou (*~1725) z Bykoše – nerozhodnuto."
+        "KANDIDÁT (K++): otec Vojtěcha Kliky – křest 15. 7. 1725 z Bykoše „otce Pavla Kliky a mateře Veroniky“ (Borek 02 N sn. 53 vpravo; M) a sňatek syna 1748 „Adalbertus proprius filius Pauli Klika“ (Borek 02 O sn. 23 vpravo; M). Sňatek s Veronikou (rejstřík O Borek 02) a úmrtí nehledány. Možná souvislost s Václavem Klikou (*~1725) z Bykoše – nerozhodnuto.",
+        "Oddán 6. 9. (?) 1719 z Bykoše: „Pavel Klika s poctivou děvečkou Veronikou Augeskou (?)“, družba Ondřej Manda (?), faktor František Baubín; rodiče snoubenců neuvedeni (Borek 02 O sn. 8 vpravo, pag. 11; rejstřík O „Klika Paulus cum Augeskin Veronica 11“; M). Děti z Bykoše (Borek 02 N; M): Jakub 8. 7. 1722, Matěj 2. 2. 1724, Vojtěch 15. 7. 1725 – vždy kmotři Václav Svoboda, Vojtěch Duchoň, Alžběta Krbcová. Úmrtí není v rejstříku Z Borek 02 (1710–47). Snad 2. manželka Marie Magdalena (dcera Ludmila 1739; K)."
       ],
       sources: [
-        "SOA Praha, Borek 02 (4071), N sn. 53 vpravo, pag. 51 (15. 7. 1725), https://ebadatelna.soapraha.cz/d/4071/53"
+        "SOA Praha, Borek 02 (4071), N sn. 53 vpravo, pag. 51 (15. 7. 1725), https://ebadatelna.soapraha.cz/d/4071/53",
+        "SOA Praha, Borek 02 (4071), O sn. 8 vpravo, pag. 11 (6. 9. ? 1719), https://ebadatelna.soapraha.cz/d/4071/8"
       ],
       scans: [
         {"f":"img/1725_N_Klika_Vojtech_Bykos.jpg","t":"Křest syna Vojtěcha, 1725"}
@@ -13961,15 +13965,17 @@ window.RODOKMEN = {
     {
       id: "veronika_kl",
       name: "Veronika Kliková",
-      maiden: "",
+      maiden: "Augeská (?)",
       line: "klika",
       cert: "K",
       b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
       notes: [
-        "KANDIDÁTKA (K++): matka Vojtěcha Kliky – křest 15. 7. 1725 z Bykoše (Borek 02 N sn. 53 vpravo; M). Rodné příjmení neznámé."
+        "KANDIDÁTKA (K++): matka Vojtěcha Kliky – křest 15. 7. 1725 z Bykoše (Borek 02 N sn. 53 vpravo; M). Rodné příjmení neznámé.",
+        "Oddána 6. 9. (?) 1719 s Pavlem Klikou (Borek 02 O sn. 8 vpravo; M); děti Jakub 1722, Matěj 1724, Vojtěch 1725. Úmrtí: kandidáti „Veronica Klika“ v rejstříku Z Borek 02 str. 19, 32, 39 – nečteno."
       ],
       sources: [
-        "SOA Praha, Borek 02 (4071), N sn. 53 vpravo, pag. 51 (15. 7. 1725), https://ebadatelna.soapraha.cz/d/4071/53"
+        "SOA Praha, Borek 02 (4071), N sn. 53 vpravo, pag. 51 (15. 7. 1725), https://ebadatelna.soapraha.cz/d/4071/53",
+        "SOA Praha, Borek 02 (4071), O sn. 8 vpravo, pag. 11 (6. 9. ? 1719), https://ebadatelna.soapraha.cz/d/4071/8"
       ],
       scans: [
         {"f":"img/1725_N_Klika_Vojtech_Bykos.jpg","t":"Křest syna Vojtěcha, 1725"}
