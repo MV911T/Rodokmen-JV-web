@@ -5124,28 +5124,37 @@ window.RODOKMEN = {
       name: "Václav Klika",
       line: "klika",
       cert: "M",
-      b: {"date":"asi 1770","year":1770,"approx":true,"place":"Suchomasty"},
-      d: {"date":"před 14. 2. 1832","year":1832,"approx":true},
+      b: {"date":"neznámé (asi 1765, kandidátní křest – viz poznámky)","year":1765,"approx":true,"place":"Suchomasty"},
+      d: {"date":"18. 2. 1807","year":1807,"place":"Suchomasty č. p. 12"},
+      cause: "zimnice (?), velký otok",
+      father: "vojtech_kl",
+      mother: "dorota_kl",
       spouse: "katerina_sl",
-      occ: "vysloužilec (?), podruh v Suchomastech č. 12",
+      occ: "sedlák v Suchomastech č. 12",
       marriage: "2. sňatek 28. 6. 1797, Suchomasty č. 12 (fara Borek) – s Kateřinou Klikovou; 1. sňatek (nenalezen) s Marií († 9. 6. 1797)",
       notes: [
         "Otec Františka Kliky.",
         "Podruhé oddán 28. 6. 1797 (dříve čteno „28. 1.“) v Suchomastech jako sedlák č. 12 a vdovec, 27 let (*~1770). První žena Marie, sedlačka č. 12, zemřela 9. 6. 1797 ve 30 letech (asi po porodu); syn Josef (*8. 1. 1797) zemřel 25. 1. 1797.",
         "S 1. ženou Marií (sňatek nenalezen – ve faře Borek 1787–1796 není, nejspíš ve faře nevěsty ~X 1792 – I 1793) děti v Suchomastech č. 12: Václav (22. 9. 1793), Matěj (2. 2. 1795), Josef (8. 1. 1797, † 25. 1. 1797).",
-        "Dřívější kandidát (Václav, syn Ondřeje Kliky, × 1790 Anna) vyloučen: šlo o jiného Václava Kliku (č. 50, × Anna, děti 1792 a 1794). Původ Václava z č. 12 je otevřený."
+        "Dřívější kandidát (Václav, syn Ondřeje Kliky, × 1790 Anna) vyloučen: šlo o jiného Václava Kliku (č. 50, × Anna, děti 1792 a 1794). Původ Václava z č. 12 je otevřený.",
+        "Zemřel 18. 2. 1807 (pohřben 20. 2.) Suchomasty č. 12 – „Václav Klika, sedlák suchomastský, poddaný též suchomastský“, 40 let, zaopatřen, pohřbil farář Václav Fr. Matějka (Borek 06 Z sn. 120 vlevo; M, ověřeno koordinátorem) → údaj „† před 14. 2. 1832“ a „podruh“ (oddací syna 1832) je třeba přečíst znovu. Oddací zápis 1797 rodiče ženicha neuvádí.",
+        "KANDIDÁT křtu (K+): 13. 9. 1765 Suchomasty (nar. 12. 9.) – „Wenceslaus, legitimus filius Adalberti Klika et uxoris Dorotheae“, levans Václav Chvátal z dolního mlýna (Borek 03 N sn. 77 vlevo; M). Předchozí hospodář na č. 12 byl Vojtěch Klika (× Kateřina; děti 1785, 1787 na č. 12 – index Borek 11), po něm Václav (děti od 1793). Konkurenční Václav, syn Ondřeje Kliky × Ludmily, *6. 9. 1764 – patří k větvi č. 38/50 (K−)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 05, oddíl O, snímek 91 – https://ebadatelna.soapraha.cz/d/4074/91",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075): O sn. 63 vlevo (28. 6. 1797), Z sn. 114 a 115 vlevo, N sn. 9 vlevo – https://ebadatelna.soapraha.cz/d/4075/63"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075): O sn. 63 vlevo (28. 6. 1797), Z sn. 114 a 115 vlevo, N sn. 9 vlevo – https://ebadatelna.soapraha.cz/d/4075/63",
+        "SOA Praha, Borek 06 (4075), Z Suchomasty sn. 120 vlevo (18. 2. 1807), https://ebadatelna.soapraha.cz/d/4075/120",
+        "SOA Praha, Borek 03 (4072), N sn. 77 vlevo, pag. 148 (13. 9. 1765), https://ebadatelna.soapraha.cz/d/4072/77",
+        "SOA Praha, Borek 11 (4080), index N sn. 16 vpravo (Suchomasty 12: 1785, 1787)"
       ],
       scans: [
         {"f":"img/1797_snatek_vaclav_klika_katerina_slikova_suchomasty_a.jpg","t":"Druhý sňatek Václava Kliky s Kateřinou, Suchomasty 1797"},
         {"f":"img/1797_O_Klika_Vaclav_Katerina_Suchomasty.jpg","t":"Sňatek Václava Kliky (vdovce) s Kateřinou Klikovou z Bykoše (?), 28. 6. 1797"},
         {"f":"img/1803_krest_frantisek_klika_suchomasty_a.jpg","t":"Křest syna Františka Kliky, Suchomasty 6. 7. 1803"},
-        {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest syna Františka Kliky 1803 – kmotři"}
+        {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest syna Františka Kliky 1803 – kmotři"},
+        {"f":"img/1807_Z_Klika_Vaclav_Suchomasty.jpg","t":"Úmrtí 18. 2. 1807, Suchomasty 12"}
       ]
     },
     {
@@ -13882,6 +13891,35 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, Tmaň 02 (10456), O sn. 166 vpravo, 3. zápis (8. 7. 1748), https://ebadatelna.soapraha.cz/d/10456/166"
+      ]
+    },
+    {
+      id: "vojtech_kl",
+      name: "Vojtěch Klika",
+      line: "klika",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1735)","year":1735,"approx":true,"place":"Suchomasty (?)"},
+      notes: [
+        "KANDIDÁT (K+): otec Václava Kliky – křest 13. 9. 1765 „Wenceslaus, filius Adalberti Klika et Dorotheae, Suchomast“ (Borek 03 N sn. 77 vlevo; M). Sedlák v Suchomastech č. 12 před Václavem.",
+        "Na č. 12 děti s Kateřinou 6. 7. 1785 (Barbora) a 14. 5. 1787 (Kateřina) (index Borek 11 sn. 16 vpravo) → snad 2. manželka po Dorotě (K). Úmrtí a sňatky nehledány."
+      ],
+      sources: [
+        "SOA Praha, Borek 03 (4072), N sn. 77 vlevo, pag. 148 (13. 9. 1765), https://ebadatelna.soapraha.cz/d/4072/77",
+        "SOA Praha, Borek 11 (4080), index N sn. 16 vpravo (Suchomasty 12: 1785, 1787)"
+      ]
+    },
+    {
+      id: "dorota_kl",
+      name: "Dorota Kliková",
+      maiden: "",
+      line: "klika",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      notes: [
+        "KANDIDÁTKA (K+): matka Václava Kliky – křest 13. 9. 1765 Suchomasty (Borek 03 N sn. 77 vlevo; M). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "SOA Praha, Borek 03 (4072), N sn. 77 vlevo, pag. 148 (13. 9. 1765), https://ebadatelna.soapraha.cz/d/4072/77"
       ]
     }
   ]
