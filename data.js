@@ -3475,7 +3475,8 @@ window.RODOKMEN = {
         "Oddán poprvé 1805 v Mezilesí (20 let, šenkýř) s Johannou (?), podruhé jako vdovec 24. 11. 1808 v Salačově Lhotě č. 24 (28 let) s Ludmilou „Lhotkin“ (23 let) – Lukavec O 5378, sn. 101 a 118. ROZPOR ve věku (1805: 20, 1808: 28). Manželské děti dle indexu: Johann a Václav 1819 (s Ludmilou), Marie 1825, Kristýna 1829, Vilém 1831 (matka po † Ludmily 1821 nejspíš Josefa – ověřit).",
         "Zemřel 20. 4. 1852 ve 3 hod. odpoledne v Mezilesí č. 2 (pohřben 22. 4., kaplan Václav Roubal, farář P. Joannes Wrbický): „Václav Karafiát, šenkýř“, 75 let, souchotiny (M). ROZPOR věku: 75 (→ ~1777) × sňatky 1805 (20 let) a 1808 (28 let).",
         "Další manželka: Josefa, roz. Studničková (?), † 11. 11. 1849 v Mezilesí č. 2 jako „manželka Wáclawa Karafiáta šenkýře“, 50 let, zánět plic (Z Lukavec 5383, sn. 17 vpravo, pag. 29; M) – Ludmila zemřela VIII 1821 (pád z půdy; M) a Václav se znovu oženil (sňatek s Josefou ~1822–1825 nehledán).",
-        "Šimon Karafiát, šenkýř, Mezilesí 2, † 24. 2. 1810, 91 (?) let (Z Lukavec 5381 sn. 131 vlevo; M) → *~1719 – spíš děd než otec Václava (K)."
+        "Šimon Karafiát, šenkýř, Mezilesí 2, † 24. 2. 1810, 91 (?) let (Z Lukavec 5381 sn. 131 vlevo; M) → *~1719 – spíš děd než otec Václava (K).",
+        "Třeboň N24: křest není v N 5360 – oddíl filiálky Mezilesí (sn. 51–53, 1778 – VII 1781; drop 1, celé dvoustrany; žádný Karafiát v Mezilesí) → vylučuje narození 1779/80; zbývají odhady 1776/77 (úmrtí 1852 „75“) a 1784/85 (sňatek 1805 „20“). Mapa 5360: sn. 3–19 Lukavec, 22–~39 filiálka Křešín, 40 oddaní, ~49–56 filiálka Mezilesí."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
