@@ -9466,19 +9466,23 @@ window.RODOKMEN = {
       name: "Jiří Jírek",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true},
+      b: {"date":"neznámé (asi 1739, podle věku při úmrtí)","year":1739,"approx":true},
+      d: {"date":"3. 12. 1809","year":1809,"place":"Seletice č. p. 62"},
       spouse: "marie_vk",
+      occ: "výměnkář v Seleticích č. 62",
       marriage: "9. 6. 1765, Seletice (fara Mcely) – s Marií Volkovou",
       notes: [
         "Oddán 9. 6. 1765 v kostele v Seleticích: „Georgius Girsko … cum sua honesta sponsa Maria Wolkova ex pago Seletiz, ambo subditi ad Dominium Krzinecense“; svědci Jan Volek, Šimon Hofmann a Anna Jírková; oddal administrátor Václav Schrámek. Rodiče a věk neuvedeny.",
         "Chalupník v Seleticích (fara Rožďalovice); zemřel před XI 1817. Otec Anny Šnejdrové.",
-        "S manželkou Marií v Seleticích č. 40: Anna (18. 12. 1776), Dorota (9. 8. 1778), Marie (30. 3. 1780, † 7. 4. 1780)."
+        "S manželkou Marií v Seleticích č. 40: Anna (18. 12. 1776), Dorota (9. 8. 1778), Marie (30. 3. 1780, † 7. 4. 1780).",
+        "Zemřel 3. 12. 1809 (pohřben 5. 12.) Seletice č. 62 – „Jiří Jírek, výměnkář“, 70 let, zaopatřen (Mcely 10 Z sn. 34 vlevo; M, ověřeno koordinátorem; rok z hlavičky „Mrtví ze Seletic v roce 1809“) → *~1739; dům č. 62 = bydliště dcery Anny 1796 (ztotožnění D). Křest: fara Seletic před 1759 nezjištěna – Křinec 02 N VI 1742 – 1743 bez Seletic; zkusit Rožďalovice 02 (1719–48), Kněžice, Dymokury."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Pojedy, fol. 99, snímek 98 vpravo – https://ebadatelna.soapraha.cz/d/11184/98",
         "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 326, snímek 72 vlevo (9. 6. 1765); rejstřík O sn. 86 – https://ebadatelna.soapraha.cz/d/8402/72",
         "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 91, snímek 47 vpravo (18. 12. 1776) – https://ebadatelna.soapraha.cz/d/8402/47",
-        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), pag. 587, snímek 129 vpravo (7. 4. 1780) – https://ebadatelna.soapraha.cz/d/8402/129"
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), pag. 587, snímek 129 vpravo (7. 4. 1780) – https://ebadatelna.soapraha.cz/d/8402/129",
+        "SOA Praha, Mcely 10 (8411), Z Seletice sn. 34 vlevo (3. 12. 1809), https://ebadatelna.soapraha.cz/d/8411/34"
       ],
       scans: [
         {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"},
