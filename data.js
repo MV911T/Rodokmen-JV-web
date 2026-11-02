@@ -13813,7 +13813,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁT (K++): otec Václava Svobody – sňatek syna 11. 7. 1771 „Wenceslaus, rustici Wenceslai Swoboda filius Malkoviensis“ (Tmaň 02 O sn. 192 vlevo; M). Sedlák v Málkově č. 1.",
         "Zemřel 19. 1. 1797 Málkov č. 1 – „Václav Svoboda, otec Václava Svobody, rychtáře (?)“, věk zapsán 102 let (jistě nadsazený), stářím (Borek 06 Z sn. 114 vlevo; M).",
-        "Praha N73 (K): v Málkově 1744–47 Václav Svoboda × Dorota (Vojtěch 23. 4. 1744, Josefa 13. 6. 1747; Tmaň 02 N sn. 30 vlevo, 34 vlevo; M), sňatek snad 1. 6. 1734 Tmaň – Václav Svoboda × Dorota, vdova po Martinu Hezerovi (?) (Tmaň 02 O sn. 159 vpravo; M) – ztotožnění s Václavem st. z č. 1 jen K (dům neuveden; v Málkově též Šimon a Vavřinec Svobodové). Křest Václava ml. není v Tmaň 02 N 1744–51 – zbývá 1735–43."
+        "Praha N73 (K): v Málkově 1744–47 Václav Svoboda × Dorota (Vojtěch 23. 4. 1744, Josefa 13. 6. 1747; Tmaň 02 N sn. 30 vlevo, 34 vlevo; M), sňatek snad 1. 6. 1734 Tmaň – Václav Svoboda × Dorota, vdova po Martinu Hezerovi (?) (Tmaň 02 O sn. 159 vpravo; M) – ztotožnění s Václavem st. z č. 1 jen K (dům neuveden; v Málkově též Šimon a Vavřinec Svobodové). Křest Václava ml. není v Tmaň 02 N 1744–51 – zbývá 1735–43.",
+        "Praha N74: Václav Svoboda × Dorota v Málkově – další dcera Eva 13. 10. 1742 (Tmaň 02 N sn. 26 vpravo; M); syn Václav v Tmaň 02 N 1741–51 není; Málkov se v tmaňské matrice objevuje až od I 1741 → před tím jiná fara (Borek / Suchomasty ?)."
       ],
       sources: [
         "SOA Praha, Tmaň 02, O sn. 192 vlevo (11. 7. 1771)",
@@ -13859,7 +13860,8 @@ window.RODOKMEN = {
       cert: "K",
       b: {"date":"neznámé (odhad ~1690)","year":1690,"approx":true,"place":"Svatá (panství Křivoklát)"},
       notes: [
-        "KANDIDÁT (K++): otec Matěje Sikory – „Mathias Sikora proprius filius Pauli Sikora ex pago Svata“ při sňatku 8. 7. 1748 (Tmaň 02 O sn. 166 vpravo; M); Pavel byl svědkem, tedy žil. Ve Svaté též Václav a Kateřina Sikorovi (družba, družička). Křest a úmrtí hledat ve faře Svatá (SOA Praha)."
+        "KANDIDÁT (K++): otec Matěje Sikory – „Mathias Sikora proprius filius Pauli Sikora ex pago Svata“ při sňatku 8. 7. 1748 (Tmaň 02 O sn. 166 vpravo; M); Pavel byl svědkem, tedy žil. Ve Svaté též Václav a Kateřina Sikorovi (družba, družička). Křest a úmrtí hledat ve faře Svatá (SOA Praha).",
+        "Praha N74: Svatá patřila 1712–38 k faře Beroun. Pavel Sykora × Anna ve Svaté – syn Ondřej 25. 10. 1722 (Beroun 06 N sn. 91 vpravo; M; ztotožnění podle jména a obce K+); kmotra Kateřina Sýkorová 1720–22. Křest Matěje není v Beroun 06 N I 1720 – IV 1723 → hledat 1715–19 a 1723–25 (snímky 99–112 staženy v 06_poznamky/soapraha/pn74dl/b06) a sňatek Pavla × Anny v Beroun 16 (O 1687–1734)."
       ],
       sources: [
         "SOA Praha, Tmaň 02 (10456), O sn. 166 vpravo, 3. zápis (8. 7. 1748), https://ebadatelna.soapraha.cz/d/10456/166"
