@@ -3967,14 +3967,16 @@ window.RODOKMEN = {
         "Pokřtěn 6. 7. 1803 v Suchomastech č. 12 (kurát Math. Hefft); otec Václav Klika, „galaunista (?)“, matka Kateřina roz. Kliková (dřívější čtení „Šliková“ chybné). ROZPOR: oddací zápis 1832 uvádí 27 let (*~1805) – platí křest.",
         "Oddán 14. 2. 1832 v Suchomastech (27 let, svobodný): „pozůstalý syn po † Václavovi Klikovi, vyhořelém (?) sedlákovi a poddaném suchomastském z No. 12, ze Suchomast rozený, matky Kateřiny rozené Klikové z Bykoše (?)“ (Borek 06 O sn. 92 vlevo, pag. 60; M, znovu přečteno koordinátorem – dřívější čtení „vysloužilce a podruha“ a „Šlikové z Litně“ chybné, kurentní K); svědci Matěj Klika a Václav Bůh (?) z Velkých Suchomast.",
         "Domkář v Suchomastech (1834); usedlost Suchomasty č. 14 (dům tchána). V roce 1874 už nežil.",
-        "Zemřel 17. 10. 1846 (pohřben 19. 10.) Suchomasty č. 14: „Klika František, domkář z Suchomast, z Suchomast rozený“, 41 (?) let (Borek 14 Z sn. 67 vpravo, pag. 131; M, ověřeno koordinátorem; index „17. října 1846 | 14 | Klika František“) – dům 14 sedí; věk nižší než podle křtu (43). Ztotožnění K+. Manželka v zápise není; neprověřeno: děti v č. 14 po 1846 (Borek 09 N)."
+        "Zemřel 17. 10. 1846 (pohřben 19. 10.) Suchomasty č. 14: „Klika František, domkář z Suchomast, z Suchomast rozený“, 47 (?) let (Borek 14 Z sn. 67 vpravo, pag. 131; index „17. října 1846 | 14 | Klika František“; M, ověřeno koordinátorem; manželka v zápise není). Věk neodpovídá křtu 1803 (43) ani oddacímu 1832 (*~1805). Ztotožnění K+ podle jména, povolání a domu; po 1846 v rejstříku N Borek 09 (I 1846 – X 1853, čteno v přehledu) žádné další dítě v č. 14, kniha po listech nečtena.",
+        "Syn Antonín pokřtěn 2./3. 9. 1846 Suchomasty č. 14: otec Klika František, domkář, syn † Václava Kliky ze Suchomast č. 12 a Kateřiny rozené Klikové z Bykoše; matka Anna, dcera † Václava Svobody, domkáře z č. 14, a Josefy rozené … (nečitelné s jistotou) (Borek 09 N sn. 14, pag. 22; M, ověřeno koordinátorem) – potvrzuje rodiče obou manželů. Otec tehdy žil."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (N 1795–1818), fol. 25, snímek 16 – https://ebadatelna.soapraha.cz/d/4075/16",
-        "SOA Praha, Borek 14 (4083), Z sn. 67 vpravo, pag. 131 (17. 10. 1846), https://ebadatelna.soapraha.cz/d/4083/67"
+        "SOA Praha, Borek 14 (4083), Z sn. 67 vpravo, pag. 131 (17. 10. 1846), https://ebadatelna.soapraha.cz/d/4083/67",
+        "SOA Praha, Borek 09 (4078), N sn. 14, pag. 22 (2. 9. 1846), https://ebadatelna.soapraha.cz/d/4078/14"
       ],
       scans: [
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
@@ -3983,7 +3985,8 @@ window.RODOKMEN = {
         {"f":"img/1803_krest_frantisek_klika_suchomasty_a.jpg","t":"Křest Františka Kliky, Suchomasty 6. 7. 1803"},
         {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest Františka Kliky 1803 – kmotři"},
         {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest syna Josefa Kliky 1834 – matka, kmotři"},
-        {"f":"img/1846_Z_Klika_Frantisek_Suchomasty.jpg","t":"Úmrtí 17. 10. 1846, Suchomasty 14"}
+        {"f":"img/1846_Z_Klika_Frantisek_Suchomasty.jpg","t":"Úmrtí 17. 10. 1846, Suchomasty 14"},
+        {"f":"img/1846_N_Klika_Antonin_Suchomasty.jpg","t":"Křest syna Antonína 2. 9. 1846, Suchomasty 14"}
       ]
     },
     {
@@ -4001,18 +4004,21 @@ window.RODOKMEN = {
       notes: [
         "Pozůstalá dcera † Václava Svobody, domkáře v Suchomastech č. 14, a Josefy roz. Prajzové (?) ze Suchomast; při sňatku 1832 24 let.",
         "Křest zatím nenalezen (Anny v Suchomastech 1802–1812 prověřeny); sourozenci v č. 14: Josef (*27. 2. 1808), Barbora (*~1810) – matka Josefa, dcera Jakuba Krejzího / Prajzího (?).",
-        "Ani v rejstříku narozených fary Borek 1784–1837 (Borek 11) není Anna z č. 14 – narozena jinde nebo pod jiným jménem."
+        "Ani v rejstříku narozených fary Borek 1784–1837 (Borek 11) není Anna z č. 14 – narozena jinde nebo pod jiným jménem.",
+        "Křest syna Antonína 2./3. 9. 1846 (Borek 09 N sn. 14): „Anna, dcera † Václava Svobody, domkáře z Suchomast č. 14“; rodné jméno matky Josefy čteno nejistě (M)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
+        "SOA Praha, Borek 09 (4078), N sn. 14, pag. 22 (2. 9. 1846), https://ebadatelna.soapraha.cz/d/4078/14"
       ],
       scans: [
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
         {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest Josefa Kliky 1834 – matka, kmotři"},
         {"f":"img/1832_snatek_frantisek_klika_suchomasty_a.jpg","t":"Sňatek Františka Kliky a Anny Svobodové, Suchomasty 14. 2. 1832 – ženich"},
-        {"f":"img/1832_snatek_frantisek_klika_suchomasty_b.jpg","t":"Sňatek Františka Kliky a Anny Svobodové 1832 – nevěsta, svědci"}
+        {"f":"img/1832_snatek_frantisek_klika_suchomasty_b.jpg","t":"Sňatek Františka Kliky a Anny Svobodové 1832 – nevěsta, svědci"},
+        {"f":"img/1846_N_Klika_Antonin_Suchomasty.jpg","t":"Křest syna Antonína 2. 9. 1846, Suchomasty 14"}
       ]
     },
     {
@@ -5244,7 +5250,7 @@ window.RODOKMEN = {
       notes: [
         "Oddán 19. 1. 1806 (fara Borek, dům č. 5), 25 let; vlastní syn Matěje Svobody, sedláka v Málkově, a Anny. Svědci Matěj Janda z Málkova a Václav Zelenka, chalupník z Koněprus.",
         "Domkář v Suchomastech č. 14; zemřel před 1832. Děti: Josef (*27. 2. 1808), Barbora (*8. 5. 1811), Anna (*~1808, ⚭ 1832 František Klika).",
-        "Zemřel 23. (?) 9. 1812 (pohřben 25. ?) Suchomasty č. 14: „Václav Svoboda, domkář, poddaný suchomastský“, 32 let, velký otok (Borek 06 Z sn. 122 vpravo, pag. 23; M, ověřeno koordinátorem; rok z nadpisů 1812/1813) – jméno, dům a věk sedí (25 v 1806); poslední známé dítě Barbora 1811. Dřívější „† před 1832“ upřesněno. Neprověřeno: děti v č. 14 po ~VI 1813 (N Borek 06)."
+        "Zemřel 23. (?) 9. 1812 (pohřben 25. ?) Suchomasty č. 14: „Václav Svoboda, domkář, poddaný suchomastský“, 32 let, velký otok (Borek 06 Z sn. 122 vpravo, pag. 23; M, ověřeno koordinátorem; rok z nadpisů 1812/1813) – jméno, dům a věk sedí (25 v 1806); poslední známé dítě Barbora 1811. Dřívější „† před 1832“ upřesněno. Ztotožnění K+: v rejstříku N Borek 11 (II 1810 – III 1821) po Barboře 1811 žádné dítě Václav × Josefa; N Borek 06 VII 1813 – II 1818 bez č. 14 (částečně jen filtr domu). „Vdova“ nedoloženo."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
