@@ -8821,7 +8821,8 @@ window.RODOKMEN = {
         "Sedlák (chalupník) v Branově č. 4 (okr. Rakovník; fara Zbečno, od 1785 Nezabudice); manželka Barbora; dcera Ludmila *11. 5. 1771. V r. 1807 uveden jako zemřelý. Sňatek nenalezen (index Zbečno 04 neúplný).",
         "Praha N115: sňatek s Barborou není v Zbečno 04 O I 1767 – X 1770.",
         "Praha N116: sňatek není v Zbečno 04 O VII 1765 – XI 1771 (střední negativ) → před 1765 nebo jiná fara.",
-        "KANDIDÁT (K, tvar příjmení nedořešen): křest Barbory, dne 16./17. XII, rok nepřečten (zřejmě ~1778/79), Branov č. 4 – „Klenička (?) Wenceslaus inquilinus, Mater Barbara, subditi Pürglitz“, kmotra Anna, manželka Petra Dubského z Branova (Zbečno 04 N sn. 290 vlevo, pag. 568; M pro zápis, ověřeno koordinátorem). Dům a jména rodičů sedí; první písmeno spíš K, takže rod může být v rejstříku pod K a dřívější negativy sňatku tento tvar mohly přehlédnout."
+        "KANDIDÁT (K, tvar příjmení nedořešen): křest Barbory, dne 16./17. XII, rok nepřečten (zřejmě ~1778/79), Branov č. 4 – „Klenička (?) Wenceslaus inquilinus, Mater Barbara, subditi Pürglitz“, kmotra Anna, manželka Petra Dubského z Branova (Zbečno 04 N sn. 290 vlevo, pag. 568; M pro zápis, ověřeno koordinátorem). Dům a jména rodičů sedí; první písmeno spíš K, takže rod může být v rejstříku pod K a dřívější negativy sňatku tento tvar mohly přehlédnout.",
+        "Tvar příjmení nerozhodnut: křest dcery Ludmily 11./12. 5. 1771, Branov č. 4 – „Wenceslaus Klenizka (?), Barbara“ (Zbečno 04 N sn. 237 vpravo, pag. 463; M, ověřeno koordinátorem; měsíc a rok nad zápisem jen z agenta a karty). Stejně i křest Barbory (viz níže): čtení Klenička, ne Hlavička, první písmeno K/H nejisté. Rejstříky N a O písmeno K tento tvar nemají (částečně slabé čtení), rejstřík rod zřejmě vynechává."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
