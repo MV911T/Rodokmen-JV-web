@@ -14025,8 +14025,8 @@ window.RODOKMEN = {
       name: "Jindřich Čihal",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
-      d: {"date":"mezi VIII 1752 a 25. 11. 1760","year":1760,"approx":true},
+      b: {"date":"neznámé (asi 1709, podle věku při úmrtí)","year":1709,"approx":true},
+      d: {"date":"22. 2. 1759 (pohřeb)","year":1759,"place":"Žitovlice"},
       marriage: "5. 2. 1736, Rožďalovice – (jako vdovec) s Alžbětou Šavlíkovou (?)",
       notes: [
         "Otec Kateřiny Šulcové – oddací zápis 1778 („dcera † Jindřicha Čihala“; M) a křest 17. 12. 1747 Žitovlice (Rožďalovice 02 N sn. 229 vlevo; M). Při sňatku dcery 1778 už nežil.",
@@ -14034,17 +14034,20 @@ window.RODOKMEN = {
         "Praha N91: syn František pokřtěn 10. 8. 1752 Žitovlice – „otce Jindřicha Čyhala a matky Alžběty“ (Rožďalovice 03 N sn. 22 vlevo; M) → Jindřich žil VIII 1752; úmrtí 1752–1778 (Rožďalovice 13 Z).",
         "Praha N93: úmrtí není v rejstříku Z Rožďalovice 37 (1770 – I 1778) → † nejspíš VIII 1752 – 1769 (Rožďalovice 13 Z sn. ~66–121, bez rejstříku) nebo mimo faru. Pozor: v Žitovlicích současně rodina ČIHÁK (Jindřich Čihák † před 1753; syn Matěj † 3. 11. 1753, 21 let; vdova Dorota † 1. 5. 1754, 65) – nezaměňovat (čtení „Czyhk-“).",
         "Praha N94: 9. 11. 1761 (pohřben 11. 11.) zemřel v Žitovlicích „Franciscus, filius def. Henrici Čzihal, incolae“, 9 let (Rožďalovice 13 Z sn. 87 vlevo, pag. 166; M, ověřeno koordinátorem) = syn *10. 8. 1752 → Jindřich † VIII 1752 – XI 1761; vlastní pohřeb v Z sn. 66–89 nenalezen (střední negativ). Žitovličtí Čihákové (Kateřina † 1758, 40) jsou jiná rodina.",
-        "Praha N95: 25. 11. 1760 ze Žitovlic sňatek „Joannes defuncti Wenceslai Kunčík (?) filius cum Dorothea filia defuncti Henrici Čzyhal incolae Žitoblicensis“ (Rožďalovice 10 O sn. 65 vlevo, pag. 122; M, ověřeno koordinátorem) → Jindřich † před 25. 11. 1760; Dorota snad dcera (K – z 1. nebo 2. manželství). Druhý sňatek vdovy Alžběty v O VII 1752 – VII 1763 nenalezen (střední negativ)."
+        "Praha N95: 25. 11. 1760 ze Žitovlic sňatek „Joannes defuncti Wenceslai Kunčík (?) filius cum Dorothea filia defuncti Henrici Čzyhal incolae Žitoblicensis“ (Rožďalovice 10 O sn. 65 vlevo, pag. 122; M, ověřeno koordinátorem) → Jindřich † před 25. 11. 1760; Dorota snad dcera (K – z 1. nebo 2. manželství). Druhý sňatek vdovy Alžběty v O VII 1752 – VII 1763 nenalezen (střední negativ).",
+        "Pohřben 22. 2. 1759 ze Žitovlic: „pochován jest Jindřich Čzyhal, obyvatel, svátostmi opatřený, při chrámu Páně sv. Václava žitovl.“, 50 let (Rožďalovice 13 Z sn. 79 vlevo; M, ověřeno koordinátorem; měsíc z hlavičky „Februarius A° 1759“) → *~1709; v souladu s „†“ v zápisech 1760 a 1761."
       ],
       sources: [
         "SOA Praha, Rožďalovice 02 (11180), N sn. 229 vlevo (17. 12. 1747), https://ebadatelna.soapraha.cz/d/11180/229",
         "SOA Praha, Rožďalovice 10 (11192), O sn. 11 vpravo – 12 vlevo (5. 2. 1736), https://ebadatelna.soapraha.cz/d/11192/11",
         "SOA Praha, Rožďalovice 02 (11180), N sn. 204 vpravo (20. 5. 1744), https://ebadatelna.soapraha.cz/d/11180/204",
         "SOA Praha, Rožďalovice 13 (11196), Z sn. 87 vlevo (9. 11. 1761), https://ebadatelna.soapraha.cz/d/11196/87",
-        "SOA Praha, Rožďalovice 10 (11192), O sn. 65 vlevo (25. 11. 1760), https://ebadatelna.soapraha.cz/d/11192/65"
+        "SOA Praha, Rožďalovice 10 (11192), O sn. 65 vlevo (25. 11. 1760), https://ebadatelna.soapraha.cz/d/11192/65",
+        "SOA Praha, Rožďalovice 13 (11196), Z sn. 79 vlevo (22. 2. 1759), https://ebadatelna.soapraha.cz/d/11196/79"
       ],
       scans: [
-        {"f":"img/1747_N_Cihalova_Katerina_Zitovlice.jpg","t":"Křest dcery Kateřiny, 1747"}
+        {"f":"img/1747_N_Cihalova_Katerina_Zitovlice.jpg","t":"Křest dcery Kateřiny, 1747"},
+        {"f":"img/1759_Z_Cihal_Jindrich_Zitovlice.jpg","t":"Pohřeb 22. 2. 1759, Žitovlice"}
       ]
     },
     {
