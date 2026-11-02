@@ -14240,65 +14240,131 @@ window.RODOKMEN = {
       name: "Václav Vošík",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1734, podle věku při úmrtí)","year":1734,"approx":true},
+      b: {"date":"neznámé (asi 1732, kandidátní křest – viz poznámky)","year":1732,"approx":true,"place":"Račice"},
       d: {"date":"19. 3. 1808","year":1808,"place":"Zbečno č. p. 11"},
+      father: "josef_ws",
+      mother: "ludmila_ws",
       spouse: "katerina_ws",
       occ: "rybář, Zbečno č. 11",
       marriage: "12. 2. 1765, Zbečno – s Kateřinou, dcerou Blažeje Werserga (?)",
       notes: [
         "Otec Václava Vošíka – „Sohn nach Wenzel Wasika, Häusler daselbst N. 11“ (1843; Zbečno 16 Z sn. 57 vpravo; M). Zemřel 19. 3. 1808 Zbečno č. 11: „Wenzl Wosika, Fischer“, 74 let, stářím (Zbečno 16 Z sn. 19 vpravo, pag. 35; M, ověřeno koordinátorem). Ztotožnění podle domu a jména. Sňatek a křest nehledány (Zbečno 04).",
-        "Oddán 12. 2. 1765 ve Zbečně: „honestus Sponsus Wenceslaus Wossiga oriundus Ratschitzio cum Sponsa honesta Virgine Catharina filia Blasij Werserga (?) oriunda Zbetschna, subd. Dnio Pürgl.“, svědci Matěj Haubeg (?) a František Rezeg (?) (Zbečno 04 O sn. 344 vlevo, pag. 42; M, ověřeno koordinátorem; jediný Václav Wosika v rejstříku O) → pocházel z Račic; otec v zápisu není. Křest (*~1734) v Zbečno 04 N (od 1742) být nemůže – hledat starší knihu pro Račice."
+        "Oddán 12. 2. 1765 ve Zbečně: „honestus Sponsus Wenceslaus Wossiga oriundus Ratschitzio cum Sponsa honesta Virgine Catharina filia Blasij Werserga (?) oriunda Zbetschna, subd. Dnio Pürgl.“, svědci Matěj Haubeg (?) a František Rezeg (?) (Zbečno 04 O sn. 344 vlevo, pag. 42; M, ověřeno koordinátorem; jediný Václav Wosika v rejstříku O) → pocházel z Račic; otec v zápisu není. Křest (*~1734) v Zbečno 04 N (od 1742) být nemůže – hledat starší knihu pro Račice.",
+        "KANDIDÁT křtu (K+): 31. 8. 1732 „z Račic“ – „pokřtěný jest syn jménem Václav z poctivých rodičův otce Josefa Wossičky (?) a matky Ludmily, podd. křivoklatských“, levans Jan Dejta ze Zbečna, testes Jan Hermach (?) ze Sýkořic a Veronika, manželka Jindřicha Dvořáka ze Zbečna (Zbečno 03 N sn. 83 vpravo, fol. 81; M, ověřeno koordinátorem; datum z návaznosti) – jméno a Račice sedí se sňatkem 1765; věk 74 v 1808 o rok nižší. Bratr Josef 28. 2. 1734 se stejnými kmotry (sn. 99 vpravo)."
       ],
       sources: [
         "SOA Praha, Zbečno 16 (8861), Z sn. 57 vpravo, pag. 111 (24. 11. 1843), https://ebadatelna.soapraha.cz/d/8861/57",
         "SOA Praha, Zbečno 16 (8861), Z sn. 19 (10. 7. 1807; 19. 3. 1808), https://ebadatelna.soapraha.cz/d/8861/19",
         "SOA Praha, Zbečno 04 (8849), O sn. 344 vlevo, pag. 42 (12. 2. 1765), https://ebadatelna.soapraha.cz/d/8849/344",
-        "SOA Praha, Zbečno 04 (8849), N sn. 254 vlevo, pag. 496 (IX 1774), https://ebadatelna.soapraha.cz/d/8849/254"
+        "SOA Praha, Zbečno 04 (8849), N sn. 254 vlevo, pag. 496 (IX 1774), https://ebadatelna.soapraha.cz/d/8849/254",
+        "SOA Praha, Zbečno 03 (8794), N sn. 83 vpravo, fol. 81 (31. 8. 1732), https://ebadatelna.soapraha.cz/d/8794/83"
       ],
       scans: [
         {"f":"img/1843_Z_Vosik_Vaclav_Zbecno.jpg","t":"Úmrtí syna Václava, 1843"},
-        {"f":"img/1765_O_Vosik_Vaclav_Katerina_Zbecno.jpg","t":"Sňatek 12. 2. 1765, Zbečno"}
+        {"f":"img/1765_O_Vosik_Vaclav_Katerina_Zbecno.jpg","t":"Sňatek 12. 2. 1765, Zbečno"},
+        {"f":"img/1732_N_Vosik_Vaclav_Racice.jpg","t":"Křest 31. 8. 1732, Račice (kandidát)"}
       ]
     },
     {
       id: "katerina_ws",
       name: "Kateřina Vošíková",
-      maiden: "Werserga (?)",
+      maiden: "Veverková",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (asi 1737, podle věku při úmrtí)","year":1737,"approx":true},
       d: {"date":"10. 7. 1807","year":1807,"place":"Zbečno č. p. 11"},
       father: "blazej_ws",
+      mother: "katerina_vv",
       spouse: "vaclav_ws0",
       marriage: "12. 2. 1765, Zbečno – s Václavem Vošíkem",
       notes: [
         "Matka Václava Vošíka – „und Katharina geborene N. N.“ (1843; Zbečno 16 Z sn. 57 vpravo; M). Zemřela 10. 7. 1807 Zbečno č. 11: „Catharina, Eheweib des Wenzl Wosika, Fischers“, 70 let, stářím (Zbečno 16 Z sn. 19 vlevo, pag. 34; M).",
-        "Oddána 12. 2. 1765 jako „Catharina filia Blasij Werserga (?) oriunda Zbetschna“ (Zbečno 04 O sn. 344 vlevo; M; příjmení nejisté)."
+        "Oddána 12. 2. 1765 jako „Catharina filia Blasij Werserga (?) oriunda Zbetschna“ (Zbečno 04 O sn. 344 vlevo; M; příjmení nejisté).",
+        "KANDIDÁT křtu (K+): 11. 5. ~1737 Zbečno – „pokřtěna jest ve Zbečně dcera jménem Kateřina z počest. rodičův Blažeje Wewerky a Kateřiny“, levans Dorota, manželka Jana Dejty (Zbečno 03 N sn. 139 vlevo; M, ověřeno koordinátorem; rok odhadem) – sedí s † 1807 „70“. Sestra Anna Marie 1734."
       ],
       sources: [
         "SOA Praha, Zbečno 16 (8861), Z sn. 57 vpravo, pag. 111 (24. 11. 1843), https://ebadatelna.soapraha.cz/d/8861/57",
         "SOA Praha, Zbečno 16 (8861), Z sn. 19 (10. 7. 1807; 19. 3. 1808), https://ebadatelna.soapraha.cz/d/8861/19",
-        "SOA Praha, Zbečno 04 (8849), O sn. 344 vlevo, pag. 42 (12. 2. 1765), https://ebadatelna.soapraha.cz/d/8849/344"
+        "SOA Praha, Zbečno 04 (8849), O sn. 344 vlevo, pag. 42 (12. 2. 1765), https://ebadatelna.soapraha.cz/d/8849/344",
+        "SOA Praha, Zbečno 03 (8794), N sn. 139 vlevo (11. 5. ~1737), https://ebadatelna.soapraha.cz/d/8794/139"
       ],
       scans: [
         {"f":"img/1843_Z_Vosik_Vaclav_Zbecno.jpg","t":"Úmrtí syna Václava, 1843"},
-        {"f":"img/1765_O_Vosik_Vaclav_Katerina_Zbecno.jpg","t":"Sňatek 12. 2. 1765, Zbečno"}
+        {"f":"img/1765_O_Vosik_Vaclav_Katerina_Zbecno.jpg","t":"Sňatek 12. 2. 1765, Zbečno"},
+        {"f":"img/1737_N_Veverkova_Katerina_Zbecno.jpg","t":"Křest ~1737, Zbečno (kandidát)"}
       ]
     },
     {
       id: "blazej_ws",
-      name: "Blažej Werserga (?)",
+      name: "Blažej Veverka",
       line: "nezname",
       cert: "K",
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true,"place":"Zbečno (?)"},
+      spouse: "katerina_vv",
       notes: [
-        "KANDIDÁT (K+): otec Kateřiny Vošíkové – „Catharina filia Blasij Werserga (?) oriunda Zbetschna“ (sňatek 12. 2. 1765; Zbečno 04 O sn. 344 vlevo; M; příjmení nejisté; bez „†“, tedy snad žil)."
+        "KANDIDÁT (K+): otec Kateřiny Vošíkové – „Catharina filia Blasij Werserga (?) oriunda Zbetschna“ (sňatek 12. 2. 1765; Zbečno 04 O sn. 344 vlevo; M; příjmení nejisté; bez „†“, tedy snad žil).",
+        "Praha N113: příjmení „Werserga (?)“ z 1765 je nejspíš Wewerga = VEVERKA: děti Blažeje Wewerky × Kateřiny ze Zbečna – Anna Marie 15. 3. 1734 (sn. 99 vpravo) a Kateřina 11. 5. ~1737 (sn. 139 vlevo; M, ověřeno koordinátorem; rok neověřen)."
       ],
       sources: [
-        "SOA Praha, Zbečno 04 (8849), O sn. 344 vlevo, pag. 42 (12. 2. 1765), https://ebadatelna.soapraha.cz/d/8849/344"
+        "SOA Praha, Zbečno 04 (8849), O sn. 344 vlevo, pag. 42 (12. 2. 1765), https://ebadatelna.soapraha.cz/d/8849/344",
+        "SOA Praha, Zbečno 03 (8794), N sn. 139 vlevo (11. 5. ~1737), https://ebadatelna.soapraha.cz/d/8794/139"
       ],
       scans: [
-        {"f":"img/1765_O_Vosik_Vaclav_Katerina_Zbecno.jpg","t":"Sňatek dcery Kateřiny, 1765"}
+        {"f":"img/1765_O_Vosik_Vaclav_Katerina_Zbecno.jpg","t":"Sňatek dcery Kateřiny, 1765"},
+        {"f":"img/1737_N_Veverkova_Katerina_Zbecno.jpg","t":"Křest dcery Kateřiny, ~1737"}
+      ]
+    },
+    {
+      id: "josef_ws",
+      name: "Josef Vošík (Vošička ?)",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true,"place":"Račice (?)"},
+      spouse: "ludmila_ws",
+      notes: [
+        "KANDIDÁT (K+): otec Václava Vošíka st. – křest 31. 8. 1732 Račice „otce Josefa Wossičky (?) a matky Ludmily“ a syn Josef 28. 2. 1734 (Zbečno 03 N sn. 83, 99 vpravo; M). Rejstřík O Zbečno 03 fol. 182 „Wosika Josef“ – sňatek nečten. Snad vdovec Josef z Račic × 1761 (K)."
+      ],
+      sources: [
+        "SOA Praha, Zbečno 03 (8794), N sn. 83 vpravo, fol. 81 (31. 8. 1732), https://ebadatelna.soapraha.cz/d/8794/83"
+      ],
+      scans: [
+        {"f":"img/1732_N_Vosik_Vaclav_Racice.jpg","t":"Křest syna Václava, 1732"}
+      ]
+    },
+    {
+      id: "ludmila_ws",
+      name: "Ludmila Vošíková",
+      maiden: "",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      spouse: "josef_ws",
+      notes: [
+        "KANDIDÁTKA (K+): matka Václava Vošíka st. – křest 31. 8. 1732 Račice (Zbečno 03 N sn. 83 vpravo; M)."
+      ],
+      sources: [
+        "SOA Praha, Zbečno 03 (8794), N sn. 83 vpravo, fol. 81 (31. 8. 1732), https://ebadatelna.soapraha.cz/d/8794/83"
+      ],
+      scans: [
+        {"f":"img/1732_N_Vosik_Vaclav_Racice.jpg","t":"Křest syna Václava, 1732"}
+      ]
+    },
+    {
+      id: "katerina_vv",
+      name: "Kateřina Veverková",
+      maiden: "",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      spouse: "blazej_ws",
+      notes: [
+        "KANDIDÁTKA (K+): matka Kateřiny Vošíkové – křest 11. 5. ~1737 Zbečno „rodičův Blažeje Wewerky a Kateřiny“ (Zbečno 03 N sn. 139 vlevo; M)."
+      ],
+      sources: [
+        "SOA Praha, Zbečno 03 (8794), N sn. 139 vlevo (11. 5. ~1737), https://ebadatelna.soapraha.cz/d/8794/139"
+      ],
+      scans: [
+        {"f":"img/1737_N_Veverkova_Katerina_Zbecno.jpg","t":"Křest dcery Kateřiny, ~1737"}
       ]
     }
   ]
