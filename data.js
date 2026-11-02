@@ -3968,7 +3968,8 @@ window.RODOKMEN = {
         "Oddán 14. 2. 1832 v Suchomastech (27 let, svobodný): „pozůstalý syn po † Václavovi Klikovi, vyhořelém (?) sedlákovi a poddaném suchomastském z No. 12, ze Suchomast rozený, matky Kateřiny rozené Klikové z Bykoše (?)“ (Borek 06 O sn. 92 vlevo, pag. 60; M, znovu přečteno koordinátorem – dřívější čtení „vysloužilce a podruha“ a „Šlikové z Litně“ chybné, kurentní K); svědci Matěj Klika a Václav Bůh (?) z Velkých Suchomast.",
         "Domkář v Suchomastech (1834); usedlost Suchomasty č. 14 (dům tchána). V roce 1874 už nežil.",
         "Zemřel 17. 10. 1846 (pohřben 19. 10.) Suchomasty č. 14: „Klika František, domkář z Suchomast, z Suchomast rozený“, 47 (?) let (Borek 14 Z sn. 67 vpravo, pag. 131; index „17. října 1846 | 14 | Klika František“; M, ověřeno koordinátorem; manželka v zápise není). Věk neodpovídá křtu 1803 (43) ani oddacímu 1832 (*~1805). Ztotožnění K+ podle jména, povolání a domu; po 1846 v rejstříku N Borek 09 (I 1846 – X 1853, čteno v přehledu) žádné další dítě v č. 14, kniha po listech nečtena.",
-        "Syn Antonín pokřtěn 2./3. 9. 1846 Suchomasty č. 14: otec Klika František, domkář, syn † Václava Kliky ze Suchomast č. 12 a Kateřiny rozené Klikové z Bykoše; matka Anna, dcera † Václava Svobody, domkáře z č. 14, a Josefy rozené … (nečitelné s jistotou) (Borek 09 N sn. 14, pag. 22; M, ověřeno koordinátorem) – potvrzuje rodiče obou manželů. Otec tehdy žil."
+        "Syn Antonín pokřtěn 2./3. 9. 1846 Suchomasty č. 14: otec Klika František, domkář, syn † Václava Kliky ze Suchomast č. 12 a Kateřiny rozené Klikové z Bykoše; matka Anna, dcera † Václava Svobody, domkáře z č. 14, a Josefy rozené … (nečitelné s jistotou) (Borek 09 N sn. 14, pag. 22; M, ověřeno koordinátorem) – potvrzuje rodiče obou manželů. Otec tehdy žil.",
+        "Další děti s Annou v č. 14 podle čtení agenta (Praha N127; karty nezaloženy): Marie 27. 2. 1837 (Borek 07 sn. 163), Barbora 30. (?) 5. (?) 1839 (Borek 08 sn. 23; zápis matky ověřen), Antonie 8. 1. 1842 (Borek 08 sn. 58)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
@@ -3976,7 +3977,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (N 1795–1818), fol. 25, snímek 16 – https://ebadatelna.soapraha.cz/d/4075/16",
         "SOA Praha, Borek 14 (4083), Z sn. 67 vpravo, pag. 131 (17. 10. 1846), https://ebadatelna.soapraha.cz/d/4083/67",
-        "SOA Praha, Borek 09 (4078), N sn. 14, pag. 22 (2. 9. 1846), https://ebadatelna.soapraha.cz/d/4078/14"
+        "SOA Praha, Borek 09 (4078), N sn. 14, pag. 22 (2. 9. 1846), https://ebadatelna.soapraha.cz/d/4078/14",
+        "SOA Praha, Borek 08 (4077), N sn. 23 vpravo, pag. 43/44 (1839), https://ebadatelna.soapraha.cz/d/4077/23"
       ],
       scans: [
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
@@ -3986,7 +3988,8 @@ window.RODOKMEN = {
         {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest Františka Kliky 1803 – kmotři"},
         {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest syna Josefa Kliky 1834 – matka, kmotři"},
         {"f":"img/1846_Z_Klika_Frantisek_Suchomasty.jpg","t":"Úmrtí 17. 10. 1846, Suchomasty 14"},
-        {"f":"img/1846_N_Klika_Antonin_Suchomasty.jpg","t":"Křest syna Antonína 2. 9. 1846, Suchomasty 14"}
+        {"f":"img/1846_N_Klika_Antonin_Suchomasty.jpg","t":"Křest syna Antonína 2. 9. 1846, Suchomasty 14"},
+        {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest dcery Barbory 1839, Suchomasty 14"}
       ]
     },
     {
@@ -4002,7 +4005,7 @@ window.RODOKMEN = {
       spouse: "frantisek_kl",
       marriage: "14. 2. 1832, Suchomasty – s Františkem Klikou",
       notes: [
-        "Pozůstalá dcera † Václava Svobody, domkáře v Suchomastech č. 14, a Josefy roz. Prajzové (?) ze Suchomast; při sňatku 1832 24 let.",
+        "Pozůstalá dcera † Václava Svobody, domkáře v Suchomastech č. 14, a Josefy roz. Krayzové (?) (dřívější čtení „Prajzové“ se nepotvrdilo) ze Suchomast; při sňatku 1832 24 let.",
         "Křest zatím nenalezen (Anny v Suchomastech 1802–1812 prověřeny); sourozenci v č. 14: Josef (*27. 2. 1808), Barbora (*~1810) – matka Josefa, dcera Jakuba Krejzího / Prajzího (?).",
         "Ani v rejstříku narozených fary Borek 1784–1837 (Borek 11) není Anna z č. 14 – narozena jinde nebo pod jiným jménem.",
         "Křest syna Antonína 2./3. 9. 1846 (Borek 09 N sn. 14): „Anna, dcera † Václava Svobody, domkáře z Suchomast č. 14“; rodné jméno matky Josefy čteno nejistě (M)."
@@ -4011,14 +4014,16 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
-        "SOA Praha, Borek 09 (4078), N sn. 14, pag. 22 (2. 9. 1846), https://ebadatelna.soapraha.cz/d/4078/14"
+        "SOA Praha, Borek 09 (4078), N sn. 14, pag. 22 (2. 9. 1846), https://ebadatelna.soapraha.cz/d/4078/14",
+        "SOA Praha, Borek 08 (4077), N sn. 23 vpravo, pag. 43/44 (1839), https://ebadatelna.soapraha.cz/d/4077/23"
       ],
       scans: [
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
         {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest Josefa Kliky 1834 – matka, kmotři"},
         {"f":"img/1832_snatek_frantisek_klika_suchomasty_a.jpg","t":"Sňatek Františka Kliky a Anny Svobodové, Suchomasty 14. 2. 1832 – ženich"},
         {"f":"img/1832_snatek_frantisek_klika_suchomasty_b.jpg","t":"Sňatek Františka Kliky a Anny Svobodové 1832 – nevěsta, svědci"},
-        {"f":"img/1846_N_Klika_Antonin_Suchomasty.jpg","t":"Křest syna Antonína 2. 9. 1846, Suchomasty 14"}
+        {"f":"img/1846_N_Klika_Antonin_Suchomasty.jpg","t":"Křest syna Antonína 2. 9. 1846, Suchomasty 14"},
+        {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest dcery Barbory 1839, Suchomasty 14"}
       ]
     },
     {
@@ -5278,16 +5283,20 @@ window.RODOKMEN = {
         "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí).",
         "Praha N120: oddací 19. 1. 1806 ostře – „Josefa, vlastní dcera Jakuba Krejčího, domkáře a rodaného suchomastského, matky Kateřiny“, 24 let (Borek 06 O sn. 64 vlevo; M); „rodaný suchomastský“ sedí na Jakuba × Kateřinu Jaubovou (křest Barbory 12. 11. 1788; Borek 05 N sn. 30). Křest Josefy není v Borek 04 N 1774–84 (ani nemanželské 1779–84) ani v indexu 1784 – VI 1792; Josefa z 3. 3. 1782 je dcera Mikuláše – nesedí. ROZPOR trvá, strukturu ponechávám; zbývá Tmaň (fara ženicha), kandidát úmrtí 30. 3. 1849 (Borek 14 pag. 152, nepřečteno).",
         "Praha N121: † 1849 Josefa č. 57 je jiná (vdova po Matěji, 90 let); křest není ani v Tmaň 02 N IV 1780 – X 1783 ani v Borek 11 J 1784–98.",
-        "Zemřela 16. 3. 1856 (pohřbena 18. 3. v Borku) Suchomasty č. 14: „Josefa, manželka † Václava Svobody, domkáře z Suchomast, … z Suchomast rozená Krejčová (?)“, 68 let 3 měs. 8 dní (Borek 15 Z sn. 33, pag. 62/63; M, ověřeno koordinátorem; rodné jméno nejisté). ROZPOR věku: úmrtí → *~XII 1787 (měsíc po sňatku Jakuba Krejčího × Kateřiny Jaubové 13. 11. 1787) × oddací 1806 „24 let“ → *~1782. Nerozhodnuto, křest nenalezen (Borek 05 N IX 1787 – IV 1788 ani jinde, viz výše)."
+        "Zemřela 16. 3. 1856 (pohřbena 18. 3. v Borku) Suchomasty č. 14: „Josefa, manželka † Václava Svobody, domkáře z Suchomast, … z Suchomast rozená Krejčová (?)“, 68 let 3 měs. 8 dní (Borek 15 Z sn. 33, pag. 62/63; M, ověřeno koordinátorem; rodné jméno nejisté). ROZPOR věku: úmrtí → *~XII 1787 (měsíc po sňatku Jakuba Krejčího × Kateřiny Jaubové 13. 11. 1787) × oddací 1806 „24 let“ → *~1782. Nerozhodnuto, křest nenalezen (Borek 05 N IX 1787 – IV 1788 ani jinde, viz výše).",
+        "Rodné jméno v křtech vnoučat, Suchomasty č. 14: 1839 „matky Josefy rozené Kray-zové (?) ze Suchomast“ (Borek 08 N sn. 23 vpravo; M, ověřeno koordinátorem); čtení agenta, neověřeno: 1834 „Krayzina (?)“ (Borek 07 sn. 126), 1837 „Krayzíwei (?)“ (Borek 07 sn. 163), 1842 „Kray-zowi (?)“ (Borek 08 sn. 58). Podporuje Krejzí / Krejčí, ne „Prajzová“.",
+        "Praha N127: křest v Borek 05 N začátek 1787 – sn. 22 (přehled jmen) není: dvě Josefy na sn. 19 mají jiné otce (Václav Krbec (?), Vavřinec Jakoubek (?)). ROZPOR narození dál nerozhodnut."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
-        "SOA Praha, Borek 15 (4084), Z sn. 33, pag. 62 (16. 3. 1856), https://ebadatelna.soapraha.cz/d/4084/33"
+        "SOA Praha, Borek 15 (4084), Z sn. 33, pag. 62 (16. 3. 1856), https://ebadatelna.soapraha.cz/d/4084/33",
+        "SOA Praha, Borek 08 (4077), N sn. 23 vpravo, pag. 43/44 (1839), https://ebadatelna.soapraha.cz/d/4077/23"
       ],
       scans: [
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806"},
-        {"f":"img/1856_Z_Svobodova_Josefa_Suchomasty.jpg","t":"Úmrtí 16. 3. 1856, Suchomasty 14"}
+        {"f":"img/1856_Z_Svobodova_Josefa_Suchomasty.jpg","t":"Úmrtí 16. 3. 1856, Suchomasty 14"},
+        {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest vnučky Barbory 1839, Suchomasty 14 (matka Josefy)"}
       ]
     },
     {
@@ -5953,7 +5962,8 @@ window.RODOKMEN = {
       notes: [
         "Matka Josefy Svobodové; rodné příjmení neuvedeno.",
         "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí).",
-        "KANDIDÁT křtu (K, jen pokud je to Kateřina Jaubová z ROZPORU výše): 18. (?) 11. 1763 Suchomasty – „Catharina, legitima filia Wenceslai Hauba et uxoris Catharinae“ (Borek 03 N sn. 68 vpravo, pag. 131; M) – otec Václav a věk 24 v 1787 sedí; Hauba = Jauba je jen domněnka."
+        "KANDIDÁT křtu (K, jen pokud je to Kateřina Jaubová z ROZPORU výše): 18. (?) 11. 1763 Suchomasty – „Catharina, legitima filia Wenceslai Hauba et uxoris Catharinae“ (Borek 03 N sn. 68 vpravo, pag. 131; M) – otec Václav a věk 24 v 1787 sedí; Hauba = Jauba je jen domněnka.",
+        "KANDIDÁT otce (K, Hauba = Jauba nedoloženo): Václav Hauba, sedlák suchomastský, č. 49, † VII 1772, věk nejistý (Borek 03 Z sn. 188 vlevo, pag. 150; M, ověřeno koordinátorem); pohrobek Dorota, 6. 2. 1773, rodiče † Václav Hauba × Kateřina, č. 49 (Borek 03 N sn. 107 vpravo; M, ověřeno koordinátorem). Sedí Václav, sedlák, Suchomasty a „pozůstalá dcera“ v 1787; dům nevěsty v oddacím zápise čten „1 (?)“, ne 49."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
