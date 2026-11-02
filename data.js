@@ -6463,7 +6463,8 @@ window.RODOKMEN = {
         "Sourozenci (Sýkořice č. 6): Kateřina (1795), Anna (1798), Jan (1800 † 1805), František (1803 † 1803), František (1804 † 1805), Anna (1811, Zbečno č. 20).",
         "Děd Anny Červenkové.",
         "V lednu 1838 mlynářský tovaryš ve Zbečně č. 58 (křest syna Františka); syn Jana Vlasáka, nádeníka ve Zbečně č. 8.",
-        "Oddán 22. 10. 1833 (fara Nižbor) jako mlynářský tovaryš ve Zbečně č. 36, 25 let, svobodný; syn Jana Vlasáka, domkáře z Hudlic (?), a Marie roz. Jarošové (?) z …brnice (?) č. 6."
+        "Oddán 22. 10. 1833 (fara Nižbor) jako mlynářský tovaryš ve Zbečně č. 36, 25 let, svobodný; syn Jana Vlasáka, domkáře z Hudlic (?), a Marie roz. Jarošové (?) z …brnice (?) č. 6.",
+        "Praha N125: synové † ve Zbečno 23 – Václav Vlasák, mlynářský tovaryš, 1878 (38) a Jan Vlasák, mlynář č. 41, 1882 (48), „syn Jana Vlasáka, mlynáře N. 41, a Marie, dcery Josefa Nováka z Nové Huti N. 34“ (sn. 81, 84 vlevo; M) – další doklad k ROZPORU čísla domu 43/34 u Marie."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
@@ -9218,19 +9219,23 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"10. 8. 1789","year":1789,"place":"Žitovlice č. p. 8 (fara Rožďalovice)"},
+      d: {"date":"9. 5. 1870","year":1870,"place":"Pojedy č. p. 9"},
+      cause: "sešlost věkem",
       father: "jakub_sl",
       mother: "katerina_sz",
       spouse: "anna_hf",
       marriage: "26. 5. 1818, Dobrovany (fara Rožďalovice) – s Annou Hofmanovou",
       notes: [
         "Pokřtěn 10. 8. 1789 ve Žitovlicích č. 8: otec Jakub Šulc, baráčník ze Žitovlic, matka Kateřina; kmotři Jan Krcha (?), chalupník ze Žitovlic, a Ludmila Macháčková (?), mlynářová (?); křtil Václav Pokorný. Sestra Kateřina (*24. 2. 1787, podle indexu).",
-        "Baráčník ve Žitovlicích č. 8; oddán 26. 5. 1818 v Dobrovanech (č. 16) jako syn † Jakuba Šulce, baráčníka, 29 let, s Annou, dcerou † Jana Hofmana, sedláka z Dobrovan, 24 (?) let; svědci Václav Šulc, chalupník ze Žitovlic, a Jan Dobrý (?). Děti František (1820), Kateřina (1822)."
+        "Baráčník ve Žitovlicích č. 8; oddán 26. 5. 1818 v Dobrovanech (č. 16) jako syn † Jakuba Šulce, baráčníka, 29 let, s Annou, dcerou † Jana Hofmana, sedláka z Dobrovan, 24 (?) let; svědci Václav Šulc, chalupník ze Žitovlic, a Jan Dobrý (?). Děti František (1820), Kateřina (1822).",
+        "Zemřel 9. 5. 1870 (pohřben 11. 5.) Pojedy č. 9: „Jan Šulc, výměnkář z Pojedí č. d. 9“, 80 roků, sešlost věkem (Rožďalovice 21 Z sn. 222 vlevo, fol. 224; index Rožďalovice 37 sn. 251 vpravo; M, ověřeno koordinátorem) – dům dcery Kateřiny × Václav Šnejdr, věk sedí na křest 1789; rodiče ani manželka v zápisu nejsou (K+ až M)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Dobrovany, fol. 196, snímek 118 (26. 5. 1818) – https://ebadatelna.soapraha.cz/d/11194/118",
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 05 (11184), oddíl Žitovlice, fol. 85, snímek 85 (22. 12. 1822) – https://ebadatelna.soapraha.cz/d/11184/85",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Žitovlice, pag. 9, snímek 8 vpravo (10. 8. 1789); index Rožďalovice 22 sn. 207 – https://ebadatelna.soapraha.cz/d/11182/8"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Žitovlice, pag. 9, snímek 8 vpravo (10. 8. 1789); index Rožďalovice 22 sn. 207 – https://ebadatelna.soapraha.cz/d/11182/8",
+        "SOA Praha, Rožďalovice 21 (11206), Z sn. 222 vlevo, fol. 224 (9. 5. 1870), https://ebadatelna.soapraha.cz/d/11206/222"
       ],
       scans: [
         {"f":"img/1789_N_Sulc_Jan_Zitovlice8.jpg","t":"Křest Jana Šulce, Žitovlice č. 8, 10. 8. 1789"},
