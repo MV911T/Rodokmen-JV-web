@@ -11906,7 +11906,9 @@ window.RODOKMEN = {
         "KANDIDÁT úmrtí (K): 26. 4. 1796 Heršpice č. 24, „Paul Lanitschek, Inmann“, 75 let (Z 13149, sn. 249 vpravo; M zápis – jediný dospělý Pavel Láníček v indexu 1784–1836; věk ~1721 a dům proti křtu syna 1773 nesedí).",
         "MZA N53: I 1763 svědek při sňatku v Heršpicích „Paulus Lanížek inquilinus“ (O 13121 sn. 313 vlevo; M; ztotožnění K+) → dospělý podruh už 1763, narozen nejpozději ~1742; posiluje kandidáta úmrtí 1796 („Inmann“, 75 → *~1721). Sňatek s Annou není v O 13121 I 1755 – XI 1764 (D) → před 1755 (O 13121 sn. 291–295, O 13120 ~1740–52), nebo jde o 2. sňatek po 1769. Ve VI 1762 se v Hodějicích oženil vdovec Matěj Lanížek (?) s Rosinou, vdovou po Jiřím Ambrosovi.",
         "KANDIDÁT sňatku (K+): II 1752 Heršpice – „Honestus Juvenis Paulus Lanížek cum honesta puella Anna filia Martini Kostrna (?) [Kostelna ?], utergue Herspicio“; svědci Josef Velam (Wilam) a Jiří Hrabovský z Heršpic (O 13120 sn. 277 vlevo; M, ověřeno koordinátorem; rok podle „Anno 1752“ na sn. 276 vlevo). Jediný sňatek Pavla Lanížka v O 1745 – I 1774 (MZA N54); sedí s věkem úmrtí Pavla 1796 (75) i Anny 1805 (80). Syn Pavel 1773 by byl pozdní dítě (Anně ~45) – další děti 1752–72 dosud nehledány.",
-        "Starší Pavel Lanížek z Heršpic † před II 1751 (syn Jiří × II 1751 Kateřina; O 13120 sn. 272 vpravo; M) – snad otec (K)."
+        "Starší Pavel Lanížek z Heršpic † před II 1751 (syn Jiří × II 1751 Kateřina; O 13120 sn. 272 vpravo; M) – snad otec (K).",
+        "MZA N55: syn Jiří pokřtěn III (?) 1753 Heršpice – „Georgius, parentes Paulus Lanížek, Anna, patrini Martinus Hrabovsky, Marina“ (NOZ 13121 sn. 93 vpravo; M) – 13 měsíců po sňatku 1752; stejní kmotři Hrabovští i u dcery Kateřiny 4. 11. 1765 (sn. 188 vlevo) → pár 1752 = rodiče Pavla *1773 (K++). Jiné děti 1752 – V 1755 nejsou; 1755–64 a 1766–72 nehledáno.",
+        "Pavel Lanížek st. nezemřel v Z 13121 I 1747 – IX 1751 → † před 1747 (Z 13120 ~1744–46 nehledáno). Martin Lanížek z Heršpic † 28. 8. 1748, 70 let (Z 13121 sn. 361 vpravo; K, nečteno ostře)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948",
@@ -11929,7 +11931,9 @@ window.RODOKMEN = {
       notes: [
         "Manželka Pavla Láníčka st. z Heršpic; matka Pavla (*1773) – křest syna (M). Rodné příjmení neuvedeno.",
         "KANDIDÁT úmrtí (K+): 26. 10. 1805 Heršpice č. 29, „Anna Lanitschek, Bettlerinn“, 80 let (Z 13149, sn. 256 vlevo; M zápis – jediná dospělá Anna Láníčková 1784–1836; syn Pavel žil 1808 v č. 29 jako podruh). ROZPOR: věk 80 → *~1725, při narození Pavla 1773 by jí bylo 48.",
-        "KANDIDÁT sňatku (K+): II 1752 Heršpice – „Honestus Juvenis Paulus Lanížek cum honesta puella Anna filia Martini Kostrna (?) [Kostelna ?], utergue Herspicio“; svědci Josef Velam (Wilam) a Jiří Hrabovský z Heršpic (O 13120 sn. 277 vlevo; M, ověřeno koordinátorem; rok podle „Anno 1752“ na sn. 276 vlevo). Jediný sňatek Pavla Lanížka v O 1745 – I 1774 (MZA N54); sedí s věkem úmrtí Pavla 1796 (75) i Anny 1805 (80). Syn Pavel 1773 by byl pozdní dítě (Anně ~45) – další děti 1752–72 dosud nehledány."
+        "KANDIDÁT sňatku (K+): II 1752 Heršpice – „Honestus Juvenis Paulus Lanížek cum honesta puella Anna filia Martini Kostrna (?) [Kostelna ?], utergue Herspicio“; svědci Josef Velam (Wilam) a Jiří Hrabovský z Heršpic (O 13120 sn. 277 vlevo; M, ověřeno koordinátorem; rok podle „Anno 1752“ na sn. 276 vlevo). Jediný sňatek Pavla Lanížka v O 1745 – I 1774 (MZA N54); sedí s věkem úmrtí Pavla 1796 (75) i Anny 1805 (80). Syn Pavel 1773 by byl pozdní dítě (Anně ~45) – další děti 1752–72 dosud nehledány.",
+        "MZA N55: syn Jiří pokřtěn III (?) 1753 Heršpice – „Georgius, parentes Paulus Lanížek, Anna, patrini Martinus Hrabovsky, Marina“ (NOZ 13121 sn. 93 vpravo; M) – 13 měsíců po sňatku 1752; stejní kmotři Hrabovští i u dcery Kateřiny 4. 11. 1765 (sn. 188 vlevo) → pár 1752 = rodiče Pavla *1773 (K++). Jiné děti 1752 – V 1755 nejsou; 1755–64 a 1766–72 nehledáno.",
+        "Křest Anny (otec Martin Kostrna ?) není v N 13120 II 1728 – IV 1734; příjmení nejisté."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948",
