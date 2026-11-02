@@ -13793,14 +13793,17 @@ window.RODOKMEN = {
       name: "Václav Kučera",
       line: "svobodah",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true,"place":"Heršpice (?)"},
-      d: {"date":"před 29. 1. 1765","year":1765,"approx":true,"place":"Heršpice (?)"},
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true,"place":"Heršpice (?)"},
+      d: {"date":"mezi 1748 a 29. 1. 1765","year":1765,"approx":true,"place":"Heršpice (?)"},
+      marriage: "X 1741, Slavkov – s Johannou Dl…chovou (?)",
       notes: [
         "KANDIDÁT (K++): otec Kateřiny Tiché – křest 6. 10. 1742 „Wenceslai Kuczera et Johannae ex Herspitz“ (NOZ 13121 sn. 31 vpravo; M); při sňatku dcery 1765 už zesnulý („defuncti Wenceslai Kuçera“).",
-        "Sňatek s Johannou (~1735–1742) a úmrtí (před 1765) zatím nehledány."
+        "Sňatek s Johannou (~1735–1742) a úmrtí (před 1765) zatím nehledány.",
+        "Sňatek X 1741 (den neuveden): „honestus Juvenis Wenceslaus Kuczera ex Herspitz cum honesta puella Joanna Dlhwa-chiana (?) ex Hodbrzezin (?)“, svědci Jiří Kučera a Josef Novák z Heršpic (O 13120 sn. 240 vlevo; M zápis, ověřeno koordinátorem – příjmení nevěsty a obec nečitelné jistě); 12 měsíců před křtem Kateřiny 1742 → K++. Syn Martin *~IX 1748 † 30. 3. 1749 (Z 13121 sn. 363 vpravo; M) → Václav žil 1748; úmrtí není v Z VI 1741 – VIII 1749. Jiří Kučera (svědek 1741) † před VII 1749 (vdova Marianna † 1749, 57) – snad otec Václava (K)."
       ],
       sources: [
-        "MZA Brno, NOZ Slavkov 13121, sn. 31 vpravo (6. 10. 1742), https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, NOZ Slavkov 13121, sn. 31 vpravo (6. 10. 1742), https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, O Slavkov 13120, sn. 240 vlevo (X 1741), https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
         {"f":"img/1742_krest_katerina_kucerova.jpg","t":"Křest dcery Kateřiny, 1742"}
@@ -13809,15 +13812,18 @@ window.RODOKMEN = {
     {
       id: "johanna_ku0",
       name: "Johanna Kučerová",
-      maiden: "",
+      maiden: "Dl…chová (?)",
       line: "svobodah",
       cert: "K",
       b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      marriage: "X 1741, Slavkov – s Václavem Kučerou",
       notes: [
-        "KANDIDÁTKA (K++): matka Kateřiny Tiché – křest 6. 10. 1742 (NOZ 13121 sn. 31 vpravo; M). Rodné příjmení neznámé."
+        "KANDIDÁTKA (K++): matka Kateřiny Tiché – křest 6. 10. 1742 (NOZ 13121 sn. 31 vpravo; M). Rodné příjmení neznámé.",
+        "Sňatek X 1741 (den neuveden): „honestus Juvenis Wenceslaus Kuczera ex Herspitz cum honesta puella Joanna Dlhwa-chiana (?) ex Hodbrzezin (?)“, svědci Jiří Kučera a Josef Novák z Heršpic (O 13120 sn. 240 vlevo; M zápis, ověřeno koordinátorem – příjmení nevěsty a obec nečitelné jistě); 12 měsíců před křtem Kateřiny 1742 → K++. Syn Martin *~IX 1748 † 30. 3. 1749 (Z 13121 sn. 363 vpravo; M) → Václav žil 1748; úmrtí není v Z VI 1741 – VIII 1749. Jiří Kučera (svědek 1741) † před VII 1749 (vdova Marianna † 1749, 57) – snad otec Václava (K)."
       ],
       sources: [
-        "MZA Brno, NOZ Slavkov 13121, sn. 31 vpravo (6. 10. 1742), https://www.mza.cz/actapublica/matrika/detail/1948"
+        "MZA Brno, NOZ Slavkov 13121, sn. 31 vpravo (6. 10. 1742), https://www.mza.cz/actapublica/matrika/detail/1948",
+        "MZA Brno, O Slavkov 13120, sn. 240 vlevo (X 1741), https://www.mza.cz/actapublica/matrika/detail/1946"
       ],
       scans: [
         {"f":"img/1742_krest_katerina_kucerova.jpg","t":"Křest dcery Kateřiny, 1742"}
