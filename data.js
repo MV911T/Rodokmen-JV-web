@@ -14754,24 +14754,28 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "K",
       b: {"date":"neznámé (asi 1730, kandidátní křest – viz poznámky)","year":1730,"approx":true,"place":"Suchomasty"},
+      d: {"date":"VII 1781","year":1781,"place":"Suchomasty č. p. 49"},
       spouse: "vaclav_hb",
       marriage: "23. 11. 1750 (?) Suchomasty – s Václavem Haubou; 2. VIII 1772 – s Matějem Vietrovským",
       notes: [
         "KANDIDÁTKA (K+): matka Kateřiny Krejčí (viz karta manžela Václava Hauby).",
         "Dcera † Jiřího Duchoně ze Suchomast; oddána 23. 11. [1750] s Václavem Haubou, synem Jakuba (Borek 03 O sn. 196 vlevo; M). Jako vdova po Václavovi, sedlákovi suchomastském, se v VIII 1772 znovu vdala za Matěje Vietrovského (Borek 03 O sn. 238 vlevo, dům 49; M). Úmrtí nehledáno.",
+        "Zemřela v červenci 1781 (den nejistý) v Suchomastech č. 49: „Wietrowska Catharina, inquilina Suchomastensis“, 61 let; pohřbil Filip Bílek (Borek 04 Z sn. 181 vpravo, pag. 41, „Anno 178r“ – písař píše 1 jako „r“; jediná Kateřina Vietrovská v rejstříku Z 1774–1784; M, ověřeno koordinátorem). ROZPOR věku: 61 → *~1720 × kandidátní křest 26. 8. 1730. S Matějem Vietrovským syn Václav 21. 8. 1774, Suchomasty (Borek 04 N sn. 7 vpravo; dům čten 39 (?); čteno agentem).",
         "KANDIDÁT křtu (K+): 26. 8. [1730, rok ze sledu], Suchomasty – „Pokřtěno gest dyte gmenem Katerzyna, Otce Gyrzyka Duchoně, Matky Anny; L: Katerzyna Kocowa (?); T: Katerzyna Chwatalowa, Mary Magdalena Kolaczkowa, Tomaš Nowak, Ondrzej Stanek“ (Borek 02 N sn. 64 vlevo, pag. 72; M pro zápis, ověřeno koordinátorem). Jediná Kateřina Jiřího Duchoně v rejstříku D (druhá Kateřina ~1739 je dcera Matěje × Veroniky). Sestra snad Dorota 26. [X ?] 1728 (sn. 58 vpravo; čteno agentem).",
         "KANDIDÁT otce (K): Jiřík Duchoň, soused (sedlák) suchomastský, † 29. 11. [1738], 42 let → *~1696 (Borek 02 Z sn. 123 vlevo, pag. 32; jediný Jiří Duchoň v rejstříku Z 1710–1747; M pro zápis, ověřeno koordinátorem). Sňatek Jiřího × Anny v rejstříku O Borek 02 (1710–1747) není → před 1710 nebo jinde. V Suchomastech současně rodina Vojtěcha Duchoně (dcera Lidmila × 1747 Jakub Hauba)."
       ],
       sources: [
         "SOA Praha, fara Borek, Borek 03 (4072): O sn. 196 vlevo pag. 10 (23. 11. 1750), O sn. 238 vlevo pag. 94 (VIII 1772), N sn. 55 vpravo pag. 105 (1761), N sn. 68 vpravo pag. 131 (1763), Z sn. 188 vlevo pag. 150 (VII 1772) – https://ebadatelna.soapraha.cz/d/4072/196",
         "SOA Praha, fara Borek, Borek 02 (4071) N, sn. 58 vlevo pag. 60 (1728), sn. 64 vlevo pag. 72 (1730); rejstříky H sn. 97, D sn. 95 – https://ebadatelna.soapraha.cz/d/4071/58",
-        "SOA Praha, fara Borek, Borek 02 (4071) O sn. 12 vlevo pag. 18 (1727 ?), O sn. 23 (1747), Z sn. 123 vlevo pag. 32 (1738), Z sn. 127 vlevo (1747) – https://ebadatelna.soapraha.cz/d/4071/12"
+        "SOA Praha, fara Borek, Borek 02 (4071) O sn. 12 vlevo pag. 18 (1727 ?), O sn. 23 (1747), Z sn. 123 vlevo pag. 32 (1738), Z sn. 127 vlevo (1747) – https://ebadatelna.soapraha.cz/d/4071/12",
+        "SOA Praha, fara Borek, Borek 04 (4073) Z, sn. 181 vpravo, pag. 41 (VII 1781); rejstřík Z W sn. 197 vpravo – https://ebadatelna.soapraha.cz/d/4073/181"
       ],
       scans: [
         {"f":"img/1750_O_Hauba_Vaclav_Duchonova_Katerina_Suchomasty.jpg","t":"Sňatek s Václavem Haubou, 23. 11. 1750 (?), Suchomasty"},
         {"f":"img/1763_N_Haubova_Katerina_Suchomasty.jpg","t":"Kandidátní křest dcery Kateřiny, 18. (?) 11. 1763, Suchomasty"},
         {"f":"img/1772_O_Vietrovsky_Matej_vdova_Haubova_Suchomasty49.jpg","t":"Druhý sňatek s Matějem Vietrovským, VIII 1772, Suchomasty č. 49"},
-        {"f":"img/1730_N_Duchonova_Katerina_Suchomasty.jpg","t":"Kandidátní křest 26. 8. 1730, Suchomasty – otec Jiří Duchoň, matka Anna"}
+        {"f":"img/1730_N_Duchonova_Katerina_Suchomasty.jpg","t":"Kandidátní křest 26. 8. 1730, Suchomasty – otec Jiří Duchoň, matka Anna"},
+        {"f":"img/1781_Z_Vietrovska_Katerina_Suchomasty49.jpg","t":"Úmrtí VII 1781, Suchomasty č. 49 (jako Kateřina Vietrovská)"}
       ]
     }
   ]
