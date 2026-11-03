@@ -4814,12 +4814,14 @@ window.RODOKMEN = {
       spouse: "pavel_ma",
       notes: [
         "Manželka Pavla Málka, sedláka v Krchlebích č. 53; dcera † Jana Krebse (?), sedláka ze Všechlap (panství Loučeň) – křty dcer Anny 1804 a Kateřiny 1806 (M; příjmení čteno nejistě, rod Krebs ve Všechlapech doložen v rejstříku N). Sňatek s Pavlem není v rejstříku O Veleliby 1799–1861 (asi před 1799).",
-        "Zemřela 8. 10. 1844 v Krchlebích č. 53 (pohřbena 10. 10.): „Anna, pozůstalá vdova po † Pavlu Málkovi, sedláku v výminku ze Skrchleb“, 75 let (M; → asi 1769). Sňatek s Pavlem asi 1787–1797 – v O Nymburk 08 (Krchleby, Všechlapy) 1780–1798 není."
+        "Zemřela 8. 10. 1844 v Krchlebích č. 53 (pohřbena 10. 10.): „Anna, pozůstalá vdova po † Pavlu Málkovi, sedláku v výminku ze Skrchleb“, 75 let (M; → asi 1769). Sňatek s Pavlem asi 1787–1797 – v O Nymburk 08 (Krchleby, Všechlapy) 1780–1798 není.",
+        "KANDIDÁT matky (K): Jan Krebs, rychtář (judex) ve Všechlapech č. 4, × Anna – dcera Kateřina pokřtěna 3. 2. 1772 („Joannes Krebs Judex, Uxor Anna“, kmotři Kateřina, manželka Karla Tygry, a Václav Ota ze Všechlap; Nymburk 08 N sn. 40 vlevo; M pro zápis, ověřeno koordinátorem). Křest Anny v Nymburk 08 N IV 1768 – VII 1773 není (N163); ani v I 1767 – III 1768 a II–XII 1766 (N164); zbývá 1763–1765 a po 1773. V č. 4 se 1790 ženil Josef Krebs. Další dítě páru: Jiří 28. 3. 1767 („Georgius legitimus filius Joannis Krebs Coloni ex pago Wšechlap et Annae Conjugis“, kmotr Karel Tygra; Nymburk 08 N sn. 7 vpravo; čteno agentem). Jan Krebs rychtářem už VII 1767. Praha N165: další děti páru Václav 10. 5. 1763 (otec chalupník), Josef 18. 2. 1765, Pavel 28. 9. 1774 (vždy kmotr Karel Tygra; čteno agentem). Anna mezi dětmi páru II 1763 – XI 1776 NENÍ (mezery jen VII 1773 – VIII 1774 a části 1775–76) → Anna se buď narodila před IV 1763 (sňatek páru před 1763), nebo je dcerou jiného Jana Krebse; vazba slábne (K−). Praha N166: v Nymburk 07 N I 1761 – II 1763 Anna není; 27. 8. 1761 Kateřina, dcera Jana Kreysa/Krebse (?), sedláka ze Všechlap, × KATEŘINY (sn. 139 vlevo; čteno agentem); 1762 Kateřina, manželka Jakuba Kregsta (?) – snad dvě rodiny nebo 1. manželství Jana. Sňatek Jana × Anny v O IX 1761 – IV 1763 není."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (13539, N 1798–1864), oddíl Krchleby, pag. 21, snímek 14 (5. 11. 1806) a pag. 15, snímek 11 (13. 1. 1804); rejstřík Veleliby 13 sn. 22 – https://ebadatelna.soapraha.cz/d/13539/14",
-        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 04 (13542, Z), str. 71, snímek 74 (8. 10. 1844); index Veleliby 13 sn. 40 – https://ebadatelna.soapraha.cz/d/13542/74"
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 04 (13542, Z), str. 71, snímek 74 (8. 10. 1844); index Veleliby 13 sn. 40 – https://ebadatelna.soapraha.cz/d/13542/74",
+        "SOA Praha, fara Nymburk, Nymburk 08 (10407) N sn. 40 vlevo (3. 2. 1772) – https://ebadatelna.soapraha.cz/d/10407/40"
       ],
       scans: [
         {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830 (dítě: Kateřina Otová)"},
@@ -8288,11 +8290,13 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
       spouse: "matej_jo",
       notes: [
-        "Druhá manželka ševce Matěje Jonáše (sňatek ~2x. 3. 1772, „h. v. Josepha Blinin (?) e Sykořitz“); matka Marie (*1773) a Josefa (~1780). Rodiče v zápisu neuvedeni."
+        "Druhá manželka ševce Matěje Jonáše (sňatek ~2x. 3. 1772, „h. v. Josepha Blinin (?) e Sykořitz“); matka Marie (*1773) a Josefa (~1780). Rodiče v zápisu neuvedeni.",
+        "KANDIDÁT křtu (K): 1. VIII (narozena), 2. VIII pokřtěna [rok nepřečten, podle polohy v knize ~1746/47], Městečko – „Josepha Veronica Maria, honestorum Parentum Joannis Blín et Annae, Subditorum Pürglitzensium hujus Parochiae“; kmotra Josefa Obermayerová (?) z Křivoklátu, svědci Marie Stařničková (?) z Městečka, Jan Prošek (?) ze Zbečna; křtil Leopold Kameníček (Zbečno 04 N sn. 56 vpravo, pag. 105; rejstřík N B sn. 403 vpravo – jediná Josefa Blínová 1742–~1764; M pro zápis, ověřeno koordinátorem). Proti: v oddacím 1772 „e Sykořitz“, křest v Městečku."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04, oddíl O, snímek 360 – https://ebadatelna.soapraha.cz/d/8849/360"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04, oddíl O, snímek 360 – https://ebadatelna.soapraha.cz/d/8849/360",
+        "SOA Praha, fara Zbečno, Zbečno 04 (8849) N sn. 56 vpravo, pag. 105 (1. 8. ~1746); rejstřík sn. 403 vpravo – https://ebadatelna.soapraha.cz/d/8849/56"
       ],
       scans: [
         {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest Marie Jonášové, Zbečno 26. 4. 1773"}
@@ -8902,7 +8906,8 @@ window.RODOKMEN = {
         "Sedlák ve Zbečně č. 6. Oddán 25. 7. 1763 jako „honestus viduus Georgius Semenec oriundus ex pago Zbečna“ s pannou Veronikou, dcerou Jana Matějovice (?) z Městečka, poddanou panství Křivoklát; svědci Jan Tichý z Městečka a Matěj Šípek (?), kovář ze Zbečna. Byl tedy podruhé ženatý; syn František (*~1766) je z 2. manželství.",
         "První sňatek: 12. 11. [cca 1747–1748, rok podle polohy v knize nepřečten] ve Zbečně – „honestus sponsus Georgius filius Jacobi Semenec cum honesta sponsa Veronica filia Mathiae Czerny (?) Hustowicio (?)“; svědci Matěj Kaubek (?) ze Sýkořic, Václav Mareš z Městečka, Jan Dvořák ze Zbečna; oddával Leopold Kamenický (?) (Zbečno 03 O sn. 224 vlevo, fol. 220v; rejstřík O S 1725–48 „Semenců Gjřj 220“ – jediný Semenec-ženich; M, ověřeno koordinátorem). Otec tedy Jakub Semenec (K+: týž Jiří jako vdovec 1763 – jméno, fara, jediný ženich toho jména). V 1747/48 svědek Jakub (?) Semenec (sn. 223 vpravo). Úmrtí 1. manželky Veroniky nehledáno.",
         "Před XI 1817 už nežil (křest vnučky Kateřiny: „nach dem † Georg“).",
-        "Ztotožnění: jediný ženich Jiří Semenec v indexu sňatků Zbečno 04; jméno manželky Veronika sedí se zápisem 1817."
+        "Ztotožnění: jediný ženich Jiří Semenec v indexu sňatků Zbečno 04; jméno manželky Veronika sedí se zápisem 1817.",
+        "Křest Jiřího, syna Jakuba Semence, není v rejstřících N Zbečno 02 (1715–1724) ani Zbečno 03 (1725–1748) (Praha N155, N167) → narozen jinde nebo zapsán pod jiným tvarem."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
@@ -11974,10 +11979,12 @@ window.RODOKMEN = {
       d: {"date":"před 13. 1. 1804","year":1804,"approx":true},
       occ: "sedlák ve Všechlapech (panství Loučeň)",
       notes: [
-        "Sedlák ze Všechlap (panství Loučeň); otec Anny, provdané Málkové – v křtech vnuček 1804 a 1806 „dcera po † Janovi Krebsovi (?), sedlákovi ze Všechlap“ (M; příjmení nejisté)."
+        "Sedlák ze Všechlap (panství Loučeň); otec Anny, provdané Málkové – v křtech vnuček 1804 a 1806 „dcera po † Janovi Krebsovi (?), sedlákovi ze Všechlap“ (M; příjmení nejisté).",
+        "KANDIDÁT matky (K): Jan Krebs, rychtář (judex) ve Všechlapech č. 4, × Anna – dcera Kateřina pokřtěna 3. 2. 1772 („Joannes Krebs Judex, Uxor Anna“, kmotři Kateřina, manželka Karla Tygry, a Václav Ota ze Všechlap; Nymburk 08 N sn. 40 vlevo; M pro zápis, ověřeno koordinátorem). Křest Anny v Nymburk 08 N IV 1768 – VII 1773 není (N163); ani v I 1767 – III 1768 a II–XII 1766 (N164); zbývá 1763–1765 a po 1773. V č. 4 se 1790 ženil Josef Krebs. Další dítě páru: Jiří 28. 3. 1767 („Georgius legitimus filius Joannis Krebs Coloni ex pago Wšechlap et Annae Conjugis“, kmotr Karel Tygra; Nymburk 08 N sn. 7 vpravo; čteno agentem). Jan Krebs rychtářem už VII 1767. Praha N165: další děti páru Václav 10. 5. 1763 (otec chalupník), Josef 18. 2. 1765, Pavel 28. 9. 1774 (vždy kmotr Karel Tygra; čteno agentem). Anna mezi dětmi páru II 1763 – XI 1776 NENÍ (mezery jen VII 1773 – VIII 1774 a části 1775–76) → Anna se buď narodila před IV 1763 (sňatek páru před 1763), nebo je dcerou jiného Jana Krebse; vazba slábne (K−). Praha N166: v Nymburk 07 N I 1761 – II 1763 Anna není; 27. 8. 1761 Kateřina, dcera Jana Kreysa/Krebse (?), sedláka ze Všechlap, × KATEŘINY (sn. 139 vlevo; čteno agentem); 1762 Kateřina, manželka Jakuba Kregsta (?) – snad dvě rodiny nebo 1. manželství Jana. Sňatek Jana × Anny v O IX 1761 – IV 1763 není."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (13539, N 1798–1864), oddíl Krchleby, pag. 21, snímek 14 (5. 11. 1806) a pag. 15, snímek 11 (13. 1. 1804); rejstřík Veleliby 13 sn. 22 – https://ebadatelna.soapraha.cz/d/13539/14"
+        "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (13539, N 1798–1864), oddíl Krchleby, pag. 21, snímek 14 (5. 11. 1806) a pag. 15, snímek 11 (13. 1. 1804); rejstřík Veleliby 13 sn. 22 – https://ebadatelna.soapraha.cz/d/13539/14",
+        "SOA Praha, fara Nymburk, Nymburk 08 (10407) N sn. 40 vlevo (3. 2. 1772) – https://ebadatelna.soapraha.cz/d/10407/40"
       ],
       scans: [
         {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest vnučky Kateřiny, Krchleby 1806"}
