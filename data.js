@@ -14976,13 +14976,15 @@ window.RODOKMEN = {
         "KANDIDÁT (K+): matka Jiřího Skleničky (*7. 8. 1713, Branov) – viz karta manžela.",
         "Vdova po Martinu Hornovi z Branova; 9. 2. 1709 se provdala za mládence Jiřího, syna Jiříka Skleničky z Branova (Zbečno 01 O sn. 395 vpravo; M pro zápis, ověřeno koordinátorem). Rodné příjmení v zápisu není – hledat sňatek s Martinem Hornem a jeho úmrtí (Zbečno 01, před II 1709).",
         "1. manžel: „Martin Horn mladší z Branova“ zemřel 28. 12. 1708 (Zbečno 01 Z sn. 487 vlevo; rok ze sledu nadpisů; věk neuveden; čteno agentem) – Ludmila se znovu vdala po šesti týdnech. 26. 1. 1709 zemřela jiná „Lydmilla Hornová z Branova“ (snad tchyně); 6. 3. 1703 zemřel Pavel Horn, starý soused branovský, 90 let (sn. 484 vpravo). Sňatek Martina Horna s Ludmilou není v Zbečno 01 O XI 1696 – II 1710 (Praha N206–N208).",
-        "KANDIDÁT původu (K): 9. 9. 1696 z Branova – „oddán jest poctivý mládenec Martin, vlastní syn Jana Horna z Branova, s poctivou pannou, vlastní dcerou Václava Marše z Roztok“ – křestní jméno nevěsty v zápisu chybí; svědek Václav Sklenička z Roztok (Zbečno 01 O sn. 367 vlevo/vpravo, pag. 391v–392; M pro zápis, ověřeno koordinátorem). Jediný sňatek Martina Horna v O XI 1692 – II 1710 → Ludmila byla nejspíš roz. Maršová z Roztok; potvrdit křty dětí Martina Horna × Ludmily (1697–1708)."
+        "Manželka Martina Horna mladšího doložena křtem dcery: 11. 10. 1703 z Branova „Martinovi Mladšímu Hornovi z Lydmilly manželky jeho … dcera … Marij Magdalena“; kmotra Marie Magdalena Šimanka (?), šafářka z Nezabudic, svědci Dorota Topinková a Jan Syka (?) z Nezabudic (Zbečno 01 N sn. 284 vpravo, pag. 309; M, ověřeno koordinátorem).",
+        "KANDIDÁT původu (K): 9. 9. 1696 z Branova – „oddán jest poctivý mládenec Martin, vlastní syn Jana Horna z Branova, s poctivou pannou, vlastní dcerou Václava Marše z Roztok“ – křestní jméno nevěsty v zápisu chybí; svědek Václav Sklenička z Roztok (Zbečno 01 O sn. 367 vlevo/vpravo, pag. 391v–392; M pro zápis, ověřeno koordinátorem). Jediný sňatek Martina Horna v O XI 1692 – II 1710 → Ludmila byla nejspíš roz. Maršová z Roztok; potvrdit křty dětí Martina Horna × Ludmily (1697–1708). Pozor: v Branově současně Martin Horn starší × Magdalena (děti Pavel 6. 4. 1704, Ludmila 30. 3. 1705; kmotra Ludmila Maršová, krčmářka z Branova) – nevěsta 1696 mohla být i Magdalena; nerozhodnuto (Praha N210)."
       ],
       sources: [
         "SOA Praha, fara Zbečno, Zbečno 01 (8790) O sn. 395 vpravo, pag. 420 (9. 2. 1709) – https://ebadatelna.soapraha.cz/d/8790/395",
         "SOA Praha, fara Zbečno, Zbečno 01 (8790) N sn. 462 vlevo (7. 8. 1713) – https://ebadatelna.soapraha.cz/d/8790/462",
         "SOA Praha, fara Zbečno, Zbečno 01 (8790) Z sn. 487 vlevo (28. 12. 1708) – https://ebadatelna.soapraha.cz/d/8790/487",
-        "SOA Praha, fara Zbečno, Zbečno 01 (8790) O sn. 367 (9. 9. 1696) – https://ebadatelna.soapraha.cz/d/8790/367"
+        "SOA Praha, fara Zbečno, Zbečno 01 (8790) O sn. 367 (9. 9. 1696) – https://ebadatelna.soapraha.cz/d/8790/367",
+        "SOA Praha, fara Zbečno, Zbečno 01 (8790) N sn. 284 vpravo (11. 10. 1703) – https://ebadatelna.soapraha.cz/d/8790/284"
       ],
       scans: [
         {"f":"img/1709_O_sklenicka_jiri_ludmila.jpg","t":"Sňatek 9. 2. 1709, Branov – Jiří, syn Jiříka Skleničky × Ludmila, vdova po Martinu Hornovi"},
