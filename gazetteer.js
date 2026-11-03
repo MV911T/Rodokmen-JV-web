@@ -65,6 +65,7 @@ window.RODOKMEN_GAZ = [
   { n: 'Heršpice', a: ['Heršpice'], lat: 49.118, lon: 16.914 },
   { n: 'Drozdov', a: ['Drozdov'], lat: 49.862, lon: 13.851 },
   { n: 'Hudlice', a: ['Hudlice'], lat: 49.962, lon: 13.970 },
+  { n: 'Otročiněves', a: ['Otročiněves', 'Otročiněvse'], lat: 49.979, lon: 13.956 },
   { n: 'Knížkovice', a: ['Knížkovice'], lat: 49.902, lon: 14.003 },
   { n: 'Křenovice (u Slavkova)', a: ['Křenovice'], lat: 49.142, lon: 16.776 },
   { n: 'Nová Huť (u Nižboru)', a: ['Nová Huť'], lat: 50.002, lon: 13.987 },

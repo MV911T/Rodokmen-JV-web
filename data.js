@@ -7952,20 +7952,25 @@ window.RODOKMEN = {
       name: "Josef Novák",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      b: {"date":"asi 1781 (25 let při sňatku 1806)","year":1781,"approx":true},
+      father: "lukas_nv",
       spouse: "marie_ma",
       occ: "domkář, vysokopecní tovaryš v Nové Huti č. 43",
+      marriage: "19. 1. 1806, Otročiněves (fara Hudlice) – s Marií, dcerou † Josefa Malého",
       notes: [
-        "Otec Marie Vlasákové; manželka Marie roz. Malá (křest vnuka Františka 1838)."
+        "Otec Marie Vlasákové; manželka Marie roz. Malá (křest vnuka Františka 1838).",
+        "Oddán 19. 1. 1806 v Otročiněvsi (fara Hudlice): „Jozef, syn po † Lukášovi Novákovi z Nové Hutě“, kat., 25 let, svobodný × „Marye, dcera po † Jozefovi Malým z Otročiněvse“, 18 let; oddával Jos. Janda (?); svědci František … (?) a Jan Zigmund (?) ze Stradonic (?) (Hudlice 10 O pag. 84, sn. 45 vlevo; M, ověřeno koordinátorem). Křestní jméno otce „Lukáš“ čteno s malou nejistotou."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 07 (N 1807–1822), fol. 1, snímek 3 – https://ebadatelna.soapraha.cz/d/9782/3",
-        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
+        "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45"
       ],
       scans: [
         {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"},
-        {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest dcery Marie Novákové, Nová Huť 30. 6. 1807"}
+        {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest dcery Marie Novákové, Nová Huť 30. 6. 1807"},
+        {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek 19. 1. 1806, Otročiněves (fara Hudlice) – Josef Novák z Nové Huti × Marie Malá"}
       ]
     },
     {
@@ -8051,17 +8056,21 @@ window.RODOKMEN = {
       maiden: "Malá",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      b: {"date":"asi 1785 (kandidátní křest 25. 7. 1785 – viz poznámky)","year":1785,"approx":true,"place":"Otročiněves č. 35 (?) (fara Hudlice)"},
+      father: "josef_ml",
       spouse: "josef_nv",
       notes: [
-        "Dcera † Josefa Malého, domkáře v Am… (?) č. 35 (Nový Jáchymov ?); matka Marie Vlasákové (*1807) a dalších dětí v Nové Huti (podle indexu 1809–1822)."
+        "Dcera † Josefa Malého, domkáře v Am… (?) č. 35 (Nový Jáchymov ?); matka Marie Vlasákové (*1807) a dalších dětí v Nové Huti (podle indexu 1809–1822).",
+        "Oddána 19. 1. 1806 v Otročiněvsi jako „Marye, dcera po † Jozefovi Malým z Otročiněvse“, 18 let (Hudlice 10 O pag. 84, sn. 45 vlevo; M, ověřeno koordinátorem) – „Am… č. 35“ (1807) a „z Woter…“ (1886) = Otročiněves. KANDIDÁT křtu (K, jen rejstřík): 25. 7. 1785 Malá Marie, otec Josef, Otročiněves č. 35 (rejstřík N Hudlice 14 sn. 23 vpravo, fol. 5 tom. I; ROZPOR věku 18 × 20). Sestra (?) Terezie *17. 11. 1789 č. 35. Dům Malých č. 35: 1823 sňatek Barbory, dcery Josefa Malého a Barbory roz. Rottové (jiná generace ?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 07 (N 1807–1822), fol. 1, snímek 3 – https://ebadatelna.soapraha.cz/d/9782/3",
-        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
+        "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45"
       ],
       scans: [
-        {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest Marie Novákové, Nová Huť 30. 6. 1807"}
+        {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest Marie Novákové, Nová Huť 30. 6. 1807"},
+        {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek 19. 1. 1806, Otročiněves (fara Hudlice) – Josef Novák z Nové Huti × Marie Malá"}
       ]
     },
     {
@@ -15044,6 +15053,43 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1709_O_sklenicka_jiri_ludmila.jpg","t":"Sňatek syna Jiřího 9. 2. 1709, Branov"}
+      ]
+    },
+    {
+      id: "lukas_nv",
+      name: "Lukáš Novák",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Nová Huť (fara Nižbor) (?)"},
+      alive: false,
+      notes: [
+        "Otec Josefa Nováka z Nové Huti – při jeho sňatku 19. 1. 1806 „syn po † Lukášovi Novákovi z Nové Hutě“ (Hudlice 10 O sn. 45 vlevo; M, jméno čteno s malou nejistotou). V r. 1806 už nežil. Křest syna Josefa (*~1781) hledat v Nižbor 02 (9777)."
+      ],
+      sources: [
+        "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45"
+      ],
+      scans: [
+        {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek syna Josefa 19. 1. 1806, Otročiněves"}
+      ]
+    },
+    {
+      id: "josef_ml",
+      name: "Josef Malý",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true,"place":"Otročiněves (fara Hudlice)"},
+      alive: false,
+      occ: "domkář v Otročiněvsi č. 35 (?)",
+      notes: [
+        "Otec Marie Novákové – při jejím sňatku 19. 1. 1806 „dcera po † Jozefovi Malým z Otročiněvse“ (Hudlice 10 O sn. 45 vlevo; M); při křtu vnučky 1807 „† Josef Malý, domkář v Am… (?) č. 35“. V r. 1806 už nežil. Děti podle rejstříku N Hudlice 14 (K): Marie 25. 7. 1785, Terezie 17. 11. 1789 (obě č. 35). Úmrtí hledat v Hudlice 01/12 Z."
+      ],
+      sources: [
+        "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45"
+      ],
+      scans: [
+        {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek dcery Marie 19. 1. 1806, Otročiněves"}
       ]
     }
   ]
