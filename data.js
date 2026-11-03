@@ -2436,7 +2436,8 @@ window.RODOKMEN = {
         "Ještě žil 8. 5. 1865 a 9. 10. 1866 (v zápisech o úmrtí vnoučat a dcery Františky uveden bez „†“ jako sedlák z Těchobuze č. 19; M); 12. 10. 1866 zemřel jeho syn Josef, sedlák z č. 19. V Z Těchobuz X 1864 – IV 1869 a v indexu Z 1855–1879 není. ROZPOR: křest vnuka v Pravoníně 1868 uvádí „† Jana Michala“ – zemřel asi 1866–68 mimo Těchobuz (hledat Pravonín, Mezilesí).",
         "V rejstříku Z fary Pravonín 1836–1871 (Pravonín 23, M) není (Praha 74).",
         "Ani ve faře Lukavec 1863–1891 (index 5390) není – jediní Janové Michalové jsou děti z Velké Vsi 1875 a 1879 (Třeboň 27).",
-        "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815."
+        "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815.",
+        "Úmrtí není ve faře Pravonín (kde 1868 žila dcera Antonie): index Z Pravonín 23 (1806–1871) bez Michala, Z Pravonín 12 obec Pravonín III 1866 – III 1869 bez něj (Praha N197)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
