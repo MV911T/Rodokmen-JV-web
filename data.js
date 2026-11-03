@@ -14965,10 +14965,10 @@ window.RODOKMEN = {
     {
       id: "ludmila_skl1",
       name: "Ludmila Skleničková",
-      maiden: "",
+      maiden: "Maršová (?)",
       line: "nezname",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1685)","year":1685,"place":"","approx":true},
+      b: {"date":"neznámé (odhad ~1685)","year":1685,"place":"Roztoky (?)","approx":true},
       spouse: "jiri_skl1",
       alive: false,
       marriage: "9. 2. 1709, Branov – 2. sňatek, s Jiřím Skleničkou; 1. manžel Martin Horn z Branova",
