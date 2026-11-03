@@ -12611,10 +12611,12 @@ window.RODOKMEN = {
         "KANDIDÁTKA (K+): matka Doroty Aubrechtové. Narozena 7. 11., pokřtěna 8. 11. 1728 ve Volduchách: „Kateřina, vlastní dcera Prokopa Hanzlíka a Barbory“ (Osek 02 N str. 8, sn. 6 vlevo; M zápis, jediná v rejstříku). Rodiče: Prokop Hanzlík × Barbora (sňatek nehledán).",
         "Podruhé oddána 29. 1. 1760 ve Volduchách: „Vojtěch, vlastní syn pozůstalý po † Danielovi Nuchovi, s poctivou vdovou Kateřinou pozůstalou po † Martinovi Čádovi“; družba Václav Kermes (Osek 04 O str. 1, sn. 66 vpravo; M) – dále Nuhová (Nuchová). Úmrtí nehledáno.",
         "Úmrtí jako Nuchová není v Osek 08 Z Volduchy 1778 – VI 1788 (bez mezer, D); zbývá 1772–77 a VII 1788 – 1808.",
-        "Rodiče: Prokop Hanzlík × 6. 11. 1725 Volduchy Barbora Forejtová (viz jejich karty). Sourozenci (Osek 02 N; M): Dorota 26. 5. 1731, Šimon 19. 11. 1733, Kašpar 6. 1. 1739 († 1741), Magdalena (~1741, † 24. 7. 1742)."
+        "Rodiče: Prokop Hanzlík × 6. 11. 1725 Volduchy Barbora Forejtová (viz jejich karty). Sourozenci (Osek 02 N; M): Dorota 26. 5. 1731, Šimon 19. 11. 1733, Kašpar 6. 1. 1739 († 1741), Magdalena (~1741, † 24. 7. 1742).",
+        "KANDIDÁT úmrtí (K): 13. 2. 1798 Volduchy č. 29 – „Catharina Nucha (?)“, 66 let (→ *~1732; podle křtu XI 1728 by měla 69 – ROZPOR věku), „gewöhnlich“, pohřbil P. Carl Gruber, kaplan; stav ani příbuzní neuvedeni; č. 29 = dům Šebestiána Nuchy (?) 1782 (Osek 08 Z, oddíl Volduchy, sn. 100 vlevo; ověřeno koordinátorem – první písmeno příjmení nejisté). Negativy: Osek 08 Z Volduchy III 1772 – IV 1777 a VI 1788 – I 1807 (jen přehledy) jiná Kateřina Nuchová není (Plzeň N83)."
       ],
       sources: [
-        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 8 (sn. 6 vlevo); Osek 03 O str. 45 (sn. 131 vpravo)"
+        "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan: Osek 02 N str. 8 (sn. 6 vlevo); Osek 03 O str. 45 (sn. 131 vpravo)",
+        "SOA Plzeň, fara Osek, Osek 08 (Z 1772–1820, id 30066674), Volduchy, sn. 100 vlevo (13. 2. 1798) – https://www.portafontium.eu/iipimage/30066674/osek-08_1000-z"
       ]
     },
     {
