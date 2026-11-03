@@ -5945,19 +5945,22 @@ window.RODOKMEN = {
         "Praha N121 (K): 30. 3. 1849 † Josefa, vdova po † Matěji Svobodovi, vysloužilém sousedu z Málkova, rozená Lautlová (?), 90 let, č. 57 (Borek 14 Z sn. 78 vlevo; M) – snad další manželka (*~1759), nebo jiný Matěj; není Josefa Krejčí.",
         "V září 1779 podruh (inquilinus) v Málkově č. 16, manželka Anna (křest syna Václava; Tmaň 02 N sn. 124 vlevo; M); v oddacím zápisu syna 1806 „sedlák v Málkově“. Rejstřík O Borek 04 (S) Svobodu nemá; Tmaň 02 O 1771–74 (sn. 192–193) stažena, nečtena.",
         "KANDIDÁT sňatku a rodičů (K+): 13. [II, 1774 – rok ze sledu, záhlaví nečitelné], Málkov č. 5 (oddával Martin Kinský): „honestus juvenis Mathias proprius filius Jacobi Swoboda rustici ex pago Malkov, subditus Dominio Tmanensi, cum sua virgine sponsa Anna propria filia matris Ludmillae Bundiana (?), nunc jam subdita Dominio Tmanensi“; na okraji „sponsa Koneprus“; svědci Jan Veselý, kovář málkovský, Václav Ježek z Málkova, Anna Svobodová, děvečka z Tmaně (Tmaň 02 O sn. 193 vpravo; M pro zápis, ověřeno koordinátorem; otec nevěsty neuveden – snad nemanželská). Jediný sňatek Matěje Svobody z Málkova v Tmaň 02 O 1771–1774; první dítě Anna 5. 8. 1774, Málkov č. 6 („Swoboda Mathias inquilinus Malkoviensis, Anna uxor“; kmotr Jiří Duchoň z Bykoše – týž jako u Václava 1779; Borek 04 N sn. 6 vpravo, čteno agentem). Otec tedy nejspíš Jakub Svoboda, sedlák v Málkově (č. 5); Vojtěch, syn Jakuba Svobody, × 1771 (Málkov 5) může být bratr. Matěj, syn Tomáše, × XI 1779 Barbora je jiný muž.",
-        "KANDIDÁT křtu (K+): „Z Malkowa. Dne 31 Januarij narozený a 2 Februarij pokřtěný syn Matěg z poctiwých rodičůw otce Jakuba Swobody, M: Kateřiny, poddaných do Tmaně“; kmotr Václav Cypro (?) z Bodaunie (?), svědci Václav Krejčí z Bykoše a Anna Kolářková (?) z Bykoše; křtil Filip Bílek (Borek 03 N sn. 13 vlevo, pag. 20, Anno 1751; rejstřík S sn. 254 vpravo – jediný Matěj Svoboda z Málkova 1748–1773; M pro zápis, ověřeno koordinátorem). Otec Jakub sedí na sňatek 1774; matka Kateřina – snad sňatek „Jakub Svoboda × Kateřina Mi…“ 1744 (Tmaň 02 O sn. 165 vlevo, nedočteno)."
+        "KANDIDÁT křtu (K+): „Z Malkowa. Dne 31 Januarij narozený a 2 Februarij pokřtěný syn Matěg z poctiwých rodičůw otce Jakuba Swobody, M: Kateřiny, poddaných do Tmaně“; kmotr Václav Cypro (?) z Bodaunie (?), svědci Václav Krejčí z Bykoše a Anna Kolářková (?) z Bykoše; křtil Filip Bílek (Borek 03 N sn. 13 vlevo, pag. 20, Anno 1751; rejstřík S sn. 254 vpravo – jediný Matěj Svoboda z Málkova 1748–1773; M pro zápis, ověřeno koordinátorem). Otec Jakub sedí na sňatek 1774; matka Kateřina – snad sňatek „Jakub Svoboda × Kateřina Mi…“ 1744 (Tmaň 02 O sn. 165 vlevo, nedočteno).",
+        "KANDIDÁTI rodičů (K+): sňatek 26. 7. 1744 v Tmani – „copulatus est Jacobus proprius filius defuncti Wenceslai Swoboda ex pago Malkov cum honesta Katharina propria filia Mathiae Mikesch (?) ex Tman“; řečník Jakub Haudek ze Želkovic, svědek František Wostaczky z Karlštejna; oddával Václav Moravec, administrátor tmaňský a borecký (Tmaň 02 O sn. 165 vlevo; M pro zápis, ověřeno koordinátorem). Další děti Jakuba × Kateřiny v Málkově (Borek 03 N, čteno agentem, stejní kmotři z Bykoše): Anna 4. 7. 1753 (sn. 24 vlevo), Kateřina X (?) 1755 (sn. 32 vlevo). Děd Václav Svoboda z Málkova † před VII 1744."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
         "SOA Praha, fara Tmaň, Tmaň 02 (10456) N, sn. 124 vlevo (22./23. 9. 1779) – https://ebadatelna.soapraha.cz/d/10456/124",
         "SOA Praha, fara Tmaň, Tmaň 02 (10456) O, sn. 193 vpravo (13. 2. 1774 ?); Borek 04 (4073) N sn. 6 vpravo (5. 8. 1774) – https://ebadatelna.soapraha.cz/d/10456/193",
-        "SOA Praha, fara Borek, Borek 03 (4072) N, sn. 13 vlevo, pag. 20 (31. 1. 1751) – https://ebadatelna.soapraha.cz/d/4072/13"
+        "SOA Praha, fara Borek, Borek 03 (4072) N, sn. 13 vlevo, pag. 20 (31. 1. 1751) – https://ebadatelna.soapraha.cz/d/4072/13",
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) O sn. 165 vlevo (26. 7. 1744), N sn. 32 vpravo (30. 1. 1746) – https://ebadatelna.soapraha.cz/d/10456/165"
       ],
       scans: [
         {"f":"img/1779_N_Svoboda_Vaclav_Malkov16.jpg","t":"Křest syna Václava, 23. 9. 1779, Málkov č. 16"},
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Václav Svoboda)"},
         {"f":"img/1774_O_Svoboda_Matej_Anna_Malkov5.jpg","t":"Kandidátní sňatek Matěje Svobody a Anny, 13. 2. 1774 (?), Málkov"},
-        {"f":"img/1751_N_Svoboda_Matej_Malkov.jpg","t":"Kandidátní křest 2. 2. 1751, Málkov – otec Jakub Svoboda, matka Kateřina"}
+        {"f":"img/1751_N_Svoboda_Matej_Malkov.jpg","t":"Kandidátní křest 2. 2. 1751, Málkov – otec Jakub Svoboda, matka Kateřina"},
+        {"f":"img/1744_O_Svoboda_Jakub_Mikesova_Katerina_Tman.jpg","t":"Kandidátní sňatek rodičů Jakuba Svobody a Kateřiny Mikešové (?), 26. 7. 1744, Tmaň"}
       ]
     },
     {
@@ -5970,17 +5973,20 @@ window.RODOKMEN = {
       notes: [
         "Matka Václava Svobody (*~1781); rodné příjmení neuvedeno.",
         "KANDIDÁT sňatku a původu (K+): 13. [II, 1774 – rok ze sledu, záhlaví nečitelné], Málkov č. 5 (oddával Martin Kinský): „honestus juvenis Mathias proprius filius Jacobi Swoboda rustici ex pago Malkov, subditus Dominio Tmanensi, cum sua virgine sponsa Anna propria filia matris Ludmillae Bundiana (?), nunc jam subdita Dominio Tmanensi“; na okraji „sponsa Koneprus“; svědci Jan Veselý, kovář málkovský, Václav Ježek z Málkova, Anna Svobodová, děvečka z Tmaně (Tmaň 02 O sn. 193 vpravo; M pro zápis, ověřeno koordinátorem; otec nevěsty neuveden – snad nemanželská). Rodem tedy z Koněprus, dcera Ludmily Bundové (?); v Suchomastech 1775 kmotr Václav Bunda, podruh.",
-        "Křest Anny, dcery Ludmily Bundové (?), Koněprusy, nenalezen (Tmaň 02 N 1751–1754 jen sloupec obce; rejstřík N Borek 03 B bez Bundy). Anna Bundiana z Koněprus svědkyní 21. 8. 1752 (Tmaň 02 N sn. 43 vlevo; čteno agentem)."
+        "Křest Anny, dcery Ludmily Bundové (?), Koněprusy, nenalezen (Tmaň 02 N 1751–1754 jen sloupec obce; rejstřík N Borek 03 B bez Bundy). Anna Bundiana z Koněprus svědkyní 21. 8. 1752 (Tmaň 02 N sn. 43 vlevo; čteno agentem).",
+        "KANDIDÁT křtu (K, jméno dítěte nejisté): 30. 1. 1746 Koněprusy – „Nata [Zanna / Joanna / Anna ?] … z poctivých rodičů poddaných ke Královskému Dvoru, otce Jana Bundy, matky Lidmily; L: Eva Mayslová (?) z Koněprus; T: Václav Forger (?), Kateřina Kavičková“ (Tmaň 02 N sn. 32 vpravo; M pro zápis, ověřeno koordinátorem). Matka Lidmila sedí na „filia matris Ludmillae Bundiana“ (1774; otec tehdy zřejmě †). Další děti Jana Bundy × Ludmily: Jakub ~1750 (sn. 38 vlevo). Jiná Anna Bundová v Tmaň 02 N 1744–1752 (Koněprusy) nenalezena."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
         "SOA Praha, fara Tmaň, Tmaň 02 (10456) N, sn. 124 vlevo (22./23. 9. 1779) – https://ebadatelna.soapraha.cz/d/10456/124",
-        "SOA Praha, fara Tmaň, Tmaň 02 (10456) O, sn. 193 vpravo (13. 2. 1774 ?); Borek 04 (4073) N sn. 6 vpravo (5. 8. 1774) – https://ebadatelna.soapraha.cz/d/10456/193"
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) O, sn. 193 vpravo (13. 2. 1774 ?); Borek 04 (4073) N sn. 6 vpravo (5. 8. 1774) – https://ebadatelna.soapraha.cz/d/10456/193",
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) O sn. 165 vlevo (26. 7. 1744), N sn. 32 vpravo (30. 1. 1746) – https://ebadatelna.soapraha.cz/d/10456/165"
       ],
       scans: [
         {"f":"img/1779_N_Svoboda_Vaclav_Malkov16.jpg","t":"Křest syna Václava, 23. 9. 1779, Málkov č. 16"},
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Václav Svoboda)"},
-        {"f":"img/1774_O_Svoboda_Matej_Anna_Malkov5.jpg","t":"Kandidátní sňatek Matěje Svobody a Anny, 13. 2. 1774 (?), Málkov"}
+        {"f":"img/1774_O_Svoboda_Matej_Anna_Malkov5.jpg","t":"Kandidátní sňatek Matěje Svobody a Anny, 13. 2. 1774 (?), Málkov"},
+        {"f":"img/1746_N_Bundova_Anna_Konepruse.jpg","t":"Kandidátní křest 30. 1. 1746, Koněprusy – otec Jan Bunda, matka Lidmila (jméno dítěte nejisté)"}
       ]
     },
     {
