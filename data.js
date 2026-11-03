@@ -8958,19 +8958,21 @@ window.RODOKMEN = {
         "Zemřel 14. 12. 1798 ve Zbečně č. 6: „Georgius Semenetz, Bauer“, 79 let (→ *~1719), vodnatelnost; pohřbil P. Jan Radnický (Zbečno 16 (8861) Z pag. 23, sn. 13 vpravo; rejstřík S sn. 195 vpravo; M, ověřeno koordinátorem).",
         "Ztotožnění: jediný ženich Jiří Semenec v indexu sňatků Zbečno 04; jméno manželky Veronika sedí se zápisem 1817.",
         "Křest Jiřího, syna Jakuba Semence, není v rejstřících N Zbečno 02 (1715–1724) ani Zbečno 03 (1725–1748) (Praha N155, N167) → narozen jinde nebo zapsán pod jiným tvarem.",
-        "KANDIDÁTI rodičů (K): sňatek 21. 11. [1717, rok ze sledu – další strana „Anno 1718“] ve Zbečně: „poctivý mládenec Jakub Semenec ze Zbečna s poctivou dívečkou Magdalenou, vlastní dcerou Václava Dvořáka (?) z Lažic (?)“ (Zbečno 02 O fol. 93, sn. 96 vpravo; rejstřík O S – jediný sňatek Jakuba Semence 1715–1724; čteno agentem). Křest Jiřího (~1718–1720) v rejstříku N Zbečno 02 není (rejstřík neúplný?) – listovat Zbečno 02 N od XI 1718. „Semenec Jan Václav 8 / Kašpar 14“ v rejstříku N = Šprynger (chybné čtení, N190)."
+        "KANDIDÁTI rodičů (K): sňatek 21. 11. [1717, rok ze sledu – další strana „Anno 1718“] ve Zbečně: „poctivý mládenec Jakub Semenec ze Zbečna s poctivou dívečkou Magdalenou, vlastní dcerou Václava Dvořáka (?) z Lažic (?)“ (Zbečno 02 O fol. 93, sn. 96 vpravo; rejstřík O S – jediný sňatek Jakuba Semence 1715–1724; čteno agentem). Křest Jiřího není ani při listování Zbečno 02 N 6. 10. 1717 – 5. 8. 1722 (sn. 37–79; Praha N192–N194). Pár Jakub × Magdalena ze Zbečna tam má dceru Lidmilu, pokřtěnou 18. 9. 1718: „z Jakuba Semenicze (?) z Mandaleny manželky jeho“; kmotři Anna Hermanová (?) ze Sýkořic, Anna Kučerová z Lažic, Jakub Haudek (?) z Újezdce (sn. 46 vlevo, fol. 42v; čtení příjmení nejisté). Jakub Semenec ze Zbečna je kmotrem 27. 4. 1718, 1. 4. 1720 a (?) 8. 12. 1721; Semencové žili i v Sýkořicích (Václav, Kateřina 1718). Jiří se mohl narodit až po VIII 1722 (věk 79 při úmrtí nadsazen). „Semenec Jan Václav 8 / Kašpar 14“ v rejstříku N = Šprynger (chybné čtení, N190)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), O pag. 37, snímek 338 – https://ebadatelna.soapraha.cz/d/8849/338",
         "SOA Praha, fara Zbečno, Zbečno 03 (8794) O, sn. 224 vlevo, fol. 220v; rejstřík O sn. 423 vlevo – https://ebadatelna.soapraha.cz/d/8794/224",
-        "SOA Praha, fara Zbečno, Zbečno 16 (8861) Z pag. 23–24, sn. 13–14 (XII 1798); Zbečno 02 (8792) O fol. 93, sn. 96 – https://ebadatelna.soapraha.cz/d/8861/13"
+        "SOA Praha, fara Zbečno, Zbečno 16 (8861) Z pag. 23–24, sn. 13–14 (XII 1798); Zbečno 02 (8792) O fol. 93, sn. 96 – https://ebadatelna.soapraha.cz/d/8861/13",
+        "SOA Praha, fara Zbečno, Zbečno 02 (8792) N sn. 46 vlevo, fol. 42v (18. 9. 1718, křest Lidmily) – https://ebadatelna.soapraha.cz/d/8792/46"
       ],
       scans: [
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
         {"f":"img/1763_O_Semenec_Jiri_Veronika.jpg","t":"Sňatek Jiřího Semence (vdovce) s Veronikou, dcerou Jana Matějovice (?), 25. 7. 1763"},
         {"f":"img/174x_O_Semenec_Jiri_Veronika_Zbecno03_sn224L.jpg","t":"První sňatek s Veronikou, dcerou Matěje Černého (?), 12. 11. ~1747/48, Zbečno (2. zápis)"},
-        {"f":"img/1798_Z_Semenec_Jiri_Zbecno6.jpg","t":"Úmrtí 14. 12. 1798, Zbečno č. 6"}
+        {"f":"img/1798_Z_Semenec_Jiri_Zbecno6.jpg","t":"Úmrtí 14. 12. 1798, Zbečno č. 6"},
+        {"f":"img/1718_krest_lidmila_semenec.jpg","t":"Křest Lidmily, dcery Jakuba Semence (?) a Magdaleny, 18. 9. 1718, Zbečno (sestra ?)"}
       ]
     },
     {
