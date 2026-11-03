@@ -8947,25 +8947,30 @@ window.RODOKMEN = {
       name: "Jiří Semenec",
       line: "semenec",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1722, sňatek ~1747/48)","year":1722,"approx":true},
+      b: {"date":"asi 1719 (79 let při úmrtí)","year":1719,"approx":true},
+      d: {"date":"14. 12. 1798","year":1798,"place":"Zbečno č. p. 6"},
+      cause: "vodnatelnost (Wassersucht)",
       spouse: "veronika_se",
       marriage: "25. 7. 1763 (fara Zbečno, kostel sv. Jakuba) – s Veronikou Matějovicovou (?) (2. sňatek)",
       notes: [
         "Sedlák ve Zbečně č. 6. Oddán 25. 7. 1763 jako „honestus viduus Georgius Semenec oriundus ex pago Zbečna“ s pannou Veronikou, dcerou Jana Matějovice (?) z Městečka, poddanou panství Křivoklát; svědci Jan Tichý z Městečka a Matěj Šípek (?), kovář ze Zbečna. Byl tedy podruhé ženatý; syn František (*~1766) je z 2. manželství.",
         "První sňatek: 12. 11. [cca 1747–1748, rok podle polohy v knize nepřečten] ve Zbečně – „honestus sponsus Georgius filius Jacobi Semenec cum honesta sponsa Veronica filia Mathiae Czerny (?) Hustowicio (?)“; svědci Matěj Kaubek (?) ze Sýkořic, Václav Mareš z Městečka, Jan Dvořák ze Zbečna; oddával Leopold Kamenický (?) (Zbečno 03 O sn. 224 vlevo, fol. 220v; rejstřík O S 1725–48 „Semenců Gjřj 220“ – jediný Semenec-ženich; M, ověřeno koordinátorem). Otec tedy Jakub Semenec (K+: týž Jiří jako vdovec 1763 – jméno, fara, jediný ženich toho jména). V 1747/48 svědek Jakub (?) Semenec (sn. 223 vpravo). Úmrtí 1. manželky Veroniky nehledáno.",
-        "Před XI 1817 už nežil (křest vnučky Kateřiny: „nach dem † Georg“).",
+        "Zemřel 14. 12. 1798 ve Zbečně č. 6: „Georgius Semenetz, Bauer“, 79 let (→ *~1719), vodnatelnost; pohřbil P. Jan Radnický (Zbečno 16 (8861) Z pag. 23, sn. 13 vpravo; rejstřík S sn. 195 vpravo; M, ověřeno koordinátorem).",
         "Ztotožnění: jediný ženich Jiří Semenec v indexu sňatků Zbečno 04; jméno manželky Veronika sedí se zápisem 1817.",
-        "Křest Jiřího, syna Jakuba Semence, není v rejstřících N Zbečno 02 (1715–1724) ani Zbečno 03 (1725–1748) (Praha N155, N167) → narozen jinde nebo zapsán pod jiným tvarem."
+        "Křest Jiřího, syna Jakuba Semence, není v rejstřících N Zbečno 02 (1715–1724) ani Zbečno 03 (1725–1748) (Praha N155, N167) → narozen jinde nebo zapsán pod jiným tvarem.",
+        "KANDIDÁTI rodičů (K): sňatek 21. 11. [1717, rok ze sledu – další strana „Anno 1718“] ve Zbečně: „poctivý mládenec Jakub Semenec ze Zbečna s poctivou dívečkou Magdalenou, vlastní dcerou Václava Dvořáka (?) z Lažic (?)“ (Zbečno 02 O fol. 93, sn. 96 vpravo; rejstřík O S – jediný sňatek Jakuba Semence 1715–1724; čteno agentem). Křest Jiřího (~1718–1720) v rejstříku N Zbečno 02 není (rejstřík neúplný?) – listovat Zbečno 02 N od XI 1718. „Semenec Jan Václav 8 / Kašpar 14“ v rejstříku N = Šprynger (chybné čtení, N190)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), O pag. 37, snímek 338 – https://ebadatelna.soapraha.cz/d/8849/338",
-        "SOA Praha, fara Zbečno, Zbečno 03 (8794) O, sn. 224 vlevo, fol. 220v; rejstřík O sn. 423 vlevo – https://ebadatelna.soapraha.cz/d/8794/224"
+        "SOA Praha, fara Zbečno, Zbečno 03 (8794) O, sn. 224 vlevo, fol. 220v; rejstřík O sn. 423 vlevo – https://ebadatelna.soapraha.cz/d/8794/224",
+        "SOA Praha, fara Zbečno, Zbečno 16 (8861) Z pag. 23–24, sn. 13–14 (XII 1798); Zbečno 02 (8792) O fol. 93, sn. 96 – https://ebadatelna.soapraha.cz/d/8861/13"
       ],
       scans: [
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
         {"f":"img/1763_O_Semenec_Jiri_Veronika.jpg","t":"Sňatek Jiřího Semence (vdovce) s Veronikou, dcerou Jana Matějovice (?), 25. 7. 1763"},
-        {"f":"img/174x_O_Semenec_Jiri_Veronika_Zbecno03_sn224L.jpg","t":"První sňatek s Veronikou, dcerou Matěje Černého (?), 12. 11. ~1747/48, Zbečno (2. zápis)"}
+        {"f":"img/174x_O_Semenec_Jiri_Veronika_Zbecno03_sn224L.jpg","t":"První sňatek s Veronikou, dcerou Matěje Černého (?), 12. 11. ~1747/48, Zbečno (2. zápis)"},
+        {"f":"img/1798_Z_Semenec_Jiri_Zbecno6.jpg","t":"Úmrtí 14. 12. 1798, Zbečno č. 6"}
       ]
     },
     {
@@ -8974,19 +8979,24 @@ window.RODOKMEN = {
       maiden: "Matějovicová (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1742)","year":1742,"approx":true},
+      b: {"date":"asi 1726 (72 let při úmrtí)","year":1726,"approx":true},
+      d: {"date":"28. 12. 1798","year":1798,"place":"Zbečno č. p. 6"},
+      cause: "vodnatelnost (Wassersucht)",
       spouse: "jiri_se",
       marriage: "25. 7. 1763 – s Jiřím Semencem",
       notes: [
-        "Dcera Jana Matějovice (?) z Městečka (panství Křivoklát); 25. 7. 1763 se provdala za vdovce Jiřího Semence ze Zbečna. Matka Františka Semence (*~1766)."
+        "Dcera Jana Matějovice (?) z Městečka (panství Křivoklát); 25. 7. 1763 se provdala za vdovce Jiřího Semence ze Zbečna. Matka Františka Semence (*~1766).",
+        "Zemřela 28. 12. 1798 ve Zbečně č. 6, dva týdny po manželovi: „Veronica, Eheweib nach † Georg Semenetz, Bauern“, 72 let (→ *~1726), vodnatelnost (Zbečno 16 Z pag. 24, sn. 14 vlevo; M, ověřeno koordinátorem). Při sňatku 1763 tedy ~37 let, při narození syna Františka (~1766) ~40."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), O pag. 37, snímek 338 – https://ebadatelna.soapraha.cz/d/8849/338"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), O pag. 37, snímek 338 – https://ebadatelna.soapraha.cz/d/8849/338",
+        "SOA Praha, fara Zbečno, Zbečno 16 (8861) Z pag. 24, sn. 14 vlevo (28. 12. 1798) – https://ebadatelna.soapraha.cz/d/8861/14"
       ],
       scans: [
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
-        {"f":"img/1763_O_Semenec_Jiri_Veronika.jpg","t":"Sňatek Jiřího Semence (vdovce) s Veronikou, dcerou Jana Matějovice (?), 25. 7. 1763"}
+        {"f":"img/1763_O_Semenec_Jiri_Veronika.jpg","t":"Sňatek Jiřího Semence (vdovce) s Veronikou, dcerou Jana Matějovice (?), 25. 7. 1763"},
+        {"f":"img/1798_Z_Semencova_Veronika_Zbecno6.jpg","t":"Úmrtí 28. 12. 1798, Zbečno č. 6"}
       ]
     },
     {
