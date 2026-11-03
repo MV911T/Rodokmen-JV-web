@@ -994,9 +994,9 @@ window.RODOKMEN = {
         "Syn Karla Čapka, domkáře v Rabakově č. 19 (okr. Sobotka), a Marie, dcery Václava Oty, sedláka v Krchlebích č. 53 (okr. Nymburk). Příslušný do Jeseníka (?).",
         "Později bydlel s manželkou v Komořanech u Mostu (dopis vnuka).",
         "Sňatek 14. 9. 1897 v Mladé Boleslavi (byt čp. 126-I): dělník v Ml. Boleslavi, rodem z Rabakova, příslušný do Jeseníka (?); křestní list z fary Řitonice (23. 8. 1897). Svědci František Horyna (?), topič plynárny, a Josef Kříček (?), truhlář.",
-        "KANDIDÁT – sourozenci podle rejstříku křtů Řitonice (zápisy nečteny): Marie 1862, Václav 1865, Antonín 1867, Anna 1871, všichni z Rabakova.",
         "Úmrtí není v rejstřících Z Mladá Boleslav 1892–1924 (knihy 68, 79, 80, 81, 82; jiní Josefové Čapkové 1906, 1914) – podle rodiny žil později v Komořanech u Mostu.",
-        "Úmrtí není online: v rejstříku civilní Z okresního úřadu Most 1924–1935 (C18/7, C/Č) není; Z Souš/Komořany 1881–1949 nedigitalizováno (Litoměřice 20) – jen žádostí."
+        "Úmrtí není online: v rejstříku civilní Z okresního úřadu Most 1924–1935 (C18/7, C/Č) není; Z Souš/Komořany 1881–1949 nedigitalizováno (Litoměřice 20) – jen žádostí.",
+        "KANDIDÁT – sourozenci podle rejstříku křtů Řitonice (zápisy nečteny): Marie 1862, Václav 1865, Antonín 1867, Anna 1871, všichni z Rabakova."
       ],
       sources: [
         "Rodný list Václava Votavy (*1933), MNV Most (vydán 17. 7. 1956)",
@@ -1456,8 +1456,8 @@ window.RODOKMEN = {
         "Narozen 2. 11., pokřtěn 3. 11. 1829 v Hrubém Jeseníku č. 48 („Carolus Borrom.“); otec Jan Čapek, familiant; matka Marie, dcera † Karla Čapka, chalupníka z Jeseníka č. 30. Kmotři Václav Dubský (?), chalupník č. 35, a Jan Borovička z č. 44.",
         "Oddán 3. 3. 1851 v Hrubém Jeseníku (č. 74) jako familiant v Jeseníku č. 70, 21 let; souhlas dal otec Jan Čapek, výměnkář. Po dispenzu podkrajského úřadu v Nymburce jen jedna ohláška.",
         "Později domkář v Rabakově č. 19 (okres Sobotka), kde se mu 1874 narodil syn Josef.",
-        "KANDIDÁT – děti podle rejstříku křtů Řitonice (nečteno): Marie 1862, Václav 1865, Antonín 1867, Anna 1871.",
-        "V dubnu 1890 dělník v Hrubém Jeseníku č. 46 (úmrtí manželky Marie, M). Zemřel 7. 4. 1897 v Mladé Boleslavi – Podolci č. 148 (pohřben 9. 4., kaplan F. Matějka ?): „Karel Čapek, vdovec, dělník zde, narozen v Jeseníku r. 1830“, 66 let, mozková mrtvice (M; ztotožnění D – vdovec, dělník, rodiště Jeseník, věk ±1 rok; v Ml. Boleslavi se 1897 ženil syn Josef). ROZPOR: oddací zápis syna 14. 9. 1897 ho uvádí jako domkáře v Rabakově bez „†“ – údaj převzat z křtu 1874."
+        "V dubnu 1890 dělník v Hrubém Jeseníku č. 46 (úmrtí manželky Marie, M). Zemřel 7. 4. 1897 v Mladé Boleslavi – Podolci č. 148 (pohřben 9. 4., kaplan F. Matějka ?): „Karel Čapek, vdovec, dělník zde, narozen v Jeseníku r. 1830“, 66 let, mozková mrtvice (M; ztotožnění D – vdovec, dělník, rodiště Jeseník, věk ±1 rok; v Ml. Boleslavi se 1897 ženil syn Josef). ROZPOR: oddací zápis syna 14. 9. 1897 ho uvádí jako domkáře v Rabakově bez „†“ – údaj převzat z křtu 1874.",
+        "KANDIDÁT – děti podle rejstříku křtů Řitonice (nečteno): Marie 1862, Václav 1865, Antonín 1867, Anna 1871."
       ],
       sources: [
         "Křestní list Jany Čapkové, děkanský úřad Mladá Boleslav (9. 4. 1924) – dle křestní matriky Ml. Boleslav od r. 1903, fol. 134",
@@ -1864,7 +1864,9 @@ window.RODOKMEN = {
         {"f":"img/1822_krest_antonie_divisova_cernin_a.jpg","t":"Křest dcery Antonie Divišové, Černín 1822"},
         {"f":"img/1822_krest_antonie_divisova_cernin_b.jpg","t":"Křest dcery Antonie Divišové 1822 – rodiče, kmotři"},
         {"f":"img/1834_Z_Divis_Matej_Cernin7.jpg","t":"Úmrtí 12. 2. 1834, Černín č. 7"},
-        {"f":"img/1863_Z_Divisova_Josefa_Cernin7.jpg","t":"Úmrtí vdovy Josefy, Černín 1863"}
+        {"f":"img/1863_Z_Divisova_Josefa_Cernin7.jpg","t":"Úmrtí vdovy Josefy, Černín 1863"},
+        {"f":"img/1819_krest_josef_divis_cernin_a.jpg","t":"Křest syna Josefa, Černín 1819 – datum, dům"},
+        {"f":"img/1819_krest_josef_divis_cernin_b.jpg","t":"Křest syna Josefa, Černín 1819 – rodiče, kmotři"}
       ]
     },
     {
@@ -1903,7 +1905,9 @@ window.RODOKMEN = {
         {"f":"img/1822_krest_antonie_divisova_cernin_b.jpg","t":"Křest dcery Antonie Divišové 1822 – rodiče, kmotři"},
         {"f":"img/1817_Z_Merhaut_Dominik_Zdice.jpg","t":"Úmrtí otce Dominika Merhauta, Zdice 1817"},
         {"f":"img/1819_Z_Merhautova_Anna_Zdice.jpg","t":"Úmrtí matky Anny Merhautové, Zdice 1819"},
-        {"f":"img/1863_Z_Divisova_Josefa_Cernin7.jpg","t":"Úmrtí 24. 8. 1863, Černín č. 7"}
+        {"f":"img/1863_Z_Divisova_Josefa_Cernin7.jpg","t":"Úmrtí 24. 8. 1863, Černín č. 7"},
+        {"f":"img/1819_krest_josef_divis_cernin_a.jpg","t":"Křest syna Josefa, Černín 1819 – datum, dům"},
+        {"f":"img/1819_krest_josef_divis_cernin_b.jpg","t":"Křest syna Josefa, Černín 1819 – rodiče, kmotři"}
       ]
     },
     {
@@ -2387,8 +2391,8 @@ window.RODOKMEN = {
         "Synové Vojtěch (1816) a Matěj (1819) pokřtěni v Jetřichovci č. 10 (fara Pacov) – v zápisech „Kateřina roz. Matěje Flemrowa (?) z Tučap“.",
         "Zemřela 17. 8. 1841 v Těchobuzi č. 36 ve 46 letech, pohřbena ve Zhoři.",
         "Vdova Kateřina Votavová, která zemřela 1. 10. 1866, je druhá manželka Jana Votavy (Kateřina Kočová), ne Štěpánova matka – rozpor vyřešen.",
-        "KANDIDÁT původu: Velká Chyška (fara, okr. Pelhřimov, 6 km od Pacova) – listopad 1791 tam č. 45 sňatek Matěje Hamra (?), 23 let, a Kateřiny Křížové (?), 20 let (kniha 8195, sn. 4); příjmení otce lze v zápisu 1834 číst „Hamra“ i „Flemra“. Neověřeno (čísla domů nesedí).",
-        "ROZPOR: zápis 1834 uvádí matku jako „Kateřinu, dceru Vojtěcha Kříže z Chýšky č. 18“ – platí křest 1793 (matka Kateřina, dcera Petra Lippa (?)). Nevlastní sourozenci Jan (*1791) a Veronika (*~1796)."
+        "ROZPOR: zápis 1834 uvádí matku jako „Kateřinu, dceru Vojtěcha Kříže z Chýšky č. 18“ – platí křest 1793 (matka Kateřina, dcera Petra Lippa (?)). Nevlastní sourozenci Jan (*1791) a Veronika (*~1796).",
+        "KANDIDÁT původu: Velká Chyška (fara, okr. Pelhřimov, 6 km od Pacova) – listopad 1791 tam č. 45 sňatek Matěje Hamra (?), 23 let, a Kateřiny Křížové (?), 20 let (kniha 8195, sn. 4); příjmení otce lze v zápisu 1834 číst „Hamra“ i „Flemra“. Neověřeno (čísla domů nesedí)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2429,10 +2433,10 @@ window.RODOKMEN = {
         "Grunt č. 19 koupil od otce Vojtěcha smlouvou z 13. 1. 1825 (zapsáno 15. 1.) „s nastávající manželkou Marií, ovdovělou Kazazelkovou (?)“ za 2000 zl. v. m.; oddací zápis 7. 2. 1825: „Maria pozůstalá wdowa po † Tomáši Dorpelda (?), chalupníku z Těchobuz No 22, dcera † Pawla Kr… (?) z Těchobuz No 28 a Johanny roz. Pojwar… (?), 32 let“ – příjmení 1. manžela nejisté (ROZPOR čtení). Grunt později přešel na dceru Antonii (pozemková kniha Lit. II fol. 51).",
         "Dvakrát ženatý: 7. 2. 1825 v Těchobuzi s Marií, vdovou po chalupníkovi z č. 22 (*~1785–1792, † 1. 9. 1835 v Těchobuzi č. 19); podruhé jako vdovec 10. 11. 1835 v Mezilesí č. 2 s Marií Karafiátovou (22 let) – matkou Antonie (*16. 12. 1836). Svědci Josef Hrň… (?), mlynář z Hojna (?), a Václav Šim… (?) z Lukavce (?). Rozpor vyřešen.",
         "Rodné příjmení matky Kateřiny se v zápisech liší: 1825 „Vrz…/Voz… (?)“, 1835 „Kroužilová (?)“.",
-        "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815.",
         "Ještě žil 8. 5. 1865 a 9. 10. 1866 (v zápisech o úmrtí vnoučat a dcery Františky uveden bez „†“ jako sedlák z Těchobuze č. 19; M); 12. 10. 1866 zemřel jeho syn Josef, sedlák z č. 19. V Z Těchobuz X 1864 – IV 1869 a v indexu Z 1855–1879 není. ROZPOR: křest vnuka v Pravoníně 1868 uvádí „† Jana Michala“ – zemřel asi 1866–68 mimo Těchobuz (hledat Pravonín, Mezilesí).",
         "V rejstříku Z fary Pravonín 1836–1871 (Pravonín 23, M) není (Praha 74).",
-        "Ani ve faře Lukavec 1863–1891 (index 5390) není – jediní Janové Michalové jsou děti z Velké Vsi 1875 a 1879 (Třeboň 27)."
+        "Ani ve faře Lukavec 1863–1891 (index 5390) není – jediní Janové Michalové jsou děti z Velké Vsi 1875 a 1879 (Třeboň 27).",
+        "KANDIDÁTI – sourozenci podle indexu narozených Těchobuz (nečteno): František 1800, Antonie 1805, Anna 1808, Vojtěch 1810, Marie 1813, Vojtěch 1815."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2467,11 +2471,11 @@ window.RODOKMEN = {
       marriage: "10. 11. 1835, Mezilesí – s Janem Michalem (vdovcem)",
       notes: [
         "Dcera Václava Karafiáta, šenkýře z Mezilesí č. 2, a Ludmily; při sňatku 1835 22 let. Rodné příjmení matky Ludmily: 1835 „Šimonová (?)“, 1836 „Lhotková (?)“ – ROZPOR / nejisté čtení.",
-        "KANDIDÁT / ROZPOR: v indexu narozených Mezilesí 1808–1816 není manželská Marie Václava a Ludmily Karafiátových; jsou tam dvě nemanželské Marie Karafiátové – *5. 10. 1809 (č. 2) a *8. 8. 1813 (č. 34), obě dcery Alžběty, dcery Šimona Karafiáta, šenkýře z Mezilesí (Lukavec 5370 pag. 49; 5371 fol. 3). Nevěsta 1835 (22 let) může být Marie *1813 – nebo se narodila po 1816. Nerozhodnuto.",
-        "KANDIDÁT: manželská Marie Václava a Ludmily se narodila až 1825 (v roce 1835 by jí bylo 10) – nevěstou Jana Michala 1835 je tedy nejspíš Marie *8. 8. 1813 (Mezilesí č. 34), nemanželská dcera Alžběty Karafiátové, dcery šenkýře Šimona Karafiáta. Zápis 1835 jako otce uvádí Václava Karafiáta – možná nevlastní otec nebo strýc.",
         "Třeboň N19: nemanželská Marie *5. 10. 1809 (dcera Alžběty Karafiátové) zemřela 12. 2. 1810, ¼ roku (Z Lukavec 5381 sn. 131 vlevo, pag. 16; M) → jako nevěsta 1835 zbývá jen Marie nar. 8. 8. 1813 (č. 34, nemanž. dcera Alžběty) nebo dosud nenalezená manželská Marie Václava × Ludmily 1811–1813 (N 5370 sn. 31–33, 5371 sn. 3 nepřečteny – blokace). Sestra Magdalena, dcera Václava × Ludmily, pokřtěna 25. 3. 1811 (5370 sn. 30 vpravo; M). Strukturu (otec Václav × Ludmila) zatím ponechávám – podle sňatku 1835 a křtu dcery 1836.",
         "ROZPOR (Třeboň N20, k rozhodnutí uživatelem): manželská Marie Václava × Ludmily v N Lukavec IV 1811 – X 1812 a IV–VIII 1813 není (5370 sn. 31–36, 5371 sn. 3; nečtena jen XI 1812 – III 1813). Nevěstě 1835 bylo 22 let – sedí jen na Marii nar. 8. 8. 1813, Mezilesí 34, nemanž. dceru Alžběty, dcery šenkýře Šimona Karafiáta (5371 sn. 3, pag. 3; M; bez přípisu legitimace). Oddací 1835 znovu čten: „dcera Václava Karafiáta, šenkýře z Mezilesí No 2, z matky Ludmily rozené Šimonové (?)“ – „Šimonová“ může znamenat „dcera Šimona“ (tj. Alžběta). Strukturu ponechávám (Václav × Ludmila) do rozhodnutí.",
-        "Třeboň N21: N Lukavec VIII 1810 – VIII 1813 přečten souvisle – manželská Marie Václava × Ludmily není (M-negativ). Matka nemanž. Marie *1813, Alžběta, dcera † Šimona Karafiáta, šenkýře z Mezilesí, se 9. 10. 1816 v 30 letech provdala za Josefa Jel…wnického (?), vysloužilého vojáka (O 5378 sn. 103 vpravo, pag. 13; M) → Marie (3 roky) zřejmě vyrůstala v hospodě č. 2 u Václava a Ludmily – vysvětluje údaj oddacího zápisu 1835. Ztotožnění s Marií *1813 K+; Alžběta snad sestra Václava (K). Strukturu ponechávám do rozhodnutí uživatele."
+        "Třeboň N21: N Lukavec VIII 1810 – VIII 1813 přečten souvisle – manželská Marie Václava × Ludmily není (M-negativ). Matka nemanž. Marie *1813, Alžběta, dcera † Šimona Karafiáta, šenkýře z Mezilesí, se 9. 10. 1816 v 30 letech provdala za Josefa Jel…wnického (?), vysloužilého vojáka (O 5378 sn. 103 vpravo, pag. 13; M) → Marie (3 roky) zřejmě vyrůstala v hospodě č. 2 u Václava a Ludmily – vysvětluje údaj oddacího zápisu 1835. Ztotožnění s Marií *1813 K+; Alžběta snad sestra Václava (K). Strukturu ponechávám do rozhodnutí uživatele.",
+        "KANDIDÁT / ROZPOR: v indexu narozených Mezilesí 1808–1816 není manželská Marie Václava a Ludmily Karafiátových; jsou tam dvě nemanželské Marie Karafiátové – *5. 10. 1809 (č. 2) a *8. 8. 1813 (č. 34), obě dcery Alžběty, dcery Šimona Karafiáta, šenkýře z Mezilesí (Lukavec 5370 pag. 49; 5371 fol. 3). Nevěsta 1835 (22 let) může být Marie *1813 – nebo se narodila po 1816. Nerozhodnuto.",
+        "KANDIDÁT: manželská Marie Václava a Ludmily se narodila až 1825 (v roce 1835 by jí bylo 10) – nevěstou Jana Michala 1835 je tedy nejspíš Marie *8. 8. 1813 (Mezilesí č. 34), nemanželská dcera Alžběty Karafiátové, dcery šenkýře Šimona Karafiáta. Zápis 1835 jako otce uvádí Václava Karafiáta – možná nevlastní otec nebo strýc."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Pravonín, kniha Pravonín 21 (N 1852–1893), snímek 95 – https://ebadatelna.soapraha.cz/d/10033/95",
@@ -2645,9 +2649,9 @@ window.RODOKMEN = {
         "Otec Anny Lodlové; děti v č. 72: Barbora (1809), Martin (1811), Anna (I 1813), Anna (14. 12. 1814) aj.",
         "Oddací zápis 1807 rodiče ženicha neuvádí (tabulková kniha); svědkyně Barbora (?) z Volduch.",
         "Vyvrácený kandidát: Kašpar, syn Matěje Aubrechta, sedláka z Oseka č. 55 (* 18. 12. 1777), zemřel v prosinci 1777 ve věku 10 dní (Osek 08, sn. 9).",
-        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110). Sourozenci z téže rodiny (Petr × Dorota, Volduchy, kmotři Vitorovi a Aubrechtovi): Anna 30. 5. 1774 (č. 11), Bartoloměj 17. 8. 1776 (č. 11), Jan Nepomuk (?) 14. 4. 1779 (č. 20), Josef 28. 3. 1783 († 17. 1. 1784). Petr Aubrecht z č. 20 v rejstříku úmrtí Volduchy do 1820 není; sňatek nalezen jen v přeškrtnuté kopii Osek 04 (sn. 86 vpravo): 22. 7. 1772 Volduchy č. 11 – Petr Aubrecht, sedlák ve Volduchách, syn Bartoloměje Aubrechta, s Dorotou, dcerou † Martina (?) Zady (?), sedláka z Volduch (čtení nevěsty nejisté; originál v Osek 07 neověřen). Posíleno (Plzeň 56): v Oseku a Volduchách IV 1782 – VI 1784 se žádný jiný Kašpar Aubrecht nenarodil; je to jediný Kašpar Aubrecht narozený ve faře 1774 – VI 1784, který nezemřel jako dítě (K++).",
         "Zemřel 19. 10. 1848 v Oseku č. 72 (pohřben 21. 10., zaopatřen 15. 10.): „Aubrecht Kašpar, wdowec a muž † ženy Anny, a wejminkář, pod. k Mirošowu“ (= poddaný panství Mirošov, ne rodiště), 65 let (M; → *~1783). ROZPOR: povolání „výminkář v Oseku č. 72 (1849)“ pochází z křtu vnuka 1849 – tehdy už nežil; platí zápis o úmrtí.",
-        "Rodiče Petr Aubrecht × Dorota Čadová z Volduch č. 20 – KANDIDÁTI (K, silní; viz karta Petra): zápis o křtu 1781 (M) ztotožněn nepřímo – jediný Kašpar téhož věku, v dětství nezemřel, dvojí svatba s bratrem Janem 28. 4. 1807. Rodiče výslovně neuvádí žádný zápis."
+        "Rodiče Petr Aubrecht × Dorota Čadová z Volduch č. 20 – KANDIDÁTI (K, silní; viz karta Petra): zápis o křtu 1781 (M) ztotožněn nepřímo – jediný Kašpar téhož věku, v dětství nezemřel, dvojí svatba s bratrem Janem 28. 4. 1807. Rodiče výslovně neuvádí žádný zápis.",
+        "KANDIDÁT křtu: 3. 2. 1781 Volduchy č. 20 – Kašpar, syn Petra Aubrechta, sedláka, a Doroty; kmotři Kašpar Aubrecht, Jan Vitora (?) a Anna Aubrechtová (Osek 05, sn. 77). Jediný žijící Kašpar Aubrecht ve faře 1776–1782, věk i volducká svědkyně sedí; úmrtí 1781–1807 neprověřeno. Sňatek Petr × Dorota není v rejstříku O 1760–1771 ani ve Volduchách 1772–1784. Posíleno: v rejstříku úmrtí Volduchy 1772–1808 tento Kašpar není (jediný Kašpar Aubrecht † 1803 je syn Šimona z č. 60); Petr žil v č. 20 ještě 1784 (úmrtí syna Josefa). KANDIDÁTKA na matku: Dorota Aubrechtová † 20. 12. 1803 Volduchy č. 20, 51 let (Osek 08, sn. 110). Sourozenci z téže rodiny (Petr × Dorota, Volduchy, kmotři Vitorovi a Aubrechtovi): Anna 30. 5. 1774 (č. 11), Bartoloměj 17. 8. 1776 (č. 11), Jan Nepomuk (?) 14. 4. 1779 (č. 20), Josef 28. 3. 1783 († 17. 1. 1784). Petr Aubrecht z č. 20 v rejstříku úmrtí Volduchy do 1820 není; sňatek nalezen jen v přeškrtnuté kopii Osek 04 (sn. 86 vpravo): 22. 7. 1772 Volduchy č. 11 – Petr Aubrecht, sedlák ve Volduchách, syn Bartoloměje Aubrechta, s Dorotou, dcerou † Martina (?) Zady (?), sedláka z Volduch (čtení nevěsty nejisté; originál v Osek 07 neověřen). Posíleno (Plzeň 56): v Oseku a Volduchách IV 1782 – VI 1784 se žádný jiný Kašpar Aubrecht nenarodil; je to jediný Kašpar Aubrecht narozený ve faře 1774 – VI 1784, který nezemřel jako dítě (K++)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 13 (N 1842–1857), str. 130, snímek 69 – https://www.portafontium.eu/iipimage/30066679/osek-13_0680-n",
@@ -2923,7 +2927,8 @@ window.RODOKMEN = {
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest syna Jana, Kosík 29. 6. 1851 – rodiče a prarodiče"},
         {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_a.jpg","t":"Sňatek syna Jana (souhlas otce, podpis), Kosík 3. 2. 1874"},
         {"f":"img/1874_Z_Tukal_Jan_st_Kosik.jpg","t":"Úmrtí 17. 6. 1874, Kosík č. 52"},
-        {"f":"img/1884_Z_Tukalova_Terezie_Kosik.jpg","t":"Úmrtí manželky Terezie, Kosík 3. 6. 1884"}
+        {"f":"img/1884_Z_Tukalova_Terezie_Kosik.jpg","t":"Úmrtí manželky Terezie, Kosík 3. 6. 1884"},
+        {"f":"img/1851_N_Tukal_Jan_Kosik_a.jpg","t":"Křest syna Jan: Křest 29. 6. 1851, Kosík č. 49"}
       ]
     },
     {
@@ -2958,7 +2963,8 @@ window.RODOKMEN = {
         {"f":"img/1851_N_Tukal_Jan_Kosik_b.jpg","t":"Křest syna Jana, Kosík 29. 6. 1851 – rodiče a prarodiče"},
         {"f":"img/1874_O_Tukal_Jan_Snejdrova_Frantiska_Kosik_a.jpg","t":"Sňatek syna Jana, Kosík 3. 2. 1874"},
         {"f":"img/1884_Z_Tukalova_Terezie_Kosik.jpg","t":"Úmrtí 3. 6. 1884, Kosík č. 52"},
-        {"f":"img/1874_Z_Tukal_Jan_st_Kosik.jpg","t":"Úmrtí manžela Jana, Kosík 17. 6. 1874"}
+        {"f":"img/1874_Z_Tukal_Jan_st_Kosik.jpg","t":"Úmrtí manžela Jana, Kosík 17. 6. 1874"},
+        {"f":"img/1851_N_Tukal_Jan_Kosik_a.jpg","t":"Křest syna Jan: Křest 29. 6. 1851, Kosík č. 49"}
       ]
     },
     {
@@ -3277,14 +3283,14 @@ window.RODOKMEN = {
         "Ve faře Sedlec (Jetřichovice u Sedlce-Prčic) nejsou Votavové v letech 1784–1818 ani v křtech, ani v sňatcích (na č. 22 žily jiné rodiny); fara Mladá Vožice (Lomná) také bez výsledku. „Getřichowice No 22“ z r. 1834 je tedy jiná obec, nebo rodina přišla po 1818 – nevyřešeno.",
         "Úmrtí (K+, ROZPOR vyřešen – Třeboň N14): Martin Wotawa, podruh, † 8. 8. 1828 Jetřichovec č. 27 (60 let) a Terezie, vdova, † 27. 6. 1833 č. 42 (60 let) – jediný Martin v indexu Z Jetřichovec. Křest vnuka Jakuba Zajíčka 1839 (Jetřichovec č. 22) uvádí matku „Barbora, vlastní dcera † Martina Wotawy, bývalého podruha z Getřichowcy, a † matky Terezie rozené Martina Mař…(?), sedláka z Cetule, farnosti Velká Chýška“ – oba s křížkem, písař křížky dělá systematicky (6239 sn. 88; M, ověřeno koordinátorem). Chybějící křížek u Terezie v oddacím 1844 je opomenutí. „Martin, nádeník z Getřichowic No 22“ (Těchobuz 1834/36) = adresa rodiny dcery Barbory (× Václav Zajíček, domkář č. 22).",
         "Vyloučeno: „Martin Votava, jehlář v Lukavci č. 71“ (děti 1794–1804) je ve skutečnosti Martin Vokoun (Wokoun) – jiná rodina. Údaj „bývalý chalupník z Lstůh / Letůh (?)“ a „Terezie roz. Martina Marody též z Lstůh (?)“ pochází z 2. sňatku syna Jana (Těchobuz 6. 2. 1844) a patří tedy Votavům – obec neurčena (snad „z Luhů“ ?).",
-        "KANDIDÁTI rodičů (K): Tomáš Votava, výminkář v Cetuli č. 4, a Magdalena († 13. 11. 1807 Cetule č. 4, 66 (?) let – „Magdalena manž. Tomáše Wotawy, wejminkáře“; Z 8206, sn. 26 vlevo; M zápis, příjmení ověřeno srovnáním písmene W). V č. 4 hospodařil Jan Votava (× Magdalena Dajzová) – snad Martinův bratr. Vazba nedoložena. Úmrtí Tomáše v Z 8206 do 1821 není. Jan Wotawa, sedlák v č. 4, × Rozalie Ma…ová (?) (křest dcery Magdaleny 1802).",
         "Jan Wotawa z Cetule č. 4 (snad mladší bratr, K) se 20. 1. 1801 oženil podruhé – vdovec, 27 let (→ *~1774), s Rozárou Mazinec (?) (8197 sn. 4 vpravo; M); formulář rodiče neuvádí.",
-        "KANDIDÁT (K) na matku: Anna, † 24. 11. 1818 Jetřichovec č. 10 (dům Jana a Kateřiny 1816–19), 70 let, „manželka Jana Wotka (?)“ s pozdější vložkou „Wottawa (?)“ (6239 sn. 114 vlevo) – konkuruje kandidátům Tomáš × Magdalena z Cetule. Před 1815 v Jetřichovci žádný Votava (index N 6256).",
         "V N Velká Chyška 8199 (1801 – ~1816) Martin Votava z Cetule 8 jako otec není – rodina zřejmě odešla brzy po 1800 (Třeboň N11). Nezaměňovat: Martin Wottawa „mladý“, sedlák a dědic gruntu v Bratřicích č. 3, × Terezie, dcera Martina Mařince (?), rychtáře – děti Kateřina XI 1807, Anna ~1811 (8199 sn. 45, 68; M zápisy) – jiná osoba.",
         "Kde rodina žila 1800–1815, zatím nevyřešeno: V. Chyška (N 8199 1801–~1816, Z 8206 1800–~1821), Pacov-město (Wottawové 1806–1812 = Franz × Josefa Lubová ?), Lukavec – bez Martina (Třeboň N11–N12).",
         "Dcera Barbora (*4. 12. 1799 Cetule) × 30. 10. 1826 (rok podle indexu 6256) v Jetřichovci Václav Zajíček, syn Josefa, domkáře č. 22: nevěsta „Barbora, dcera Martina Wottawy, výminkáře (?) z Jetřichovce, matky Terezie, Martina Marody z Bratřic“, 26 let (6239 sn. 71, fol. 13; M) – Martin 1826 žil. Křest syna 1834 (fol. 68): „Barbora, dcera Martina Wotawy, chalupníka z Cetule, a Terezie roz. Marody, sedláka z Bratřic“.",
         "Index NOZ 6260 (vesnice fary Pacov 1800–1849): Votavové v Jetřichovci až od sňatku Jana VI 1815; „Wotawa Wenceslaus † 26. 2. 1809 Zhořec“ = Václav, 16 let, syn Jakuba Wotawy, pastýře, Zhořec (Ovčí dvůr ?) č. 20 (6249 sn. 104, pag. 15; M) – rodina Jakuba Votavy × Ludmily (Lukavec 1790 → Těchobuz 1797 → Zhořec 1809), ne Martinova; vztah Jakub × Martin (bratři ?) nedoložen.",
-        "Třeboň N28: syn Jan koupil 14. 11. 1814 grunt Jetřichovec č. 10 (pozemková kniha Těchobuz 127651 fol. 216; D) – rodina přišla do Jetřichovce teprve 1814; bydliště 1800–1814 neznámé (Martin v rejstříku pozemkové knihy není)."
+        "Třeboň N28: syn Jan koupil 14. 11. 1814 grunt Jetřichovec č. 10 (pozemková kniha Těchobuz 127651 fol. 216; D) – rodina přišla do Jetřichovce teprve 1814; bydliště 1800–1814 neznámé (Martin v rejstříku pozemkové knihy není).",
+        "KANDIDÁTI rodičů (K): Tomáš Votava, výminkář v Cetuli č. 4, a Magdalena († 13. 11. 1807 Cetule č. 4, 66 (?) let – „Magdalena manž. Tomáše Wotawy, wejminkáře“; Z 8206, sn. 26 vlevo; M zápis, příjmení ověřeno srovnáním písmene W). V č. 4 hospodařil Jan Votava (× Magdalena Dajzová) – snad Martinův bratr. Vazba nedoložena. Úmrtí Tomáše v Z 8206 do 1821 není. Jan Wotawa, sedlák v č. 4, × Rozalie Ma…ová (?) (křest dcery Magdaleny 1802).",
+        "KANDIDÁT (K) na matku: Anna, † 24. 11. 1818 Jetřichovec č. 10 (dům Jana a Kateřiny 1816–19), 70 let, „manželka Jana Wotka (?)“ s pozdější vložkou „Wottawa (?)“ (6239 sn. 114 vlevo) – konkuruje kandidátům Tomáš × Magdalena z Cetule. Před 1815 v Jetřichovci žádný Votava (index N 6256)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3323,9 +3329,9 @@ window.RODOKMEN = {
         "Matka Jana Votavy; „dcera Martina Marody / Mrkvy (?), podruha z Lom-nice / Lomné (?) č. 23“ (křest vnučky 1834, sňatek syna 1844).",
         "Terezie † 1833 (60 let → *~1773) nemůže být dcerou Martina Maredy oddaného 1787 v Lomné (24 let) – buď starší Martin Maroda, nebo chybné věky. „Lom-nice č. 23“ (1834) / „z Lomnic č. 23“ (1836) – obec neověřena.",
         "Oddána 20. 1. 1789 v Bratřicích s Martinem Votavou, 19 (?) let (M). Marodové žili i v Bratřicích (1789 ženich Bartoloměj Maroda, svědkyně Terezie a Magdalena Marodová – K).",
-        "KANDIDÁT příbuzného (K): Bartoloměj Mareda, Bratřice č. 7 (dům sňatku 1789), † ~XII 1813, 50 let (Z 8206 sn. 49) – snad bratr Terezie; Martin dal prvnímu synovi jméno Bartoloměj (1792).",
         "Oddací zápis 1789 znovu přečten zvětšeně: „Terezia Marode“, 19 let (8196 sn. 3, pag. II, No 7; M) – krátké příjmení, ne Mařincová (Mařincovi jsou v Bratřicích samostatná rodina).",
-        "Zemřela 27. 6. 1833 v Jetřichovci č. 42 jako vdova po Martinu Wotawovi, 60 let (K+; v r. 1839 je u dcery Barbory „† matky Terezie“ – 6239 sn. 88). Příjmení: oddací zápis dcery Barbory 30. 10. 1826 (Jetřichovec) „matky Terezie, Martina Marody z Bratřic“ (6239 sn. 71, fol. 13; M) potvrzuje Marodu; zkomolené „Mař…“ (1839) je chyba písaře – rozpor uzavřen."
+        "Zemřela 27. 6. 1833 v Jetřichovci č. 42 jako vdova po Martinu Wotawovi, 60 let (K+; v r. 1839 je u dcery Barbory „† matky Terezie“ – 6239 sn. 88). Příjmení: oddací zápis dcery Barbory 30. 10. 1826 (Jetřichovec) „matky Terezie, Martina Marody z Bratřic“ (6239 sn. 71, fol. 13; M) potvrzuje Marodu; zkomolené „Mař…“ (1839) je chyba písaře – rozpor uzavřen.",
+        "KANDIDÁT příbuzného (K): Bartoloměj Mareda, Bratřice č. 7 (dům sňatku 1789), † ~XII 1813, 50 let (Z 8206 sn. 49) – snad bratr Terezie; Martin dal prvnímu synovi jméno Bartoloměj (1792)."
       ],
       sources: [
         "SOA Třeboň, Sbírka matrik Jihočeského kraje, fara Zhoř, kniha Těchobuz N-O-Z 1822–1839 (id 8825, inv. 6540), fol. 75, snímek 76 – https://digi.ceskearchivy.cz/8825",
@@ -3857,6 +3863,9 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Třeboň, fara Zhoř, kniha Těchobuz (id 8825), fol. 61, snímek 62 – https://digi.ceskearchivy.cz/8825"
+      ],
+      scans: [
+        {"f":"img/1834_krest_Votavova_Katerina_Techobuz.jpg","t":"Křest 1834, Těchobuz č. 36"}
       ]
     },
     {
@@ -4124,7 +4133,8 @@ window.RODOKMEN = {
         {"f":"img/1848_N_Stadlerova_rodokmen_Borek09.jpg","t":"Křest vnučky 1848 – rodokmen Stadlerových (Borek)"},
         {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov_matka.jpg","t":"Křest dcery Magdaleny, Pačejov 1817"},
         {"f":"img/1812_N_Stodl_Bartolomej_Pacejov8.jpg","t":"Křest syna Bartoloměje, Pačejov 1812"},
-        {"f":"img/1850_Z_Stadlerova_Ludmila_Suchomasty.jpg","t":"Úmrtí 17. 7. 1850, Suchomasty 21"}
+        {"f":"img/1850_Z_Stadlerova_Ludmila_Suchomasty.jpg","t":"Úmrtí 17. 7. 1850, Suchomasty 21"},
+        {"f":"img/1817_N_Stadlerova_Magdalena_Pacejov.jpg","t":"Křest dcery Magdalena: Křest Magdaleny, Pačejov č. 6, 11./12. 7. 1817"}
       ]
     },
     {
@@ -4142,8 +4152,8 @@ window.RODOKMEN = {
         "Oddána 22. 11. 1757 v Oseku s Josefem Trgjkem jako „poctivá děvečka, vlastní dcera Do-rota Matěje Dudla též z Wolduch“ (M; jméno rozdělené přes konec řádku, ověřeno v plném rozlišení). Křest v rejstříku N Osek 1728–1739 (D) není – rejstřík neúplný.",
         "Zemřela 19. 10. 1799 ve Volduchách č. 67: „Dorothea Eheweib des Joseph Trgjrk“, 65 let, vysílení (M). Věk 65 by dával narození ~1734 a porod Veroniky ve 49 letech – věk asi nadsazený (?).",
         "Plzeň N84: křest není v Osek 02 N I 1728 – IV 1735 (montáže; mezery ~III–IV 1729, ~VII–IX 1733) – Matěj Dudl tam jako otec není. Pozor: ve Volduchách 1730. let tři páry Matěj × Rozina (Dudl, Hoška (?), Chmelařík). Zbývá Osek 02 N V 1735 – 1740 (rejstřík „Dudl Lydmila 99“ ~1737).",
-        "KANDIDÁT křtu (K): 7. 2. 1739 Volduchy (nar. 6. 2.) – „dítě jménem Dorota Apolena … otce Matěje Dudla, matky Doroty“, levans Dorota Vytázková (?) z Oseka, testes Kateřina Kernpka (?) a Pavel Čada z Volduch (Osek 02 N sn. 51 vpravo, str. 99; M, ověřeno koordinátorem). Jediná Dorota Dudlová v Osek 02 N 1728–1739; věk při sňatku 1757 by byl 18, při úmrtí 60 (zápis „65“). Matka DOROTA (ne Rozina) → buď 2. manželka mladšího Matěje Dudla, nebo jiný Matěj (Matěj i Dorota Dudlovi kmotry ve Volduchách 1738).",
-        "Plzeň N86: Dorota Apolena (nar. 1739) v dětství nezemřela (Osek 02/03 Z III 1739 – XII 1757 bez jejího pohřbu) → ztotožnění K+. Rodina Matěje Dudla × Doroty: Anna † 24. 10. 1742 (1 rok), Anna † 17. 4. 1746 (9 týdnů, Vitinka ?); Dorota Dudlová, Volduchy, † 8. 3. 1752, 42 let (Osek 03 Z sn. 182 vlevo; M) – nejspíš matka (*~1710, K+)."
+        "Plzeň N86: Dorota Apolena (nar. 1739) v dětství nezemřela (Osek 02/03 Z III 1739 – XII 1757 bez jejího pohřbu) → ztotožnění K+. Rodina Matěje Dudla × Doroty: Anna † 24. 10. 1742 (1 rok), Anna † 17. 4. 1746 (9 týdnů, Vitinka ?); Dorota Dudlová, Volduchy, † 8. 3. 1752, 42 let (Osek 03 Z sn. 182 vlevo; M) – nejspíš matka (*~1710, K+).",
+        "KANDIDÁT křtu (K): 7. 2. 1739 Volduchy (nar. 6. 2.) – „dítě jménem Dorota Apolena … otce Matěje Dudla, matky Doroty“, levans Dorota Vytázková (?) z Oseka, testes Kateřina Kernpka (?) a Pavel Čada z Volduch (Osek 02 N sn. 51 vpravo, str. 99; M, ověřeno koordinátorem). Jediná Dorota Dudlová v Osek 02 N 1728–1739; věk při sňatku 1757 by byl 18, při úmrtí 60 (zápis „65“). Matka DOROTA (ne Rozina) → buď 2. manželka mladšího Matěje Dudla, nebo jiný Matěj (Matěj i Dorota Dudlovi kmotry ve Volduchách 1738)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 09 (N 1821–1832), str. 112, snímek 60 – https://www.portafontium.eu/iipimage/30066675/osek-09_0600-n",
@@ -4154,7 +4164,8 @@ window.RODOKMEN = {
         {"f":"img/1823_krest_matej_forejt_osek.jpg","t":"Křest Matěje Forejta, Osek 1823 – rodiče, kmotři (dítě: Veronika Forejtová) (manžel/ka: Josef Trgjk)"},
         {"f":"img/1799_Z_Trgjkova_Dorota_Volduchy.jpg","t":"Úmrtí 19. 10. 1799, Volduchy č. 67"},
         {"f":"img/1809_Z_Trgjk_Josef_Volduchy.jpg","t":"Úmrtí manžela Josefa, Volduchy 9. 2. 1809"},
-        {"f":"img/1757_O_Trgjk_Josef_Dudlova_Dorota_Volduchy.jpg","t":"Sňatek s Josefem Trgjkem, Osek 22. 11. 1757"}
+        {"f":"img/1757_O_Trgjk_Josef_Dudlova_Dorota_Volduchy.jpg","t":"Sňatek s Josefem Trgjkem, Osek 22. 11. 1757"},
+        {"f":"img/1783_krest_veronika_trgjk_volduchy67_osek05_sn80.jpg","t":"Křest dcery Veronika: Křest Veroniky Trgjkové, Volduchy 1783"}
       ]
     },
     {
@@ -4318,15 +4329,15 @@ window.RODOKMEN = {
         "Otec Ludmily Stádlerové: „† Jan Stadler, mistr polní z Tetína“ (křest 1848 Borek 09 sn. 38; sňatek 1874 Borek 20 sn. 28; M). Manželka Ludmila roz. Vadlejšková z Hořaždovic. V rejstřících N a O Tetín 1737–1811 / 1743–1803 není – do Tetína přišel odjinud.",
         "ROZPOR (povolání/bydliště): 1851 „Jan Stadler, domkář z K…ína (?) No 6, panství Hořaždovice“ (Borek 13 sn. 3) × 1848 a 1874 „mistr polní z Tetína“. Rod pochází z Horažďovicka (i Martin Stadler, panský polní mistr v Suchomastech 1824, „rozený z J/K…ína, panství Hořaždovické“ – snad příbuzný, K). Kandidát Jan Staral z Tetína vyřazen (TODO kap. 4).",
         "Křest vnučky Magdaleny 11. 7. 1817 v Pačejově č. 6: „Jan Sta[dler], domkář z Pačejova No 6“ (Malý Bor 13 sn. 316; M) – potvrzuje oddací zápis 1851 („domkář z P…a No 6, panství Hořaždovice“).",
-        "KANDIDÁT (K+): „Jan Stodl, mistr ovčácký ve vsi Pačejov“ (křest dcery Ludmily 1788, svědek 1791); syn František (*~1764) × 17. 1. 1790 Barbora Wi…auerová (Pačejov 02 sn. 7: „syn Jana Stodla, mistra ovčáckého“) → Jan *~1735–1740, Ludmila možná 2. manželka. „Mistr polní“ z pozdějších zápisů = nejspíš mistr ovčák (panský ovčín).",
-        "KANDIDÁT úmrtí (K+): Pačejov č. 38, 28. 2. 1794, „Jan Stodl, podruh“, 67 let (→ *~1727) (Pačejov 03 Z sn. 9 vlevo; M zápis, ověřeno koordinátorem). Vdova „Magdalena, pozůstalá vdova po † Janovi Stodlovi, Polním Mistru“ † 4. 2. 1801 Pačejov č. 38, 43 let (sn. 13 vpravo; M, ověřeno) – titul „polní mistr“ shodný se zápisy 1848/1874 → Jan Stodl = náš Jan Stadler (K+). ROZPOR: matka Ludmily *1788 je „Ludmila roz. R…“, vdova 1801 Magdalena (*~1758) – nejspíš 2./3. manželka; úmrtí Ludmily st. ani sňatek s Magdalenou v Pačejově 1788–1801 nenalezeny. Dcera Marie Magdalena † 21. 1. 1791, 15 let (č. 38 ?).",
         "Pozor (Plzeň N27): Ludmila st. v Z Pačejov X 1788 – 1802 nezemřela → možná dva Janové Stodlové (mistr ovčák v č. 1 × Ludmila; podruh/„polní mistr“ v č. 38 × Magdalena). Rodné příjmení Ludmily v křtu 1788 čteno „Rysecová / Rosecová (?)“ (K). Úmrtí po 1805 v Malém Boru 12 (Z 1793–1822, str. 117–126) a 14 – nečteno.",
         "V Z Malý Bor 12 (Pačejov XI 1805 – XII 1822) ani 14 (V 1823 – II 1828) úmrtí Jana Stodla, mistra ovčáka, ani Ludmily Stodlové st. není; 13. 12. 1810 zemřela v Pačejově č. 25 „Marie, dcera po † Janovi Stodlovi (?)“, 16 let (MB 12 sn. 104) → varianta „jeden Jan“ (mistr ovčák → podruh, † 1794) sílí, nerozhodnuto. 1815 už v č. 1 jiný mistr ovčák.",
         "Stopa (K): křest 20./21. 9. 1818 Pačejov č. 40 – matka Kateřina, „dcera Františka L…ky (?) z Malých Hydčic No 44, matky Ludmily rozené Stadlerový z Malých Hydčic No 6“ (Malý Bor 13 sn. 320; ověřeno koordinátorem) → Stadlerovi v Malých Hydčicích č. 6 (srov. 1851 „domkář z H…č…a No 6“). Starší Ludmila Stadlerová (*před ~1775) – snad dcera nebo sestra Jana. Úmrtí Ludmily *1788 v Z Pačejov 1805–1843 není.",
         "Pozor (Plzeň N30): Malé Hydčice č. 6 patřilo 1786–1812 sedlákům STADEK (Michal † před 1799, vdova Anna † 1799, 80; Matěj † 1806, 52; děti 1794–1806) – „Ludmila rozená Stadlerová (?) z Malých Hydčic No 6“ (1818) je spíš roz. Stadková; v M. Hydčicích žil i bednář Ignác Stadl(er) (?) (č. 1, 7). Jan Stadler/Stodl ani Ludmila v N/Z Malé Hydčice 1793–1822 nejsou → stopa Hydčice slábne, platí Pačejov (Jan Stodl, mistr ovčák).",
         "Ověřeno (Plzeň N31): křty vnoučat 1812 a 1817 – „dcera po † Janovi Stodlovi“, „Jan Stodl, domkář z Pačejova No 6“ (M) – Jan je Jan Stodl z Pačejova; † před VII 1812 (nejspíš 28. 2. 1794 jako podruh v č. 38, K+).",
         "Sňatek s Ludmilou Rosecovou není v O Malý Bor 08 (1778–84) ani Hradešice 07/10 (1778–92) – Pačejov tam nefiguruje; mateřská fara Pačejova před 1787 neurčena. Možný příbuzný (K): „Thomas Stedl (?), pastor gregis“ (ovčák), vdovec, × X 1782 Krutěnice Magdalena Fiková (Hradešice 07 sn. 13 vlevo).",
-        "Do Pačejova přišel až 1785–1788: v O Malý Bor 08, oddíl Pačejov (I 1785 – XI 1786) není a 2. 2. 1785 je mistrem ovčáckým v Pačejově † Jan Benedikt (M). Pačejov patřil 1785–86 k Malému Boru, od 1787 lokálie; fara před 1785 neurčena. Sňatek s Ludmilou Rosecovou je nejspíš v místě jeho dřívější služby (ovčín jiného panství). Babička v zápisu 1817: „Matky Ludmily Rosecowy, Šafař… (?)“ – snad otec šafář, ne obec."
+        "Do Pačejova přišel až 1785–1788: v O Malý Bor 08, oddíl Pačejov (I 1785 – XI 1786) není a 2. 2. 1785 je mistrem ovčáckým v Pačejově † Jan Benedikt (M). Pačejov patřil 1785–86 k Malému Boru, od 1787 lokálie; fara před 1785 neurčena. Sňatek s Ludmilou Rosecovou je nejspíš v místě jeho dřívější služby (ovčín jiného panství). Babička v zápisu 1817: „Matky Ludmily Rosecowy, Šafař… (?)“ – snad otec šafář, ne obec.",
+        "KANDIDÁT (K+): „Jan Stodl, mistr ovčácký ve vsi Pačejov“ (křest dcery Ludmily 1788, svědek 1791); syn František (*~1764) × 17. 1. 1790 Barbora Wi…auerová (Pačejov 02 sn. 7: „syn Jana Stodla, mistra ovčáckého“) → Jan *~1735–1740, Ludmila možná 2. manželka. „Mistr polní“ z pozdějších zápisů = nejspíš mistr ovčák (panský ovčín).",
+        "KANDIDÁT úmrtí (K+): Pačejov č. 38, 28. 2. 1794, „Jan Stodl, podruh“, 67 let (→ *~1727) (Pačejov 03 Z sn. 9 vlevo; M zápis, ověřeno koordinátorem). Vdova „Magdalena, pozůstalá vdova po † Janovi Stodlovi, Polním Mistru“ † 4. 2. 1801 Pačejov č. 38, 43 let (sn. 13 vpravo; M, ověřeno) – titul „polní mistr“ shodný se zápisy 1848/1874 → Jan Stodl = náš Jan Stadler (K+). ROZPOR: matka Ludmily *1788 je „Ludmila roz. R…“, vdova 1801 Magdalena (*~1758) – nejspíš 2./3. manželka; úmrtí Ludmily st. ani sňatek s Magdalenou v Pačejově 1788–1801 nenalezeny. Dcera Marie Magdalena † 21. 1. 1791, 15 let (č. 38 ?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 20 (O 1869–1945), str. 52, snímek 28 – https://ebadatelna.soapraha.cz/d/14711/28",
@@ -4735,9 +4746,9 @@ window.RODOKMEN = {
       notes: [
         "Otec Václava Oty.",
         "Oddán 18. 1. 1797 (Krchleby č. 17): „Franz, syn po † Pavlovi Otta ze Skrchleb, H. C.“, 18 let, s Annou, dcerou Jana Zajíčka, sedláka ze Skrchleb, 16 let (katol.); svědci Matěj Otta a Pavel Hrnyš (?), chalupníci (Nymburk 08 O sn. 196 vlevo; M, ověřeno koordinátorem).",
-        "KANDIDÁT křtu (K+): X 1777 (den 27 ?) Krchleby č. 17 – „Franciscus, Paulus Otta, Bodrianus (?), uxor Catharina“, kmotři Jiří Krejčík a Anna Sklepníková (Nymburk 08 N sn. 59 vlevo; M) – týž dům a otec. Pozor: Pavel Otta, tkadlec × Dorota ze Všechlap 29 – jiná rodina.",
         "Praha N102: den křtu podle pořadí zápisů 11. 10. 1777 (?) (Nymburk 08 N sn. 59 vlevo). „Seznam smíšených manželství“ (Veleliby 13 sn. 52 vlevo; D): František Otto č. 17 H. C. × Anna Zajíček (Jan, kat.); syn Václav × Kateřina, dcera Pavla Málka a Anny Krebsové; Pavel × Anna Maršálková; dcery Anna × Pavel Málek, Kateřina × Matěj Zajíček.",
-        "Zemřel 17. 2. 1818 (pohřben 20. 2.) Krchleby č. 17: „Franz Otta, sedlák“, nekatolík, 42 let, „an Schlagfluss“; pohřbil Jos. Pazay, pastor H. C. z Chlebů (Veleliby 04 Z sn. 28, str. 25; rejstřík Veleliby 13 sn. 42 vlevo; M, ověřeno koordinátorem)."
+        "Zemřel 17. 2. 1818 (pohřben 20. 2.) Krchleby č. 17: „Franz Otta, sedlák“, nekatolík, 42 let, „an Schlagfluss“; pohřbil Jos. Pazay, pastor H. C. z Chlebů (Veleliby 04 Z sn. 28, str. 25; rejstřík Veleliby 13 sn. 42 vlevo; M, ověřeno koordinátorem).",
+        "KANDIDÁT křtu (K+): X 1777 (den 27 ?) Krchleby č. 17 – „Franciscus, Paulus Otta, Bodrianus (?), uxor Catharina“, kmotři Jiří Krejčík a Anna Sklepníková (Nymburk 08 N sn. 59 vlevo; M) – týž dům a otec. Pozor: Pavel Otta, tkadlec × Dorota ze Všechlap 29 – jiná rodina."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
@@ -4747,7 +4758,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851 (dítě: Václav Ota)"},
-        {"f":"img/1797_O_Ota_Frantisek_Zajickova_Anna.jpg","t":"Sňatek 18. 1. 1797, Krchleby"}
+        {"f":"img/1797_O_Ota_Frantisek_Zajickova_Anna.jpg","t":"Sňatek 18. 1. 1797, Krchleby"},
+        {"f":"img/1809_N_Ota_Vaclav_Krchleby.jpg","t":"Křest syna Václav: Křest 14. 6. 1809, Krchleby 17"}
       ]
     },
     {
@@ -4776,7 +4788,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1851_snatek_karel_capek_hruby_jesenik_a.jpg","t":"Sňatek Karla Čapka a Marie Otové, Hrubý Jeseník 3. 3. 1851 (dítě: Václav Ota)"},
-        {"f":"img/1797_O_Ota_Frantisek_Zajickova_Anna.jpg","t":"Sňatek 18. 1. 1797, Krchleby"}
+        {"f":"img/1797_O_Ota_Frantisek_Zajickova_Anna.jpg","t":"Sňatek 18. 1. 1797, Krchleby"},
+        {"f":"img/1809_N_Ota_Vaclav_Krchleby.jpg","t":"Křest syna Václav: Křest 14. 6. 1809, Krchleby 17"}
       ]
     },
     {
@@ -5415,10 +5428,10 @@ window.RODOKMEN = {
         "Oddán 4. 10. 1773 ve Zdicích: „Josephus filius Wenceslai Diwiš Rustici ex pago Gernin N. 7 cum sponsa Anna filia Adalberti Czerweny ex pago Knižkowicz N. 17“; svědci Václav Kučera (?) a Jakub Holeček (?) z Knížkovic. Otec Matěje Diviše (*1776), sedlák v Černíně č. 7.",
         "Křest nenalezen ve Zdicích 1744–1757 (Josef *1758 je syn Matěje Diviše a Anny Novákové – jiný); zdické křty před 1744 jsou v matrice Žebrák 03 (1729–1760) – zatím neprověřeno.",
         "Starší zdické křty (do 1743) v matrice Žebrák 03 nejsou – Černín, Zdice ani Knížkovice se tam neobjevují; zdická matrika 1717–1743 se zřejmě nedochovala. Další cesta: pozemkové knihy / urbář panství Králův Dvůr (Černín č. 7).",
-        "KANDIDÁTI – děti podle indexu narozených Zdice (Diviš, Černín): Anna (fol. 110), Josef (115), Matěj (123, 1776), Kateřina (127), Veronika (131), Anna (133–134), dvojčata (135).",
         "Zemřel 2. (nebo 3.) 10. 1828 (pohřben 5. 10.) v Černíně č. 7: „Josef Diwiš, wejminkář z Černjna“, 75 let (Zdice 12 sn. 51 vlevo, str. 96; M) → *~1753. ROZPOR s dřívějším odhadem (*před 1744); křest nedohledán.",
         "Sourozenci (děti Václava Diviše × Kateřiny z Černína, Zdice 01 N; M): František (17. 1. 1745), Kateřina (16. 12. 1746), Matěj (5. 2. 1750), Jan Václav (22. 1. 1752). Josef v rejstříku N Zdice 01 (od 1744) není → narozen spíš před 1744 (věk 75 v r. 1828 nejspíš podhodnocen); matka nejspíš Kateřina (K).",
-        "Křest v Zdice 01 N 1741–1759 není (Praha N38–N43, včetně mezery IX 1747 – X 1749 v plném čtení) – zbývá Žebrák 01 N XI 1740 – 1743 v plném rozlišení nebo jiná fara."
+        "Křest v Zdice 01 N 1741–1759 není (Praha N38–N43, včetně mezery IX 1747 – X 1749 v plném čtení) – zbývá Žebrák 01 N XI 1740 – 1743 v plném rozlišení nebo jiná fara.",
+        "KANDIDÁTI – děti podle indexu narozených Zdice (Diviš, Černín): Anna (fol. 110), Josef (115), Matěj (123, 1776), Kateřina (127), Veronika (131), Anna (133–134), dvojčata (135)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 145, snímek 146 – https://ebadatelna.soapraha.cz/d/9098/146",
@@ -5552,6 +5565,10 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 04 (N 1814–1824), oddíl Černín, str. 137, snímek 138 – https://ebadatelna.soapraha.cz/d/9098/138"
+      ],
+      scans: [
+        {"f":"img/1819_krest_josef_divis_cernin_a.jpg","t":"Křest 7. 12. 1819, Černín č. 7 – datum, dům"},
+        {"f":"img/1819_krest_josef_divis_cernin_b.jpg","t":"Křest 7. 12. 1819, Černín č. 7 – rodiče, kmotři"}
       ]
     },
     {
@@ -5983,11 +6000,11 @@ window.RODOKMEN = {
         "Otec Apolonie Hrazdílkové.",
         "Manželka Terezie roz. Michálková (?) (sňatek dcery 1827).",
         "Při křtu dcery Apolonie 1788 „Schullehrer (?)“ (čtení nejisté), Hodějice č. 59; manželka Marta (1788).",
-        "KANDIDÁT otce: Tomáš Ambros, sedlák v Hodějicích († před 1772; dcery Rosina × Martin Hudeček 1772 a Anna 1777–78). Sňatek Antona s Martou ve Slavkově XI 1764 – IX 1774 nenalezen.",
         "MZA N47: v Hodějicích kolem 1757–60 tři otcové Ambrosové – Tomáš, Blažej (podruh) × Anna (děti 1757, 1758) a Jiří × Rozina (syn Blažej 1760) – Antonův křest hledat v N 13121 ~1765–1772.",
         "MZA N48: křest není v NOZ 13121 I 1765 – III 1771 (všichni Antonové mají jiné otce) → narozen spíš 1754–1764 nebo mimo faru. Otcové Ambrosové v Hodějicích 1757–70: Tomáš, Blažej (× Anna, později × Barbora ?), Jiří × Rozina, Ondřej × Anna (?).",
         "MZA N49: křest není v NOZ 13121 ~1753 – III 1771 (celé období) → narozen mimo faru Slavkov nebo před 1753. Blažej Ambros × Anna – děti 1756–1764 (mj. Ondřej 28. 11. 1764; M), Anton mezi nimi není.",
-        "MZA N53: Jiří Ambros (× Rosina) zemřel před VI 1762 (vdova Rosina × Matěj Lanížek ?; O 13121 sn. 312 vlevo; M) – jako otec Antona (*~1754–64) méně pravděpodobný."
+        "MZA N53: Jiří Ambros (× Rosina) zemřel před VI 1762 (vdova Rosina × Matěj Lanížek ?; O 13121 sn. 312 vlevo; M) – jako otec Antona (*~1754–64) méně pravděpodobný.",
+        "KANDIDÁT otce: Tomáš Ambros, sedlák v Hodějicích († před 1772; dcery Rosina × Martin Hudeček 1772 a Anna 1777–78). Sňatek Antona s Martou ve Slavkově XI 1764 – IX 1774 nenalezen."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Hodějice, str. 26, snímek 230 – https://www.mza.cz/actapublica/matrika/detail/1952",
@@ -6409,14 +6426,14 @@ window.RODOKMEN = {
       occ: "sedlák (rusticus) ve Volduchách",
       notes: [
         "Sedlák z Volduch; otec Anny Trgjkové (oddací zápis 1781 „Joann Koßay“, M). Při jejím sňatku 28. 10. 1781 už nežil.",
+        "Oddací zápis 25. 10. 1745 znovu přečten (Osek 03 O str. 21, sn. 119 vpravo; M, ověřeno koordinátorem): „mládenec Jan, vlastní syn Jana Koſſařze (Kossař / Kostař ?) z Volduch, s poctivou děvečkou, vlastní dcerou pozůstalou po † Petru Forejtovi též z Volduch“; družba Jan Polka, družička Kateřina Holubová, fautor Jan Koſſařz – otec ženicha tehdy žil (bez †). Tvar příjmení „Kossař“ (ne „Kossay“) podporuje i křest 1747 (Osek 03 N sn. 37 vlevo). Otec Jan Kossař × Dorota (1722, 1751) – K+. Ve Volduchách žili i Ondřej Kossař × Magdalena (1717) a Šebestián Kossař.",
+        "Plzeň N76: křest Jana ml. v Osek 01 N VIII 1709 – VIII 1722 není (mimo XII 1715) – hledat IX 1722 – 1727 nebo jinou faru. Jan Kossař z Volduch kmotrem 24. 6. 1720 (sn. 94 vpravo). Šebestián zapisován střídavě Kossař / Kossay (1720, 1722).",
+        "Plzeň N78 – alias Kossař = Vaněk / Vaník doložen nepřímo (K+): 24. 8. 1719 Volduchy „Anna, vlastní dcera Jana Wanka a manželky jeho Doroty; lev. Kateřina Forejtová z Volduch, test. Kateřina Chmelařka z Volduch a Šebestián Wanick z Oseka“ (Osek 01 N str. 178, sn. 91 vlevo; M, ověřeno koordinátorem) – tíž kmotři jako u dětí „Jana Kossaře × Doroty“; Šebestián × Kateřina z Oseka 1722 „Kossař“, 1723 „Waníček“, 1725 „Wanek“; ve křtech dětí Jana ml. 1747 „Kossay“, 1751 kmotr „Šebestián Wanick“. Děti Jana st. × Doroty: Dorota 1710, Anna Kateřina 1712, Kateřina 1714, Anna 1719, Markéta 1722, snad Ludmila 1725 a Jan 7. 4. 1727 (nejsilnější kandidát křtu Jana ml., K+). Rodiče na kartu nezapisuji, dokud sňatek 1745 zůstává K.",
         "KANDIDÁTI (K): manželka Anna (křest dcery Anny 1762); sňatek „Jan, vlastní syn Jana Košaje z Volduch, s … dcerou po † Petru Forejtovi též z Volduch“ 25. 10. 1745 (Osek 03 O, str. 21, sn. 119 vpravo) – jméno nevěsty neuvedeno, mezera do 1762 → možná 2. manželka.",
         "KANDIDÁT úmrtí (K+): „Joann Koßay, Bauer“, Volduchy č. 27, † 5. 9. 1772, 47 (?) let (Osek 08 Z, Volduchy, fol. 5, sn. 74 vlevo; rejstřík sn. 144 – M zápis). Věk 47 – Jan Košaj st. v rejstříku Z Osek 04 1760–1777 není (jen syn Jan *1765, † 17. 3. 1769 na neštovice, 3½ roku); jiný dospělý Jan Košaj ve Volduchách 1772–1783 nezemřel → ztotožnění téměř jisté. Děti: Jan (1747), dvojčata Anna a Markéta (1751), Anna (1762), Jan (1765).",
         "KANDIDÁT otce (K): Jan Kossař (Košař) z Volduch – × Dorota (dcera Markéta 5. 3. 1722; Osek 01 N sn. 102 vlevo; M), dcera Kateřina × ~14. 11. 1751 Šimon Zajíček („dcera Jana Kosaře z Volduch“, Jan tehdy žil; Osek 03 O sn. 131 vlevo; M). ROZPOR tvaru Kossař ↔ Kossay (Šebestián Kossař zapsán 1725 „Koßay“). Křest Jana ml. v Osek 01 N V 1716 – 1727 ani v rejstříku N Osek 02 (1728–39) není.",
-        "Oddací zápis 25. 10. 1745 znovu přečten (Osek 03 O str. 21, sn. 119 vpravo; M, ověřeno koordinátorem): „mládenec Jan, vlastní syn Jana Koſſařze (Kossař / Kostař ?) z Volduch, s poctivou děvečkou, vlastní dcerou pozůstalou po † Petru Forejtovi též z Volduch“; družba Jan Polka, družička Kateřina Holubová, fautor Jan Koſſařz – otec ženicha tehdy žil (bez †). Tvar příjmení „Kossař“ (ne „Kossay“) podporuje i křest 1747 (Osek 03 N sn. 37 vlevo). Otec Jan Kossař × Dorota (1722, 1751) – K+. Ve Volduchách žili i Ondřej Kossař × Magdalena (1717) a Šebestián Kossař.",
         "Kandidátní rodiče Jan Kossař × Dorota (Volduchy) – manželé nejpozději od X 1709; děti (M, Osek 01 N): Dorota 9. 1. 1710 (sn. 53 vpravo), Anna Kateřina 25. 7. 1712 (sn. 60 vpravo, ověřeno koordinátorem), Kateřina 30. 10. 1714 (sn. 69 vlevo, nadpis „z Woseka“ ?), Markéta 5. 3. 1722; stále kmotři Kateřina Chmelařová, Kateřina Forejtová, Šebestián Kossař. Křest Jana ml. není v N VIII 1709 – III 1715, I 1716 – IX 1717 – pravděpodobně X 1717 – II 1722. Úmrtí Jana st. není mezi Volduchy v Osek 03 Z XI 1751 – 1759.",
-        "Plzeň N76: křest Jana ml. v Osek 01 N VIII 1709 – VIII 1722 není (mimo XII 1715) – hledat IX 1722 – 1727 nebo jinou faru. Jan Kossař z Volduch kmotrem 24. 6. 1720 (sn. 94 vpravo). Šebestián zapisován střídavě Kossař / Kossay (1720, 1722).",
-        "KANDIDÁT křtu (K): 7./8. 4. 1727 Volduchy – „Jan, vlastní syn Jana Wanka (?) z Volduch a Doroty manželky jeho“, levans Šebestián Waník (?) z Oseka, testes Tomáš Chmelař a Kateřina Fo[rejt]ová z Volduch (Osek 01 N sn. 128 vlevo; čtení příjmení Wanka / Walta nejisté, ověřeno koordinátorem na výřezu). Kmotři odpovídají rodině Jana Kossaře × Doroty a věk sedí (1772 „47“). Hypotéza: Kossařové užívali i jméno Vaněk / Vaník (Šebestián 1722 Kossař, 1723 a 1725 Vaník; Ferdinand 1710 Kossař, 1698–1703 Vaněk) – nedoloženo. Podobně Ludmila 8. 1. 1725 („Jana Ko-wařze a Doroty“, kmotři Forejtová, Chmelařová, Šebestián Kossař) – snad sestra (K). Sňatek Jana st. × Doroty v Osek 01 O 1700 – VII 1722 není.",
-        "Plzeň N78 – alias Kossař = Vaněk / Vaník doložen nepřímo (K+): 24. 8. 1719 Volduchy „Anna, vlastní dcera Jana Wanka a manželky jeho Doroty; lev. Kateřina Forejtová z Volduch, test. Kateřina Chmelařka z Volduch a Šebestián Wanick z Oseka“ (Osek 01 N str. 178, sn. 91 vlevo; M, ověřeno koordinátorem) – tíž kmotři jako u dětí „Jana Kossaře × Doroty“; Šebestián × Kateřina z Oseka 1722 „Kossař“, 1723 „Waníček“, 1725 „Wanek“; ve křtech dětí Jana ml. 1747 „Kossay“, 1751 kmotr „Šebestián Wanick“. Děti Jana st. × Doroty: Dorota 1710, Anna Kateřina 1712, Kateřina 1714, Anna 1719, Markéta 1722, snad Ludmila 1725 a Jan 7. 4. 1727 (nejsilnější kandidát křtu Jana ml., K+). Rodiče na kartu nezapisuji, dokud sňatek 1745 zůstává K."
+        "KANDIDÁT křtu (K): 7./8. 4. 1727 Volduchy – „Jan, vlastní syn Jana Wanka (?) z Volduch a Doroty manželky jeho“, levans Šebestián Waník (?) z Oseka, testes Tomáš Chmelař a Kateřina Fo[rejt]ová z Volduch (Osek 01 N sn. 128 vlevo; čtení příjmení Wanka / Walta nejisté, ověřeno koordinátorem na výřezu). Kmotři odpovídají rodině Jana Kossaře × Doroty a věk sedí (1772 „47“). Hypotéza: Kossařové užívali i jméno Vaněk / Vaník (Šebestián 1722 Kossař, 1723 a 1725 Vaník; Ferdinand 1710 Kossař, 1698–1703 Vaněk) – nedoloženo. Podobně Ludmila 8. 1. 1725 („Jana Ko-wařze a Doroty“, kmotři Forejtová, Chmelařová, Šebestián Kossař) – snad sestra (K). Sňatek Jana st. × Doroty v Osek 01 O 1700 – VII 1722 není."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 07 (O 1772–1820), str. 12, snímek 8 – https://www.portafontium.eu/iipimage/30066673/osek-07_0080-o",
@@ -6443,8 +6460,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Veroniky Kučerové.",
         "Oddán 7. 5. 1805 v Křenovicích (č. 82) jako „Patental Invalid“, 30 let, s Mariannou, dcerou Ondřeje Zrůnka (?) z č. 53 (22 let); svědci Matěj a Pavel Spačilové, třičtvrtníci. Pozor: na téže straně jiný František Spačil (č. 70) × Marianna Hložková.",
-        "KANDIDÁT křtu (K+; ověřeno koordinátorem): 27. I 1773 Křenovice č. 34 – „Franciscus; Joann Spačil (?) et Anna uxor; patrini Jakub Hořiček (?) & Rosalia“ (N 13121 sn. 248 vlevo; M zápis) – jediný František Spačil v N X 1772 – XII 1776; v Křenovicích ale 1805 dva ženiši František Spačil (č. 82 a č. 70) a v l. 1773–76 aspoň čtyři otcové Spačilové → druhý ženich František Spačil (č. 70, 4. 11. 1805) byl 22letý vdovec (O 13137 sn. 71; M) – křest 1773 tedy patří našemu Františkovi (č. 82, „30, svobodný“); jiný František Spačil v N I 1771 – XII 1778 není.",
-        "Zemřel 21. 8. 1832 (pohřben 23. 8.) v Křenovicích č. 82: „Franz Spatschil, Chalupner“, 57 let, cholera; 23. 8. tamtéž syn Josef, 9 let 10 měsíců, cholera (Z 13149 str. 184, sn. 146 vlevo; M, ověřeno koordinátorem) → *~1775 (věk 1805 i 1832 shodně) – kandidátní křest 1773 by dával 59 (K+, nepovýšeno)."
+        "Zemřel 21. 8. 1832 (pohřben 23. 8.) v Křenovicích č. 82: „Franz Spatschil, Chalupner“, 57 let, cholera; 23. 8. tamtéž syn Josef, 9 let 10 měsíců, cholera (Z 13149 str. 184, sn. 146 vlevo; M, ověřeno koordinátorem) → *~1775 (věk 1805 i 1832 shodně) – kandidátní křest 1773 by dával 59 (K+, nepovýšeno).",
+        "KANDIDÁT křtu (K+; ověřeno koordinátorem): 27. I 1773 Křenovice č. 34 – „Franciscus; Joann Spačil (?) et Anna uxor; patrini Jakub Hořiček (?) & Rosalia“ (N 13121 sn. 248 vlevo; M zápis) – jediný František Spačil v N X 1772 – XII 1776; v Křenovicích ale 1805 dva ženiši František Spačil (č. 82 a č. 70) a v l. 1773–76 aspoň čtyři otcové Spačilové → druhý ženich František Spačil (č. 70, 4. 11. 1805) byl 22letý vdovec (O 13137 sn. 71; M) – křest 1773 tedy patří našemu Františkovi (č. 82, „30, svobodný“); jiný František Spačil v N I 1771 – XII 1778 není."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1822–1856, sign. 13124, oddíl Heršpice, str. 83, snímek 327 – https://www.mza.cz/actapublica/matrika/detail/1952",
@@ -6597,8 +6614,8 @@ window.RODOKMEN = {
         "S Kateřinou Lotrabovou (?) měl v Heršpicích č. 40 děti: Anežka (1801), Kateřina (1803), Anna (1804 ?), další 1806–1811, Josef (1813), Jan (1816); r. 1801–1803 podruh, později třičtvrtník. Kmotři z Kobeřic (Štěpán Zahula ?) – Kateřina snad z Kobeřic. Sňatek není v indexu oddaných Slavkov 1784–1820.",
         "Zemřel 28. 12. 1835 (pohřben 30. 12.) v Heršpicích č. 40 jako třičtvrtník, 68 let, sešlostí věkem (Z 13149, str. 310).",
         "POZOR: kolem 1800 žili v Heršpicích tři Tobiášové Kučerové – Tobiáš × Barbora (čtvrtník, č. 47, děti 1783–1799), náš Tobiáš (č. 40) a Tobiáš ml. × Tekla Hrabovská (podruh, č. 20).",
-        "KANDIDÁT křtu: 18. 5. 1767 pokřtěn „Dobias“, syn Václava Kučery, sedláka v Heršpicích, a Kateřiny (NOZ 13121, sn. 201) – přesně sedí s věkem; jiné Tobiáše 1763–1771 zatím neprověřeny.",
-        "Bratr (M): Jan, 19. 6. 1765 Heršpice – „Wenceslaus Kučera rusticus, Catharina“; kmotr Pavel Lauth, kožešník ze Slavkova – týž jako u křtu Tobiáše 1767 (N 13121 sn. 182 vpravo) → vazba na křest 1767 K+. Pozor: současně Václav Kučera × Marianna (Heršpice; Jiří 1765) – jiná rodina. Jiný Tobiáš Kučera II 1765 – V 1769 není."
+        "Bratr (M): Jan, 19. 6. 1765 Heršpice – „Wenceslaus Kučera rusticus, Catharina“; kmotr Pavel Lauth, kožešník ze Slavkova – týž jako u křtu Tobiáše 1767 (N 13121 sn. 182 vpravo) → vazba na křest 1767 K+. Pozor: současně Václav Kučera × Marianna (Heršpice; Jiří 1765) – jiná rodina. Jiný Tobiáš Kučera II 1765 – V 1769 není.",
+        "KANDIDÁT křtu: 18. 5. 1767 pokřtěn „Dobias“, syn Václava Kučery, sedláka v Heršpicích, a Kateřiny (NOZ 13121, sn. 201) – přesně sedí s věkem; jiné Tobiáše 1763–1771 zatím neprověřeny."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -6624,10 +6641,10 @@ window.RODOKMEN = {
       spouse: "tobias_ku",
       notes: [
         "Matka Jana Kučery (*1816) a dalších dětí v Heršpicích č. 40 (1801–1816); v křtech „Lottrab / Lotrab (?)“. Původ: oddací zápis syna 1837 „z Letonic (?)“, kmotři z Kobeřic – nejisté.",
-        "KANDIDÁT úmrtí: index zemřelých 1822 „Kučera Katharina – Herspitz – 285/288“ (nečteno).",
-        "KANDIDÁT původu (K+): „geborne Jo[s/h]… Lotrab (?), Halblehners in Lettnitz“ (O 1837) = nejspíš Rotrekl z Letonic (fara Dražovice) – v Letonicích 1771–1782 velká rodina Rotreklů. Kandidátky křtu (NOZ Dražovice 12529, M zápisy): Catharina 2. 11. 1774, otec Josef Rotrekl, pololáník Letonice č. 50 (?) × Marianna (nejlepší – „Halblehner“); Catharina 24. 11. 1772 (Jiří, podruh × Apolonie); Catharina 28. 8. 1777 (Antonín, sedlák × Magdalena, č. 30). Sňatek s Tobiášem v O Dražovice 1799–1803 není.",
         "Úmrtí ve faře Slavkov 1836 – začátek 1863 nenalezeno: všechny Kateřiny Kučerové v indexu Z (Heršpice 1840, 1841; Hrušky 1845, 1858; Hodějice 1851) jsou jiné ženy (manželky / vdovy po Jakubovi, Pavlovi, Františkovi, Matějovi; MZA N2–N4). Zbývá index Z 1829–1836, nebo zemřela mimo faru.",
-        "Ani v indexu Z K 1829–1836 (Heršpice) není → úmrtí ve faře Slavkov 1829 – začátek 1863 negativní; zemřela nejspíš mimo faru."
+        "Ani v indexu Z K 1829–1836 (Heršpice) není → úmrtí ve faře Slavkov 1829 – začátek 1863 negativní; zemřela nejspíš mimo faru.",
+        "KANDIDÁT úmrtí: index zemřelých 1822 „Kučera Katharina – Herspitz – 285/288“ (nečteno).",
+        "KANDIDÁT původu (K+): „geborne Jo[s/h]… Lotrab (?), Halblehners in Lettnitz“ (O 1837) = nejspíš Rotrekl z Letonic (fara Dražovice) – v Letonicích 1771–1782 velká rodina Rotreklů. Kandidátky křtu (NOZ Dražovice 12529, M zápisy): Catharina 2. 11. 1774, otec Josef Rotrekl, pololáník Letonice č. 50 (?) × Marianna (nejlepší – „Halblehner“); Catharina 24. 11. 1772 (Jiří, podruh × Apolonie); Catharina 28. 8. 1777 (Antonín, sedlák × Magdalena, č. 30). Sňatek s Tobiášem v O Dražovice 1799–1803 není."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Křenovice, str. 39, snímek 152 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -6799,8 +6816,8 @@ window.RODOKMEN = {
       notes: [
         "Dcera Martina Šimoníka, čtvrtníka v Hodějicích č. 35; oddána 20. 7. 1806 (20 let). Matka Josefa Hrabovského (*1819).",
         "Zemřela 3. 1. 1846 v Hodějicích č. 50 (pohřbena 5. 1., kaplan Emil Wondráček ?): „Magdalena, Eheweib des Georg Hrabowsky, Ausgedinger“, 60 let (M; věk sedí se sňatkem 1806 i kandidátem křtu 1785).",
-        "KANDIDÁT křtu: 22. 7. 1785 Hodějice č. 52 – Magdalena, dcera Martina Šimoníka a Johanny (N 13122, str. 20) – věk 20 v r. 1806 sedí, číslo domu ne (52 × 35). Pozor: jiná Magdalena Šimoníková *14. 7. 1788 (otec Josef). Rodiče se vzali 6. 5. 1783 v č. 52 – číslo domu 52 sedí s křtem 1785.",
-        "Matka: pokud platí křest 1785, je to Johanna (2. manželka Martina, × 1783) – křest 22. 7. 1785 znovu přečten: „Vater Martin Schimonik Einw. – Mutter Johanna“ (MZA N27); 1. manželka Rosina Pavelková zemřela před V 1783."
+        "Matka: pokud platí křest 1785, je to Johanna (2. manželka Martina, × 1783) – křest 22. 7. 1785 znovu přečten: „Vater Martin Schimonik Einw. – Mutter Johanna“ (MZA N27); 1. manželka Rosina Pavelková zemřela před V 1783.",
+        "KANDIDÁT křtu: 22. 7. 1785 Hodějice č. 52 – Magdalena, dcera Martina Šimoníka a Johanny (N 13122, str. 20) – věk 20 v r. 1806 sedí, číslo domu ne (52 × 35). Pozor: jiná Magdalena Šimoníková *14. 7. 1788 (otec Josef). Rodiče se vzali 6. 5. 1783 v č. 52 – číslo domu 52 sedí s křtem 1785."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1784–1849, sign. 13138, oddíl Heršpice, str. 46, snímek 343 – https://www.mza.cz/actapublica/matrika/detail/1960",
@@ -6944,8 +6961,8 @@ window.RODOKMEN = {
       marriage: "8. 11. 1808, Heršpice – s Pavlem Láníčkem",
       notes: [
         "Dcera Františka Willama, domkáře v Heršpicích (č. 18 v r. 1808; 1841 „čtvrtník“); oddána 8. 11. 1808 (22 let). Matka Kateřiny (*1812) a Marianny (*1822) Láníčkových.",
-        "KANDIDÁT křtu: 21. 5. 1784 v Heršpicích č. 38 Magdalena, dcera Františka Wilama, čtvrtníka, a Mariny (jediná Magdalena Wilam v indexu 1784–1790).",
-        "Zemřela 11. 4. 1859 (pohřbena 13. 4.) v Heršpicích č. 57: „Magdalena, Witwe nach Paul Lanitschek, Häuslers in Herspitz“, 78 let, stářím (Z 13155, sn. 17 vlevo, pag. 30; M) → *~1781."
+        "Zemřela 11. 4. 1859 (pohřbena 13. 4.) v Heršpicích č. 57: „Magdalena, Witwe nach Paul Lanitschek, Häuslers in Herspitz“, 78 let, stářím (Z 13155, sn. 17 vlevo, pag. 30; M) → *~1781.",
+        "KANDIDÁT křtu: 21. 5. 1784 v Heršpicích č. 38 Magdalena, dcera Františka Wilama, čtvrtníka, a Mariny (jediná Magdalena Wilam v indexu 1784–1790)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N sign. 13124, oddíl Heršpice, str. 1, snímek 286 – https://www.mza.cz/actapublica/matrika/detail/1952",
@@ -6973,13 +6990,13 @@ window.RODOKMEN = {
       occ: "sedlák v Černíně č. 7",
       notes: [
         "Otec Josefa Diviše (sňatek 1773).",
-        "KANDIDÁT: 1772 svědčí „Mathias Diwisch, Rusticus ex Gernin“, 62 let (*~1710) – příbuznost neznámá.",
         "Zemřel 15. 5. 1787 v Černíně č. 7: „Václav Diviš, sedlák z Černína patřícího ku Králo-Dvoru“, 70 let (Zdice 02 sn. 332, 4. zápis; M). Manželka Kateřina † 24. 3. 1787 tamtéž, 70 let. Děti (Zdice 01 N): František 1745, Kateřina 1746, Matěj 1750, Jan Václav 1752; Josef (*před 1744).",
         "Dcera Dorota pokřtěna 9. 1. 1743 (*8. 1.) z Černína, poddaní Králodvorští: „Václava Diviše otce, Kateřiny matky“ (Žebrák 01 sn. 156 vpravo; M, ověřeno koordinátorem) – nejstarší známé dítě.",
         "Sňatek (M – rodné příjmení nevěsty potvrzeno 1759): 20. 11. 1740 z Černína „Václav po † neb. Janovi Diw…[hřbet]“ s Kateřinou „po † neb. Ondřejovi (?) Hladkovi z B…“; družba Jan Muss…, družka Kateřina Janková (?) z Černína (Žebrák 01 O sn. 252 vlevo; plné rozlišení – konec příjmení ženicha ve hřbetu). Podporuje: syn Václav pokřtěn ~21. 9. 1741 (Václav Diviš × Kateřina; sn. 151 vpravo; M), deset měsíců po sňatku. Josef v N III–X 1741 a IV–XI 1743 není; zbývá I–III 1743, XI 1743 – 1744.",
         "Další děti (Zdice 01; M): Matěj Tadeáš (*II 1750, † 11 dní), Rozálie 30. 4. 1754. Josef v N Zdice 01 1744–1758 NENÍ (rejstříkoví „Josef 1758“ a „Martin 1755“ jsou děti Matěje Diviše × Anny Novákové) – Josef (× 1773 jako syn Václava z Černína 7) zůstává bez křtu; zbývá rejstříkové Terezie ~1756, Karel a Kateřina ~1759.",
         "Další děti (Zdice 01): Terezie ~13. 10. 1756, Karel 17. 9. 1759; Jan Václav (*1752) † 15. 4. 1754; dítě Jan (*~1749) † VII 1751 – v rejstříku N chybí, rejstřík je neúplný. Oddací 1773 (znovu čten): „Josephus filius Wenceslai Diwiš rustici ex pago Černin N: 7“ – Josef je syn Václava; křest nejspíš v mezeře 1747–1749 (N sn. 17–24), věk 75 při † 1828 podhodnocen.",
-        "Rodina otce (K): Dorota Divišová kmotrou v Černíně 1719 – spíš manželka Jakuba Diviše (× 1702), ne Jana. Křest Václava i Kateřiny Hladké v N XII 1716 – X 1719 není (střední negativ); ve Zdicích 1743 Jan Hladký × Kateřina (snad bratr Kateřiny; K). Josef v Žebrák 01 N XI 1740 – XII 1743 není (vyčerpáno, kromě IV–XI 1743 jen při 0,5×)."
+        "Rodina otce (K): Dorota Divišová kmotrou v Černíně 1719 – spíš manželka Jakuba Diviše (× 1702), ne Jana. Křest Václava i Kateřiny Hladké v N XII 1716 – X 1719 není (střední negativ); ve Zdicích 1743 Jan Hladký × Kateřina (snad bratr Kateřiny; K). Josef v Žebrák 01 N XI 1740 – XII 1743 není (vyčerpáno, kromě IV–XI 1743 jen při 0,5×).",
+        "KANDIDÁT: 1772 svědčí „Mathias Diwisch, Rusticus ex Gernin“, 62 let (*~1710) – příbuznost neznámá."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zdice, kniha Zdice 01, oddíl O, snímek 316 – https://ebadatelna.soapraha.cz/d/9095/316",
@@ -7104,8 +7121,8 @@ window.RODOKMEN = {
       notes: [
         "Dcera Josefa Roskopala z Hodějic (sňatek 1783). Matka Jana (*1790), Matyldy (*1793), Urbana (1796), Vincence (1798), Antonína (1800) a Apolonie (1803) – v křtech „Roßkopalin“ (dřívější čtení „Koschgelin / Kožgelová“ bylo chybné). Oddací zápis syna 1827 uvádí otce „Paul (?)“ – platí sňatek 1783 (Josef).",
         "Zemřela 17. 2. 1817 (pohřbena 19. 2.) ve Špitálce č. 19 jako „Magdalena Hrazdilek, Wittib“, uvedeno 46 let. ROZPOR: věk 46 (*~1771) nesedí s kandidátním křtem 1764 – v této faře jsou věky často podhodnocené.",
-        "KANDIDÁT křtu: 4. 7. 1764 pokřtěna Magdalena, dcera Josefa Roskopala, podruha v Hruškách, a Kateřiny (kmotři Jan Fiala a Marianna Paternoská, šenkýři z Hrušek) – jediná Magdalena Roskopalová ve faře 1754–1765; otec sedí se sňatkem 1783, místo (Hrušky × Hodějice) ne.",
-        "Matka Kateřina Roskopalová, vdova, zemřela 9. 2. 1805 v Hodějicích č. 1 (dům sňatku Magdaleny 1783 a jejích dětí) – vysvětluje bydliště v Hodějicích 1783 a podporuje kandidátní křest 1764 (MZA N13)."
+        "Matka Kateřina Roskopalová, vdova, zemřela 9. 2. 1805 v Hodějicích č. 1 (dům sňatku Magdaleny 1783 a jejích dětí) – vysvětluje bydliště v Hodějicích 1783 a podporuje kandidátní křest 1764 (MZA N13).",
+        "KANDIDÁT křtu: 4. 7. 1764 pokřtěna Magdalena, dcera Josefa Roskopala, podruha v Hruškách, a Kateřiny (kmotři Jan Fiala a Marianna Paternoská, šenkýři z Hrušek) – jediná Magdalena Roskopalová ve faře 1754–1765; otec sedí se sňatkem 1783, místo (Hrušky × Hodějice) ne."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, N 1779–1793, sign. 13122, oddíl Hodějice, str. 197, snímek 215 – https://www.mza.cz/actapublica/matrika/detail/1950",
@@ -7497,8 +7514,8 @@ window.RODOKMEN = {
         "Druhý syn Martin (*1728 × 1751 Kateřina Hanzlíková, † 1759) – KANDIDÁT předka přes Dorotu Aubrechtovou (K).",
         "Manželka Markéta; děti ve Volduchách (Osek 01 N; M): Matouš 2. 9. 1719, Kateřina 3. 3. 1721, Barbora 6. 12. 1724, Jakub 29. 4. 1726, Martin 5. 10. 1728 – Pavel a Markéta jsou předky Jirky dvakrát (přes Matouše i Martina).",
         "Zemřel 20. 9. 1769 ve Volduchách (pohřben 22. 9.): „Paulus Čada, rusticus Wolduchensis, senex ut ipse agebat 100 annorum“ (Osek 04 Z str. 40, sn. 124 vlevo; M, nativně ověřeno agentem) – věk udaný jím samým nadsazen; 2. 7. 1715 byl ještě svobodný (družba, Osek 01 O sn. 158 vpravo; M) → *~1690. Sňatek s Markétou VII 1715 – II 1719 není v Osek 01 O → nejspíš ve faře nevěsty (stopa: kmotři z Litohlav).",
-        "KANDIDÁT křtu (K+): 22. 5. 1689 Volduchy – „pokřtěno dítě jménem Pavel. Rod.: Matouš Čuda, Kateřina. Kmot.: Pavel Lehner, Václav Hanzlík, Lyduška Opová (?)“ (Rokycany 02 N str. 78, sn. 41 vlevo; M, ověřeno koordinátorem) – jediný Pavel Čuda v rejstříku 1684–95; syn Matouš (1719) nese jméno děda; při úmrtí 1769 mu bylo 80 (ne 100). Sňatek s Markétou (1715–19) je nejspíš v Rokycanech (Litohlavy) – O Rokycany před 1736 nejsou digitalizovány.",
-        "Dcera Barbora (*1724) † 3. 12. 1724, 1 rok (Osek 01 Z sn. 188 vlevo; M)."
+        "Dcera Barbora (*1724) † 3. 12. 1724, 1 rok (Osek 01 Z sn. 188 vlevo; M).",
+        "KANDIDÁT křtu (K+): 22. 5. 1689 Volduchy – „pokřtěno dítě jménem Pavel. Rod.: Matouš Čuda, Kateřina. Kmot.: Pavel Lehner, Václav Hanzlík, Lyduška Opová (?)“ (Rokycany 02 N str. 78, sn. 41 vlevo; M, ověřeno koordinátorem) – jediný Pavel Čuda v rejstříku 1684–95; syn Matouš (1719) nese jméno děda; při úmrtí 1769 mu bylo 80 (ne 100). Sňatek s Markétou (1715–19) je nejspíš v Rokycanech (Litohlavy) – O Rokycany před 1736 nejsou digitalizovány."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 03, oddíl O, str. 15, snímek 116 – https://www.portafontium.eu/iipimage/30066669/osek-03_1160-o",
@@ -7506,7 +7523,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1744_oddani_matous_cada_syn_pavla_x_eva_holubova_osek03_sn116.jpg","t":"Sňatek Matouše Čady a Evy Holubové, Osek 3. 11. 1744"},
-        {"f":"img/1689_N_Cada_Pavel_Volduchy.jpg","t":"Křest 22. 5. 1689, Volduchy (kandidát)"}
+        {"f":"img/1689_N_Cada_Pavel_Volduchy.jpg","t":"Křest 22. 5. 1689, Volduchy (kandidát)"},
+        {"f":"img/1719_N_Cada_Matous_Volduchy.jpg","t":"Křest syna Matouš: Křest 2. 9. 1719, Volduchy (kandidát)"}
       ]
     },
     {
@@ -7600,9 +7618,9 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěn 31. 1. 1733 v Hruškách: „Josephum – Joanne Roskopal, Anna, Hruschka“; kmotři Josef Tenck a jeho dcera Marina z Hrušek (týž kmotr jako u sestry Rosalie 1731) (N 13120, sn. 145 vlevo, str. 283; M, ověřeno koordinátorem) – při sňatku 1757 asi 24 let.",
         "Otec Magdaleny Hrazdílkové (sňatek 1783: „filia Josephi Roskopal, Hodj.“).",
-        "KANDIDÁT: Josef Roskopal, podruh v Hruškách, × Kateřina – děti Matouš (16. 9. 1758) a Magdalena (4. 7. 1764).",
         "Zemřel před 9. 2. 1805 (manželka tehdy vdovou); v indexu Z Slavkov 1784–1822 (R) není → nejspíš před V 1784. V Z Slavkov I 1779 – IV 1784 také není; při sňatku dcery VII 1783 „filia Josephi“ bez † → zemřel nejspíš mimo faru.",
-        "Oddán 24. 1. 1757 (Hrušky): „juvenis Josephus filius Joannis Roskopal rustici cum puella Catharina filia post defunctum Jacobum Waš-ek (?) rusticum, ambo Hruschka“; svědci Martin Pohot a Josef Pospíšil, sedláci z Hrušek (O 13121, sn. 299 vpravo; M, ověřeno koordinátorem). První dítě Matouš 21. 9. 1757."
+        "Oddán 24. 1. 1757 (Hrušky): „juvenis Josephus filius Joannis Roskopal rustici cum puella Catharina filia post defunctum Jacobum Waš-ek (?) rusticum, ambo Hruschka“; svědci Martin Pohot a Josef Pospíšil, sedláci z Hrušek (O 13121, sn. 299 vpravo; M, ověřeno koordinátorem). První dítě Matouš 21. 9. 1757.",
+        "KANDIDÁT: Josef Roskopal, podruh v Hruškách, × Kateřina – děti Matouš (16. 9. 1758) a Magdalena (4. 7. 1764)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1779–1793, sign. 13136, snímek 16 – https://www.mza.cz/actapublica/matrika/detail/1958",
@@ -7672,8 +7690,8 @@ window.RODOKMEN = {
         "Vdova po † Jakubu Gyštovi (?); 13. 2. 1763 se v Oseku znovu vdala za Šimona Holuba. Matka Anny Laukotové / Lodlové (křest 1774).",
         "1. manžel Jakub Gyšt, chalupník (subrusticus) z Oseka, † 7. 2. 1762, 38 let (Osek 04 Z str. 10, sn. 109 vlevo; M zápis, ztotožnění K+). KANDIDÁT původu (K): Jakub, syn Martina Gyšta z Oseka, se 28. 10. 1755 oženil s dcerou Josefa Gottfrida z Oseka (Osek 03 O str. 58, sn. 138 vlevo – křestní jméno nevěsty v zápisu chybí; jiný sňatek Jakuba Gyšta 1747–1771 není) → Kateřina roz. Gottfridová (?), narozená spíš ~1730–1737.",
         "Potvrzeno: manželka Jakuba Gyšta se jmenovala Kateřina – křty dcer Anny (11./12. 2. 1757, Osek 03 N str. 156) a Kateřiny (24./25. 5. 1759, str. 175; kmotra Kateřina Čadová z Volduch) „otce Jakuba Gyšta a matky Kateřiny“ (M) → nevěsta z 28. 10. 1755, dcera Josefa Gottfrida z Oseka (K+). Rodiče Josef Gottfrid × Kateřina měli v Oseku děti Barboru (13. 4. 1737) a Ludmilu (1739) (M); Kateřina sama v rejstříku N 1728–1739 není (*před 1728).",
-        "KANDIDÁT křtu (K+): Kateřina, „vlastní dcera Jozefa Kodfrida (Godfrida) a Kateřiny“, nar. 25. 12., pokřtěna 27. 12. 1727 v Oseku (Osek 01 N str. 261, sn. 132 vpravo; M zápis); sestra Eva (25. 12. 1725, str. 240). Jediná Kateřina Josefa Gottfrida 1725–1739. Slabé místo: při narození dcery Anny (VI 1774) by jí bylo 46 let.",
-        "Zemřela 6. 7. 1793 v Oseku č. 85: „Katharina Holubowa“, 60 let, souchotiny (Osek 08 Z, str. 35, sn. 22 vpravo; M; dům č. 85 = dům Šimona Holuba, kde se 1771 a 1774 rodily jejich děti). Šimon se v Oseku 1760–1808 znovu neoženil → matka Anny (*1774) je tatáž Kateřina, vdova po Gyštovi (K+). Pozor: v Oseku 1771–72 žil i druhý Šimon Holub (č. 73)."
+        "Zemřela 6. 7. 1793 v Oseku č. 85: „Katharina Holubowa“, 60 let, souchotiny (Osek 08 Z, str. 35, sn. 22 vpravo; M; dům č. 85 = dům Šimona Holuba, kde se 1771 a 1774 rodily jejich děti). Šimon se v Oseku 1760–1808 znovu neoženil → matka Anny (*1774) je tatáž Kateřina, vdova po Gyštovi (K+). Pozor: v Oseku 1771–72 žil i druhý Šimon Holub (č. 73).",
+        "KANDIDÁT křtu (K+): Kateřina, „vlastní dcera Jozefa Kodfrida (Godfrida) a Kateřiny“, nar. 25. 12., pokřtěna 27. 12. 1727 v Oseku (Osek 01 N str. 261, sn. 132 vpravo; M zápis); sestra Eva (25. 12. 1725, str. 240). Jediná Kateřina Josefa Gottfrida 1725–1739. Slabé místo: při narození dcery Anny (VI 1774) by jí bylo 46 let."
       ],
       sources: [
         "SOA Plzeň, fara Osek, kniha Osek 05 (N 1772–1805), snímek 6 – https://www.portafontium.eu/iipimage/30066671/osek-05_0060-n",
@@ -8619,9 +8637,9 @@ window.RODOKMEN = {
         "Křest Šimona 13. 10. 1746 dříve chybně přičten Kašparovi – otcem je Josef Holub × Kateřina (Plzeň N39); rozpor o dvou manželkách tím odpadá.",
         "Vnuk Kašpar (syn Šimona, *21. 6. 1771) zemřel 10. 7. 1771 v Oseku č. 85.",
         "Syn Jakub („pozůstalý vlastní syn po † Kašparovi Holubovi ze wsi Woska“) × 29. 10. 1752 Osek Anna, vlastní dcera Josefa Gotfrida z Oseka; družba Adam Holub z Vytinky (Osek 03 O sn. 133 vlevo; M). Jakub pokřtěn 4. 10. 1721 (*3. 10.) v Oseku: „Jakub, vlastní syn Kašpara Holuba a Lydmilly manželky jeho“ (Osek 01 N sn. 100 vpravo; M) – nejstarší známé dítě; sňatek Kašpara × Ludmily není v Osek 01 O 1712 – X 1721. Křest Kašpara (~1696) v Oseku nelze – mezera N ~1688 – VIII 1700.",
-        "KANDIDÁT (K): spíš bratr než syn Matěje Holuba (*~1683 † 1733) – Kašpar měl děti už od 1721 (Jakub) a při úmrtí 1740 měl ~44 let; snad syn Matěje st. († před X 1712). Křest v Oseku nedohledatelný (mezera N ~1688 – VIII 1700).",
         "Sňatek s Ludmilou není v Osek 01 O III 1715 – VIII 1720 ani IX–XI 1721 a 1725–39 (Plzeň N81); kniha má mezeru VIII 1720 – IX 1721 – sňatek nejspíš tam (syn Jakub *3. 10. 1721), nebo ve farnosti nevěsty.",
-        "Rokycany 02 rejstřík H (křty 1684–95): jen Matěj Holub (děti Jan, Kateřina, Kateřina), dítě Kašpar není; Matěj snad otec (K−, jen příjmení)."
+        "Rokycany 02 rejstřík H (křty 1684–95): jen Matěj Holub (děti Jan, Kateřina, Kateřina), dítě Kašpar není; Matěj snad otec (K−, jen příjmení).",
+        "KANDIDÁT (K): spíš bratr než syn Matěje Holuba (*~1683 † 1733) – Kašpar měl děti už od 1721 (Jakub) a při úmrtí 1740 měl ~44 let; snad syn Matěje st. († před X 1712). Křest v Oseku nedohledatelný (mezera N ~1688 – VIII 1700)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 04 (O), snímek 75 vpravo – https://www.portafontium.eu/iipimage/30066670/osek-04_0750-o",
@@ -8824,14 +8842,14 @@ window.RODOKMEN = {
         "Sedlák (chalupník) v Branově č. 4 (okr. Rakovník; fara Zbečno, od 1785 Nezabudice); manželka Barbora; dcera Ludmila *11. 5. 1771. V r. 1807 uveden jako zemřelý. Sňatek nenalezen (index Zbečno 04 neúplný).",
         "Praha N115: sňatek s Barborou není v Zbečno 04 O I 1767 – X 1770.",
         "Praha N116: sňatek není v Zbečno 04 O VII 1765 – XI 1771 (střední negativ) → před 1765 nebo jiná fara.",
-        "KANDIDÁT (K, tvar příjmení nedořešen): křest Barbory, dne 16./17. XII, rok nepřečten (zřejmě ~1778/79), Branov č. 4 – „Klenička (?) Wenceslaus inquilinus, Mater Barbara, subditi Pürglitz“, kmotra Anna, manželka Petra Dubského z Branova (Zbečno 04 N sn. 290 vlevo, pag. 568; M pro zápis, ověřeno koordinátorem). Dům a jména rodičů sedí; první písmeno spíš K, takže rod může být v rejstříku pod K a dřívější negativy sňatku tento tvar mohly přehlédnout.",
         "Tvar příjmení nerozhodnut: křest dcery Ludmily 11./12. 5. 1771, Branov č. 4 – „Wenceslaus Klenizka (?), Barbara“ (Zbečno 04 N sn. 237 vpravo, pag. 463; M, ověřeno koordinátorem; měsíc a rok nad zápisem jen z agenta a karty). Stejně i křest Barbory (viz níže): čtení Klenička, ne Hlavička, první písmeno K/H nejisté. Rejstříky N a O písmeno K tento tvar nemají (částečně slabé čtení), rejstřík rod zřejmě vynechává.",
         "Branov, tvar „Klenička“: XII 1778 kmotra „Barbara uxor Wenceslai Klenička ex Branow“ (Zbečno 04 N sn. 284 vlevo, pag. 556; M, ověřeno koordinátorem). Křest Barbory, pag. 568, je podle sledu nadpisů XII 1779 (rok přímo na straně není). Tvar „Hlavička (?) / Wlaczka (?)“ pochází z pozdějších zápisů vnuků, kde je sám nejistý. Karta zatím ponechána pod jménem Hlavička; první písmeno spíš K, nerozhodnuto.",
-        "KANDIDÁT (K, možná jiný muž): IX 1759, Branov – „honestus Viduus Wenceslaus Klenizka Branovio“ × „Chatarina post defunctum Franciscum Syba (?), legitima filia“ z Mniesterio (?) (Zbečno 04 O sn. 331 vpravo, pag. 30; M pro zápis, ověřeno koordinátorem). Shoda jen ve jménu, tvaru příjmení a obci; kdyby to byl týž muž, neplatí odhad narození ~1750 a Barbora by byla další manželka.",
         "Sňatek a tvar příjmení (K+, ověřeno koordinátorem): 28. (?) 11. 1763 „Wenceslaus filius Georgij Szlenizka, oriundus Branovio“ × „Barbara filia defuncti Francisci Ruzizka, oriunda Bugovio“, svědci Václav Widra a Tomáš Szlenizka z Branova (Zbečno 04 O sn. 340 vpravo, pag. 39; M). Křty v Branově: Anna 22. 10. 1764 „Wenceslai Szlenizka et Barbarae“ (sn. 193 vpravo; kmotři Jungmann, Dubský), Kateřina 14./15. 11. 1768 „Wenceslai Sklenizka, Matris Barbarae“ (sn. 223 vlevo; kmotři Peltz, Dubský). S Ludmilou 1771 (Klenizka, č. 4) je pojí jména, obec a opakovaní kmotři; číslo domu v nich není. Rejstřík vede rod pod S. Rodové jméno je tedy nejspíš Sklenička, ne Hlavička; karty zatím nepřejmenovány, předložit uživateli.",
         "Pozor: v Branově současně Václav Sklenička × Anna (Matěj 20. 2. 1765 sn. 195 vlevo, čteno agentem; Kateřina 29./30. 7. 1767 sn. 214 vlevo) a Tomáš × Anna – nesměšovat. Nečteno: rejstřík pag. 394–447, O pag. 4, 5, 17, 33.",
-        "KANDIDÁT křtu (K+): dne 29., zřejmě IX 1737 (měsíc a rok ze sledu nadpisů), z Branova – „syn jménem Václav z poctivých rodičů Jiříka Skleničky a Dorotky (?)“ (Zbečno 03 N sn. 134 vpravo, fol. 131; M pro zápis, ověřeno koordinátorem). Z pěti položek „Sklenička Václav“ v rejstříku jediná s otcem Jiřím (ostatní čteny jen agentem); vazbu dokládá otec a obec.",
-        "Praha N135: u Ludmily 1771 a Barbory 1779 lze první písmena číst i jako Sk- („Sklenizka“, „Sklenicza“) – čtení agenta, srovnání tvarů; koordinátor je na výřezech nevyloučil, ale ani nepotvrdil. V Branově 1766–80 víc mužů rodu (Václav, Tomáš, Jiří, Josef); svědek Václav Sklenicza 1779/80 bez manželky a domu (Zbečno 04 N sn. 288 vpravo, 290 vpravo). Dům č. 4 u páru pod tvarem Sklenička zatím nedoložen."
+        "Praha N135: u Ludmily 1771 a Barbory 1779 lze první písmena číst i jako Sk- („Sklenizka“, „Sklenicza“) – čtení agenta, srovnání tvarů; koordinátor je na výřezech nevyloučil, ale ani nepotvrdil. V Branově 1766–80 víc mužů rodu (Václav, Tomáš, Jiří, Josef); svědek Václav Sklenicza 1779/80 bez manželky a domu (Zbečno 04 N sn. 288 vpravo, 290 vpravo). Dům č. 4 u páru pod tvarem Sklenička zatím nedoložen.",
+        "KANDIDÁT (K, tvar příjmení nedořešen): křest Barbory, dne 16./17. XII, rok nepřečten (zřejmě ~1778/79), Branov č. 4 – „Klenička (?) Wenceslaus inquilinus, Mater Barbara, subditi Pürglitz“, kmotra Anna, manželka Petra Dubského z Branova (Zbečno 04 N sn. 290 vlevo, pag. 568; M pro zápis, ověřeno koordinátorem). Dům a jména rodičů sedí; první písmeno spíš K, takže rod může být v rejstříku pod K a dřívější negativy sňatku tento tvar mohly přehlédnout.",
+        "KANDIDÁT (K, možná jiný muž): IX 1759, Branov – „honestus Viduus Wenceslaus Klenizka Branovio“ × „Chatarina post defunctum Franciscum Syba (?), legitima filia“ z Mniesterio (?) (Zbečno 04 O sn. 331 vpravo, pag. 30; M pro zápis, ověřeno koordinátorem). Shoda jen ve jménu, tvaru příjmení a obci; kdyby to byl týž muž, neplatí odhad narození ~1750 a Barbora by byla další manželka.",
+        "KANDIDÁT křtu (K+): dne 29., zřejmě IX 1737 (měsíc a rok ze sledu nadpisů), z Branova – „syn jménem Václav z poctivých rodičů Jiříka Skleničky a Dorotky (?)“ (Zbečno 03 N sn. 134 vpravo, fol. 131; M pro zápis, ověřeno koordinátorem). Z pěti položek „Sklenička Václav“ v rejstříku jediná s otcem Jiřím (ostatní čteny jen agentem); vazbu dokládá otec a obec."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
@@ -8889,8 +8907,8 @@ window.RODOKMEN = {
         "Oddán 25. 5. 1721 jako „hon. Juvenis Paulus Hrazdirek cum hon. Virg. Catharina filia Jacobi Schusta, Hodegiciis“; svědci Jiří Florián a Pavel Němčanský z Hodějic.",
         "Sedlák v Hodějicích; s Kateřinou děti Josef (23. 1. 1722), Apolonie (I 1724), František (X 1725), Martin (4. 10. 1727).",
         "Zemřel 5. 5. 1747 v Hodějicích, 55 let (věk čten s jistotou D).",
-        "KANDIDÁT křtu (K+): 18. 1. 1699 Hodějice – „Bapt. Paulus. Pr. Paulus Hrazdil. Mr. Elisabeth ex Hodegicz. Patr. Paulus Hambalek cum uxore Mariana ex Raschowitz“ (N 13119 sn. 66 vlevo; M, ověřeno koordinátorem) – jediný syn Pavel Pavla Hrazdila v Hodějicích 1690 – X 1702; kmotr Hambálek z Rašovic jako u všech dětí. ROZPOR: věk 55 při † 1747 (→ *~1692) proti křtu 1699 (48) – platí křest; při sňatku 1721 mu bylo 22. Sourozenci: vlastní František 28. 3. 1701; nevlastní (matka Susanna) Šimon 1693, Anna 1696.",
-        "Děti zemřelé 1747 (K): Apolonie, 24 let (IX 1747), Marina, 14 let (19. 12. 1747) (Z 13121 sn. 357–358 vpravo)."
+        "Děti zemřelé 1747 (K): Apolonie, 24 let (IX 1747), Marina, 14 let (19. 12. 1747) (Z 13121 sn. 357–358 vpravo).",
+        "KANDIDÁT křtu (K+): 18. 1. 1699 Hodějice – „Bapt. Paulus. Pr. Paulus Hrazdil. Mr. Elisabeth ex Hodegicz. Patr. Paulus Hambalek cum uxore Mariana ex Raschowitz“ (N 13119 sn. 66 vlevo; M, ověřeno koordinátorem) – jediný syn Pavel Pavla Hrazdila v Hodějicích 1690 – X 1702; kmotr Hambálek z Rašovic jako u všech dětí. ROZPOR: věk 55 při † 1747 (→ *~1692) proti křtu 1699 (48) – platí křest; při sňatku 1721 mu bylo 22. Sourozenci: vlastní František 28. 3. 1701; nevlastní (matka Susanna) Šimon 1693, Anna 1696."
       ],
       sources: [
         "MZA Brno, fara Slavkov, N/O/Z 1707–1752 (sign. 13120), N, snímek 117 vlevo (4. 10. 1727) – https://www.mza.cz/actapublica/matrika/detail/1946",
@@ -8948,9 +8966,9 @@ window.RODOKMEN = {
         "Zemřel 15. 12. 1732 ve Volduchách (pohřben 17. 12.): „Martin Foregt, před smrtí 3 dny všemi svátostmi zaopatřen, stáří svého měl 54 léta“ (Osek 02 Z str. 191, sn. 103 vpravo; M zápis, ztotožnění K+ – jediný Martin Forejt) → *~1678. Snad bratr Matěje Forejta († 1743, 64 let; K).",
         "Ve stejné době žil ve Volduchách Matěj Lomryk (?) × Kateřina (syn Václav 18. 9. 1712) – dřívější čtení „Matěj Forejt“ chybné.",
         "Křest v Osek 01 N XII 1673 – 1687 není; kniha má mezery IV–IX 1680, XI 1681 – I 1683, VI 1683 – V 1687 („hic desunt quatuor anni“) a část křtů je v matrice Rokycany.",
-        "KANDIDÁT křtu (K++; nativně ověřeno koordinátorem): „Die 5. Novembris pokřtěno dítě z Wolduch jménem Martin, rodičové Jakub Foregt, manželka Kateřina“; kmotři Martin Tomanek, Šebestián Brada, Markéta Budinová (Rokycany 01 N, pag. 256, sn. 135 vlevo; M zápis, rok 1676 – po zápisech z 27. 12. následuje na pag. 259 nadpis „Letha Páně 1677“; ověřeno koordinátorem). Tentýž kmotr Šebestián Brada jako u bratra Matěje (*1679).",
         "Sourozenci (M): Matěj (26. 2. 1679, Osek), Anna (31. 5. 1681, Osek), Magdalena (7. 4. 1686, Volduchy; Rokycany 02 pag. 35) – vždy kmotr Šebestián Brada.",
-        "Rodiče (K++): Jakub Forejt × Kateřina Dudlová – oddáni 10. 11. (?) 1675 z Volduch, „Jakub syn Matěje Forejta s Kateřinou dcerou Matěje Dudla“ (Osek 01 O sn. 139 vlevo; M, ověřeno koordinátorem), rok před Martinovým křtem. Bratr Václav (*~1713, syn Martina) † 1719."
+        "Rodiče (K++): Jakub Forejt × Kateřina Dudlová – oddáni 10. 11. (?) 1675 z Volduch, „Jakub syn Matěje Forejta s Kateřinou dcerou Matěje Dudla“ (Osek 01 O sn. 139 vlevo; M, ověřeno koordinátorem), rok před Martinovým křtem. Bratr Václav (*~1713, syn Martina) † 1719.",
+        "KANDIDÁT křtu (K++; nativně ověřeno koordinátorem): „Die 5. Novembris pokřtěno dítě z Wolduch jménem Martin, rodičové Jakub Foregt, manželka Kateřina“; kmotři Martin Tomanek, Šebestián Brada, Markéta Budinová (Rokycany 01 N, pag. 256, sn. 135 vlevo; M zápis, rok 1676 – po zápisech z 27. 12. následuje na pag. 259 nadpis „Letha Páně 1677“; ověřeno koordinátorem). Tentýž kmotr Šebestián Brada jako u bratra Matěje (*1679)."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
@@ -8983,8 +9001,8 @@ window.RODOKMEN = {
         "Oddána 25. 10. 1705 ve Volduchách: „Copulatus est Martinus Foregt cum Elisabetha filia Wenceslai Hanzlik“; svědci Martin Blahník, Tomáš Šlemenda, Alžběta Gišová a Barbora Hanzlíková (Osek 01 O, sn. 150 vlevo; M – jediný Martin Forejt ženich 1700–1727).",
         "Zemřela 21. (III) 1750 ve Volduchách (pohřbena 23.), „Alžběta Foregtová … ze všemi svátostmi zaopatřena“, 73 let (Osek 03 Z, sn. 178 vpravo; M zápis, ztotožnění K+ – manžel neuveden) → *~1677.",
         "Manželka Martina Forejta z Volduch; matka Pavla (*1716).",
-        "KANDIDÁT křtu (K++): 14. 4. 1676 Volduchy – „křtěno dítě jménem Alžběta, z Wolduch, Petrovi Hanslykovi, matce Kateřina“ (Osek 01 N str. 8, sn. 6 vlevo; M, ověřeno koordinátorem) – jediná Alžběta Hanzlíková ve Volduchách 1659–1695 (rejstříky Rokycany 01–02); věk 73 při úmrtí 1750 sedí na měsíc.",
-        "ROZPOR (otec) – rozhodnuto podle pravidla křest > oddací (15. 10. 2026): oddací zápis 1705 „Elisabetha filia Wenceslai Hanzlik“ (M) – farář Werner u mrtvých otců píše „filia defuncti“, Václav tedy v r. 1705 žil a platil za otce. Výklad: Petr zemřel ~1679–1684, vdova Kateřina se provdala za Václava Hanzlíka (děti 1685–1693) → Václav = otčím (K+, sňatek nedohledatelný – mezera O VIII 1681 – X 1683, rokycanské O před 1736 nedigitalizovány). Pozor: Václav, syn Petra, *10. 7. 1678 (bratr); Václav Hanzlík × 22. 6. 1706 Anna Kozlová (který Václav – nejasné)."
+        "ROZPOR (otec) – rozhodnuto podle pravidla křest > oddací (15. 10. 2026): oddací zápis 1705 „Elisabetha filia Wenceslai Hanzlik“ (M) – farář Werner u mrtvých otců píše „filia defuncti“, Václav tedy v r. 1705 žil a platil za otce. Výklad: Petr zemřel ~1679–1684, vdova Kateřina se provdala za Václava Hanzlíka (děti 1685–1693) → Václav = otčím (K+, sňatek nedohledatelný – mezera O VIII 1681 – X 1683, rokycanské O před 1736 nedigitalizovány). Pozor: Václav, syn Petra, *10. 7. 1678 (bratr); Václav Hanzlík × 22. 6. 1706 Anna Kozlová (který Václav – nejasné).",
+        "KANDIDÁT křtu (K++): 14. 4. 1676 Volduchy – „křtěno dítě jménem Alžběta, z Wolduch, Petrovi Hanslykovi, matce Kateřina“ (Osek 01 N str. 8, sn. 6 vlevo; M, ověřeno koordinátorem) – jediná Alžběta Hanzlíková ve Volduchách 1659–1695 (rejstříky Rokycany 01–02); věk 73 při úmrtí 1750 sedí na měsíc."
       ],
       sources: [
         "SOA Plzeň, fara Osek, Osek 01 (N), str. 148, snímek 76 vlevo – https://www.portafontium.eu/iipimage/30066667/osek-01_0761-n",
@@ -9781,8 +9799,8 @@ window.RODOKMEN = {
       marriage: "13. 1. 1788, Nová Hasina č. 6 – s Janem Hofmanem (vdovcem)",
       notes: [
         "Oddána 13. 1. 1788 v Nové Hasině č. 6 (fara Rožďalovice), svobodná, 23 let (→ *~1765), s vdovcem Janem Hofmanem (42); rodiče neuvedeni. Matka Františka (1790), Jiřího (1793) a Anny (1795), Dobrovany č. 16.",
-        "KANDIDÁTI rodičů (K): Matěj Zajíček, podruh (incola) × Anna ze Staré Hasiny (panství Křinec) – dcera Anna Kateřina pokřtěna ~2. 3. 1766 (Rožďalovice 03 sn. 91 vpravo; M); Matěj kmotrem v Hasině 1763–64. Opírá se jen o příjmení, obec a generaci. Marie v N VIII 1762 – IV 1766 není (Praha N64) – hledat 1760–62 a 1766–67 a sňatek Matěje × Anny.",
-        "Praha N65: křest Marie, dcery Matěje Zajíčka, v Rožďalovice 03 N V 1760 – VII 1767 není; sňatek Matěje × Anny v Rožďalovice 10 O X 1758 – VIII 1764 není (Matěj kmotrem už VII 1762 → sňatek spíš před 1758 nebo ve farnosti nevěsty). Marie snad narozena před 1760 nebo jinde – kandidátní rodiče zůstávají jen K."
+        "Praha N65: křest Marie, dcery Matěje Zajíčka, v Rožďalovice 03 N V 1760 – VII 1767 není; sňatek Matěje × Anny v Rožďalovice 10 O X 1758 – VIII 1764 není (Matěj kmotrem už VII 1762 → sňatek spíš před 1758 nebo ve farnosti nevěsty). Marie snad narozena před 1760 nebo jinde – kandidátní rodiče zůstávají jen K.",
+        "KANDIDÁTI rodičů (K): Matěj Zajíček, podruh (incola) × Anna ze Staré Hasiny (panství Křinec) – dcera Anna Kateřina pokřtěna ~2. 3. 1766 (Rožďalovice 03 sn. 91 vpravo; M); Matěj kmotrem v Hasině 1763–64. Opírá se jen o příjmení, obec a generaci. Marie v N VIII 1762 – IV 1766 není (Praha N64) – hledat 1760–62 a 1766–67 a sňatek Matěje × Anny."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Dobrovany, pag. 95, snímek 51 vpravo (22. 1. 1795); index Rožďalovice 22 sn. 73 – https://ebadatelna.soapraha.cz/d/11182/51",
@@ -10333,11 +10351,11 @@ window.RODOKMEN = {
         "Z Lounína, 1751 poddaný panství Tmaň („subditi Dominio Tmanensi“; syn 1770 „Suchomastium subditus“ – Lounín patřil k oběma panstvím ?); manželka Veronika. Otec Jiřího Skály (*1. 2. 1751), který se 16. 9. 1770 v Borku oženil s Evou Klikovou („filius post defunctum Georgium Skala ex pago Launin“). Kmotr dětí Jakuba Staňka z Lounína 14. 11. 1750 a 1752/53 (Tmaň 02 sn. 38 vpravo, 44 vlevo) → žil ještě 1752/53. Zemřel 16. 1. 1760 v Louníně, zaopatřen svátostmi, „in infirmitate hemoroidica“, pohřben u sv. Jiří v Tmani, „aetatis circiter 57“ (→ *~1703) – M zápis, ztotožnění D (jediný Skála v lounínských úmrtích 1753–1760). Sňatek viz níže; křest viz kandidáti (Radouš).",
         "Oddán 17. 11. 1732 v Louníně (P. Matyáš Josef Cykan): „Ex Launin … copulatus est sponsus Georgius Carolus Scala cum honesta virgine Veronica Kolářová“; svědci Josef Skála z Radouše (?), Jiří Švandrlík a Kateřina Skálová (M; rodiče neuvedeni – krátký formulář). Ztotožnění D: jediný Jiří Skála v O Tmaň 1729–1753, Lounín, věk ~29, manželka Veronika. „Carolus“ je druhé křestní jméno ženicha (Jiří Karel; zkratka -us jako u „Georgius“, ověřeno výřezem) – otec ženicha uveden není.",
         "Děti s Veronikou (Tmaň 02 N, vše M): Václav Jan Nepomucký (27. 7. 1734), Jakub (26. 7. 1738), Jan (VI 1741), Jiří (1. 2. 1751); stálý kmotr Jan Heráček (od Sadů / od mlýna), svědek Šebestián Švadal (?), mlynář suchomastský. Jiří a Veronika častí kmotři 1744–1750. KANDIDÁT: Václav Skála z Lounína × 20. 11. 1753 Tmaň Kateřina Čížková (Zeizikiana), dcera Jiřího Čížka = syn Václav *1734 (K silná – otec ženicha v zápisu není; v Louníně žil i Václav × Salomena). Kmotři nejsou z Radouše.",
-        "KANDIDÁT dalšího syna: Václav Skála z Lounína, „honestus juvenis“, × 20. 11. 1753 Tmaň (Tmaň 02 O sn. 170 vpravo, p. 179; nevěsta nedočtena) – snad starší bratr Jiřího (*1751).",
         "Další Skálové v Louníně (K vztah): Václav Skála × 29. 11. 1733 Salomena Soukalová († před 1748, vdova × 1748 Matěj Sikora); Petr Skála († před 1740, vdova Dorota × 1740 Brankl z Tmaně) – možní bratři.",
+        "VYLOUČENO (D): Jiří, syn Matěje Skály a Magdaleny, pokřtěný 4. 4. 1702 Radouš (dříve přední kandidát) – 1. 11. 1733 se v Radouši oženil jako svobodný „honestus adolescens Georgius, legitimus filius Mathiae Skala, sartoris Radauschensis“ s Rozinou, dcerou † Tomáše Harlase (M), tedy rok po lounínské svatbě. Past: v Radouši žil 1708 i dospělý Jiřík Skála (manželka Kateřina † 27. 11. 1708, ?); Šimon Skála z Radouše † 9. 1. 1714, 66 let (M).",
+        "KANDIDÁT dalšího syna: Václav Skála z Lounína, „honestus juvenis“, × 20. 11. 1753 Tmaň (Tmaň 02 O sn. 170 vpravo, p. 179; nevěsta nedočtena) – snad starší bratr Jiřího (*1751).",
         "KANDIDÁT rodičů: v Louníně žila 1705 domácnost Vít Skála × Marie – syn Mikuláš pokřtěn 6. 12. 1705 a Josef 16. 3. 1711 („otce Víta Skala, matce Mařině“, Tmaň 01b sn. 13 vpravo) v Tmani („Patris Viti Skala, Matris Maria“, Tmaň 01 sn. 93 vlevo, M), Marie Skálová z Lounína svědkyní 7. 6. 1705. Jiří by mohl být jejich syn, ale v Tmani se 1701 – VII 1707 žádný Jiří Skála nenarodil (vložený sešit III 1701 – II 1703 neúplný) a v zápisu 1732 „Carolus“ je druhé jméno ženicha – vazba slabá (K).",
-        "KANDIDÁT křtu (K): Jiří, syn Pavla Skály a Roziny, pokřtěn 16. 4. 1698 Radouš (fara Bezdědice; „Jiří, rodičové Pavel Skála, Rozina“, M zápis; při úmrtí 1760 by mu bylo 61, zápis uvádí „circiter 57“). Josef Skála z Radouše byl svědkem na svatbě 1732. Rodina Pavla žila v Radouši ještě 1712 (dcera, 18 let, † 1712). Žádný Jiří Skála z Radouše nezemřel V 1700 – IV 1710 (1710–19 prošlé neúplně); v pohřbech Radouše 1721–1733 (Bezdědice 02) není on ani Pavel a Rozina Skálovi; Kryštof Skála z Radouše † 10. 11. 1723, 64 let (M, vztah neznámý). V oddacích zápisech Radouše 1721–1733 (Bezdědice 02) se Jiří, syn Pavla, neženil (jediný Jiří Skála = syn Matěje 1733). Pavel Skála, chalupník z Radouše, † náhle 24. 2. 1737, „let asi 45“ (Bezdědice 03, str. 469; M) – narozen ~1692, tedy nejspíš mladší Pavel, ne otec Jiřího *1698 (otec zatím bez úmrtí). Radoušský Jiří Skála × Rozina křtil 8. 4. 1735 syna Vojtěcha Jiří (= syn Matěje, × 1733; M). Vazbu na Lounín zatím nic nedokládá.",
-        "VYLOUČENO (D): Jiří, syn Matěje Skály a Magdaleny, pokřtěný 4. 4. 1702 Radouš (dříve přední kandidát) – 1. 11. 1733 se v Radouši oženil jako svobodný „honestus adolescens Georgius, legitimus filius Mathiae Skala, sartoris Radauschensis“ s Rozinou, dcerou † Tomáše Harlase (M), tedy rok po lounínské svatbě. Past: v Radouši žil 1708 i dospělý Jiřík Skála (manželka Kateřina † 27. 11. 1708, ?); Šimon Skála z Radouše † 9. 1. 1714, 66 let (M)."
+        "KANDIDÁT křtu (K): Jiří, syn Pavla Skály a Roziny, pokřtěn 16. 4. 1698 Radouš (fara Bezdědice; „Jiří, rodičové Pavel Skála, Rozina“, M zápis; při úmrtí 1760 by mu bylo 61, zápis uvádí „circiter 57“). Josef Skála z Radouše byl svědkem na svatbě 1732. Rodina Pavla žila v Radouši ještě 1712 (dcera, 18 let, † 1712). Žádný Jiří Skála z Radouše nezemřel V 1700 – IV 1710 (1710–19 prošlé neúplně); v pohřbech Radouše 1721–1733 (Bezdědice 02) není on ani Pavel a Rozina Skálovi; Kryštof Skála z Radouše † 10. 11. 1723, 64 let (M, vztah neznámý). V oddacích zápisech Radouše 1721–1733 (Bezdědice 02) se Jiří, syn Pavla, neženil (jediný Jiří Skála = syn Matěje 1733). Pavel Skála, chalupník z Radouše, † náhle 24. 2. 1737, „let asi 45“ (Bezdědice 03, str. 469; M) – narozen ~1692, tedy nejspíš mladší Pavel, ne otec Jiřího *1698 (otec zatím bez úmrtí). Radoušský Jiří Skála × Rozina křtil 8. 4. 1735 syna Vojtěcha Jiří (= syn Matěje, × 1733; M). Vazbu na Lounín zatím nic nedokládá."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), O, oddíl Býkoš, str. 87, snímek 234 vpravo (16. 9. 1770); rejstřík O sn. 242 vpravo – https://ebadatelna.soapraha.cz/d/4072/234",
@@ -10373,8 +10391,8 @@ window.RODOKMEN = {
       notes: [
         "Z Býkoše, sedlák, poddaný suchomastský; otec Evy, provdané 16. 9. 1770 za Jiřího Skálu („propria filia Wenceslai Klika ex pago Bikosch“, M). Děti s Kateřinou v Býkoši (Borek 02 a 03 N, M): Eva 20. 12. 1733 (× 25. ? 11. 1752 Borek Antonín Štěch, syn Matěje Štěcha z Hostomic – M), Kateřina 1735, Veronika 26. 12. 1736, dvojčata Matěj a Kateřina X 1740, Václav 1741, [1742–47 nečteno], Jan 12. 9. 1748, Lidmila 25./26. 12. 1749 (× 1769), Kateřina 5. 7. 1751, Anna 5. 5. 1752 – stále tatáž sada kmotrů (Kocová/Kopová, Štibalová, Velík, Kolaček, Nováková). Doložen 1767, 1769, 1787. Pozor: druhý Václav Klika × Kateřina (Duchoňová, 1728) žil v Suchomastech.",
         "ROZPOR / KANDIDÁT: od r. 1753 je v Býkoši psán „Stanislav Klika × Kateřina“ (Eva 10. 12. 1753, Marie Magdalena 1757, Kateřina 1759; svědek 1761) se stejnými kmotry. Ve faře Borek 1710–1773 ale žádný Stanislav Klika nemá sňatek, křest ani úmrtí → „Stanislav“ je nejspíš písařská/alternativní podoba jména Václava (nedoloženo). Sňatky Václavů Kliků v Borku 02: 24. 8. 1728 Suchomasty × Kateřina Duchoňová; **1730 (12. 12. ?) Býkoš × Kateřina Krejčová** (družba Matěj Kolaček) – jediný Václav × Kateřina z Býkoše = KANDIDÁT rodičů Evy (Kateřina ~*1710–14, v r. 1759 45–49 let). Křty Václavů Kliků z Býkoše ~1716 a ~1743 (rejstřík N Borek 02). Vztah k Janu Klikovi (č. 10) a Matějovi (× 1748 Barbora Chvátalová) nedoložen.",
-        "KANDIDÁT úmrtí (K): Václav Klika, sedlák bykošský, č. 17, pohřben 3. 3. 1783, 69 let; vdova Kateřina † 25. 3. 1783, 67 let (Borek 04 Z p. 56–57, sn. 189; M zápis) – zda jde o pár × 1730 Krejčová, nebo o pár s Duchoňovou (~1729), nerozhodnuto.",
-        "Praha N80: Václav (× 1730 Kateřina Krejčová) NENÍ syn Pavla Kliky × Veroniky (ti oddáni až 1719) → implex s Vojtěchem Klikou (bratři) nevzniká; narozen nejpozději ~1708 – křest hledat v Borek 01 (4070). Václav, syn Matěje Kliky × Zuzany, nar. 27. 9. 1717 v Bykoši (Borek 02 N sn. 38 vpravo) je jiný."
+        "Praha N80: Václav (× 1730 Kateřina Krejčová) NENÍ syn Pavla Kliky × Veroniky (ti oddáni až 1719) → implex s Vojtěchem Klikou (bratři) nevzniká; narozen nejpozději ~1708 – křest hledat v Borek 01 (4070). Václav, syn Matěje Kliky × Zuzany, nar. 27. 9. 1717 v Bykoši (Borek 02 N sn. 38 vpravo) je jiný.",
+        "KANDIDÁT úmrtí (K): Václav Klika, sedlák bykošský, č. 17, pohřben 3. 3. 1783, 69 let; vdova Kateřina † 25. 3. 1783, 67 let (Borek 04 Z p. 56–57, sn. 189; M zápis) – zda jde o pár × 1730 Krejčová, nebo o pár s Duchoňovou (~1729), nerozhodnuto."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 03 (4072), O, oddíl Býkoš, str. 87, snímek 234 vpravo (16. 9. 1770); rejstřík O sn. 242 vpravo – https://ebadatelna.soapraha.cz/d/4072/234",
@@ -11009,7 +11027,8 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 426, snímek 214 vlevo (7. 7. 1697) – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1730_O_Grigar_Vaclav_Grosmanova_Judita_Verovice.jpg","t":"Sňatek Václava Grigara (syna Václava) s vdovou Juditou po Janu Grosmanovi, Veřovice, 21. 5. 1730"}
+        {"f":"img/1730_O_Grigar_Vaclav_Grosmanova_Judita_Verovice.jpg","t":"Sňatek Václava Grigara (syna Václava) s vdovou Juditou po Janu Grosmanovi, Veřovice, 21. 5. 1730"},
+        {"f":"img/1697_O_Grigar_Vaclav_Foltykova_Marianna_Verovice.jpg","t":"Sňatek s Mariannou Foltýkovou, Veřovice 7. 7. 1697"}
       ]
     },
     {
@@ -11248,10 +11267,10 @@ window.RODOKMEN = {
       occ: "domkář v Heršpicích (č. 18, 1808), později čtvrtník",
       notes: [
         "Domkář v Heršpicích č. 18; otec Magdaleny, která se 8. 11. 1808 vdala za Pavla Láníčka (M); v křtu vnučky 1822 a v zápisech 1841 „čtvrtník“. Datum narození je odhad podle dcery (*~1786).",
-        "KANDIDÁT manželky: Marina – matka Magdaleny pokřtěné 21. 5. 1784 v Heršpicích č. 38 („Franz Wilam, čtvrtník × Marina“; jediná Magdalena Wilam v indexu 1784–1790; K).",
-        "KANDIDÁT úmrtí (K+): 22. 6. 1815 (pohřben 24. 6.) Heršpice č. 38 – „Franz Wilam, 4tler“, 77 let, sešlost věkem (Z 13149 sn. 262 vlevo, str. 276; M zápis, ověřeno koordinátorem) → *~1738; sedí dům č. 38 a „čtvrtník“ z křtu dcery 1784. Pozor: druhý František Wilam, podruh z č. 36, † 24. 10. 1810, 77 let (str. 271) – jiná osoba (*~1733). Křest ~1738 hledat v N 13121 sn. 2–8; sňatek s Marinou nejspíš před 1770.",
         "MZA N51: syn Martin pokřtěn 2. 11. 1770 Heršpice – „Franciscus Willam, Marina, Herspitiis“, kmotr Jan Wimazal (NOZ 13121 sn. 229 vlevo, pag. 107; M; ztotožnění s Františkem z č. 38 K+) → s Marinou ženat nejpozději 1770. Sňatek není v O 13121 XI 1764 – I 1771 (čteno slabě, D−); křest není v N VI 1737 – IX 1738 (D−). Ve Slavkově 1737 Jan Wylam × Anna (dcera Alžběta) – snad příbuzní (K).",
-        "MZA N52: starší děti Františka × Mariny v N X 1763 – X 1770 nejsou (Martin 1770 nejspíš nejstarší ve faře); sňatek není v O 1765 – I 1771 (1769–70 ostře, M-negativ). Pozor: 18. 10. 1770 pokřtěn i jiný Martin – syn Jiřího Willama × Magdaleny, Heršpice (NOZ 13121 sn. 228 vpravo; M); Jiří (čtvrtník, děti 1764–1770) snad bratr Františka (K). Kmotři 1784 z Hrušek – sňatek možná v jiné faře."
+        "MZA N52: starší děti Františka × Mariny v N X 1763 – X 1770 nejsou (Martin 1770 nejspíš nejstarší ve faře); sňatek není v O 1765 – I 1771 (1769–70 ostře, M-negativ). Pozor: 18. 10. 1770 pokřtěn i jiný Martin – syn Jiřího Willama × Magdaleny, Heršpice (NOZ 13121 sn. 228 vpravo; M); Jiří (čtvrtník, děti 1764–1770) snad bratr Františka (K). Kmotři 1784 z Hrušek – sňatek možná v jiné faře.",
+        "KANDIDÁT manželky: Marina – matka Magdaleny pokřtěné 21. 5. 1784 v Heršpicích č. 38 („Franz Wilam, čtvrtník × Marina“; jediná Magdalena Wilam v indexu 1784–1790; K).",
+        "KANDIDÁT úmrtí (K+): 22. 6. 1815 (pohřben 24. 6.) Heršpice č. 38 – „Franz Wilam, 4tler“, 77 let, sešlost věkem (Z 13149 sn. 262 vlevo, str. 276; M zápis, ověřeno koordinátorem) → *~1738; sedí dům č. 38 a „čtvrtník“ z křtu dcery 1784. Pozor: druhý František Wilam, podruh z č. 36, † 24. 10. 1810, 77 let (str. 271) – jiná osoba (*~1733). Křest ~1738 hledat v N 13121 sn. 2–8; sňatek s Marinou nejspíš před 1770."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820, sign. 13137, oddíl Heršpice, str. 174, snímek 140 – https://www.mza.cz/actapublica/matrika/detail/1959",
@@ -11326,6 +11345,9 @@ window.RODOKMEN = {
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 426, snímek 214 vlevo (7. 7. 1697) – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1697_O_Grigar_Vaclav_Foltykova_Marianna_Verovice.jpg","t":"Sňatek syna Václava, Veřovice 7. 7. 1697"}
       ]
     },
     {
@@ -11343,6 +11365,9 @@ window.RODOKMEN = {
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Životice u Nového Jičína (Veřovice do 1784), N+O+Z 1689–1765 (sign. NJ XVI 1), oddíl Veřovice, O pag. 426, snímek 214 vlevo (7. 7. 1697); Z 1729 – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1697_O_Grigar_Vaclav_Foltykova_Marianna_Verovice.jpg","t":"Sňatek s Václavem Grigarem, Veřovice 7. 7. 1697"}
       ]
     },
     {
@@ -11553,11 +11578,11 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
       notes: [
         "Z Volduch; otec Doroty, která se 22. 11. 1757 vdala za Josefa Trgjka – „vlastní dcera … Matěje Dudla též z Wolduch“ (M). Datum narození je odhad.",
-        "KANDIDÁT sňatku (K): 26. 1. 1717 Volduchy – „Matěj Dudl s Rozinou Kordovou“ (?), družba Kašpar (?) Mochyna (?), družička Lidmila Šaulíková (?); rodiče ani stav ženicha neuvedeni (Osek 01 O sn. 160 vlevo; M zápis). Ztotožnění jen podle jména a obce; pak by narození bylo spíš ~1690–1697. V Rokycany 02 (křty 1684–95) jsou Dudlové Václav, Jan a Matěj (děti Adam, Kateřina), ale dítě Matěj ne; křest Osek 1688 – VIII 1700 v knize chybí.",
         "Plzeň N82: starší Matěj Dudl × ROZINA z Volduch – děti Adam 21. 2. 1692 a Kateřina 22. 4. 1694 (Rokycany 02 N pag. 112, 137; M). Shoda jména Roziny se sňatkem 1717 → buď je ženich 1717 tentýž Matěj (2. sňatek, Rozina Kordová jiná), nebo syn (K−). Rozhodne úmrtí staršího Matěje / Roziny (Osek 01 Z 1694–1717).",
         "Plzeň N83: starší Matěj Dudl (× Rozina, děti 1692, 1694) pohřben 2. 10. 1715 z Volduch („Pohřben Matěj Dudl při chrámu Páně sv. Bartoloměje“; Osek 01 Z sn. 174 vpravo, str. 343; M, ověřeno koordinátorem; věk neuveden) → ženich 26. 1. 1717 je mladší Matěj, nejspíš jeho syn (K+). Mladší Matěj × Rozina (Kordová ?): syn Matěj (?) 17. 11. 1717 (Osek 01 N sn. 81 vpravo) a Jakub VII 1719 (sn. 90 vpravo; M), oba s levantem Janem Laukotou z Oseka. KANDIDÁTI rodičů (K+): Matěj Dudl st. († 1715) × Rozina. Křest Doroty (*~1734) hledat v Osek 02 N.",
         "Plzeň N86: Matěj Dudl × Dorota (Dorota † 1752, 42) – děti Dorota Apolena 1739, Anna † 1742, Anna † 1746; Matěj do V 1758 v osecké faře nezemřel. Ve Volduchách též Jan Dudl (manželka Magdalena † 1742, 53). Zda je Matěj × Dorota týž jako Matěj × Rozina (1717), nerozhodnuto.",
-        "Plzeň N87: Matěj Dudl byl 20. 11. 1735 družbou (tedy nejspíš svobodný; Osek 02 O sn. 82 vlevo; M) → Matěj × Dorota (dcera Dorota Apolena 1739) je spíš MLADŠÍ Matěj (*~1710–1715), ne ženich × Rozina z 1717; kandidátní rodiče Matěj st. × Rozina tím slábnou (K−). Ve Volduchách Jan Dudl s dětmi: Matěj (?) × 27. 10. 1737 Eva Borečková (Osek 02 O sn. 83 vlevo), Ludmila × XI 1738 Jakub Mourek (?) – Matěj × Dorota snad též syn Jana Dudla (K). Sňatek Matěje × Doroty není v Osek 02 O XI 1735 – XI 1738 → fara nevěsty."
+        "Plzeň N87: Matěj Dudl byl 20. 11. 1735 družbou (tedy nejspíš svobodný; Osek 02 O sn. 82 vlevo; M) → Matěj × Dorota (dcera Dorota Apolena 1739) je spíš MLADŠÍ Matěj (*~1710–1715), ne ženich × Rozina z 1717; kandidátní rodiče Matěj st. × Rozina tím slábnou (K−). Ve Volduchách Jan Dudl s dětmi: Matěj (?) × 27. 10. 1737 Eva Borečková (Osek 02 O sn. 83 vlevo), Ludmila × XI 1738 Jakub Mourek (?) – Matěj × Dorota snad též syn Jana Dudla (K). Sňatek Matěje × Doroty není v Osek 02 O XI 1735 – XI 1738 → fara nevěsty.",
+        "KANDIDÁT sňatku (K): 26. 1. 1717 Volduchy – „Matěj Dudl s Rozinou Kordovou“ (?), družba Kašpar (?) Mochyna (?), družička Lidmila Šaulíková (?); rodiče ani stav ženicha neuvedeni (Osek 01 O sn. 160 vlevo; M zápis). Ztotožnění jen podle jména a obce; pak by narození bylo spíš ~1690–1697. V Rokycany 02 (křty 1684–95) jsou Dudlové Václav, Jan a Matěj (děti Adam, Kateřina), ale dítě Matěj ne; křest Osek 1688 – VIII 1700 v knize chybí."
       ],
       sources: [
         "SOA Plzeň, Sbírka matrik, ř.-k. fara Osek u Rokycan, kniha Osek 03 (O), str. 72, snímek 145 vlevo (22. 11. 1757) – https://www.portafontium.eu/iipimage/30066669/osek-03_1450-o"
@@ -11579,10 +11604,10 @@ window.RODOKMEN = {
       spouse: "dorota_bc",
       occ: "chalupník v Ohrazenicích č. 14",
       notes: [
-        "KANDIDÁT křtu (K+): 28. 4. 1740 pokřtěn „Philippus Jacobus, P[ater]: Joannes Bečka, M[ater]: Magdalena“, ex Mokrý, subd. Swigan.; levans Václav Radovský z Ohrazenic, svědci Jan Kopecký z Mokrého a Dorota, manželka Matěje Jandy z Plaukonic (N Všeň 5286 sn. 168 vpravo; M zápis, ověřeno koordinátorem). Věk 70 při úmrtí 1810 sedí; kmotr dětí Matěj Bečka ze Mokrého.",
         "Chalupník v Ohrazenicích (Wohrazenicích) č. 14; otec Doroty, provdané Mrázové (křest vnučky Terezie 1813, sňatek 1833 – M).",
         "Syn Matěj 23. 7. 1781 (č. 14; M). Kmotr Matěj Bečka, sedlák z Mokrého (fara Všeň) – rod Bečků snad z Mokrého (K). Sňatek s Dorotou v O Přepeře XI 1770 – XI 1774 není;",
-        "Zemřel 30. 12. 1810 v Ohrazenicích č. 14: „Filip Bečka, chalupník“, 70 let, „na úbytě (?)“; pohřbil Vojtěch Patočka, lokalista (Z 5102, sn. 116 vlevo, pag. 27; M, ověřeno koordinátorem) → *~1740. V č. 14 zemřel 6. 4. 1828 i Josef Bečka, výměnkář, 70 let (K: bratr ?). Sňatek s Dorotou v O Přepeře 1758–1774 ani ve Všeni X 1766 – II 1775 není."
+        "Zemřel 30. 12. 1810 v Ohrazenicích č. 14: „Filip Bečka, chalupník“, 70 let, „na úbytě (?)“; pohřbil Vojtěch Patočka, lokalista (Z 5102, sn. 116 vlevo, pag. 27; M, ověřeno koordinátorem) → *~1740. V č. 14 zemřel 6. 4. 1828 i Josef Bečka, výměnkář, 70 let (K: bratr ?). Sňatek s Dorotou v O Přepeře 1758–1774 ani ve Všeni X 1766 – II 1775 není.",
+        "KANDIDÁT křtu (K+): 28. 4. 1740 pokřtěn „Philippus Jacobus, P[ater]: Joannes Bečka, M[ater]: Magdalena“, ex Mokrý, subd. Swigan.; levans Václav Radovský z Ohrazenic, svědci Jan Kopecký z Mokrého a Dorota, manželka Matěje Jandy z Plaukonic (N Všeň 5286 sn. 168 vpravo; M zápis, ověřeno koordinátorem). Věk 70 při úmrtí 1810 sedí; kmotr dětí Matěj Bečka ze Mokrého."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Ohrazenice, str. 18, snímek 152 (17. 10. 1813)",
@@ -11641,9 +11666,9 @@ window.RODOKMEN = {
         "Forman (?) z Mašova č. 18 (1813), nájemník z Mašova č. 16 (1833), panství Hrubá Skála; otec Kateřiny, provdané Ťukalové (křest vnuka Jana 1813, sňatek vnuka 1833 – M).",
         "Při křtu dcery Kateřiny 3. 4. 1784 „inquilinus“ (podruh) v Mašově č. 2 (M). Pozor: v Turnově současně Václav Horáček × Dorota z Chloumku č. 2 (jiná rodina). Sňatek s Annou Mlejnkovou (~1775–1783, O 5257) nehledán.",
         "Zemřel 1. 11. 1821 (pohřben 3. 11.) v Mašově č. 18: „Václav Horáček, podruh“, 70 let, stářím (Z 5274, sn. 20; M) → *~1751. Dům č. 18 shodný s křtem vnuka Jana 1813. Údaj „nájemník z Mašova č. 16“ v oddacím zápisu vnuka 1833 (bez †) jen popisuje původ nevěsty. Jiný Václav Horák, baráčník z č. 17 († 1835, 85) je jiná rodina.",
-        "KANDIDÁTI křtu (K+): v Mašově (fara Turnov) pokřtěni tři Václavové, synové Jana Horáčka × Kateřiny – 4. 2. 1748, 15. 9. 1753 a 3. 10. 1754 (N Turnov 5252 sn. 192 vlevo, 269 vlevo, 287 vpravo; M zápisy) – přežil nejspíš Václav *1754 (opakované jméno); jediný Václav Horáček z Mašova v indexu 1747–1755. Rodiče Jan Horáček × Kateřina (× 1740/1743 Turnov, svědci Jan a Ludmila Mlejnkovi; O 5256 fol. 29; K). Úmrtí starších Václavů nehledána (Z Turnov).",
         "Rodiče (K): Jan Horáček × Kateřina Knofsková (?) – sňatek 24. 2. 1740 Turnov (rok z nadpisu „Anno 1740“), svědci Jan a Ludmila Mlejnkovi (O 5256 fol. 29, sn. 32 vpravo; M zápis, příjmení s otazníkem). Úmrtí Václavů *1748 a *1753 v Z Turnov (vesnice) do XII 1753 nenalezena (prošlo jen ¼); Z 5256 je dělena podle míst, úmrtí vesnic od 1754 jinde.",
-        "Sestry (K): Kateřina, dcera Jana Horáčka, × 28. 1. 1772 Jiří Kraus z Pelešan; svědkyně Anna, dcera Jana Horáčka, z Mašova (O 5256 sn. 230 vpravo, fol. 225; M zápis) – Krausovi z Pelešan i u křtu Václava 1753. Sňatek Václava × Anny není v O Turnov (index), Rovensko, Libuň; Václav Horáček × 1771 Anna Prokašková (Křížkovice, vdovec) – jiný."
+        "Sestry (K): Kateřina, dcera Jana Horáčka, × 28. 1. 1772 Jiří Kraus z Pelešan; svědkyně Anna, dcera Jana Horáčka, z Mašova (O 5256 sn. 230 vpravo, fol. 225; M zápis) – Krausovi z Pelešan i u křtu Václava 1753. Sňatek Václava × Anny není v O Turnov (index), Rovensko, Libuň; Václav Horáček × 1771 Anna Prokašková (Křížkovice, vdovec) – jiný.",
+        "KANDIDÁTI křtu (K+): v Mašově (fara Turnov) pokřtěni tři Václavové, synové Jana Horáčka × Kateřiny – 4. 2. 1748, 15. 9. 1753 a 3. 10. 1754 (N Turnov 5252 sn. 192 vlevo, 269 vlevo, 287 vpravo; M zápisy) – přežil nejspíš Václav *1754 (opakované jméno); jediný Václav Horáček z Mašova v indexu 1747–1755. Rodiče Jan Horáček × Kateřina (× 1740/1743 Turnov, svědci Jan a Ludmila Mlejnkovi; O 5256 fol. 29; K). Úmrtí starších Václavů nehledána (Z Turnov)."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
@@ -11678,9 +11703,9 @@ window.RODOKMEN = {
         "Manželka Václava Horáčka z Mašova; matka Kateřiny Ťukalové (křest vnuka Jana 1813 – „a matky Anny“, M).",
         "Rodné příjmení Mlejnková: křest dcery Kateřiny 3. 4. 1784 „uxor Anna Mleinkova“ (M); v oddacím zápisu dcery 1806 dříve čteno „Vlož…ová (?)“ – správně „Mlegkowé“ (oprava čtení). Mlejnkovi žili v Mašově (kmotra 1784 Ludmila, dcera Jakuba Mlejnka).",
         "Zemřela 30. 11. 1820 (pohřbena 2. 12.) v Mašově č. 18: „Anna, manželka Václava Horáčka, podruha“, 70 let, stářím (Z 5274, sn. 20, pag. 19; M) → *~1750.",
-        "KANDIDÁTKY křtu (K): (a) 1. 8. 1751 Mašov – „Anna Maria filia Patris Jacobi Mlegnek, Matris Anna“; svědkyně Anna, manželka Jiřího Janků z Mašova (svědek i u křtů Václava Horáčka 1753/54) (N Turnov 5252 sn. 239 vpravo, pag. 467; M zápis) – stejná obec a věk 70 při † 1820 sedí → silnější kandidátka; (b) 16. 9. 1753 Loučky – Anna, dcera Jiřího Mlejnka × Magdaleny (sn. 269 vlevo). Další Anny Mlejnkové v indexu 1745–55 (pag. 305, 385, Vyskeř, Bukovina, Radeč ?) nečteny.",
         "Další kandidátka (slabší, K): Anna, dcera Matěje Mlejnka × Kateřiny, 21. 7. 1748 Loučky (N 5252 sn. 198 vlevo; M zápis) – při † 1820 by jí bylo 72.",
-        "Rodiče oddáni 31. 10. 1751 (Jiří, syn † Tomáše Mlejnka × Magdalena, dcera † Jana Šťastného ? ze Svatoňovic; O 5256 sn. 95 vlevo) – svědkyně Anna Vilková i u křtu 1753 → vazba téměř jistá (K++)."
+        "Rodiče oddáni 31. 10. 1751 (Jiří, syn † Tomáše Mlejnka × Magdalena, dcera † Jana Šťastného ? ze Svatoňovic; O 5256 sn. 95 vlevo) – svědkyně Anna Vilková i u křtu 1753 → vazba téměř jistá (K++).",
+        "KANDIDÁTKY křtu (K): (a) 1. 8. 1751 Mašov – „Anna Maria filia Patris Jacobi Mlegnek, Matris Anna“; svědkyně Anna, manželka Jiřího Janků z Mašova (svědek i u křtů Václava Horáčka 1753/54) (N Turnov 5252 sn. 239 vpravo, pag. 467; M zápis) – stejná obec a věk 70 při † 1820 sedí → silnější kandidátka; (b) 16. 9. 1753 Loučky – Anna, dcera Jiřího Mlejnka × Magdaleny (sn. 269 vlevo). Další Anny Mlejnkové v indexu 1745–55 (pag. 305, 385, Vyskeř, Bukovina, Radeč ?) nečteny."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Přepeře, N (sign. 5099), oddíl Lažany, str. 5, snímek 50 (6. 10. 1813)",
@@ -11772,11 +11797,11 @@ window.RODOKMEN = {
         "Manželka Kateřina – rodné příjmení ve křtech dětí pokaždé jinak: „nata Prošniková“ (~1779), „Jelínková“ (29. 7. 1781), „Kopušilová (?)“ (25. 8. 1782) – ROZPOR, rozhodne oddací zápis (nenalezen).",
         "Sňatek s Kateřinou v O Přepeře 1758–1773 není (nejspíš ve farnosti nevěsty nebo před 1758); úmrtí v Z 1781 – IV 1784 není (→ V 1784 – VI 1794). Dcera Anna *29. 7. 1781, † 23. 8. 1781 (M).",
         "Zemřel 24. 2. 1794 v Ohrazenicích č. 8: „Jan Mraz, chalupník“, 50 let, „na hlmoníčku (?)“ (Z 5102, sn. 106 vpravo, pag. 8; M) → *~1744; souhlasí „syn po † Janu Mrázovi“ při sňatku syna 3. 6. 1794.",
-        "KANDIDÁT sourozence (K): Vojtěch Mráz, „filius defuncti Joannis Mraz casarii Wohrazenicensis“, × 21. 11. 1773 Magdalena, dcera † Václava Prachty (?) (5296 O sn. 289 vlevo; M zápis) – Jan st. st. snad jeho bratr; otec Jan Mráz † před 1763.",
         "Křest v N Přepeře 1740–1749 (Ohrazenice) není; snad *~1738–40 jako syn Jana Mráze × Magdaleny Novářové (× X 1737, O Všeň 5291 sn. 43 vpravo; K).",
-        "KANDIDÁT křtu (K+): 24. 6. 1740 Ohrazenice (subd. Rohozec) – „Joannes, P[ater] Joannes Mraz, M[ater] Magdalena“; levans Václav Mráz, svědci Jiří Mráz a Dorota, manželka Václava Prachty, všichni z Ohrazenic (N Všeň 5286 sn. 169 vlevo; M zápis, ověřeno koordinátorem). Rodiče × X 1737 Všeň (Jan Mráz × Magdalena, dcera Jiřího Nováře ?; O 5291 sn. 43 vpravo); sestry Anna (13. 4. 1738) a Magdalena (?) (19. 7. 1739). Věk 50 při † 1794 by dával ~1744 – tolerance; v Ohrazenicích žil i starší Jan Mráz.",
         "Otčím Václav Prachta (× 9. 9. 1742 vdova Magdalena). V Z Všeň 1740 – VI 1755 nezemřel (Zámrsk 32–33, střední negativ).",
-        "Nevlastní sourozenci (Václav Prachta × Magdalena): Václav *29. (?) 10. 1744 (N 5286 sn. 193 vpravo), Magdalena *13. 10. 1748 (N 5296 sn. 94 vlevo; M). V Ohrazenicích žil i druhý Václav Prachta × Dorota."
+        "Nevlastní sourozenci (Václav Prachta × Magdalena): Václav *29. (?) 10. 1744 (N 5286 sn. 193 vpravo), Magdalena *13. 10. 1748 (N 5296 sn. 94 vlevo; M). V Ohrazenicích žil i druhý Václav Prachta × Dorota.",
+        "KANDIDÁT sourozence (K): Vojtěch Mráz, „filius defuncti Joannis Mraz casarii Wohrazenicensis“, × 21. 11. 1773 Magdalena, dcera † Václava Prachty (?) (5296 O sn. 289 vlevo; M zápis) – Jan st. st. snad jeho bratr; otec Jan Mráz † před 1763.",
+        "KANDIDÁT křtu (K+): 24. 6. 1740 Ohrazenice (subd. Rohozec) – „Joannes, P[ater] Joannes Mraz, M[ater] Magdalena“; levans Václav Mráz, svědci Jiří Mráz a Dorota, manželka Václava Prachty, všichni z Ohrazenic (N Všeň 5286 sn. 169 vlevo; M zápis, ověřeno koordinátorem). Rodiče × X 1737 Všeň (Jan Mráz × Magdalena, dcera Jiřího Nováře ?; O 5291 sn. 43 vpravo); sestry Anna (13. 4. 1738) a Magdalena (?) (19. 7. 1739). Věk 50 při † 1794 by dával ~1744 – tolerance; v Ohrazenicích žil i starší Jan Mráz."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
@@ -11805,9 +11830,9 @@ window.RODOKMEN = {
         "Manželka Jana Mráze, chalupníka v Ohrazenicích č. 8; matka Jana (křest 9. 1. 1774 – „uxor ejus Catharina“, M). Rodné příjmení neznámé.",
         "Zemřela náhle 19. 3. 1789 v Ohrazenicích č. 8: „Catharina Eheweib des Johann Mraz, Chalupner“, „improvise mortua“, věk nejistě čten (37 ?) (Z 5102, sn. 104 vlevo, pag. 3; M).",
         "K ROZPORU (Zámrsk 30): čtení „Kopušilová“ (1782) se blíží příjmení Kobosil – Kobosilové žili v Ohrazenicích 1740–1766 hojně (např. Jan, syn † Václava Kobosila, × IX 1766 Kateřina, dcera † Jana Mráze; O 5296 sn. 280 vlevo) → možná „Kobosilová (?)“ (K). Sňatek s Janem Mrázem ve Všeni 1766–1775 a v Přepeřích 1758–1774 není; rozpor trvá.",
+        "Sňatek s Janem Mrázem není v O Všeň ani Přepeře 1758–1775 (Ohrazenice) → nejspíš ve farnosti nevěsty.",
         "Kandidátka (K): Kateřina, dcera Václava Kobosila × Anny, pokřtěná 13. 9. 1740 nebo ~1741/42 Ohrazenice (N Všeň 5286 sn. 170 vlevo / 176 vlevo; čteno jen ve ¼) – sedí ke čtení „Kopušilová/Kobosilová“ (1782); Prošník ani Jelínek v N Ohrazenice 1740–45 není.",
-        "Kandidátka upřesněna (K): Kateřina, dcera Václava Kobosila × Anny, pokřtěná 25. (?) 10. 1741 Ohrazenice (kmotr mj. Jan Mráz; N Všeň 5286 sn. 176 vlevo; M zápis, plné rozlišení) – starší sestra Kateřina (*13. 9. 1740) zemřela před X 1741; mladší v Z 1741 – VI 1755 nezemřela. OSLABENO (Zámrsk 34): Kateřina, dcera † Václava Kobosila z Ohrazenic, se X 1764 provdala za Jana Medka (O 5296 sn. 278 vlevo; M) – v Ohrazenicích ale žili dva Václavové Kobosilové.",
-        "Sňatek s Janem Mrázem není v O Všeň ani Přepeře 1758–1775 (Ohrazenice) → nejspíš ve farnosti nevěsty."
+        "Kandidátka upřesněna (K): Kateřina, dcera Václava Kobosila × Anny, pokřtěná 25. (?) 10. 1741 Ohrazenice (kmotr mj. Jan Mráz; N Všeň 5286 sn. 176 vlevo; M zápis, plné rozlišení) – starší sestra Kateřina (*13. 9. 1740) zemřela před X 1741; mladší v Z 1741 – VI 1755 nezemřela. OSLABENO (Zámrsk 34): Kateřina, dcera † Václava Kobosila z Ohrazenic, se X 1764 provdala za Jana Medka (O 5296 sn. 278 vlevo; M) – v Ohrazenicích ale žili dva Václavové Kobosilové."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, fara Všeň (filiálka Přepeře), N 1663–1784 (sign. 5296), snímek 189 vlevo (9. 1. 1774)",
@@ -11957,10 +11982,10 @@ window.RODOKMEN = {
       notes: [
         "Domkář v Málkově (panství Tmaň); otec Matěje Svobody – oddací zápis syna 1818 (M). Nezaměňovat s Václavem Svobodou (*~1781, syn Matěje × Anny, domkář v Suchomastech č. 14).",
         "V roce 1791 sedlák v Málkově č. 1, „rodaný Tmanský“ (křest syna Matěje, M).",
+        "Praha N71 – kandidát sňatku 1771 výrazně posílen (K++): při sňatku dcery Josefy (16 let) II 1798 „dcera Václava Svobody a † Lidmily rozené S(ý)korové (?) z Lounína, No 1“ (Borek 06 O sn. 84 vpravo; M, ověřeno koordinátorem – příjmení nejisté, obec Lounín jistá) = táž obec i dům jako 1771; Václav Svoboda st., „otec Václava Svobody, rychtáře (?)“, † 19. 1. 1797 Málkov č. 1, „102 let“ (Borek 06 Z sn. 114 vlevo; M). Děti: Josefa ~1782, Matěj 1791, Mikuláš 13. 6. 1794 (matka Ludmila – žila VI 1794). Po † 1. manželky (VI 1794 – II 1798) 2. sňatek s Ludmilou, dcerou Václava …ického (?) (křest Petra 1. 8. 1810, Borek 06 N sn. 38 vlevo; M).",
         "KANDIDÁTI rodiny (K): v Tmani žil Tomáš Svoboda († před 1780; syn Šimon × 1780 Ludmila Hogelová z Koněprus); 27. 11. 1781 se Václav, syn Jakuba Svobody, sedláka z Málkova, voják pluku Callenberg, oženil s Kateřinou, dcerou † Jana Allemanda (?) z Tmaně, Málkov č. 16 (Tmaň 02 sn. 200 vlevo) – jiný Václav, pokud nejde o 1. sňatek. Sňatek s Ludmilou v O Tmaň 1774–1790 není.",
         "KANDIDÁT sňatku (K, silný): 11. 7. 1771 Málkov č. 1 – „honestus juvenis Wenceslaus, rustici Wenceslai Swoboda filius Malkoviensis, cum virgine Ludmilla, Mathiae Sykora rustici superstite filia legitima Launiniensi“ (Tmaň 02, sn. 192 vlevo; M zápis) – stejný dům a jména jako 1791; proti: děti 1771–1789 neznámy, Ludmila by r. 1794 měla ~43 let. Syn Mikuláš *13. 6. 1794 Málkov 1 (rejstřík N Borek 11).",
         "Kandidát 1771 slábne: v Tmaň 02 N 1772–1784 žádný křest z Málkova č. 1 (Praha N7).",
-        "Praha N71 – kandidát sňatku 1771 výrazně posílen (K++): při sňatku dcery Josefy (16 let) II 1798 „dcera Václava Svobody a † Lidmily rozené S(ý)korové (?) z Lounína, No 1“ (Borek 06 O sn. 84 vpravo; M, ověřeno koordinátorem – příjmení nejisté, obec Lounín jistá) = táž obec i dům jako 1771; Václav Svoboda st., „otec Václava Svobody, rychtáře (?)“, † 19. 1. 1797 Málkov č. 1, „102 let“ (Borek 06 Z sn. 114 vlevo; M). Děti: Josefa ~1782, Matěj 1791, Mikuláš 13. 6. 1794 (matka Ludmila – žila VI 1794). Po † 1. manželky (VI 1794 – II 1798) 2. sňatek s Ludmilou, dcerou Václava …ického (?) (křest Petra 1. 8. 1810, Borek 06 N sn. 38 vlevo; M).",
         "KANDIDÁT úmrtí (K, neztotožněno): † 2. 3. 1821 (pohřben 4. 3.) č. 3 – „Václav Svoboda, výminkář malkovský, rodaný tmanský“, 70 let (Borek 06 Z sn. 125 vlevo, pag. 28; M pro zápis, rok z polohy v knize). Dům č. 3, tento Václav měl č. 1 – vazba nedoložena, proto není v poli úmrtí."
       ],
       sources: [
@@ -12062,16 +12087,16 @@ window.RODOKMEN = {
       notes: [
         "Z Heršpic (č. 20 v r. 1773); otec Pavla Láníčka (*1773) – křest syna (M).",
         "Sňatek s Annou v O Slavkov 13121 X 1764 – VIII 1769 není. KANDIDÁT příbuzného (K): Jiří Lanížek, † před 1767 (dcera Kateřina × 27. 1. 1767 Ondřej Amon ze Slavkova).",
-        "KANDIDÁT (K): Pavel Lanížek z Heršpic, † před 1753 (dcera Barbora × 16. 1. 1753 vdovec Pavel Peischl ze Slavkova; O 13121 sn. 291 vpravo). Sňatek Pavla st. × Anny v O 13121 ~1759–1764 není.",
-        "KANDIDÁT úmrtí (K): 26. 4. 1796 Heršpice č. 24, „Paul Lanitschek, Inmann“, 75 let (Z 13149, sn. 249 vpravo; M zápis – jediný dospělý Pavel Láníček v indexu 1784–1836; věk ~1721 a dům proti křtu syna 1773 nesedí).",
         "MZA N53: I 1763 svědek při sňatku v Heršpicích „Paulus Lanížek inquilinus“ (O 13121 sn. 313 vlevo; M; ztotožnění K+) → dospělý podruh už 1763, narozen nejpozději ~1742; posiluje kandidáta úmrtí 1796 („Inmann“, 75 → *~1721). Sňatek s Annou není v O 13121 I 1755 – XI 1764 (D) → před 1755 (O 13121 sn. 291–295, O 13120 ~1740–52), nebo jde o 2. sňatek po 1769. Ve VI 1762 se v Hodějicích oženil vdovec Matěj Lanížek (?) s Rosinou, vdovou po Jiřím Ambrosovi.",
-        "KANDIDÁT sňatku (K+): II 1752 Heršpice – „Honestus Juvenis Paulus Lanížek cum honesta puella Anna filia Martini Kostrna (?) [Kostelna ?], utergue Herspicio“; svědci Josef Velam (Wilam) a Jiří Hrabovský z Heršpic (O 13120 sn. 277 vlevo; M, ověřeno koordinátorem; rok podle „Anno 1752“ na sn. 276 vlevo). Jediný sňatek Pavla Lanížka v O 1745 – I 1774 (MZA N54); sedí s věkem úmrtí Pavla 1796 (75) i Anny 1805 (80). Syn Pavel 1773 by byl pozdní dítě (Anně ~45) – další děti 1752–72 dosud nehledány.",
         "Starší Pavel Lanížek z Heršpic † před II 1751 (syn Jiří × II 1751 Kateřina; O 13120 sn. 272 vpravo; M) – snad otec (K).",
         "MZA N55: syn Jiří pokřtěn III (?) 1753 Heršpice – „Georgius, parentes Paulus Lanížek, Anna, patrini Martinus Hrabovsky, Marina“ (NOZ 13121 sn. 93 vpravo; M) – 13 měsíců po sňatku 1752; stejní kmotři Hrabovští i u dcery Kateřiny 4. 11. 1765 (sn. 188 vlevo) → pár 1752 = rodiče Pavla *1773 (K++). Jiné děti 1752 – V 1755 nejsou; 1755–64 a 1766–72 nehledáno.",
-        "KANDIDÁT otce (K): Pavel Lanížek st. z Heršpic, † 12. 8. 1741, 54 let (Z 13120 sn. 366 vpravo; M) – × Alžběta; děti dvojčata Jakub a Anna 12. 7. 1722 a Barbora 18. 9. 1724 (N 13120 sn. 82 vpravo, 95 vlevo; M; kmotr Pavel Schramek ze Slavkova); Barbora = nevěsta 1753 „dcera † Pavla“ (K+), Jiří × 1751 „syn † Pavla“. Křest Pavla ml. není v N 13120 I 1721 – IV 1725 → hledat 1718–20 a 1725–28. Martin Lanížek † 1748 (70) – snad strýc.",
         "MZA N57: další děti Pavla st. × Alžběty – Vavřinec 6. 8. 1719 a Jiří 8. IV (?) 1727 (N 13120 sn. 67 vpravo, 114 vpravo; M; vždy kmotři Pivonka / Schramek ze Slavkova). Pavel ml. jejich dítětem v N I 1718 – I 1728 NENÍ (souvisle) → buď narozen po 1728 (věk 75 nadsazen), nebo jiný otec; vazba na Pavla st. jen K. Kostrnové žili v Hodějicích (Martin Kostrna × Anna, syn Tomáš ~1725; K) – rodina nevěsty 1752.",
         "MZA N58 – druhý KANDIDÁT křtu (K): 30. 4. 1732 Heršpice dvojčata Jakub a Pavel – „Martino Lanik, Dorothea, Herspitz“ (N 13120 sn. 141 vlevo; M) – jediný Pavel s otcem Lanížek/Lanik v N 13120 1718–1737 (souvisle); při sňatku 1752 by měl 20 let (sedí s „juvenis“), věk 75 při † 1796 by byl nadsazen. Otcem by pak byl Martin Lanik × Dorota (snad Martin Lanížek † 1748, 70 let), ne Pavel st. × Alžběta. Rodiče na kartu nezapisuji, dokud se neověří, že Pavel *1732 nezemřel v dětství. Anna Kostrnová v N 13120 XI 1724 – XII 1737 není.",
-        "MZA N59: Pavel nar. 1732 (syn Martina Lanika × Doroty) v dětství nezemřel (Z 13120 I 1732 – XI 1739; D); pár Martin × Dorota má i dceru Alžbětu IX 1728 (nar. 16. 8.; N 13120 sn. 122 vlevo; M), kmotři rodina Bílek/Vodička ze Slavkova (u Pavla st. × Alžběty jiní). Kandidát A (Martin × Dorota) tím mírně posílen (K), kandidát B (Pavel st. × Alžběta) bez křtu; rodiče do stromu nezapisuji, dokud nerozhodne další doklad (úmrtí Doroty, sňatek Martina, kmotři dětí Pavla ml.)."
+        "MZA N59: Pavel nar. 1732 (syn Martina Lanika × Doroty) v dětství nezemřel (Z 13120 I 1732 – XI 1739; D); pár Martin × Dorota má i dceru Alžbětu IX 1728 (nar. 16. 8.; N 13120 sn. 122 vlevo; M), kmotři rodina Bílek/Vodička ze Slavkova (u Pavla st. × Alžběty jiní). Kandidát A (Martin × Dorota) tím mírně posílen (K), kandidát B (Pavel st. × Alžběta) bez křtu; rodiče do stromu nezapisuji, dokud nerozhodne další doklad (úmrtí Doroty, sňatek Martina, kmotři dětí Pavla ml.).",
+        "KANDIDÁT (K): Pavel Lanížek z Heršpic, † před 1753 (dcera Barbora × 16. 1. 1753 vdovec Pavel Peischl ze Slavkova; O 13121 sn. 291 vpravo). Sňatek Pavla st. × Anny v O 13121 ~1759–1764 není.",
+        "KANDIDÁT úmrtí (K): 26. 4. 1796 Heršpice č. 24, „Paul Lanitschek, Inmann“, 75 let (Z 13149, sn. 249 vpravo; M zápis – jediný dospělý Pavel Láníček v indexu 1784–1836; věk ~1721 a dům proti křtu syna 1773 nesedí).",
+        "KANDIDÁT sňatku (K+): II 1752 Heršpice – „Honestus Juvenis Paulus Lanížek cum honesta puella Anna filia Martini Kostrna (?) [Kostelna ?], utergue Herspicio“; svědci Josef Velam (Wilam) a Jiří Hrabovský z Heršpic (O 13120 sn. 277 vlevo; M, ověřeno koordinátorem; rok podle „Anno 1752“ na sn. 276 vlevo). Jediný sňatek Pavla Lanížka v O 1745 – I 1774 (MZA N54); sedí s věkem úmrtí Pavla 1796 (75) i Anny 1805 (80). Syn Pavel 1773 by byl pozdní dítě (Anně ~45) – další děti 1752–72 dosud nehledány.",
+        "KANDIDÁT otce (K): Pavel Lanížek st. z Heršpic, † 12. 8. 1741, 54 let (Z 13120 sn. 366 vpravo; M) – × Alžběta; děti dvojčata Jakub a Anna 12. 7. 1722 a Barbora 18. 9. 1724 (N 13120 sn. 82 vpravo, 95 vlevo; M; kmotr Pavel Schramek ze Slavkova); Barbora = nevěsta 1753 „dcera † Pavla“ (K+), Jiří × 1751 „syn † Pavla“. Křest Pavla ml. není v N 13120 I 1721 – IV 1725 → hledat 1718–20 a 1725–28. Martin Lanížek † 1748 (70) – snad strýc."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948",
@@ -12093,10 +12118,10 @@ window.RODOKMEN = {
       marriage: "II 1752, Slavkov (Heršpice) – s Pavlem Lanížkem (K+)",
       notes: [
         "Manželka Pavla Láníčka st. z Heršpic; matka Pavla (*1773) – křest syna (M). Rodné příjmení neuvedeno.",
-        "KANDIDÁT úmrtí (K+): 26. 10. 1805 Heršpice č. 29, „Anna Lanitschek, Bettlerinn“, 80 let (Z 13149, sn. 256 vlevo; M zápis – jediná dospělá Anna Láníčková 1784–1836; syn Pavel žil 1808 v č. 29 jako podruh). ROZPOR: věk 80 → *~1725, při narození Pavla 1773 by jí bylo 48.",
-        "KANDIDÁT sňatku (K+): II 1752 Heršpice – „Honestus Juvenis Paulus Lanížek cum honesta puella Anna filia Martini Kostrna (?) [Kostelna ?], utergue Herspicio“; svědci Josef Velam (Wilam) a Jiří Hrabovský z Heršpic (O 13120 sn. 277 vlevo; M, ověřeno koordinátorem; rok podle „Anno 1752“ na sn. 276 vlevo). Jediný sňatek Pavla Lanížka v O 1745 – I 1774 (MZA N54); sedí s věkem úmrtí Pavla 1796 (75) i Anny 1805 (80). Syn Pavel 1773 by byl pozdní dítě (Anně ~45) – další děti 1752–72 dosud nehledány.",
         "MZA N55: syn Jiří pokřtěn III (?) 1753 Heršpice – „Georgius, parentes Paulus Lanížek, Anna, patrini Martinus Hrabovsky, Marina“ (NOZ 13121 sn. 93 vpravo; M) – 13 měsíců po sňatku 1752; stejní kmotři Hrabovští i u dcery Kateřiny 4. 11. 1765 (sn. 188 vlevo) → pár 1752 = rodiče Pavla *1773 (K++). Jiné děti 1752 – V 1755 nejsou; 1755–64 a 1766–72 nehledáno.",
-        "Křest Anny (otec Martin Kostrna ?) není v N 13120 II 1728 – IV 1734; příjmení nejisté."
+        "Křest Anny (otec Martin Kostrna ?) není v N 13120 II 1728 – IV 1734; příjmení nejisté.",
+        "KANDIDÁT úmrtí (K+): 26. 10. 1805 Heršpice č. 29, „Anna Lanitschek, Bettlerinn“, 80 let (Z 13149, sn. 256 vlevo; M zápis – jediná dospělá Anna Láníčková 1784–1836; syn Pavel žil 1808 v č. 29 jako podruh). ROZPOR: věk 80 → *~1725, při narození Pavla 1773 by jí bylo 48.",
+        "KANDIDÁT sňatku (K+): II 1752 Heršpice – „Honestus Juvenis Paulus Lanížek cum honesta puella Anna filia Martini Kostrna (?) [Kostelna ?], utergue Herspicio“; svědci Josef Velam (Wilam) a Jiří Hrabovský z Heršpic (O 13120 sn. 277 vlevo; M, ověřeno koordinátorem; rok podle „Anno 1752“ na sn. 276 vlevo). Jediný sňatek Pavla Lanížka v O 1745 – I 1774 (MZA N54); sedí s věkem úmrtí Pavla 1796 (75) i Anny 1805 (80). Syn Pavel 1773 by byl pozdní dítě (Anně ~45) – další děti 1752–72 dosud nehledány."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, NOZ (sign. 13121), N 1773, str. 153, snímek 252 vlevo – https://www.mza.cz/actapublica/matrika/detail/1948",
@@ -12121,8 +12146,8 @@ window.RODOKMEN = {
       occ: "čtvrtník v Heršpicích (č. 26)",
       notes: [
         "Čtvrtník (4tler) v Heršpicích; otec Magdaleny, provdané Svobodové – oddací zápis 1816, kde dal osobní svolení (M).",
-        "KANDIDÁT křtu (K+): 17. 6. 1771 Heršpice, „Jacobus“, otec Martin Tichý, sedlák, matka Kateřina roz. Kučerová (NOZ 13121, sn. 235 vpravo; M zápis) – viz karta Martina Tichého. Ověřit úmrtím s věkem (index Z 13161, T, Heršpice).",
-        "Zemřel 9. 3. 1844 (pohřben 11. 3.) v Heršpicích č. 26 jako „Jakob Tichy, Ausgedingler“ (výměnkář), 73 (?) / 75 let (Z 13155, sn. 7 vpravo, str. 11; M) → *~1769–1771, souhlasí s křtem 1771. V témže domě č. 26 zemřeli 1794 Kateřina, manželka Martina Tichého, a 1823 Martin Tichý, půlláník (M) → vazba na rodiče silná."
+        "Zemřel 9. 3. 1844 (pohřben 11. 3.) v Heršpicích č. 26 jako „Jakob Tichy, Ausgedingler“ (výměnkář), 73 (?) / 75 let (Z 13155, sn. 7 vpravo, str. 11; M) → *~1769–1771, souhlasí s křtem 1771. V témže domě č. 26 zemřeli 1794 Kateřina, manželka Martina Tichého, a 1823 Martin Tichý, půlláník (M) → vazba na rodiče silná.",
+        "KANDIDÁT křtu (K+): 17. 6. 1771 Heršpice, „Jacobus“, otec Martin Tichý, sedlák, matka Kateřina roz. Kučerová (NOZ 13121, sn. 235 vpravo; M zápis) – viz karta Martina Tichého. Ověřit úmrtím s věkem (index Z 13161, T, Heršpice)."
       ],
       sources: [
         "MZA Brno, fara Slavkov u Brna, O 1794–1820 (sign. 13137), oddíl Heršpice, str. 179, snímek 145 (27. 8. 1816) – https://www.mza.cz/actapublica/matrika/detail/1959",
@@ -12217,10 +12242,10 @@ window.RODOKMEN = {
       spouse: "vaclav_sv1",
       notes: [
         "Manželka Václava Svobody, sedláka (1791) / domkáře (1818) v Málkově, „rodaná Tmanská“; matka Matěje (*9. 10. 1791) – křest syna (M). Rodné příjmení neuvedeno; sňatek a křty hledat ve faře Tmaň.",
-        "KANDIDÁT původu (K): Ludmila, dcera Matěje Sýkory, sedláka z Lounína, × 11. 7. 1771 Václav Svoboda (viz karta Václava).",
         "Praha N71: jako † matka při sňatku dcery Josefy II 1798 „Lidmila rozená S(ý)korová (?) z Lounína“ (Borek 06 O sn. 84 vpravo; M) → totožná s nevěstou 1771 (K++); † VI 1794 – II 1798 (úmrtí zatím nenalezeno). Matka Matěje *1791 (žila 1794) – 2. manželka Václava je jiná Ludmila (dcera Václava …ického ?).",
         "Pokřtěna IX 1752 (den 2 ?, nar. 1 ?) v Lounínu: „Infans Ludmilla, Parens Mathias Sikora, Mater Salomena“, levans Kateřina Zálezská (?) z Tmaně (Tmaň 02 N sn. 43 vlevo; M, ověřeno koordinátorem; rok 1752 podle hlavičky „Anno 1753“ na protější straně) → ztotožnění s nevěstou 1771 (18–19 let) D/K++.",
-        "Zemřela 15. 3. 1797 (pohřbena 17. 3.) Málkov č. 1 – „Lidmila Svobodová, selka“, 40 let, otok (Borek 06 Z sn. 114 vpravo; M). ROZPOR věku: 40 → *~1757 × křest 1752 (platí křest)."
+        "Zemřela 15. 3. 1797 (pohřbena 17. 3.) Málkov č. 1 – „Lidmila Svobodová, selka“, 40 let, otok (Borek 06 Z sn. 114 vpravo; M). ROZPOR věku: 40 → *~1757 × křest 1752 (platí křest).",
+        "KANDIDÁT původu (K): Ludmila, dcera Matěje Sýkory, sedláka z Lounína, × 11. 7. 1771 Václav Svoboda (viz karta Václava)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 05 (4074, N 1784–1795), pag. 53, snímek 55, 1. zápis (9. 10. 1791) – https://ebadatelna.soapraha.cz/d/4074/55",
@@ -12513,11 +12538,11 @@ window.RODOKMEN = {
       occ: "sedlák ve Zdicích",
       notes: [
         "Otec Anny Merhautové: oddací zápis 1776 „Anna, filia legitima Joannis Hroniek, rustici ex Zdicz“ (M). Křest dcery Anny 16. 4. 1754 (manželka Kateřina; M). V indexu N Zdice 01 psán „Froněk“ (pod F).",
-        "KANDIDÁT úmrtí (K): XII 1782 (den 5 ?) ve Zdicích „Joannes Froniek, rusticus Zdiensis“, 52 let (Zdice 01 Z, sn. 262 vpravo; M zápis – manželka neuvedena, ztotožnění jen jménem a obcí) → *~1730.",
         "Praha N66: sňatek s Kateřinou není v Zdice 01 O X 1749 – XI 1753 (všechny zápisy; IV–X 1749 vybledlé); 25. 10. 1750 „Jan Kříška (?) × Kateřina“ porovnán s rukopisem „Jana Hronka“ 1754 – jiné příjmení (ověřeno koordinátorem). Ve Zdicích Václav a Anna Froňkovi (1752–53) – snad příbuzní (K). Zbývá O 1744–48 a fara nevěsty.",
         "Praha N67: syn Matěj pokřtěn 24. 2. 1749 Zdice (nar. 23. 2.) – „otec Jan Froněk, matka Kateřina, obojí poddaní k Točníku“ (Zdice 01 N sn. 22 vpravo, fol. 19; M; v indexu „Froněk“ – Hronek = Froněk) → sňatek nejpozději ~V 1748. Sňatek není v Zdice 01 O I 1744 – XI 1753 → před 1744 nebo ve farnosti nevěsty (Žebrák 03, Hořovice, Tmaň). Ve Zdicích tehdy i Václav Froněk a Matěj Froněk × 1745 Dorota Marešová (?) – snad příbuzní (K).",
         "Praha N68: ve Zdicích 1744–56 DVA Janové Froňkové – Jan × Anna (děti 1745, 1748, 1750) a náš Jan × Kateřina (Matěj 24. 2. 1749, Jakub ~1. 5. 1751, Anna 16. 4. 1754, Rozálie 28. 2. 1756; Zdice 01 N sn. 22 vpravo, 30 vlevo, 47 vlevo; M) – při hledání úmrtí a křtu rozlišovat podle manželky. Žádné dítě Jana × Kateřiny před 1749 → sňatek ~1747 – V 1748 mimo Zdice. Stálí kmotři Stojčičtí (celý rod) a u Kateřininých dětí Šubertovi (Jakub, Dorota).",
-        "Praha N70: sňatek není ani v Žebrák 03 O I 1747 – VII 1748 (těla všech zápisů; 1746 jen slabě) → zbývají jiné sousední fary (Hořovice, Libomyšl, Hudlice, Beroun). Zdice 01 Z 1744–1784 nemá abecední rejstřík (sn. 264–267 je josefínská tabulka 1784)."
+        "Praha N70: sňatek není ani v Žebrák 03 O I 1747 – VII 1748 (těla všech zápisů; 1746 jen slabě) → zbývají jiné sousední fary (Hořovice, Libomyšl, Hudlice, Beroun). Zdice 01 Z 1744–1784 nemá abecední rejstřík (sn. 264–267 je josefínská tabulka 1784).",
+        "KANDIDÁT úmrtí (K): XII 1782 (den 5 ?) ve Zdicích „Joannes Froniek, rusticus Zdiensis“, 52 let (Zdice 01 Z, sn. 262 vpravo; M zápis – manželka neuvedena, ztotožnění jen jménem a obcí) → *~1730."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01 (NOZ), O sn. 318 vlevo (1776)"
@@ -12536,8 +12561,8 @@ window.RODOKMEN = {
       spouse: "jan_hrz",
       notes: [
         "Matka Anny Merhautové roz. Hronkové – křest 16. 4. 1754 ve Zdicích „otce Jana Hroňka, matky Kateřiny“ (M). Rodné příjmení neuvedeno.",
-        "KANDIDÁT rodného příjmení (K, neprokázáno): Šubertová ? – svědci Jakub a Dorota Šubertovi jen u jejích dětí 1749–1756 (ne u dětí druhého Jana Froňka × Anny); Jakub Šubert i svědkem oddavek dcery Anny 1776.",
-        "Praha N69: jediní Šubertové s dětmi ve Zdicích 1744–49 jsou Jan × Veronika (dvojčata 1745, František 1749; M); Jakub a Dorota Šubertovi (kmotři u Kateřininých dětí) v indexu N jako rodiče nejsou → snad starší generace, Kateřina jejich dcera (K, nedoloženo). Sňatek Jana Froňka × Kateřiny není ani v Žebrák 03 O X 1745 – XI 1748 (jen okraje, střední negativ)."
+        "Praha N69: jediní Šubertové s dětmi ve Zdicích 1744–49 jsou Jan × Veronika (dvojčata 1745, František 1749; M); Jakub a Dorota Šubertovi (kmotři u Kateřininých dětí) v indexu N jako rodiče nejsou → snad starší generace, Kateřina jejich dcera (K, nedoloženo). Sňatek Jana Froňka × Kateřiny není ani v Žebrák 03 O X 1745 – XI 1748 (jen okraje, střední negativ).",
+        "KANDIDÁT rodného příjmení (K, neprokázáno): Šubertová ? – svědci Jakub a Dorota Šubertovi jen u jejích dětí 1749–1756 (ne u dětí druhého Jana Froňka × Anny); Jakub Šubert i svědkem oddavek dcery Anny 1776."
       ],
       sources: [
         "SOA Praha, Sbírka matrik, ř.-k. fara Zdice, Zdice 01, fol. 37, sn. 40 vpravo"
@@ -13071,10 +13096,10 @@ window.RODOKMEN = {
       notes: [
         "Ze Zdic; otec Víta Merhauta – „Vít, vlastní syn Václava Merhauta ze Zdic“ při sňatku 31. 10. 1741 (Žebrák 01 O sn. 253 vpravo; M). Při sňatku syna žil (bez „†“). Křest Víta (~1719–22) a sňatek Václava hledat v Žebrák 01 (9695).",
         "Děti s Annou (Žebrák 01 N; M): Vít Jiří 31. 5. 1720, Jiří Marek 27. 4. 1722, dvojčata František a Matěj 20. 3. 1724. Nezaměňovat s druhým Václavem Merhautem ze Zdic × Rozina/Rozálie (Martin 1721, Jan 1724). Úmrtí nehledáno (Žebrák 01 Z 1721–1743).",
-        "KANDIDÁT úmrtí (K+): 2. (?) 3. 1755 Zdice (pohřben 3. 3.) – „Usnul v Pánu Václav Merhaut vdo[vec] (?), věku 72“, zaopatřen svátostmi (Zdice 01 Z sn. 204 vpravo; M zápis, ověřeno koordinátorem) → *~1683 – sedí na otce Víta (*1720); Anna Merhautová † 1750 (60) by byla jeho manželka. Václav Merhaut † 9. 9. 1754 má 40 let (ne 70) – jiný. Ve Zdicích žil 1749 i mladší pár Václav × Anna (dcera Veronika).",
         "Další dítě s Annou: Václav 12. 12. 1717 Zdice („z otce Václava Merhauta ze Zdic, z matky Anny“; Žebrák 01 N sn. 51 vlevo; M) – sňatek Václava × Anny tedy před 1717.",
         "Anna, manželka Václava Merhauta ze Zdic, kmotrou již 3. 12. 1713 (Žebrák 01 N sn. 44 vlevo; M) → sňatek před XII 1713 (O 1708–1715 bez něj; snad 1707 nebo dříve, Žebrák 02). Starší Václav Merhout ze Zdic † před XI 1711 (sn. 259 vlevo; K – snad otec).",
         "Sňatek s Annou není v zdické faře 1697–1715 (Žebrák 02 O VII 1697 – XI 1708, Žebrák 01 O 1708–1715) → nejspíš v jiné faře (Hořovice, Králův Dvůr, Beroun ?).",
+        "KANDIDÁT úmrtí (K+): 2. (?) 3. 1755 Zdice (pohřben 3. 3.) – „Usnul v Pánu Václav Merhaut vdo[vec] (?), věku 72“, zaopatřen svátostmi (Zdice 01 Z sn. 204 vpravo; M zápis, ověřeno koordinátorem) → *~1683 – sedí na otce Víta (*1720); Anna Merhautová † 1750 (60) by byla jeho manželka. Václav Merhaut † 9. 9. 1754 má 40 let (ne 70) – jiný. Ve Zdicích žil 1749 i mladší pár Václav × Anna (dcera Veronika).",
         "KANDIDÁT křtu (K+): 1. 7. 1687 Zdice – „pokřtěn Waczlaw, Kryštoffa Merhauta, souseda, a Anny manželův; kmotr Jan Bedřanský (?), svědkové Matouš Lapek (?) a paní Dorota Brandová (?), všichni Zdičtí“ (Žebrák 02 N sn. 61 vpravo, fol. 72; M, ověřeno koordinátorem; rok z hlavičky „A° 1687“ na sn. 58 vpravo). Věk 72 při úmrtí 1755 je nadsazen (skutečně 67); jiný Václav Merhaut ze Zdic ~1680–1690 nenalezen. Ve Zdicích tehdy i Jakub Merhaut × Kateřina a Jan Merhaut (syn Matěj × I 1687 Kateřina Hejnová ?)."
       ],
       sources: [
@@ -13370,6 +13395,9 @@ window.RODOKMEN = {
       sources: [
         "MZA Brno, N 13120, sn. 55, 76, 89",
         "MZA Brno, O 13120, sn. 187 vpravo (17. 1. 1717) – https://www.mza.cz/actapublica/matrika/detail/1946"
+      ],
+      scans: [
+        {"f":"img/1730_N_Simonik_Jiri_Hodejice.jpg","t":"Křest syna Jiří: Křest 22. 4. 1730, Hodějice (kandidát)"}
       ]
     },
     {
@@ -13385,6 +13413,9 @@ window.RODOKMEN = {
       ],
       sources: [
         "MZA Brno, O 13120, sn. 208 vlevo (1725) – https://www.mza.cz/actapublica/matrika/detail/1946"
+      ],
+      scans: [
+        {"f":"img/1732_N_Lanickova_Apolonie_Slavkov.jpg","t":"Křest dcery Apolonie: Křest 28. 8. 1732, Slavkov (kandidát)"}
       ]
     },
     {
@@ -13400,6 +13431,9 @@ window.RODOKMEN = {
       ],
       sources: [
         "MZA Brno, O 13120, sn. 208 vlevo (1725)"
+      ],
+      scans: [
+        {"f":"img/1732_N_Lanickova_Apolonie_Slavkov.jpg","t":"Křest dcery Apolonie: Křest 28. 8. 1732, Slavkov (kandidát)"}
       ]
     },
     {
@@ -13536,7 +13570,8 @@ window.RODOKMEN = {
         "SOA Plzeň, Osek 01 Z sn. 174 vpravo (1715)"
       ],
       scans: [
-        {"f":"img/1675_O_Forejt_Jakub_Dudlova_Katerina_Volduchy.jpg","t":"Sňatek 1675, Volduchy"}
+        {"f":"img/1675_O_Forejt_Jakub_Dudlova_Katerina_Volduchy.jpg","t":"Sňatek 1675, Volduchy"},
+        {"f":"img/1676_N_Forejt_Martin_Volduchy.jpg","t":"Křest syna Martin: Křest 5. 11. 1676, Volduchy (Rokycany 01)"}
       ]
     },
     {
@@ -13837,8 +13872,8 @@ window.RODOKMEN = {
       notes: [
         "Z Knížkovic; otec Vojtěcha Červeného – „Vojtěch, vlastní syn Josefa Červeného“ (sňatek 1752; Zdice 01 O sn. 283 vlevo; M). S Dorotou děti Vojtěch ~14. 4. 1730 a Matěj 16. 1. 1733 (Žebrák 01 N sn. 89 vpravo, 95 vpravo; M). Josef Červený × Barbora (Lidmila 5. 9. 1751, Knížkovice) – snad 2. manželství (K). Sňatek s Dorotou v mezeře O Žebrák 01 XII 1727 – IX 1732 (nedohledatelný).",
         "Dcera Anna pokřtěna 14. 4. 1729 Knížkovice (Josef × Dorota; Žebrák 01 N sn. 87 vpravo; M) – nejstarší známé dítě.",
-        "KANDIDÁTI rodičů (K): Jan Červený × Kateřina, oddáni 6. 1. 1702 („Jan Czerweney s Kateřinou Nenav… (?)“, okraj „z Kniškowicz (?)“; Žebrák 02 O sn. 452 vpravo; M, příjmení ověřeno koordinátorem). V I 1717 žili v Chodouni – křest syna Matěje „z otce Jana Czerweneho z Hodaunie, matky Kateřiny“ (Žebrák 01 N sn. 49 vpravo; M). Pár Jan Charvát × Kateřina z Knížkovic (děti 1703, 1705, 1710) je jiná rodina; v Chodouni žili i Červenkové (záměna možná).",
-        "Křest Josefa nenalezen: Žebrák 02 N IX 1702 – III 1705 a Žebrák 01 N 1707 – VII 1711, 1711–15, 1719–21 (Knížkovice i Chodouň) bez Jana Červeného (Praha N57–N60; jistota střední). Zbývá Žebrák 01 N 1715–18 (sn. 46–53) a sňatek Josefa × Doroty (~1728, Žebrák 01 O), který může jmenovat otce. Praha N61: N XI 1714 – VII 1716 bez Jana Červeného (Josef 21. 3. 1716 z Chodouně je syn Martina Altmana (?) × Kateřiny – ověřeno koordinátorem, nepatří); sňatek Josefa × Doroty není v Žebrák 01 O IX 1722 – XI 1731 (zápisy řídké, 1729–30 žádné) – hledat ve farnosti nevěsty."
+        "Křest Josefa nenalezen: Žebrák 02 N IX 1702 – III 1705 a Žebrák 01 N 1707 – VII 1711, 1711–15, 1719–21 (Knížkovice i Chodouň) bez Jana Červeného (Praha N57–N60; jistota střední). Zbývá Žebrák 01 N 1715–18 (sn. 46–53) a sňatek Josefa × Doroty (~1728, Žebrák 01 O), který může jmenovat otce. Praha N61: N XI 1714 – VII 1716 bez Jana Červeného (Josef 21. 3. 1716 z Chodouně je syn Martina Altmana (?) × Kateřiny – ověřeno koordinátorem, nepatří); sňatek Josefa × Doroty není v Žebrák 01 O IX 1722 – XI 1731 (zápisy řídké, 1729–30 žádné) – hledat ve farnosti nevěsty.",
+        "KANDIDÁTI rodičů (K): Jan Červený × Kateřina, oddáni 6. 1. 1702 („Jan Czerweney s Kateřinou Nenav… (?)“, okraj „z Kniškowicz (?)“; Žebrák 02 O sn. 452 vpravo; M, příjmení ověřeno koordinátorem). V I 1717 žili v Chodouni – křest syna Matěje „z otce Jana Czerweneho z Hodaunie, matky Kateřiny“ (Žebrák 01 N sn. 49 vpravo; M). Pár Jan Charvát × Kateřina z Knížkovic (děti 1703, 1705, 1710) je jiná rodina; v Chodouni žili i Červenkové (záměna možná)."
       ],
       sources: [
         "SOA Praha, Zdice 01 (9095) O, sn. 283 vlevo, pag. 14 (20. 11. 1752) – https://ebadatelna.soapraha.cz/d/9095/283",
@@ -14210,9 +14245,9 @@ window.RODOKMEN = {
         "Zemřel 11. 5. 1795 (pohřben 13. 5.) Krchleby č. 17 – „Pavel Otta, sedlák“, 60 let; pohřbil Samuel Schütz, superintendent H. C. z Chlebů (Nymburk 05 Z sn. 348 vpravo, pag. 753; M, ověřeno koordinátorem) → *~1735. Děti z č. 17: Dorota † 23. 2. 1784 (5 let), Alžběta † 31. 7. ~1791 (Nymburk 05 Z sn. 340 vlevo, 345 vpravo; M). Pozor: Pavel Ota, podruh z č. 40 (děti † 1784, 1786) – jiný.",
         "Sňatek s Kateřinou nenalezen. Zápis 10. 5. 1774 (č. 39, „Paulus Otta cum Catharina filia Joannis Hlesek (?)“; Nymburk 08 O sn. 174 vpravo) patří spíš Pavlovi Otovi, tkadlci (děti 1774 č. 18, 1777 č. 40) – sedlák měl syna Pavla už 13. 6. 1774 („Paulus Otta Bodrianus uxor Catharina“, kmotr Jiří Krejčík jako u Františka; Nymburk 08 N sn. 47 vpravo; M) → sedlák oženěn dříve (K). V Krchlebích tedy dva páry Pavel Ota × Kateřina.",
         "Praha N103: sňatek sedláka Pavla Oty není ani v Nymburk 08 O 1767 – XI 1770 → proběhl před 1767 (Nymburk 07 O, sn. ~260–300).",
-        "KANDIDÁT sňatku (K+): 9. 11. 1760 Nymburk – „Honestus Adolescens Paulus filius post defunctum Georgium Otta Colonum ex pago Skrchleb cum honesta Ancilla sponsa Catharina filia post defunctum Joannem Nemeczey (?) Colonum ex pago eodem, ambo subditi Wlkavienses“, oddával děkan Tomáš Kulka, svědci Jiří Kalysta (?) a Kateřina Koselcová (?) (Nymburk 07 O sn. 261 vlevo, pag. 510; M zápis, ověřeno koordinátorem) → otec Pavla † Jiří Ota, sedlák v Krchlebích; Kateřina roz. Němečková (?), dcera † Jana. Ztotožnění K+ (věk sedí; v Krchlebích 1780 ale ještě druhý pár „Pavel Ota, sedlák × Kateřina“, č. 50 ?). Děti sedláka z č. 17: Pavel 1774, František 1777, Dorota 2. (V ?) 1780 († 1784), Alžběta († ~1791); kmotr vždy Jiří Krejčík.",
         "Praha N105: ztotožnění se sňatkem 1760 posíleno na K++ – děti sedláka Pavla Oty × Kateřiny: Matěj 16. 12. 1768 (Nymburk 08 N sn. 23 vlevo), Jan 20. 6. 1772 Krchleby č. 17 (sn. 40 vpravo; M, ověřeno koordinátorem), Pavel 1774, František 1777, Dorota 1780 – vždy kmotr Jiří Krejčík; tkadlec Pavel Ota měl 1768 manželku Dorotu (sn. 18 vpravo), takže 1767–73 byl v Krchlebích jediný pár Pavel × Kateřina.",
-        "Pokřtěn 29. 1. 1737 „ze Skrchleb“: „Pavel, O: Jiří Otta, M: Kateřina; K: Jan Malček (?), Karel Zajíček (?), Kateřina Kalistová; rodiče poddaní vlkavští“, křtil P. Tomáš Kulka (Nymburk 06 N sn. 294 vlevo; M, ověřeno koordinátorem; den z návaznosti, rok z „An. 1737 Januarius“ na sn. 293 vpravo). Věk 60 při † 1795 zaokrouhlen (skutečně 58). Sourozenci: Marie Magdalena 1734, Josef 1738."
+        "Pokřtěn 29. 1. 1737 „ze Skrchleb“: „Pavel, O: Jiří Otta, M: Kateřina; K: Jan Malček (?), Karel Zajíček (?), Kateřina Kalistová; rodiče poddaní vlkavští“, křtil P. Tomáš Kulka (Nymburk 06 N sn. 294 vlevo; M, ověřeno koordinátorem; den z návaznosti, rok z „An. 1737 Januarius“ na sn. 293 vpravo). Věk 60 při † 1795 zaokrouhlen (skutečně 58). Sourozenci: Marie Magdalena 1734, Josef 1738.",
+        "KANDIDÁT sňatku (K+): 9. 11. 1760 Nymburk – „Honestus Adolescens Paulus filius post defunctum Georgium Otta Colonum ex pago Skrchleb cum honesta Ancilla sponsa Catharina filia post defunctum Joannem Nemeczey (?) Colonum ex pago eodem, ambo subditi Wlkavienses“, oddával děkan Tomáš Kulka, svědci Jiří Kalysta (?) a Kateřina Koselcová (?) (Nymburk 07 O sn. 261 vlevo, pag. 510; M zápis, ověřeno koordinátorem) → otec Pavla † Jiří Ota, sedlák v Krchlebích; Kateřina roz. Němečková (?), dcera † Jana. Ztotožnění K+ (věk sedí; v Krchlebích 1780 ale ještě druhý pár „Pavel Ota, sedlák × Kateřina“, č. 50 ?). Děti sedláka z č. 17: Pavel 1774, František 1777, Dorota 2. (V ?) 1780 († 1784), Alžběta († ~1791); kmotr vždy Jiří Krejčík."
       ],
       sources: [
         "SOA Praha, Nymburk 08 (10407), O sn. 196 vlevo (18. 1. 1797), https://ebadatelna.soapraha.cz/d/10407/196",
@@ -14325,6 +14360,9 @@ window.RODOKMEN = {
       sources: [
         "SOA Praha, Zbečno 10 (8855), N sn. 32 vlevo, https://ebadatelna.soapraha.cz/d/8855/32",
         "SOA Praha, Zbečno 16 (8861), Z sn. 75 vpravo, pag. 147 (12. 12. 1850), https://ebadatelna.soapraha.cz/d/8861/75"
+      ],
+      scans: [
+        {"f":"img/1804_N_Vosikova_Katerina_Zbecno.jpg","t":"Křest dcery Kateřina: Křest 10. 5. 1804, Zbečno 11"}
       ]
     },
     {
@@ -14372,8 +14410,8 @@ window.RODOKMEN = {
       notes: [
         "Matka Václava Vošíka – „und Katharina geborene N. N.“ (1843; Zbečno 16 Z sn. 57 vpravo; M). Zemřela 10. 7. 1807 Zbečno č. 11: „Catharina, Eheweib des Wenzl Wosika, Fischers“, 70 let, stářím (Zbečno 16 Z sn. 19 vlevo, pag. 34; M).",
         "Oddána 12. 2. 1765 jako „Catharina filia Blasij Werserga (?) oriunda Zbetschna“ (Zbečno 04 O sn. 344 vlevo; M; příjmení nejisté).",
-        "KANDIDÁT křtu (K+): 11. 5. ~1737 Zbečno – „pokřtěna jest ve Zbečně dcera jménem Kateřina z počest. rodičův Blažeje Wewerky a Kateřiny“, levans Dorota, manželka Jana Dejty (Zbečno 03 N sn. 139 vlevo; M, ověřeno koordinátorem; rok odhadem) – sedí s † 1807 „70“. Sestra Anna Marie 1734.",
-        "Praha N114: rok kandidátního křtu = 11. 5. 1738 (nadpis „Anno 1738“ na Zbečno 03 sn. 136 vpravo; křest sn. 139 vlevo) – věk 70 při † 1807 o rok nadsazen."
+        "Praha N114: rok kandidátního křtu = 11. 5. 1738 (nadpis „Anno 1738“ na Zbečno 03 sn. 136 vpravo; křest sn. 139 vlevo) – věk 70 při † 1807 o rok nadsazen.",
+        "KANDIDÁT křtu (K+): 11. 5. ~1737 Zbečno – „pokřtěna jest ve Zbečně dcera jménem Kateřina z počest. rodičův Blažeje Wewerky a Kateřiny“, levans Dorota, manželka Jana Dejty (Zbečno 03 N sn. 139 vlevo; M, ověřeno koordinátorem; rok odhadem) – sedí s † 1807 „70“. Sestra Anna Marie 1734."
       ],
       sources: [
         "SOA Praha, Zbečno 16 (8861), Z sn. 57 vpravo, pag. 111 (24. 11. 1843), https://ebadatelna.soapraha.cz/d/8861/57",
