@@ -8839,15 +8839,14 @@ window.RODOKMEN = {
       spouse: "barbora_hl0",
       marriage: "28. (?) 11. 1763, Bukov – s Barborou Růžičkovou (K+)",
       notes: [
-        "Sedlák (chalupník) v Branově č. 4 (okr. Rakovník; fara Zbečno, od 1785 Nezabudice); manželka Barbora; dcera Ludmila *11. 5. 1771. V r. 1807 uveden jako zemřelý. Sňatek nenalezen (index Zbečno 04 neúplný).",
-        "Praha N115: sňatek s Barborou není v Zbečno 04 O I 1767 – X 1770.",
-        "Praha N116: sňatek není v Zbečno 04 O VII 1765 – XI 1771 (střední negativ) → před 1765 nebo jiná fara.",
-        "Tvar příjmení nerozhodnut: křest dcery Ludmily 11./12. 5. 1771, Branov č. 4 – „Wenceslaus Klenizka (?), Barbara“ (Zbečno 04 N sn. 237 vpravo, pag. 463; M, ověřeno koordinátorem; měsíc a rok nad zápisem jen z agenta a karty). Stejně i křest Barbory (viz níže): čtení Klenička, ne Hlavička, první písmeno K/H nejisté. Rejstříky N a O písmeno K tento tvar nemají (částečně slabé čtení), rejstřík rod zřejmě vynechává.",
+        "Chalupník (podruh) v Branově č. 4 (okr. Rakovník; fara Zbečno, od 1785 Nezabudice); manželka Barbora; dcera Ludmila *11. 5. 1771. V r. 1807 uveden jako zemřelý.",
+        "Negativy dřívějšího hledání sňatku (před nálezem 1763): Zbečno 04 O I 1767 – X 1770 (N115) a VII 1765 – XI 1771 (N116).",
+        "Tvar příjmení: 1763 a 1764 „Szlenizka“, 1768 „Sklenizka“, 1771 „S(?)klenizka“, 1779 „Sklenicza“ (první písmeno je ligatura Sk, dříve čtená jako K/H); kmotra XII 1778 „Barbara uxor Wenceslai Klenička (?) ex Branow“ (sn. 284 vlevo). Tvar „Hlavička (?) / Wlaczka (?)“ pochází z pozdějších zápisů vnuků a sám je nejistý; karta zatím ponechána pod jménem Hlavička.",
         "Branov, tvar „Klenička“: XII 1778 kmotra „Barbara uxor Wenceslai Klenička ex Branow“ (Zbečno 04 N sn. 284 vlevo, pag. 556; M, ověřeno koordinátorem). Křest Barbory, pag. 568, je podle sledu nadpisů XII 1779 (rok přímo na straně není). Tvar „Hlavička (?) / Wlaczka (?)“ pochází z pozdějších zápisů vnuků, kde je sám nejistý. Karta zatím ponechána pod jménem Hlavička; první písmeno spíš K, nerozhodnuto.",
-        "Sňatek a tvar příjmení (K+, ověřeno koordinátorem): 28. (?) 11. 1763 „Wenceslaus filius Georgij Szlenizka, oriundus Branovio“ × „Barbara filia defuncti Francisci Ruzizka, oriunda Bugovio“, svědci Václav Widra a Tomáš Szlenizka z Branova (Zbečno 04 O sn. 340 vpravo, pag. 39; M). Křty v Branově: Anna 22. 10. 1764 „Wenceslai Szlenizka et Barbarae“ (sn. 193 vpravo; kmotři Jungmann, Dubský), Kateřina 14./15. 11. 1768 „Wenceslai Sklenizka, Matris Barbarae“ (sn. 223 vlevo; kmotři Peltz, Dubský). S Ludmilou 1771 (Klenizka, č. 4) je pojí jména, obec a opakovaní kmotři; číslo domu v nich není. Rejstřík vede rod pod S. Rodové jméno je tedy nejspíš Sklenička, ne Hlavička; karty zatím nepřejmenovány, předložit uživateli.",
+        "Sňatek (M, ověřeno koordinátorem): 28. (?) 11. 1763 „Wenceslaus filius Georgij Szlenizka, oriundus Branovio“ × „Barbara filia defuncti Francisci Ruzizka, oriunda Bugovio“, svědci Václav Widra a Tomáš Szlenizka z Branova (Zbečno 04 O sn. 340 vpravo, pag. 39; M). Křty v Branově: Anna 22. 10. 1764 „Wenceslai Szlenizka et Barbarae“ (sn. 193 vpravo; kmotři Jungmann, Dubský), Kateřina 14./15. 11. 1768 „Wenceslai Sklenizka, Matris Barbarae“ (sn. 223 vlevo; kmotři Peltz, Dubský). S Ludmilou 1771 (Klenizka, č. 4) je pojí jména, obec a opakovaní kmotři; číslo domu v nich není. Rejstřík vede rod pod S. Rodové jméno je tedy nejspíš Sklenička, ne Hlavička; karty zatím nepřejmenovány, předložit uživateli.",
+        "Vazba doložena kmotry (koordinátor 3. 11., na výřezech): u křtů dětí Václava Skleničky a Barbory se opakují tíž kmotři – Anna 22. 10. 1764 „Wenceslai Szlenizka et Barbare“ (kmotra Anna, dcera Jana Jungmanna, mlynáře z Nezabudic; svědek Petr Dubský z Branova; Zbečno 04 N sn. 193 vpravo), Kateřina 15. 2. (?) 1768 „Wenceslai Sklenizka, matris Barbore“ (kmotra Anna, manželka Františka Peltze z Branova; svědkyně Anna, manželka Petra Dubského; sn. 223 vlevo), Ludmila 12. 5. 1771, č. 4 (Anna Peltzová, Jungmannová z Nezabudic, Petr Dubský; sn. 237 vpravo) a Barbora XII 1779, č. 4 (Anna Dubská, Ludmila Marešová, Jan Jungmann, mlynář z Nezabudic; sn. 290 vlevo). Otec Ludmily je tedy ženich ze sňatku 1763 (M).",
         "Pozor: v Branově současně Václav Sklenička × Anna (Matěj 20. 2. 1765 sn. 195 vlevo, čteno agentem; Kateřina 29./30. 7. 1767 sn. 214 vlevo) a Tomáš × Anna – nesměšovat. Nečteno: rejstřík pag. 394–447, O pag. 4, 5, 17, 33.",
-        "Praha N135: u Ludmily 1771 a Barbory 1779 lze první písmena číst i jako Sk- („Sklenizka“, „Sklenicza“) – čtení agenta, srovnání tvarů; koordinátor je na výřezech nevyloučil, ale ani nepotvrdil. V Branově 1766–80 víc mužů rodu (Václav, Tomáš, Jiří, Josef); svědek Václav Sklenicza 1779/80 bez manželky a domu (Zbečno 04 N sn. 288 vpravo, 290 vpravo). Dům č. 4 u páru pod tvarem Sklenička zatím nedoložen.",
-        "KANDIDÁT (K, tvar příjmení nedořešen): křest Barbory, dne 16./17. XII, rok nepřečten (zřejmě ~1778/79), Branov č. 4 – „Klenička (?) Wenceslaus inquilinus, Mater Barbara, subditi Pürglitz“, kmotra Anna, manželka Petra Dubského z Branova (Zbečno 04 N sn. 290 vlevo, pag. 568; M pro zápis, ověřeno koordinátorem). Dům a jména rodičů sedí; první písmeno spíš K, takže rod může být v rejstříku pod K a dřívější negativy sňatku tento tvar mohly přehlédnout.",
+        "Dcera Barbora pokřtěna 16./17. XII 1779 (rok ze sledu nadpisů), Branov č. 4 – „Sklenicza Wenceslaus inquilinus, Mater Barbara, subditi Pürglitz“ (Zbečno 04 N sn. 290 vlevo, pag. 568; M).",
         "KANDIDÁT (K, možná jiný muž): IX 1759, Branov – „honestus Viduus Wenceslaus Klenizka Branovio“ × „Chatarina post defunctum Franciscum Syba (?), legitima filia“ z Mniesterio (?) (Zbečno 04 O sn. 331 vpravo, pag. 30; M pro zápis, ověřeno koordinátorem). Shoda jen ve jménu, tvaru příjmení a obci; kdyby to byl týž muž, neplatí odhad narození ~1750 a Barbora by byla další manželka.",
         "KANDIDÁT křtu (K+): dne 29., zřejmě IX 1737 (měsíc a rok ze sledu nadpisů), z Branova – „syn jménem Václav z poctivých rodičů Jiříka Skleničky a Dorotky (?)“ (Zbečno 03 N sn. 134 vpravo, fol. 131; M pro zápis, ověřeno koordinátorem). Z pěti položek „Sklenička Václav“ v rejstříku jediná s otcem Jiřím (ostatní čteny jen agentem); vazbu dokládá otec a obec."
       ],
@@ -8860,8 +8859,11 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
         {"f":"img/1771_N_Hlavickova_Ludmila_Branov.jpg","t":"Křest Ludmily Hlavičkové, Branov č. 4, 12. 5. 1771"},
-        {"f":"img/1763_O_Sklenicka_Vaclav_Ruzickova_Barbora.jpg","t":"Kandidátní sňatek 28. (?) 11. 1763, Bukov / Branov"},
-        {"f":"img/1737_N_Sklenicka_Vaclav.jpg","t":"Kandidátní křest Václava, 29. 9. (?) 1737, Branov"}
+        {"f":"img/1763_O_Sklenicka_Vaclav_Ruzickova_Barbora.jpg","t":"Sňatek s Barborou Růžičkovou, 28. (?) 11. 1763, Branov / Bukov"},
+        {"f":"img/1737_N_Sklenicka_Vaclav.jpg","t":"Kandidátní křest Václava, 29. 9. (?) 1737, Branov"},
+        {"f":"img/1764_N_Sklenickova_Anna_Branov.jpg","t":"Křest dcery Anny 22. 10. 1764, Branov – kmotři Jungmannová, Dubský"},
+        {"f":"img/1768_N_Sklenickova_Katerina_Branov.jpg","t":"Křest dcery Kateřiny 1768, Branov – kmotři Peltzová, Dubská"},
+        {"f":"img/1779_N_Sklenickova_Barbora_Branov4.jpg","t":"Křest dcery Barbory XII 1779, Branov č. 4 – kmotři Dubská, Jungmann"}
       ]
     },
     {
@@ -8875,8 +8877,8 @@ window.RODOKMEN = {
       spouse: "vaclav_hl",
       marriage: "28. (?) 11. 1763, Bukov – s Václavem Skleničkou (K+)",
       notes: [
-        "Manželka Václava Hlavičky; matka Ludmily Semencové (křest vnučky 1817). Rodné příjmení neznámé.",
-        "Rodné jméno nejspíš Růžičková z Bukova (K+): viz sňatek 1763 na kartě manžela (Zbečno 04 O sn. 340 vpravo; M).",
+        "Manželka Václava Skleničky (vedeného jako Hlavička); matka Ludmily Semencové (křest vnučky 1817).",
+        "Rodným jménem Růžičková z Bukova, dcera † Františka Růžičky: sňatek 28. (?) 11. 1763 (Zbečno 04 O sn. 340 vpravo; M); že jde o matku Ludmily, dokládají kmotři křtů 1764–1779 (viz karta manžela).",
         "KANDIDÁT křtu (K+): 6. 1. 1738, z Bukova – „dcera jménem Barbora z poctivých rodičů Františka Růžičky a Weroniky (?)“ (Zbečno 03 N sn. 136 vpravo, fol. 133; M pro zápis, ověřeno koordinátorem)."
       ],
       sources: [
@@ -8888,8 +8890,11 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
         {"f":"img/1771_N_Hlavickova_Ludmila_Branov.jpg","t":"Křest Ludmily Hlavičkové, Branov č. 4, 12. 5. 1771"},
-        {"f":"img/1763_O_Sklenicka_Vaclav_Ruzickova_Barbora.jpg","t":"Kandidátní sňatek 28. (?) 11. 1763, Bukov / Branov"},
-        {"f":"img/1738_N_Ruzickova_Barbora.jpg","t":"Kandidátní křest Barbory 6. 1. 1738, Bukov"}
+        {"f":"img/1763_O_Sklenicka_Vaclav_Ruzickova_Barbora.jpg","t":"Sňatek s Václavem Skleničkou (Hlavičkou), 28. (?) 11. 1763, Branov / Bukov"},
+        {"f":"img/1738_N_Ruzickova_Barbora.jpg","t":"Kandidátní křest Barbory 6. 1. 1738, Bukov"},
+        {"f":"img/1764_N_Sklenickova_Anna_Branov.jpg","t":"Křest dcery Anny 22. 10. 1764, Branov – kmotři Jungmannová, Dubský"},
+        {"f":"img/1768_N_Sklenickova_Katerina_Branov.jpg","t":"Křest dcery Kateřiny 1768, Branov – kmotři Peltzová, Dubská"},
+        {"f":"img/1779_N_Sklenickova_Barbora_Branov4.jpg","t":"Křest dcery Barbory XII 1779, Branov č. 4 – kmotři Dubská, Jungmann"}
       ]
     },
     {
@@ -14529,21 +14534,22 @@ window.RODOKMEN = {
       name: "Jiří Sklenička",
       maiden: "",
       line: "nezname",
-      cert: "K",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
       spouse: "dorota_skl",
       alive: false,
       marriage: "17. 11. 1736 (?), Bukov – s Dorotou (K+)",
       notes: [
-        "KANDIDÁT (K+): otec Václava podle sňatku 1763, Branov; „Georgius Szlenizka“ (Zbečno 04 O sn. 340 vpravo; M pro zápis, ověřeno koordinátorem). Viz karta Václava Hlavičky / Skleničky.",
-        "KANDIDÁT sňatku (K+): 17. XI, zřejmě 1736 (rok z polohy v knize), z Bukova – „Jiřík, vlastní syn Jiříka (příjmení přeškrtáno, Skleničky ?) z Branova“ × „Dor(otka ?), vlastní dcera po neb. Jiříkovi Šmerdovi (?) z Bukovy“ (Zbečno 03 O sn. 201 vpravo, fol. 198; M pro zápis, ověřeno koordinátorem). Svědek 1764 a 1765 Jiří Sklenička může být tento muž i jiný; otec Jiřík starší zatím bez karty.",
-        "Pozor, jiní muži téhož jména v Branově (čteno agentem, nesměšovat): Jiří × Ludmila, děti Marie 1766 a 1779, č. 5 (Zbečno 04 N sn. 208 vlevo, 284 vpravo); kmotra 1766 „Veronica uxor Georgij Sklenizka“."
+        "Otec Václava podle oddacího zápisu 28. (?) 11. 1763: „Wenceslaus filius Georgij Szlenizka, oriundus Branovio“ (Zbečno 04 O sn. 340 vpravo; M). Ztotožnění ženicha s otcem Ludmily doloženo kmotry (karta Václava).",
+        "Pozor, jiní muži téhož jména v Branově (čteno agentem, nesměšovat): Jiří × Ludmila, děti Marie 1766 a 1779, č. 5 (Zbečno 04 N sn. 208 vlevo, 284 vpravo); kmotra 1766 „Veronica uxor Georgij Sklenizka“.",
+        "KANDIDÁT sňatku (K+): 17. XI, zřejmě 1736 (rok z polohy v knize), z Bukova – „Jiřík, vlastní syn Jiříka (příjmení přeškrtáno, Skleničky ?) z Branova“ × „Dor(otka ?), vlastní dcera po neb. Jiříkovi Šmerdovi (?) z Bukovy“ (Zbečno 03 O sn. 201 vpravo, fol. 198; M pro zápis, ověřeno koordinátorem). Svědek 1764 a 1765 Jiří Sklenička může být tento muž i jiný; otec Jiřík starší zatím bez karty."
       ],
       sources: [
         "SOA Praha, Zbečno 04 (8849), O sn. 340 vpravo, pag. 39 (XI 1763), https://ebadatelna.soapraha.cz/d/8849/340",
         "SOA Praha, Zbečno 03 (8794), O sn. 201 vpravo, fol. 198 (XI 1736 ?), https://ebadatelna.soapraha.cz/d/8794/201"
       ],
       scans: [
+        {"f":"img/1763_O_Sklenicka_Vaclav_Ruzickova_Barbora.jpg","t":"Sňatek syna Václava, 28. (?) 11. 1763, Branov / Bukov"},
         {"f":"img/1736_O_Sklenicka_Jiri.jpg","t":"Kandidátní sňatek Jiřího, 17. 11. 1736 (?), Bukov"}
       ]
     },
@@ -14552,17 +14558,19 @@ window.RODOKMEN = {
       name: "František Růžička",
       maiden: "",
       line: "nezname",
-      cert: "K",
+      cert: "M",
       b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
       spouse: "veronika_ruz",
       alive: false,
       notes: [
-        "KANDIDÁT (K+): otec Barbory podle sňatku 1763, Bukov; „defunctus Franciscus Ruzizka“, tedy † před XI 1763 (Zbečno 04 O sn. 340 vpravo; M pro zápis, ověřeno koordinátorem)."
+        "Otec Barbory podle oddacího zápisu 28. (?) 11. 1763: „Barbara filia defuncti Francisci Ruzizka, oriunda Bugovio“ – † před XI 1763 (Zbečno 04 O sn. 340 vpravo; M)."
       ],
       sources: [
         "SOA Praha, Zbečno 04 (8849), O sn. 340 vpravo, pag. 39 (XI 1763), https://ebadatelna.soapraha.cz/d/8849/340"
       ],
-      scans: []
+      scans: [
+        {"f":"img/1763_O_Sklenicka_Vaclav_Ruzickova_Barbora.jpg","t":"Sňatek dcery Barbory, 28. (?) 11. 1763, Branov / Bukov"}
+      ]
     },
     {
       id: "dorota_skl",
