@@ -5943,15 +5943,18 @@ window.RODOKMEN = {
         "Otec Václava Svobody (*~1781).",
         "Praha N116: křest syna Václava není v Tmaň 02 N 1781–82 (nalezen 1779, viz výše) a sňatek Svoboda × Anna/Alžběta není v O 1775–80 (střední negativ); Matěj, syn Tomáše Svobody z Tmaně × 1779 Barbora Růžičková (?) je spíš jiný (Tmaň 26). ROZPOR o matce nerozhodnut; zbývá N 1778–80, 1783, O 1771–75, Borek.",
         "Praha N121 (K): 30. 3. 1849 † Josefa, vdova po † Matěji Svobodovi, vysloužilém sousedu z Málkova, rozená Lautlová (?), 90 let, č. 57 (Borek 14 Z sn. 78 vlevo; M) – snad další manželka (*~1759), nebo jiný Matěj; není Josefa Krejčí.",
-        "V září 1779 podruh (inquilinus) v Málkově č. 16, manželka Anna (křest syna Václava; Tmaň 02 N sn. 124 vlevo; M); v oddacím zápisu syna 1806 „sedlák v Málkově“. Rejstřík O Borek 04 (S) Svobodu nemá; Tmaň 02 O 1771–74 (sn. 192–193) stažena, nečtena."
+        "V září 1779 podruh (inquilinus) v Málkově č. 16, manželka Anna (křest syna Václava; Tmaň 02 N sn. 124 vlevo; M); v oddacím zápisu syna 1806 „sedlák v Málkově“. Rejstřík O Borek 04 (S) Svobodu nemá; Tmaň 02 O 1771–74 (sn. 192–193) stažena, nečtena.",
+        "KANDIDÁT sňatku a rodičů (K+): 13. [II, 1774 – rok ze sledu, záhlaví nečitelné], Málkov č. 5 (oddával Martin Kinský): „honestus juvenis Mathias proprius filius Jacobi Swoboda rustici ex pago Malkov, subditus Dominio Tmanensi, cum sua virgine sponsa Anna propria filia matris Ludmillae Bundiana (?), nunc jam subdita Dominio Tmanensi“; na okraji „sponsa Koneprus“; svědci Jan Veselý, kovář málkovský, Václav Ježek z Málkova, Anna Svobodová, děvečka z Tmaně (Tmaň 02 O sn. 193 vpravo; M pro zápis, ověřeno koordinátorem; otec nevěsty neuveden – snad nemanželská). Jediný sňatek Matěje Svobody z Málkova v Tmaň 02 O 1771–1774; první dítě Anna 5. 8. 1774, Málkov č. 6 („Swoboda Mathias inquilinus Malkoviensis, Anna uxor“; kmotr Jiří Duchoň z Bykoše – týž jako u Václava 1779; Borek 04 N sn. 6 vpravo, čteno agentem). Otec tedy nejspíš Jakub Svoboda, sedlák v Málkově (č. 5); Vojtěch, syn Jakuba Svobody, × 1771 (Málkov 5) může být bratr. Matěj, syn Tomáše, × XI 1779 Barbora je jiný muž."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
-        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N, sn. 124 vlevo (22./23. 9. 1779) – https://ebadatelna.soapraha.cz/d/10456/124"
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N, sn. 124 vlevo (22./23. 9. 1779) – https://ebadatelna.soapraha.cz/d/10456/124",
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) O, sn. 193 vpravo (13. 2. 1774 ?); Borek 04 (4073) N sn. 6 vpravo (5. 8. 1774) – https://ebadatelna.soapraha.cz/d/10456/193"
       ],
       scans: [
         {"f":"img/1779_N_Svoboda_Vaclav_Malkov16.jpg","t":"Křest syna Václava, 23. 9. 1779, Málkov č. 16"},
-        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Václav Svoboda)"}
+        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Václav Svoboda)"},
+        {"f":"img/1774_O_Svoboda_Matej_Anna_Malkov5.jpg","t":"Kandidátní sňatek Matěje Svobody a Anny, 13. 2. 1774 (?), Málkov"}
       ]
     },
     {
@@ -5962,15 +5965,18 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
       spouse: "matej_sv0",
       notes: [
-        "Matka Václava Svobody (*~1781); rodné příjmení neuvedeno."
+        "Matka Václava Svobody (*~1781); rodné příjmení neuvedeno.",
+        "KANDIDÁT sňatku a původu (K+): 13. [II, 1774 – rok ze sledu, záhlaví nečitelné], Málkov č. 5 (oddával Martin Kinský): „honestus juvenis Mathias proprius filius Jacobi Swoboda rustici ex pago Malkov, subditus Dominio Tmanensi, cum sua virgine sponsa Anna propria filia matris Ludmillae Bundiana (?), nunc jam subdita Dominio Tmanensi“; na okraji „sponsa Koneprus“; svědci Jan Veselý, kovář málkovský, Václav Ježek z Málkova, Anna Svobodová, děvečka z Tmaně (Tmaň 02 O sn. 193 vpravo; M pro zápis, ověřeno koordinátorem; otec nevěsty neuveden – snad nemanželská). Rodem tedy z Koněprus, dcera Ludmily Bundové (?); v Suchomastech 1775 kmotr Václav Bunda, podruh."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
-        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N, sn. 124 vlevo (22./23. 9. 1779) – https://ebadatelna.soapraha.cz/d/10456/124"
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N, sn. 124 vlevo (22./23. 9. 1779) – https://ebadatelna.soapraha.cz/d/10456/124",
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) O, sn. 193 vpravo (13. 2. 1774 ?); Borek 04 (4073) N sn. 6 vpravo (5. 8. 1774) – https://ebadatelna.soapraha.cz/d/10456/193"
       ],
       scans: [
         {"f":"img/1779_N_Svoboda_Vaclav_Malkov16.jpg","t":"Křest syna Václava, 23. 9. 1779, Málkov č. 16"},
-        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Václav Svoboda)"}
+        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Václav Svoboda)"},
+        {"f":"img/1774_O_Svoboda_Matej_Anna_Malkov5.jpg","t":"Kandidátní sňatek Matěje Svobody a Anny, 13. 2. 1774 (?), Málkov"}
       ]
     },
     {
