@@ -15069,7 +15069,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Josefa Nováka z Nové Huti – při jeho sňatku 19. 1. 1806 „syn po † Lukášovi Novákovi z Nové Hutě“ (Hudlice 10 O sn. 45 vlevo; M, jméno čteno s malou nejistotou). V r. 1806 už nežil. Křest syna Josefa (*~1781) hledat v Nižbor 02 (9777).",
         "Praha N231: křest Josefa (otec Lukáš) není v Nižbor 02 (9777) N XI 1779 – VIII 1781 (sn. 78–82; Nová Huť se tam vůbec nevyskytuje – snad jiná fara, nebo zapsáno pod Nižborem); rejstřík Stradonic Josefa nemá. Zbývá rejstřík Nižbora (sn. ~88–93) a roky ≤ 1779, 1781–82.",
-        "Praha N232: v rejstříku N Nižbor 02 (1743–84) Lukáš Novák není ani jako otec, ani jako dítě; jméno „Lukášovi“ v zápisu 1806 koordinátor znovu ověřil zvětšením – čtení zůstává „Lu…šowi“ (Lukáš), ne „Kašparowi“. Alternativa (K, slabší): 11./12. 10. 1781 Nižbor č. 7 křest „Josephus Franciscus“, syn Kašpara Nováka, horníka (?) (ferri fossor), × Veroniky (Nižbor 02 N str. 158, sn. 83 vlevo; M pro zápis) – věk by seděl, otec jiný. Nerozhodnuto."
+        "Praha N232: v rejstříku N Nižbor 02 (1743–84) Lukáš Novák není ani jako otec, ani jako dítě; jméno „Lukášovi“ v zápisu 1806 koordinátor znovu ověřil zvětšením – čtení zůstává „Lu…šowi“ (Lukáš), ne „Kašparowi“. Alternativa (K, slabší): 11./12. 10. 1781 Nižbor č. 7 křest „Josephus Franciscus“, syn Kašpara Nováka, horníka (?) (ferri fossor), × Veroniky (Nižbor 02 N str. 158, sn. 83 vlevo; M pro zápis) – věk by seděl, otec jiný. Nerozhodnuto.",
+        "Praha N235: Kašpar Novák (alternativní otec Josefa *1781), syn Dominika Nováka, horníka, × 19. 10. [1779 ?] Veronika, dcera † Antonína Wagena (?) z Vysoké Huti (Alta Hutna) (Nižbor 02 O pag. 222, sn. 128 vlevo; čteno agentem) – „Vysoká Huť“ blízko „Nové Huti“; alternativa tím sílí, ale 1806 je zapsán Lukáš. Nerozhodnuto."
       ],
       sources: [
         "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45"
@@ -15085,43 +15086,72 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true,"place":"Otročiněves (fara Hudlice)"},
+      father: "vojtech_ml",
       spouse: "dorota_ml",
       alive: false,
       occ: "chalupník v Otročiněvsi č. 35, poddaný panství Křivoklát",
+      marriage: "18. 1. 1774, Nižbor (kaple sv. Kříže) – s Dorotou, dcerou Jana Laudy (?) ze Zloukovic (K+)",
       notes: [
         "Otec Marie Novákové – při jejím sňatku 19. 1. 1806 „dcera po † Jozefovi Malým z Otročiněvse“ (Hudlice 10 O sn. 45 vlevo; M); při křtu vnučky 1807 „† Josef Malý, domkář v Am… (?) č. 35“. V r. 1806 už nežil. Děti podle rejstříku N Hudlice 14 (K): Marie 25. 7. 1785, Terezie 17. 11. 1789 (obě č. 35). Úmrtí hledat v Hudlice 01/12 Z.",
         "Manželka Dorota (křest dcery Marie Anny 25. 7. 1785, Hudlice 01 sn. 13 vpravo; M). Úmrtí: v Z Hudlice 12, oddíl Otročiněves XI 1796 – IX 1806 (jen přehled) jediný kandidát 10. 11. 1801 „Josef Malý, Pintner (?)“, 48 let, č. 33 (?) (sn. 92 vlevo; K – dům nesedí); v Hudlice 01 Z Otročiněves XII 1788 – X 1796 není (Praha N231, dobrý negativ). Křty Malých před 1784 v rejstříku Otročiněvsi Nižbor 02 (sn. 99–100).",
         "Praha N232: rejstřík N Otročiněvsi v Nižbor 02 (do ~1770) má jen Veroniku Malou, VI 1766, dceru Vojtěcha Malého × Doroty z Otročiněvsi (sn. 47 vlevo, str. 88; kmotra Dorota Rottová; M pro zápis) – snad rodiče nebo příbuzní Josefa (K; Dorota Malá † 1804 č. 22, 82 let ?). Křest Josefa Malého (*~1750–58) v rejstříku není. Od ~1770 Otročiněves v Nižbor 02 chybí – jiná fara (Beroun ?).",
         "Děti Josefa Malého, chalupníka (casarius), × Doroty v Otročiněvsi č. 35 (Beroun 09 (3911) NOZ 1771–84, Hudlice/Otročiněves/Svatá; M pro zápisy, čteno agentem): Josef 19. 9. 1780 (sn. 45 vlevo, pag. 84; levans Jan Albrecht, rychtář otročiněveský) a Josef Antonín 20./21. 6. 1782 (sn. 50 vlevo, pag. 94) – tentýž dům č. 35 jako Marie Anna 1785. Sňatek Josefa × Doroty není v Beroun 09 O XI 1771 – VI 1784 → před 1771 nebo jinde (rejstřík O Beroun 40 (3942) 1734–84). Pozor: v Otročiněvsi a Hudlicích 1781–83 i jiný Josef Malý (podruh; × Josefa, Hudlice č. 61) (Praha N233).",
-        "Praha N234: sňatek Josefa × Doroty není v rejstříku O fary Beroun 1734–1784 (Beroun 40, ženiši; M Malí jen Antonín 1768, 1770 a starší Josefové 1750 × Veronika Geltšmarová (?), 1751 (?) × Kateřina) → nejspíš ve faře nevěsty (Nižbor ?). Vojtěch Malý × Dorota v rejstříku také není."
+        "Praha N234: sňatek Josefa × Doroty není v rejstříku O fary Beroun 1734–1784 (Beroun 40, ženiši; M Malí jen Antonín 1768, 1770 a starší Josefové 1750 × Veronika Geltšmarová (?), 1751 (?) × Kateřina) → nejspíš ve faře nevěsty (Nižbor ?). Vojtěch Malý × Dorota v rejstříku také není.",
+        "KANDIDÁT sňatku (K+): 18. 1. 1774 Nižbor – „Honestus adolescens Josephus filius legitimus Adalberti Maly operarii ex pago Ottroczin cum honesta virgine Dorothea filia legitima Joannis Lauda (?) operarii ex pago Zlaukowiz, ambo subditi“; svědek Jan Jíra, sedlák ze Zloukovic; oddával P. Franciscus Budielowsky; „Zlaukowizio, nunc autem Ottroczinovii habitant“ (Nižbor 02 O pag. 215, sn. 124 vpravo; M pro zápis, ověřeno koordinátorem; první písmeno příjmení nevěsty L/R nejisté). Jediný sňatek Josefa Malého s Dorotou v rejstřících Nižbor 1743–84 a Beroun 1734–84; v Otročiněvsi ale 1781–83 i jiný Josef Malý (podruh) – K+ (Praha N235)."
       ],
       sources: [
         "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45",
         "SOA Praha, fara Hudlice, Hudlice 01 (5787) N, pag. 5, sn. 13 vpravo (25. 7. 1785) – https://ebadatelna.soapraha.cz/d/5787/13",
-        "SOA Praha, fara Beroun, Beroun 09 (3911) N sn. 45 vlevo (19. 9. 1780) a sn. 50 vlevo (21. 6. 1782), Otročiněves č. 35 – https://ebadatelna.soapraha.cz/d/3911/45"
+        "SOA Praha, fara Beroun, Beroun 09 (3911) N sn. 45 vlevo (19. 9. 1780) a sn. 50 vlevo (21. 6. 1782), Otročiněves č. 35 – https://ebadatelna.soapraha.cz/d/3911/45",
+        "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 215, sn. 124 vpravo (18. 1. 1774); rejstřík O sn. 132–133 – https://ebadatelna.soapraha.cz/d/9777/124"
       ],
       scans: [
         {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek dcery Marie 19. 1. 1806, Otročiněves"},
-        {"f":"img/1785_krest_marie_mala.jpg","t":"Křest dcery Marie Anny 25. 7. 1785, Otročiněves č. 35"}
+        {"f":"img/1785_krest_marie_mala.jpg","t":"Křest dcery Marie Anny 25. 7. 1785, Otročiněves č. 35"},
+        {"f":"img/1774_O_maly_josef_dorota.jpg","t":"Kandidátní sňatek 18. 1. 1774, Nižbor – Josef, syn Vojtěcha Malého z Otročiněvsi × Dorota, dcera Jana Laudy (?) ze Zloukovic"}
       ]
     },
     {
       id: "dorota_ml",
       name: "Dorota Malá",
-      maiden: "",
+      maiden: "Laudová (?)",
       line: "nezname",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true,"place":"Zloukovice (fara Nižbor) (?)"},
       spouse: "josef_ml",
       alive: false,
       notes: [
-        "KANDIDÁTKA (K+): matka Marie Novákové – v kandidátním křtu 25. 7. 1785 Otročiněves č. 35 „matka Dorota“, manželka Josefa Malého, chalupníka (Hudlice 01 N sn. 13 vpravo; M pro zápis). Rodné příjmení neuvedeno. Nezaměňovat s Dorotou Malou † 29. 3. 1804 Otročiněves č. 22 (82 let)."
+        "KANDIDÁTKA (K+): matka Marie Novákové – v kandidátním křtu 25. 7. 1785 Otročiněves č. 35 „matka Dorota“, manželka Josefa Malého, chalupníka (Hudlice 01 N sn. 13 vpravo; M pro zápis). Rodné příjmení neuvedeno. Nezaměňovat s Dorotou Malou † 29. 3. 1804 Otročiněves č. 22 (82 let).",
+        "KANDIDÁT sňatku (K+): 18. 1. 1774 Nižbor jako „Dorothea filia legitima Joannis Lauda (?) operarii ex pago Zlaukowiz“ s Josefem, synem Vojtěcha Malého z Otročiněvsi (Nižbor 02 O sn. 124 vpravo; M pro zápis). Rodné příjmení čteno Lauda/Rauda; svědek „Lauda Joannes, operarius ze Zloukovic“ na sn. 128 podporuje Laudu."
       ],
       sources: [
-        "SOA Praha, fara Hudlice, Hudlice 01 (5787) N, pag. 5, sn. 13 vpravo (25. 7. 1785) – https://ebadatelna.soapraha.cz/d/5787/13"
+        "SOA Praha, fara Hudlice, Hudlice 01 (5787) N, pag. 5, sn. 13 vpravo (25. 7. 1785) – https://ebadatelna.soapraha.cz/d/5787/13",
+        "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 215, sn. 124 vpravo (18. 1. 1774); rejstřík O sn. 132–133 – https://ebadatelna.soapraha.cz/d/9777/124"
       ],
       scans: [
-        {"f":"img/1785_krest_marie_mala.jpg","t":"Křest dcery Marie Anny 25. 7. 1785, Otročiněves č. 35"}
+        {"f":"img/1785_krest_marie_mala.jpg","t":"Křest dcery Marie Anny 25. 7. 1785, Otročiněves č. 35"},
+        {"f":"img/1774_O_maly_josef_dorota.jpg","t":"Kandidátní sňatek 18. 1. 1774, Nižbor – Josef, syn Vojtěcha Malého z Otročiněvsi × Dorota, dcera Jana Laudy (?) ze Zloukovic"}
+      ]
+    },
+    {
+      id: "vojtech_ml",
+      name: "Vojtěch Malý",
+      maiden: "",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true,"place":"Otročiněves (?)"},
+      alive: false,
+      occ: "dělník (operarius), podruh v Otročiněvsi",
+      notes: [
+        "KANDIDÁT (K+): otec Josefa Malého – při jeho sňatku 18. 1. 1774 „Josephus filius legitimus Adalberti Maly operarii ex pago Ottroczin“ (Nižbor 02 O sn. 124 vpravo; M pro zápis).",
+        "Podruhé oddán 5. 9. (?) 1763 v Nižboře: „honestus viduus Adalbertus Maley inquilinus oriundus ex pago Otročinowes“ s vdovou Dorotou po † Janu Vítkovi (?) ze Svaté (?); svědci Jakub Schrobl (?) a Jan Fryora (?) (Nižbor 02 O pag. 199, sn. 116 vpravo; čteno agentem). Dcera z 2. manželství Veronika, VI 1766 (sn. 47 vlevo). Josef (*~1750) je tedy nejspíš z 1. manželství – matka neznámá. Dorota Malá † 29. 3. 1804 Otročiněves č. 22, 82 let – snad vdova po Vojtěchovi (K)."
+      ],
+      sources: [
+        "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 215, sn. 124 vpravo (18. 1. 1774); rejstřík O sn. 132–133 – https://ebadatelna.soapraha.cz/d/9777/124",
+        "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 199, sn. 116 vpravo (IX 1763) – https://ebadatelna.soapraha.cz/d/9777/116"
+      ],
+      scans: [
+        {"f":"img/1774_O_maly_josef_dorota.jpg","t":"Kandidátní sňatek syna Josefa 18. 1. 1774, Nižbor"}
       ]
     }
   ]
