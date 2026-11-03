@@ -5984,18 +5984,22 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
       ],
       scans: [
-        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Josefa Svobodová)"}
+        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Josefa Svobodová)"},
+        {"f":"img/1787_O_Krejci_Jakub_Jaubova_Katerina_Suchomasty.jpg","t":"Sňatek s Kateřinou Jaubovou, 13. 11. 1787, Suchomasty"}
       ]
     },
     {
       id: "katerina_kr2",
       name: "Kateřina Krejčí",
+      maiden: "Jaubová (Haubová)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      father: "vaclav_hb",
+      mother: "katerina_dch",
       spouse: "jakub_kr",
       notes: [
-        "Matka Josefy Svobodové; rodné příjmení neuvedeno.",
+        "Matka Josefy Svobodové. Rodným jménem Jaubová (oddací zápis 1787), v Suchomastech psáno většinou Hauba – rodiče jako kandidáti (K+), viz karta otce.",
         "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí).",
         "KANDIDÁT křtu (K, jen pokud je to Kateřina Jaubová z ROZPORU výše): 18. (?) 11. 1763 Suchomasty – „Catharina, legitima filia Wenceslai Hauba et uxoris Catharinae“ (Borek 03 N sn. 68 vpravo, pag. 131; M) – otec Václav a věk 24 v 1787 sedí; Hauba = Jauba je jen domněnka.",
         "KANDIDÁT otce (K, Hauba = Jauba nedoloženo): Václav Hauba, sedlák suchomastský, č. 49, † VII 1772, věk nejistý (Borek 03 Z sn. 188 vlevo, pag. 150; M, ověřeno koordinátorem); pohrobek Dorota, 6. 2. 1773, rodiče † Václav Hauba × Kateřina, č. 49 (Borek 03 N sn. 107 vpravo; M, ověřeno koordinátorem). Sedí Václav, sedlák, Suchomasty a „pozůstalá dcera“ v 1787; dům nevěsty v oddacím zápise čten „1 (?)“, ne 49.",
@@ -6008,7 +6012,9 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Josefa Svobodová)"},
         {"f":"img/1785_N_Haubova_Josefa_Suchomasty49.jpg","t":"Kandidátní křest dcery Josefy 11. 3. 1785, Suchomasty č. 49 (nemanželská, matka Kateřina Haubová)"},
-        {"f":"img/1785_indexN_Haubova_Josefa_Suchomasty49.jpg","t":"Rejstřík narozených Borek 11, H – Hauba Josepha 1785"}
+        {"f":"img/1785_indexN_Haubova_Josefa_Suchomasty49.jpg","t":"Rejstřík narozených Borek 11, H – Hauba Josepha 1785"},
+        {"f":"img/1763_N_Haubova_Katerina_Suchomasty.jpg","t":"Kandidátní křest 18. (?) 11. 1763, Suchomasty"},
+        {"f":"img/1787_O_Krejci_Jakub_Jaubova_Katerina_Suchomasty.jpg","t":"Sňatek s Jakubem Krejčím, 13. 11. 1787, Suchomasty"}
       ]
     },
     {
@@ -14660,6 +14666,55 @@ window.RODOKMEN = {
         {"f":"img/1725_N_Ruzicka_Frantisek_Bukov.jpg","t":"Křest syna Franze (Ondřeje ?), 10. 8. 1725 (?), Bukov"},
         {"f":"img/1727_N_Ruzickova_Veronika_Bukov.jpg","t":"Křest dcery Veroniky, 12. 10. 1726/27 (?), Bukov"},
         {"f":"img/1735_N_Ruzickova_Katerina_Bukov.jpg","t":"Křest dcery Kateřiny Veroniky, 29. IX (?) 1735, Bukov"}
+      ]
+    },
+    {
+      id: "vaclav_hb",
+      name: "Václav Hauba (Jauba)",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1725, nejpozději ~1730)","year":1725,"approx":true,"place":"Suchomasty"},
+      d: {"date":"VII 1772","year":1772,"place":"Suchomasty č. p. 49"},
+      occ: "sedlák (rusticus) v Suchomastech č. 49",
+      marriage: "23. 11. 1750 (rok ze sledu), Suchomasty – s Kateřinou Duchoňovou",
+      notes: [
+        "KANDIDÁT (K+): otec Kateřiny Krejčí – nevěsta 13. 11. 1787 „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let (Borek 05 O sn. 86; M) = Kateřina, dcera Václava Hauby a Kateřiny, pokřtěná 18. (?) 11. 1763 (Borek 03 N sn. 68 vpravo). Tvar Jauba/Hauba: u křtu Marie Magdaleny 1761 psán „Waclawa Jauby (?)“ (sn. 55 vpravo, ověřeno koordinátorem), jinak Hauba; nemanželská Josefa 1785 (dcera Kateřiny, dcery † Václava Hauby) je z jeho usedlosti č. 49.",
+        "Sňatek 23. 11. [1750 – rok ze sledu a ohlášek; další zápis „Anno 1751“], Suchomasty: „honestus adolescens Wenceslaus proprius filius Jacobi Hauba subditi boni Suchomastensis cum honesta ancilla Catharina propria filia defuncti Georgii Duchon boni Suchomastensis“; svědci Franciscus Baubin (factor), Paulus Novak, Joannes Burian, družba Georgius Duchon, družička Catharina Kliková (Borek 03 O sn. 196 vlevo, pag. 10; jediný sňatek Václava Hauby v rejstříku O 1748–1773; M, ověřeno koordinátorem). Otec Jakub Hauba v r. 1750 žil.",
+        "Děti v Suchomastech (Borek 03 N, čteno agentem, kmotři opakovaně Adam Staněk, Dorota Škodová z Bykoše, Alžběta Bundalová): Havel 14. 10. 1751 (sn. 16 vlevo), Alžběta 2. 3. 1757 (sn. 37 vpravo), Anna 8. 5. 1759 (sn. 46 vlevo), Marie Magdalena 22. 6. 1761 (sn. 55 vpravo; „Jauby“), Kateřina 1763, František 1769, pohrobek Dorota 6. 2. 1773.",
+        "Zemřel VII 1772 (dne 8. ?) v Suchomastech č. 49: „Hauba Wenceslaus rusticus Suchomastensis“, věk nejistý (3? / 4?) (Borek 03 Z sn. 188 vlevo, pag. 150; M, ověřeno koordinátorem). ROZPOR věku: ženich 1750 „adolescens“ → narozen nejpozději ~1730.",
+        "Vdova Kateřina se v VIII 1772 znovu vdala za Matěje Vietrovského (Wietrowski), syna Kateřiny Vietrovské, podruhyně bykošské; dům 49 (Borek 03 O sn. 238 vlevo, pag. 94; M, ověřeno koordinátorem)."
+      ],
+      sources: [
+        "SOA Praha, fara Borek, Borek 03 (4072): O sn. 196 vlevo pag. 10 (23. 11. 1750), O sn. 238 vlevo pag. 94 (VIII 1772), N sn. 55 vpravo pag. 105 (1761), N sn. 68 vpravo pag. 131 (1763), Z sn. 188 vlevo pag. 150 (VII 1772) – https://ebadatelna.soapraha.cz/d/4072/196"
+      ],
+      scans: [
+        {"f":"img/1750_O_Hauba_Vaclav_Duchonova_Katerina_Suchomasty.jpg","t":"Sňatek s Kateřinou Duchoňovou, 23. 11. 1750 (?), Suchomasty"},
+        {"f":"img/1761_N_Jaubova_MarieMagdalena_Suchomasty.jpg","t":"Křest dcery Marie Magdaleny 1761 – otec „Waclawa Jauby (?)“"},
+        {"f":"img/1763_N_Haubova_Katerina_Suchomasty.jpg","t":"Kandidátní křest dcery Kateřiny, 18. (?) 11. 1763, Suchomasty"},
+        {"f":"img/1772_Z_Hauba_Vaclav_Suchomasty49.jpg","t":"Úmrtí VII 1772, Suchomasty č. 49"},
+        {"f":"img/1772_O_Vietrovsky_Matej_vdova_Haubova_Suchomasty49.jpg","t":"Druhý sňatek vdovy Kateřiny, VIII 1772, Suchomasty č. 49"}
+      ]
+    },
+    {
+      id: "katerina_dch",
+      name: "Kateřina Haubová (Vietrovská)",
+      maiden: "Duchoňová",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (asi 1730)","year":1730,"approx":true,"place":"Suchomasty"},
+      spouse: "vaclav_hb",
+      marriage: "23. 11. 1750 (?) Suchomasty – s Václavem Haubou; 2. VIII 1772 – s Matějem Vietrovským",
+      notes: [
+        "KANDIDÁTKA (K+): matka Kateřiny Krejčí (viz karta manžela Václava Hauby).",
+        "Dcera † Jiřího Duchoně ze Suchomast; oddána 23. 11. [1750] s Václavem Haubou, synem Jakuba (Borek 03 O sn. 196 vlevo; M). Jako vdova po Václavovi, sedlákovi suchomastském, se v VIII 1772 znovu vdala za Matěje Vietrovského (Borek 03 O sn. 238 vlevo, dům 49; M). Úmrtí nehledáno."
+      ],
+      sources: [
+        "SOA Praha, fara Borek, Borek 03 (4072): O sn. 196 vlevo pag. 10 (23. 11. 1750), O sn. 238 vlevo pag. 94 (VIII 1772), N sn. 55 vpravo pag. 105 (1761), N sn. 68 vpravo pag. 131 (1763), Z sn. 188 vlevo pag. 150 (VII 1772) – https://ebadatelna.soapraha.cz/d/4072/196"
+      ],
+      scans: [
+        {"f":"img/1750_O_Hauba_Vaclav_Duchonova_Katerina_Suchomasty.jpg","t":"Sňatek s Václavem Haubou, 23. 11. 1750 (?), Suchomasty"},
+        {"f":"img/1763_N_Haubova_Katerina_Suchomasty.jpg","t":"Kandidátní křest dcery Kateřiny, 18. (?) 11. 1763, Suchomasty"},
+        {"f":"img/1772_O_Vietrovsky_Matej_vdova_Haubova_Suchomasty49.jpg","t":"Druhý sňatek s Matějem Vietrovským, VIII 1772, Suchomasty č. 49"}
       ]
     }
   ]
