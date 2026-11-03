@@ -8123,7 +8123,8 @@ window.RODOKMEN = {
         {"f":"img/1766_N_Sklenickova_Veronika_Branov.jpg","t":"Křest sestry Veroniky, 1. 1. 1766, Branov"},
         {"f":"img/1773_N_Sklenicka_Vaclav_Branov4.jpg","t":"Křest bratra Václava Jana (?), IX (?) 1773, Branov č. 4"},
         {"f":"img/1776_N_Sklenickova_MarieBarbora_Branov4.jpg","t":"Křest sestry Marie Barbory, 1. 1. 1776, Branov č. 4"},
-        {"f":"img/1883_Z_Semenec_Martin_Zbecno45.jpg","t":"Úmrtí syna Martina Semence 1883 – „dcera Václava Hlavičky z Branova“"}
+        {"f":"img/1883_Z_Semenec_Martin_Zbecno45.jpg","t":"Úmrtí syna Martina Semence 1883 – „dcera Václava Hlavičky z Branova“"},
+        {"f":"img/1793_umrti_vaclav_sklenicka.jpg","t":"Úmrtí otce Václava Skleničky 12. 1. 1793, Branov č. 4"}
       ]
     },
     {
@@ -9008,12 +9009,15 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (asi 1737, kandidátní křest – viz poznámky)","year":1737,"approx":true,"place":"Branov"},
+      d: {"date":"12. 1. 1793","year":1793,"place":"Branov č. 4 (fara Nezabudice)"},
+      cause: "úbytě (?) („an der Abzehrung“)",
       father: "jiri_skl",
       mother: "dorota_skl",
       spouse: "barbora_hl0",
       marriage: "28. (?) 11. 1763, Bukov – s Barborou Růžičkovou (K+)",
       notes: [
         "Podruh (inquilinus) v Branově č. 4 (okr. Rakovník; fara Zbečno, od 1785 Nezabudice); manželka Barbora; dcera Ludmila *11. 5. 1771. V r. 1807 uveden jako zemřelý.",
+        "Zemřel 12. 1. 1793 v Branově č. 4: „Wentz Klenitzka (?), Chaluppner (?)“, 52 let (→ *~1740/41), „an der Abzehrung“ (?); pohřbil P. Victorinus (Nezabudice 14 (9772) Z, sn. 8 vpravo, 1. zápis roku 1793; M, ověřeno koordinátorem na výřezu – dům č. 4, Václav, tvar Klenička jako 1759/1778). ROZPOR věku: kandidátní křest IX 1737 by dával 55 let. Dcera Ludmila se vdávala 27. 10. 1793 už po otcově smrti.",
         "Negativy dřívějšího hledání sňatku (před nálezem 1763): Zbečno 04 O I 1767 – X 1770 (N115) a VII 1765 – XI 1771 (N116).",
         "Tvar příjmení: 1763 a 1764 „Szlenizka“, 1768 „Sklenizka“, 1771 „S(?)klenizka“, 1779 „Sklenicza“ (první písmeno je ligatura Sk, dříve čtená jako K/H); kmotra XII 1778 „Barbara uxor Wenceslai Klenička (?) ex Branow“ (sn. 284 vlevo). Tvar „Hlavička (?) / Wlaczka (?)“ pochází z pozdějších zápisů vnuků a sám je nejistý; karta zatím ponechána pod jménem Hlavička.",
         "Branov, tvar „Klenička“: XII 1778 kmotra „Barbara uxor Wenceslai Klenička ex Branow“ (Zbečno 04 N sn. 284 vlevo, pag. 556; M, ověřeno koordinátorem). Křest Barbory, pag. 568, je podle sledu nadpisů XII 1779 (rok přímo na straně není). Tvar „Hlavička (?) / Wlaczka (?)“ pochází z pozdějších zápisů vnuků, kde je sám nejistý. Karta zatím ponechána pod jménem Hlavička; první písmeno spíš K, nerozhodnuto.",
@@ -9031,7 +9035,8 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), pag. 463, snímek 237 – https://ebadatelna.soapraha.cz/d/8849/237",
         "SOA Praha, Zbečno 04 (8849), O sn. 340 vpravo, pag. 39 (XI 1763), https://ebadatelna.soapraha.cz/d/8849/340",
         "SOA Praha, Zbečno 03 (8794), N sn. 134 vpravo, fol. 131 (IX 1737 ?), https://ebadatelna.soapraha.cz/d/8794/134",
-        "SOA Praha, fara Zbečno, Zbečno 04 (8849) N, sn. 202, 248, 265 (1766, 1773, 1776) – https://ebadatelna.soapraha.cz/d/8849/248"
+        "SOA Praha, fara Zbečno, Zbečno 04 (8849) N, sn. 202, 248, 265 (1766, 1773, 1776) – https://ebadatelna.soapraha.cz/d/8849/248",
+        "SOA Praha, fara Nezabudice, Nezabudice 14 (9772) Z 1784–1897, Branov, sn. 8 vpravo (12. 1. 1793) – https://ebadatelna.soapraha.cz/d/9772/8"
       ],
       scans: [
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
@@ -9044,7 +9049,8 @@ window.RODOKMEN = {
         {"f":"img/1766_N_Sklenickova_Veronika_Branov.jpg","t":"Křest dcery Veroniky, 1. 1. 1766, Branov"},
         {"f":"img/1773_N_Sklenicka_Vaclav_Branov4.jpg","t":"Křest syna Václava Jana (?), IX (?) 1773, Branov č. 4"},
         {"f":"img/1776_N_Sklenickova_MarieBarbora_Branov4.jpg","t":"Křest dcery Marie Barbory, 1. 1. 1776, Branov č. 4"},
-        {"f":"img/1883_Z_Semenec_Martin_Zbecno45.jpg","t":"Úmrtí vnuka Martina Semence 1883 – „dcera Václava Hlavičky z Branova“"}
+        {"f":"img/1883_Z_Semenec_Martin_Zbecno45.jpg","t":"Úmrtí vnuka Martina Semence 1883 – „dcera Václava Hlavičky z Branova“"},
+        {"f":"img/1793_umrti_vaclav_sklenicka.jpg","t":"Úmrtí 12. 1. 1793, Branov č. 4"}
       ]
     },
     {
@@ -9061,7 +9067,8 @@ window.RODOKMEN = {
         "Manželka Václava Skleničky (vedeného jako Hlavička); matka Ludmily Semencové (křest vnučky 1817).",
         "Rodným jménem Růžičková z Bukova, dcera † Františka Růžičky: sňatek 28. (?) 11. 1763 (Zbečno 04 O sn. 340 vpravo; M); že jde o matku Ludmily, dokládají kmotři křtů 1764–1779 (viz karta manžela).",
         "KANDIDÁT křtu (K+): 6. 1. 1738, z Bukova – „dcera jménem Barbora z poctivých rodičů Františka Růžičky a Weroniky (?)“ (Zbečno 03 N sn. 136 vpravo, fol. 133; M pro zápis, ověřeno koordinátorem).",
-        "KANDIDÁTI sourozenců (K+, viz karta otce): Franc (Ondřej ?) 1725, Veronika 1726/27, Kateřina Veronika 1735, Bukov."
+        "KANDIDÁTI sourozenců (K+, viz karta otce): Franc (Ondřej ?) 1725, Veronika 1726/27, Kateřina Veronika 1735, Bukov.",
+        "Úmrtí není v Z Nezabudice 14 (Branov) IX 1784 – XII 1809 (Praha N198) – v r. 1793 ovdověla; dům č. 4 pak drží jiná rodina."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
