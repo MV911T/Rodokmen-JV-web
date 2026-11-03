@@ -5265,6 +5265,8 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"23. 11. 1776","year":1776,"place":"Bykoš č. p. 10"},
+      d: {"date":"21. 2. 1846","year":1846,"place":"Suchomasty č. 49 (fara Borek)"},
+      cause: "věkem sešlá",
       father: "jan_kl",
       mother: "katerina_kl",
       spouse: "vaclav_kl",
@@ -5273,14 +5275,19 @@ window.RODOKMEN = {
         "Pokřtěna 23. 11. 1776 (farář Filip Bílek) v Bykoši č. 10: „Klika Joannes rusticus Bikoschensis, Catharina uxor, subditi Suchomastenses“; kmotra Kateřina, manželka Jana Staňka, kováře z Bykoše, svědek Jakub Chvátal, mlynář suchomastský.",
         "Oddána 28. 6. 1797 s vdovcem Václavem Klikou ze Suchomast č. 12; ROZPOR věku: uvedeno 18 let, podle křtu 20½ (jiná Kateřina, dcera Jana Kliky z Bykoše, v indexu 1773–1784 není).",
         "Sourozenci v Bykoši č. 10: Josef (1785), František (1789), František (1791).",
-        "Podruhé oddána 27. 9. 1807 v Suchomastech: „Kateřina, pozůstalá vdova po † Václavovi Klikovi, sedláku suchomastském a poddaném téhož“, 32 (?) let, se svobodným Jiřím, vlastním synem Jana Buriana, …(?) suchomastského, a matky Anny, 24/29 (?) let; svědci Ondřej Burian a Matěj Burian ze Suchomast; oddával farář Václav Fr. Matějka (Borek 06 O Suchomasty sn. 65 vlevo, pag. 6; M, ověřeno koordinátorem). Rodiče nevěsty zápis neuvádí; ztotožnění: sedm měsíců po smrti Václava Kliky z č. 12 († 18. 2. 1807), jiný zemřelý Václav Klika-sedlák v té době není (K+). Věk 32 (?) proti křtu 1776 (30) – mírný ROZPOR. Další jméno: Burianová – hledat děti od 1808 a úmrtí pod Burianová (Praha N214)."
+        "Podruhé oddána 27. 9. 1807 v Suchomastech: „Kateřina, pozůstalá vdova po † Václavovi Klikovi, sedláku suchomastském a poddaném téhož“, 32 (?) let, se svobodným Jiřím, vlastním synem Jana Buriana, …(?) suchomastského, a matky Anny, 24/29 (?) let; svědci Ondřej Burian a Matěj Burian ze Suchomast; oddával farář Václav Fr. Matějka (Borek 06 O Suchomasty sn. 65 vlevo, pag. 6; M, ověřeno koordinátorem). Rodiče nevěsty zápis neuvádí; ztotožnění potvrzeno křtem syna Antonína 1814 a úmrtím 1846 (viz níže). Věk 32 (?) proti křtu 1776 (30) – mírný ROZPOR. Další jméno: Burianová – hledat děti od 1808 a úmrtí pod Burianová (Praha N214).",
+        "S Jiřím Burianem (*~1779 Suchomasty, † 5. 1. 1854 Suchomasty č. 49, výminkář, 74 let; Borek 15 sn. 23) děti: Josef 18. 12. 1808 (č. 12), Marie 16. 8. 1810 (Suchomasty č. 12), Antonín 29. 3. 1814 (Suchomasty č. 49) (rejstřík Borek 11 sn. 5). Křest Antonína: „Matka Kateřina, dcera Jana Kliky, sedláka z Bykoše No 10, matky Kateřiny“, otec Jiří Burian, sedlák, poddaný suchomastský; kmotr Antonín Chvátal, mlynář suchomastský (Borek 06 N sn. 48 vlevo, fol. 88; M, ověřeno koordinátorem).",
+        "Zemřela 21. 2. 1846 (pohřbena 23. 2.) v Suchomastech č. 49: „Kateřina, manželka Jiřího Buriana, souseda výminkáře z Suchomast téhož statku, z Bikoše statku Suchomastského rozená“, 69 let, věkem sešlá (Borek 14 (4083) Z pag. 127, sn. 65 vpravo; rejstřík sn. 92 vlevo; M, ověřeno koordinátorem) → *~1776/77, souhlasí s křtem."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075): O sn. 63 vlevo (28. 6. 1797), Z sn. 114 a 115 vlevo, N sn. 9 vlevo – https://ebadatelna.soapraha.cz/d/4075/63",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20",
-        "SOA Praha, fara Borek, Borek 06 (4075) O Suchomasty sn. 65 vlevo, pag. 6 (27. 9. 1807) – https://ebadatelna.soapraha.cz/d/4075/65"
+        "SOA Praha, fara Borek, Borek 06 (4075) O Suchomasty sn. 65 vlevo, pag. 6 (27. 9. 1807) – https://ebadatelna.soapraha.cz/d/4075/65",
+        "SOA Praha, fara Borek, Borek 06 (4075) N sn. 48 vlevo, fol. 88 (III 1814) – https://ebadatelna.soapraha.cz/d/4075/48",
+        "SOA Praha, fara Borek, Borek 14 (4083) Z pag. 127, sn. 65 vpravo (21. 2. 1846) – https://ebadatelna.soapraha.cz/d/4083/65",
+        "SOA Praha, fara Borek, Borek 15 (4084) Z pag. 42/43, sn. 23 (5. 1. 1854, Jiří Burian) – https://ebadatelna.soapraha.cz/d/4084/23"
       ],
       scans: [
         {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"},
@@ -5288,7 +5295,9 @@ window.RODOKMEN = {
         {"f":"img/1797_O_Klika_Vaclav_Katerina_Suchomasty.jpg","t":"Sňatek Václava Kliky (vdovce) s Kateřinou Klikovou z Bykoše (?), 28. 6. 1797"},
         {"f":"img/1803_krest_frantisek_klika_suchomasty_a.jpg","t":"Křest syna Františka Kliky, Suchomasty 6. 7. 1803"},
         {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest syna Františka Kliky 1803 – kmotři"},
-        {"f":"img/1807_O_burian_klikova.jpg","t":"2. sňatek 27. 9. 1807, Suchomasty – s Jiřím Burianem"}
+        {"f":"img/1807_O_burian_klikova.jpg","t":"2. sňatek 27. 9. 1807, Suchomasty – s Jiřím Burianem"},
+        {"f":"img/1814_krest_antonin_burian.jpg","t":"Křest syna Antonína Buriana III 1814, Suchomasty č. 49 – matka „dcera Jana Kliky z Bykoše No 10“"},
+        {"f":"img/1846_umrti_katerina_burianova.jpg","t":"Úmrtí 21. 2. 1846, Suchomasty č. 49 (Kateřina Burianová, z Bykoše rozená)"}
       ]
     },
     {
@@ -9242,7 +9251,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"},
         {"f":"img/1831_Z_Klika_Jan_Bykos10.jpg","t":"Úmrtí 24. 6. 1831, Bykoš č. 10"},
-        {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek s Kateřinou Chvátalovou, Bykoš 26. 9. 1773"}
+        {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek s Kateřinou Chvátalovou, Bykoš 26. 9. 1773"},
+        {"f":"img/1846_umrti_katerina_burianova.jpg","t":"Úmrtí dcery Kateřiny (Burianové) 21. 2. 1846, Suchomasty"}
       ]
     },
     {
@@ -9268,7 +9278,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"},
         {"f":"img/1773_O_Klika_Jan_Chvatalova_Katerina_Bykos.jpg","t":"Sňatek s Janem Klikou, Bykoš 1773"},
-        {"f":"img/1753_N_Chvatalova_Katerina_Suchomasty.jpg","t":"Křest 28. 1. 1753, Suchomasty (kandidát)"}
+        {"f":"img/1753_N_Chvatalova_Katerina_Suchomasty.jpg","t":"Křest 28. 1. 1753, Suchomasty (kandidát)"},
+        {"f":"img/1846_umrti_katerina_burianova.jpg","t":"Úmrtí dcery Kateřiny (Burianové) 21. 2. 1846, Suchomasty"}
       ]
     },
     {
