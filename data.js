@@ -8851,21 +8851,24 @@ window.RODOKMEN = {
       name: "Jiří Semenec",
       line: "semenec",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1738)","year":1738,"approx":true},
+      b: {"date":"neznámé (odhad ~1722, sňatek ~1747/48)","year":1722,"approx":true},
       spouse: "veronika_se",
       marriage: "25. 7. 1763 (fara Zbečno, kostel sv. Jakuba) – s Veronikou Matějovicovou (?) (2. sňatek)",
       notes: [
         "Sedlák ve Zbečně č. 6. Oddán 25. 7. 1763 jako „honestus viduus Georgius Semenec oriundus ex pago Zbečna“ s pannou Veronikou, dcerou Jana Matějovice (?) z Městečka, poddanou panství Křivoklát; svědci Jan Tichý z Městečka a Matěj Šípek (?), kovář ze Zbečna. Byl tedy podruhé ženatý; syn František (*~1766) je z 2. manželství.",
+        "První sňatek: 12. 11. [cca 1747–1748, rok podle polohy v knize nepřečten] ve Zbečně – „honestus sponsus Georgius filius Jacobi Semenec cum honesta sponsa Veronica filia Mathiae Czerny (?) Hustowicio (?)“; svědci Matěj Kaubek (?) ze Sýkořic, Václav Mareš z Městečka, Jan Dvořák ze Zbečna; oddával Leopold Kamenický (?) (Zbečno 03 O sn. 224 vlevo, fol. 220v; rejstřík O S 1725–48 „Semenců Gjřj 220“ – jediný Semenec-ženich; M, ověřeno koordinátorem). Otec tedy Jakub Semenec (K+: týž Jiří jako vdovec 1763 – jméno, fara, jediný ženich toho jména). V 1747/48 svědek Jakub (?) Semenec (sn. 223 vpravo). Úmrtí 1. manželky Veroniky nehledáno.",
         "Před XI 1817 už nežil (křest vnučky Kateřiny: „nach dem † Georg“).",
         "Ztotožnění: jediný ženich Jiří Semenec v indexu sňatků Zbečno 04; jméno manželky Veronika sedí se zápisem 1817."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), O pag. 37, snímek 338 – https://ebadatelna.soapraha.cz/d/8849/338"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (8849), O pag. 37, snímek 338 – https://ebadatelna.soapraha.cz/d/8849/338",
+        "SOA Praha, fara Zbečno, Zbečno 03 (8794) O, sn. 224 vlevo, fol. 220v; rejstřík O sn. 423 vlevo – https://ebadatelna.soapraha.cz/d/8794/224"
       ],
       scans: [
         {"f":"img/1817_N_Semencova_Katerina_Zbecno.jpg","t":"Křest Kateřiny Semencové, Zbečno č. 45, 25. 11. 1817 (sestra Martina)"},
-        {"f":"img/1763_O_Semenec_Jiri_Veronika.jpg","t":"Sňatek Jiřího Semence (vdovce) s Veronikou, dcerou Jana Matějovice (?), 25. 7. 1763"}
+        {"f":"img/1763_O_Semenec_Jiri_Veronika.jpg","t":"Sňatek Jiřího Semence (vdovce) s Veronikou, dcerou Jana Matějovice (?), 25. 7. 1763"},
+        {"f":"img/174x_O_Semenec_Jiri_Veronika_Zbecno03_sn224L.jpg","t":"První sňatek s Veronikou, dcerou Matěje Černého (?), 12. 11. ~1747/48, Zbečno (2. zápis)"}
       ]
     },
     {
@@ -12061,7 +12064,8 @@ window.RODOKMEN = {
         "KANDIDÁTI rodiny (K): v Tmani žil Tomáš Svoboda († před 1780; syn Šimon × 1780 Ludmila Hogelová z Koněprus); 27. 11. 1781 se Václav, syn Jakuba Svobody, sedláka z Málkova, voják pluku Callenberg, oženil s Kateřinou, dcerou † Jana Allemanda (?) z Tmaně, Málkov č. 16 (Tmaň 02 sn. 200 vlevo) – jiný Václav, pokud nejde o 1. sňatek. Sňatek s Ludmilou v O Tmaň 1774–1790 není.",
         "KANDIDÁT sňatku (K, silný): 11. 7. 1771 Málkov č. 1 – „honestus juvenis Wenceslaus, rustici Wenceslai Swoboda filius Malkoviensis, cum virgine Ludmilla, Mathiae Sykora rustici superstite filia legitima Launiniensi“ (Tmaň 02, sn. 192 vlevo; M zápis) – stejný dům a jména jako 1791; proti: děti 1771–1789 neznámy, Ludmila by r. 1794 měla ~43 let. Syn Mikuláš *13. 6. 1794 Málkov 1 (rejstřík N Borek 11).",
         "Kandidát 1771 slábne: v Tmaň 02 N 1772–1784 žádný křest z Málkova č. 1 (Praha N7).",
-        "KANDIDÁT úmrtí (K, neztotožněno): † 2. 3. 1821 (pohřben 4. 3.) č. 3 – „Václav Svoboda, výminkář malkovský, rodaný tmanský“, 70 let (Borek 06 Z sn. 125 vlevo, pag. 28; M pro zápis, rok z polohy v knize). Dům č. 3, tento Václav měl č. 1 – vazba nedoložena, proto není v poli úmrtí."
+        "KANDIDÁT úmrtí (K, neztotožněno): † 2. 3. 1821 (pohřben 4. 3.) č. 3 – „Václav Svoboda, výminkář malkovský, rodaný tmanský“, 70 let (Borek 06 Z sn. 125 vlevo, pag. 28; M pro zápis, rok z polohy v knize). Dům č. 3, tento Václav měl č. 1 – vazba nedoložena, proto není v poli úmrtí.",
+        "KANDIDÁT křtu (K): 25. 5. 1745, pokřtěn 28. 5., Málkov – „Waclaw, otce Waclawa Swobody, Mat: Doroty, poddaný k Tmani; Lev. Waclaw Cypro z Hodinie (?); T. Matěg Welík z Koněprus, Rozina Mužíkowa ze Zdic“ (Borek 02 N sn. 87 vpravo, pag. 119; M pro zápis, ověřeno koordinátorem). Rodiče Václav × Dorota (sňatek 1. 6. 1734 Tmaň 02 O sn. 159 vpravo; děti v Málkově 1742–1750 se stejnými kmotry). Sedí na otce Václava ze sňatku 1771; úmrtí dítěte nevyloučeno, zápis 1791 „rodaný Tmanský“ nesedí na Málkov."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075), O, oddíl Málkov, pag. 50, snímek 87 vlevo (XI 1818) – https://ebadatelna.soapraha.cz/d/4075/87",
@@ -12071,7 +12075,8 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek syna Matěje, Málkov 1818"},
-        {"f":"img/1791_N_Svoboda_Matej_Malkov.jpg","t":"Křest syna Matěje, Málkov 1791"}
+        {"f":"img/1791_N_Svoboda_Matej_Malkov.jpg","t":"Křest syna Matěje, Málkov 1791"},
+        {"f":"img/1745_N_Svoboda_Vaclav_Malkov.jpg","t":"Kandidátní křest 28. 5. 1745, Málkov – otec Václav Svoboda, matka Dorota"}
       ]
     },
     {
