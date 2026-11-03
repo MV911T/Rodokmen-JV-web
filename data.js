@@ -15123,7 +15123,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁTKA (K+): matka Marie Novákové – v kandidátním křtu 25. 7. 1785 Otročiněves č. 35 „matka Dorota“, manželka Josefa Malého, chalupníka (Hudlice 01 N sn. 13 vpravo; M pro zápis). Rodné příjmení neuvedeno. Nezaměňovat s Dorotou Malou † 29. 3. 1804 Otročiněves č. 22 (82 let).",
         "KANDIDÁT sňatku (K+): 18. 1. 1774 Nižbor jako „Dorothea filia legitima Joannis Lauda (?) operarii ex pago Zlaukowiz“ s Josefem, synem Vojtěcha Malého z Otročiněvsi (Nižbor 02 O sn. 124 vpravo; M pro zápis). Rodné příjmení čteno Lauda/Rauda; svědek „Lauda Joannes, operarius ze Zloukovic“ na sn. 128 podporuje Laudu.",
-        "KANDIDÁT křtu (K): nar. 11., pokř. 12. 2. 1751 Zloukovice – „Dorothea ex parente Joanne Rauda (?), matre Catharina“; levans Dorota Jírová, svědci Kateřina Strobová (?) a Josef Lauda (?), všichni ze Zloukovic (Nižbor 02 N pag. 30, sn. 18 vlevo; M pro zápis, čteno agentem). Starší sestra téhož jména (Jan × Kateřina) pokřtěna I 174[6] (?) (sn. 9 vlevo, pag. 12) – asi zemřela (nezjištěno). V rejstříku N Zloukovic jen „Rauda Dorothea 12, 30“ (Praha N236)."
+        "KANDIDÁT křtu (K): nar. 11., pokř. 12. 2. 1751 Zloukovice – „Dorothea ex parente Joanne Rauda (?), matre Catharina“; levans Dorota Jírová, svědci Kateřina Strobová (?) a Josef Lauda (?), všichni ze Zloukovic (Nižbor 02 N pag. 30, sn. 18 vlevo; M pro zápis, čteno agentem). Starší sestra téhož jména (Jan × Kateřina) pokřtěna I 174[6] (?) (sn. 9 vlevo, pag. 12) – asi zemřela (nezjištěno). V rejstříku N Zloukovic jen „Rauda Dorothea 12, 30“ (Praha N236).",
+        "Praha N237: sňatek Jana Raudy × Kateřiny není v Nižbor 01 O Zloukovice 1733–43; Jan Rauda ze Zloukovic družbou 4. 8. 1743 (Nižbor 01 sn. 106 vlevo; M)."
       ],
       sources: [
         "SOA Praha, fara Hudlice, Hudlice 01 (5787) N, pag. 5, sn. 13 vpravo (25. 7. 1785) – https://ebadatelna.soapraha.cz/d/5787/13",
@@ -15147,7 +15148,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁT (K+): otec Josefa Malého – při jeho sňatku 18. 1. 1774 „Josephus filius legitimus Adalberti Maly operarii ex pago Ottroczin“ (Nižbor 02 O sn. 124 vpravo; M pro zápis).",
         "Podruhé oddán 5. 9. (?) 1763 v Nižboře: „honestus viduus Adalbertus Maley inquilinus oriundus ex pago Otročinowes“ s vdovou Dorotou po † Janu Vítkovi (?) ze Svaté (?); svědci Jakub Schrobl (?) a Jan Fryora (?) (Nižbor 02 O pag. 199, sn. 116 vpravo; čteno agentem). Dcera z 2. manželství Veronika, VI 1766 (sn. 47 vlevo). Josef (*~1750) je tedy nejspíš z 1. manželství – matka neznámá. Dorota Malá † 29. 3. 1804 Otročiněves č. 22, 82 let – snad vdova po Vojtěchovi (K).",
-        "Praha N236: 1. sňatek Vojtěcha není v rejstříku O Nižbor 02 (1743–84) → před 1743 (Nižbor 01) nebo jinde; křest syna Josefa (*~1745–53) není v rejstřících N Nižbor 02 (Otročiněves, Nižbor, Stradonice, Zloukovice)."
+        "Praha N236: 1. sňatek Vojtěcha není v rejstříku O Nižbor 02 (1743–84) → před 1743 (Nižbor 01) nebo jinde; křest syna Josefa (*~1745–53) není v rejstřících N Nižbor 02 (Otročiněves, Nižbor, Stradonice, Zloukovice).",
+        "Praha N237: v Nižbor 01 (9776, NOZ 1719–43, Otročiněves jen křty od 1730) Vojtěchův křest ani 1. sňatek nejsou; jediná Malá v Otročiněvsi: Veronika 6. 1. 1733, dcera Václava Malého × Barbory, kmotři z Hudlic (sn. 116 vpravo, pag. 263; čteno agentem) – Václav × Barbora snad rodiče Vojtěcha (jen možnost). Otročiněves před 1730 asi pod Hudlicemi (kaple fary Beroun) – hledat v rejstříku N Beroun 40 (Capella Hudlicensis 1739–84) a Beroun N před 1739."
       ],
       sources: [
         "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 215, sn. 124 vpravo (18. 1. 1774); rejstřík O sn. 132–133 – https://ebadatelna.soapraha.cz/d/9777/124",
