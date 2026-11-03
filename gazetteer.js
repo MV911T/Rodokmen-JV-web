@@ -6,6 +6,7 @@ window.RODOKMEN_GAZ = [
   { n: 'Vítkov', a: ['Vítkov'], lat: 49.774, lon: 17.749 },
   { n: 'Beroun', a: ['Beroun'], lat: 49.964, lon: 14.072 },
   { n: 'Suchomasty', a: ['Suchomasty'], lat: 49.896, lon: 14.058 },
+  { n: 'Želkovice', a: ['Želkovice'], lat: 49.882, lon: 14.082 },
   // parts of Most first (equal-length aliases: the first entry wins)
   { n: 'Souš', a: ['Souš'], lat: 50.52, lon: 13.68 },
   { n: 'Kopisty', a: ['Kopisty'], lat: 50.54, lon: 13.62 },

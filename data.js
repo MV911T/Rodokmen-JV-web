@@ -4008,7 +4008,7 @@ window.RODOKMEN = {
       maiden: "Svobodová",
       line: "svoboda",
       cert: "M",
-      b: {"date":"asi 1808","year":1808,"approx":true,"place":"Suchomasty č. p. 14"},
+      b: {"date":"6. 10. 1806","year":1806,"place":"Želkovice č. p. 5 (fara Borek)"},
       d: {"date":"19. 9. 1866","year":1866,"place":"Suchomasty č. p. 14"},
       cause: "porouchání mozku následkem spadnutí s kůry (?)",
       father: "vaclav_sv0",
@@ -4016,11 +4016,10 @@ window.RODOKMEN = {
       spouse: "frantisek_kl",
       marriage: "14. 2. 1832, Suchomasty – s Františkem Klikou",
       notes: [
+        "Narozena a pokřtěna (6. 10. 1806, den podle rejstříku – v matrice zakryt hřbetem) v Želkovicích č. 5, křtil Václav Fr. Matějka, farář suchomastský a administrátor tmaňský: „Anna | Wáclaw Swoboda, domkař, rodaný Suchomastský | Jozefa, dcera Jakuba Krejčího ze Suchomast, matky Kateřiny“; kmotři Anna Rudničková (?) ze Suchomast, Ondřej Burian (?) (Borek 06 N sn. 53 vpravo, pag. 99; rejstřík Borek 11 sn. 36 vpravo „Želkowitz 5, 6ten October 1806, Swoboda Anna, Wenzl Josepha“; M, ověřeno koordinátorem). Pozdější přípis nad jménem „18 19/9 66“ = den úmrtí. Úmrtí 1866 „59 let 11 měs. 13 dní“ vychází přesně na 6. 10. 1806.",
         "Pozůstalá dcera † Václava Svobody, domkáře v Suchomastech č. 14, a Josefy roz. Krayzové (?) (dřívější čtení „Prajzové“ se nepotvrdilo) ze Suchomast; při sňatku 1832 24 let.",
-        "Křest zatím nenalezen (Anny v Suchomastech 1802–1812 prověřeny); sourozenci v č. 14: Josef (*27. 2. 1808), Barbora (*~1810) – matka Josefa, dcera Jakuba Krejzího / Prajzího (?). Podle úmrtního zápisu 1866 rodem z Málkova (viz níže).",
-        "Ani v rejstříku narozených fary Borek 1784–1837 (Borek 11) není Anna z č. 14 – narozena jinde nebo pod jiným jménem.",
         "Křest syna Antonína 2./3. 9. 1846 (Borek 09 N sn. 14): „Anna, dcera † Václava Svobody, domkáře z Suchomast č. 14“; rodné jméno matky Josefy čteno nejistě (M).",
-        "Zemřela 19. 9. 1866 (pohřbena 21. 9. v Borku, farář František Wyšín) v Suchomastech č. 14: „Kliková Anna, domkářka z Suchomast č. d. 14, vdova po † Františkovi Klikovi, domkáři z Suchomast č. d. 14, a rozená Svobodová z Málkova“, 5? let 11 měs. 13 dní (druhá číslice nejistá, nejspíš 59 → *~X 1806) (Borek 15 Z sn. 83, pag. 162/163; rejstřík sn. 118 vlevo; M, ověřeno koordinátorem). Narozena tedy nejspíš v Málkově, ne v Suchomastech – vysvětluje, proč křest v Suchomastech a v rejstříku Borek 11 není. ROZPOR věku: úmrtí → *~X 1806 (8 měsíců po sňatku rodičů 19. 1. 1806, před bratrem Josefem 27. 2. 1808) × sňatek 1832 „24 let“ → *~1808."
+        "Zemřela 19. 9. 1866 (pohřbena 21. 9. v Borku, farář František Wyšín) v Suchomastech č. 14: „Kliková Anna, domkářka z Suchomast č. d. 14, vdova po † Františkovi Klikovi, domkáři z Suchomast č. d. 14, a rozená Svobodová z Málkova“, 5? let 11 měs. 13 dní (druhá číslice nejistá, nejspíš 59 → *~X 1806) (Borek 15 Z sn. 83, pag. 162/163; rejstřík sn. 118 vlevo; M, ověřeno koordinátorem). Místo „z Málkova“ i „z Suchomast“ (křest syna 1846) jsou pozdější údaje – platí křest: Želkovice č. 5. Věk při sňatku 1832 „24 let“ je o dva roky nižší."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
@@ -4028,16 +4027,19 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, Borek 09 (4078), N sn. 14, pag. 22 (2. 9. 1846), https://ebadatelna.soapraha.cz/d/4078/14",
         "SOA Praha, Borek 08 (4077), N sn. 23 vpravo, pag. 43/44 (1839), https://ebadatelna.soapraha.cz/d/4077/23",
-        "SOA Praha, fara Borek, Borek 15 (4084) Z, sn. 83, pag. 162/163 (19. 9. 1866); rejstřík K sn. 118 vlevo – https://ebadatelna.soapraha.cz/d/4084/83"
+        "SOA Praha, fara Borek, Borek 15 (4084) Z, sn. 83, pag. 162/163 (19. 9. 1866); rejstřík K sn. 118 vlevo – https://ebadatelna.soapraha.cz/d/4084/83",
+        "SOA Praha, fara Borek, Borek 06 (4075) N Želkovice, sn. 53 vpravo, pag. 99 (6. 10. 1806); rejstřík Borek 11 (4080) sn. 36 vpravo – https://ebadatelna.soapraha.cz/d/4075/53"
       ],
       scans: [
+        {"f":"img/1806_N_Svobodova_Anna_Zelkovice5.jpg","t":"Křest 6. 10. 1806, Želkovice č. 5"},
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
         {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest Josefa Kliky 1834 – matka, kmotři"},
         {"f":"img/1832_snatek_frantisek_klika_suchomasty_a.jpg","t":"Sňatek Františka Kliky a Anny Svobodové, Suchomasty 14. 2. 1832 – ženich"},
         {"f":"img/1832_snatek_frantisek_klika_suchomasty_b.jpg","t":"Sňatek Františka Kliky a Anny Svobodové 1832 – nevěsta, svědci"},
         {"f":"img/1846_N_Klika_Antonin_Suchomasty.jpg","t":"Křest syna Antonína 2. 9. 1846, Suchomasty 14"},
         {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest dcery Barbory 1839, Suchomasty 14"},
-        {"f":"img/1866_Z_Klikova_Anna_Suchomasty14.jpg","t":"Úmrtí 19. 9. 1866, Suchomasty č. 14 – „rozená Svobodová z Málkova“"}
+        {"f":"img/1866_Z_Klikova_Anna_Suchomasty14.jpg","t":"Úmrtí 19. 9. 1866, Suchomasty č. 14 – „rozená Svobodová z Málkova“"},
+        {"f":"img/1806_indexN_Svobodova_Anna_Zelkovice5.jpg","t":"Rejstřík narozených Borek 11, S – Anna 6. 10. 1806, Želkovice 5"}
       ]
     },
     {
@@ -5273,15 +5275,18 @@ window.RODOKMEN = {
       notes: [
         "Oddán 19. 1. 1806 (fara Borek, dům č. 5), 25 let; vlastní syn Matěje Svobody, sedláka v Málkově, a Anny. Svědci Matěj Janda z Málkova a Václav Zelenka, chalupník z Koněprus.",
         "Domkář v Suchomastech č. 14; zemřel před 1832. Děti: Josef (*27. 2. 1808), Barbora (*8. 5. 1811), Anna (*~1808, ⚭ 1832 František Klika).",
-        "Zemřel 23. (?) 9. 1812 (pohřben 25. ?) Suchomasty č. 14: „Václav Svoboda, domkář, poddaný suchomastský“, 32 let, velký otok (Borek 06 Z sn. 122 vpravo, pag. 23; M, ověřeno koordinátorem; rok z nadpisů 1812/1813) – jméno, dům a věk sedí (25 v 1806); poslední známé dítě Barbora 1811. Dřívější „† před 1832“ upřesněno. Ztotožnění K+: v rejstříku N Borek 11 (II 1810 – III 1821) po Barboře 1811 žádné dítě Václav × Josefa; N Borek 06 VII 1813 – II 1818 bez č. 14 (částečně jen filtr domu). „Vdova“ nedoloženo."
+        "Zemřel 23. (?) 9. 1812 (pohřben 25. ?) Suchomasty č. 14: „Václav Svoboda, domkář, poddaný suchomastský“, 32 let, velký otok (Borek 06 Z sn. 122 vpravo, pag. 23; M, ověřeno koordinátorem; rok z nadpisů 1812/1813) – jméno, dům a věk sedí (25 v 1806); poslední známé dítě Barbora 1811. Dřívější „† před 1832“ upřesněno. Ztotožnění K+: v rejstříku N Borek 11 (II 1810 – III 1821) po Barboře 1811 žádné dítě Václav × Josefa; N Borek 06 VII 1813 – II 1818 bez č. 14 (částečně jen filtr domu). „Vdova“ nedoloženo.",
+        "Křest dcery Anny 6. 10. 1806 v Želkovicích č. 5: „Wáclaw Swoboda, domkař, rodaný Suchomastský“ (Borek 06 N sn. 53 vpravo; M) – po sňatku (I 1806) bydlel pár nejprve v Želkovicích č. 5, od 1808 v Suchomastech č. 14."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
-        "SOA Praha, Borek 06 (4075), Z sn. 122 vpravo, pag. 23 (IX 1812), https://ebadatelna.soapraha.cz/d/4075/122"
+        "SOA Praha, Borek 06 (4075), Z sn. 122 vpravo, pag. 23 (IX 1812), https://ebadatelna.soapraha.cz/d/4075/122",
+        "SOA Praha, fara Borek, Borek 06 (4075) N Želkovice, sn. 53 vpravo, pag. 99 (6. 10. 1806); rejstřík Borek 11 (4080) sn. 36 vpravo – https://ebadatelna.soapraha.cz/d/4075/53"
       ],
       scans: [
-        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806"}
+        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806"},
+        {"f":"img/1806_N_Svobodova_Anna_Zelkovice5.jpg","t":"Křest dcery Anny, Želkovice č. 5, 6. 10. 1806"}
       ]
     },
     {
@@ -5303,18 +5308,21 @@ window.RODOKMEN = {
         "Praha N121: † 1849 Josefa č. 57 je jiná (vdova po Matěji, 90 let); křest není ani v Tmaň 02 N IV 1780 – X 1783 ani v Borek 11 J 1784–98.",
         "Zemřela 16. 3. 1856 (pohřbena 18. 3. v Borku) Suchomasty č. 14: „Josefa, manželka † Václava Svobody, domkáře z Suchomast, … z Suchomast rozená Krejčová (?)“, 68 let 3 měs. 8 dní (Borek 15 Z sn. 33, pag. 62/63; M, ověřeno koordinátorem; rodné jméno nejisté). ROZPOR věku: úmrtí → *~XII 1787 (měsíc po sňatku Jakuba Krejčího × Kateřiny Jaubové 13. 11. 1787) × oddací 1806 „24 let“ → *~1782. Nerozhodnuto, křest nenalezen (Borek 05 N IX 1787 – IV 1788 ani jinde, viz výše).",
         "Rodné jméno v křtech vnoučat, Suchomasty č. 14: 1839 „matky Josefy rozené Kray-zové (?) ze Suchomast“ (Borek 08 N sn. 23 vpravo; M, ověřeno koordinátorem); čtení agenta, neověřeno: 1834 „Krayzina (?)“ (Borek 07 sn. 126), 1837 „Krayzíwei (?)“ (Borek 07 sn. 163), 1842 „Kray-zowi (?)“ (Borek 08 sn. 58). Podporuje Krejzí / Krejčí, ne „Prajzová“.",
+        "Křest dcery Anny 6. 10. 1806, Želkovice č. 5: „Jozefa, dcera Jakuba Krejčího ze Suchomast, matky Kateřiny“ (Borek 06 N sn. 53 vpravo; M, ověřeno koordinátorem) – potvrzuje rodiče Jakuba a Kateřinu i tvar Krejčí. ROZPOR roku narození Josefy tím rozhodnut není.",
         "Praha N127: křest v Borek 05 N začátek 1787 – sn. 22 (přehled jmen) není: dvě Josefy na sn. 19 mají jiné otce (Václav Krbec (?), Vavřinec Jakoubek (?)). ROZPOR narození dál nerozhodnut."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
         "SOA Praha, Borek 15 (4084), Z sn. 33, pag. 62 (16. 3. 1856), https://ebadatelna.soapraha.cz/d/4084/33",
-        "SOA Praha, Borek 08 (4077), N sn. 23 vpravo, pag. 43/44 (1839), https://ebadatelna.soapraha.cz/d/4077/23"
+        "SOA Praha, Borek 08 (4077), N sn. 23 vpravo, pag. 43/44 (1839), https://ebadatelna.soapraha.cz/d/4077/23",
+        "SOA Praha, fara Borek, Borek 06 (4075) N Želkovice, sn. 53 vpravo, pag. 99 (6. 10. 1806); rejstřík Borek 11 (4080) sn. 36 vpravo – https://ebadatelna.soapraha.cz/d/4075/53"
       ],
       scans: [
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806"},
         {"f":"img/1856_Z_Svobodova_Josefa_Suchomasty.jpg","t":"Úmrtí 16. 3. 1856, Suchomasty 14"},
-        {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest vnučky Barbory 1839, Suchomasty 14 (matka Josefy)"}
+        {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest vnučky Barbory 1839, Suchomasty 14 (matka Josefy)"},
+        {"f":"img/1806_N_Svobodova_Anna_Zelkovice5.jpg","t":"Křest dcery Anny, Želkovice č. 5, 6. 10. 1806 – „Jozefa, dcera Jakuba Krejčího ze Suchomast, matky Kateřiny“"}
       ]
     },
     {
