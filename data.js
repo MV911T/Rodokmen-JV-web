@@ -14712,22 +14712,26 @@ window.RODOKMEN = {
       maiden: "",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
+      b: {"date":"neznámé (asi 1713, kandidátní křest – viz poznámky)","year":1713,"approx":true,"place":"Branov"},
       spouse: "dorota_skl",
       alive: false,
       marriage: "17. 11. 1736 (?), Bukov – s Dorotou (K+)",
       notes: [
         "Otec Václava podle oddacího zápisu 28. (?) 11. 1763: „Wenceslaus filius Georgij Szlenizka, oriundus Branovio“ (Zbečno 04 O sn. 340 vpravo; M). Ztotožnění ženicha s otcem Ludmily doloženo kmotry (karta Václava).",
         "Pozor, jiní muži téhož jména v Branově (čteno agentem, nesměšovat): Jiří × Ludmila, děti Marie 1766 a 1779, č. 5 (Zbečno 04 N sn. 208 vlevo, 284 vpravo); kmotra 1766 „Veronica uxor Georgij Sklenizka“.",
-        "KANDIDÁT sňatku (K+): 17. XI, zřejmě 1736 (rok z polohy v knize), z Bukova – „Jiřík, vlastní syn Jiříka (příjmení přeškrtáno, Skleničky ?) z Branova“ × „Dor(otka ?), vlastní dcera po neb. Jiříkovi Šmerdovi (?) z Bukovy“ (Zbečno 03 O sn. 201 vpravo, fol. 198; M pro zápis, ověřeno koordinátorem). Svědek 1764 a 1765 Jiří Sklenička může být tento muž i jiný; otec Jiřík starší zatím bez karty."
+        "KANDIDÁT sňatku (K+): 17. XI, zřejmě 1736 (rok z polohy v knize), z Bukova – „Jiřík, vlastní syn Jiříka (příjmení přeškrtáno, Skleničky ?) z Branova“ × „Dor(otka ?), vlastní dcera po neb. Jiříkovi Šmerdovi (?) z Bukovy“ (Zbečno 03 O sn. 201 vpravo, fol. 198; M pro zápis, ověřeno koordinátorem). Svědek 1764 a 1765 Jiří Sklenička může být tento muž i jiný; otec Jiřík starší zatím bez karty.",
+        "Praha N183 – starší Skleničkové v Branově (Zbečno 01, čteno agentem, K): Jiří Sklenička × Ludmila – dcera Anna 2. 8. 1705 (sn. 300 vlevo); Jiří Sklenička z Branova družbou a kmotrem 1705; 19. 11. 1705 Ludmila, „pozůstalá dcera po neb. Jiřím Skleničkovi z Branova“ × Václav Staněk (sn. 392 vlevo – rozpor: jiný, starší Jiří?); Jiří Sklenička × Polyxena – dcera Kateřina 27. 11. [1707 ?], Zbečno (sn. 410 vlevo). Křest Jiříka ml. v N II 1705 – VI 1707 není; Praha N184: děti Jiřího × Ludmily v Branově – Veronika 14. 7. 1707, Dorota 26. 11. 1709 (otec „Jiří Sklenička mladý“), Jakub Petr 22. 4. 1710; Jiřího × Polyxeny ve Zbečně – Kateřina 27. 11. 1707, Veronika (?) 25. 1. 1711, Anna 3. 7. 1712 (čteno agentem). Jiřík (syn Jiřího) v N VI 1707 – VI 1713 není; zbývá VI 1713 – 1714, N před 1705 a Zbečno 02 N 1715–24 přímo.",
+        "KANDIDÁT křtu (K+): 7. 8. [1713, rok ze sledu nadpisů „Anno 1713“ – „finis 1713“] z Branova – „Giřimu mladýmu Sklenczkowi s Manželky gicho Lydmilly poczstiwie na swiet položeny Syn, dano gemu na Krztu Swatem gmeno Giři; Lev. Giři Germak z Rybarny branowské, Jakub Štraugal, Dorota Topinkowa, oba z Mezabudic“ (Zbečno 01 (8790) N sn. 462 vlevo, pag. 486/487; M pro zápis, ověřeno koordinátorem). Jediný Jiří, syn Jiřího Skleničky, ve Zbečně N II 1705 – XII 1714; sedí na „Jiřík, vlastní syn Jiříka Skleničky z Branova“ (sňatek 1736, 23 let). Sourozenci (čteno agentem): Veronika 1707, Dorota 1709, Jakub Petr 1710, Václav 14. 2. 1715."
       ],
       sources: [
         "SOA Praha, Zbečno 04 (8849), O sn. 340 vpravo, pag. 39 (XI 1763), https://ebadatelna.soapraha.cz/d/8849/340",
-        "SOA Praha, Zbečno 03 (8794), O sn. 201 vpravo, fol. 198 (XI 1736 ?), https://ebadatelna.soapraha.cz/d/8794/201"
+        "SOA Praha, Zbečno 03 (8794), O sn. 201 vpravo, fol. 198 (XI 1736 ?), https://ebadatelna.soapraha.cz/d/8794/201",
+        "SOA Praha, fara Zbečno, Zbečno 01 (8790) N sn. 462 vlevo (7. 8. 1713) – https://ebadatelna.soapraha.cz/d/8790/462"
       ],
       scans: [
         {"f":"img/1763_O_Sklenicka_Vaclav_Ruzickova_Barbora.jpg","t":"Sňatek syna Václava, 28. (?) 11. 1763, Branov / Bukov"},
-        {"f":"img/1736_O_Sklenicka_Jiri.jpg","t":"Kandidátní sňatek Jiřího, 17. 11. 1736 (?), Bukov"}
+        {"f":"img/1736_O_Sklenicka_Jiri.jpg","t":"Kandidátní sňatek Jiřího, 17. 11. 1736 (?), Bukov"},
+        {"f":"img/1713_N_Sklenicka_Jiri_Branov.jpg","t":"Kandidátní křest 7. 8. 1713, Branov – otec Jiří Sklenička mladý, matka Ludmila"}
       ]
     },
     {
