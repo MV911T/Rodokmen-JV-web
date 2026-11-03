@@ -15067,7 +15067,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true,"place":"Nová Huť (fara Nižbor) (?)"},
       alive: false,
       notes: [
-        "Otec Josefa Nováka z Nové Huti – při jeho sňatku 19. 1. 1806 „syn po † Lukášovi Novákovi z Nové Hutě“ (Hudlice 10 O sn. 45 vlevo; M, jméno čteno s malou nejistotou). V r. 1806 už nežil. Křest syna Josefa (*~1781) hledat v Nižbor 02 (9777)."
+        "Otec Josefa Nováka z Nové Huti – při jeho sňatku 19. 1. 1806 „syn po † Lukášovi Novákovi z Nové Hutě“ (Hudlice 10 O sn. 45 vlevo; M, jméno čteno s malou nejistotou). V r. 1806 už nežil. Křest syna Josefa (*~1781) hledat v Nižbor 02 (9777).",
+        "Praha N231: křest Josefa (otec Lukáš) není v Nižbor 02 (9777) N XI 1779 – VIII 1781 (sn. 78–82; Nová Huť se tam vůbec nevyskytuje – snad jiná fara, nebo zapsáno pod Nižborem); rejstřík Stradonic Josefa nemá. Zbývá rejstřík Nižbora (sn. ~88–93) a roky ≤ 1779, 1781–82."
       ],
       sources: [
         "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45"
@@ -15088,7 +15089,7 @@ window.RODOKMEN = {
       occ: "chalupník v Otročiněvsi č. 35, poddaný panství Křivoklát",
       notes: [
         "Otec Marie Novákové – při jejím sňatku 19. 1. 1806 „dcera po † Jozefovi Malým z Otročiněvse“ (Hudlice 10 O sn. 45 vlevo; M); při křtu vnučky 1807 „† Josef Malý, domkář v Am… (?) č. 35“. V r. 1806 už nežil. Děti podle rejstříku N Hudlice 14 (K): Marie 25. 7. 1785, Terezie 17. 11. 1789 (obě č. 35). Úmrtí hledat v Hudlice 01/12 Z.",
-        "Manželka Dorota (křest dcery Marie Anny 25. 7. 1785, Hudlice 01 sn. 13 vpravo; M). Úmrtí: v Z Hudlice 12, oddíl Otročiněves XI 1796 – IX 1806 (jen přehled) jediný kandidát 10. 11. 1801 „Josef Malý, Pintner (?)“, 48 let, č. 33 (?) (sn. 92 vlevo; K – dům nesedí); 1785 – X 1796 (Hudlice 01 Z) nečteno (Praha N230)."
+        "Manželka Dorota (křest dcery Marie Anny 25. 7. 1785, Hudlice 01 sn. 13 vpravo; M). Úmrtí: v Z Hudlice 12, oddíl Otročiněves XI 1796 – IX 1806 (jen přehled) jediný kandidát 10. 11. 1801 „Josef Malý, Pintner (?)“, 48 let, č. 33 (?) (sn. 92 vlevo; K – dům nesedí); v Hudlice 01 Z Otročiněves XII 1788 – X 1796 není (Praha N231, dobrý negativ). Křty Malých před 1784 v rejstříku Otročiněvsi Nižbor 02 (sn. 99–100)."
       ],
       sources: [
         "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45",
