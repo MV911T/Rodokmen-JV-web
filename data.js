@@ -15085,7 +15085,7 @@ window.RODOKMEN = {
       maiden: "",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true,"place":"Otročiněves (fara Hudlice)"},
+      b: {"date":"asi 1751 (kandidátní křest 25. 5. 1751 – viz poznámky)","year":1751,"approx":true,"place":"Otročiněves / Hudlice (?) (fara Beroun)"},
       father: "vojtech_ml",
       spouse: "dorota_ml",
       alive: false,
@@ -15097,13 +15097,15 @@ window.RODOKMEN = {
         "Praha N232: rejstřík N Otročiněvsi v Nižbor 02 (do ~1770) má jen Veroniku Malou, VI 1766, dceru Vojtěcha Malého × Doroty z Otročiněvsi (sn. 47 vlevo, str. 88; kmotra Dorota Rottová; M pro zápis) – snad rodiče nebo příbuzní Josefa (K; Dorota Malá † 1804 č. 22, 82 let ?). Křest Josefa Malého (*~1750–58) v rejstříku není. Od ~1770 Otročiněves v Nižbor 02 chybí – jiná fara (Beroun ?).",
         "Děti Josefa Malého, chalupníka (casarius), × Doroty v Otročiněvsi č. 35 (Beroun 09 (3911) NOZ 1771–84, Hudlice/Otročiněves/Svatá; M pro zápisy, čteno agentem): Josef 19. 9. 1780 (sn. 45 vlevo, pag. 84; levans Jan Albrecht, rychtář otročiněveský) a Josef Antonín 20./21. 6. 1782 (sn. 50 vlevo, pag. 94) – tentýž dům č. 35 jako Marie Anna 1785. Sňatek Josefa × Doroty není v Beroun 09 O XI 1771 – VI 1784 → před 1771 nebo jinde (rejstřík O Beroun 40 (3942) 1734–84). Pozor: v Otročiněvsi a Hudlicích 1781–83 i jiný Josef Malý (podruh; × Josefa, Hudlice č. 61) (Praha N233).",
         "Praha N234: sňatek Josefa × Doroty není v rejstříku O fary Beroun 1734–1784 (Beroun 40, ženiši; M Malí jen Antonín 1768, 1770 a starší Josefové 1750 × Veronika Geltšmarová (?), 1751 (?) × Kateřina) → nejspíš ve faře nevěsty (Nižbor ?). Vojtěch Malý × Dorota v rejstříku také není.",
-        "KANDIDÁT sňatku (K+): 18. 1. 1774 Nižbor – „Honestus adolescens Josephus filius legitimus Adalberti Maly operarii ex pago Ottroczin cum honesta virgine Dorothea filia legitima Joannis Lauda (?) operarii ex pago Zlaukowiz, ambo subditi“; svědek Jan Jíra, sedlák ze Zloukovic; oddával P. Franciscus Budielowsky; „Zlaukowizio, nunc autem Ottroczinovii habitant“ (Nižbor 02 O pag. 215, sn. 124 vpravo; M pro zápis, ověřeno koordinátorem; první písmeno příjmení nevěsty L/R nejisté). Jediný sňatek Josefa Malého s Dorotou v rejstřících Nižbor 1743–84 a Beroun 1734–84; v Otročiněvsi ale 1781–83 i jiný Josef Malý (podruh) – K+ (Praha N235)."
+        "KANDIDÁT sňatku (K+): 18. 1. 1774 Nižbor – „Honestus adolescens Josephus filius legitimus Adalberti Maly operarii ex pago Ottroczin cum honesta virgine Dorothea filia legitima Joannis Lauda (?) operarii ex pago Zlaukowiz, ambo subditi“; svědek Jan Jíra, sedlák ze Zloukovic; oddával P. Franciscus Budielowsky; „Zlaukowizio, nunc autem Ottroczinovii habitant“ (Nižbor 02 O pag. 215, sn. 124 vpravo; M pro zápis, ověřeno koordinátorem; první písmeno příjmení nevěsty L/R nejisté). Jediný sňatek Josefa Malého s Dorotou v rejstřících Nižbor 1743–84 a Beroun 1734–84; v Otročiněvsi ale 1781–83 i jiný Josef Malý (podruh) – K+ (Praha N235).",
+        "KANDIDÁT křtu (K): nar. 23., pokř. 25. 5. 1751 – „Jan Joseff z otce Wojtěcha Malého, matky Doroty, z počtivých poddaných rodičů v panství Křivoklátském“; levans Jan Bělecký (?), rychtář hudlický, svědci Josef Slotta z Otročiněvsi a Veronika Wagnerová (?) z Hudlic; křtil P. Vojtěch Sporer, kaplan berounský (Beroun 07 (3909) N fol. 160, sn. 155 vpravo; rejstřík Beroun 40 sn. 25–27; M pro zápis, ověřeno koordinátorem). V rejstříku N 1739–60 jen dva Josefové Malí (druhý *1757, syn Josefa × Veroniky). ROZPOR: Vojtěch × Dorota mají děti 1751 a 1756 (Dorota, Otročiněves), ale 1763 se Vojtěch žení jako vdovec s vdovou Dorotou – 1. manželka se snad také jmenovala Dorota. Věk 48 v kandidátním úmrtí 10. 11. 1801 (→ *~1753) by se křtem 1751 zhruba seděl (Praha N238)."
       ],
       sources: [
         "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45",
         "SOA Praha, fara Hudlice, Hudlice 01 (5787) N, pag. 5, sn. 13 vpravo (25. 7. 1785) – https://ebadatelna.soapraha.cz/d/5787/13",
         "SOA Praha, fara Beroun, Beroun 09 (3911) N sn. 45 vlevo (19. 9. 1780) a sn. 50 vlevo (21. 6. 1782), Otročiněves č. 35 – https://ebadatelna.soapraha.cz/d/3911/45",
-        "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 215, sn. 124 vpravo (18. 1. 1774); rejstřík O sn. 132–133 – https://ebadatelna.soapraha.cz/d/9777/124"
+        "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 215, sn. 124 vpravo (18. 1. 1774); rejstřík O sn. 132–133 – https://ebadatelna.soapraha.cz/d/9777/124",
+        "SOA Praha, fara Beroun, Beroun 07 (3909) N fol. 160, sn. 155 vpravo (25. 5. 1751) – https://ebadatelna.soapraha.cz/d/3909/155"
       ],
       scans: [
         {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek dcery Marie 19. 1. 1806, Otročiněves"},
@@ -15149,11 +15151,13 @@ window.RODOKMEN = {
         "KANDIDÁT (K+): otec Josefa Malého – při jeho sňatku 18. 1. 1774 „Josephus filius legitimus Adalberti Maly operarii ex pago Ottroczin“ (Nižbor 02 O sn. 124 vpravo; M pro zápis).",
         "Podruhé oddán 5. 9. (?) 1763 v Nižboře: „honestus viduus Adalbertus Maley inquilinus oriundus ex pago Otročinowes“ s vdovou Dorotou po † Janu Vítkovi (?) ze Svaté (?); svědci Jakub Schrobl (?) a Jan Fryora (?) (Nižbor 02 O pag. 199, sn. 116 vpravo; čteno agentem). Dcera z 2. manželství Veronika, VI 1766 (sn. 47 vlevo). Josef (*~1750) je tedy nejspíš z 1. manželství – matka neznámá. Dorota Malá † 29. 3. 1804 Otročiněves č. 22, 82 let – snad vdova po Vojtěchovi (K).",
         "Praha N236: 1. sňatek Vojtěcha není v rejstříku O Nižbor 02 (1743–84) → před 1743 (Nižbor 01) nebo jinde; křest syna Josefa (*~1745–53) není v rejstřících N Nižbor 02 (Otročiněves, Nižbor, Stradonice, Zloukovice).",
-        "Praha N237: v Nižbor 01 (9776, NOZ 1719–43, Otročiněves jen křty od 1730) Vojtěchův křest ani 1. sňatek nejsou; jediná Malá v Otročiněvsi: Veronika 6. 1. 1733, dcera Václava Malého × Barbory, kmotři z Hudlic (sn. 116 vpravo, pag. 263; čteno agentem) – Václav × Barbora snad rodiče Vojtěcha (jen možnost). Otročiněves před 1730 asi pod Hudlicemi (kaple fary Beroun) – hledat v rejstříku N Beroun 40 (Capella Hudlicensis 1739–84) a Beroun N před 1739."
+        "Praha N237: v Nižbor 01 (9776, NOZ 1719–43, Otročiněves jen křty od 1730) Vojtěchův křest ani 1. sňatek nejsou; jediná Malá v Otročiněvsi: Veronika 6. 1. 1733, dcera Václava Malého × Barbory, kmotři z Hudlic (sn. 116 vpravo, pag. 263; čteno agentem) – Václav × Barbora snad rodiče Vojtěcha (jen možnost). Otročiněves před 1730 asi pod Hudlicemi (kaple fary Beroun) – hledat v rejstříku N Beroun 40 (Capella Hudlicensis 1739–84) a Beroun N před 1739.",
+        "Děti Vojtěcha Malého × Doroty v Beroun 07 (N 1739–60): Jan Josef 25. 5. 1751 (fol. 160) a Dorota 14. 2. 1756 z Otročiněvsi (fol. 223, sn. 218 vpravo) (M pro zápisy). Matka obou Dorota – před 2. sňatkem 1763 (vdovec × vdova Dorota) → 1. manželka snad Dorota (?) (Praha N238)."
       ],
       sources: [
         "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 215, sn. 124 vpravo (18. 1. 1774); rejstřík O sn. 132–133 – https://ebadatelna.soapraha.cz/d/9777/124",
-        "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 199, sn. 116 vpravo (IX 1763) – https://ebadatelna.soapraha.cz/d/9777/116"
+        "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 199, sn. 116 vpravo (IX 1763) – https://ebadatelna.soapraha.cz/d/9777/116",
+        "SOA Praha, fara Beroun, Beroun 07 (3909) N fol. 160 a 223 (1751, 1756) – https://ebadatelna.soapraha.cz/d/3909/218"
       ],
       scans: [
         {"f":"img/1774_O_maly_josef_dorota.jpg","t":"Kandidátní sňatek syna Josefa 18. 1. 1774, Nižbor"}
