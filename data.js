@@ -4049,7 +4049,9 @@ window.RODOKMEN = {
       name: "Václav Svoboda",
       line: "svoboda",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Malkov (statek Tmaň)"},
+      b: {"date":"asi I 1820 (podle věku při úmrtí)","year":1820,"approx":true,"place":"Málkov č. 35 (?)"},
+      d: {"date":"20. 6. 1902","year":1902,"place":"Suchomasty č. p. 21"},
+      cause: "marasmus",
       father: "matej_sv",
       mother: "alzbeta_za",
       spouse: "magdalena_st",
@@ -4057,18 +4059,22 @@ window.RODOKMEN = {
       marriage: "10. 2. 1851, Borek (Suchomasty) – s Magdalenou Stadlerovou",
       notes: [
         "Domkář v Suchomastech č. 21, rodák z Malkova; dodatečně uznal otcovství dcery Marie (1848) a 10. 2. 1851 se oženil s její matkou.",
-        "Křest není v rejstřících N fary Borek 1800 – II 1821 a 1818–1837 (Svobodovi z Málkova tam mají rodiče Václav × Ludmila a Josef × Kateřina) – narozen asi jinde (fara Tmaň ?)."
+        "Křest není v rejstřících N fary Borek 1800 – II 1821 a 1818–1837 (Svobodovi z Málkova tam mají rodiče Václav × Ludmila a Josef × Kateřina) – narozen asi jinde (fara Tmaň ?).",
+        "Zemřel 20. 6. 1902 (pohřben 22. 6. v Borku) v Suchomastech č. 21: „Svoboda Václav, žebrák ze Suchomast č. 21, rozen z Malkova č. 35, okres berounský, hejtm. hořovické“, 82 let 5 měs. 3 dny (→ *~17. 1. 1820), marasmus; „pro nedbalost domácích nebyl sv. svátostmi zaopatřen“ (Borek 22 Z fol. 291, sn. 163; rejstřík S sn. 334 vlevo; M, ověřeno koordinátorem).",
+        "Po smrti Magdaleny († 1864) žil s Marií roz. Klikovou ze Suchomast č. 14 – syn Václav † 28. 2. 1876, 10 dní, „syn Václava Svobody, domkáře ze Suchomast č. 21, a matky Marie rozené Klikové“ (Borek 22 Z sn. 36 vlevo; čteno agentem); 2. sňatek nehledán."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
+        "SOA Praha, fara Borek, Borek 22 (15318) Z fol. 291, sn. 163 (20. 6. 1902) – https://ebadatelna.soapraha.cz/d/15318/163"
       ],
       scans: [
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"},
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek rodičů Matěje a Alžběty Svobodových, Málkov 1818"},
         {"f":"img/1851_O_Svoboda_Vaclav_Stadlerova_Magdalena_Suchomasty.jpg","t":"Sňatek s Magdalenou Stadlerovou, Suchomasty 1851"},
-        {"f":"img/1864_Z_Svobodova_Magdalena_Suchomasty.jpg","t":"Úmrtí manželky Magdaleny, Suchomasty 1864"}
+        {"f":"img/1864_Z_Svobodova_Magdalena_Suchomasty.jpg","t":"Úmrtí manželky Magdaleny, Suchomasty 1864"},
+        {"f":"img/1902_Z_Svoboda_Vaclav_Suchomasty21.jpg","t":"Úmrtí 20. 6. 1902, Suchomasty č. 21 – „rozen z Malkova č. 35“"}
       ]
     },
     {
@@ -8113,7 +8119,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Marie Vlasákové (sňatek 1795) a Františka († 14. 2. 1809, 18 let). Zemřel 26. 8. 1800 v Sýkořicích č. 6 jako švec, 70 let, stářím.",
         "Podruhé oddán asi 2x. 3. 1772 ve Zbečně jako vdovec (zapsán „Jonas Jann (?)“ – nejspíš chyba písaře), švec ze Sýkořic č. 6, s Josefou Blínovou (?) ze Sýkořic (Zbečno 04, sn. 360). 1. manželka Anna (syn Matěj *16. 9. 1770).",
-        "Křest Matěje Jonáše není v rejstřících N Zbečno 02 (1715–1724, J i G) ani Zbečno 03 (1725–1748); rod Jonášů (Janošů ?) ve faře 1715–24 žil (fol. 18, 41, 55, 80). Jediný Matěj: „Matěj Šimon“, syn Václava Janoše × Anny, 8. 2. 1716 (Zbečno 02 sn. 17 vlevo; K−, věk nesedí s † 1800 „70 let“). 1. sňatek s Annou dosud nehledán (rejstřík O Zbečno 04 sn. 403 vpravo)."
+        "Křest Matěje Jonáše není v rejstřících N Zbečno 02 (1715–1724, J i G) ani Zbečno 03 (1725–1748); rod Jonášů (Janošů ?) ve faře 1715–24 žil (fol. 18, 41, 55, 80). Jediný Matěj: „Matěj Šimon“, syn Václava Janoše × Anny, 8. 2. 1716 (Zbečno 02 sn. 17 vlevo; K−, věk nesedí s † 1800 „70 let“). 1. sňatek s Annou dosud nehledán (rejstřík O Zbečno 04 sn. 403 vpravo).",
+        "1. manželka Anna † 17. 1. 1772 (pohřbena 20. 1.) Sýkořice č. 6: „Anna uxor Mathei Jonasch Sutoris“, 32 (?) let (Zbečno 15 Z sn. 25 vpravo; čteno agentem); syn s Annou Matěj IX 1770. Sňatek s Annou není v rejstříku O Zbečno 04 (1749–~1774; jediný Jonáš = 2. sňatek 1772) → uzavřen jinde nebo před 1749."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6",
