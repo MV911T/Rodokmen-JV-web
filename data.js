@@ -5976,7 +5976,7 @@ window.RODOKMEN = {
         "Matka Václava Svobody (*~1781); rodné příjmení neuvedeno.",
         "KANDIDÁT sňatku a původu (K+): 13. [II, 1774 – rok ze sledu, záhlaví nečitelné], Málkov č. 5 (oddával Martin Kinský): „honestus juvenis Mathias proprius filius Jacobi Swoboda rustici ex pago Malkov, subditus Dominio Tmanensi, cum sua virgine sponsa Anna propria filia matris Ludmillae Bundiana (?), nunc jam subdita Dominio Tmanensi“; na okraji „sponsa Koneprus“; svědci Jan Veselý, kovář málkovský, Václav Ježek z Málkova, Anna Svobodová, děvečka z Tmaně (Tmaň 02 O sn. 193 vpravo; M pro zápis, ověřeno koordinátorem; otec nevěsty neuveden – snad nemanželská). Rodem tedy z Koněprus, dcera Ludmily Bundové (?); v Suchomastech 1775 kmotr Václav Bunda, podruh.",
         "Křest Anny, dcery Ludmily Bundové (?), Koněprusy, nenalezen (Tmaň 02 N 1751–1754 jen sloupec obce; rejstřík N Borek 03 B bez Bundy). Anna Bundiana z Koněprus svědkyní 21. 8. 1752 (Tmaň 02 N sn. 43 vlevo; čteno agentem).",
-        "KANDIDÁT křtu (K, jméno dítěte nejisté): 30. 1. 1746 Koněprusy – „Nata [Zanna / Joanna / Anna ?] … z poctivých rodičů poddaných ke Královskému Dvoru, otce Jana Bundy, matky Lidmily; L: Eva Mayslová (?) z Koněprus; T: Václav Forger (?), Kateřina Kavičková“ (Tmaň 02 N sn. 32 vpravo; M pro zápis, ověřeno koordinátorem). Matka Lidmila sedí na „filia matris Ludmillae Bundiana“ (1774; otec tehdy zřejmě †). Další děti Jana Bundy × Ludmily: Jakub ~1750 (sn. 38 vlevo). Jiná Anna Bundová v Tmaň 02 N 1744–1752 (Koněprusy) nenalezena."
+        "KANDIDÁT křtu (K−, jméno dítěte spíš Zuzana): 30. 1. 1746 Koněprusy – „Nata [Zanna / Joanna / Anna ?] … z poctivých rodičů poddaných ke Královskému Dvoru, otce Jana Bundy, matky Lidmily; L: Eva Mayslová (?) z Koněprus; T: Václav Forger (?), Kateřina Kavičková“ (Tmaň 02 N sn. 32 vpravo; M pro zápis, ověřeno koordinátorem). Matka Lidmila sedí na „filia matris Ludmillae Bundiana“ (1774; otec tehdy zřejmě †). Další děti Jana Bundy × Ludmily: Jakub ~1750 (sn. 38 vlevo). Jiná Anna Bundová v Tmaň 02 N 1744–1752 (Koněprusy) nenalezena. Praha N154: jméno na výřezu ve zvětšení čteno „Ʒusanna (?)“ – stejné ʒ píše písař pro z/ž; Anna méně pravděpodobná → kandidát slabý."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
@@ -6005,7 +6005,8 @@ window.RODOKMEN = {
         "Praha N118: v letech 1784–91 žili souběžně dva Jakubové Krejčí – × KATEŘINA (Suchomasty 54, 13; děti 1788, 1791; náš, K) a × JOSEFA Chvátalovou (× 1778; Bykoš 44, Suchomasty 1; syn Václava z Bykoše) (index N Borek 11 sn. 16 vpravo, 17 vlevo; M) → „1. manželství téhož Jakuba“ neplatí. Možný otec našeho Jakuba: Václav Krejčí ze Suchomast 54 × Františka (K).",
         "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí).",
         "KANDIDÁT (K+): Josefa, pozdější manželka Václava Svobody, byla pokřtěna 11. 3. 1785 jako nemanželská dcera Kateřiny Haubové bez uvedení otce (Borek 05 N sn. 7 vpravo); otcovství Jakuba plyne jen ze sňatku 1787 a zápisů 1806 – viz karta Josefy.",
-        "KANDIDÁT křtu a rodičů (K): v rejstříku N Borek 03 (1748–1773) je jediný Jakub Krejčí ze Suchomast – „Kreizi Jacobus Suchomastensis“, pokřtěn 7. 7. 1766, rodiče Václav × Františka (Borek 03 N sn. 80 vlevo; druhý Jakub *24. 7. 1749 Bykoš je syn Václava × Kateřiny). ROZPOR: sňatek 1787 „24 let“ → *~1763, křest 1766 → 21 let. Rodiče: 15. 10. [1758, rok ze sledu] „honestus Adolescens Wenceslaus proprius filius Wenceslai Kreiczi e pago Bikoss cum … Virgine Francisca propria superstite filia post defunctum Paulum Nowak e pago Suchomast“ (Borek 03 O sn. 212 vpravo, pag. 43; M pro zápis, ověřeno koordinátorem). Bratr ženicha Josef × 1757 Anna, také dcera † Pavla Nováka. Úmrtí Václava, podruha suchomastského, v Borek 05 Z VI 1787 – XII 1792 není."
+        "KANDIDÁT křtu a rodičů (K): v rejstříku N Borek 03 (1748–1773) je jediný Jakub Krejčí ze Suchomast – „Kreizi Jacobus Suchomastensis“, pokřtěn 7. 7. 1766, rodiče Václav × Františka (Borek 03 N sn. 80 vlevo; druhý Jakub *24. 7. 1749 Bykoš je syn Václava × Kateřiny). ROZPOR: sňatek 1787 „24 let“ → *~1763, křest 1766 → 21 let. Rodiče: 15. 10. [1758, rok ze sledu] „honestus Adolescens Wenceslaus proprius filius Wenceslai Kreiczi e pago Bikoss cum … Virgine Francisca propria superstite filia post defunctum Paulum Nowak e pago Suchomast“ (Borek 03 O sn. 212 vpravo, pag. 43; M pro zápis, ověřeno koordinátorem). Bratr ženicha Josef × 1757 Anna, také dcera † Pavla Nováka. Úmrtí Václava, podruha suchomastského, v Borek 05 Z VI 1787 – XII 1792 není.",
+        "V III 1838 už nežil (manželka Kateřina 1838 „manželka † Jakuba“); v rejstříku Z Borek 14 (X 1830 – 1850) není (jediný Jakub Krejčí † 1845 je domkář z Bykoše č. 59, jiný) → † před X 1830, hledat Borek 06 Z 1795–1829. Rodina 1791 v Suchomastech č. 51 (dřívější čtení „54“)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
@@ -6014,7 +6015,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Josefa Svobodová)"},
         {"f":"img/1787_O_Krejci_Jakub_Jaubova_Katerina_Suchomasty.jpg","t":"Sňatek s Kateřinou Jaubovou, 13. 11. 1787, Suchomasty"},
-        {"f":"img/1758_O_Krejci_Vaclav_Novakova_Frantiska_Bykos.jpg","t":"Kandidátní sňatek rodičů Václava Krejčího a Františky Novákové, 15. 10. 1758 (?)"}
+        {"f":"img/1758_O_Krejci_Vaclav_Novakova_Frantiska_Bykos.jpg","t":"Kandidátní sňatek rodičů Václava Krejčího a Františky Novákové, 15. 10. 1758 (?)"},
+        {"f":"img/1838_Z_Krejci_Katerina_rozHaubova_Suchomasty51.jpg","t":"Úmrtí manželky Kateřiny, 22. 3. 1838, Suchomasty č. 51 – vdova po † Jakubovi"}
       ]
     },
     {
@@ -6024,11 +6026,14 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      d: {"date":"22. 3. 1838","year":1838,"place":"Suchomasty č. p. 51"},
+      cause: "souchotiny (?)",
       father: "vaclav_hb",
       mother: "katerina_dch",
       spouse: "jakub_kr",
       notes: [
         "Matka Josefy Svobodové. Rodným jménem Jaubová (oddací zápis 1787), v Suchomastech psáno většinou Hauba – rodiče jako kandidáti (K+), viz karta otce.",
+        "Zemřela 22. 3. 1838 (pohřbena 24. 3.) v Suchomastech č. 51: „Kateřina, manželka † Jakuba Kreičyho, domkáře …, ze Suchomast rozená Haubova“, 65 let (Borek 14 Z sn. 32 vpravo, pag. 61; rejstřík K; M, ověřeno koordinátorem). Rodné jméno Haubová přímo potvrzuje Jaubová (1787) = Haubová. ROZPOR věku: úmrtí → *~1773 × sňatek 1787 „24 let“ → *~1763 × kandidátní křest 18. 11. 1763; platí křest.",
         "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí).",
         "KANDIDÁT křtu (K, jen pokud je to Kateřina Jaubová z ROZPORU výše): 18. (?) 11. 1763 Suchomasty – „Catharina, legitima filia Wenceslai Hauba et uxoris Catharinae“ (Borek 03 N sn. 68 vpravo, pag. 131; M) – otec Václav a věk 24 v 1787 sedí; Hauba = Jauba je jen domněnka.",
         "KANDIDÁT otce (K, Hauba = Jauba nedoloženo): Václav Hauba, sedlák suchomastský, č. 49, † VII 1772, věk nejistý (Borek 03 Z sn. 188 vlevo, pag. 150; M, ověřeno koordinátorem); pohrobek Dorota, 6. 2. 1773, rodiče † Václav Hauba × Kateřina, č. 49 (Borek 03 N sn. 107 vpravo; M, ověřeno koordinátorem). Sedí Václav, sedlák, Suchomasty a „pozůstalá dcera“ v 1787; dům nevěsty v oddacím zápise čten „1 (?)“, ne 49.",
@@ -6036,14 +6041,16 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
-        "SOA Praha, fara Borek, Borek 05 (4074) N, sn. 7 vpravo, pag. 5 (11. 3. 1785); rejstřík Borek 11 (4080) sn. 11 vpravo – https://ebadatelna.soapraha.cz/d/4074/7"
+        "SOA Praha, fara Borek, Borek 05 (4074) N, sn. 7 vpravo, pag. 5 (11. 3. 1785); rejstřík Borek 11 (4080) sn. 11 vpravo – https://ebadatelna.soapraha.cz/d/4074/7",
+        "SOA Praha, fara Borek, Borek 14 (4083) Z, sn. 32 vpravo, pag. 61 (22. 3. 1838) – https://ebadatelna.soapraha.cz/d/4083/32"
       ],
       scans: [
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Josefa Svobodová)"},
         {"f":"img/1785_N_Haubova_Josefa_Suchomasty49.jpg","t":"Kandidátní křest dcery Josefy 11. 3. 1785, Suchomasty č. 49 (nemanželská, matka Kateřina Haubová)"},
         {"f":"img/1785_indexN_Haubova_Josefa_Suchomasty49.jpg","t":"Rejstřík narozených Borek 11, H – Hauba Josepha 1785"},
         {"f":"img/1763_N_Haubova_Katerina_Suchomasty.jpg","t":"Kandidátní křest 18. (?) 11. 1763, Suchomasty"},
-        {"f":"img/1787_O_Krejci_Jakub_Jaubova_Katerina_Suchomasty.jpg","t":"Sňatek s Jakubem Krejčím, 13. 11. 1787, Suchomasty"}
+        {"f":"img/1787_O_Krejci_Jakub_Jaubova_Katerina_Suchomasty.jpg","t":"Sňatek s Jakubem Krejčím, 13. 11. 1787, Suchomasty"},
+        {"f":"img/1838_Z_Krejci_Katerina_rozHaubova_Suchomasty51.jpg","t":"Úmrtí 22. 3. 1838, Suchomasty č. 51 – „rozená Haubová“"}
       ]
     },
     {
@@ -14712,7 +14719,7 @@ window.RODOKMEN = {
       occ: "sedlák (rusticus) v Suchomastech č. 49",
       marriage: "23. 11. 1750 (rok ze sledu), Suchomasty – s Kateřinou Duchoňovou",
       notes: [
-        "KANDIDÁT (K+): otec Kateřiny Krejčí – nevěsta 13. 11. 1787 „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let (Borek 05 O sn. 86; M) = Kateřina, dcera Václava Hauby a Kateřiny, pokřtěná 18. (?) 11. 1763 (Borek 03 N sn. 68 vpravo). Tvar Jauba/Hauba: u křtu Marie Magdaleny 1761 psán „Waclawa Jauby (?)“ (sn. 55 vpravo, ověřeno koordinátorem), jinak Hauba; nemanželská Josefa 1785 (dcera Kateřiny, dcery † Václava Hauby) je z jeho usedlosti č. 49.",
+        "KANDIDÁT (K+): otec Kateřiny Krejčí – nevěsta 13. 11. 1787 „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let (Borek 05 O sn. 86; M) = Kateřina, dcera Václava Hauby a Kateřiny, pokřtěná 18. (?) 11. 1763 (Borek 03 N sn. 68 vpravo). Tvar Jauba/Hauba: u křtu Marie Magdaleny 1761 psán „Waclawa Jauby (?)“ (sn. 55 vpravo, ověřeno koordinátorem), jinak Hauba; nemanželská Josefa 1785 (dcera Kateřiny, dcery † Václava Hauby) je z jeho usedlosti č. 49. Úmrtní zápis dcery 1838 „ze Suchomast rozená Haubová“ (Borek 14 Z sn. 32 vpravo) vazbu dále posiluje.",
         "Sňatek 23. 11. [1750 – rok ze sledu a ohlášek; další zápis „Anno 1751“], Suchomasty: „honestus adolescens Wenceslaus proprius filius Jacobi Hauba subditi boni Suchomastensis cum honesta ancilla Catharina propria filia defuncti Georgii Duchon boni Suchomastensis“; svědci Franciscus Baubin (factor), Paulus Novak, Joannes Burian, družba Georgius Duchon, družička Catharina Kliková (Borek 03 O sn. 196 vlevo, pag. 10; jediný sňatek Václava Hauby v rejstříku O 1748–1773; M, ověřeno koordinátorem). Otec Jakub Hauba v r. 1750 žil.",
         "Děti v Suchomastech (Borek 03 N, čteno agentem, kmotři opakovaně Adam Staněk, Dorota Škodová z Bykoše, Alžběta Bundalová): Havel 14. 10. 1751 (sn. 16 vlevo), Alžběta 2. 3. 1757 (sn. 37 vpravo), Anna 8. 5. 1759 (sn. 46 vlevo), Marie Magdalena 22. 6. 1761 (sn. 55 vpravo; „Jauby“), Kateřina 1763, František 1769, pohrobek Dorota 6. 2. 1773.",
         "Zemřel VII 1772 (dne 8. ?) v Suchomastech č. 49: „Hauba Wenceslaus rusticus Suchomastensis“, věk nejistý (3? / 4?) (Borek 03 Z sn. 188 vlevo, pag. 150; M, ověřeno koordinátorem). ROZPOR věku: ženich 1750 „adolescens“ → narozen nejpozději ~1730.",
