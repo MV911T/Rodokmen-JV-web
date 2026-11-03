@@ -6597,6 +6597,8 @@ window.RODOKMEN = {
       line: "vlasak",
       cert: "M",
       b: {"date":"8. 2. 1807","year":1807,"place":"Sýkořice č. p. 6 (fara Zbečno)"},
+      d: {"date":"24. 9. 1894","year":1894,"place":"Zbečno č. p. 66"},
+      cause: "mrtvice (apoplexia cerebri)",
       father: "jan_vl0",
       mother: "marie_ja",
       spouse: "marie_no",
@@ -6608,18 +6610,21 @@ window.RODOKMEN = {
         "Děd Anny Červenkové.",
         "V lednu 1838 mlynářský tovaryš ve Zbečně č. 58 (křest syna Františka); syn Jana Vlasáka, nádeníka ve Zbečně č. 8.",
         "Oddán 22. 10. 1833 (fara Nižbor) jako mlynářský tovaryš ve Zbečně č. 36, 25 let, svobodný; syn Jana Vlasáka, domkáře z Hudlic (?), a Marie roz. Jarošové (?) z …brnice (?) č. 6.",
-        "Praha N125: synové † ve Zbečno 23 – Václav Vlasák, mlynářský tovaryš, 1878 (38) a Jan Vlasák, mlynář č. 41, 1882 (48), „syn Jana Vlasáka, mlynáře N. 41, a Marie, dcery Josefa Nováka z Nové Huti N. 34“ (sn. 81, 84 vlevo; M) – další doklad k ROZPORU čísla domu 43/34 u Marie. Zápis 1882 ověřen koordinátorem, zápis 1878 čten jen agentem; měsíce nejisté."
+        "Praha N125: synové † ve Zbečno 23 – Václav Vlasák, mlynářský tovaryš, 1878 (38) a Jan Vlasák, mlynář č. 41, 1882 (48), „syn Jana Vlasáka, mlynáře N. 41, a Marie, dcery Josefa Nováka z Nové Huti N. 34“ (sn. 81, 84 vlevo; M) – další doklad k ROZPORU čísla domu 43/34 u Marie. Zápis 1882 ověřen koordinátorem, zápis 1878 čten jen agentem; měsíce nejisté.",
+        "Zemřel 24. 9. 1894 (pohřben 27. 9.) ve Zbečně č. 66 jako vdovec: „Vlasák Jan, mistr mlynářský a původce (?) mlýna v Sýkořici č. d. 41, syn † Jana Vlasáka, souseda ze Sýkořice č. d. 6, a Marie rozené Jonášovy ze Sýkořice č. 6“, 87 let 7 měs. 16 dní (→ 8. 2. 1807 – přesně den křtu) (Zbečno 31 (15005) Z fol. 67, sn. 69; rejstřík W sn. 260 vpravo; M, ověřeno koordinátorem). Manželka Marie roz. Nováková † před IX 1894."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 07 (N Sýkořice 1784–1843), pag. 49, snímek 27 – https://ebadatelna.soapraha.cz/d/8852/27"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 07 (N Sýkořice 1784–1843), pag. 49, snímek 27 – https://ebadatelna.soapraha.cz/d/8852/27",
+        "SOA Praha, fara Zbečno, Zbečno 31 (15005) Z fol. 67, sn. 69 (24. 9. 1894) – https://ebadatelna.soapraha.cz/d/15005/69"
       ],
       scans: [
         {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
         {"f":"img/1807_krest_jan_nepomuk_vlasak_sykorice6_zbecno07_sn27_a.jpg","t":"Křest Jana Nepomuka Vlasáka, Sýkořice 8. 2. 1807"},
-        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest syna Františka Vlasáka, Zbečno 2. 1. 1838"}
+        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest syna Františka Vlasáka, Zbečno 2. 1. 1838"},
+        {"f":"img/1894_Z_Vlasak_Jan_Zbecno66.jpg","t":"Úmrtí 24. 9. 1894, Zbečno č. 66 – rodiče"}
       ]
     },
     {
@@ -6655,6 +6660,7 @@ window.RODOKMEN = {
       line: "semenec",
       cert: "M",
       b: {"date":"8. 11. 1807","year":1807,"place":"Zbečno č. p. 45"},
+      d: {"date":"11. 12. 1883","year":1883,"place":"Zbečno č. p. 45"},
       father: "frantisek_sm",
       mother: "ludmila_hl",
       spouse: "barbora_hl",
@@ -6663,19 +6669,22 @@ window.RODOKMEN = {
       notes: [
         "Narozen a pokřtěn 8. 11. 1807 ve Zbečně č. 45: otec František Semenec, chalupník, matka Ludmila, dcera † Václava Hlavičky, chalupníka z Karnova (?) č. 4; kmotři Martin Šimánek (?), chalupník, a Josef Procházka, sedlák, oba ze Zbečna.",
         "Děd Anny Červenkové.",
-        "Oddán 6. 11. 1827 ve Zbečně (č. 45) jako podruh (?), 19 (?) let, svobodný, syn † Františka Semence ze Zbečna a Ludmily roz. Hlavičkové (?) z Krawna (?) č. 4; nevěsta Kateřina, dcera Václava Wašíka (?) ze Zbečna č. 11 a Anny roz. Pšan… (?), 24 let."
+        "Oddán 6. 11. 1827 ve Zbečně (č. 45) jako podruh (?), 19 (?) let, svobodný, syn † Františka Semence ze Zbečna a Ludmily roz. Hlavičkové (?) z Krawna (?) č. 4; nevěsta Kateřina, dcera Václava Wašíka (?) ze Zbečna č. 11 a Anny roz. Pšan… (?), 24 let.",
+        "Zemřel 11. 12. 1883 (pohřben 13. 12.) ve Zbečně č. 45: „Martin Semenec, výminkář ve Zbečně N. 45 z Dubiny (?), syn Františka Semence, sedláka ve Zbečně z Dubiny N. 45, a Ludmily, dcery Václava Hlavičky z Branova“, 76 let, zánět plic (?); ve sloupci „doba manželství 7 let“ (?) (Zbečno 31 (15005) Z fol. 21, sn. 23; M, ověřeno koordinátorem)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 254, snímek 130 – https://ebadatelna.soapraha.cz/d/8855/130",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 14 (O 1784–1868), pag. 44, snímek 25 – https://ebadatelna.soapraha.cz/d/8859/25",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 67, snímek 36 – https://ebadatelna.soapraha.cz/d/8855/36"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 67, snímek 36 – https://ebadatelna.soapraha.cz/d/8855/36",
+        "SOA Praha, fara Zbečno, Zbečno 31 (15005) Z fol. 21, sn. 23 (11. 12. 1883) – https://ebadatelna.soapraha.cz/d/15005/23"
       ],
       scans: [
         {"f":"img/1827_snatek_martin_semenec_katerina_wasikova_zbecno14_sn25_a.jpg","t":"Sňatek Martina Semence a Kateřiny Wašíkové (?), Zbečno 6. 11. 1827"},
         {"f":"img/1807_krest_martin_semenec_zbecno45_zbecno10_sn36.jpg","t":"Křest Martina Semence, Zbečno 8. 11. 1807"},
         {"f":"img/1838_krest_marie_semencova_zbecno45_zbecno10_sn130_a.jpg","t":"Křest dcery Marie Semencové, Zbečno 28. 6. 1838"},
-        {"f":"img/1849_Z_Semencova_Katerina_Zbecno45.jpg","t":"Úmrtí manželky Kateřiny, Zbečno 1849"}
+        {"f":"img/1849_Z_Semencova_Katerina_Zbecno45.jpg","t":"Úmrtí manželky Kateřiny, Zbečno 1849"},
+        {"f":"img/1883_Z_Semenec_Martin_Zbecno45.jpg","t":"Úmrtí 11. 12. 1883, Zbečno č. 45 – rodiče a děd Václav Hlavička z Branova"}
       ]
     },
     {
@@ -8075,7 +8084,8 @@ window.RODOKMEN = {
         "Sourozenci (M, Zbečno 04 N): Anna 1764, Veronika 1766, Kateřina 1768, Václav Jan (?) 1773, Marie Barbora 1776, Barbora 1779 – viz karta otce (Václav Sklenička, vedený jako Hlavička).",
         "Oddána 27. 10. 1793 v Branově (fara Nezabudice) s Františkem Semencem, chalupníkem ze Zbečna (22 let). Děti Martin (*1807), Kateřina (*25. 11. 1817) – v listopadu 1817 žila; starší děti 1794–1806 zatím nehledány.",
         "Obec „Karnov / Krawno“ v zápisech dětí = Branov (okr. Rakovník).",
-        "Zemřela 17. 9. 1852 (pohřbena 19. 9.) ve Zbečně č. 45: „Ludmila, pozůstalá vdova po † Františku Semencovi, výminkářka ve Zbečně N: 45“, 85 let (skutečně 81) (Zbečno 16, sn. 83 vlevo, pag. 162; M, ověřeno koordinátorem). Manžel František zemřel před 1852 (v Z Zbečno 1805–1828 není)."
+        "Zemřela 17. 9. 1852 (pohřbena 19. 9.) ve Zbečně č. 45: „Ludmila, pozůstalá vdova po † Františku Semencovi, výminkářka ve Zbečně N: 45“, 85 let (skutečně 81) (Zbečno 16, sn. 83 vlevo, pag. 162; M, ověřeno koordinátorem). Manžel František zemřel před 1852 (v Z Zbečno 1805–1828 není).",
+        "Tvar „Hlavička“ pochází i z úmrtního zápisu vnuka Martina Semence 1883: „Ludmily, dcery Václava Hlavičky z Branova“ (Zbečno 31 Z sn. 23; M) – pozdní zápis proti křtům 1764–1779 („Szlenizka/Sklenizka“)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 67, snímek 36 – https://ebadatelna.soapraha.cz/d/8855/36",
@@ -8092,7 +8102,8 @@ window.RODOKMEN = {
         {"f":"img/1852_Z_Semencova_Ludmila_Zbecno45.jpg","t":"Úmrtí 17. 9. 1852, Zbečno č. 45"},
         {"f":"img/1766_N_Sklenickova_Veronika_Branov.jpg","t":"Křest sestry Veroniky, 1. 1. 1766, Branov"},
         {"f":"img/1773_N_Sklenicka_Vaclav_Branov4.jpg","t":"Křest bratra Václava Jana (?), IX (?) 1773, Branov č. 4"},
-        {"f":"img/1776_N_Sklenickova_MarieBarbora_Branov4.jpg","t":"Křest sestry Marie Barbory, 1. 1. 1776, Branov č. 4"}
+        {"f":"img/1776_N_Sklenickova_MarieBarbora_Branov4.jpg","t":"Křest sestry Marie Barbory, 1. 1. 1776, Branov č. 4"},
+        {"f":"img/1883_Z_Semenec_Martin_Zbecno45.jpg","t":"Úmrtí syna Martina Semence 1883 – „dcera Václava Hlavičky z Branova“"}
       ]
     },
     {
@@ -8980,7 +8991,8 @@ window.RODOKMEN = {
         "Pozor: v Branově současně Václav Sklenička × Anna (Matěj 20. 2. 1765 sn. 195 vlevo, čteno agentem; Kateřina 29./30. 7. 1767 sn. 214 vlevo) a Tomáš × Anna – nesměšovat. Rejstřík pag. 394–447 dočten (Praha N136): pag. 447 = Dorota 1770 páru Václav × Anna; pag. 440 = Ludmila 1769 páru Jiří × Ludmila; pag. 395 a 403 = Jan Sklenička × Kateřina / Dorota ve Zbečně. V Branově č. 2 Matěj × Anna a Josef × Kateřina, č. 5 Jiří × Ludmila; jiný Sklenička v č. 4 není.",
         "Dcera Barbora pokřtěna 16./17. XII 1779 (rok ze sledu nadpisů), Branov č. 4 – „Sklenicza Wenceslaus inquilinus, Mater Barbara, subditi Pürglitz“ (Zbečno 04 N sn. 290 vlevo, pag. 568; M).",
         "KANDIDÁT (K, možná jiný muž): IX 1759, Branov – „honestus Viduus Wenceslaus Klenizka Branovio“ × „Chatarina post defunctum Franciscum Syba (?), legitima filia“ z Mniesterio (?) (Zbečno 04 O sn. 331 vpravo, pag. 30; M pro zápis, ověřeno koordinátorem). Shoda jen ve jménu, tvaru příjmení a obci; kdyby to byl týž muž, neplatí odhad narození ~1750 a Barbora by byla další manželka.",
-        "KANDIDÁT křtu (K+): dne 29., zřejmě IX 1737 (měsíc a rok ze sledu nadpisů), z Branova – „syn jménem Václav z poctivých rodičů Jiříka Skleničky a Dorotky (?)“ (Zbečno 03 N sn. 134 vpravo, fol. 131; M pro zápis, ověřeno koordinátorem). Z pěti položek „Sklenička Václav“ v rejstříku jediná s otcem Jiřím (ostatní čteny jen agentem); vazbu dokládá otec a obec."
+        "KANDIDÁT křtu (K+): dne 29., zřejmě IX 1737 (měsíc a rok ze sledu nadpisů), z Branova – „syn jménem Václav z poctivých rodičů Jiříka Skleničky a Dorotky (?)“ (Zbečno 03 N sn. 134 vpravo, fol. 131; M pro zápis, ověřeno koordinátorem). Z pěti položek „Sklenička Václav“ v rejstříku jediná s otcem Jiřím (ostatní čteny jen agentem); vazbu dokládá otec a obec.",
+        "Tvar „Hlavička“ pochází i z úmrtního zápisu vnuka Martina Semence 1883: „Ludmily, dcery Václava Hlavičky z Branova“ (Zbečno 31 Z sn. 23; M) – pozdní zápis proti křtům 1764–1779 („Szlenizka/Sklenizka“)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (8855), pag. 110, snímek 58 – https://ebadatelna.soapraha.cz/d/8855/58",
@@ -8999,7 +9011,8 @@ window.RODOKMEN = {
         {"f":"img/1779_N_Sklenickova_Barbora_Branov4.jpg","t":"Křest dcery Barbory XII 1779, Branov č. 4 – kmotři Dubská, Jungmann"},
         {"f":"img/1766_N_Sklenickova_Veronika_Branov.jpg","t":"Křest dcery Veroniky, 1. 1. 1766, Branov"},
         {"f":"img/1773_N_Sklenicka_Vaclav_Branov4.jpg","t":"Křest syna Václava Jana (?), IX (?) 1773, Branov č. 4"},
-        {"f":"img/1776_N_Sklenickova_MarieBarbora_Branov4.jpg","t":"Křest dcery Marie Barbory, 1. 1. 1776, Branov č. 4"}
+        {"f":"img/1776_N_Sklenickova_MarieBarbora_Branov4.jpg","t":"Křest dcery Marie Barbory, 1. 1. 1776, Branov č. 4"},
+        {"f":"img/1883_Z_Semenec_Martin_Zbecno45.jpg","t":"Úmrtí vnuka Martina Semence 1883 – „dcera Václava Hlavičky z Branova“"}
       ]
     },
     {
