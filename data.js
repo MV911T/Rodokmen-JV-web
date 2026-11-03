@@ -4678,7 +4678,7 @@ window.RODOKMEN = {
         "Pokřtěn 9. 10. 1791 v Málkově č. 1 (křtil Filip Bílek, farář suchomastský): otec Václav Svoboda, sedlák malkovský, rodem z Tmaně; matka Lidmila, rodem z Tmaně; kmotři Jiří Mareš (?), mistr holič (?) z Tmaně, a Kateřina Nagmanová (?), mlynářka z Tmaně (M). Sourozenci podle rejstříku: Marie (1786 ?), Josef (1789), Mikuláš (?) (1794).",
         "Domkář v Málkově (statek Tmaň). Oddán v listopadu 1818 (den 8. ?) v Málkově: „Matěj, vlastní syn Václava Svobody, domkáře Malkovského, panství Tmaňského“, 28 let, s Alžbětou, vlastní dcerou Augustina Kubáčka (?), sedláka Malkovského č. 7, a matky Ludmily, 19 let; oddal farář Wenc. Fr. Matiegka (M). Jediný sňatek Matěje × Alžběty v Málkově 1800–1824.",
         "Otec Václava Svobody (*1820).",
-        "V II 1851 už nežil (sňatek syna Václava; Borek 13 O sn. 3); v roce 1865 vdova Alžběta „po † Matěji Svobodovi, domkáři v Málkově č. 35“. Úmrtí není v Z Borek 1830–1909 ani v Tmaň 12 sn. 59–147 (~1843–1858) – zbývá Tmaň 12 sn. 1–58 (1819–~1842)."
+        "V VII 1828 už nežil – Křest 6./7. 7. 1828, Málkov č. 35, Jan Křtitel – otec neuveden; matka „Alžběta, dcera Augustina Hubáčka, kostelníka …, pozůstalá vdova po † Matějovi Svobodovi, domkáři z Malkowa z N. 35, z matky Ludmily rozené Kappovy (?)“ (Tmaň 05 (10459) N sn. 116; M, ověřeno koordinátorem). Dítě † 6. 3. 1829 (Tmaň 12 sn. 31). Úmrtí Matěje (asi 1820 – 1827) není v Tmaň 12 (1819–1858) ani v Borek 06 Z oddíl Málkov 1818 – VII 1829 a v rejstřících Z Borek 1830–1909 (Praha N170–N176) – zemřel jinde (?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
@@ -4691,7 +4691,8 @@ window.RODOKMEN = {
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Václav Svoboda)"},
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek s Alžbětou, Málkov 1818"},
         {"f":"img/1820_N_Svoboda_Vaclav_Malkov35.jpg","t":"Křest syna Václava, 17. 1. 1820, Málkov č. 35"},
-        {"f":"img/1865_Z_Svobodova_Alzbeta_Malkov35.jpg","t":"Úmrtí manželky Alžběty, 30. 6. 1865, Málkov č. 35"}
+        {"f":"img/1865_Z_Svobodova_Alzbeta_Malkov35.jpg","t":"Úmrtí manželky Alžběty, 30. 6. 1865, Málkov č. 35"},
+        {"f":"img/1828_N_Svoboda_JanKrtitel_Malkov35_vdova.jpg","t":"Křest 1828, Málkov č. 35 – Alžběta „pozůstalá vdova po † Matějovi Svobodovi“"}
       ]
     },
     {
@@ -4710,7 +4711,8 @@ window.RODOKMEN = {
       notes: [
         "Dcera Augustina Hubáčka, sedláka v Málkově č. 7, a Ludmily; oddána v listopadu 1818 s Matějem Svobodou, 19 let (M).",
         "ROZPOR ROZHODNUT: v VIII 1817 (7. ?) pokřtěna v Málkově č. 7 její nemanželská dcera Maria – matka „Alžběta, vlastní dcera Augustina Hubáčka, sedláka Malkovského No. 7, matky Ludmilly“ (M). Rodné příjmení je tedy Hubáčková (dřívější čtení „Zahálková“ a „Kubáčková“ chybná). Rejstřík N Borek 11 uvádí chybně „Martin, 16. 8.“. Křest Alžběty v rejstříku N Borek 1784–1802 není (snad Tmaň).",
-        "Zemřela 30. 6. 1865 (pohřbena 2. 7. v Tmani) v Málkově č. 35: „Svoboda Alžběta, žebračka v Malkovech č. 35, vdova po † Matěji Svobodovi, domkáři v Malkovech čísl. dom. 35“, 75 let, sešlost věku (Tmaň 16 (10470) Z sn. 23; M, ověřeno koordinátorem). ROZPOR věku: 75 → *~1790 × sňatek 1818 „19 let“ → *~1799; křest nenalezen."
+        "Zemřela 30. 6. 1865 (pohřbena 2. 7. v Tmani) v Málkově č. 35: „Svoboda Alžběta, žebračka v Malkovech č. 35, vdova po † Matěji Svobodovi, domkáři v Malkovech čísl. dom. 35“, 75 let, sešlost věku (Tmaň 16 (10470) Z sn. 23; M, ověřeno koordinátorem). ROZPOR věku: 75 → *~1790 × sňatek 1818 „19 let“ → *~1799; křest nenalezen.",
+        "Vdova po Matějovi už VII 1828: Křest 6./7. 7. 1828, Málkov č. 35, Jan Křtitel – otec neuveden; matka „Alžběta, dcera Augustina Hubáčka, kostelníka …, pozůstalá vdova po † Matějovi Svobodovi, domkáři z Malkowa z N. 35, z matky Ludmily rozené Kappovy (?)“ (Tmaň 05 (10459) N sn. 116; M, ověřeno koordinátorem). Dítě † 6. 3. 1829 (Tmaň 12 sn. 31)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
@@ -4723,7 +4725,8 @@ window.RODOKMEN = {
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek s Matějem Svobodou, Málkov 1818"},
         {"f":"img/1817_N_Hubackova_Maria_Malkov.jpg","t":"Křest nemanželské dcery Marie, Málkov č. 7, 1817"},
         {"f":"img/1820_N_Svoboda_Vaclav_Malkov35.jpg","t":"Křest syna Václava, 17. 1. 1820, Málkov č. 35"},
-        {"f":"img/1865_Z_Svobodova_Alzbeta_Malkov35.jpg","t":"Úmrtí 30. 6. 1865, Málkov č. 35 – vdova po Matěji Svobodovi"}
+        {"f":"img/1865_Z_Svobodova_Alzbeta_Malkov35.jpg","t":"Úmrtí 30. 6. 1865, Málkov č. 35 – vdova po Matěji Svobodovi"},
+        {"f":"img/1828_N_Svoboda_JanKrtitel_Malkov35_vdova.jpg","t":"Křest 1828, Málkov č. 35 – Alžběta „pozůstalá vdova po † Matějovi Svobodovi“"}
       ]
     },
     {
