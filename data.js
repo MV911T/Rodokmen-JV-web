@@ -8058,19 +8058,22 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"asi 1785 (kandidátní křest 25. 7. 1785 – viz poznámky)","year":1785,"approx":true,"place":"Otročiněves č. 35 (?) (fara Hudlice)"},
       father: "josef_ml",
+      mother: "dorota_ml",
       spouse: "josef_nv",
       notes: [
         "Dcera † Josefa Malého, domkáře v Am… (?) č. 35 (Nový Jáchymov ?); matka Marie Vlasákové (*1807) a dalších dětí v Nové Huti (podle indexu 1809–1822).",
-        "Oddána 19. 1. 1806 v Otročiněvsi jako „Marye, dcera po † Jozefovi Malým z Otročiněvse“, 18 let (Hudlice 10 O pag. 84, sn. 45 vlevo; M, ověřeno koordinátorem) – „Am… č. 35“ (1807) a „z Woter…“ (1886) = Otročiněves. KANDIDÁT křtu (K, jen rejstřík): 25. 7. 1785 Malá Marie, otec Josef, Otročiněves č. 35 (rejstřík N Hudlice 14 sn. 23 vpravo, fol. 5 tom. I; ROZPOR věku 18 × 20). Sestra (?) Terezie *17. 11. 1789 č. 35. Dům Malých č. 35: 1823 sňatek Barbory, dcery Josefa Malého a Barbory roz. Rottové (jiná generace ?)."
+        "Oddána 19. 1. 1806 v Otročiněvsi jako „Marye, dcera po † Jozefovi Malým z Otročiněvse“, 18 let (Hudlice 10 O pag. 84, sn. 45 vlevo; M, ověřeno koordinátorem) – „Am… č. 35“ (1807) a „z Woter…“ (1886) = Otročiněves. KANDIDÁT křtu (K+): 25. 7. 1785 Otročiněves č. 35 – „Marie Anna“, otec „Jozef Malý, chalupník …, poddaný panství Křivoklátského“, matka „Dorota“; kmotři Marie Hezková (?), selka hudlická, a Josef Peter (?), měšťan berounský; křtil P. Franciscus Ostreicher (Hudlice 01 N pag. 5, sn. 13 vpravo; rejstřík Hudlice 14 sn. 23; M pro zápis, ověřeno koordinátorem). ROZPOR věku: 1806 uvedeno 18 let, podle křtu 20. Sestra (?) Terezie *17. 11. 1789 č. 35. Dům Malých č. 35: 1823 sňatek Barbory, dcery Josefa Malého a Barbory roz. Rottové (jiná generace ?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 07 (N 1807–1822), fol. 1, snímek 3 – https://ebadatelna.soapraha.cz/d/9782/3",
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
-        "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45"
+        "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45",
+        "SOA Praha, fara Hudlice, Hudlice 01 (5787) N, pag. 5, sn. 13 vpravo (25. 7. 1785) – https://ebadatelna.soapraha.cz/d/5787/13"
       ],
       scans: [
         {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest Marie Novákové, Nová Huť 30. 6. 1807"},
-        {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek 19. 1. 1806, Otročiněves (fara Hudlice) – Josef Novák z Nové Huti × Marie Malá"}
+        {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek 19. 1. 1806, Otročiněves (fara Hudlice) – Josef Novák z Nové Huti × Marie Malá"},
+        {"f":"img/1785_krest_marie_mala.jpg","t":"Kandidátní křest 25. 7. 1785, Otročiněves č. 35 – otec Josef Malý, matka Dorota"}
       ]
     },
     {
@@ -15080,16 +15083,39 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true,"place":"Otročiněves (fara Hudlice)"},
+      spouse: "dorota_ml",
       alive: false,
-      occ: "domkář v Otročiněvsi č. 35 (?)",
+      occ: "chalupník v Otročiněvsi č. 35, poddaný panství Křivoklát",
       notes: [
-        "Otec Marie Novákové – při jejím sňatku 19. 1. 1806 „dcera po † Jozefovi Malým z Otročiněvse“ (Hudlice 10 O sn. 45 vlevo; M); při křtu vnučky 1807 „† Josef Malý, domkář v Am… (?) č. 35“. V r. 1806 už nežil. Děti podle rejstříku N Hudlice 14 (K): Marie 25. 7. 1785, Terezie 17. 11. 1789 (obě č. 35). Úmrtí hledat v Hudlice 01/12 Z."
+        "Otec Marie Novákové – při jejím sňatku 19. 1. 1806 „dcera po † Jozefovi Malým z Otročiněvse“ (Hudlice 10 O sn. 45 vlevo; M); při křtu vnučky 1807 „† Josef Malý, domkář v Am… (?) č. 35“. V r. 1806 už nežil. Děti podle rejstříku N Hudlice 14 (K): Marie 25. 7. 1785, Terezie 17. 11. 1789 (obě č. 35). Úmrtí hledat v Hudlice 01/12 Z.",
+        "Manželka Dorota (křest dcery Marie Anny 25. 7. 1785, Hudlice 01 sn. 13 vpravo; M). Úmrtí: v Z Hudlice 12, oddíl Otročiněves XI 1796 – IX 1806 (jen přehled) jediný kandidát 10. 11. 1801 „Josef Malý, Pintner (?)“, 48 let, č. 33 (?) (sn. 92 vlevo; K – dům nesedí); 1785 – X 1796 (Hudlice 01 Z) nečteno (Praha N230)."
       ],
       sources: [
-        "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45"
+        "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45",
+        "SOA Praha, fara Hudlice, Hudlice 01 (5787) N, pag. 5, sn. 13 vpravo (25. 7. 1785) – https://ebadatelna.soapraha.cz/d/5787/13"
       ],
       scans: [
-        {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek dcery Marie 19. 1. 1806, Otročiněves"}
+        {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek dcery Marie 19. 1. 1806, Otročiněves"},
+        {"f":"img/1785_krest_marie_mala.jpg","t":"Křest dcery Marie Anny 25. 7. 1785, Otročiněves č. 35"}
+      ]
+    },
+    {
+      id: "dorota_ml",
+      name: "Dorota Malá",
+      maiden: "",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      spouse: "josef_ml",
+      alive: false,
+      notes: [
+        "KANDIDÁTKA (K+): matka Marie Novákové – v kandidátním křtu 25. 7. 1785 Otročiněves č. 35 „matka Dorota“, manželka Josefa Malého, chalupníka (Hudlice 01 N sn. 13 vpravo; M pro zápis). Rodné příjmení neuvedeno. Nezaměňovat s Dorotou Malou † 29. 3. 1804 Otročiněves č. 22 (82 let)."
+      ],
+      sources: [
+        "SOA Praha, fara Hudlice, Hudlice 01 (5787) N, pag. 5, sn. 13 vpravo (25. 7. 1785) – https://ebadatelna.soapraha.cz/d/5787/13"
+      ],
+      scans: [
+        {"f":"img/1785_krest_marie_mala.jpg","t":"Křest dcery Marie Anny 25. 7. 1785, Otročiněves č. 35"}
       ]
     }
   ]
