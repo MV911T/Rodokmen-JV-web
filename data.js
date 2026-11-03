@@ -3998,7 +3998,8 @@ window.RODOKMEN = {
         {"f":"img/1834_krest_josef_klika_suchomasty_b.jpg","t":"Křest syna Josefa Kliky 1834 – matka, kmotři"},
         {"f":"img/1846_Z_Klika_Frantisek_Suchomasty.jpg","t":"Úmrtí 17. 10. 1846, Suchomasty 14"},
         {"f":"img/1846_N_Klika_Antonin_Suchomasty.jpg","t":"Křest syna Antonína 2. 9. 1846, Suchomasty 14"},
-        {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest dcery Barbory 1839, Suchomasty 14"}
+        {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest dcery Barbory 1839, Suchomasty 14"},
+        {"f":"img/1866_Z_Klikova_Anna_Suchomasty14.jpg","t":"Úmrtí manželky Anny, Suchomasty č. 14, 19. 9. 1866"}
       ]
     },
     {
@@ -4008,23 +4009,26 @@ window.RODOKMEN = {
       line: "svoboda",
       cert: "M",
       b: {"date":"asi 1808","year":1808,"approx":true,"place":"Suchomasty č. p. 14"},
-      d: {"date":"před 20. 1. 1880","year":1880,"approx":true},
+      d: {"date":"19. 9. 1866","year":1866,"place":"Suchomasty č. p. 14"},
+      cause: "porouchání mozku následkem spadnutí s kůry (?)",
       father: "vaclav_sv0",
       mother: "josefa_pr",
       spouse: "frantisek_kl",
       marriage: "14. 2. 1832, Suchomasty – s Františkem Klikou",
       notes: [
         "Pozůstalá dcera † Václava Svobody, domkáře v Suchomastech č. 14, a Josefy roz. Krayzové (?) (dřívější čtení „Prajzové“ se nepotvrdilo) ze Suchomast; při sňatku 1832 24 let.",
-        "Křest zatím nenalezen (Anny v Suchomastech 1802–1812 prověřeny); sourozenci v č. 14: Josef (*27. 2. 1808), Barbora (*~1810) – matka Josefa, dcera Jakuba Krejzího / Prajzího (?).",
+        "Křest zatím nenalezen (Anny v Suchomastech 1802–1812 prověřeny); sourozenci v č. 14: Josef (*27. 2. 1808), Barbora (*~1810) – matka Josefa, dcera Jakuba Krejzího / Prajzího (?). Podle úmrtního zápisu 1866 rodem z Málkova (viz níže).",
         "Ani v rejstříku narozených fary Borek 1784–1837 (Borek 11) není Anna z č. 14 – narozena jinde nebo pod jiným jménem.",
-        "Křest syna Antonína 2./3. 9. 1846 (Borek 09 N sn. 14): „Anna, dcera † Václava Svobody, domkáře z Suchomast č. 14“; rodné jméno matky Josefy čteno nejistě (M)."
+        "Křest syna Antonína 2./3. 9. 1846 (Borek 09 N sn. 14): „Anna, dcera † Václava Svobody, domkáře z Suchomast č. 14“; rodné jméno matky Josefy čteno nejistě (M).",
+        "Zemřela 19. 9. 1866 (pohřbena 21. 9. v Borku, farář František Wyšín) v Suchomastech č. 14: „Kliková Anna, domkářka z Suchomast č. d. 14, vdova po † Františkovi Klikovi, domkáři z Suchomast č. d. 14, a rozená Svobodová z Málkova“, 5? let 11 měs. 13 dní (druhá číslice nejistá, nejspíš 59 → *~X 1806) (Borek 15 Z sn. 83, pag. 162/163; rejstřík sn. 118 vlevo; M, ověřeno koordinátorem). Narozena tedy nejspíš v Málkově, ne v Suchomastech – vysvětluje, proč křest v Suchomastech a v rejstříku Borek 11 není. ROZPOR věku: úmrtí → *~X 1806 (8 měsíců po sňatku rodičů 19. 1. 1806, před bratrem Josefem 27. 2. 1808) × sňatek 1832 „24 let“ → *~1808."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 07 (N 1818–1837), pag. 247, snímek 126 – https://ebadatelna.soapraha.cz/d/4076/126",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, Borek 09 (4078), N sn. 14, pag. 22 (2. 9. 1846), https://ebadatelna.soapraha.cz/d/4078/14",
-        "SOA Praha, Borek 08 (4077), N sn. 23 vpravo, pag. 43/44 (1839), https://ebadatelna.soapraha.cz/d/4077/23"
+        "SOA Praha, Borek 08 (4077), N sn. 23 vpravo, pag. 43/44 (1839), https://ebadatelna.soapraha.cz/d/4077/23",
+        "SOA Praha, fara Borek, Borek 15 (4084) Z, sn. 83, pag. 162/163 (19. 9. 1866); rejstřík K sn. 118 vlevo – https://ebadatelna.soapraha.cz/d/4084/83"
       ],
       scans: [
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834"},
@@ -4032,7 +4036,8 @@ window.RODOKMEN = {
         {"f":"img/1832_snatek_frantisek_klika_suchomasty_a.jpg","t":"Sňatek Františka Kliky a Anny Svobodové, Suchomasty 14. 2. 1832 – ženich"},
         {"f":"img/1832_snatek_frantisek_klika_suchomasty_b.jpg","t":"Sňatek Františka Kliky a Anny Svobodové 1832 – nevěsta, svědci"},
         {"f":"img/1846_N_Klika_Antonin_Suchomasty.jpg","t":"Křest syna Antonína 2. 9. 1846, Suchomasty 14"},
-        {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest dcery Barbory 1839, Suchomasty 14"}
+        {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest dcery Barbory 1839, Suchomasty 14"},
+        {"f":"img/1866_Z_Klikova_Anna_Suchomasty14.jpg","t":"Úmrtí 19. 9. 1866, Suchomasty č. 14 – „rozená Svobodová z Málkova“"}
       ]
     },
     {
