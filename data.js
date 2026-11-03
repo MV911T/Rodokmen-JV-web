@@ -5272,20 +5272,23 @@ window.RODOKMEN = {
       notes: [
         "Pokřtěna 23. 11. 1776 (farář Filip Bílek) v Bykoši č. 10: „Klika Joannes rusticus Bikoschensis, Catharina uxor, subditi Suchomastenses“; kmotra Kateřina, manželka Jana Staňka, kováře z Bykoše, svědek Jakub Chvátal, mlynář suchomastský.",
         "Oddána 28. 6. 1797 s vdovcem Václavem Klikou ze Suchomast č. 12; ROZPOR věku: uvedeno 18 let, podle křtu 20½ (jiná Kateřina, dcera Jana Kliky z Bykoše, v indexu 1773–1784 není).",
-        "Sourozenci v Bykoši č. 10: Josef (1785), František (1789), František (1791)."
+        "Sourozenci v Bykoši č. 10: Josef (1785), František (1789), František (1791).",
+        "Podruhé oddána 27. 9. 1807 v Suchomastech: „Kateřina, pozůstalá vdova po † Václavovi Klikovi, sedláku suchomastském a poddaném téhož“, 32 (?) let, se svobodným Jiřím, vlastním synem Jana Buriana, …(?) suchomastského, a matky Anny, 24/29 (?) let; svědci Ondřej Burian a Matěj Burian ze Suchomast; oddával farář Václav Fr. Matějka (Borek 06 O Suchomasty sn. 65 vlevo, pag. 6; M, ověřeno koordinátorem). Rodiče nevěsty zápis neuvádí; ztotožnění: sedm měsíců po smrti Václava Kliky z č. 12 († 18. 2. 1807), jiný zemřelý Václav Klika-sedlák v té době není (K+). Věk 32 (?) proti křtu 1776 (30) – mírný ROZPOR. Další jméno: Burianová – hledat děti od 1808 a úmrtí pod Burianová (Praha N214)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), oddíl Suchomasty, snímek 63 – https://ebadatelna.soapraha.cz/d/4075/63",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (4075): O sn. 63 vlevo (28. 6. 1797), Z sn. 114 a 115 vlevo, N sn. 9 vlevo – https://ebadatelna.soapraha.cz/d/4075/63",
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 04 (4073), N, snímek 20 vpravo (23. 11. 1776) – https://ebadatelna.soapraha.cz/d/4073/20",
+        "SOA Praha, fara Borek, Borek 06 (4075) O Suchomasty sn. 65 vlevo, pag. 6 (27. 9. 1807) – https://ebadatelna.soapraha.cz/d/4075/65"
       ],
       scans: [
         {"f":"img/1776_N_Klikova_Katerina_Bykos.jpg","t":"Křest Kateřiny Klikové, Bykoš č. 10, 23. 11. 1776"},
         {"f":"img/1834_krest_josef_klika_suchomasty_a.jpg","t":"Křest Josefa Kliky, Suchomasty 1834 (dítě: František Klika)"},
         {"f":"img/1797_O_Klika_Vaclav_Katerina_Suchomasty.jpg","t":"Sňatek Václava Kliky (vdovce) s Kateřinou Klikovou z Bykoše (?), 28. 6. 1797"},
         {"f":"img/1803_krest_frantisek_klika_suchomasty_a.jpg","t":"Křest syna Františka Kliky, Suchomasty 6. 7. 1803"},
-        {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest syna Františka Kliky 1803 – kmotři"}
+        {"f":"img/1803_krest_frantisek_klika_suchomasty_b.jpg","t":"Křest syna Františka Kliky 1803 – kmotři"},
+        {"f":"img/1807_O_burian_klikova.jpg","t":"2. sňatek 27. 9. 1807, Suchomasty – s Jiřím Burianem"}
       ]
     },
     {
