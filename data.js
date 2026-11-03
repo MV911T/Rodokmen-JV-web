@@ -6621,7 +6621,7 @@ window.RODOKMEN = {
         "V lednu 1838 mlynářský tovaryš ve Zbečně č. 58 (křest syna Františka); syn Jana Vlasáka, nádeníka ve Zbečně č. 8.",
         "Oddán 22. 10. 1833 (fara Nižbor) jako mlynářský tovaryš ve Zbečně č. 36, 25 let, svobodný; syn Jana Vlasáka, domkáře z Hudlic (?), a Marie roz. Jarošové (?) z …brnice (?) č. 6.",
         "Praha N125: synové † ve Zbečno 23 – Václav Vlasák, mlynářský tovaryš, 1878 (38) a Jan Vlasák, mlynář č. 41, 1882 (48), „syn Jana Vlasáka, mlynáře N. 41, a Marie, dcery Josefa Nováka z Nové Huti N. 34“ (sn. 81, 84 vlevo; M) – další doklad k ROZPORU čísla domu 43/34 u Marie. Zápis 1882 ověřen koordinátorem, zápis 1878 čten jen agentem; měsíce nejisté.",
-        "Zemřel 24. 9. 1894 (pohřben 27. 9.) ve Zbečně č. 66 jako vdovec: „Vlasák Jan, mistr mlynářský a původce (?) mlýna v Sýkořici č. d. 41, syn † Jana Vlasáka, souseda ze Sýkořice č. d. 6, a Marie rozené Jonášovy ze Sýkořice č. 6“, 87 let 7 měs. 16 dní (→ 8. 2. 1807 – přesně den křtu) (Zbečno 31 (15005) Z fol. 67, sn. 69; rejstřík W sn. 260 vpravo; M, ověřeno koordinátorem). Manželka Marie roz. Nováková † před IX 1894."
+        "Zemřel 24. 9. 1894 (pohřben 27. 9.) ve Zbečně č. 66 jako vdovec: „Vlasák Jan, mistr mlynářský a původce (?) mlýna v Sýkořici č. d. 41, syn † Jana Vlasáka, souseda ze Sýkořice č. d. 6, a Marie rozené Jonášovy ze Sýkořice č. 6“, 87 let 7 měs. 16 dní (→ 8. 2. 1807 – přesně den křtu) (Zbečno 31 (15005) Z fol. 67, sn. 69; rejstřík W sn. 260 vpravo; M, ověřeno koordinátorem). Manželka Marie roz. Nováková † 23. 8. 1886."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
@@ -6634,7 +6634,8 @@ window.RODOKMEN = {
         {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
         {"f":"img/1807_krest_jan_nepomuk_vlasak_sykorice6_zbecno07_sn27_a.jpg","t":"Křest Jana Nepomuka Vlasáka, Sýkořice 8. 2. 1807"},
         {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest syna Františka Vlasáka, Zbečno 2. 1. 1838"},
-        {"f":"img/1894_Z_Vlasak_Jan_Zbecno66.jpg","t":"Úmrtí 24. 9. 1894, Zbečno č. 66 – rodiče"}
+        {"f":"img/1894_Z_Vlasak_Jan_Zbecno66.jpg","t":"Úmrtí 24. 9. 1894, Zbečno č. 66 – rodiče"},
+        {"f":"img/1886_Z_Vlasakova_Marie_rozNovakova_Zbecno66.jpg","t":"Úmrtí manželky Marie, 23. 8. 1886, Zbečno č. 66"}
       ]
     },
     {
@@ -6644,24 +6645,28 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"30. 6. 1807","year":1807,"place":"Nová Huť č. p. 43 (fara Nižbor)"},
+      d: {"date":"23. 8. 1886","year":1886,"place":"Zbečno č. p. 66"},
       father: "josef_nv",
       mother: "marie_ma",
       spouse: "jan_vl",
       marriage: "22. 10. 1833, Nová Huť (fara Nižbor) – s Janem Vlasákem",
       notes: [
         "Dcera Josefa Nováka z Nové Huti č. 34.",
-        "Narozena a pokřtěna 30. 6. 1807 v Nové Huti č. 43: otec Josef Novák, domkář (1833 „Hochofengesell“ – vysokopecní tovaryš), matka Marie, dcera † Josefa Malého, domkáře v Am… (?) č. 35. Oddána 22. 10. 1833 (25 let). ROZPOR čísla domu: 1807 a 1833 č. 43, v křtu syna 1838 č. 34."
+        "Narozena a pokřtěna 30. 6. 1807 v Nové Huti č. 43: otec Josef Novák, domkář (1833 „Hochofengesell“ – vysokopecní tovaryš), matka Marie, dcera † Josefa Malého, domkáře v Am… (?) č. 35. Oddána 22. 10. 1833 (25 let). ROZPOR čísla domu: 1807 a 1833 č. 43, v křtu syna 1838 č. 34.",
+        "Zemřela 23. 8. 1886 (pohřbena 25. 8.) ve Zbečně č. 66: „Marie, manželka Jana Wlasáka, bývalého mlynáře … N. 41, domkáře ve Zbečni N. 66, dcera Josefa Nowáka, hutníka v Nowé Huti N. 43, a Marie rozené Malý z Woter…“, 76 (?) let, doba manželství 53 let (Zbečno 31 (15005) Z fol. 27, sn. 29 vlevo; rejstřík W sn. 260 vpravo; M, ověřeno koordinátorem). Rodiče i manžel sedí; ROZPOR věku 76 (?) × křest 1807 (79)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 24 (N Sýkořice 1869–1919), snímek 7 – https://ebadatelna.soapraha.cz/d/8869/7",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 07 (N 1807–1822), fol. 1, snímek 3 – https://ebadatelna.soapraha.cz/d/9782/3",
-        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15"
+        "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
+        "SOA Praha, fara Zbečno, Zbečno 31 (15005) Z fol. 27, sn. 29 vlevo (23. 8. 1886) – https://ebadatelna.soapraha.cz/d/15005/29"
       ],
       scans: [
         {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest Marie Novákové, Nová Huť 30. 6. 1807"},
         {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
-        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest syna Františka Vlasáka, Zbečno 2. 1. 1838"}
+        {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest syna Františka Vlasáka, Zbečno 2. 1. 1838"},
+        {"f":"img/1886_Z_Vlasakova_Marie_rozNovakova_Zbecno66.jpg","t":"Úmrtí 23. 8. 1886, Zbečno č. 66 – rodiče"}
       ]
     },
     {
