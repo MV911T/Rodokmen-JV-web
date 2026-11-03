@@ -8112,7 +8112,8 @@ window.RODOKMEN = {
       occ: "švec v Sýkořicích č. 6",
       notes: [
         "Otec Marie Vlasákové (sňatek 1795) a Františka († 14. 2. 1809, 18 let). Zemřel 26. 8. 1800 v Sýkořicích č. 6 jako švec, 70 let, stářím.",
-        "Podruhé oddán asi 2x. 3. 1772 ve Zbečně jako vdovec (zapsán „Jonas Jann (?)“ – nejspíš chyba písaře), švec ze Sýkořic č. 6, s Josefou Blínovou (?) ze Sýkořic (Zbečno 04, sn. 360). 1. manželka Anna (syn Matěj *16. 9. 1770)."
+        "Podruhé oddán asi 2x. 3. 1772 ve Zbečně jako vdovec (zapsán „Jonas Jann (?)“ – nejspíš chyba písaře), švec ze Sýkořic č. 6, s Josefou Blínovou (?) ze Sýkořic (Zbečno 04, sn. 360). 1. manželka Anna (syn Matěj *16. 9. 1770).",
+        "Křest Matěje Jonáše není v rejstřících N Zbečno 02 (1715–1724, J i G) ani Zbečno 03 (1725–1748); rod Jonášů (Janošů ?) ve faře 1715–24 žil (fol. 18, 41, 55, 80). Jediný Matěj: „Matěj Šimon“, syn Václava Janoše × Anny, 8. 2. 1716 (Zbečno 02 sn. 17 vlevo; K−, věk nesedí s † 1800 „70 let“). 1. sňatek s Annou dosud nehledán (rejstřík O Zbečno 04 sn. 403 vpravo)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6",
@@ -8287,11 +8288,11 @@ window.RODOKMEN = {
       maiden: "Blínová (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      b: {"date":"neznámé (asi 1747, kandidátní křest – viz poznámky)","year":1747,"approx":true},
       spouse: "matej_jo",
       notes: [
         "Druhá manželka ševce Matěje Jonáše (sňatek ~2x. 3. 1772, „h. v. Josepha Blinin (?) e Sykořitz“); matka Marie (*1773) a Josefa (~1780). Rodiče v zápisu neuvedeni.",
-        "KANDIDÁT křtu (K): 1. VIII (narozena), 2. VIII pokřtěna [rok nepřečten, podle polohy v knize ~1746/47], Městečko – „Josepha Veronica Maria, honestorum Parentum Joannis Blín et Annae, Subditorum Pürglitzensium hujus Parochiae“; kmotra Josefa Obermayerová (?) z Křivoklátu, svědci Marie Stařničková (?) z Městečka, Jan Prošek (?) ze Zbečna; křtil Leopold Kameníček (Zbečno 04 N sn. 56 vpravo, pag. 105; rejstřík N B sn. 403 vpravo – jediná Josefa Blínová 1742–~1764; M pro zápis, ověřeno koordinátorem). Proti: v oddacím 1772 „e Sykořitz“, křest v Městečku."
+        "KANDIDÁT křtu (K): 1. VIII (narozena), 2. VIII pokřtěna 1747 (záhlaví „Anno 1747“ na pag. 100, měsíce plynule do pag. 105; Praha N168), Městečko – „Josepha Veronica Maria, honestorum Parentum Joannis Blín et Annae, Subditorum Pürglitzensium hujus Parochiae“; kmotra Josefa Obermayerová (?) z Křivoklátu, svědci Marie Stařničková (?) z Městečka, Jan Prošek (?) ze Zbečna; křtil Leopold Kameníček (Zbečno 04 N sn. 56 vpravo, pag. 105; rejstřík N B sn. 403 vpravo – jediná Josefa Blínová 1742–~1764; M pro zápis, ověřeno koordinátorem). Proti: v oddacím 1772 „e Sykořitz“, křest v Městečku."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245",
