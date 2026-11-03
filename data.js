@@ -5264,7 +5264,7 @@ window.RODOKMEN = {
       name: "Václav Svoboda",
       line: "svoboda",
       cert: "M",
-      b: {"date":"asi 1781","year":1781,"approx":true,"place":"Málkov"},
+      b: {"date":"22. 9. 1779","year":1779,"place":"Málkov č. p. 16 (fara Tmaň)"},
       d: {"date":"23. (?) 9. 1812","year":1812,"place":"Suchomasty č. p. 14"},
       cause: "velký otok",
       father: "matej_sv0",
@@ -5273,6 +5273,7 @@ window.RODOKMEN = {
       occ: "domkář v Suchomastech č. 14",
       marriage: "19. 1. 1806, Borek (Suchomasty č. 5) – s Josefou Krejčí",
       notes: [
+        "Narozen 22., pokřtěn 23. 9. 1779 v Málkově č. 16 (křtil Jan Nep. Fischer, tmaňský farář): „Wenceslaus | Mathias Swoboda inquilinus Malkoviensis, uxor ejus Anna, ambo subditi Dominio Tmanensi“; kmotr Jan Cundák (?) z Málkova, svědci Jiří Duchoň, podruh z Bykoše, a Anna, manželka Šimona Ju…zky (?) z Tmaně (Tmaň 02 N sn. 124 vlevo; M, ověřeno koordinátorem). Jediný Václav, syn Matěje × Anny, v Tmani VII 1779 – IX 1780 a v rejstříku N Borek 04 (1773–1784). Věky v pozdějších zápisech o rok nižší (1806 „25“, 1812 „32“). ROZPOR místa: křest dcery 1806 „rodaný Suchomastský“ – platí křest (Málkov).",
         "Oddán 19. 1. 1806 (fara Borek, dům č. 5), 25 let; vlastní syn Matěje Svobody, sedláka v Málkově, a Anny. Svědci Matěj Janda z Málkova a Václav Zelenka, chalupník z Koněprus.",
         "Domkář v Suchomastech č. 14; zemřel před 1832. Děti: Josef (*27. 2. 1808), Barbora (*8. 5. 1811), Anna (*6. 10. 1806 Želkovice č. 5, ⚭ 1832 František Klika).",
         "Zemřel 23. (?) 9. 1812 (pohřben 25. ?) Suchomasty č. 14: „Václav Svoboda, domkář, poddaný suchomastský“, 32 let, velký otok (Borek 06 Z sn. 122 vpravo, pag. 23; M, ověřeno koordinátorem; rok z nadpisů 1812/1813) – jméno, dům a věk sedí (25 v 1806); poslední známé dítě Barbora 1811. Dřívější „† před 1832“ upřesněno. Ztotožnění K+: v rejstříku N Borek 11 (II 1810 – III 1821) po Barboře 1811 žádné dítě Václav × Josefa; N Borek 06 VII 1813 – II 1818 bez č. 14 (částečně jen filtr domu). „Vdova“ nedoloženo.",
@@ -5282,9 +5283,11 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
         "SOA Praha, Borek 06 (4075), Z sn. 122 vpravo, pag. 23 (IX 1812), https://ebadatelna.soapraha.cz/d/4075/122",
-        "SOA Praha, fara Borek, Borek 06 (4075) N Želkovice, sn. 53 vpravo, pag. 99 (6. 10. 1806); rejstřík Borek 11 (4080) sn. 36 vpravo – https://ebadatelna.soapraha.cz/d/4075/53"
+        "SOA Praha, fara Borek, Borek 06 (4075) N Želkovice, sn. 53 vpravo, pag. 99 (6. 10. 1806); rejstřík Borek 11 (4080) sn. 36 vpravo – https://ebadatelna.soapraha.cz/d/4075/53",
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N, sn. 124 vlevo (22./23. 9. 1779) – https://ebadatelna.soapraha.cz/d/10456/124"
       ],
       scans: [
+        {"f":"img/1779_N_Svoboda_Vaclav_Malkov16.jpg","t":"Křest 23. 9. 1779, Málkov č. 16"},
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806"},
         {"f":"img/1806_N_Svobodova_Anna_Zelkovice5.jpg","t":"Křest dcery Anny, Želkovice č. 5, 6. 10. 1806"}
       ]
@@ -5938,13 +5941,16 @@ window.RODOKMEN = {
       occ: "sedlák v Málkově",
       notes: [
         "Otec Václava Svobody (*~1781).",
-        "Praha N116: křest syna Václava není v Tmaň 02 N 1781–82 a sňatek Svoboda × Anna/Alžběta není v O 1775–80 (střední negativ); Matěj, syn Tomáše Svobody z Tmaně × 1779 Barbora Růžičková (?) je spíš jiný (Tmaň 26). ROZPOR o matce nerozhodnut; zbývá N 1778–80, 1783, O 1771–75, Borek.",
-        "Praha N121 (K): 30. 3. 1849 † Josefa, vdova po † Matěji Svobodovi, vysloužilém sousedu z Málkova, rozená Lautlová (?), 90 let, č. 57 (Borek 14 Z sn. 78 vlevo; M) – snad další manželka (*~1759), nebo jiný Matěj; není Josefa Krejčí."
+        "Praha N116: křest syna Václava není v Tmaň 02 N 1781–82 (nalezen 1779, viz výše) a sňatek Svoboda × Anna/Alžběta není v O 1775–80 (střední negativ); Matěj, syn Tomáše Svobody z Tmaně × 1779 Barbora Růžičková (?) je spíš jiný (Tmaň 26). ROZPOR o matce nerozhodnut; zbývá N 1778–80, 1783, O 1771–75, Borek.",
+        "Praha N121 (K): 30. 3. 1849 † Josefa, vdova po † Matěji Svobodovi, vysloužilém sousedu z Málkova, rozená Lautlová (?), 90 let, č. 57 (Borek 14 Z sn. 78 vlevo; M) – snad další manželka (*~1759), nebo jiný Matěj; není Josefa Krejčí.",
+        "V září 1779 podruh (inquilinus) v Málkově č. 16, manželka Anna (křest syna Václava; Tmaň 02 N sn. 124 vlevo; M); v oddacím zápisu syna 1806 „sedlák v Málkově“. Rejstřík O Borek 04 (S) Svobodu nemá; Tmaň 02 O 1771–74 (sn. 192–193) stažena, nečtena."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N, sn. 124 vlevo (22./23. 9. 1779) – https://ebadatelna.soapraha.cz/d/10456/124"
       ],
       scans: [
+        {"f":"img/1779_N_Svoboda_Vaclav_Malkov16.jpg","t":"Křest syna Václava, 23. 9. 1779, Málkov č. 16"},
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Václav Svoboda)"}
       ]
     },
@@ -5959,9 +5965,11 @@ window.RODOKMEN = {
         "Matka Václava Svobody (*~1781); rodné příjmení neuvedeno."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N, sn. 124 vlevo (22./23. 9. 1779) – https://ebadatelna.soapraha.cz/d/10456/124"
       ],
       scans: [
+        {"f":"img/1779_N_Svoboda_Vaclav_Malkov16.jpg","t":"Křest syna Václava, 23. 9. 1779, Málkov č. 16"},
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Václav Svoboda)"}
       ]
     },
