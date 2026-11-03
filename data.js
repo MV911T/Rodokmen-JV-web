@@ -2823,7 +2823,8 @@ window.RODOKMEN = {
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_a.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795"},
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"},
         {"f":"img/1873_Z_Capkova_Marie_vdova_Jesenik.jpg","t":"Úmrtí manželky Marie (vdovy), Hrubý Jeseník 24. 11. 1873"},
-        {"f":"img/1855_Z_Capek_Jan_Jesenik.jpg","t":"Úmrtí 1. 5. 1855, Hrubý Jeseník č. 70"}
+        {"f":"img/1855_Z_Capek_Jan_Jesenik.jpg","t":"Úmrtí 1. 5. 1855, Hrubý Jeseník č. 70"},
+        {"f":"img/1791_O_Capek_Jan_Bukvajova_Barbora_Bosin_a.jpg","t":"Sňatek rodičů Jana Čapka a Barbory Bukvajové, 8. 7. 1791, Bošín"}
       ]
     },
     {
@@ -5337,24 +5338,29 @@ window.RODOKMEN = {
       name: "Jan Čapek",
       line: "capek",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      b: {"date":"neznámé (asi 1766 – 25 let při sňatku 1791)","year":1766,"approx":true},
       d: {"date":"před 13. 2. 1816","year":1816,"approx":true},
       spouse: "barbora_bu",
       occ: "familiant v Hrubém Jeseníku",
+      marriage: "8. 7. 1791, Bošín – s Barborou Bukvajovou",
       notes: [
         "Otec Jana Čapka (*~1795).",
-        "Děti podle indexu křtů Hrubý Jeseník: Anna (1793), Jan (1795), Anna (~1795/96). Sňatek s Barborou zatím nenalezen (kandidát 23. 6. 1788 se při čtení v plném rozlišení nepotvrdil – ženich „Peška/Pejška (?)“).",
-        "Sňatek Jana Čapka × Barbory ve faře Hrubý Jeseník 1788–1792 není (HJ 08 Jeseník, HJ 09 Jíkev – jen jiní Janové Čapkové z Jíkve č. 66, HJ 11 Oskořínek a Ronov VII 1788 – I 1794, HJ 13 Nový Dvůr 1788–1799); první dítě Anna *28. 2. 1793, Jeseník č. 48 (HJ 08 N sn. 24; M). Sňatek nejspíš v nevěstině faře (Bošín ?)."
+        "Oddán 8. 7. 1791 v Bošíně (oddával kaplan Symphorian Haaber): „Jann po neboštíku Jozeffowi Czapkowi syn ze wsy Gessenika“, 25 let, svobodný × „Barbora po † Janowy Bukwagowy ze wsy Boſſyna“, 21 let, svobodná; svědci Franc Fischer (?), Franz Ostrel (?), soused (Bošín 01 (4139) O sn. 74, pag. 72; M, ověřeno koordinátorem). Bošín patřil do 1787 k faře Křinec, od 1788 má vlastní knihy. Otec Josef Čapek z Jeseníka † před VII 1791.",
+        "Děti podle indexu křtů Hrubý Jeseník: Anna (1793), Jan (1795). Položky „Čapka Jana, Anna 56“ a „Čapka Jozefa, Jan 56“ patří do Jíkve 1799 (jiní Čapkové, N158).",
+        "KANDIDÁT otce (K, neověřeno): Josef Čapek, chalupník v Hrubém Jeseníku × Dorota (karta Josefa Čapka *~1725; děti podle indexu 1735–1763, „možná dva Josefové“) – pak by Jan byl bratr Karla Čapka *1753 a jeho syn Jan *1795 by si vzal Karlovu dceru Marii (implex). Rozhodne křest Jana ~1766 (HJ, rejstřík N 1764–1769) nebo úmrtí Josefa před 1791."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222",
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31",
-        "SOA Praha, fara Hrubý Jeseník, HJ 08 (5728) N, sn. 24 (1. 3. 1793) – https://ebadatelna.soapraha.cz/d/5728/24"
+        "SOA Praha, fara Hrubý Jeseník, HJ 08 (5728) N, sn. 24 (1. 3. 1793) – https://ebadatelna.soapraha.cz/d/5728/24",
+        "SOA Praha, Bošín 01 (4139) O, sn. 74, pag. 72 (8. 7. 1791) – https://ebadatelna.soapraha.cz/d/4139/74"
       ],
       scans: [
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_a.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795"},
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"},
-        {"f":"img/1793_N_Capkova_Anna_HrubyJesenik48.jpg","t":"Křest dcery Anny 1. 3. 1793, Hrubý Jeseník č. 48"}
+        {"f":"img/1793_N_Capkova_Anna_HrubyJesenik48.jpg","t":"Křest dcery Anny 1. 3. 1793, Hrubý Jeseník č. 48"},
+        {"f":"img/1791_O_Capek_Jan_Bukvajova_Barbora_Bosin_a.jpg","t":"Sňatek 8. 7. 1791, Bošín – ženich"},
+        {"f":"img/1791_O_Capek_Jan_Bukvajova_Barbora_Bosin_b.jpg","t":"Sňatek 8. 7. 1791, Bošín – nevěsta, svědci"}
       ]
     },
     {
@@ -5597,23 +5603,30 @@ window.RODOKMEN = {
     {
       id: "barbora_bu",
       name: "Barbora Čapková",
-      maiden: "Bukvajová (?)",
+      maiden: "Bukvajová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      b: {"date":"neznámé (asi 1770; kandidátní křest 7. 1. 1773 – viz poznámky)","year":1770,"approx":true,"place":"Bošín"},
       spouse: "jan_c0",
+      marriage: "8. 7. 1791, Bošín – s Barborou Bukvajovou",
       notes: [
         "Matka Jana Čapka (*1795); příjmení a obec nejisté – 1793 i 1795 „Barbora rozená Bukwagowa / Fukwagowa (?) z Boſſina (?)“ (Bošín ?; dříve čteno „z Bopřina“).",
-        "Sňatek Jana Čapka × Barbory ve faře Hrubý Jeseník 1788–1792 není (HJ 08 Jeseník, HJ 09 Jíkev – jen jiní Janové Čapkové z Jíkve č. 66, HJ 11 Oskořínek a Ronov VII 1788 – I 1794, HJ 13 Nový Dvůr 1788–1799); první dítě Anna *28. 2. 1793, Jeseník č. 48 (HJ 08 N sn. 24; M). Sňatek nejspíš v nevěstině faře (Bošín ?)."
+        "Oddán 8. 7. 1791 v Bošíně (oddával kaplan Symphorian Haaber): „Jann po neboštíku Jozeffowi Czapkowi syn ze wsy Gessenika“, 25 let, svobodný × „Barbora po † Janowy Bukwagowy ze wsy Boſſyna“, 21 let, svobodná; svědci Franc Fischer (?), Franz Ostrel (?), soused (Bošín 01 (4139) O sn. 74, pag. 72; M, ověřeno koordinátorem). Bošín patřil do 1787 k faře Křinec, od 1788 má vlastní knihy.",
+        "KANDIDÁT křtu (K+): 7. 1. 1773 Bošín č. 21 – „Barbara | Bugwai Joannes, Casarius, et Dorothea uxor, subditi Křinecenses“; kmotra Barbara, manželka krejčího Jindřicha Svobody; svědci Pavel Knittl, domkář z Bošína, a Anna, manželka sedláka Václava Bomby (?) z Podlužan (Křinec 03 (7326) N sn. 157 vlevo; rejstřík B sn. 254 – jediná Barbora Bukvajová 1747–1788; M pro zápis, ověřeno koordinátorem). Otec Jan sedí na „po † Janovi“ (1791). ROZPOR věku: sňatek 1791 „21 let“ → *~1770 × křest 1773 (18 let)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31",
-        "SOA Praha, fara Hrubý Jeseník, HJ 08 (5728) N, sn. 24 (1. 3. 1793) – https://ebadatelna.soapraha.cz/d/5728/24"
+        "SOA Praha, fara Hrubý Jeseník, HJ 08 (5728) N, sn. 24 (1. 3. 1793) – https://ebadatelna.soapraha.cz/d/5728/24",
+        "SOA Praha, Bošín 01 (4139) O, sn. 74, pag. 72 (8. 7. 1791) – https://ebadatelna.soapraha.cz/d/4139/74",
+        "SOA Praha, fara Křinec, Křinec 03 (7326) N, sn. 157 vlevo (7. 1. 1773) – https://ebadatelna.soapraha.cz/d/7326/157"
       ],
       scans: [
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_a.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795"},
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"},
-        {"f":"img/1793_N_Capkova_Anna_HrubyJesenik48.jpg","t":"Křest dcery Anny 1. 3. 1793, Hrubý Jeseník č. 48"}
+        {"f":"img/1793_N_Capkova_Anna_HrubyJesenik48.jpg","t":"Křest dcery Anny 1. 3. 1793, Hrubý Jeseník č. 48"},
+        {"f":"img/1791_O_Capek_Jan_Bukvajova_Barbora_Bosin_a.jpg","t":"Sňatek 8. 7. 1791, Bošín – ženich"},
+        {"f":"img/1791_O_Capek_Jan_Bukvajova_Barbora_Bosin_b.jpg","t":"Sňatek 8. 7. 1791, Bošín – nevěsta, svědci"},
+        {"f":"img/1773_N_Bukvajova_Barbora_Bosin21.jpg","t":"Kandidátní křest 7. 1. 1773, Bošín č. 21 – Jan Bukvaj × Dorota"}
       ]
     },
     {
