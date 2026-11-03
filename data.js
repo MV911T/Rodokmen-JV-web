@@ -14575,13 +14575,16 @@ window.RODOKMEN = {
       spouse: "veronika_ruz",
       alive: false,
       notes: [
-        "Otec Barbory podle oddacího zápisu 28. (?) 11. 1763: „Barbara filia defuncti Francisci Ruzizka, oriunda Bugovio“ – † před XI 1763 (Zbečno 04 O sn. 340 vpravo; M)."
+        "Otec Barbory podle oddacího zápisu 28. (?) 11. 1763: „Barbara filia defuncti Francisci Ruzizka, oriunda Bugovio“ – † před XI 1763 (Zbečno 04 O sn. 340 vpravo; M).",
+        "KANDIDÁT sňatku (K+): 12. 11. [1724, rok ze sledu – „Anno 1724“ o dva snímky dříve], nadpis „z Bukowi“ – „oddán gest skrz troji ohlášení Frantz Ružizka s Weronikau, dcerau otce Ha…(?) Jana z Bud…(?)“; družba Jan …(?), smlouvčí Václav Krauss (?), stará svatby Dorota Mrázková (?) (Zbečno 02 O sn. 115 vpravo, fol. 112; M pro zápis, ověřeno koordinátorem; příjmení otce nevěsty nečitelné). Shoda: obec Bukov, jména obou manželů (křest Barbory 1738); mezi sňatkem a křtem 13 let. František Růžička „z Lažic“ byl 1719–1723 pětkrát družbou (ztotožnění jen podle jména)."
       ],
       sources: [
-        "SOA Praha, Zbečno 04 (8849), O sn. 340 vpravo, pag. 39 (XI 1763), https://ebadatelna.soapraha.cz/d/8849/340"
+        "SOA Praha, Zbečno 04 (8849), O sn. 340 vpravo, pag. 39 (XI 1763), https://ebadatelna.soapraha.cz/d/8849/340",
+        "SOA Praha, fara Zbečno, Zbečno 02 (8792) O, sn. 115 vpravo, fol. 112 (12. 11. 1724 ?) – https://ebadatelna.soapraha.cz/d/8792/115"
       ],
       scans: [
-        {"f":"img/1763_O_Sklenicka_Vaclav_Ruzickova_Barbora.jpg","t":"Sňatek dcery Barbory, 28. (?) 11. 1763, Branov / Bukov"}
+        {"f":"img/1763_O_Sklenicka_Vaclav_Ruzickova_Barbora.jpg","t":"Sňatek dcery Barbory, 28. (?) 11. 1763, Branov / Bukov"},
+        {"f":"img/1724_O_Ruzicka_Frantisek_Veronika_Bukov.jpg","t":"Kandidátní sňatek Františka Růžičky a Veroniky, 12. 11. 1724, Bukov"}
       ]
     },
     {
@@ -14614,13 +14617,16 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
       alive: false,
       notes: [
-        "KANDIDÁT (K+): matka Barbory v křtu 6. 1. 1738 „Weronika (?)“, Bukov (Zbečno 03 N sn. 136 vpravo; M pro zápis, ověřeno koordinátorem)."
+        "KANDIDÁT (K+): matka Barbory v křtu 6. 1. 1738 „Weronika (?)“, Bukov (Zbečno 03 N sn. 136 vpravo; M pro zápis, ověřeno koordinátorem).",
+        "KANDIDÁT sňatku (K+): 12. 11. [1724, rok ze sledu – „Anno 1724“ o dva snímky dříve], nadpis „z Bukowi“ – „oddán gest skrz troji ohlášení Frantz Ružizka s Weronikau, dcerau otce Ha…(?) Jana z Bud…(?)“; družba Jan …(?), smlouvčí Václav Krauss (?), stará svatby Dorota Mrázková (?) (Zbečno 02 O sn. 115 vpravo, fol. 112; M pro zápis, ověřeno koordinátorem; příjmení otce nevěsty nečitelné). Shoda: obec Bukov, jména obou manželů (křest Barbory 1738); mezi sňatkem a křtem 13 let. František Růžička „z Lažic“ byl 1719–1723 pětkrát družbou (ztotožnění jen podle jména)."
       ],
       sources: [
-        "SOA Praha, Zbečno 03 (8794), N sn. 136 vpravo, fol. 133 (6. 1. 1738), https://ebadatelna.soapraha.cz/d/8794/136"
+        "SOA Praha, Zbečno 03 (8794), N sn. 136 vpravo, fol. 133 (6. 1. 1738), https://ebadatelna.soapraha.cz/d/8794/136",
+        "SOA Praha, fara Zbečno, Zbečno 02 (8792) O, sn. 115 vpravo, fol. 112 (12. 11. 1724 ?) – https://ebadatelna.soapraha.cz/d/8792/115"
       ],
       scans: [
-        {"f":"img/1738_N_Ruzickova_Barbora.jpg","t":"Kandidátní křest Barbory 6. 1. 1738, Bukov"}
+        {"f":"img/1738_N_Ruzickova_Barbora.jpg","t":"Kandidátní křest Barbory 6. 1. 1738, Bukov"},
+        {"f":"img/1724_O_Ruzicka_Frantisek_Veronika_Bukov.jpg","t":"Kandidátní sňatek Františka Růžičky a Veroniky, 12. 11. 1724, Bukov"}
       ]
     }
   ]
