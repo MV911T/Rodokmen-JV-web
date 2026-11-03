@@ -5343,15 +5343,18 @@ window.RODOKMEN = {
       occ: "familiant v Hrubém Jeseníku",
       notes: [
         "Otec Jana Čapka (*~1795).",
-        "Děti podle indexu křtů Hrubý Jeseník: Anna (1793), Jan (1795), Anna (~1795/96). Sňatek s Barborou zatím nenalezen (kandidát 23. 6. 1788 se při čtení v plném rozlišení nepotvrdil – ženich „Peška/Pejška (?)“)."
+        "Děti podle indexu křtů Hrubý Jeseník: Anna (1793), Jan (1795), Anna (~1795/96). Sňatek s Barborou zatím nenalezen (kandidát 23. 6. 1788 se při čtení v plném rozlišení nepotvrdil – ženich „Peška/Pejška (?)“).",
+        "Sňatek Jana Čapka × Barbory ve faře Hrubý Jeseník 1788–1792 není (HJ 08 Jeseník, HJ 09 Jíkev – jen jiní Janové Čapkové z Jíkve č. 66, HJ 11 Oskořínek a Ronov VII 1788 – I 1794, HJ 13 Nový Dvůr 1788–1799); první dítě Anna *28. 2. 1793, Jeseník č. 48 (HJ 08 N sn. 24; M). Sňatek nejspíš v nevěstině faře (Bošín ?)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222",
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31",
+        "SOA Praha, fara Hrubý Jeseník, HJ 08 (5728) N, sn. 24 (1. 3. 1793) – https://ebadatelna.soapraha.cz/d/5728/24"
       ],
       scans: [
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_a.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795"},
-        {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"}
+        {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"},
+        {"f":"img/1793_N_Capkova_Anna_HrubyJesenik48.jpg","t":"Křest dcery Anny 1. 3. 1793, Hrubý Jeseník č. 48"}
       ]
     },
     {
@@ -5600,14 +5603,17 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
       spouse: "jan_c0",
       notes: [
-        "Matka Jana Čapka (*1795); příjmení a obec („z Bopřina (?)“) nejisté."
+        "Matka Jana Čapka (*1795); příjmení a obec nejisté – 1793 i 1795 „Barbora rozená Bukwagowa / Fukwagowa (?) z Boſſina (?)“ (Bošín ?; dříve čteno „z Bopřina“).",
+        "Sňatek Jana Čapka × Barbory ve faře Hrubý Jeseník 1788–1792 není (HJ 08 Jeseník, HJ 09 Jíkev – jen jiní Janové Čapkové z Jíkve č. 66, HJ 11 Oskořínek a Ronov VII 1788 – I 1794, HJ 13 Nový Dvůr 1788–1799); první dítě Anna *28. 2. 1793, Jeseník č. 48 (HJ 08 N sn. 24; M). Sňatek nejspíš v nevěstině faře (Bošín ?)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31"
+        "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, pag. 54/55, snímek 31 – https://ebadatelna.soapraha.cz/d/5728/31",
+        "SOA Praha, fara Hrubý Jeseník, HJ 08 (5728) N, sn. 24 (1. 3. 1793) – https://ebadatelna.soapraha.cz/d/5728/24"
       ],
       scans: [
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_a.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795"},
-        {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"}
+        {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"},
+        {"f":"img/1793_N_Capkova_Anna_HrubyJesenik48.jpg","t":"Křest dcery Anny 1. 3. 1793, Hrubý Jeseník č. 48"}
       ]
     },
     {
