@@ -9410,6 +9410,8 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"18. 12. 1776 (?)","year":1776,"place":"Seletice č. p. 40 (fara Mcely)"},
+      d: {"date":"23. 3. 1849","year":1849,"place":"Pojedy č. p. 9"},
+      cause: "sešlost věkem (Alters-Schwäche)",
       father: "jiri_jr",
       mother: "marie_vk",
       marriage: "24. 7. 1796 – s Janem Šnejdrem",
@@ -9417,7 +9419,8 @@ window.RODOKMEN = {
         "Pokřtěna nejspíš 18. 12. 1776 v Seleticích č. 40 (fara Mcely): Anna, dcera Jiřího Jírka (Girsku) a Marie; kmotři Marie Kaněrová (?) a Jan Sobota; křtil Václav Schrámek. Ztotožnění D: otec Jiří sedí s oddacím zápisem 1796, věk 1796 (18) o 1½ roku podhodnocen; jiná Anna, dcera Jiřího, XII 1774 – II 1781 není. Vyloučena Anna pokřtěná 18. 8. 1777 v Seleticích č. 11 (otec Jan × Kateřina). V úmrtích Mcely XII 1776 – VI 1781 není (sestra Marie *30. 3. 1780 zemřela 7. 4. 1780, Seletice 40); neověřeno: dům 1776 č. 40, 1796 č. 62.",
         "Oddána 24. 7. 1796 v Seleticích č. 62 (fara Mcely), 18 let, s Janem Šnejdrem z Pojed.",
         "Dcera † Jiřího Jírka, chalupníka ze Seletic (křest syna Václava 1817; také sňatek 1839 a křest vnučky 1852). Manželka Jana Šnejdra z Pojed č. 9.",
-        "„Šídková (?)“ z křtu vnuka 1846 = chybné čtení (J a Š si v ruce děkana Horetzkého podobné)."
+        "„Šídková (?)“ z křtu vnuka 1846 = chybné čtení (J a Š si v ruce děkana Horetzkého podobné).",
+        "Zemřela 23. 3. 1849 (pohřbena 26. 3.) v Pojedech č. 9: „Anna Šnejdrová, vdova po † Janu Šnejdrovi, chalupníku z Pojedí“, 80 let, sešlost věkem (Rožďalovice 15 (11200) Z sn. 106 vlevo, fol. 122; rejstřík Rožďalovice 37 S sn. 245 vlevo; M, ověřeno koordinátorem). ROZPOR věku: 80 → *~1769 × křest 18. 12. 1776 (72 let); dům č. 9 = dům manžela († 1826). Pozor: Anna Šnejdrová, žebračka z Podolí, † 12. 1. 1840 (80) je jiná."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 07 (11187), oddíl Pojedy, fol. 264, snímek 253 – https://ebadatelna.soapraha.cz/d/11187/253",
@@ -9426,14 +9429,16 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 11 (11194), oddíl Žitovlice, fol. 129, snímek 95 – https://ebadatelna.soapraha.cz/d/11194/95",
         "SOA Praha, ř.-k. fara Mcely, kniha Mcely 11 (8412, O Seletice), fol. 7, snímek 6 vpravo (24. 7. 1796) – https://ebadatelna.soapraha.cz/d/8412/6",
         "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402, N 1759–1784), fol. 95, snímek 49 vpravo (18. 8. 1777) – https://ebadatelna.soapraha.cz/d/8402/49",
-        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 91, snímek 47 vpravo (18. 12. 1776) – https://ebadatelna.soapraha.cz/d/8402/47"
+        "SOA Praha, ř.-k. fara Mcely, kniha Mcely 01 (8402), fol. 91, snímek 47 vpravo (18. 12. 1776) – https://ebadatelna.soapraha.cz/d/8402/47",
+        "SOA Praha, fara Rožďalovice, Rožďalovice 15 (11200) Z sn. 106 vlevo, fol. 122 (23. 3. 1849) – https://ebadatelna.soapraha.cz/d/11200/106"
       ],
       scans: [
         {"f":"img/1776_N_Jirkova_Anna_Seletice40.jpg","t":"Křest Anny Jírkové, Seletice č. 40, 18. 12. 1776 (otec Jiří, matka Marie)"},
         {"f":"img/1796_O_Snejdr_Jan_Jirkova_Anna.jpg","t":"Sňatek Jana Šnejdra z Pojed s Annou Jírkovou, Seletice 24. 7. 1796"},
         {"f":"img/1817_N_Snejdr_Vaclav_Pojedy.jpg","t":"Křest Václava Šnejdra, Pojedy č. 9, 26. 11. 1817"},
         {"f":"img/1846_N_Snejdr_Frantisek_Pojedy.jpg","t":"Křest Františka Šnejdra (bratra Františky), Pojedy č. 9, 21. 12. 1846"},
-        {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"}
+        {"f":"img/1852_N_Snejdrova_Frantiska_Pojedy.jpg","t":"Křest Františky Šnejdrové, Pojedy č. 9, 22. 11. 1852"},
+        {"f":"img/1849_Z_Snejdrova_Anna_Pojedy9.jpg","t":"Úmrtí 23. 3. 1849, Pojedy č. 9"}
       ]
     },
     {
