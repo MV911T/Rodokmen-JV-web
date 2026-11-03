@@ -14225,7 +14225,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1655)","year":1655,"approx":true,"place":"Zdice (?)"},
       notes: [
         "KANDIDÁT (K+): otec Václava Merhauta – křest 1. 7. 1687 Zdice „Waczlaw, Kryštoffa Merhauta, souseda, a Anny manželův“ (Žebrák 02 N sn. 61 vpravo; M). Soused (usedlík) ve Zdicích.",
-        "Sňatek s Annou není v Žebrák 02 O I 1681 – V 1687 (Praha N62–N63; V–IX 1686 v knize chybí, V–IX 1681 vybledlé) → před 1681 nebo jinde. Ve Zdicích tehdy Jan Merhaut se syny Jakubem (× ~I 1684 Kateřina), Matějem (× I 1687 Kateřina Hejnová ?) a dcerou Lidmilou (?) (× II 1682) – Kryštof snad též jeho syn (K). Svědkyně „Anna Merhautová z Bavoryně“ VII 1687 – snad jeho manželka (K). Úmrtí nehledáno."
+        "Sňatek s Annou není v Žebrák 02 O I 1681 – V 1687 (Praha N62–N63; V–IX 1686 v knize chybí, V–IX 1681 vybledlé) → před 1681 nebo jinde. Ve Zdicích tehdy Jan Merhaut se syny Jakubem (× ~I 1684 Kateřina), Matějem (× I 1687 Kateřina Hejnová ?) a dcerou Lidmilou (?) (× II 1682) – Kryštof snad též jeho syn (K). Svědkyně „Anna Merhautová z Bavoryně“ VII 1687 – snad jeho manželka (K). Úmrtí nehledáno.",
+        "Praha N217: úmrtí Kryštofa ani Anny není v Žebrák 02 (9731) Z I 1687 – XI 1691 (sn. 338–346; střední jistota). Merhautové ve Zdicích v té době (Z, M zápis): Jakub × Kateřina (dcera Dorota † 1689), Matěj × Kateřina (Ludmila † 1689), Šebestián × Anna Marie (Jan Šebestián † VI 1691, Dorota † VIII 1691). Zbývá Z XII 1691 – 1711 (sn. 347–~385)."
       ],
       sources: [
         "SOA Praha, Žebrák 02 (9731) N, sn. 61 vpravo, fol. 72 (1. 7. 1687), https://ebadatelna.soapraha.cz/d/9731/61"
