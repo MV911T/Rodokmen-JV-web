@@ -14968,7 +14968,7 @@ window.RODOKMEN = {
       maiden: "Maršová (?)",
       line: "nezname",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1685)","year":1685,"place":"Roztoky (?)","approx":true},
+      b: {"date":"asi 1675 (kandidátní křest 13. 2. 1675 – viz poznámky)","year":1675,"place":"Roztoky (?) (fara Zbečno)","approx":true},
       spouse: "jiri_skl1",
       alive: false,
       marriage: "9. 2. 1709, Branov – 2. sňatek, s Jiřím Skleničkou; 1. manžel Martin Horn z Branova",
@@ -14977,7 +14977,8 @@ window.RODOKMEN = {
         "Vdova po Martinu Hornovi z Branova; 9. 2. 1709 se provdala za mládence Jiřího, syna Jiříka Skleničky z Branova (Zbečno 01 O sn. 395 vpravo; M pro zápis, ověřeno koordinátorem). Rodné příjmení v zápisu není – hledat sňatek s Martinem Hornem a jeho úmrtí (Zbečno 01, před II 1709).",
         "1. manžel: „Martin Horn mladší z Branova“ zemřel 28. 12. 1708 (Zbečno 01 Z sn. 487 vlevo; rok ze sledu nadpisů; věk neuveden; čteno agentem) – Ludmila se znovu vdala po šesti týdnech. 26. 1. 1709 zemřela jiná „Lydmilla Hornová z Branova“ (snad tchyně); 6. 3. 1703 zemřel Pavel Horn, starý soused branovský, 90 let (sn. 484 vpravo). Sňatek Martina Horna s Ludmilou není v Zbečno 01 O XI 1696 – II 1710 (Praha N206–N208).",
         "Manželka Martina Horna mladšího doložena křtem dcery: 11. 10. 1703 z Branova „Martinovi Mladšímu Hornovi z Lydmilly manželky jeho … dcera … Marij Magdalena“; kmotra Marie Magdalena Šimanka (?), šafářka z Nezabudic, svědci Dorota Topinková a Jan Syka (?) z Nezabudic (Zbečno 01 N sn. 284 vpravo, pag. 309; M, ověřeno koordinátorem).",
-        "KANDIDÁT původu (K+): 9. 9. 1696 z Branova – „oddán jest poctivý mládenec Martin, vlastní syn Jana Horna z Branova, s poctivou pannou, vlastní dcerou Václava Marše z Roztok“ – křestní jméno nevěsty v zápisu chybí; svědek Václav Sklenička z Roztok (Zbečno 01 O sn. 367 vlevo/vpravo, pag. 391v–392; M pro zápis, ověřeno koordinátorem). Jediný sňatek Martina Horna v O XI 1692 – II 1710 → Ludmila byla nejspíš roz. Maršová z Roztok; potvrdit křty dětí Martina Horna × Ludmily (1697–1708). Pozor: v Branově současně Martin Horn starší × Magdalena (děti Pavel 6. 4. 1704, Ludmila 30. 3. 1705; kmotra Ludmila Maršová, krčmářka z Branova) – nevěsta 1696 mohla být i Magdalena; nerozhodnuto (Praha N210). Praha N211: první dítě páru Martin Horn mladší × Ludmila je syn Pavel, pokřtěný 11. 8. 1697 v Branově (11 měsíců po sňatku 9. 9. 1696; kmotr Pavel Šiman (?), šafář z Nezabudic; Zbečno 01 N sn. 234 vpravo; M, ověřeno koordinátorem); pár Martin Horn (sedlář ?) × Magdalena měl syna Jiřího už 18. 4. 1697 (sn. 232 vpravo) a dceru Kateřinu 25. 1. 1699 → sňatek 1696 patří spíš Martinovi mladšímu a Ludmile. V Branově 1696–1704 Václav Marš × Ludmila (krčmář), děti 1696, 1698, 1704 – jiný (mladší) Václav nebo bratr nevěsty."
+        "KANDIDÁT původu (K+): 9. 9. 1696 z Branova – „oddán jest poctivý mládenec Martin, vlastní syn Jana Horna z Branova, s poctivou pannou, vlastní dcerou Václava Marše z Roztok“ – křestní jméno nevěsty v zápisu chybí; svědek Václav Sklenička z Roztok (Zbečno 01 O sn. 367 vlevo/vpravo, pag. 391v–392; M pro zápis, ověřeno koordinátorem). Jediný sňatek Martina Horna v O XI 1692 – II 1710 → Ludmila byla nejspíš roz. Maršová z Roztok; potvrdit křty dětí Martina Horna × Ludmily (1697–1708). Pozor: v Branově současně Martin Horn starší × Magdalena (děti Pavel 6. 4. 1704, Ludmila 30. 3. 1705; kmotra Ludmila Maršová, krčmářka z Branova) – nevěsta 1696 mohla být i Magdalena; nerozhodnuto (Praha N210). Praha N211: první dítě páru Martin Horn mladší × Ludmila je syn Pavel, pokřtěný 11. 8. 1697 v Branově (11 měsíců po sňatku 9. 9. 1696; kmotr Pavel Šiman (?), šafář z Nezabudic; Zbečno 01 N sn. 234 vpravo; M, ověřeno koordinátorem); pár Martin Horn (sedlář ?) × Magdalena měl syna Jiřího už 18. 4. 1697 (sn. 232 vpravo) a dceru Kateřinu 25. 1. 1699 → sňatek 1696 patří spíš Martinovi mladšímu a Ludmile. V Branově 1696–1704 Václav Marš × Ludmila (krčmář), děti 1696, 1698, 1704 – jiný (mladší) Václav nebo bratr nevěsty.",
+        "KANDIDÁT křtu (K+): 13. 2. 1675 z Rostok – „Waczlawowi Marssowi z ženy jeho Kateřiny pokřtěna dcera Lydmilla; kmotry Lydmilla Svobodová, Anna Frantová, Jan Chynava (?)“ (Zbečno 01 N sn. 81 vlevo; měsíc z nadpisu „Februarius“ na sn. 80 vpravo; M pro zápis, ověřeno koordinátorem). Při sňatku 1696 by jí bylo 21 let. Rodiče (K): Václav Marš z Roztok × Kateřina; ROZPOR: ~IV 1677 dítě Anna „Václavu Maršovi a manželce jeho Anně“ z Rostok (sn. 90 vpravo) – 2. manželka, nebo jiný Václav (Praha N212)."
       ],
       sources: [
         "SOA Praha, fara Zbečno, Zbečno 01 (8790) O sn. 395 vpravo, pag. 420 (9. 2. 1709) – https://ebadatelna.soapraha.cz/d/8790/395",
@@ -14985,11 +14986,13 @@ window.RODOKMEN = {
         "SOA Praha, fara Zbečno, Zbečno 01 (8790) Z sn. 487 vlevo (28. 12. 1708) – https://ebadatelna.soapraha.cz/d/8790/487",
         "SOA Praha, fara Zbečno, Zbečno 01 (8790) O sn. 367 (9. 9. 1696) – https://ebadatelna.soapraha.cz/d/8790/367",
         "SOA Praha, fara Zbečno, Zbečno 01 (8790) N sn. 284 vpravo (11. 10. 1703) – https://ebadatelna.soapraha.cz/d/8790/284",
-        "SOA Praha, fara Zbečno, Zbečno 01 (8790) N sn. 234 vpravo (11. 8. 1697) – https://ebadatelna.soapraha.cz/d/8790/234"
+        "SOA Praha, fara Zbečno, Zbečno 01 (8790) N sn. 234 vpravo (11. 8. 1697) – https://ebadatelna.soapraha.cz/d/8790/234",
+        "SOA Praha, fara Zbečno, Zbečno 01 (8790) N sn. 81 vlevo (13. 2. 1675) – https://ebadatelna.soapraha.cz/d/8790/81"
       ],
       scans: [
         {"f":"img/1709_O_sklenicka_jiri_ludmila.jpg","t":"Sňatek 9. 2. 1709, Branov – Jiří, syn Jiříka Skleničky × Ludmila, vdova po Martinu Hornovi"},
-        {"f":"img/1713_N_Sklenicka_Jiri_Branov.jpg","t":"Křest syna Jiřího 7. 8. 1713, Branov (kandidát)"}
+        {"f":"img/1713_N_Sklenicka_Jiri_Branov.jpg","t":"Křest syna Jiřího 7. 8. 1713, Branov (kandidát)"},
+        {"f":"img/1675_krest_ludmila_marsova.jpg","t":"Kandidátní křest 13. 2. 1675, Roztoky – otec Václav Marš, matka Kateřina"}
       ]
     },
     {
@@ -15004,7 +15007,8 @@ window.RODOKMEN = {
         "KANDIDÁT (K+): otec Jiřího Skleničky ml., uveden při jeho sňatku 9. 2. 1709 jako „Giřik Sklenčka z Branowa“ bez „nebožtík“ – tehdy zřejmě žil (Zbečno 01 O sn. 395 vpravo; M pro zápis).",
         "V X 1706 byl „Jiří, syn Jiříka Skleničky z Branova“ družbou (Zbečno 01 O sn. 388 vpravo). Pozor: 19. 11. 1707 se vdávala Ludmila, „pozůstalá dcera po neb. Jiřím Skleničkovi z Branova“, za Václava Staňka (sn. 392 vlevo) – jiný, už zemřelý Jiří. Václav (× 1703) a Jiří (× 1706 Polyxena) byli synové † Řehoře Skleničky z Branova.",
         "Starší Skleničkové v Branově (Zbečno 01 Z, souhrnný soupis, rok na okraji „[16]98“, čteno agentem, K): „neb. Jan Sklenička (?) z Branova starý 98 let“ a „neb. Mandelyna Skleničková z Branova 99 let“ (sn. 482 vpravo; věky v soupisu podezřele vysoké).",
-        "Pár Jiří Sklenička × Ludmila měl v Branově děti už 1697 (Vojtěch 25. 3. 1697, Zbečno 01 N sn. 231 vpravo; Jan Václav 14. 6. 1699, K) – tedy dávno před sňatkem Jiřího ml. 1709; křty 1705 (Anna) a 1707 (Veronika) patří nejspíš jim. Zda jde o Jiříka st. (otce ženicha 1709), nerozhodnuto."
+        "Pár Jiří Sklenička × Ludmila měl v Branově děti už 1697 (Vojtěch 25. 3. 1697, Zbečno 01 N sn. 231 vpravo; Jan Václav 14. 6. 1699, K) – tedy dávno před sňatkem Jiřího ml. 1709; křty 1705 (Anna) a 1707 (Veronika) patří nejspíš jim. Zda jde o Jiříka st. (otce ženicha 1709), nerozhodnuto.",
+        "Pozor (Praha N212): 25. 3. 1678 z Branova křest Jiříka, syna Řehoře Skleničky × Kateřiny (Zbečno 01 N sn. 94 vlevo; M pro zápis) – zřejmě Jiří, „pozůstalý syn po neb. Řehořovi“, ženatý 1706 s Polyxenou, ne Jiřík st. (otec ženicha 1709, narozen dřív). Jan Sklenička × Dorota z Branova: syn Tomáš 9. 12. 1675 (K)."
       ],
       sources: [
         "SOA Praha, fara Zbečno, Zbečno 01 (8790) O sn. 395 vpravo, pag. 420 (9. 2. 1709) – https://ebadatelna.soapraha.cz/d/8790/395",
