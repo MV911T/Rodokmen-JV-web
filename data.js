@@ -5340,6 +5340,7 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (asi 1766 – 25 let při sňatku 1791)","year":1766,"approx":true},
       d: {"date":"před 13. 2. 1816","year":1816,"approx":true},
+      father: "josef_c1",
       spouse: "barbora_bu",
       occ: "familiant v Hrubém Jeseníku",
       marriage: "8. 7. 1791, Bošín – s Barborou Bukvajovou",
@@ -5347,7 +5348,7 @@ window.RODOKMEN = {
         "Otec Jana Čapka (*~1795).",
         "Oddán 8. 7. 1791 v Bošíně (oddával kaplan Symphorian Haaber): „Jann po neboštíku Jozeffowi Czapkowi syn ze wsy Gessenika“, 25 let, svobodný × „Barbora po † Janowy Bukwagowy ze wsy Boſſyna“, 21 let, svobodná; svědci Franc Fischer (?), Franz Ostrel (?), soused (Bošín 01 (4139) O sn. 74, pag. 72; M, ověřeno koordinátorem). Bošín patřil do 1787 k faře Křinec, od 1788 má vlastní knihy. Otec Josef Čapek z Jeseníka † před VII 1791.",
         "Děti podle indexu křtů Hrubý Jeseník: Anna (1793), Jan (1795). Položky „Čapka Jana, Anna 56“ a „Čapka Jozefa, Jan 56“ patří do Jíkve 1799 (jiní Čapkové, N158).",
-        "KANDIDÁT otce (K, neověřeno): Josef Čapek, chalupník v Hrubém Jeseníku × Dorota (karta Josefa Čapka *~1725; děti podle indexu 1735–1763, „možná dva Josefové“) – pak by Jan byl bratr Karla Čapka *1753 a jeho syn Jan *1795 by si vzal Karlovu dceru Marii (implex). Rozhodne křest Jana ~1766 (HJ, rejstřík N 1764–1769) nebo úmrtí Josefa před 1791."
+        "KANDIDÁT křtu (K): 28. 11. 1763 Hrubý Jeseník – „Joannes legitimus filius Josephi Čapek gazarij et uxoris ejus Catharinae, Parentum ex pago Jesenik Dominio Neo-Konoviensi Subditorum“; kmotr Jan Dvořák (?), šenkýř; svědci Václav Fuxa a Alžběta Mrázková (HJ 04 N sn. 150 vlevo; M pro zápis, ověřeno koordinátorem). Nad datem křížek „†“ a v rejstříku Z je „1775 Čapek Jan“ – dítě mohlo zemřít; sňatek 1791 „25 let“ → *~1766 (v 1766 se narodil bratr Václav). Ověřit úmrtí Jana 1775."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Hrubý Jeseník, kniha Hrubý Jeseník 08, str. 432, snímek 222 – https://ebadatelna.soapraha.cz/d/5728/222",
@@ -5360,7 +5361,8 @@ window.RODOKMEN = {
         {"f":"img/1795_krest_jan_capek_hruby_jesenik_b.jpg","t":"Křest Jana Čapka, Hrubý Jeseník 1795 – rodiče, kmotři"},
         {"f":"img/1793_N_Capkova_Anna_HrubyJesenik48.jpg","t":"Křest dcery Anny 1. 3. 1793, Hrubý Jeseník č. 48"},
         {"f":"img/1791_O_Capek_Jan_Bukvajova_Barbora_Bosin_a.jpg","t":"Sňatek 8. 7. 1791, Bošín – ženich"},
-        {"f":"img/1791_O_Capek_Jan_Bukvajova_Barbora_Bosin_b.jpg","t":"Sňatek 8. 7. 1791, Bošín – nevěsta, svědci"}
+        {"f":"img/1791_O_Capek_Jan_Bukvajova_Barbora_Bosin_b.jpg","t":"Sňatek 8. 7. 1791, Bošín – nevěsta, svědci"},
+        {"f":"img/1791_Z_Capek_Josef_HrubyJesenik48.jpg","t":"Úmrtí otce Josefa, 7. 6. 1791, Hrubý Jeseník č. 48"}
       ]
     },
     {
@@ -14795,6 +14797,28 @@ window.RODOKMEN = {
         {"f":"img/1772_O_Vietrovsky_Matej_vdova_Haubova_Suchomasty49.jpg","t":"Druhý sňatek s Matějem Vietrovským, VIII 1772, Suchomasty č. 49"},
         {"f":"img/1730_N_Duchonova_Katerina_Suchomasty.jpg","t":"Kandidátní křest 26. 8. 1730, Suchomasty – otec Jiří Duchoň, matka Anna"},
         {"f":"img/1781_Z_Vietrovska_Katerina_Suchomasty49.jpg","t":"Úmrtí VII 1781, Suchomasty č. 49 (jako Kateřina Vietrovská)"}
+      ]
+    },
+    {
+      id: "josef_c1",
+      name: "Josef Čapek",
+      line: "capek",
+      cert: "K",
+      b: {"date":"neznámé (asi 1736 – 55 let při úmrtí)","year":1736,"approx":true},
+      d: {"date":"7. 6. 1791","year":1791,"place":"Hrubý Jeseník č. p. 48"},
+      cause: "stravení vnitřní (?)",
+      occ: "familiant (chalupník) v Hrubém Jeseníku č. 48",
+      notes: [
+        "KANDIDÁT (K+): otec Jana Čapka – Jan se 8. 7. 1791 ženil jako „syn po neboštíku Jozeffowi Czapkowi ze wsy Gessenika“ a 1793 žil v č. 48; v rejstříku Z Hrubý Jeseník 1770–1800 jsou jen dva dospělí Josefové Čapkové: tento (č. 48, VI 1791) a výminkář (č. 27, † 27. 4. 1790, 82 let).",
+        "Zemřel 7. 6. 1791 (pohřben 9. 6.) v Hrubém Jeseníku č. 48: „Jozeff Czapek, manžel a familiantník z Jeseníka“, 55 let (HJ 08 (5728) Z sn. 255, fol. 646; rejstřík Z HJ 18 sn. 183; M, ověřeno koordinátorem).",
+        "Manželka v letech 1761–1766 Kateřina („Josephus Čapek gazarius … uxor Catharina“): děti Dorota 11. 4. 1761, Jan 28. 11. 1763, Václav 26. 9. 1766 (HJ 04 N sn. 120 vpravo, 150 vlevo, 172 vpravo; stejný kmotr Jan Dvořák, šenkýř). Starší Josef Čapek, sedlák × Dorota (děti 1735–1756, mezi nimi Josef Constantin 30. 5. 1736) je zřejmě jeho otec (K) – pak by Karel Čapek *1753 byl jeho bratr (implex, viz karta Jana Čapka)."
+      ],
+      sources: [
+        "SOA Praha, fara Hrubý Jeseník, HJ 08 (5728) Z sn. 255 (7. 6. 1791); HJ 04 (5724) N sn. 120, 150, 172; rejstříky HJ 18 (5738) N sn. 194, Z sn. 183 – https://ebadatelna.soapraha.cz/d/5728/255"
+      ],
+      scans: [
+        {"f":"img/1791_Z_Capek_Josef_HrubyJesenik48.jpg","t":"Úmrtí 7. 6. 1791, Hrubý Jeseník č. 48 (4. zápis)"},
+        {"f":"img/1763_N_Capek_Jan_HrubyJesenik.jpg","t":"Kandidátní křest syna Jana, 28. 11. 1763, Hrubý Jeseník"}
       ]
     }
   ]
