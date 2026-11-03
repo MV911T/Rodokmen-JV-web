@@ -5309,20 +5309,24 @@ window.RODOKMEN = {
         "Zemřela 16. 3. 1856 (pohřbena 18. 3. v Borku) Suchomasty č. 14: „Josefa, manželka † Václava Svobody, domkáře z Suchomast, … z Suchomast rozená Krejčová (?)“, 68 let 3 měs. 8 dní (Borek 15 Z sn. 33, pag. 62/63; M, ověřeno koordinátorem; rodné jméno nejisté). ROZPOR věku: úmrtí → *~XII 1787 (měsíc po sňatku Jakuba Krejčího × Kateřiny Jaubové 13. 11. 1787) × oddací 1806 „24 let“ → *~1782. Nerozhodnuto, křest nenalezen (Borek 05 N IX 1787 – IV 1788 ani jinde, viz výše).",
         "Rodné jméno v křtech vnoučat, Suchomasty č. 14: 1839 „matky Josefy rozené Kray-zové (?) ze Suchomast“ (Borek 08 N sn. 23 vpravo; M, ověřeno koordinátorem); čtení agenta, neověřeno: 1834 „Krayzina (?)“ (Borek 07 sn. 126), 1837 „Krayzíwei (?)“ (Borek 07 sn. 163), 1842 „Kray-zowi (?)“ (Borek 08 sn. 58). Podporuje Krejzí / Krejčí, ne „Prajzová“.",
         "Křest dcery Anny 6. 10. 1806, Želkovice č. 5: „Jozefa, dcera Jakuba Krejčího ze Suchomast, matky Kateřiny“ (Borek 06 N sn. 53 vpravo; M, ověřeno koordinátorem) – potvrzuje rodiče Jakuba a Kateřinu i tvar Krejčí. ROZPOR roku narození Josefy tím rozhodnut není.",
-        "Praha N127: křest v Borek 05 N začátek 1787 – sn. 22 (přehled jmen) není: dvě Josefy na sn. 19 mají jiné otce (Václav Krbec (?), Vavřinec Jakoubek (?)). ROZPOR narození dál nerozhodnut."
+        "Praha N127: křest v Borek 05 N začátek 1787 – sn. 22 (přehled jmen) není: dvě Josefy na sn. 19 mají jiné otce (Václav Krbec (?), Vavřinec Jakoubek (?)). ROZPOR narození dál nerozhodnut.",
+        "KANDIDÁT křtu (K+): 11. 3. 1785 Suchomasty č. 49 – „Jozefa | nemanželská | [otec neuveden] | Kateřina, dcera po nebožtíkovi Václavovi Haubovi, sedláku suchomastském, rodačka suchomastská“; kmotři panna Lidmila Škodová, dcera Martina Škody, sedláka bykošského, a Vavřinec Lukavský, hodrich (?) suchomastský; křtil Filip Bílek (Borek 05 N sn. 7 vpravo, pag. 5; rejstřík Borek 11 sn. 11 vpravo „Suchomast 49, 1785, 11ten März, Hauba Josepha, — Katharina“; M pro zápis, ověřeno koordinátorem). Pro: č. 49 je usedlost † Václava Hauby, matka = nevěsta 1787 „Kateřina, dcera † Václava Jauby, sedláka suchomastského“; jediná Josefa této matky v rejstříku 1784–1799; Josefin legitimní křest v celé faře 1774 – VI 1792 není. Proti: otec neuveden – Jakub Krejčí by byl otcem jen podle pozdějších zápisů (sňatek rodičů 13. 11. 1787 = legitimace, přípis o ní chybí). Kdyby platil, jsou oba pozdější věky chybné: 1806 „24“ (skutečně 20) a 1856 „68“ (skutečně 71)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 92 – https://ebadatelna.soapraha.cz/d/4075/92",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
         "SOA Praha, Borek 15 (4084), Z sn. 33, pag. 62 (16. 3. 1856), https://ebadatelna.soapraha.cz/d/4084/33",
         "SOA Praha, Borek 08 (4077), N sn. 23 vpravo, pag. 43/44 (1839), https://ebadatelna.soapraha.cz/d/4077/23",
-        "SOA Praha, fara Borek, Borek 06 (4075) N Želkovice, sn. 53 vpravo, pag. 99 (6. 10. 1806); rejstřík Borek 11 (4080) sn. 36 vpravo – https://ebadatelna.soapraha.cz/d/4075/53"
+        "SOA Praha, fara Borek, Borek 06 (4075) N Želkovice, sn. 53 vpravo, pag. 99 (6. 10. 1806); rejstřík Borek 11 (4080) sn. 36 vpravo – https://ebadatelna.soapraha.cz/d/4075/53",
+        "SOA Praha, fara Borek, Borek 05 (4074) N, sn. 7 vpravo, pag. 5 (11. 3. 1785); rejstřík Borek 11 (4080) sn. 11 vpravo – https://ebadatelna.soapraha.cz/d/4074/7"
       ],
       scans: [
         {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806"},
         {"f":"img/1856_Z_Svobodova_Josefa_Suchomasty.jpg","t":"Úmrtí 16. 3. 1856, Suchomasty 14"},
         {"f":"img/1839_N_Klikova_Barbora_Suchomasty.jpg","t":"Křest vnučky Barbory 1839, Suchomasty 14 (matka Josefy)"},
-        {"f":"img/1806_N_Svobodova_Anna_Zelkovice5.jpg","t":"Křest dcery Anny, Želkovice č. 5, 6. 10. 1806 – „Jozefa, dcera Jakuba Krejčího ze Suchomast, matky Kateřiny“"}
+        {"f":"img/1806_N_Svobodova_Anna_Zelkovice5.jpg","t":"Křest dcery Anny, Želkovice č. 5, 6. 10. 1806 – „Jozefa, dcera Jakuba Krejčího ze Suchomast, matky Kateřiny“"},
+        {"f":"img/1785_N_Haubova_Josefa_Suchomasty49.jpg","t":"Kandidátní křest 11. 3. 1785, Suchomasty č. 49 (nemanželská, matka Kateřina Haubová)"},
+        {"f":"img/1785_indexN_Haubova_Josefa_Suchomasty49.jpg","t":"Rejstřík narozených Borek 11, H – Hauba Josepha 1785"}
       ]
     },
     {
@@ -5973,7 +5977,8 @@ window.RODOKMEN = {
         "Otec Josefy Svobodové.",
         "Praha N117: IX 1778 (?) Suchomasty č. 22 – „Jacobus Kreizj, proprius filius Wenceslai Kreizj rustici Bikoschensis cum Josepha, filia Wen. Chvátala (?)“ (Borek 04 O sn. 107 vpravo; M) – nevěsta Josefa, ne Kateřina: 1. manželství, nebo jiný Jakub (K). Sňatek s Kateřinou není v rejstříku O Borek 03 (1748–73) ani Borek 04 O 1774 – ~1782.",
         "Praha N118: v letech 1784–91 žili souběžně dva Jakubové Krejčí – × KATEŘINA (Suchomasty 54, 13; děti 1788, 1791; náš, K) a × JOSEFA Chvátalovou (× 1778; Bykoš 44, Suchomasty 1; syn Václava z Bykoše) (index N Borek 11 sn. 16 vpravo, 17 vlevo; M) → „1. manželství téhož Jakuba“ neplatí. Možný otec našeho Jakuba: Václav Krejčí ze Suchomast 54 × Františka (K).",
-        "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí)."
+        "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí).",
+        "KANDIDÁT (K+): Josefa, pozdější manželka Václava Svobody, byla pokřtěna 11. 3. 1785 jako nemanželská dcera Kateřiny Haubové bez uvedení otce (Borek 05 N sn. 7 vpravo); otcovství Jakuba plyne jen ze sňatku 1787 a zápisů 1806 – viz karta Josefy."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
@@ -5993,13 +5998,17 @@ window.RODOKMEN = {
         "Matka Josefy Svobodové; rodné příjmení neuvedeno.",
         "Praha N119 – ROZPOR: Jakub Krejčí × Kateřina Jaubová oddáni 13. 11. 1787 Suchomasty („Jakub Kreizy, vlastní syn Václava Krejčího, podruha suchomastského“, 24 let × „Kateřina Jaubová, vlastní pozůstalá dcera po neb. Václavovi Jaubovi, sedláku suchomastském“, 24 let; Borek 05 O sn. 86; M, ověřeno koordinátorem); děti Barbora 1788, Josef 27. 3. 1791 (Suchomasty 54; sn. 52). Josefa Svobodová (× 1806, 24 let → *~1782) by se ale narodila 5 let před sňatkem a v indexu N 1784 – VI 1792 tohoto páru není → předmanželské dítě, chybný věk, nebo jiný Jakub (např. Jakub × Josefa Chvátalová z Bykoše, dcery 1782…). Strukturu ponechávám; kandidátní křest Jakuba 7. 7. 1766 Suchomasty (Václav Krejčí × Františka; Borek 03 N sn. 80 vlevo; K+; věk 24 v 1787 nesedí).",
         "KANDIDÁT křtu (K, jen pokud je to Kateřina Jaubová z ROZPORU výše): 18. (?) 11. 1763 Suchomasty – „Catharina, legitima filia Wenceslai Hauba et uxoris Catharinae“ (Borek 03 N sn. 68 vpravo, pag. 131; M) – otec Václav a věk 24 v 1787 sedí; Hauba = Jauba je jen domněnka.",
-        "KANDIDÁT otce (K, Hauba = Jauba nedoloženo): Václav Hauba, sedlák suchomastský, č. 49, † VII 1772, věk nejistý (Borek 03 Z sn. 188 vlevo, pag. 150; M, ověřeno koordinátorem); pohrobek Dorota, 6. 2. 1773, rodiče † Václav Hauba × Kateřina, č. 49 (Borek 03 N sn. 107 vpravo; M, ověřeno koordinátorem). Sedí Václav, sedlák, Suchomasty a „pozůstalá dcera“ v 1787; dům nevěsty v oddacím zápise čten „1 (?)“, ne 49."
+        "KANDIDÁT otce (K, Hauba = Jauba nedoloženo): Václav Hauba, sedlák suchomastský, č. 49, † VII 1772, věk nejistý (Borek 03 Z sn. 188 vlevo, pag. 150; M, ověřeno koordinátorem); pohrobek Dorota, 6. 2. 1773, rodiče † Václav Hauba × Kateřina, č. 49 (Borek 03 N sn. 107 vpravo; M, ověřeno koordinátorem). Sedí Václav, sedlák, Suchomasty a „pozůstalá dcera“ v 1787; dům nevěsty v oddacím zápise čten „1 (?)“, ne 49.",
+        "KANDIDÁT (K+): před sňatkem s Jakubem Krejčím porodila nemanželskou dceru Josefu – 11. 3. 1785 Suchomasty č. 49 – „Jozefa | nemanželská | [otec neuveden] | Kateřina, dcera po nebožtíkovi Václavovi Haubovi, sedláku suchomastském, rodačka suchomastská“; kmotři panna Lidmila Škodová, dcera Martina Škody, sedláka bykošského, a Vavřinec Lukavský, hodrich (?) suchomastský; křtil Filip Bílek (Borek 05 N sn. 7 vpravo, pag. 5; rejstřík Borek 11 sn. 11 vpravo „Suchomast 49, 1785, 11ten März, Hauba Josepha, — Katharina“; M pro zápis, ověřeno koordinátorem). Zápis zároveň podporuje Hauba = Jauba (usedlost č. 49 † Václava Hauby)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64"
+        "SOA Praha, ř.-k. fara Borek, kniha Borek 06 (O 1796–1834), snímek 64 – https://ebadatelna.soapraha.cz/d/4075/64",
+        "SOA Praha, fara Borek, Borek 05 (4074) N, sn. 7 vpravo, pag. 5 (11. 3. 1785); rejstřík Borek 11 (4080) sn. 11 vpravo – https://ebadatelna.soapraha.cz/d/4074/7"
       ],
       scans: [
-        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Josefa Svobodová)"}
+        {"f":"img/1806_snatek_vaclav_svoboda_suchomasty_a.jpg","t":"Sňatek Václava Svobody a Josefy Krejčí, Borek 19. 1. 1806 (dítě: Josefa Svobodová)"},
+        {"f":"img/1785_N_Haubova_Josefa_Suchomasty49.jpg","t":"Kandidátní křest dcery Josefy 11. 3. 1785, Suchomasty č. 49 (nemanželská, matka Kateřina Haubová)"},
+        {"f":"img/1785_indexN_Haubova_Josefa_Suchomasty49.jpg","t":"Rejstřík narozených Borek 11, H – Hauba Josepha 1785"}
       ]
     },
     {
