@@ -4049,7 +4049,7 @@ window.RODOKMEN = {
       name: "Václav Svoboda",
       line: "svoboda",
       cert: "M",
-      b: {"date":"asi I 1820 (podle věku při úmrtí)","year":1820,"approx":true,"place":"Málkov č. 35 (?)"},
+      b: {"date":"17. 1. 1820","year":1820,"place":"Málkov č. p. 35 (fara Tmaň)"},
       d: {"date":"20. 6. 1902","year":1902,"place":"Suchomasty č. p. 21"},
       cause: "marasmus",
       father: "matej_sv",
@@ -4059,16 +4059,18 @@ window.RODOKMEN = {
       marriage: "10. 2. 1851, Borek (Suchomasty) – s Magdalenou Stadlerovou",
       notes: [
         "Domkář v Suchomastech č. 21, rodák z Malkova; dodatečně uznal otcovství dcery Marie (1848) a 10. 2. 1851 se oženil s její matkou.",
-        "Křest není v rejstřících N fary Borek 1800 – II 1821 a 1818–1837 (Svobodovi z Málkova tam mají rodiče Václav × Ludmila a Josef × Kateřina) – narozen asi jinde (fara Tmaň ?).",
+        "Pokřtěn 17. 1. 1820 v Málkově č. 35 (P. Matěj Sequens, fara Tmaň): „Wáclaw Swoboda | otec Matěj Swoboda, domkář z Malkowa, poddaný statku Tmaň | matka Alžběta, vlastní dcera † Augustina Hubáčka …, poddaného panství Zbraslav, a matky Ludmily, No 14“; kmotři Jan Šmíd (?), tesař, a Kateřina Svobodová, selka z Málkova; bába Magdalena Jakoubková ze Suchomast (Tmaň 05 (10459) N sn. 44; M, ověřeno koordinátorem). Datum a dům přesně sedí s úmrtím 1902. V rejstřících N Borek 1800 – II 1821 a Borek 07 (oddíl Málkov) není – Málkov se tehdy zapisoval i v Tmani.",
         "Zemřel 20. 6. 1902 (pohřben 22. 6. v Borku) v Suchomastech č. 21: „Svoboda Václav, žebrák ze Suchomast č. 21, rozen z Malkova č. 35, okres berounský, hejtm. hořovické“, 82 let 5 měs. 3 dny (→ *~17. 1. 1820), marasmus; „pro nedbalost domácích nebyl sv. svátostmi zaopatřen“ (Borek 22 Z fol. 291, sn. 163; rejstřík S sn. 334 vlevo; M, ověřeno koordinátorem).",
         "Po smrti Magdaleny († 1864) žil s Marií roz. Klikovou ze Suchomast č. 14 – syn Václav † 28. 2. 1876, 10 dní, „syn Václava Svobody, domkáře ze Suchomast č. 21, a matky Marie rozené Klikové“ (Borek 22 Z sn. 36 vlevo; čteno agentem); 2. sňatek nehledán."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Borek, kniha Borek 16 (N 1862–1882, sv. XI), str. 416, snímek 210 – https://ebadatelna.soapraha.cz/d/4085/210",
         "SOA Praha, ř.-k. fara Borek, kniha Borek 09 (N 1845–1853), pag. 70, snímek 38 – https://ebadatelna.soapraha.cz/d/4078/38",
-        "SOA Praha, fara Borek, Borek 22 (15318) Z fol. 291, sn. 163 (20. 6. 1902) – https://ebadatelna.soapraha.cz/d/15318/163"
+        "SOA Praha, fara Borek, Borek 22 (15318) Z fol. 291, sn. 163 (20. 6. 1902) – https://ebadatelna.soapraha.cz/d/15318/163",
+        "SOA Praha, fara Tmaň, Tmaň 05 (10459) N sn. 44 (17. 1. 1820) – https://ebadatelna.soapraha.cz/d/10459/44"
       ],
       scans: [
+        {"f":"img/1820_N_Svoboda_Vaclav_Malkov35.jpg","t":"Křest 17. 1. 1820, Málkov č. 35 – rodiče a prarodiče"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_b.jpg","t":"Křest Marie Svobodové 1848 – legitimace 1851"},
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek rodičů Matěje a Alžběty Svobodových, Málkov 1818"},
@@ -4686,7 +4688,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1791_N_Svoboda_Matej_Malkov.jpg","t":"Křest 9. 10. 1791, Málkov č. 1"},
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Václav Svoboda)"},
-        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek s Alžbětou, Málkov 1818"}
+        {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek s Alžbětou, Málkov 1818"},
+        {"f":"img/1820_N_Svoboda_Vaclav_Malkov35.jpg","t":"Křest syna Václava, 17. 1. 1820, Málkov č. 35"}
       ]
     },
     {
@@ -4712,7 +4715,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1848_krest_marie_svobodova_suchomasty_a.jpg","t":"Křest Marie (Stadler) Svobodové, Suchomasty 1848 (dítě: Václav Svoboda)"},
         {"f":"img/1818_O_Svoboda_Matej_Alzbeta_Malkov.jpg","t":"Sňatek s Matějem Svobodou, Málkov 1818"},
-        {"f":"img/1817_N_Hubackova_Maria_Malkov.jpg","t":"Křest nemanželské dcery Marie, Málkov č. 7, 1817"}
+        {"f":"img/1817_N_Hubackova_Maria_Malkov.jpg","t":"Křest nemanželské dcery Marie, Málkov č. 7, 1817"},
+        {"f":"img/1820_N_Svoboda_Vaclav_Malkov35.jpg","t":"Křest syna Václava, 17. 1. 1820, Málkov č. 35"}
       ]
     },
     {
@@ -7884,7 +7888,8 @@ window.RODOKMEN = {
         "V r. 1833 „Häusler aus Hudlitz (?)“, v r. 1838 nádeník ve Zbečně č. 8.",
         "V r. 1811 „Inwohner von Hudlitz No. 19“ – dcera Anna (*13. 5. 1811, Zbečno č. 20). Pochází tedy z Hudlic (vlastní fara).",
         "Nejspíš pokřtěn 21. 10. 1759 v Hudlicích (fara Beroun): „Jan z otce Františka Wlasáka a matky Anny, poddaných křivoklátských“ (kmotr Jan …, šafář; svědci Josef Leber a Veronika). Sourozenci Kateřina (1764), Anna (1769). Druhý kandidát Jan Ondřej (*1760, rodina Františka × Kateřiny z č. 36) odpadá – jeho otec zemřel až 26. 3. 1803 (78 let), kdežto otec ženicha byl v r. 1795 už mrtvý. Třetí František (× Dorota) syna Jana neměl. Jistota K+ (úmrtí Františka × Anny nenalezeno).",
-        "Posíleno (Praha 14): druhý hudlický František Vlasák (č. 36, × Kateřina, † 1803) byl v r. 1798 živý „soused hudlický“ (sňatek dcery Anny 23. 10. 1798) – nemůže být „† František“ ze sňatku Jana 1795. Úmrtí Františka × Anny v Hudlicích 1785 – IV 1803 ani 2. sňatek vdovy Anny 1785–1800 nenalezeny."
+        "Posíleno (Praha 14): druhý hudlický František Vlasák (č. 36, × Kateřina, † 1803) byl v r. 1798 živý „soused hudlický“ (sňatek dcery Anny 23. 10. 1798) – nemůže být „† František“ ze sňatku Jana 1795. Úmrtí Františka × Anny v Hudlicích 1785 – IV 1803 ani 2. sňatek vdovy Anny 1785–1800 nenalezeny.",
+        "V IV 1833 už nežil – manželka Marie byla při úmrtí 11. 4. 1833 „Wittwe nach Johann Wlasak, Taglöhner in Zbečno“ (Zbečno 16 Z sn. 42 vlevo; M). V rejstříku Z Zbečno 16 (W) není – úmrtí hledat jinde nebo před 1784."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
@@ -8025,26 +8030,31 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"26. 4. 1773","year":1773,"place":"Sýkořice č. p. 6 (fara Zbečno)"},
+      d: {"date":"11. 4. 1833","year":1833,"place":"Zbečno č. p. 8 (?)"},
+      cause: "souchotiny (Lungensucht)",
       father: "matej_jo",
       mother: "josefa_jo",
       spouse: "jan_vl0",
       marriage: "11. 10. 1795, Sýkořice – s Janem Vlasákem",
       notes: [
         "Narozena a pokřtěna 26. 4. 1773 ve Zbečně (Sýkořice č. 6): „Maria – Mathias Jonaš, Sutor, ex uxore Josepha, Subd. Pirgl.“; kmotra Dorota, manželka Matěje Krupičky z Rakovic (?). Sourozenci: Matěj (1770 – matka čtena „Anna (?)“), Františka Dorota (1777), Františka Markéta (1778), Josef (~1780), František († 1809, 18 let).",
-        "Dcera Matěje Jonáše, ševce v Sýkořicích č. 6 (1795 živ, 1811 už †); oddána 11. 10. 1795 (22 let). Dřívější čtení „Jarošová“ a obec „Ostrowitz / …brnitz“ byla chybná – kurentové „Sykořitz“."
+        "Dcera Matěje Jonáše, ševce v Sýkořicích č. 6 (1795 živ, 1811 už †); oddána 11. 10. 1795 (22 let). Dřívější čtení „Jarošová“ a obec „Ostrowitz / …brnitz“ byla chybná – kurentové „Sykořitz“.",
+        "Zemřela 11. 4. 1833 (pohřbena 14. 4.) ve Zbečně: „Maria, Wittwe nach Johann Wlasak, Taglöhner in Zbečno N. 2?, geborene Jonaš aus Sykořitz N. 6“, 6? let (číslice přepsaná; 60 by sedělo na křest 1773) (Zbečno 16 Z sn. 42 vlevo, pag. 80; rejstřík W sn. 197 vpravo; M, ověřeno koordinátorem). Manžel Jan Vlasák tedy † před IV 1833."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849), pag. 79, snímek 42 – https://ebadatelna.soapraha.cz/d/8855/42",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 12 (O Sýkořice 1784–1858), pag. 7, snímek 6 – https://ebadatelna.soapraha.cz/d/8857/6",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 07 (N Sýkořice 1784–1843), pag. 49, snímek 27 – https://ebadatelna.soapraha.cz/d/8852/27",
-        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245"
+        "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245",
+        "SOA Praha, fara Zbečno, Zbečno 16 (8861) Z sn. 42 vlevo, pag. 80 (11. 4. 1833) – https://ebadatelna.soapraha.cz/d/8861/42"
       ],
       scans: [
         {"f":"img/1833_snatek_jan_vlasak_marie_novakova_novahut_nizbor16_sn15_a.jpg","t":"Sňatek Jana Vlasáka a Marie Novákové, Nižbor 22. 10. 1833"},
         {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"},
         {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest Marie Jonášové, Zbečno 26. 4. 1773"},
-        {"f":"img/1807_krest_jan_nepomuk_vlasak_sykorice6_zbecno07_sn27_a.jpg","t":"Křest syna Jana Nepomuka Vlasáka, Sýkořice 8. 2. 1807"}
+        {"f":"img/1807_krest_jan_nepomuk_vlasak_sykorice6_zbecno07_sn27_a.jpg","t":"Křest syna Jana Nepomuka Vlasáka, Sýkořice 8. 2. 1807"},
+        {"f":"img/1833_Z_Vlasakova_Marie_rozJonasova_Zbecno.jpg","t":"Úmrtí 11. 4. 1833, Zbečno – „geborene Jonaš aus Sykořitz N. 6“"}
       ]
     },
     {
