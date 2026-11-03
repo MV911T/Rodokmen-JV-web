@@ -4824,7 +4824,7 @@ window.RODOKMEN = {
     {
       id: "anna_kr",
       name: "Anna Málková",
-      maiden: "Krebsová (?)",
+      maiden: "Kreysová (Kregsová, Krebsová)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (asi 1769)","year":1769,"approx":true},
@@ -4833,20 +4833,24 @@ window.RODOKMEN = {
       father: "jan_kb",
       spouse: "pavel_ma",
       notes: [
-        "Manželka Pavla Málka, sedláka v Krchlebích č. 53; dcera † Jana Krebse (?), sedláka ze Všechlap (panství Loučeň) – křty dcer Anny 1804 a Kateřiny 1806 (M; příjmení čteno nejistě, rod Krebs ve Všechlapech doložen v rejstříku N). Sňatek s Pavlem není v rejstříku O Veleliby 1799–1861 (asi před 1799).",
+        "Manželka Pavla Málka, sedláka v Krchlebích č. 53; dcera Jana Kreyse/Kregse, rychtáře (sedláka) ze Všechlap (panství Loučeň) – viz níže.",
+        "Čtení příjmení opraveno (Praha N188, ověřeno koordinátorem na výřezech): křest dcery Anny IV 1799, Krchleby 53 – „Anna, dcera Jana Kreyſa (Kregſa), Rychtáře ze wsy Wšechlap, Panst. Lauczyn“ (Veleliby 01 N sn. 5 vlevo); sňatky dcery Kateřiny 1829/1830 – „matky Anny rozené Kreyſowé“ (Veleliby 03 O sn. 24 vpravo); 1801 „Jana Kreyse, sedláka“, 1804 a 1806 „po † Janovi Kreysovi“. Tvar Kregs/Kreys/Krebs = tentýž rod (kurentové y/g/b); otec byl rychtářem jako Jan Kregs/Krebs „Judex“ 1767–1772 → vazba na pár Jan Kregs × Anna (děti 1758–1774) posílena. Jan † mezi VII 1801 a I 1804.",
         "Zemřela 8. 10. 1844 v Krchlebích č. 53 (pohřbena 10. 10.): „Anna, pozůstalá vdova po † Pavlu Málkovi, sedláku v výminku ze Skrchleb“, 75 let (M; → asi 1769). Sňatek s Pavlem asi 1787–1797 – v O Nymburk 08 (Krchleby, Všechlapy) 1780–1798 není.",
-        "KANDIDÁT matky (K): Jan Krebs, rychtář (judex) ve Všechlapech č. 4, × Anna – dcera Kateřina pokřtěna 3. 2. 1772 („Joannes Krebs Judex, Uxor Anna“, kmotři Kateřina, manželka Karla Tygry, a Václav Ota ze Všechlap; Nymburk 08 N sn. 40 vlevo; M pro zápis, ověřeno koordinátorem). Křest Anny v Nymburk 08 N IV 1768 – VII 1773 není (N163); ani v I 1767 – III 1768 a II–XII 1766 (N164); zbývá 1763–1765 a po 1773. V č. 4 se 1790 ženil Josef Krebs. Další dítě páru: Jiří 28. 3. 1767 („Georgius legitimus filius Joannis Krebs Coloni ex pago Wšechlap et Annae Conjugis“, kmotr Karel Tygra; Nymburk 08 N sn. 7 vpravo; čteno agentem). Jan Krebs rychtářem už VII 1767. Praha N165: další děti páru Václav 10. 5. 1763 (otec chalupník), Josef 18. 2. 1765, Pavel 28. 9. 1774 (vždy kmotr Karel Tygra; čteno agentem). Anna mezi dětmi páru II 1763 – XI 1776 NENÍ (mezery jen VII 1773 – VIII 1774 a části 1775–76) → Anna se buď narodila před IV 1763 (sňatek páru před 1763), nebo je dcerou jiného Jana Krebse; vazba slábne (K−). Praha N166: v Nymburk 07 N I 1761 – II 1763 Anna není; 27. 8. 1761 Kateřina, dcera Jana Kreysa/Krebse (?), sedláka ze Všechlap, × KATEŘINY (sn. 139 vlevo; čteno agentem); 1762 Kateřina, manželka Jakuba Kregsta (?) – snad dvě rodiny nebo 1. manželství Jana. Sňatek Jana × Anny v O IX 1761 – IV 1763 není."
+        "KANDIDÁT matky (K): Jan Krebs, rychtář (judex) ve Všechlapech č. 4, × Anna – dcera Kateřina pokřtěna 3. 2. 1772 („Joannes Krebs Judex, Uxor Anna“, kmotři Kateřina, manželka Karla Tygry, a Václav Ota ze Všechlap; Nymburk 08 N sn. 40 vlevo; M pro zápis, ověřeno koordinátorem). Křest Anny v Nymburk 08 N IV 1768 – VII 1773 není (N163); ani v I 1767 – III 1768 a II–XII 1766 (N164); zbývá 1763–1765 a po 1773. V č. 4 se 1790 ženil Josef Krebs. Další dítě páru: Jiří 28. 3. 1767 („Georgius legitimus filius Joannis Krebs Coloni ex pago Wšechlap et Annae Conjugis“, kmotr Karel Tygra; Nymburk 08 N sn. 7 vpravo; čteno agentem). Jan Krebs rychtářem už VII 1767. Praha N165: další děti páru Václav 10. 5. 1763 (otec chalupník), Josef 18. 2. 1765, Pavel 28. 9. 1774 (vždy kmotr Karel Tygra; čteno agentem). Anna mezi dětmi páru II 1763 – XI 1776 NENÍ (mezery jen VII 1773 – VIII 1774 a části 1775–76) → Anna se buď narodila před IV 1763 (sňatek páru před 1763), nebo je dcerou jiného Jana Krebse; vazba slábne (K−). Praha N166: v Nymburk 07 N I 1761 – II 1763 Anna není; 27. 8. 1761 Kateřina, dcera Jana Kreysa/Krebse (?), sedláka ze Všechlap, × KATEŘINY (sn. 139 vlevo; čteno agentem); 1762 Kateřina, manželka Jakuba Kregsta (?) – snad dvě rodiny nebo 1. manželství Jana. Sňatek Jana × Anny v O IX 1761 – IV 1763 není. Praha N186: další děti Jana Kregse × Anny – Matěj 31. 5. 1759 a Matěj 4. 11. 1760 (Nymburk 07 N sn. 122 vlevo, 132 vpravo; čteno agentem) → pár ženatý nejpozději ~1758; Anna mezi dětmi I 1759 – XII 1760 není; zbývá N 1752–1758 a O 1757–1758. Praha N187: další syn Václav 7. 5. 1758 (sn. 113 vpravo); 1758 i „Kateřina, manželka Jana Kregse“ (svědkyně) – snad dvě rodiny. Souhrn: děti Jana Kregse 1758–1774 známy, dcera Anna mezi nimi není (N 1757–1776 bez mezer kromě VII 1773 – VIII 1774) → Anna zřejmě narozena v mezeře VII 1773 – VIII 1774 nebo 1775–76 (nepročteno)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 03 (O 1799–1860), pag. 21, snímek 24 – https://ebadatelna.soapraha.cz/d/13541/24",
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (13539, N 1798–1864), oddíl Krchleby, pag. 21, snímek 14 (5. 11. 1806) a pag. 15, snímek 11 (13. 1. 1804); rejstřík Veleliby 13 sn. 22 – https://ebadatelna.soapraha.cz/d/13539/14",
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 04 (13542, Z), str. 71, snímek 74 (8. 10. 1844); index Veleliby 13 sn. 40 – https://ebadatelna.soapraha.cz/d/13542/74",
-        "SOA Praha, fara Nymburk, Nymburk 08 (10407) N sn. 40 vlevo (3. 2. 1772) – https://ebadatelna.soapraha.cz/d/10407/40"
+        "SOA Praha, fara Nymburk, Nymburk 08 (10407) N sn. 40 vlevo (3. 2. 1772) – https://ebadatelna.soapraha.cz/d/10407/40",
+        "SOA Praha, fara Veleliby, Veleliby 01 (13539) N sn. 5 vlevo (IV 1799), sn. 8 vlevo (1801); Veleliby 03 (13541) O sn. 24 vpravo – https://ebadatelna.soapraha.cz/d/13539/5"
       ],
       scans: [
         {"f":"img/1830_krest_marie_otova_krchleby_a.jpg","t":"Křest Marie Otové, Krchleby 1830 (dítě: Kateřina Otová)"},
         {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest dcery Kateřiny, Krchleby 1806"},
-        {"f":"img/1844_Z_Malkova_Anna_Krchleby.jpg","t":"Úmrtí 8. 10. 1844, Krchleby č. 53"}
+        {"f":"img/1844_Z_Malkova_Anna_Krchleby.jpg","t":"Úmrtí 8. 10. 1844, Krchleby č. 53"},
+        {"f":"img/1799_N_Malkova_Anna_Krchleby53_matka_Kreysova.jpg","t":"Křest dcery Anny IV 1799, Krchleby 53 – „dcera Jana Kreysa, rychtáře ze Všechlap“"},
+        {"f":"img/1830_O_Malkova_Katerina_matka_Kreysova.jpg","t":"Sňatky dcery Kateřiny 1829/1830 – „matky Anny rozené Kreysové“"}
       ]
     },
     {
@@ -12023,22 +12027,26 @@ window.RODOKMEN = {
     },
     {
       id: "jan_kb",
-      name: "Jan Krebs (?)",
+      name: "Jan Kregs (Kreys, Krebs)",
       line: "malek",
       cert: "M",
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
       d: {"date":"před 13. 1. 1804","year":1804,"approx":true},
       occ: "sedlák ve Všechlapech (panství Loučeň)",
       notes: [
-        "Sedlák ze Všechlap (panství Loučeň); otec Anny, provdané Málkové – v křtech vnuček 1804 a 1806 „dcera po † Janovi Krebsovi (?), sedlákovi ze Všechlap“ (M; příjmení nejisté).",
-        "KANDIDÁT matky (K): Jan Krebs, rychtář (judex) ve Všechlapech č. 4, × Anna – dcera Kateřina pokřtěna 3. 2. 1772 („Joannes Krebs Judex, Uxor Anna“, kmotři Kateřina, manželka Karla Tygry, a Václav Ota ze Všechlap; Nymburk 08 N sn. 40 vlevo; M pro zápis, ověřeno koordinátorem). Křest Anny v Nymburk 08 N IV 1768 – VII 1773 není (N163); ani v I 1767 – III 1768 a II–XII 1766 (N164); zbývá 1763–1765 a po 1773. V č. 4 se 1790 ženil Josef Krebs. Další dítě páru: Jiří 28. 3. 1767 („Georgius legitimus filius Joannis Krebs Coloni ex pago Wšechlap et Annae Conjugis“, kmotr Karel Tygra; Nymburk 08 N sn. 7 vpravo; čteno agentem). Jan Krebs rychtářem už VII 1767. Praha N165: další děti páru Václav 10. 5. 1763 (otec chalupník), Josef 18. 2. 1765, Pavel 28. 9. 1774 (vždy kmotr Karel Tygra; čteno agentem). Anna mezi dětmi páru II 1763 – XI 1776 NENÍ (mezery jen VII 1773 – VIII 1774 a části 1775–76) → Anna se buď narodila před IV 1763 (sňatek páru před 1763), nebo je dcerou jiného Jana Krebse; vazba slábne (K−). Praha N166: v Nymburk 07 N I 1761 – II 1763 Anna není; 27. 8. 1761 Kateřina, dcera Jana Kreysa/Krebse (?), sedláka ze Všechlap, × KATEŘINY (sn. 139 vlevo; čteno agentem); 1762 Kateřina, manželka Jakuba Kregsta (?) – snad dvě rodiny nebo 1. manželství Jana. Sňatek Jana × Anny v O IX 1761 – IV 1763 není."
+        "Sedlák a rychtář ve Všechlapech (panství Loučeň); otec Anny, provdané Málkové.",
+        "Čtení příjmení opraveno (Praha N188, ověřeno koordinátorem na výřezech): křest dcery Anny IV 1799, Krchleby 53 – „Anna, dcera Jana Kreyſa (Kregſa), Rychtáře ze wsy Wšechlap, Panst. Lauczyn“ (Veleliby 01 N sn. 5 vlevo); sňatky dcery Kateřiny 1829/1830 – „matky Anny rozené Kreyſowé“ (Veleliby 03 O sn. 24 vpravo); 1801 „Jana Kreyse, sedláka“, 1804 a 1806 „po † Janovi Kreysovi“. Tvar Kregs/Kreys/Krebs = tentýž rod (kurentové y/g/b); otec byl rychtářem jako Jan Kregs/Krebs „Judex“ 1767–1772 → vazba na pár Jan Kregs × Anna (děti 1758–1774) posílena. Jan † mezi VII 1801 a I 1804.",
+        "KANDIDÁT matky (K): Jan Krebs, rychtář (judex) ve Všechlapech č. 4, × Anna – dcera Kateřina pokřtěna 3. 2. 1772 („Joannes Krebs Judex, Uxor Anna“, kmotři Kateřina, manželka Karla Tygry, a Václav Ota ze Všechlap; Nymburk 08 N sn. 40 vlevo; M pro zápis, ověřeno koordinátorem). Křest Anny v Nymburk 08 N IV 1768 – VII 1773 není (N163); ani v I 1767 – III 1768 a II–XII 1766 (N164); zbývá 1763–1765 a po 1773. V č. 4 se 1790 ženil Josef Krebs. Další dítě páru: Jiří 28. 3. 1767 („Georgius legitimus filius Joannis Krebs Coloni ex pago Wšechlap et Annae Conjugis“, kmotr Karel Tygra; Nymburk 08 N sn. 7 vpravo; čteno agentem). Jan Krebs rychtářem už VII 1767. Praha N165: další děti páru Václav 10. 5. 1763 (otec chalupník), Josef 18. 2. 1765, Pavel 28. 9. 1774 (vždy kmotr Karel Tygra; čteno agentem). Anna mezi dětmi páru II 1763 – XI 1776 NENÍ (mezery jen VII 1773 – VIII 1774 a části 1775–76) → Anna se buď narodila před IV 1763 (sňatek páru před 1763), nebo je dcerou jiného Jana Krebse; vazba slábne (K−). Praha N166: v Nymburk 07 N I 1761 – II 1763 Anna není; 27. 8. 1761 Kateřina, dcera Jana Kreysa/Krebse (?), sedláka ze Všechlap, × KATEŘINY (sn. 139 vlevo; čteno agentem); 1762 Kateřina, manželka Jakuba Kregsta (?) – snad dvě rodiny nebo 1. manželství Jana. Sňatek Jana × Anny v O IX 1761 – IV 1763 není. Praha N186: další děti Jana Kregse × Anny – Matěj 31. 5. 1759 a Matěj 4. 11. 1760 (Nymburk 07 N sn. 122 vlevo, 132 vpravo; čteno agentem) → pár ženatý nejpozději ~1758; Anna mezi dětmi I 1759 – XII 1760 není; zbývá N 1752–1758 a O 1757–1758. Praha N187: další syn Václav 7. 5. 1758 (sn. 113 vpravo); 1758 i „Kateřina, manželka Jana Kregse“ (svědkyně) – snad dvě rodiny. Souhrn: děti Jana Kregse 1758–1774 známy, dcera Anna mezi nimi není (N 1757–1776 bez mezer kromě VII 1773 – VIII 1774) → Anna zřejmě narozena v mezeře VII 1773 – VIII 1774 nebo 1775–76 (nepročteno)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Veleliby, kniha Veleliby 01 (13539, N 1798–1864), oddíl Krchleby, pag. 21, snímek 14 (5. 11. 1806) a pag. 15, snímek 11 (13. 1. 1804); rejstřík Veleliby 13 sn. 22 – https://ebadatelna.soapraha.cz/d/13539/14",
-        "SOA Praha, fara Nymburk, Nymburk 08 (10407) N sn. 40 vlevo (3. 2. 1772) – https://ebadatelna.soapraha.cz/d/10407/40"
+        "SOA Praha, fara Nymburk, Nymburk 08 (10407) N sn. 40 vlevo (3. 2. 1772) – https://ebadatelna.soapraha.cz/d/10407/40",
+        "SOA Praha, fara Veleliby, Veleliby 01 (13539) N sn. 5 vlevo (IV 1799), sn. 8 vlevo (1801); Veleliby 03 (13541) O sn. 24 vpravo – https://ebadatelna.soapraha.cz/d/13539/5"
       ],
       scans: [
-        {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest vnučky Kateřiny, Krchleby 1806"}
+        {"f":"img/1806_N_Malkova_Katerina_Krchleby.jpg","t":"Křest vnučky Kateřiny, Krchleby 1806"},
+        {"f":"img/1799_N_Malkova_Anna_Krchleby53_matka_Kreysova.jpg","t":"Křest vnučky Anny IV 1799, Krchleby 53 – „dcera Jana Kreysa, rychtáře ze Všechlap“"},
+        {"f":"img/1830_O_Malkova_Katerina_matka_Kreysova.jpg","t":"Sňatky vnučky Kateřiny 1829/1830 – „matky Anny rozené Kreysové“"}
       ]
     },
     {
