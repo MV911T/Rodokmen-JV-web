@@ -14974,11 +14974,13 @@ window.RODOKMEN = {
       marriage: "9. 2. 1709, Branov – 2. sňatek, s Jiřím Skleničkou; 1. manžel Martin Horn z Branova",
       notes: [
         "KANDIDÁT (K+): matka Jiřího Skleničky (*7. 8. 1713, Branov) – viz karta manžela.",
-        "Vdova po Martinu Hornovi z Branova; 9. 2. 1709 se provdala za mládence Jiřího, syna Jiříka Skleničky z Branova (Zbečno 01 O sn. 395 vpravo; M pro zápis, ověřeno koordinátorem). Rodné příjmení v zápisu není – hledat sňatek s Martinem Hornem a jeho úmrtí (Zbečno 01, před II 1709)."
+        "Vdova po Martinu Hornovi z Branova; 9. 2. 1709 se provdala za mládence Jiřího, syna Jiříka Skleničky z Branova (Zbečno 01 O sn. 395 vpravo; M pro zápis, ověřeno koordinátorem). Rodné příjmení v zápisu není – hledat sňatek s Martinem Hornem a jeho úmrtí (Zbečno 01, před II 1709).",
+        "1. manžel: „Martin Horn mladší z Branova“ zemřel 28. 12. 1708 (Zbečno 01 Z sn. 487 vlevo; rok ze sledu nadpisů; věk neuveden; čteno agentem) – Ludmila se znovu vdala po šesti týdnech. 26. 1. 1709 zemřela jiná „Lydmilla Hornová z Branova“ (snad tchyně); 6. 3. 1703 zemřel Pavel Horn, starý soused branovský, 90 let (sn. 484 vpravo). Sňatek Martina Horna s Ludmilou není v Zbečno 01 O XI 1696 – II 1710 (Praha N206–N208)."
       ],
       sources: [
         "SOA Praha, fara Zbečno, Zbečno 01 (8790) O sn. 395 vpravo, pag. 420 (9. 2. 1709) – https://ebadatelna.soapraha.cz/d/8790/395",
-        "SOA Praha, fara Zbečno, Zbečno 01 (8790) N sn. 462 vlevo (7. 8. 1713) – https://ebadatelna.soapraha.cz/d/8790/462"
+        "SOA Praha, fara Zbečno, Zbečno 01 (8790) N sn. 462 vlevo (7. 8. 1713) – https://ebadatelna.soapraha.cz/d/8790/462",
+        "SOA Praha, fara Zbečno, Zbečno 01 (8790) Z sn. 487 vlevo (28. 12. 1708) – https://ebadatelna.soapraha.cz/d/8790/487"
       ],
       scans: [
         {"f":"img/1709_O_sklenicka_jiri_ludmila.jpg","t":"Sňatek 9. 2. 1709, Branov – Jiří, syn Jiříka Skleničky × Ludmila, vdova po Martinu Hornovi"},
@@ -14995,7 +14997,8 @@ window.RODOKMEN = {
       alive: false,
       notes: [
         "KANDIDÁT (K+): otec Jiřího Skleničky ml., uveden při jeho sňatku 9. 2. 1709 jako „Giřik Sklenčka z Branowa“ bez „nebožtík“ – tehdy zřejmě žil (Zbečno 01 O sn. 395 vpravo; M pro zápis).",
-        "V X 1706 byl „Jiří, syn Jiříka Skleničky z Branova“ družbou (Zbečno 01 O sn. 388 vpravo). Pozor: 19. 11. 1707 se vdávala Ludmila, „pozůstalá dcera po neb. Jiřím Skleničkovi z Branova“, za Václava Staňka (sn. 392 vlevo) – jiný, už zemřelý Jiří. Václav (× 1703) a Jiří (× 1706 Polyxena) byli synové † Řehoře Skleničky z Branova."
+        "V X 1706 byl „Jiří, syn Jiříka Skleničky z Branova“ družbou (Zbečno 01 O sn. 388 vpravo). Pozor: 19. 11. 1707 se vdávala Ludmila, „pozůstalá dcera po neb. Jiřím Skleničkovi z Branova“, za Václava Staňka (sn. 392 vlevo) – jiný, už zemřelý Jiří. Václav (× 1703) a Jiří (× 1706 Polyxena) byli synové † Řehoře Skleničky z Branova.",
+        "Starší Skleničkové v Branově (Zbečno 01 Z, souhrnný soupis, rok na okraji „[16]98“, čteno agentem, K): „neb. Jan Sklenička (?) z Branova starý 98 let“ a „neb. Mandelyna Skleničková z Branova 99 let“ (sn. 482 vpravo; věky v soupisu podezřele vysoké)."
       ],
       sources: [
         "SOA Praha, fara Zbečno, Zbečno 01 (8790) O sn. 395 vpravo, pag. 420 (9. 2. 1709) – https://ebadatelna.soapraha.cz/d/8790/395",
