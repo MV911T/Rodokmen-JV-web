@@ -10707,7 +10707,7 @@ window.RODOKMEN = {
       marriage: "17. 11. 1732, Lounín – s Jiřím Skálou",
       notes: [
         "Rozená Kolářová; oddána 17. 11. 1732 v Louníně (fara Tmaň) s Jiřím Skálou (M). Matka Václava (1734), Jakuba (1738), Jana (1741) a Jiřího (*1. 2. 1751) – jediná manželka Jiřího st. 1732–1760 (žádný druhý sňatek, D). Rodiče neuvedeni; Kateřina Skálová z Lounína (svědkyně 1732, kmotra 1754) je zřejmě příbuzná manžela (K).",
-        "Ovdověla 16. 1. 1760. Zemřela 22. 3. 1783 v Louníně č. 6: „Veronica Skallowa, Judicis Launensis Mater“ (matka lounínského rychtáře), 80 let, zaopatřena všemi svátostmi; pohřbil farář Václav František Matějka (Tmaň 02 (10456) Z sn. 271 vlevo; M pro zápis, ověřeno koordinátorem). Ztotožnění K+: jediná Veronika Skálová v Z Tmaň 1760–1783 (Praha N272–N273); věk 80 → *~1703 (odhad byl ~1710). Který ze synů (Václav *1734, Jakub *1738, Jan *1741, Jiří *1751) byl 1783 rychtářem, nezjištěno.",
+        "Ovdověla 16. 1. 1760. Zemřela 22. 3. 1783 v Louníně č. 6: „Veronica Skallowa, Judicis Launensis Mater“ (matka lounínského rychtáře), 80 let, zaopatřena všemi svátostmi; pohřbil farář Václav František Matějka (Tmaň 02 (10456) Z sn. 271 vlevo; M pro zápis, ověřeno koordinátorem). Ztotožnění: rychtářem v Louníně č. 6 byl 1783 Matěj Skála, „syn po † Jiřím Skálovi z Lounína“ (sňatek 1767) – tedy její syn (Praha N273–N274); věk 80 → *~1703 (odhad byl ~1710).",
         "Kolářové v Louníně: Kateřina Kolářka (kmotra 1738) a Lidmila Kolářová (svědkyně 1744) – snad sestry (K). „Dorota … vdova“ 1738 je Dorota Skálová, vdova po Petrovi, ne Kolářová. Křest Veroniky nenalezen ve faře Tmaň 1698–1707 a 1710 – VII 1727 (Tmaň 01/01b, všechny obce; výhrady: vložka 1702–03 a 1725–27 čitelné jen zčásti) a v Borku X 1708 – VI 1709 ani v Borku 01 1699 – V 1705 (kniha neúplná), v rejstříku N Borek 02 1710–1747 (K: jen Anna Kolářová, Želkovice; „Krawarzin Veronica“ 1729 = Kravařová) a v rejstříku N Bezdědice 26 1691–1716 → pokřtěna nejspíš mimo tyto fary. KANDIDÁTI rodiny (K): Jiří Kolář, „kunický (?) mlynář“ × Alžběta – Kateřina 12. 11. 1699, Eva 22. 11. 1700 (kmotři z Králova Dvora a Tetína); Václav Kolář ze Želkovic × Lidmila – Anna 21. 4. 1699 (fara Tmaň, Tmaň 01 sn. 64–68, M zápisy)."
       ],
       sources: [
@@ -10721,7 +10721,8 @@ window.RODOKMEN = {
         {"f":"img/1751_N_Skala_Jiri_Lounin_Tman.jpg","t":"Křest Jiřího Skály z Lounína, Tmaň, 1. 2. 1751 (otec Jiří Skála, matka Veronika)"},
         {"f":"img/1760_Z_Skala_Jiri_st_Lounin_Tman.jpg","t":"Úmrtí manžela Jiřího Skály st., Lounín, 16. 1. 1760"},
         {"f":"img/1732_O_Skala_Jiri_Kolarova_Veronika_Lounin.jpg","t":"Sňatek Jiřího Skály s Veronikou Kolářovou, Lounín (fara Tmaň), 17. 11. 1732"},
-        {"f":"img/1783_umrti_veronika_skalova.jpg","t":"Úmrtí 22. 3. 1783, Lounín č. 6"}
+        {"f":"img/1783_umrti_veronika_skalova.jpg","t":"Úmrtí 22. 3. 1783, Lounín č. 6"},
+        {"f":"img/1767_snatek_matej_skala.jpg","t":"Sňatek syna Matěje 27. 2. 1767, Borek"}
       ]
     },
     {
@@ -15434,6 +15435,32 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1855_krest_josef_divis_matka_antonie_novakova.jpg","t":"Křest syna Josefa 11. 11. 1855, Nová Huť č. 47"}
+      ]
+    },
+    {
+      id: "matej_sk",
+      name: "Matěj Skála",
+      maiden: "",
+      line: "skala",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true,"place":"Lounín (fara Tmaň)"},
+      father: "jiri_sk_st",
+      mother: "veronika_sk",
+      alive: false,
+      occ: "rychtář v Louníně (1783), č. 6",
+      marriage: "27. 2. 1767, Borek – s Josefou, dcerou Václava Svobody z Málkova",
+      notes: [
+        "Oddán 27. 2. 1767 v kostele sv. Mikuláše v Borku (oddíl „Ex pago Malkow“): „honestus adolescens Mathias, proprius superstes filius post def. Georgium Skala ex pago Launin, cum … virgine Josepha, propria filia Wenceslai Swoboda ex pago Malkow“; svědci Matěj Veselý z Lounína, Jakub Růžička z Málkova, František Daubin (?) z Býkoše, Václav Svoboda z Málkova, Josefa Horáková (?) z Tmaně; oddal farář Filip Bílek (Borek 03 (4072) O p. 76, sn. 229 vlevo; M, ověřeno koordinátorem). Otec „† Jiří Skála z Lounína“ – jediný Jiří Skála v Louníně 1732–1760 → syn Jiřího a Veroniky (D).",
+        "Rychtář (judex) v Louníně č. 6: 30. 9. 1783 křest syna Josefa („Mathias Skala Judex et uxor Josepha“, Tmaň 02 (10456) N sn. 139 vpravo; M); kmotr III 1783 jako „Mathias Skala Judex Launensis“ (sn. 137 vpravo). Jeho matka Veronika † 22. 3. 1783 v č. 6 jako „Judicis Launensis Mater“ (Praha N274).",
+        "Křest (*~1735–43) dosud nenalezen – mezery v N Tmaň 02 1735–37 a 1742–43 (sn. 17–19, 27–28)."
+      ],
+      sources: [
+        "SOA Praha, fara Borek, Borek 03 (4072) O p. 76, sn. 229 vlevo – https://ebadatelna.soapraha.cz/d/4072/229",
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N sn. 139 vpravo – https://ebadatelna.soapraha.cz/d/10456/139"
+      ],
+      scans: [
+        {"f":"img/1767_snatek_matej_skala.jpg","t":"Sňatek 27. 2. 1767, Borek (Málkov)"},
+        {"f":"img/1783_krest_josef_skala_rychtar.jpg","t":"Křest syna Josefa 30. 9. 1783, Lounín č. 6 – otec rychtář"}
       ]
     }
   ]
