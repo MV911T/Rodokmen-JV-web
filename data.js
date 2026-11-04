@@ -7963,7 +7963,8 @@ window.RODOKMEN = {
         "Oddán 19. 1. 1806 v Otročiněvsi (fara Hudlice): „Jozef, syn po † Kašparovi Novákovi z Nové Hutě“, kat., 25 let, svobodný × „Marye, dcera po † Jozefovi Malým z Otročiněvse“, 18 let; oddával Jos. Janda (?); svědci František … (?) a Jan Zigmund (?) ze Stradonic (?) (Hudlice 10 O pag. 84, sn. 45 vlevo; M, ověřeno koordinátorem). Jméno otce dříve čteno „Lukáš“, opraveno na „Kašpar“ (4. 11. 2026).",
         "Podruhé oddán 9. 8. 1830 v Nižboře: „Joseph Nowak, Häusler und Hochofengesell zu Neuhütten N. 43, Sohn nach Kaspar Nowak Hochofenmeister daselbst und der Mutter Veronika gebornen Watzin aus Althütten“, 49 let, vdovec × Ludmila, dcera Jiřího Kroba (?), kovářského mistra (?) v Leit… (?) č. 26, a Marie roz. Košák (?) z Kreuzhütte (?), 36 let (Nižbor 16 (9791) O fol. 7, sn. 9 vlevo; M, ověřeno koordinátorem). Potvrzuje rodiče Kašpara a Veroniku Vacínovou i křest 1781. Dcera z 2. manželství Josefa † 6. 5. 1832 v č. 43, 3/4 roku (Nižbor 18 (9793) Z pag. 63, sn. 33 vpravo).",
         "Pokřtěn 12. 10. 1781 (nar. 11. 10.) v Nižboře č. 7 jako „Josephus Franciscus“, syn Kašpara Nováka, horníka, × Veroniky (Nižbor 02 N str. 158, sn. 83 vlevo; M). Ztotožnění: jméno otce ve sňatku 1806, věk 25 let a dům č. 43 (otec † 1789 v č. 43, Josef tam žil 1807–33).",
-        "Úmrtí: v Nižbor 18 (Z 1818–1850, rejstřík N 1833–50) není (N249–N251); po 1850 pokračuje kniha Z obce Nižbor „čísl. III“ od 20. 1. 1850."
+        "2. manželka Ludmila roz. Krobová zemřela 14. 1. 1848 v Nové Huti č. 43, 52 let: „Nováková Ludmila, manželka Josefa Nováka, tovaryše u železných hutí, dcera Jiřího Kroba, ovčáka z Chejí (?), a matky Marie“ (Nižbor 18 (9793) Z pag. 201, sn. 102 vpravo; M, ověřeno koordinátorem) – Josef tehdy ještě žil.",
+        "KANDIDÁT úmrtí (K+): 17. 8. 1855, pohřben 19. 8. ve Stradonicích – „Novák Josef, pensinovaný tovaryš u pece z Nové Huti Č. 47“, 76 let, slabost (Nižbor 19 (9794) Z list 64, sn. 66; M pro zápis, ověřeno koordinátorem; rejstřík chybně uvádí list 69). Jméno, obec a povolání sedí; proti: č. 47 místo 43 a věk 76 (z křtu 1781 vychází 73). V Nižbor 18 (Z 1818–1850) Josef není (N249–N253)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
@@ -7971,7 +7972,9 @@ window.RODOKMEN = {
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
         "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45",
         "SOA Praha, fara Nižbor, Nižbor 02 (9777) N str. 158, sn. 83 vlevo – https://ebadatelna.soapraha.cz/d/9777/83",
-        "SOA Praha, fara Nižbor, Nižbor 16 (9791) O 1826–1855, fol. 7, sn. 9 vlevo (9. 8. 1830); rejstřík O sn. 134 vpravo – https://ebadatelna.soapraha.cz/d/9791/9"
+        "SOA Praha, fara Nižbor, Nižbor 16 (9791) O 1826–1855, fol. 7, sn. 9 vlevo (9. 8. 1830); rejstřík O sn. 134 vpravo – https://ebadatelna.soapraha.cz/d/9791/9",
+        "Nižbor 18 (9793) Z pag. 201, sn. 102 vpravo – https://ebadatelna.soapraha.cz/d/9793/102",
+        "Nižbor 19 (9794) Z list 64, sn. 66 – https://ebadatelna.soapraha.cz/d/9794/66"
       ],
       scans: [
         {"f":"img/1781_krest_josef_novak.jpg","t":"Křest 12. 10. 1781, Nižbor č. 7"},
@@ -7979,7 +7982,8 @@ window.RODOKMEN = {
         {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest dcery Marie Novákové, Nová Huť 30. 6. 1807"},
         {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek 19. 1. 1806, Otročiněves (fara Hudlice) – Josef Novák z Nové Huti × Marie Malá"},
         {"f":"img/1789_umrti_kaspar_novak.jpg","t":"Úmrtí otce Kašpara 28. 3. 1789, Nižbor č. 43"},
-        {"f":"img/1830_snatek_josef_novak_vdovec.jpg","t":"2. sňatek Josefa Nováka (vdovec) 9. 8. 1830, Nová Huť č. 43"}
+        {"f":"img/1830_snatek_josef_novak_vdovec.jpg","t":"2. sňatek Josefa Nováka (vdovec) 9. 8. 1830, Nová Huť č. 43"},
+        {"f":"img/1855_umrti_josef_novak_kandidat.jpg","t":"Kandidátní úmrtí 17. 8. 1855, Nová Huť č. 47"}
       ]
     },
     {
