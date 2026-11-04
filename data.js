@@ -15363,13 +15363,14 @@ window.RODOKMEN = {
       father: "antonin_vc",
       spouse: "lukas_nv",
       alive: false,
-      marriage: "19. 10. 1779 (?), Nižbor – s Kašparem Novákem",
+      marriage: "19. 10. 1779 (?), Nižbor – s Kašparem Novákem; 2) 1790, Nižbor č. 43 – s Josefem Rosenbaumem",
       notes: [
         "Dcera † Antonína Vacína („Waczin“; dříve čteno Wagen), horníka (ferri fossor) z Vysoké Huti (ex Alta Hutna); oddána 19. 10. [1779 ?] v Nižboře s Kašparem Novákem; svědci Josef Laun, učitel nižborský, a Josef Sauček (?), rychtář nižborský (Nižbor 02 O pag. 222, sn. 128 vlevo; M, ověřeno koordinátorem; rok sňatku z polohy v knize).",
         "Matka Josefa Františka Nováka, pokř. 12. 10. 1781 Nižbor č. 7 (Nižbor 02 N str. 158, sn. 83 vlevo; M).",
-        "Podruhé oddána [1790 ?] v Nižboře, č. 43: ženich Josef K… (?) (příjmení nečitelné), 26 let, svobodný × „Weronika Nowakowa“, vdova, 32 let; svědci Josef Zhorný (?) a Josef Holeček (?) (Nižbor 04 (9779) O sn. 4, poslední řádek; M pro zápis, den a měsíc nečteny). Dům č. 43 = dům, kde † 1789 Kašpar. V rejstříku Z Nižbor 04 (1784–1817) není (N248).",
+        "Podruhé oddána 1790 (VIII–XII ?) v Nižboře, č. 43: ženich „Jozef Rozenbaum“ (Rosenbaum; tvar písma stejný jako u otce dětí v č. 43 – Praha N304), 26 let, svobodný × „Weronika Nowakowa“, vdova, 32 let; svědci Josef Zhorný (?) a Josef Holeček (?) (Nižbor 04 (9779) O sn. 4, poslední řádek; M pro zápis, den a měsíc nečteny). Dům č. 43 = dům, kde † 1789 Kašpar. V rejstříku Z Nižbor 04 (1784–1817) není (N248).",
         "KANDIDÁT křtu (K): 17./18. 9. 1750 Stradonice – „Veronica Anna Barbara filia Parentis Antonij Watzyn, Matris Veronicae“; lev. Anna Hecliana (?), komornice nižborská (Nižbor 02 N pag. 25, sn. 15 vpravo; M pro zápis). ROZPOR: věk 32 při 2. sňatku ~1790 → *~1758; křest 1750 → 40 let. Jiná Veronika Vacínová z rejstříku (12. 12. 1764) má otce Jana – vyloučena.",
-        "Ve 2. sňatku syna Josefa 1830: „Mutter Veronika geborne Watzin aus Althütten“ (ze Staré Huti) – potvrzuje rodné příjmení Vacínová (Nižbor 16 O sn. 9 vlevo; M, ověřeno koordinátorem)."
+        "Ve 2. sňatku syna Josefa 1830: „Mutter Veronika geborne Watzin aus Althütten“ (ze Staré Huti) – potvrzuje rodné příjmení Vacínová (Nižbor 16 O sn. 9 vlevo; M, ověřeno koordinátorem).",
+        "S Josefem Rosenbaumem v Nižboře č. 43 děti (M pro zápisy; ztotožnění matky K+): Jan František ~1790/91 (Nižbor 04 (9779) N pag. 45, sn. 46 vpravo), Václav 1793 (pag. 49, sn. 50 vpravo; „Jozef Rozengaum, Weronika“) a Marie Klára ~1795/96 (pag. 53, sn. 54); kmotr Josef Sýkora. V č. 9 současně Jan Rosenbaum × Marie – jiná rodina."
       ],
       sources: [
         "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 222, sn. 128 vlevo – https://ebadatelna.soapraha.cz/d/9777/128",
