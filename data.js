@@ -12513,33 +12513,44 @@ window.RODOKMEN = {
       line: "malek",
       cert: "M",
       b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
+      father: "jan_mk",
       spouse: "anna_ma0",
       occ: "sedlák v Krchlebích",
+      marriage: "23. 1. 1757, Veleliby – s Annou, dcerou † Jiřího Matějky (K+)",
       notes: [
-        "Sedlák v Krchlebích (fara Nymburk); otec Pavla (*22. 10. 1760) – křest syna (M)."
+        "Sedlák v Krchlebích (fara Nymburk); otec Pavla (*22. 10. 1760) – křest syna (M).",
+        "KANDIDÁT sňatku (K+): 23. 1. 1757 v kostele sv. Václava ve Velelibech – „Honestus adolescens Paulus Malek, legitimus filius Joannis Malek coloni et judicis pagi Skrchleb, cum honesta ancilla Anna, filia post defunctum Georgium Matiegka colonum pagi ejusdem, ambo subditi Welkawienses (?), parochiani Nimburgenses“; svědci Dorota Zajíčková, děvečka, a Václav Matějka; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 471, sn. 241 vpravo; M pro zápis, ověřeno koordinátorem). Jediný sňatek Málka ze Skrchleb v O I 1757 – II 1760; syn Pavel *X 1760 (Praha N299)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Nymburk, kniha Nymburk 07 (10406, N/O/Z 1741–1767), pag. 252, snímek 132 vlevo (23. 10. 1760) – https://ebadatelna.soapraha.cz/d/10406/132"
+        "SOA Praha, ř.-k. fara Nymburk, kniha Nymburk 07 (10406, N/O/Z 1741–1767), pag. 252, snímek 132 vlevo (23. 10. 1760) – https://ebadatelna.soapraha.cz/d/10406/132",
+        "SOA Praha, fara Nymburk, Nymburk 07 (10406) O pag. 471, sn. 241 vpravo (23. 1. 1757) – https://ebadatelna.soapraha.cz/d/10406/241"
       ],
       scans: [
-        {"f":"img/1760_N_Malek_Pavel_Krchleby.jpg","t":"Křest syna Pavla, Krchleby 1760"}
+        {"f":"img/1760_N_Malek_Pavel_Krchleby.jpg","t":"Křest syna Pavla, Krchleby 1760"},
+        {"f":"img/1757_snatek_pavel_malek_anna_matejkova.jpg","t":"Sňatek Pavla Málka a Anny Matějkové 23. 1. 1757, Veleliby"}
       ]
     },
     {
       id: "anna_ma0",
       name: "Anna Málková",
+      maiden: "Matějková",
       line: "malek",
       cert: "M",
       b: {"date":"neznámé (odhad ~1735)","year":1735,"approx":true},
+      father: "jiri_mt0",
       spouse: "pavel_ma0",
+      marriage: "23. 1. 1757, Veleliby – s Pavlem Málkem (K+)",
       notes: [
-        "Manželka Pavla Málka, sedláka v Krchlebích; matka Pavla (*1760) – křest syna (M). Rodné příjmení neuvedeno."
+        "Manželka Pavla Málka, sedláka v Krchlebích; matka Pavla (*1760) – křest syna (M). Rodné příjmení neuvedeno.",
+        "KANDIDÁT sňatku (K+): 23. 1. 1757 v kostele sv. Václava ve Velelibech – „Honestus adolescens Paulus Malek, legitimus filius Joannis Malek coloni et judicis pagi Skrchleb, cum honesta ancilla Anna, filia post defunctum Georgium Matiegka colonum pagi ejusdem, ambo subditi Welkawienses (?), parochiani Nimburgenses“; svědci Dorota Zajíčková, děvečka, a Václav Matějka; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 471, sn. 241 vpravo; M pro zápis, ověřeno koordinátorem). Jediný sňatek Málka ze Skrchleb v O I 1757 – II 1760; syn Pavel *X 1760 (Praha N299)."
       ],
       sources: [
-        "SOA Praha, ř.-k. fara Nymburk, kniha Nymburk 07 (10406, N/O/Z 1741–1767), pag. 252, snímek 132 vlevo (23. 10. 1760) – https://ebadatelna.soapraha.cz/d/10406/132"
+        "SOA Praha, ř.-k. fara Nymburk, kniha Nymburk 07 (10406, N/O/Z 1741–1767), pag. 252, snímek 132 vlevo (23. 10. 1760) – https://ebadatelna.soapraha.cz/d/10406/132",
+        "SOA Praha, fara Nymburk, Nymburk 07 (10406) O pag. 471, sn. 241 vpravo (23. 1. 1757) – https://ebadatelna.soapraha.cz/d/10406/241"
       ],
       scans: [
-        {"f":"img/1760_N_Malek_Pavel_Krchleby.jpg","t":"Křest syna Pavla, Krchleby 1760"}
+        {"f":"img/1760_N_Malek_Pavel_Krchleby.jpg","t":"Křest syna Pavla, Krchleby 1760"},
+        {"f":"img/1757_snatek_pavel_malek_anna_matejkova.jpg","t":"Sňatek Pavla Málka a Anny Matějkové 23. 1. 1757, Veleliby"}
       ]
     },
     {
@@ -15705,6 +15716,45 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1732_krest_matej_zajicek.jpg","t":"Křest syna Matěje 17. 2. 1732"}
+      ]
+    },
+    {
+      id: "jan_mk",
+      name: "Jan Málek",
+      maiden: "",
+      line: "malek",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true,"place":"Krchleby (?)"},
+      alive: false,
+      occ: "sedlák a rychtář ve Skrchlebích (1757)",
+      notes: [
+        "KANDIDÁT (K+): otec Pavla Málka st. – při jeho sňatku 23. 1. 1757 „legitimus filius Joannis Malek coloni et judicis pagi Skrchleb“ (Nymburk 07 O sn. 241 vpravo; M pro zápis); 1757 živ. Patrně i otec Doroty, která se vdávala 22. 8. 1759 jako „dcera Jana Málka, sedláka“ (sn. 254 vpravo; čteno agentem)."
+      ],
+      sources: [
+        "SOA Praha, fara Nymburk, Nymburk 07 (10406) O pag. 471, sn. 241 vpravo (23. 1. 1757) – https://ebadatelna.soapraha.cz/d/10406/241"
+      ],
+      scans: [
+        {"f":"img/1757_snatek_pavel_malek_anna_matejkova.jpg","t":"Sňatek syna Pavla 23. 1. 1757"}
+      ]
+    },
+    {
+      id: "jiri_mt0",
+      name: "Jiří Matějka",
+      maiden: "",
+      line: "malek",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true,"place":"Krchleby (?)"},
+      d: {"date":"před 23. 1. 1757","year":1757,"approx":true},
+      alive: false,
+      occ: "sedlák ve Skrchlebích",
+      notes: [
+        "KANDIDÁT (K+): otec Anny Málkové – při jejím sňatku 23. 1. 1757 „filia post defunctum Georgium Matiegka colonum pagi ejusdem [Skrchleb]“ (Nymburk 07 O sn. 241 vpravo; M pro zápis); v r. 1757 už nežil. Ve Skrchlebích 1732–36 křtil Jiří Matějka děti s matkami Alžbětou, Magdalenou a Annou (Nymburk 06; Praha N296) – vazba neověřena."
+      ],
+      sources: [
+        "SOA Praha, fara Nymburk, Nymburk 07 (10406) O pag. 471, sn. 241 vpravo (23. 1. 1757) – https://ebadatelna.soapraha.cz/d/10406/241"
+      ],
+      scans: [
+        {"f":"img/1757_snatek_pavel_malek_anna_matejkova.jpg","t":"Sňatek dcery Anny 23. 1. 1757"}
       ]
     }
   ]
