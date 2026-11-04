@@ -15381,14 +15381,17 @@ window.RODOKMEN = {
       cert: "K",
       b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true,"place":"Hudlice (?)"},
       alive: false,
+      marriage: "24. 11. 1715, Beroun (Hudlice) – s Kateřinou Petrovou (?)",
       notes: [
         "KANDIDÁT (K+): otec Anny Vlasákové – při jejím sňatku 21. 7. 1749 „Anna Fuxowa, dcera Jana Fuxy z Hudlic“ (Beroun 17 O fol. 59, sn. 63 vpravo; M pro zápis); družbou byl Jan Fuxa z Hudlic (snad bratr nevěsty).",
         "Příjmení v oddacím zápisu 1749 dříve čteno „Supa“; koordinátor 4. 11. 2026 opravil na „Fuxa“ (stejný tvar F a x jako „Jana Fuxa“ v berounských křtech; Supa se v Hudlicích 1718–35 nevyskytuje).",
         "Kandidátní rodina (K): Jan Fux (Fuxa), „Rowař (?)“, × Kateřina v Hudlicích – děti Vojtěch 26./27. 3. 1723 (Beroun 06 sn. 97 vpravo), Jan Stanislav 6. 5. 1725 (sn. 116 L), Václav 31. 8. 1727 (sn. 139 R), Jiří Matěj 17./18. 2. 1730 (sn. 160 L), Dorota 27./31. 7. 1732 (sn. 178 R) (M pro zápisy). Křest dcery Anny v Beroun 06 1721–1735 nenalezen (mezera 1728–31 neúplně čtena) (Praha N255). V Hudlicích současně Václav Fux × Ludmila (děti 1729–35).",
-        "Anna Fuxová byla kmotrou už 19. 7. 1717 u Anny, dcery Františka Vlasáka × Kateřiny (Beroun 06 sn. 50 R; M) a 1717–1722 jako „panna Anna Fuxová“ (K) – starší Anna (sestra Jana ?). Křest Anny, dcery Jana, v Beroun 06 VI 1717 – 1735 nenalezen (N255–N257)."
+        "Anna Fuxová byla kmotrou už 19. 7. 1717 u Anny, dcery Františka Vlasáka × Kateřiny (Beroun 06 sn. 50 R; M) a 1717–1722 jako „panna Anna Fuxová“ (K) – starší Anna (sestra Jana ?). Křest Anny, dcery Jana, v Beroun 06 VI 1717 – 1735 nenalezen (N255–N257).",
+        "Oddán 24. 11. 1715 (z Hudlic): „potvrzen w staw manželský počestný mládenec Jan Fuxa s počestnau děwečkau Kateřinau Petrowau (?)“; svědci Václav a Jakub Kulhánkovi, Dorota Jungmanová, Ludmila Malá; rodiče neuvedeni (Beroun 16 (3918) O sn. 44 vlevo; M pro zápis, ověřeno koordinátorem; příjmení nevěsty nejisté). Jediný sňatek Jana Fuxe v Beroun 16 1711–17 → Kateřina asi matka Anny (K)."
       ],
       sources: [
-        "SOA Praha, fara Beroun, Beroun 17 (3921) O fol. 59, sn. 63 vpravo (21. 7. 1749); rejstřík O Beroun 40 (3942) sn. 128 vpravo – https://ebadatelna.soapraha.cz/d/3921/63"
+        "SOA Praha, fara Beroun, Beroun 17 (3921) O fol. 59, sn. 63 vpravo (21. 7. 1749); rejstřík O Beroun 40 (3942) sn. 128 vpravo – https://ebadatelna.soapraha.cz/d/3921/63",
+        "SOA Praha, fara Beroun, Beroun 16 (3918) O 1687–1734, sn. 44 vlevo – https://ebadatelna.soapraha.cz/d/3918/44"
       ],
       scans: [
         {"f":"img/1749_snatek_frantisek_vlasak_anna_fuxova.jpg","t":"Sňatek dcery Anny 21. 7. 1749, Beroun"}
