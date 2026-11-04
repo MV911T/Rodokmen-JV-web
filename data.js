@@ -15626,17 +15626,20 @@ window.RODOKMEN = {
       maiden: "Kregzinová (?)",
       line: "nezname",
       cert: "K",
-      b: {"date":"neznámé (odhad ~1735)","year":1735,"approx":true,"place":"Krchleby (?)"},
+      b: {"date":"asi 1736 (kandidátní křest 20. XII 1736 – viz poznámky)","year":1736,"approx":true,"place":"Krchleby (Skrchleby)"},
       spouse: "matej_zj",
       alive: false,
       notes: [
-        "KANDIDÁTKA (K+): manželka Matěje Zajíčka, matka Jana (*1759) – „matka Dorotha“ v křtech 1757 a 1759 (Nymburk 07 sn. 104, 121; M). Kandidátní sňatek: 23. 11. 1755 ve filiálním kostele sv. Václava ve Velelibech: „Honestus adolescens [Mat]hias (jméno na okraji), filius Danielis Zagjček coloni ex pago Skrchleb, cum honesta ancilla Dorothea, filia Georgii Kregzin (?) ex pago eodem coloni, ambo subditi Welkawienses (?)“; svědci Jan Tygna, podruh ze Všechlap, a Kateřina Kubánková; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 460, sn. 236 vlevo; M pro zápis, ověřeno koordinátorem)."
+        "KANDIDÁTKA (K+): manželka Matěje Zajíčka, matka Jana (*1759) – „matka Dorotha“ v křtech 1757 a 1759 (Nymburk 07 sn. 104, 121; M). Kandidátní sňatek: 23. 11. 1755 ve filiálním kostele sv. Václava ve Velelibech: „Honestus adolescens [Mat]hias (jméno na okraji), filius Danielis Zagjček coloni ex pago Skrchleb, cum honesta ancilla Dorothea, filia Georgii Kregzin (?) ex pago eodem coloni, ambo subditi Welkawienses (?)“; svědci Jan Tygna, podruh ze Všechlap, a Kateřina Kubánková; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 460, sn. 236 vlevo; M pro zápis, ověřeno koordinátorem).",
+        "KANDIDÁT křtu (K+): 20. [XII] 1736 ze Skrchleb – „Dorota, O: Jiří Kregzi, M: Anna; K: Marie Nimburgerová, Eva Kregzi…lová (?), Jan Malý“ (Nymburk 06 (10405) N sn. 293 vlevo; záhlaví „An. 1737 Januarius“ až na sn. 293 vpravo → spíš XII 1736; M pro zápis, ověřeno koordinátorem). Jediná Dorota Jiřího Kregzina v N X 1731 – XI 1737; při sňatku 1755 by jí bylo 18–19. Jiří Kregzi kmotrem ve Skrchlebích ~X 1736 (sn. 289 vlevo) (Praha N296)."
       ],
       sources: [
-        "Nymburk 07 (10406) O sn. 236 vlevo – https://ebadatelna.soapraha.cz/d/10406/236"
+        "Nymburk 07 (10406) O sn. 236 vlevo – https://ebadatelna.soapraha.cz/d/10406/236",
+        "Nymburk 06 (10405) N sn. 293 vlevo – https://ebadatelna.soapraha.cz/d/10405/293"
       ],
       scans: [
-        {"f":"img/1755_snatek_matej_zajicek.jpg","t":"Kandidátní sňatek 23. 11. 1755, Veleliby"}
+        {"f":"img/1755_snatek_matej_zajicek.jpg","t":"Kandidátní sňatek 23. 11. 1755, Veleliby"},
+        {"f":"img/1736_krest_dorota_kregzinova.jpg","t":"Kandidátní křest XII 1736, Skrchleby"}
       ]
     },
     {
@@ -15670,7 +15673,8 @@ window.RODOKMEN = {
       occ: "sedlák ve Skrchlebích (Krchleby)",
       notes: [
         "Otec Matěje Zajíčka – při jeho (kandidátním) sňatku 23. 11. 1755 „filius Danielis Zagjček coloni ex pago Skrchleb“ (Nymburk 07 (10406) O sn. 236 vlevo; M); 1755 ještě žil. Kmotr ve Skrchlebích 9. 2. 1733 (Nymburk 06 sn. 235 vlevo).",
-        "Syn Matěj nar./pokř. 17. 2. 1732 ve Skrchlebích: „Matěg. Ot: Daniel Zagjček, Mat: Katteřina. Kmotři Matěg Kalysta, Kateřina (?) Zwonařowa (?), …Janyšowa (?). Parentes subditi Wlkawienses“ (Nymburk 06 (10405) N sn. 223 vlevo, záhlaví „An. 1732 Februarius“ sn. 222 vpravo; M pro zápis, ověřeno koordinátorem)."
+        "Syn Matěj nar./pokř. 17. 2. 1732 ve Skrchlebích: „Matěg. Ot: Daniel Zagjček, Mat: Katteřina. Kmotři Matěg Kalysta, Kateřina (?) Zwonařowa (?), …Janyšowa (?). Parentes subditi Wlkawienses“ (Nymburk 06 (10405) N sn. 223 vlevo, záhlaví „An. 1732 Februarius“ sn. 222 vpravo; M pro zápis, ověřeno koordinátorem).",
+        "Praha N295: sňatek s Kateřinou v Nymburk 06 (10405) O IX 1714 – V 1732 nenalezen (střední negativ; mřížky ×0,34). Mapa O: 354 R = 1715 … 390 R = 1732; Z od sn. ~415."
       ],
       sources: [
         "Nymburk 07 (10406) O sn. 236 vlevo – https://ebadatelna.soapraha.cz/d/10406/236",
