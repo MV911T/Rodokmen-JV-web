@@ -8415,18 +8415,23 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (asi 1747, kandidátní křest – viz poznámky)","year":1747,"approx":true},
+      d: {"date":"5. 8. 1816","year":1816,"place":"Sýkořice č. p. 6 (fara Zbečno)"},
+      cause: "sněť (Brand)",
       spouse: "matej_jo",
       notes: [
         "Druhá manželka ševce Matěje Jonáše (sňatek ~2x. 3. 1772, „h. v. Josepha Blinin (?) e Sykořitz“); matka Marie (*1773) a Josefa (~1780). Rodiče v zápisu neuvedeni.",
-        "KANDIDÁT křtu (K): 1. VIII (narozena), 2. VIII pokřtěna 1747 (záhlaví „Anno 1747“ na pag. 100, měsíce plynule do pag. 105; Praha N168), Městečko – „Josepha Veronica Maria, honestorum Parentum Joannis Blín et Annae, Subditorum Pürglitzensium hujus Parochiae“; kmotra Josefa Obermayerová (?) z Křivoklátu, svědci Marie Stařničková (?) z Městečka, Jan Prošek (?) ze Zbečna; křtil Leopold Kameníček (Zbečno 04 N sn. 56 vpravo, pag. 105; rejstřík N B sn. 403 vpravo – jediná Josefa Blínová 1742–~1764; M pro zápis, ověřeno koordinátorem). Proti: v oddacím 1772 „e Sykořitz“, křest v Městečku."
+        "KANDIDÁT křtu (K): 1. VIII (narozena), 2. VIII pokřtěna 1747 (záhlaví „Anno 1747“ na pag. 100, měsíce plynule do pag. 105; Praha N168), Městečko – „Josepha Veronica Maria, honestorum Parentum Joannis Blín et Annae, Subditorum Pürglitzensium hujus Parochiae“; kmotra Josefa Obermayerová (?) z Křivoklátu, svědci Marie Stařničková (?) z Městečka, Jan Prošek (?) ze Zbečna; křtil Leopold Kameníček (Zbečno 04 N sn. 56 vpravo, pag. 105; rejstřík N B sn. 403 vpravo – jediná Josefa Blínová 1742–~1764; M pro zápis, ověřeno koordinátorem). Proti: v oddacím 1772 „e Sykořitz“, křest v Městečku.",
+        "Zemřela 5. 8. 1816 (pohřbena 7. 8.) v Sýkořicích č. 6: „Josepha, Wittwe nach dem † Mathias Jonaš, Schuster zu Sikořitz N: 6“, 67 let, „am Brande“; pohřbil P. Anton Michalek (?), farář (Zbečno 23 (8868) Z pag. 34, sn. 20 vlevo; rejstřík J sn. 93 vpravo; M, ověřeno koordinátorem). Věk 67 → *~1749 (kandidátní křest 1747 – rozdíl 2 roky). Syn Antonín Jonáš, švec, † 16. 6. 1839 v č. 6, 59 let (sn. 34 vlevo) (Praha N302)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04 (NOZ 1742–1784), pag. 478, snímek 245 – https://ebadatelna.soapraha.cz/d/8849/245",
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 04, oddíl O, snímek 360 – https://ebadatelna.soapraha.cz/d/8849/360",
-        "SOA Praha, fara Zbečno, Zbečno 04 (8849) N sn. 56 vpravo, pag. 105 (1. 8. ~1746); rejstřík sn. 403 vpravo – https://ebadatelna.soapraha.cz/d/8849/56"
+        "SOA Praha, fara Zbečno, Zbečno 04 (8849) N sn. 56 vpravo, pag. 105 (1. 8. ~1746); rejstřík sn. 403 vpravo – https://ebadatelna.soapraha.cz/d/8849/56",
+        "SOA Praha, fara Zbečno, Zbečno 23 (8868) Z sn. 20 vlevo – https://ebadatelna.soapraha.cz/d/8868/20"
       ],
       scans: [
-        {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest Marie Jonášové, Zbečno 26. 4. 1773"}
+        {"f":"img/1773_krest_marie_jonasova_sykorice6_zbecno04_sn245.jpg","t":"Křest Marie Jonášové, Zbečno 26. 4. 1773"},
+        {"f":"img/1816_umrti_josefa_jonasova.jpg","t":"Úmrtí 5. 8. 1816, Sýkořice č. 6"}
       ]
     },
     {
