@@ -7953,6 +7953,8 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"11. 10. 1781 (pokř. 12. 10.)","year":1781,"place":"Nižbor č. 7"},
+      d: {"date":"17. 8. 1855","year":1855,"place":"Nová Huť č. 47 (fara Nižbor), pohřben ve Stradonicích"},
+      cause: "slabost",
       father: "lukas_nv",
       mother: "veronika_nv",
       spouse: "marie_ma",
@@ -7964,7 +7966,7 @@ window.RODOKMEN = {
         "Podruhé oddán 9. 8. 1830 v Nižboře: „Joseph Nowak, Häusler und Hochofengesell zu Neuhütten N. 43, Sohn nach Kaspar Nowak Hochofenmeister daselbst und der Mutter Veronika gebornen Watzin aus Althütten“, 49 let, vdovec × Ludmila, dcera Jiřího Kroba (?), kovářského mistra (?) v Leit… (?) č. 26, a Marie roz. Košák (?) z Kreuzhütte (?), 36 let (Nižbor 16 (9791) O fol. 7, sn. 9 vlevo; M, ověřeno koordinátorem). Potvrzuje rodiče Kašpara a Veroniku Vacínovou i křest 1781. Dcera z 2. manželství Josefa † 6. 5. 1832 v č. 43, 3/4 roku (Nižbor 18 (9793) Z pag. 63, sn. 33 vpravo).",
         "Pokřtěn 12. 10. 1781 (nar. 11. 10.) v Nižboře č. 7 jako „Josephus Franciscus“, syn Kašpara Nováka, horníka, × Veroniky (Nižbor 02 N str. 158, sn. 83 vlevo; M). Ztotožnění: jméno otce ve sňatku 1806, věk 25 let a dům č. 43 (otec † 1789 v č. 43, Josef tam žil 1807–33).",
         "2. manželka Ludmila roz. Krobová zemřela 14. 1. 1848 v Nové Huti č. 43, 52 let: „Nováková Ludmila, manželka Josefa Nováka, tovaryše u železných hutí, dcera Jiřího Kroba, ovčáka z Chejí (?), a matky Marie“ (Nižbor 18 (9793) Z pag. 201, sn. 102 vpravo; M, ověřeno koordinátorem) – Josef tehdy ještě žil.",
-        "KANDIDÁT úmrtí (K+): 17. 8. 1855, pohřben 19. 8. ve Stradonicích – „Novák Josef, pensinovaný tovaryš u pece z Nové Huti Č. 47“, 76 let, slabost (Nižbor 19 (9794) Z list 64, sn. 66; M pro zápis, ověřeno koordinátorem; rejstřík chybně uvádí list 69). Jméno, obec a povolání sedí; proti: č. 47 místo 43 a věk 76 (z křtu 1781 vychází 73). V Nižbor 18 (Z 1818–1850) Josef není (N249–N253). Praha N260: jiný Josef Novák, krejčovský mistr z Nové Huti č. 37 (× Kateřina Křečková ze Stradonic), žil podle křtu vnučky 21. 11. 1853 (Nižbor 22 sn. 14) – věkem by mohl odpovídat také, povoláním („tovaryš u pece“) ale spíš náš hutník. Obyvatelé č. 43/47 v N 1848–54 nezjištěni. Praha N266: v N Nižbor 14 (1841–52) v č. 43 ani 47 žádný Novák (č. 47 1849 Václav Hůla, hutník); krejčí Josef (č. 37) žil ještě XII 1851 – nerozhodnuto."
+        "Zemřel 17. 8. 1855 (pohřben 19. 8. ve Stradonicích) v Nové Huti č. 47: „Novák Josef, pensinovaný tovaryš u pece z Nové Huti Č. 47“, 76 let, slabost (Nižbor 19 (9794) Z list 64, sn. 66; M, ověřeno koordinátorem; rejstřík má jména posunutá o řádek). Ztotožnění (Praha N267): jediný dospělý Josef Novák z Nové Huti v Z 1850–66; druhý Josef Novák (krejčí, č. 37) zemřel před 27. 2. 1852 (vdova Kateřina roz. Křečková † 27. 2. 1852, Nižbor 19 list 30, sn. 32); v č. 47 žila jeho dcera Antonie provdaná Divišová (křest jejího syna 11. 11. 1855). Věk 76 místo 73 a č. 47 místo 43 tím vysvětleny."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
@@ -7974,7 +7976,9 @@ window.RODOKMEN = {
         "SOA Praha, fara Nižbor, Nižbor 02 (9777) N str. 158, sn. 83 vlevo – https://ebadatelna.soapraha.cz/d/9777/83",
         "SOA Praha, fara Nižbor, Nižbor 16 (9791) O 1826–1855, fol. 7, sn. 9 vlevo (9. 8. 1830); rejstřík O sn. 134 vpravo – https://ebadatelna.soapraha.cz/d/9791/9",
         "Nižbor 18 (9793) Z pag. 201, sn. 102 vpravo – https://ebadatelna.soapraha.cz/d/9793/102",
-        "Nižbor 19 (9794) Z list 64, sn. 66 – https://ebadatelna.soapraha.cz/d/9794/66"
+        "Nižbor 19 (9794) Z list 64, sn. 66 – https://ebadatelna.soapraha.cz/d/9794/66",
+        "Nižbor 19 (9794) Z list 30, sn. 32 – https://ebadatelna.soapraha.cz/d/9794/32",
+        "Nižbor 22 (9797) N fol. 40, sn. 42 – https://ebadatelna.soapraha.cz/d/9797/42"
       ],
       scans: [
         {"f":"img/1781_krest_josef_novak.jpg","t":"Křest 12. 10. 1781, Nižbor č. 7"},
@@ -7983,7 +7987,9 @@ window.RODOKMEN = {
         {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek 19. 1. 1806, Otročiněves (fara Hudlice) – Josef Novák z Nové Huti × Marie Malá"},
         {"f":"img/1789_umrti_kaspar_novak.jpg","t":"Úmrtí otce Kašpara 28. 3. 1789, Nižbor č. 43"},
         {"f":"img/1830_snatek_josef_novak_vdovec.jpg","t":"2. sňatek Josefa Nováka (vdovec) 9. 8. 1830, Nová Huť č. 43"},
-        {"f":"img/1855_umrti_josef_novak_kandidat.jpg","t":"Kandidátní úmrtí 17. 8. 1855, Nová Huť č. 47"}
+        {"f":"img/1855_umrti_josef_novak_kandidat.jpg","t":"Úmrtí 17. 8. 1855, Nová Huť č. 47"},
+        {"f":"img/1855_umrti_josef_novak_vek.jpg","t":"Úmrtí 17. 8. 1855 – věk 76, příčina"},
+        {"f":"img/1855_krest_josef_divis_matka_antonie_novakova.jpg","t":"Křest vnuka Josefa Diviše 11. 11. 1855, Nová Huť č. 47 – matka Antonie, dcera Josefa Nováka a Marie Malé"}
       ]
     },
     {
@@ -8076,7 +8082,8 @@ window.RODOKMEN = {
       notes: [
         "Dcera † Josefa Malého, domkáře v Am… (?) č. 35 (Nový Jáchymov ?); matka Marie Vlasákové (*1807) a dalších dětí v Nové Huti (podle indexu 1809–1822).",
         "Oddána 19. 1. 1806 v Otročiněvsi jako „Marye, dcera po † Jozefovi Malým z Otročiněvse“, 18 let (Hudlice 10 O pag. 84, sn. 45 vlevo; M, ověřeno koordinátorem) – „Am… č. 35“ (1807) a „z Woter…“ (1886) = Otročiněves. KANDIDÁT křtu (K+): 25. 7. 1785 Otročiněves č. 35 – „Marie Anna“, otec „Jozef Malý, chalupník …, poddaný panství Křivoklátského“, matka „Dorota“; kmotři Marie Hezková (?), selka hudlická, a Josef Peter (?), měšťan berounský; křtil P. Franciscus Ostreicher (Hudlice 01 N pag. 5, sn. 13 vpravo; rejstřík Hudlice 14 sn. 23; M pro zápis, ověřeno koordinátorem). ROZPOR věku: 1806 uvedeno 18 let, podle křtu 20. Sestra (?) Terezie *17. 11. 1789 č. 35. Dům Malých č. 35: 1823 sňatek Barbory, dcery Josefa Malého a Barbory roz. Rottové (jiná generace ?).",
-        "V době 2. sňatku manžela 9. 8. 1830 už nežila (Josef zapsán jako vdovec; Nižbor 16 O sn. 9 vlevo; M). Úmrtí 1807–1830 v Nižbor 04 / Nižbor 18 Z zatím nenalezeno – kandidátky z rejstříku „Nowak Maria“ 1818 (sn. 3 vlevo) a 1823 (Nový Jáchymov) nečteny. Vdova Maria Nowak † 1837 (62 l.) je jiná osoba."
+        "V době 2. sňatku manžela 9. 8. 1830 už nežila (Josef zapsán jako vdovec; Nižbor 16 O sn. 9 vlevo; M). Úmrtí 1807–1830 v Nižbor 04 / Nižbor 18 Z zatím nenalezeno – kandidátky z rejstříku „Nowak Maria“ 1818 (sn. 3 vlevo) a 1823 (Nový Jáchymov) nečteny. Vdova Maria Nowak † 1837 (62 l.) je jiná osoba.",
+        "Ve křtu vnuka 1855 „matka Marie rozená Malá z Otročína Č. 43“ (Nižbor 22 sn. 42; M) – dcera Antonie Divišová."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 07 (N 1807–1822), fol. 1, snímek 3 – https://ebadatelna.soapraha.cz/d/9782/3",
@@ -8089,7 +8096,8 @@ window.RODOKMEN = {
         {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest Marie Novákové, Nová Huť 30. 6. 1807"},
         {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek 19. 1. 1806, Otročiněves (fara Hudlice) – Josef Novák z Nové Huti × Marie Malá"},
         {"f":"img/1785_krest_marie_mala.jpg","t":"Kandidátní křest 25. 7. 1785, Otročiněves č. 35 – otec Josef Malý, matka Dorota"},
-        {"f":"img/1830_snatek_josef_novak_vdovec.jpg","t":"2. sňatek Josefa Nováka (vdovec) 9. 8. 1830, Nová Huť č. 43"}
+        {"f":"img/1830_snatek_josef_novak_vdovec.jpg","t":"2. sňatek Josefa Nováka (vdovec) 9. 8. 1830, Nová Huť č. 43"},
+        {"f":"img/1855_krest_josef_divis_matka_antonie_novakova.jpg","t":"Křest vnuka Josefa Diviše 1855 – zmínka o Marii roz. Malé"}
       ]
     },
     {
@@ -15400,6 +15408,27 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1749_snatek_frantisek_vlasak_anna_fuxova.jpg","t":"Sňatek dcery Anny 21. 7. 1749, Beroun"}
+      ]
+    },
+    {
+      id: "antonie_nv",
+      name: "Antonie Divišová",
+      maiden: "Nováková",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1825, před 1830)","year":1825,"approx":true,"place":"Nová Huť č. 43 (?)"},
+      father: "josef_nv",
+      mother: "marie_ma",
+      alive: false,
+      marriage: "s Aloisem Divišem, hutníkem z Nové Huti (syn Václava Diviše z č. 13)",
+      notes: [
+        "Dcera Josefa Nováka a Marie roz. Malé – při křtu syna Josefa (nar. 8. 11., pokř. 11. 11. 1855, Nová Huť č. 47): „Antonie rozená Nováková, dcera Josefa Nováka, tovaryše u pece z Nové Huti Č. 43, … a matky Marie rozené Malé z Otročína Č. 43“; otec Alois Diviš, hutník, syn Václava Diviše z č. 13 (Nižbor 22 (9797) N fol. 40, sn. 42; M, ověřeno koordinátorem). Narozena před 8/1830 (matka † před 2. sňatkem otce). Křest a sňatek nedohledány."
+      ],
+      sources: [
+        "SOA Praha, fara Nižbor, Nižbor 22 (9797) N fol. 40, sn. 42 – https://ebadatelna.soapraha.cz/d/9797/42"
+      ],
+      scans: [
+        {"f":"img/1855_krest_josef_divis_matka_antonie_novakova.jpg","t":"Křest syna Josefa 11. 11. 1855, Nová Huť č. 47"}
       ]
     }
   ]
