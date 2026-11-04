@@ -15365,11 +15365,13 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁT (K+): otec Františka Vlasáka – při jeho sňatku 21. 7. 1749 „pozůstalý syn po nebožtíku Janu Wlasákowi z Hudlic“ (Beroun 17 O fol. 59, sn. 63 vpravo; M pro zápis). V r. 1749 už nežil.",
         "V Hudlicích dva Janové Vlasákové: Jan × Rozina (děti od 1715: Anna 13. ? 1715 sn. 25 R; dále 1721, 1723, 1725, 1726) a Jan × Dorota (od VIII 1717: Kateřina sn. 51 R; dále 1725, 1727, 1729) (Beroun 06, N254, N257, N258b) – který je otcem Františka, nerozhodnuto. Křest Františka, syna Jana, v Beroun 06 (IV 1712 – 1735, Hudlice) NENALEZEN – jediný František Vlasák 1712–17 je syn Šimona × Anny (IV 1713, sn. 13 L) → František *před 1712 nebo jinde.",
-        "Praha N262: už 27. 10. 1709 „Lidmila, pozůstalá dcera po nebožtíku Janowi Wlasákowi ze vsi Hudlic“ × Martin Koško, vdovec z Bratronic; svědek Jakub Vlasák z Hudlic (Beroun 16 (3918) O sn. 31 vlevo; M pro zápis, ověřeno koordinátorem) → jeden Jan Vlasák z Hudlic † před X 1709. Pokud je to otec Františka, narodil se František před ~1710 (při sňatku 1749 by mu bylo ≥ 39) – K; oba Janové s dětmi 1715–29 jsou jiní (mladší). Sňatky Janů × Rozina / × Dorota v Beroun 16 X 1709 – XI 1717 nejsou (náhledy)."
+        "Praha N262: už 27. 10. 1709 „Lidmila, pozůstalá dcera po nebožtíku Janowi Wlasákowi ze vsi Hudlic“ × Martin Koško, vdovec z Bratronic; svědek Jakub Vlasák z Hudlic (Beroun 16 (3918) O sn. 31 vlevo; M pro zápis, ověřeno koordinátorem) → jeden Jan Vlasák z Hudlic † před X 1709. Pokud je to otec Františka, narodil se František před ~1710 (při sňatku 1749 by mu bylo ≥ 39) – K; oba Janové s dětmi 1715–29 jsou jiní (mladší). Sňatky Janů × Rozina / × Dorota v Beroun 16 X 1709 – XI 1717 nejsou (náhledy).",
+        "Praha N263: 25. 7. 1706 Hudlice – „počestný mládenec Jan, pozůstalý syn po neb. Waczlawowi Wlasákowi z Hudlicz, s počestnau Rozinau, dcerau Jana Haymona ze Swaty, oba poddaní panství křivoklátského“; družba Jan Haberle (?) ze Staré Huti, družička Kateřina Vlasáková z Hudlic (Beroun 16 (3918) O sn. 24 vpravo; M pro zápis, ověřeno koordinátorem). Pár Jan × Rozina tedy od 1706 → František (*před IV 1712, Beroun 06 začíná 1712) by mohl být jejich syn z let 1707–1711 (K, nejpravděpodobnější varianta). Bratr (?) Šimon, syn † Václava, × 10. 11. 1707 Anna Kůžová (?) (sn. 27 L)."
       ],
       sources: [
         "SOA Praha, fara Beroun, Beroun 17 (3921) O fol. 59, sn. 63 vpravo (21. 7. 1749); rejstřík O Beroun 40 (3942) sn. 128 vpravo – https://ebadatelna.soapraha.cz/d/3921/63",
-        "SOA Praha, fara Beroun, Beroun 16 (3918) O sn. 31 vlevo (27. 10. 1709) – https://ebadatelna.soapraha.cz/d/3918/31"
+        "SOA Praha, fara Beroun, Beroun 16 (3918) O sn. 31 vlevo (27. 10. 1709) – https://ebadatelna.soapraha.cz/d/3918/31",
+        "Beroun 16 (3918) O sn. 24 vpravo (25. 7. 1706) – https://ebadatelna.soapraha.cz/d/3918/24"
       ],
       scans: [
         {"f":"img/1749_snatek_frantisek_vlasak_anna_fuxova.jpg","t":"Sňatek syna Františka 21. 7. 1749, Beroun"}
