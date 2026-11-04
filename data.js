@@ -15652,7 +15652,9 @@ window.RODOKMEN = {
       spouse: "jan_mt",
       alive: false,
       notes: [
-        "KANDIDÁTKA (K+): manželka Jana Matějky, sedláka ze Skrchleb, matka Doroty (*1757/1759) – „matka Dorota“ v křtech 1755, 1757, 1759 (Nymburk 07; M). Kandidátní sňatek: 25. 1. 1750 v děkanském kostele v Nymburce: „Honestus Joannes Matiegka cum honesta Dorothea, filia Pauli Motyčka ex pago Skrchleb, subditi Podiebradenses“; svědci Anna Tygnová, Dorota Munczovská (?), Pavel Ota, Jan Černý; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 412, sn. 212 vlevo; M pro zápis, ověřeno koordinátorem). Její otec Pavel Motyčka, sedlák, byl 1759 kmotrem Jana Zajíčka."
+        "KANDIDÁTKA (K+): manželka Jana Matějky, sedláka ze Skrchleb, matka Doroty (*1757/1759) – „matka Dorota“ v křtech 1755, 1757, 1759 (Nymburk 07; M). Kandidátní sňatek: 25. 1. 1750 v děkanském kostele v Nymburce: „Honestus Joannes Matiegka cum honesta Dorothea, filia Pauli Motyčka ex pago Skrchleb, subditi Podiebradenses“; svědci Anna Tygnová, Dorota Munczovská (?), Pavel Ota, Jan Černý; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 412, sn. 212 vlevo; M pro zápis, ověřeno koordinátorem). Její otec Pavel Motyčka, sedlák, byl 1759 kmotrem Jana Zajíčka.",
+        "Křest (dcera Pavla Motyčky) v Nymburk 06 (10405) N X 1731 – XI 1737 a ~1724 – IX 1731 nenalezen (Praha N296–N297; část stran bledá); 1725 sn. 147 vpravo „Dorota, O: Pavel (?) Bu…yček (?), M: Dorota“ – příjmení nečitelné, spíš ne Motyčka.",
+        "Praha N298: ani v N I 1720 – I 1724 dcera Pavla Motyčky není. Jméno otce v oddacím zápisu 1750 koordinátor znovu ověřil: „Pauli Moticzka“ (ne Bajíček). Dorota 1725 (sn. 147 vpravo) je dcera Pavla Bajíčka × Doroty (děti 1720, 1723, 1725) – jiná rodina."
       ],
       sources: [
         "Nymburk 07 (10406) O sn. 212 vlevo – https://ebadatelna.soapraha.cz/d/10406/212"
@@ -15674,7 +15676,8 @@ window.RODOKMEN = {
       notes: [
         "Otec Matěje Zajíčka – při jeho (kandidátním) sňatku 23. 11. 1755 „filius Danielis Zagjček coloni ex pago Skrchleb“ (Nymburk 07 (10406) O sn. 236 vlevo; M); 1755 ještě žil. Kmotr ve Skrchlebích 9. 2. 1733 (Nymburk 06 sn. 235 vlevo).",
         "Syn Matěj nar./pokř. 17. 2. 1732 ve Skrchlebích: „Matěg. Ot: Daniel Zagjček, Mat: Katteřina. Kmotři Matěg Kalysta, Kateřina (?) Zwonařowa (?), …Janyšowa (?). Parentes subditi Wlkawienses“ (Nymburk 06 (10405) N sn. 223 vlevo, záhlaví „An. 1732 Februarius“ sn. 222 vpravo; M pro zápis, ověřeno koordinátorem).",
-        "Praha N295: sňatek s Kateřinou v Nymburk 06 (10405) O IX 1714 – V 1732 nenalezen (střední negativ; mřížky ×0,34). Mapa O: 354 R = 1715 … 390 R = 1732; Z od sn. ~415."
+        "Praha N295: sňatek s Kateřinou v Nymburk 06 (10405) O IX 1714 – V 1732 nenalezen (střední negativ; mřížky ×0,34). Mapa O: 354 R = 1715 … 390 R = 1732; Z od sn. ~415.",
+        "Dcera Anna, ze Skrchleb, 1725: „Anna, O: Daniel Zajíček, M: Kateřina“ (Nymburk 06 (10405) N sn. 147 vpravo; M pro zápis, ověřeno koordinátorem) → pár Daniel × Kateřina už 1725; sňatek tedy ~1714–1724 (v O 1714–32 nenalezen) nebo mimo faru."
       ],
       sources: [
         "Nymburk 07 (10406) O sn. 236 vlevo – https://ebadatelna.soapraha.cz/d/10406/236",
