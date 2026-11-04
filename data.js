@@ -14614,6 +14614,7 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"7. 4. 1759 (pokř. 8. 4.; kandidátní křest – viz poznámky)","year":1759,"approx":true,"place":"Krchleby"},
       father: "matej_zj",
+      mother: "dorota_zj0",
       spouse: "dorota_zj",
       marriage: "25. 9. 1776, Nymburk (Krchleby č. 45) – s Dorotou, dcerou Jana Matějky",
       notes: [
@@ -15541,6 +15542,7 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"asi 1757 (kandidátní křest 11./12. 8. 1757 – viz poznámky)","year":1757,"approx":true,"place":"Krchleby"},
       father: "jan_mt",
+      mother: "dorota_mt",
       spouse: "jan_zj",
       alive: false,
       marriage: "25. 9. 1776, Nymburk (Krchleby č. 45) – s Janem Zajíčkem",
@@ -15566,19 +15568,24 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true,"place":"Krchleby (?)"},
+      spouse: "dorota_mt",
       alive: false,
       occ: "sedlák ve Skrchlebích (Krchleby)",
+      marriage: "25. 1. 1750, Nymburk – s Dorotou, dcerou Pavla Motyčky (K+)",
       notes: [
         "Otec Doroty Zajíčkové – při jejím sňatku 25. 9. 1776 „Dorothea, filia Joannis Matiegka … ex pago Skrchleb“ (Nymburk 08 (10407) O sn. 178 vpravo; M).",
-        "KANDIDÁT (K+): Jan Matějka, sedlák, × Dorota – děti Kateřina (?) 9. 9. 1752 (Nymburk 07 sn. 63 vlevo, příjmení otce nejisté), Jan 22. 6. 1755 (sn. 90 vlevo; kmotr Jan Kobek – svědek i na sňatku 1776) a Dorota 11./12. 8. 1757 (sn. 108 vlevo) (Praha N290–N291). Pozor: v Krchlebích současně Jan Matějka chalupník/krejčí (× Anna, Kateřina) a Jan Matějka podruh (× Běta)."
+        "KANDIDÁT (K+): Jan Matějka, sedlák, × Dorota – děti Kateřina (?) 9. 9. 1752 (Nymburk 07 sn. 63 vlevo, příjmení otce nejisté), Jan 22. 6. 1755 (sn. 90 vlevo; kmotr Jan Kobek – svědek i na sňatku 1776) a Dorota 11./12. 8. 1757 (sn. 108 vlevo) (Praha N290–N291). Pozor: v Krchlebích současně Jan Matějka chalupník/krejčí (× Anna, Kateřina) a Jan Matějka podruh (× Běta).",
+        "KANDIDÁT sňatku (K+): 25. 1. 1750 v děkanském kostele v Nymburce: „Honestus Joannes Matiegka cum honesta Dorothea, filia Pauli Motyčka ex pago Skrchleb, subditi Podiebradenses“; svědci Anna Tygnová, Dorota Munczovská (?), Pavel Ota, Jan Černý; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 412, sn. 212 vlevo; M pro zápis, ověřeno koordinátorem)."
       ],
       sources: [
         "SOA Praha, fara Nymburk, Nymburk 08 (10407) O sn. 178 vpravo – https://ebadatelna.soapraha.cz/d/10407/178",
-        "Nymburk 07 (10406) N sn. 108 vlevo – https://ebadatelna.soapraha.cz/d/10406/108"
+        "Nymburk 07 (10406) N sn. 108 vlevo – https://ebadatelna.soapraha.cz/d/10406/108",
+        "Nymburk 07 (10406) O sn. 212 vlevo – https://ebadatelna.soapraha.cz/d/10406/212"
       ],
       scans: [
         {"f":"img/1776_snatek_jan_zajicek_dorota_matejkova.jpg","t":"Sňatek dcery Doroty 25. 9. 1776, Krchleby"},
-        {"f":"img/1757_krest_dorota_matejkova.jpg","t":"Kandidátní křest dcery Doroty 12. 8. 1757"}
+        {"f":"img/1757_krest_dorota_matejkova.jpg","t":"Kandidátní křest dcery Doroty 12. 8. 1757"},
+        {"f":"img/1750_snatek_jan_matejka.jpg","t":"Kandidátní sňatek 25. 1. 1750"}
       ]
     },
     {
@@ -15589,18 +15596,61 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true,"place":"Krchleby (?)"},
       d: {"date":"před 25. 9. 1776","year":1776,"approx":true},
+      spouse: "dorota_zj0",
       alive: false,
       occ: "sedlák ve Skrchlebích (Krchleby)",
+      marriage: "23. 11. 1755 (?), Veleliby – s Dorotou, dcerou Jiřího Kregzina (?) (K+)",
       notes: [
         "Otec Jana Zajíčka – při jeho sňatku 25. 9. 1776 „Joannes, filius defuncti Mathiae Zagjczek“ (Nymburk 08 (10407) O sn. 178 vpravo; M); tehdy už nežil.",
-        "Sedlák ve Skrchlebích × Dorota: děti Anežka Anna 20. 1. 1757 (kmotra Dorota, manželka Jana Matějky; Nymburk 07 (10406) N sn. 104 vlevo) a Jan 7./8. 4. 1759 (sn. 121 vlevo) (M pro zápisy). V N 1745 – III 1752 jako otec není (Praha N290–N292)."
+        "Sedlák ve Skrchlebích × Dorota: děti Anežka Anna 20. 1. 1757 (kmotra Dorota, manželka Jana Matějky; Nymburk 07 (10406) N sn. 104 vlevo) a Jan 7./8. 4. 1759 (sn. 121 vlevo) (M pro zápisy). V N 1745 – III 1752 jako otec není (Praha N290–N292).",
+        "KANDIDÁT sňatku a rodičů (K+): 23. 11. 1755 ve filiálním kostele sv. Václava ve Velelibech: „Honestus adolescens [Mat]hias (jméno na okraji), filius Danielis Zagjček coloni ex pago Skrchleb, cum honesta ancilla Dorothea, filia Georgii Kregzin (?) ex pago eodem coloni, ambo subditi Welkawienses (?)“; svědci Jan Tygna, podruh ze Všechlap, a Kateřina Kubánková; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 460, sn. 236 vlevo; M pro zápis, ověřeno koordinátorem). Jediný sňatek Zajíčka ze Skrchleb v O XI 1749 – XI 1758; první dítě páru I 1757 → otec Matěje: Daniel Zajíček, sedlák ve Skrchlebích (1755 živ)."
       ],
       sources: [
         "Nymburk 08 (10407) O sn. 178 vpravo – https://ebadatelna.soapraha.cz/d/10407/178",
-        "Nymburk 07 (10406) N sn. 121 vlevo – https://ebadatelna.soapraha.cz/d/10406/121"
+        "Nymburk 07 (10406) N sn. 121 vlevo – https://ebadatelna.soapraha.cz/d/10406/121",
+        "Nymburk 07 (10406) O sn. 236 vlevo – https://ebadatelna.soapraha.cz/d/10406/236"
       ],
       scans: [
-        {"f":"img/1759_krest_jan_zajicek.jpg","t":"Křest syna Jana 8. 4. 1759, Krchleby"}
+        {"f":"img/1759_krest_jan_zajicek.jpg","t":"Křest syna Jana 8. 4. 1759, Krchleby"},
+        {"f":"img/1755_snatek_matej_zajicek.jpg","t":"Kandidátní sňatek 23. 11. 1755, Veleliby"}
+      ]
+    },
+    {
+      id: "dorota_zj0",
+      name: "Dorota Zajíčková",
+      maiden: "Kregzinová (?)",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1735)","year":1735,"approx":true,"place":"Krchleby (?)"},
+      spouse: "matej_zj",
+      alive: false,
+      notes: [
+        "KANDIDÁTKA (K+): manželka Matěje Zajíčka, matka Jana (*1759) – „matka Dorotha“ v křtech 1757 a 1759 (Nymburk 07 sn. 104, 121; M). Kandidátní sňatek: 23. 11. 1755 ve filiálním kostele sv. Václava ve Velelibech: „Honestus adolescens [Mat]hias (jméno na okraji), filius Danielis Zagjček coloni ex pago Skrchleb, cum honesta ancilla Dorothea, filia Georgii Kregzin (?) ex pago eodem coloni, ambo subditi Welkawienses (?)“; svědci Jan Tygna, podruh ze Všechlap, a Kateřina Kubánková; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 460, sn. 236 vlevo; M pro zápis, ověřeno koordinátorem)."
+      ],
+      sources: [
+        "Nymburk 07 (10406) O sn. 236 vlevo – https://ebadatelna.soapraha.cz/d/10406/236"
+      ],
+      scans: [
+        {"f":"img/1755_snatek_matej_zajicek.jpg","t":"Kandidátní sňatek 23. 11. 1755, Veleliby"}
+      ]
+    },
+    {
+      id: "dorota_mt",
+      name: "Dorota Matějková",
+      maiden: "Motyčková",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true,"place":"Krchleby (?)"},
+      spouse: "jan_mt",
+      alive: false,
+      notes: [
+        "KANDIDÁTKA (K+): manželka Jana Matějky, sedláka ze Skrchleb, matka Doroty (*1757/1759) – „matka Dorota“ v křtech 1755, 1757, 1759 (Nymburk 07; M). Kandidátní sňatek: 25. 1. 1750 v děkanském kostele v Nymburce: „Honestus Joannes Matiegka cum honesta Dorothea, filia Pauli Motyčka ex pago Skrchleb, subditi Podiebradenses“; svědci Anna Tygnová, Dorota Munczovská (?), Pavel Ota, Jan Černý; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 412, sn. 212 vlevo; M pro zápis, ověřeno koordinátorem). Její otec Pavel Motyčka, sedlák, byl 1759 kmotrem Jana Zajíčka."
+      ],
+      sources: [
+        "Nymburk 07 (10406) O sn. 212 vlevo – https://ebadatelna.soapraha.cz/d/10406/212"
+      ],
+      scans: [
+        {"f":"img/1750_snatek_jan_matejka.jpg","t":"Kandidátní sňatek 25. 1. 1750, Nymburk"}
       ]
     }
   ]
