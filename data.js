@@ -7957,26 +7957,29 @@ window.RODOKMEN = {
       mother: "veronika_nv",
       spouse: "marie_ma",
       occ: "domkář, vysokopecní tovaryš v Nové Huti č. 43",
-      marriage: "19. 1. 1806, Otročiněves (fara Hudlice) – s Marií, dcerou † Josefa Malého",
+      marriage: "19. 1. 1806, Otročiněves (fara Hudlice) – s Marií, dcerou † Josefa Malého; 2) 9. 8. 1830, Nižbor – s Ludmilou Krobovou (?)",
       notes: [
         "Otec Marie Vlasákové; manželka Marie roz. Malá (křest vnuka Františka 1838).",
         "Oddán 19. 1. 1806 v Otročiněvsi (fara Hudlice): „Jozef, syn po † Kašparovi Novákovi z Nové Hutě“, kat., 25 let, svobodný × „Marye, dcera po † Jozefovi Malým z Otročiněvse“, 18 let; oddával Jos. Janda (?); svědci František … (?) a Jan Zigmund (?) ze Stradonic (?) (Hudlice 10 O pag. 84, sn. 45 vlevo; M, ověřeno koordinátorem). Jméno otce dříve čteno „Lukáš“, opraveno na „Kašpar“ (4. 11. 2026).",
+        "Podruhé oddán 9. 8. 1830 v Nižboře: „Joseph Nowak, Häusler und Hochofengesell zu Neuhütten N. 43, Sohn nach Kaspar Nowak Hochofenmeister daselbst und der Mutter Veronika gebornen Watzin aus Althütten“, 49 let, vdovec × Ludmila, dcera Jiřího Kroba (?), kovářského mistra (?) v Leit… (?) č. 26, a Marie roz. Košák (?) z Kreuzhütte (?), 36 let (Nižbor 16 (9791) O fol. 7, sn. 9 vlevo; M, ověřeno koordinátorem). Potvrzuje rodiče Kašpara a Veroniku Vacínovou i křest 1781. Dcera z 2. manželství Josefa † 6. 5. 1832 v č. 43, 3/4 roku (Nižbor 18 (9793) Z pag. 63, sn. 33 vpravo).",
         "Pokřtěn 12. 10. 1781 (nar. 11. 10.) v Nižboře č. 7 jako „Josephus Franciscus“, syn Kašpara Nováka, horníka, × Veroniky (Nižbor 02 N str. 158, sn. 83 vlevo; M). Ztotožnění: jméno otce ve sňatku 1806, věk 25 let a dům č. 43 (otec † 1789 v č. 43, Josef tam žil 1807–33).",
-        "Praha N250: 6. 5. 1832 v Nové Huti č. 43 zemřela „Josepha, Tochter des Joseph Nowak Hochofengesellen von Neuhütten und der Ludmila gebornen Krob“, 3/4 roku (Nižbor 18 (9793) Z pag. 63, sn. 33 vpravo; M pro zápis, ověřeno koordinátorem). Buď je to 2. manželka Josefa (Marie † před 1831 ?), nebo jiný Josef (syn ?) v témže domě – nerozhodnuto. Úmrtí Josefa ani Marie v Nižbor 18 (Z 1818–1850, rejstřík N 1833–50) nenalezeno; oddíl Nižbor + Nová Huť končí 1850, pozdější kniha Z neurčena (N249–N250)."
+        "Úmrtí: v Nižbor 18 (Z 1818–1850, rejstřík N 1833–50) není (N249–N251); po 1850 pokračuje kniha Z obce Nižbor „čísl. III“ od 20. 1. 1850."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 07 (N 1807–1822), fol. 1, snímek 3 – https://ebadatelna.soapraha.cz/d/9782/3",
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
         "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45",
-        "SOA Praha, fara Nižbor, Nižbor 02 (9777) N str. 158, sn. 83 vlevo – https://ebadatelna.soapraha.cz/d/9777/83"
+        "SOA Praha, fara Nižbor, Nižbor 02 (9777) N str. 158, sn. 83 vlevo – https://ebadatelna.soapraha.cz/d/9777/83",
+        "SOA Praha, fara Nižbor, Nižbor 16 (9791) O 1826–1855, fol. 7, sn. 9 vlevo (9. 8. 1830); rejstřík O sn. 134 vpravo – https://ebadatelna.soapraha.cz/d/9791/9"
       ],
       scans: [
         {"f":"img/1781_krest_josef_novak.jpg","t":"Křest 12. 10. 1781, Nižbor č. 7"},
         {"f":"img/1838_krest_frantisek_vlasak_zbecno58_zbecno10_sn126_a.jpg","t":"Křest Františka Vlasáka, Zbečno 2. 1. 1838"},
         {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest dcery Marie Novákové, Nová Huť 30. 6. 1807"},
         {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek 19. 1. 1806, Otročiněves (fara Hudlice) – Josef Novák z Nové Huti × Marie Malá"},
-        {"f":"img/1789_umrti_kaspar_novak.jpg","t":"Úmrtí otce Kašpara 28. 3. 1789, Nižbor č. 43"}
+        {"f":"img/1789_umrti_kaspar_novak.jpg","t":"Úmrtí otce Kašpara 28. 3. 1789, Nižbor č. 43"},
+        {"f":"img/1830_snatek_josef_novak_vdovec.jpg","t":"2. sňatek Josefa Nováka (vdovec) 9. 8. 1830, Nová Huť č. 43"}
       ]
     },
     {
@@ -8069,18 +8072,20 @@ window.RODOKMEN = {
       notes: [
         "Dcera † Josefa Malého, domkáře v Am… (?) č. 35 (Nový Jáchymov ?); matka Marie Vlasákové (*1807) a dalších dětí v Nové Huti (podle indexu 1809–1822).",
         "Oddána 19. 1. 1806 v Otročiněvsi jako „Marye, dcera po † Jozefovi Malým z Otročiněvse“, 18 let (Hudlice 10 O pag. 84, sn. 45 vlevo; M, ověřeno koordinátorem) – „Am… č. 35“ (1807) a „z Woter…“ (1886) = Otročiněves. KANDIDÁT křtu (K+): 25. 7. 1785 Otročiněves č. 35 – „Marie Anna“, otec „Jozef Malý, chalupník …, poddaný panství Křivoklátského“, matka „Dorota“; kmotři Marie Hezková (?), selka hudlická, a Josef Peter (?), měšťan berounský; křtil P. Franciscus Ostreicher (Hudlice 01 N pag. 5, sn. 13 vpravo; rejstřík Hudlice 14 sn. 23; M pro zápis, ověřeno koordinátorem). ROZPOR věku: 1806 uvedeno 18 let, podle křtu 20. Sestra (?) Terezie *17. 11. 1789 č. 35. Dům Malých č. 35: 1823 sňatek Barbory, dcery Josefa Malého a Barbory roz. Rottové (jiná generace ?).",
-        "Praha N250: v Nižbor 18 (Z 1818–1850) k ní jen nejistý kandidát (K): 13. 2. 1837 „Maria Nowak, Wittwe nach Joseph Nowak“, 62 let, dům neuveden (sn. 48 vlevo, pag. 92) – věk (*~1775) nesedí a Josef × Ludmila Krob (?) mají v č. 43 dítě 1831/32 → spíš jiná Marie. Možné, že Marie zemřela před 1831 a Josef se podruhé oženil."
+        "V době 2. sňatku manžela 9. 8. 1830 už nežila (Josef zapsán jako vdovec; Nižbor 16 O sn. 9 vlevo; M). Úmrtí 1807–1830 v Nižbor 04 / Nižbor 18 Z zatím nenalezeno – kandidátky z rejstříku „Nowak Maria“ 1818 (sn. 3 vlevo) a 1823 (Nový Jáchymov) nečteny. Vdova Maria Nowak † 1837 (62 l.) je jiná osoba."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 07 (N 1807–1822), fol. 1, snímek 3 – https://ebadatelna.soapraha.cz/d/9782/3",
         "SOA Praha, ř.-k. fara Nižbor, kniha Nižbor 16 (O 1826–1855), fol. 13, snímek 15 – https://ebadatelna.soapraha.cz/d/9791/15",
         "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806); rejstřík O Hudlice 21 (5807) sn. 9 – https://ebadatelna.soapraha.cz/d/5796/45",
-        "SOA Praha, fara Hudlice, Hudlice 01 (5787) N, pag. 5, sn. 13 vpravo (25. 7. 1785) – https://ebadatelna.soapraha.cz/d/5787/13"
+        "SOA Praha, fara Hudlice, Hudlice 01 (5787) N, pag. 5, sn. 13 vpravo (25. 7. 1785) – https://ebadatelna.soapraha.cz/d/5787/13",
+        "SOA Praha, fara Nižbor, Nižbor 16 (9791) O 1826–1855, fol. 7, sn. 9 vlevo (9. 8. 1830); rejstřík O sn. 134 vpravo – https://ebadatelna.soapraha.cz/d/9791/9"
       ],
       scans: [
         {"f":"img/1807_krest_marie_novakova_novahut43_nizbor07_sn3_a.jpg","t":"Křest Marie Novákové, Nová Huť 30. 6. 1807"},
         {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek 19. 1. 1806, Otročiněves (fara Hudlice) – Josef Novák z Nové Huti × Marie Malá"},
-        {"f":"img/1785_krest_marie_mala.jpg","t":"Kandidátní křest 25. 7. 1785, Otročiněves č. 35 – otec Josef Malý, matka Dorota"}
+        {"f":"img/1785_krest_marie_mala.jpg","t":"Kandidátní křest 25. 7. 1785, Otročiněves č. 35 – otec Josef Malý, matka Dorota"},
+        {"f":"img/1830_snatek_josef_novak_vdovec.jpg","t":"2. sňatek Josefa Nováka (vdovec) 9. 8. 1830, Nová Huť č. 43"}
       ]
     },
     {
@@ -15085,14 +15090,16 @@ window.RODOKMEN = {
         "Narozen 5. 1., pokřtěn 6. 1. 1752 v Nižboře: „infans nomine Casparus … ex Parente Dominico Novak, Matre Anna“; levans Kryštof Bety (?) ze Stroyin (?), svědci Václav Mrtz (?), Jan Rosel (?) ze dvora a Kateřina Richterová (Nižbor 02 N pag. 33, sn. 19 vpravo; M, ověřeno koordinátorem). Věk při úmrtí 1789 tedy 37 (čtení „34“ v úmrtním zápisu nejisté).",
         "Oddán 19. 10. [1779 ?] v Nižboře: „Novak Casparus honestus adolescens filius legitimus Dominici Novak ferri fossoris cum … virgine Veronica … filia post defunctum Antonium Waczin ferri fossorem ex Alta Hutna, ambo Nizburgenses“ (Nižbor 02 O pag. 222, sn. 128 vlevo; M).",
         "Syn Josef František pokř. 12. 10. 1781 (nar. 11. 10.) v Nižboře č. 7: otec „Novak Casparus ferri fossor“, matka Veronika; kmotr Jiří Krob (?) z Nižboru (Nižbor 02 N str. 158, sn. 83 vlevo; M). Věk souhlasí s 25 lety Josefa při sňatku 1806.",
-        "Zemřel 28. 3. 1789 v č. 43 (fara Nižbor), 34 let, „horká nemoc“ (Nižbor 04 (9779) Z pag. 80, sn. 81 vlevo; M, ověřeno koordinátorem; kniha nemá sloupec obce). Č. 43 je dům, kde syn Josef žil v Nové Huti 1807–1833. Jediný Kašpar Novák v rejstříku Z Nižbor 1784–1817; Lukáš Novák ve faře Nižbor 1743–1817 není (Praha N232, N246)."
+        "Zemřel 28. 3. 1789 v č. 43 (fara Nižbor), 34 let, „horká nemoc“ (Nižbor 04 (9779) Z pag. 80, sn. 81 vlevo; M, ověřeno koordinátorem; kniha nemá sloupec obce). Č. 43 je dům, kde syn Josef žil v Nové Huti 1807–1833. Jediný Kašpar Novák v rejstříku Z Nižbor 1784–1817; Lukáš Novák ve faře Nižbor 1743–1817 není (Praha N232, N246).",
+        "Ve 2. sňatku syna Josefa 1830 nazván „Kaspar Nowak Hochofenmeister“ (vysokopecní mistr) v Nové Huti, manželka „Veronika geborne Watzin aus Althütten“ (Nižbor 16 O sn. 9 vlevo; M)."
       ],
       sources: [
         "SOA Praha, fara Hudlice, Hudlice 10 (5796) O 1785–1833, oddíl Otročiněves, pag. 84, sn. 45 vlevo (19. 1. 1806) – https://ebadatelna.soapraha.cz/d/5796/45",
         "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 222, sn. 128 vlevo – https://ebadatelna.soapraha.cz/d/9777/128",
         "Nižbor 02 (9777) N str. 158, sn. 83 vlevo – https://ebadatelna.soapraha.cz/d/9777/83",
         "Nižbor 04 (9779) Z pag. 80, sn. 81 vlevo; rejstřík Z sn. 135 – https://ebadatelna.soapraha.cz/d/9779/81",
-        "Nižbor 02 (9777) N pag. 33, sn. 19 vpravo – https://ebadatelna.soapraha.cz/d/9777/19"
+        "Nižbor 02 (9777) N pag. 33, sn. 19 vpravo – https://ebadatelna.soapraha.cz/d/9777/19",
+        "SOA Praha, fara Nižbor, Nižbor 16 (9791) O 1826–1855, fol. 7, sn. 9 vlevo (9. 8. 1830); rejstřík O sn. 134 vpravo – https://ebadatelna.soapraha.cz/d/9791/9"
       ],
       scans: [
         {"f":"img/1752_krest_kaspar_novak.jpg","t":"Křest 6. 1. 1752, Nižbor"},
@@ -15100,7 +15107,8 @@ window.RODOKMEN = {
         {"f":"img/1781_krest_josef_novak.jpg","t":"Křest syna Josefa Františka 12. 10. 1781, Nižbor č. 7"},
         {"f":"img/1789_umrti_kaspar_novak.jpg","t":"Úmrtí 28. 3. 1789, Nižbor č. 43"},
         {"f":"img/1806_O_novak_mala.jpg","t":"Sňatek syna Josefa 19. 1. 1806, Otročiněves"},
-        {"f":"img/1782_umrti_dominik_novak.jpg","t":"Úmrtí otce Dominika 25. 10. 1782, Nižbor č. 7"}
+        {"f":"img/1782_umrti_dominik_novak.jpg","t":"Úmrtí otce Dominika 25. 10. 1782, Nižbor č. 7"},
+        {"f":"img/1830_snatek_josef_novak_vdovec.jpg","t":"2. sňatek syna Josefa 9. 8. 1830"}
       ]
     },
     {
@@ -15262,18 +15270,21 @@ window.RODOKMEN = {
         "Dcera † Antonína Vacína („Waczin“; dříve čteno Wagen), horníka (ferri fossor) z Vysoké Huti (ex Alta Hutna); oddána 19. 10. [1779 ?] v Nižboře s Kašparem Novákem; svědci Josef Laun, učitel nižborský, a Josef Sauček (?), rychtář nižborský (Nižbor 02 O pag. 222, sn. 128 vlevo; M, ověřeno koordinátorem; rok sňatku z polohy v knize).",
         "Matka Josefa Františka Nováka, pokř. 12. 10. 1781 Nižbor č. 7 (Nižbor 02 N str. 158, sn. 83 vlevo; M).",
         "Podruhé oddána [1790 ?] v Nižboře, č. 43: ženich Josef K… (?) (příjmení nečitelné), 26 let, svobodný × „Weronika Nowakowa“, vdova, 32 let; svědci Josef Zhorný (?) a Josef Holeček (?) (Nižbor 04 (9779) O sn. 4, poslední řádek; M pro zápis, den a měsíc nečteny). Dům č. 43 = dům, kde † 1789 Kašpar. V rejstříku Z Nižbor 04 (1784–1817) není (N248).",
-        "KANDIDÁT křtu (K): 17./18. 9. 1750 Stradonice – „Veronica Anna Barbara filia Parentis Antonij Watzyn, Matris Veronicae“; lev. Anna Hecliana (?), komornice nižborská (Nižbor 02 N pag. 25, sn. 15 vpravo; M pro zápis). ROZPOR: věk 32 při 2. sňatku ~1790 → *~1758; křest 1750 → 40 let. Jiná Veronika Vacínová z rejstříku (12. 12. 1764) má otce Jana – vyloučena."
+        "KANDIDÁT křtu (K): 17./18. 9. 1750 Stradonice – „Veronica Anna Barbara filia Parentis Antonij Watzyn, Matris Veronicae“; lev. Anna Hecliana (?), komornice nižborská (Nižbor 02 N pag. 25, sn. 15 vpravo; M pro zápis). ROZPOR: věk 32 při 2. sňatku ~1790 → *~1758; křest 1750 → 40 let. Jiná Veronika Vacínová z rejstříku (12. 12. 1764) má otce Jana – vyloučena.",
+        "Ve 2. sňatku syna Josefa 1830: „Mutter Veronika geborne Watzin aus Althütten“ (ze Staré Huti) – potvrzuje rodné příjmení Vacínová (Nižbor 16 O sn. 9 vlevo; M, ověřeno koordinátorem)."
       ],
       sources: [
         "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 222, sn. 128 vlevo – https://ebadatelna.soapraha.cz/d/9777/128",
         "Nižbor 02 (9777) N str. 158, sn. 83 vlevo – https://ebadatelna.soapraha.cz/d/9777/83",
         "Nižbor 04 (9779) O sn. 4 – https://ebadatelna.soapraha.cz/d/9779/4",
-        "Nižbor 02 (9777) N pag. 25, sn. 15 vpravo – https://ebadatelna.soapraha.cz/d/9777/15"
+        "Nižbor 02 (9777) N pag. 25, sn. 15 vpravo – https://ebadatelna.soapraha.cz/d/9777/15",
+        "SOA Praha, fara Nižbor, Nižbor 16 (9791) O 1826–1855, fol. 7, sn. 9 vlevo (9. 8. 1830); rejstřík O sn. 134 vpravo – https://ebadatelna.soapraha.cz/d/9791/9"
       ],
       scans: [
         {"f":"img/1779_snatek_kaspar_novak.jpg","t":"Sňatek s Kašparem Novákem, Nižbor [1779 ?]"},
         {"f":"img/1781_krest_josef_novak.jpg","t":"Křest syna Josefa Františka 12. 10. 1781, Nižbor č. 7"},
-        {"f":"img/1790_snatek_veronika_novakova.jpg","t":"2. sňatek vdovy Veroniky Novákové [1790 ?], Nižbor č. 43"}
+        {"f":"img/1790_snatek_veronika_novakova.jpg","t":"2. sňatek vdovy Veroniky Novákové [1790 ?], Nižbor č. 43"},
+        {"f":"img/1830_snatek_josef_novak_vdovec.jpg","t":"2. sňatek syna Josefa 9. 8. 1830"}
       ]
     },
     {
