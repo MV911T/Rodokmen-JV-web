@@ -15231,12 +15231,13 @@ window.RODOKMEN = {
       notes: [
         "Otec Kašpara Nováka – při jeho sňatku [1779 ?] „Casparus … filius legitimus Dominici Novak ferri fossoris“ (Nižbor 02 O pag. 222, sn. 128 vlevo; M). Další syn Melichar Novák (oddán hned v následujícím zápisu).",
         "Zemřel 25. 10. 1782 v Nižboře č. 7: „Dominicus Novak ferri fossor Nisburgensis“, 58 let 2 měsíce (Nižbor 02 Z pag. 329, sn. 181 vpravo; M, ověřeno koordinátorem). V č. 7 bydlel 1781 i syn Kašpar s Veronikou.",
-        "Křest hledat v Nižbor 01 (9776): rejstřík „Nowak Dominik fol. 17“ (nečteno)."
+        "KANDIDÁT křtu (K): 27. 10. 1726 Nižbor – „pacholátko jménem Dominyk z Otce Domynika Nowaka, Matky Anny“; lev. Rudolf Rössl (?) z Karlovy Huti, svědci Václav Mertz (?), Jiří … ze Staré Huti, Anna … a Kateřina … z Nové Huti (Nižbor 01 (9776) N pag. 17, sn. 12 vpravo; M pro zápis, ověřeno koordinátorem). Jediný Dominik v rejstříku Nižbor 01 (1719–43); věk při úmrtí 1782 (58 l.) by dával 1724 – rozdíl 2 roky. Pozor: rodiče se jmenují stejně jako Dominik × Anna 1752 – vazba otec/syn je hypotéza."
       ],
       sources: [
         "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 222, sn. 128 vlevo – https://ebadatelna.soapraha.cz/d/9777/128",
         "Nižbor 02 (9777) N pag. 33, sn. 19 vpravo – https://ebadatelna.soapraha.cz/d/9777/19",
-        "Nižbor 02 (9777) Z pag. 329, sn. 181 vpravo – https://ebadatelna.soapraha.cz/d/9777/181"
+        "Nižbor 02 (9777) Z pag. 329, sn. 181 vpravo – https://ebadatelna.soapraha.cz/d/9777/181",
+        "Nižbor 01 (9776) N pag. 17, sn. 12 vpravo – https://ebadatelna.soapraha.cz/d/9776/12"
       ],
       scans: [
         {"f":"img/1779_snatek_kaspar_novak.jpg","t":"Sňatek syna Kašpara s Veronikou, Nižbor [1779 ?]"},
@@ -15257,15 +15258,20 @@ window.RODOKMEN = {
       marriage: "19. 10. 1779 (?), Nižbor – s Kašparem Novákem",
       notes: [
         "Dcera † Antonína Vacína („Waczin“; dříve čteno Wagen), horníka (ferri fossor) z Vysoké Huti (ex Alta Hutna); oddána 19. 10. [1779 ?] v Nižboře s Kašparem Novákem; svědci Josef Laun, učitel nižborský, a Josef Sauček (?), rychtář nižborský (Nižbor 02 O pag. 222, sn. 128 vlevo; M, ověřeno koordinátorem; rok sňatku z polohy v knize).",
-        "Matka Josefa Františka Nováka, pokř. 12. 10. 1781 Nižbor č. 7 (Nižbor 02 N str. 158, sn. 83 vlevo; M). Další osud (2. sňatek po 1789, úmrtí) nedohledán."
+        "Matka Josefa Františka Nováka, pokř. 12. 10. 1781 Nižbor č. 7 (Nižbor 02 N str. 158, sn. 83 vlevo; M).",
+        "Podruhé oddána [1790 ?] v Nižboře, č. 43: ženich Josef K… (?) (příjmení nečitelné), 26 let, svobodný × „Weronika Nowakowa“, vdova, 32 let; svědci Josef Zhorný (?) a Josef Holeček (?) (Nižbor 04 (9779) O sn. 4, poslední řádek; M pro zápis, den a měsíc nečteny). Dům č. 43 = dům, kde † 1789 Kašpar. V rejstříku Z Nižbor 04 (1784–1817) není (N248).",
+        "KANDIDÁT křtu (K): 17./18. 9. 1750 Stradonice – „Veronica Anna Barbara filia Parentis Antonij Watzyn, Matris Veronicae“; lev. Anna Hecliana (?), komornice nižborská (Nižbor 02 N pag. 25, sn. 15 vpravo; M pro zápis). ROZPOR: věk 32 při 2. sňatku ~1790 → *~1758; křest 1750 → 40 let. Jiná Veronika Vacínová z rejstříku (12. 12. 1764) má otce Jana – vyloučena."
       ],
       sources: [
         "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 222, sn. 128 vlevo – https://ebadatelna.soapraha.cz/d/9777/128",
-        "Nižbor 02 (9777) N str. 158, sn. 83 vlevo – https://ebadatelna.soapraha.cz/d/9777/83"
+        "Nižbor 02 (9777) N str. 158, sn. 83 vlevo – https://ebadatelna.soapraha.cz/d/9777/83",
+        "Nižbor 04 (9779) O sn. 4 – https://ebadatelna.soapraha.cz/d/9779/4",
+        "Nižbor 02 (9777) N pag. 25, sn. 15 vpravo – https://ebadatelna.soapraha.cz/d/9777/15"
       ],
       scans: [
         {"f":"img/1779_snatek_kaspar_novak.jpg","t":"Sňatek s Kašparem Novákem, Nižbor [1779 ?]"},
-        {"f":"img/1781_krest_josef_novak.jpg","t":"Křest syna Josefa Františka 12. 10. 1781, Nižbor č. 7"}
+        {"f":"img/1781_krest_josef_novak.jpg","t":"Křest syna Josefa Františka 12. 10. 1781, Nižbor č. 7"},
+        {"f":"img/1790_snatek_veronika_novakova.jpg","t":"2. sňatek vdovy Veroniky Novákové [1790 ?], Nižbor č. 43"}
       ]
     },
     {
@@ -15298,7 +15304,8 @@ window.RODOKMEN = {
       occ: "horník (ferri fossor), Vysoká Huť",
       notes: [
         "Otec Veroniky Novákové – při jejím sňatku [1779 ?] „post defunctum Antonium Waczin ferri fossorem ex Alta Hutna“ (Nižbor 02 O pag. 222, sn. 128 vlevo; M; příjmení dříve čteno „Wagen (?)“, opraveno N247). V r. 1779 už nežil.",
-        "KANDIDÁTKA na manželku (K): Kateřina, vdova po † Antonínu Vacínovi, horníkovi, † 6. (?) 3. 1783 Nižbor č. 21, 62 let (Nižbor 02 Z sn. 182 vlevo). V č. 21 žije 1783 i mladší Antonín Vacín (dcera Terezie † 22. 1. 1783, 2 roky) – snad bratr Veroniky."
+        "KANDIDÁTKA na manželku (K): Kateřina, vdova po † Antonínu Vacínovi, horníkovi, † 6. (?) 3. 1783 Nižbor č. 21, 62 let (Nižbor 02 Z sn. 182 vlevo). V č. 21 žije 1783 i mladší Antonín Vacín (dcera Terezie † 22. 1. 1783, 2 roky) – snad bratr Veroniky.",
+        "KANDIDÁT (K): Antonín „Watzyn“ × Veronika, Stradonice – dcera Veronika Anna Barbora pokř. 18. 9. 1750 (Nižbor 02 N pag. 25, sn. 15 vpravo). Pokud jde o téhož Antonína, kandidátka Kateřina († 1783) by byla 2. manželkou nebo vdovou po jiném Antonínovi."
       ],
       sources: [
         "SOA Praha, fara Nižbor, Nižbor 02 (9777) O pag. 222, sn. 128 vlevo – https://ebadatelna.soapraha.cz/d/9777/128",
