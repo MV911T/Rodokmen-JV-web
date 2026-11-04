@@ -8576,7 +8576,7 @@ window.RODOKMEN = {
       notes: [
         "Matka Jana Vlasáka st. – křest 21. 10. 1759 v Hudlicích, otec František Vlasák, matka Anna (Beroun 07 N, sn. 256; M).",
         "Oddána 21. 7. 1749 v Berouně (kostel sv. Jakuba): „Franz Wlasák, pozůstalý syn po nebožtíku Janu Wlasákowi z Hudlic, s Annau Fuxowau, dcerau Jana Fuxy z Hudlic, obadwa poddaní křivoklátští“; dispens pro pokrevenství ve 3. stupni; družba Jan Fuxa z Hudlic, družička Ludmila Mašťová též z Hudlic, svědek František Patera z Hudlic; oddal děkan Josef Vavřinec Hermann (Beroun 17 (3921) O fol. 59, sn. 63 vpravo; M, ověřeno koordinátorem). Jediný sňatek Františka Vlasáka v rejstříku O fary Beroun 1734–57 (Beroun 40 sn. 128 R) a jediný hudlický pár František × Anna → ztotožnění K+.",
-        "Křest (*~1722–32, dcera Jana Fuxe) v Beroun 06 1721–1735 nenalezen; mezera 1728–31 a léta před 1721 neúplně prohlédnuty (Praha N255)."
+        "Křest (dcera Jana Fuxe) v Beroun 06 1721–1735 nenalezen; sourozenci 1723, 1725, 1727, 1730, 1732 nechávají jen mezeru V 1728 – V 1729 (bez zápisu) → spíš *před 1723 nebo z jiného manželství otce (Praha N255–N256). Anna Fuxová byla kmotrou 7. 2. 1729 (Beroun 06 sn. 150 L) – snad ona nebo příbuzná (K)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Beroun, kniha Beroun 07 (N 1739–1760), oddíl Hudlice, snímek 256 – https://ebadatelna.soapraha.cz/d/3909/256",
@@ -15356,7 +15356,7 @@ window.RODOKMEN = {
       alive: false,
       notes: [
         "KANDIDÁT (K+): otec Františka Vlasáka – při jeho sňatku 21. 7. 1749 „pozůstalý syn po nebožtíku Janu Wlasákowi z Hudlic“ (Beroun 17 O fol. 59, sn. 63 vpravo; M pro zápis). V r. 1749 už nežil.",
-        "V Hudlicích 1721–1729 dva Janové Vlasákové: Jan × Rozina (děti 1721, 1725, 1726) a Jan × Dorota (1725, 1727, 1729) (Beroun 06, N254) – který je otcem Františka, nerozhodnuto; Františkův křest (*~1720–28) v Beroun 06 1721–1730 nenalezen."
+        "V Hudlicích dva Janové Vlasákové: Jan × Rozina (děti od 1715: Anna 13. ? 1715 sn. 25 R; dále 1721, 1723, 1725, 1726) a Jan × Dorota (od VIII 1717: Kateřina sn. 51 R; dále 1725, 1727, 1729) (Beroun 06, N254, N257, N258b) – který je otcem Františka, nerozhodnuto. Křest Františka, syna Jana, v Beroun 06 (IV 1712 – 1735, Hudlice) NENALEZEN – jediný František Vlasák 1712–17 je syn Šimona × Anny (IV 1713, sn. 13 L) → František *před 1712 nebo jinde."
       ],
       sources: [
         "SOA Praha, fara Beroun, Beroun 17 (3921) O fol. 59, sn. 63 vpravo (21. 7. 1749); rejstřík O Beroun 40 (3942) sn. 128 vpravo – https://ebadatelna.soapraha.cz/d/3921/63"
@@ -15376,7 +15376,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁT (K+): otec Anny Vlasákové – při jejím sňatku 21. 7. 1749 „Anna Fuxowa, dcera Jana Fuxy z Hudlic“ (Beroun 17 O fol. 59, sn. 63 vpravo; M pro zápis); družbou byl Jan Fuxa z Hudlic (snad bratr nevěsty).",
         "Příjmení v oddacím zápisu 1749 dříve čteno „Supa“; koordinátor 4. 11. 2026 opravil na „Fuxa“ (stejný tvar F a x jako „Jana Fuxa“ v berounských křtech; Supa se v Hudlicích 1718–35 nevyskytuje).",
-        "Kandidátní rodina (K): Jan Fux (Fuxa), „Rowař (?)“, × Kateřina v Hudlicích – děti Vojtěch 26./27. 3. 1723 (Beroun 06 sn. 97 vpravo), Jan Stanislav 6. 5. 1725 (sn. 116 L), Václav 31. 8. 1727 (sn. 139 R), Dorota 27./31. 7. 1732 (sn. 178 R) (M pro zápisy). Křest dcery Anny v Beroun 06 1721–1735 nenalezen (mezera 1728–31 neúplně čtena) (Praha N255). V Hudlicích současně Václav Fux × Ludmila (děti 1729–35)."
+        "Kandidátní rodina (K): Jan Fux (Fuxa), „Rowař (?)“, × Kateřina v Hudlicích – děti Vojtěch 26./27. 3. 1723 (Beroun 06 sn. 97 vpravo), Jan Stanislav 6. 5. 1725 (sn. 116 L), Václav 31. 8. 1727 (sn. 139 R), Jiří Matěj 17./18. 2. 1730 (sn. 160 L), Dorota 27./31. 7. 1732 (sn. 178 R) (M pro zápisy). Křest dcery Anny v Beroun 06 1721–1735 nenalezen (mezera 1728–31 neúplně čtena) (Praha N255). V Hudlicích současně Václav Fux × Ludmila (děti 1729–35).",
+        "Anna Fuxová byla kmotrou už 19. 7. 1717 u Anny, dcery Františka Vlasáka × Kateřiny (Beroun 06 sn. 50 R; M) a 1717–1722 jako „panna Anna Fuxová“ (K) – starší Anna (sestra Jana ?). Křest Anny, dcery Jana, v Beroun 06 VI 1717 – 1735 nenalezen (N255–N257)."
       ],
       sources: [
         "SOA Praha, fara Beroun, Beroun 17 (3921) O fol. 59, sn. 63 vpravo (21. 7. 1749); rejstřík O Beroun 40 (3942) sn. 128 vpravo – https://ebadatelna.soapraha.cz/d/3921/63"
