@@ -15728,7 +15728,9 @@ window.RODOKMEN = {
       alive: false,
       occ: "sedlák a rychtář ve Skrchlebích (1757)",
       notes: [
-        "KANDIDÁT (K+): otec Pavla Málka st. – při jeho sňatku 23. 1. 1757 „legitimus filius Joannis Malek coloni et judicis pagi Skrchleb“ (Nymburk 07 O sn. 241 vpravo; M pro zápis); 1757 živ. Patrně i otec Doroty, která se vdávala 22. 8. 1759 jako „dcera Jana Málka, sedláka“ (sn. 254 vpravo; čteno agentem)."
+        "KANDIDÁT (K+): otec Pavla Málka st. – při jeho sňatku 23. 1. 1757 „legitimus filius Joannis Malek coloni et judicis pagi Skrchleb“ (Nymburk 07 O sn. 241 vpravo; M pro zápis); 1757 živ. Patrně i otec Doroty, která se vdávala 22. 8. 1759 jako „dcera Jana Málka, sedláka“ (sn. 254 vpravo; čteno agentem).",
+        "Praha N300: v Nymburk 06 N I 1729 – VI 1738 (Skrchleby) častý kmotr (1733–38: u Pavla Matějky XII 1736, Pavla Oty I 1737, Pavla Matějky VI 1738); vlastní dítě Pavel tam nenalezeno (střední negativ) – Pavel st. snad *1725–28 nebo po VI 1738.",
+        "Praha N301: 13. II 1727 ze Skrchleb – dítě Benart (?), „O: Jan Malek, M: Dorota“; kmotr mj. Jiří Matějka (Nymburk 06 (10405) N sn. 164 vlevo; M pro zápis) → manželka Jana Málka 1727 Dorota. Křest Pavla v N 1725–1740 (Skrchleby) nenalezen (střední negativ)."
       ],
       sources: [
         "SOA Praha, fara Nymburk, Nymburk 07 (10406) O pag. 471, sn. 241 vpravo (23. 1. 1757) – https://ebadatelna.soapraha.cz/d/10406/241"
@@ -15748,7 +15750,8 @@ window.RODOKMEN = {
       alive: false,
       occ: "sedlák ve Skrchlebích",
       notes: [
-        "KANDIDÁT (K+): otec Anny Málkové – při jejím sňatku 23. 1. 1757 „filia post defunctum Georgium Matiegka colonum pagi ejusdem [Skrchleb]“ (Nymburk 07 O sn. 241 vpravo; M pro zápis); v r. 1757 už nežil. Ve Skrchlebích 1732–36 křtil Jiří Matějka děti s matkami Alžbětou, Magdalenou a Annou (Nymburk 06; Praha N296) – vazba neověřena."
+        "KANDIDÁT (K+): otec Anny Málkové – při jejím sňatku 23. 1. 1757 „filia post defunctum Georgium Matiegka colonum pagi ejusdem [Skrchleb]“ (Nymburk 07 O sn. 241 vpravo; M pro zápis); v r. 1757 už nežil. Ve Skrchlebích 1732–36 křtil Jiří Matějka děti s matkami Alžbětou, Magdalenou a Annou (Nymburk 06; Praha N296) – vazba neověřena.",
+        "Praha N301: Jiří Matějka × Anna ze Skrchleb – syn Pavel 15. III 1727, kmotr Jan Málek (Nymburk 06 N sn. 164 vpravo; M pro zápis). Dcera Anna v N 1725–1740 nenalezena (14 Anen s otcem Jiřím prověřeno – žádná Matějková)."
       ],
       sources: [
         "SOA Praha, fara Nymburk, Nymburk 07 (10406) O pag. 471, sn. 241 vpravo (23. 1. 1757) – https://ebadatelna.soapraha.cz/d/10406/241"
