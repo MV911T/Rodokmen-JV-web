@@ -14612,7 +14612,8 @@ window.RODOKMEN = {
       name: "Jan Zajíček",
       line: "nezname",
       cert: "M",
-      b: {"date":"asi 1756 (kandidátní úmrtí 1828, 72 let)","year":1756,"approx":true,"place":"Krchleby"},
+      b: {"date":"7. 4. 1759 (pokř. 8. 4.; kandidátní křest – viz poznámky)","year":1759,"approx":true,"place":"Krchleby"},
+      father: "matej_zj",
       spouse: "dorota_zj",
       marriage: "25. 9. 1776, Nymburk (Krchleby č. 45) – s Dorotou, dcerou Jana Matějky",
       notes: [
@@ -14623,7 +14624,7 @@ window.RODOKMEN = {
         "Praha N287 (Veleliby 04 (13542) Z, rejstřík Veleliby 13 – Krchleby 1798–1851): KANDIDÁTI (K) – (a) † 30. 3. 1828 Jan Zajíček, výminkář, č. 47, 72 let (*~1756; sn. 41 vlevo), manželka snad Dorota † 5. 5. 1809 č. 47, 55 let (sn. 18 vlevo), v č. 47 † 6. 3. 1828 Matěj Zajíček, sedlák, 48 let; (b) Dorota, vdova po † Janu Zajíčkovi, výminkářka, č. 27, † 13. 4. 1822, 88 let (sn. 32 vlevo) – vdova po Janovi z č. 45 († 28. 2. 1798, 70 l., podruh?). Který Jan je otec Anny (*9. 7. 1780), nerozhodnuto – rozhodnou čísla domů v křtech Anny 1780 a Václava 1778 (Nymburk 08).",
         "Praha N288: křest Anny 9. 7. 1780 – dům jistě č. 45, „Joannes Zagjček bodrianus“ × Dorota (Nymburk 08 (10407) N sn. 67 vlevo; M); Václav 29. 11. 1778 č. 4? (sn. 62 vpravo). Oddavky 1797 bez domu nevěsty, otec bez „†“ (M); vnuci 1799, 1809 bez domu. ROZPOR: Jan z č. 45 † 28. 2. 1798 (70, podruh) × otec Anny živ 1799 a 1809 → buď je „†“ v křtech vnuků vynecháno, nebo Jan z č. 45 (1780) = Jan z č. 47 († 1828, 72 l., *~1756; přestěhování / přečíslování). Matěj Zajíček *24. 1. 1781 je syn Václava × Marie (č. 18 ?), ne Jana. Nerozhodnuto.",
         "KANDIDÁT úmrtí (K+): 30. 3. 1828 Krchleby č. 47, Jan Zajíček, výminkář, 72 let (Veleliby 04 Z sn. 41 vlevo) – věkem sedí na ženicha 1776; Jan z č. 45 † 28. 2. 1798 (70 let, podruh) je starší generace.",
-        "KANDIDÁTI rodičů (K): Matěj Zajíček, sedlák ze Skrchleb, × Dorota – dcera Anežka Anna 20. 1. 1757, kmotra Dorota, manželka Jana Matějky, sedláka (Nymburk 07 (10406) N sn. 104 vlevo; M pro zápis). Janův křest v Nymburk 07 III 1752 – XII 1758 nenalezen (Praha N290–N291) → snad před 1752."
+        "KANDIDÁT křtu (K+): nar. 7., pokř. 8. 4. 1759 – „Ze Skrchleb dítě Jan, otec Matěj Zagjček, sedlák, matka Dorotha, poddaní Welkawj (?)“; levans Pavel Motyčka, sedlák; svědci Jan Matějka, sedlák (otec nevěsty 1776), a Terezie, manželka Jana Holfelda, šenkýře (Nymburk 07 (10406) N pag. 230, sn. 121 vlevo; M pro zápis, ověřeno koordinátorem). Jediný Jan, syn Matěje Zajíčka, v N 1745–1759. Při sňatku 1776 by mu bylo 17; kandidátní † 1828 udává 72 (→ *~1756) – ROZPOR."
       ],
       sources: [
         "SOA Praha, Nymburk 08 (10407), O sn. 196 vlevo (18. 1. 1797), https://ebadatelna.soapraha.cz/d/10407/196",
@@ -14631,6 +14632,7 @@ window.RODOKMEN = {
         "Nymburk 08 (10407) O sn. 178 vpravo – https://ebadatelna.soapraha.cz/d/10407/178"
       ],
       scans: [
+        {"f":"img/1759_krest_jan_zajicek.jpg","t":"Kandidátní křest 8. 4. 1759, Krchleby"},
         {"f":"img/1797_O_Ota_Frantisek_Zajickova_Anna.jpg","t":"Sňatek dcery Anny, 1797"},
         {"f":"img/1776_snatek_jan_zajicek_dorota_matejkova.jpg","t":"Sňatek 25. 9. 1776, Krchleby č. 45"},
         {"f":"img/1780_krest_anna_zajickova.jpg","t":"Křest dcery Anny 9. 7. 1780"}
@@ -15546,7 +15548,7 @@ window.RODOKMEN = {
         "Dcera Jana Matějky ze Skrchleb. Oddán 25. 9. 1776 v Nymburce (Krchleby č. 45): „Honestus sponsus Joannes, filius defuncti Mathiae Zagjczek, cum … sponsa Dorothea, filia Joannis Matiegka, ambo ex pago Skrchleb“; svědci Jan Kobek (?) a Alžběta Kotíková (?) ze Skrchleb (Nymburk 08 (10407) O sn. 178 vpravo; M, ověřeno koordinátorem).",
         "Matka Václava (29. 11. 1778), Anny (9. 7. 1780, č. 45), Václava (XI 1785, č. 45) a snad Jana (IV 1790, „Dorota roz. Matějková“, č. 57 ?) (Nymburk 08 N; M).",
         "KANDIDÁT úmrtí (K): 5. 5. 1809 Krchleby č. 47, „Dorota, manželka Jana Zajíčka, sedláka“, 55 let (Veleliby 04 (13542) Z sn. 18 vlevo) – věk sedí (*~1754); přechod z č. 45 na č. 47 nedoložen.",
-        "KANDIDÁT křtu (K+): nar. 11., pokř. 12. 8. 1757 – „Ze Skrchleb dítě Dorota, otec Jan Matějka, sedlák, matka Dorota“; svědci Václav Matějka, chalupník, a Anna, manželka Jana Zajíčka; kmotra Dorota, manželka Karla Malla (?), chalupníka; křtil děkan Tomáš K… (Nymburk 07 (10406) N pag. 204, sn. 108 vlevo; M pro zápis, ověřeno koordinátorem). Jediná Dorota Jana Matějky v N III 1752 – XII 1758; při sňatku 1776 by jí bylo 19. ROZPOR: kandidátní † 1809 (55 l.) → *~1754."
+        "KANDIDÁT křtu (K): nar. 11., pokř. 12. 8. 1757 – „Ze Skrchleb dítě Dorota, otec Jan Matějka, sedlák, matka Dorota“; svědci Václav Matějka, chalupník, a Anna, manželka Jana Zajíčka; kmotra Dorota, manželka Karla Malla (?), chalupníka; křtil děkan Tomáš K… (Nymburk 07 (10406) N pag. 204, sn. 108 vlevo; M pro zápis, ověřeno koordinátorem). Druhá Dorota téhož páru pokřtěna 7. 5. 1759 (Nymburk 07 sn. 121 vpravo; M) → starší asi zemřela; nevěstou 1776 může být kterákoli (17–19 let). ROZPOR: kandidátní † 1809 (55 l.) → *~1754."
       ],
       sources: [
         "SOA Praha, fara Nymburk, Nymburk 08 (10407) O sn. 178 vpravo – https://ebadatelna.soapraha.cz/d/10407/178"
@@ -15577,6 +15579,28 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1776_snatek_jan_zajicek_dorota_matejkova.jpg","t":"Sňatek dcery Doroty 25. 9. 1776, Krchleby"},
         {"f":"img/1757_krest_dorota_matejkova.jpg","t":"Kandidátní křest dcery Doroty 12. 8. 1757"}
+      ]
+    },
+    {
+      id: "matej_zj",
+      name: "Matěj Zajíček",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true,"place":"Krchleby (?)"},
+      d: {"date":"před 25. 9. 1776","year":1776,"approx":true},
+      alive: false,
+      occ: "sedlák ve Skrchlebích (Krchleby)",
+      notes: [
+        "Otec Jana Zajíčka – při jeho sňatku 25. 9. 1776 „Joannes, filius defuncti Mathiae Zagjczek“ (Nymburk 08 (10407) O sn. 178 vpravo; M); tehdy už nežil.",
+        "Sedlák ve Skrchlebích × Dorota: děti Anežka Anna 20. 1. 1757 (kmotra Dorota, manželka Jana Matějky; Nymburk 07 (10406) N sn. 104 vlevo) a Jan 7./8. 4. 1759 (sn. 121 vlevo) (M pro zápisy). V N 1745 – III 1752 jako otec není (Praha N290–N292)."
+      ],
+      sources: [
+        "Nymburk 08 (10407) O sn. 178 vpravo – https://ebadatelna.soapraha.cz/d/10407/178",
+        "Nymburk 07 (10406) N sn. 121 vlevo – https://ebadatelna.soapraha.cz/d/10406/121"
+      ],
+      scans: [
+        {"f":"img/1759_krest_jan_zajicek.jpg","t":"Křest syna Jana 8. 4. 1759, Krchleby"}
       ]
     }
   ]
