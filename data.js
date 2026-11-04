@@ -8177,10 +8177,10 @@ window.RODOKMEN = {
       father: "jan_vh0",
       spouse: "anna_vh",
       occ: "Hudlice (poddaný panství Křivoklát)",
-      marriage: "21. 7. 1749, Beroun – s Annou, dcerou Jana Supy z Hudlic",
+      marriage: "21. 7. 1749, Beroun – s Annou, dcerou Jana Fuxy (Fuxe) z Hudlic",
       notes: [
         "Otec Jana Vlasáka st. (sňatek 1795).",
-        "Oddán 21. 7. 1749 v Berouně (kostel sv. Jakuba): „Franz Wlasák, pozůstalý syn po nebožtíku Janu Wlasákowi z Hudlic, s Annau Supowau, dcerau Jana Supy z Hudlic, obadwa poddaní křivoklátští“; dispens pro pokrevenství ve 3. stupni; družba Jan Supa z Hudlic, družička Ludmila Mašťová též z Hudlic, svědek František Patera z Hudlic; oddal děkan Josef Vavřinec Hermann (Beroun 17 (3921) O fol. 59, sn. 63 vpravo; M, ověřeno koordinátorem). Jediný sňatek Františka Vlasáka v rejstříku O fary Beroun 1734–57 (Beroun 40 sn. 128 R) a jediný hudlický pár František × Anna → ztotožnění K+.",
+        "Oddán 21. 7. 1749 v Berouně (kostel sv. Jakuba): „Franz Wlasák, pozůstalý syn po nebožtíku Janu Wlasákowi z Hudlic, s Annau Fuxowau, dcerau Jana Fuxy z Hudlic, obadwa poddaní křivoklátští“; dispens pro pokrevenství ve 3. stupni; družba Jan Fuxa z Hudlic, družička Ludmila Mašťová též z Hudlic, svědek František Patera z Hudlic; oddal děkan Josef Vavřinec Hermann (Beroun 17 (3921) O fol. 59, sn. 63 vpravo; M, ověřeno koordinátorem). Jediný sňatek Františka Vlasáka v rejstříku O fary Beroun 1734–57 (Beroun 40 sn. 128 R) a jediný hudlický pár František × Anna → ztotožnění K+.",
         "Manželka Anna (křty dětí 1759, 1764, 1769; kmotři Kulhánkovi). Pozor: v Hudlicích současně František Vlasák × Kateřina (č. 36, rychtář, † 26. 3. 1803) a František × Dorota (č. 18). Úmrtí tohoto Františka nenalezeno (Hudlice 1756–1802).",
         "KANDIDÁT úmrtí před X 1779: 31. 10. 1779 se v Hudlicích č. 31 vdávala „Anna filia defuncti Francisci Wlassak“ (Beroun 09, sn. 68) – nejspíš jeho dcera (ostatní hudličtí Františkové Vlasákové tehdy žili). V Beroun 09 Z 1771–1784 ani Hudlice 12 (1785–1803) jeho úmrtí není – zemřel spíš před 1771."
       ],
@@ -8189,7 +8189,7 @@ window.RODOKMEN = {
         "SOA Praha, fara Beroun, Beroun 17 (3921) O fol. 59, sn. 63 vpravo (21. 7. 1749); rejstřík O Beroun 40 (3942) sn. 128 vpravo – https://ebadatelna.soapraha.cz/d/3921/63"
       ],
       scans: [
-        {"f":"img/1749_snatek_frantisek_vlasak_anna_supova.jpg","t":"Sňatek Františka Vlasáka a Anny Supové, Beroun 21. 7. 1749"},
+        {"f":"img/1749_snatek_frantisek_vlasak_anna_fuxova.jpg","t":"Sňatek Františka Vlasáka a Anny Fuxové, Beroun 21. 7. 1749"},
         {"f":"img/1795_snatek_jan_vlasak_marie_jonasova_jarosova_sykorice_zbecno12_sn6.jpg","t":"Sňatek Jana Vlasáka a Marie Jonášové, Sýkořice 11. 10. 1795"}
       ]
     },
@@ -8566,7 +8566,7 @@ window.RODOKMEN = {
     {
       id: "anna_vh",
       name: "Anna Vlasáková",
-      maiden: "Supová",
+      maiden: "Fuxová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (asi 1725–1730)","year":1727,"approx":true,"place":"Hudlice (?)"},
@@ -8575,14 +8575,15 @@ window.RODOKMEN = {
       marriage: "21. 7. 1749, Beroun – s Františkem Vlasákem",
       notes: [
         "Matka Jana Vlasáka st. – křest 21. 10. 1759 v Hudlicích, otec František Vlasák, matka Anna (Beroun 07 N, sn. 256; M).",
-        "Oddána 21. 7. 1749 v Berouně (kostel sv. Jakuba): „Franz Wlasák, pozůstalý syn po nebožtíku Janu Wlasákowi z Hudlic, s Annau Supowau, dcerau Jana Supy z Hudlic, obadwa poddaní křivoklátští“; dispens pro pokrevenství ve 3. stupni; družba Jan Supa z Hudlic, družička Ludmila Mašťová též z Hudlic, svědek František Patera z Hudlic; oddal děkan Josef Vavřinec Hermann (Beroun 17 (3921) O fol. 59, sn. 63 vpravo; M, ověřeno koordinátorem). Jediný sňatek Františka Vlasáka v rejstříku O fary Beroun 1734–57 (Beroun 40 sn. 128 R) a jediný hudlický pár František × Anna → ztotožnění K+."
+        "Oddána 21. 7. 1749 v Berouně (kostel sv. Jakuba): „Franz Wlasák, pozůstalý syn po nebožtíku Janu Wlasákowi z Hudlic, s Annau Fuxowau, dcerau Jana Fuxy z Hudlic, obadwa poddaní křivoklátští“; dispens pro pokrevenství ve 3. stupni; družba Jan Fuxa z Hudlic, družička Ludmila Mašťová též z Hudlic, svědek František Patera z Hudlic; oddal děkan Josef Vavřinec Hermann (Beroun 17 (3921) O fol. 59, sn. 63 vpravo; M, ověřeno koordinátorem). Jediný sňatek Františka Vlasáka v rejstříku O fary Beroun 1734–57 (Beroun 40 sn. 128 R) a jediný hudlický pár František × Anna → ztotožnění K+.",
+        "Křest (*~1722–32, dcera Jana Fuxe) v Beroun 06 1721–1735 nenalezen; mezera 1728–31 a léta před 1721 neúplně prohlédnuty (Praha N255)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Beroun, kniha Beroun 07 (N 1739–1760), oddíl Hudlice, snímek 256 – https://ebadatelna.soapraha.cz/d/3909/256",
         "SOA Praha, fara Beroun, Beroun 17 (3921) O fol. 59, sn. 63 vpravo (21. 7. 1749); rejstřík O Beroun 40 (3942) sn. 128 vpravo – https://ebadatelna.soapraha.cz/d/3921/63"
       ],
       scans: [
-        {"f":"img/1749_snatek_frantisek_vlasak_anna_supova.jpg","t":"Sňatek Františka Vlasáka a Anny Supové, Beroun 21. 7. 1749"}
+        {"f":"img/1749_snatek_frantisek_vlasak_anna_fuxova.jpg","t":"Sňatek Františka Vlasáka a Anny Fuxové, Beroun 21. 7. 1749"}
       ]
     },
     {
@@ -15361,25 +15362,27 @@ window.RODOKMEN = {
         "SOA Praha, fara Beroun, Beroun 17 (3921) O fol. 59, sn. 63 vpravo (21. 7. 1749); rejstřík O Beroun 40 (3942) sn. 128 vpravo – https://ebadatelna.soapraha.cz/d/3921/63"
       ],
       scans: [
-        {"f":"img/1749_snatek_frantisek_vlasak_anna_supova.jpg","t":"Sňatek syna Františka 21. 7. 1749, Beroun"}
+        {"f":"img/1749_snatek_frantisek_vlasak_anna_fuxova.jpg","t":"Sňatek syna Františka 21. 7. 1749, Beroun"}
       ]
     },
     {
       id: "jan_sup",
-      name: "Jan Supa",
+      name: "Jan Fux (Fuxa)",
       maiden: "",
       line: "nezname",
       cert: "K",
       b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true,"place":"Hudlice (?)"},
       alive: false,
       notes: [
-        "KANDIDÁT (K+): otec Anny Vlasákové – při jejím sňatku 21. 7. 1749 „Anna Supowa, dcera Jana Supy z Hudlic“ (Beroun 17 O fol. 59, sn. 63 vpravo; M pro zápis); družbou byl Jan Supa z Hudlic (snad bratr nevěsty)."
+        "KANDIDÁT (K+): otec Anny Vlasákové – při jejím sňatku 21. 7. 1749 „Anna Fuxowa, dcera Jana Fuxy z Hudlic“ (Beroun 17 O fol. 59, sn. 63 vpravo; M pro zápis); družbou byl Jan Fuxa z Hudlic (snad bratr nevěsty).",
+        "Příjmení v oddacím zápisu 1749 dříve čteno „Supa“; koordinátor 4. 11. 2026 opravil na „Fuxa“ (stejný tvar F a x jako „Jana Fuxa“ v berounských křtech; Supa se v Hudlicích 1718–35 nevyskytuje).",
+        "Kandidátní rodina (K): Jan Fux (Fuxa), „Rowař (?)“, × Kateřina v Hudlicích – děti Vojtěch 26./27. 3. 1723 (Beroun 06 sn. 97 vpravo), Jan Stanislav 6. 5. 1725 (sn. 116 L), Václav 31. 8. 1727 (sn. 139 R), Dorota 27./31. 7. 1732 (sn. 178 R) (M pro zápisy). Křest dcery Anny v Beroun 06 1721–1735 nenalezen (mezera 1728–31 neúplně čtena) (Praha N255). V Hudlicích současně Václav Fux × Ludmila (děti 1729–35)."
       ],
       sources: [
         "SOA Praha, fara Beroun, Beroun 17 (3921) O fol. 59, sn. 63 vpravo (21. 7. 1749); rejstřík O Beroun 40 (3942) sn. 128 vpravo – https://ebadatelna.soapraha.cz/d/3921/63"
       ],
       scans: [
-        {"f":"img/1749_snatek_frantisek_vlasak_anna_supova.jpg","t":"Sňatek dcery Anny 21. 7. 1749, Beroun"}
+        {"f":"img/1749_snatek_frantisek_vlasak_anna_fuxova.jpg","t":"Sňatek dcery Anny 21. 7. 1749, Beroun"}
       ]
     }
   ]
