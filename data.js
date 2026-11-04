@@ -15594,8 +15594,10 @@ window.RODOKMEN = {
       maiden: "",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true,"place":"Krchleby (?)"},
+      b: {"date":"asi 1732 (kandidátní křest 17. 2. 1732 – viz poznámky)","year":1732,"approx":true,"place":"Krchleby (Skrchleby)"},
       d: {"date":"před 25. 9. 1776","year":1776,"approx":true},
+      father: "daniel_zj",
+      mother: "katerina_zj",
       spouse: "dorota_zj0",
       alive: false,
       occ: "sedlák ve Skrchlebích (Krchleby)",
@@ -15603,14 +15605,17 @@ window.RODOKMEN = {
       notes: [
         "Otec Jana Zajíčka – při jeho sňatku 25. 9. 1776 „Joannes, filius defuncti Mathiae Zagjczek“ (Nymburk 08 (10407) O sn. 178 vpravo; M); tehdy už nežil.",
         "Sedlák ve Skrchlebích × Dorota: děti Anežka Anna 20. 1. 1757 (kmotra Dorota, manželka Jana Matějky; Nymburk 07 (10406) N sn. 104 vlevo) a Jan 7./8. 4. 1759 (sn. 121 vlevo) (M pro zápisy). V N 1745 – III 1752 jako otec není (Praha N290–N292).",
-        "KANDIDÁT sňatku a rodičů (K+): 23. 11. 1755 ve filiálním kostele sv. Václava ve Velelibech: „Honestus adolescens [Mat]hias (jméno na okraji), filius Danielis Zagjček coloni ex pago Skrchleb, cum honesta ancilla Dorothea, filia Georgii Kregzin (?) ex pago eodem coloni, ambo subditi Welkawienses (?)“; svědci Jan Tygna, podruh ze Všechlap, a Kateřina Kubánková; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 460, sn. 236 vlevo; M pro zápis, ověřeno koordinátorem). Jediný sňatek Zajíčka ze Skrchleb v O XI 1749 – XI 1758; první dítě páru I 1757 → otec Matěje: Daniel Zajíček, sedlák ve Skrchlebích (1755 živ)."
+        "KANDIDÁT sňatku a rodičů (K+): 23. 11. 1755 ve filiálním kostele sv. Václava ve Velelibech: „Honestus adolescens [Mat]hias (jméno na okraji), filius Danielis Zagjček coloni ex pago Skrchleb, cum honesta ancilla Dorothea, filia Georgii Kregzin (?) ex pago eodem coloni, ambo subditi Welkawienses (?)“; svědci Jan Tygna, podruh ze Všechlap, a Kateřina Kubánková; oddal děkan Tomáš Kulna (Nymburk 07 (10406) O pag. 460, sn. 236 vlevo; M pro zápis, ověřeno koordinátorem). Jediný sňatek Zajíčka ze Skrchleb v O XI 1749 – XI 1758; první dítě páru I 1757 → otec Matěje: Daniel Zajíček, sedlák ve Skrchlebích (1755 živ).",
+        "KANDIDÁT křtu (K+): nar./pokř. 17. 2. 1732 ve Skrchlebích: „Matěg. Ot: Daniel Zagjček, Mat: Katteřina. Kmotři Matěg Kalysta, Kateřina (?) Zwonařowa (?), …Janyšowa (?). Parentes subditi Wlkawienses“ (Nymburk 06 (10405) N sn. 223 vlevo, záhlaví „An. 1732 Februarius“ sn. 222 vpravo; M pro zápis, ověřeno koordinátorem). Jediný Matěj, syn Daniela Zajíčka, v N X 1731 – XI 1736; při sňatku 1755 by mu bylo 23 („adolescens“) (Praha N294)."
       ],
       sources: [
         "Nymburk 08 (10407) O sn. 178 vpravo – https://ebadatelna.soapraha.cz/d/10407/178",
         "Nymburk 07 (10406) N sn. 121 vlevo – https://ebadatelna.soapraha.cz/d/10406/121",
-        "Nymburk 07 (10406) O sn. 236 vlevo – https://ebadatelna.soapraha.cz/d/10406/236"
+        "Nymburk 07 (10406) O sn. 236 vlevo – https://ebadatelna.soapraha.cz/d/10406/236",
+        "Nymburk 06 (10405) N sn. 223 vlevo – https://ebadatelna.soapraha.cz/d/10405/223"
       ],
       scans: [
+        {"f":"img/1732_krest_matej_zajicek.jpg","t":"Kandidátní křest 17. 2. 1732, Skrchleby"},
         {"f":"img/1759_krest_jan_zajicek.jpg","t":"Křest syna Jana 8. 4. 1759, Krchleby"},
         {"f":"img/1755_snatek_matej_zajicek.jpg","t":"Kandidátní sňatek 23. 11. 1755, Veleliby"}
       ]
@@ -15651,6 +15656,48 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1750_snatek_jan_matejka.jpg","t":"Kandidátní sňatek 25. 1. 1750, Nymburk"}
+      ]
+    },
+    {
+      id: "daniel_zj",
+      name: "Daniel Zajíček",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true,"place":"Krchleby (?)"},
+      spouse: "katerina_zj",
+      alive: false,
+      occ: "sedlák ve Skrchlebích (Krchleby)",
+      notes: [
+        "Otec Matěje Zajíčka – při jeho (kandidátním) sňatku 23. 11. 1755 „filius Danielis Zagjček coloni ex pago Skrchleb“ (Nymburk 07 (10406) O sn. 236 vlevo; M); 1755 ještě žil. Kmotr ve Skrchlebích 9. 2. 1733 (Nymburk 06 sn. 235 vlevo).",
+        "Syn Matěj nar./pokř. 17. 2. 1732 ve Skrchlebích: „Matěg. Ot: Daniel Zagjček, Mat: Katteřina. Kmotři Matěg Kalysta, Kateřina (?) Zwonařowa (?), …Janyšowa (?). Parentes subditi Wlkawienses“ (Nymburk 06 (10405) N sn. 223 vlevo, záhlaví „An. 1732 Februarius“ sn. 222 vpravo; M pro zápis, ověřeno koordinátorem)."
+      ],
+      sources: [
+        "Nymburk 07 (10406) O sn. 236 vlevo – https://ebadatelna.soapraha.cz/d/10406/236",
+        "Nymburk 06 (10405) N sn. 223 vlevo – https://ebadatelna.soapraha.cz/d/10405/223"
+      ],
+      scans: [
+        {"f":"img/1732_krest_matej_zajicek.jpg","t":"Křest syna Matěje 17. 2. 1732"},
+        {"f":"img/1755_snatek_matej_zajicek.jpg","t":"Sňatek syna Matěje 23. 11. 1755"}
+      ]
+    },
+    {
+      id: "katerina_zj",
+      name: "Kateřina Zajíčková",
+      maiden: "",
+      line: "nezname",
+      cert: "K",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      spouse: "daniel_zj",
+      alive: false,
+      notes: [
+        "KANDIDÁTKA (K+): manželka Daniela Zajíčka, matka Matěje (*17. 2. 1732; Nymburk 06 (10405) N sn. 223 vlevo; M pro zápis)."
+      ],
+      sources: [
+        "Nymburk 06 (10405) N sn. 223 vlevo – https://ebadatelna.soapraha.cz/d/10405/223"
+      ],
+      scans: [
+        {"f":"img/1732_krest_matej_zajicek.jpg","t":"Křest syna Matěje 17. 2. 1732"}
       ]
     }
   ]
