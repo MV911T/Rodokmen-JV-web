@@ -10082,21 +10082,28 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      d: {"date":"14. 10. 1810","year":1810,"place":"Dobrovany č. p. 16 (fara Rožďalovice)"},
       spouse: "jan_hf",
-      marriage: "13. 1. 1788, Nová Hasina č. 6 – s Janem Hofmanem (vdovcem)",
+      marriage: "13. 1. 1788, Nová Hasina – s vdovcem Janem Hofmanem; 2) 28. 4. 1800, Dobrovany č. 16 – s Karlem Veselým z Čížova",
       notes: [
         "Oddána 13. 1. 1788 v Nové Hasině č. 6 (fara Rožďalovice), svobodná, 23 let (→ *~1765), s vdovcem Janem Hofmanem (42); rodiče neuvedeni. Matka Františka (1790), Jiřího (1793) a Anny (1795), Dobrovany č. 16.",
         "Praha N65: křest Marie, dcery Matěje Zajíčka, v Rožďalovice 03 N V 1760 – VII 1767 není; sňatek Matěje × Anny v Rožďalovice 10 O X 1758 – VIII 1764 není (Matěj kmotrem už VII 1762 → sňatek spíš před 1758 nebo ve farnosti nevěsty). Marie snad narozena před 1760 nebo jinde – kandidátní rodiče zůstávají jen K.",
-        "KANDIDÁTI rodičů (K): Matěj Zajíček, podruh (incola) × Anna ze Staré Hasiny (panství Křinec) – dcera Anna Kateřina pokřtěna ~2. 3. 1766 (Rožďalovice 03 sn. 91 vpravo; M); Matěj kmotrem v Hasině 1763–64. Opírá se jen o příjmení, obec a generaci. Marie v N VIII 1762 – IV 1766 není (Praha N64) – hledat 1760–62 a 1766–67 a sňatek Matěje × Anny."
+        "KANDIDÁTI rodičů (K): Matěj Zajíček, podruh (incola) × Anna ze Staré Hasiny (panství Křinec) – dcera Anna Kateřina pokřtěna ~2. 3. 1766 (Rožďalovice 03 sn. 91 vpravo; M); Matěj kmotrem v Hasině 1763–64. Opírá se jen o příjmení, obec a generaci. Marie v N VIII 1762 – IV 1766 není (Praha N64) – hledat 1760–62 a 1766–67 a sňatek Matěje × Anny.",
+        "Podruhé oddána 28. 4. 1800 v Dobrovanech č. 16: „Karel Weselý, syn Waczlawa Weselyho z wsy Čížowa“, 28 let × „Maria Hoffmanowa, pozůstalá wdowa po † Janowi Hoffmanowi, sedlákowi z Dobrowan“, 34 let; svědci Pavel Hofman a František Čížek (?), oddal P. Václav Pokorný, kaplan (Rožďalovice 10 (11192) O sn. 146; M, ověřeno koordinátorem).",
+        "Zemřela 14. 10. 1810 (pohřbena 16. 10.) v Dobrovanech č. 16: „Marye, manželka Karla Weselyho, půllánjka z Dobrowan“, 45 let (Rožďalovice 14 (11198) Z fol. 128, sn. 81 vpravo; rejstřík Rožďalovice 37 sn. 290 vlevo; M, ověřeno koordinátorem). Věk 34 (1800) a 45 (1810) sedí; *~1765 (Praha N286)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 04 (11182, N 1789–1805), oddíl Dobrovany, pag. 95, snímek 51 vpravo (22. 1. 1795); index Rožďalovice 22 sn. 73 – https://ebadatelna.soapraha.cz/d/11182/51",
         "SOA Praha, ř.-k. fara Rožďalovice, index O Rožďalovice 16 (11201), snímek 26 vpravo",
-        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 222/223, snímek 115 (13. 1. 1788) – https://ebadatelna.soapraha.cz/d/11192/115"
+        "SOA Praha, ř.-k. fara Rožďalovice, kniha Rožďalovice 10 (11192, O 1734–1814), pag. 222/223, snímek 115 (13. 1. 1788) – https://ebadatelna.soapraha.cz/d/11192/115",
+        "Rožďalovice 10 (11192) O sn. 146 – https://ebadatelna.soapraha.cz/d/11192/146",
+        "Rožďalovice 14 (11198) Z sn. 81 vpravo – https://ebadatelna.soapraha.cz/d/11198/81"
       ],
       scans: [
         {"f":"img/1788_O_Hofman_Jan_Zajickova_Marie_Hasina6.jpg","t":"Sňatek Jana Hofmana (vdovce) s Marií Zajíčkovou, Nová Hasina č. 6, 13. 1. 1788"},
-        {"f":"img/1795_N_Hofmanova_Anna_Dobrovany16.jpg","t":"Křest Anny Hofmanové, Dobrovany č. 16, 22. 1. 1795"}
+        {"f":"img/1795_N_Hofmanova_Anna_Dobrovany16.jpg","t":"Křest Anny Hofmanové, Dobrovany č. 16, 22. 1. 1795"},
+        {"f":"img/1800_snatek_marie_hofmanova_karel_vesely.jpg","t":"2. sňatek 28. 4. 1800 s Karlem Veselým, Dobrovany č. 16"},
+        {"f":"img/1810_umrti_marie_vesela.jpg","t":"Úmrtí 14. 10. 1810, Dobrovany č. 16"}
       ]
     },
     {
