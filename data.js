@@ -15452,7 +15452,7 @@ window.RODOKMEN = {
       notes: [
         "Oddán 27. 2. 1767 v kostele sv. Mikuláše v Borku (oddíl „Ex pago Malkow“): „honestus adolescens Mathias, proprius superstes filius post def. Georgium Skala ex pago Launin, cum … virgine Josepha, propria filia Wenceslai Swoboda ex pago Malkow“; svědci Matěj Veselý z Lounína, Jakub Růžička z Málkova, František Daubin (?) z Býkoše, Václav Svoboda z Málkova, Josefa Horáková (?) z Tmaně; oddal farář Filip Bílek (Borek 03 (4072) O p. 76, sn. 229 vlevo; M, ověřeno koordinátorem). Otec „† Jiří Skála z Lounína“ – jediný Jiří Skála v Louníně 1732–1760 → syn Jiřího a Veroniky (D).",
         "Rychtář (judex) v Louníně č. 6: 30. 9. 1783 křest syna Josefa („Mathias Skala Judex et uxor Josepha“, Tmaň 02 (10456) N sn. 139 vpravo; M); kmotr III 1783 jako „Mathias Skala Judex Launensis“ (sn. 137 vpravo). Jeho matka Veronika † 22. 3. 1783 v č. 6 jako „Judicis Launensis Mater“ (Praha N274).",
-        "Křest (*~1735–43) dosud nenalezen – mezery v N Tmaň 02 1735–37 a 1742–43 (sn. 17–19, 27–28)."
+        "Křest (*~1735–46) v Tmaň 02 N nenalezen: sn. 17–19, 27–35 (1735–37, 1742–49) bez něj (Praha N275; na sn. 19 chybí VIII 1736 – IV 1737). Zbývá sn. 20–26 (1737–42) a 36–38 (1749–50)."
       ],
       sources: [
         "SOA Praha, fara Borek, Borek 03 (4072) O p. 76, sn. 229 vlevo – https://ebadatelna.soapraha.cz/d/4072/229",
@@ -15461,6 +15461,26 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1767_snatek_matej_skala.jpg","t":"Sňatek 27. 2. 1767, Borek (Málkov)"},
         {"f":"img/1783_krest_josef_skala_rychtar.jpg","t":"Křest syna Josefa 30. 9. 1783, Lounín č. 6 – otec rychtář"}
+      ]
+    },
+    {
+      id: "katerina_sk2",
+      name: "Kateřina Skálová",
+      maiden: "",
+      line: "skala",
+      cert: "M",
+      b: {"date":"19. X/XI 1746 (pokř. 20.)","year":1746,"place":"Lounín (fara Tmaň)"},
+      father: "jiri_sk_st",
+      mother: "veronika_sk",
+      alive: false,
+      notes: [
+        "Narozena 19., pokřtěna 20. [X nebo XI] 1746 v kostele sv. Jiří nad Tmaní: „Kateřina dítě … z otce Jiříka Skály, matky Weruny“; kmotra Kateřina Chvatalová, svědci Dorota Bělohradová a Jan Heráček (kmotr i u sourozenců Václava, Jakuba a Jana); křtil P. Václav Moravec, administrátor tmaňský (Tmaň 02 (10456) N sn. 33 vpravo, 4. zápis; M, ověřeno koordinátorem; měsíc v hřbetu – mezi 25. 10. a 19. 12. 1746). Další osud nehledán."
+      ],
+      sources: [
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N sn. 33 vpravo – https://ebadatelna.soapraha.cz/d/10456/33"
+      ],
+      scans: [
+        {"f":"img/1746_krest_katerina_skalova.jpg","t":"Křest 20. X/XI 1746, Lounín"}
       ]
     }
   ]
