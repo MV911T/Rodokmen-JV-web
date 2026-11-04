@@ -7937,6 +7937,7 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"21. 10. 1759 (?)","year":1759,"approx":true,"place":"Hudlice"},
+      d: {"date":"mezi 13. 5. 1811 a 11. 4. 1833","year":1833,"approx":true},
       father: "frantisek_vh",
       mother: "anna_vh",
       spouse: "marie_ja",
@@ -7949,7 +7950,8 @@ window.RODOKMEN = {
         "V r. 1811 „Inwohner von Hudlitz No. 19“ – dcera Anna (*13. 5. 1811, Zbečno č. 20). Pochází tedy z Hudlic (vlastní fara).",
         "Nejspíš pokřtěn 21. 10. 1759 v Hudlicích (fara Beroun): „Jan z otce Františka Wlasáka a matky Anny, poddaných křivoklátských“ (kmotr Jan …, šafář; svědci Josef Leber a Veronika). Sourozenci Kateřina (1764), Anna (1769). Druhý kandidát Jan Ondřej (*1760, rodina Františka × Kateřiny z č. 36) odpadá – jeho otec zemřel až 26. 3. 1803 (78 let), kdežto otec ženicha byl v r. 1795 už mrtvý. Třetí František (× Dorota) syna Jana neměl. Jistota K+ (úmrtí Františka × Anny nenalezeno).",
         "Posíleno (Praha 14): druhý hudlický František Vlasák (č. 36, × Kateřina, † 1803) byl v r. 1798 živý „soused hudlický“ (sňatek dcery Anny 23. 10. 1798) – nemůže být „† František“ ze sňatku Jana 1795. Úmrtí Františka × Anny v Hudlicích 1785 – IV 1803 ani 2. sňatek vdovy Anny 1785–1800 nenalezeny.",
-        "V IV 1833 už nežil – manželka Marie byla při úmrtí 11. 4. 1833 „Wittwe nach Johann Wlasak, Taglöhner in Zbečno“ (Zbečno 16 Z sn. 42 vlevo; M). V rejstříku Z Zbečno 16 (W) není – úmrtí hledat jinde nebo před 1784."
+        "V IV 1833 už nežil – manželka Marie byla při úmrtí 11. 4. 1833 „Wittwe nach Johann Wlasak, Taglöhner in Zbečno“ (Zbečno 16 Z sn. 42 vlevo; M). V rejstříku Z Zbečno 16 (W) není – úmrtí hledat jinde nebo před 1784.",
+        "Zemřel mezi 13. 5. 1811 (křest dcery Anny) a 11. 4. 1833 – manželka Marie † 11. 4. 1833 ve Zbečně č. 8 jako „Wittwe nach Johann Wlasák, Taglöhner in Zbečno“ (Zbečno 16 (8861) Z sn. 42 vlevo; M). Úmrtí není v rejstřících Z Zbečno 16 a 23 (W) ani v Hudlice 12 (W 1785–1833; dospělí Janové Vlasákové 1811–15 jsou jiní) (Praha N124, N171, N285). V oddacím zápisu syna X 1833 jsou oba rodiče bez „†“ – zřejmě opsáno (ROZPOR)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Zbečno, kniha Zbečno 10 (N 1784–1849, „tom. II“), pag. 246, snímek 126 – https://ebadatelna.soapraha.cz/d/8855/126",
