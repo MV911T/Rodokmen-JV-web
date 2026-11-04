@@ -10702,23 +10702,26 @@ window.RODOKMEN = {
       line: "skala",
       cert: "M",
       b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
+      d: {"date":"22. 3. 1783","year":1783,"place":"Lounín č. 6 (fara Tmaň)"},
       spouse: "jiri_sk_st",
       marriage: "17. 11. 1732, Lounín – s Jiřím Skálou",
       notes: [
         "Rozená Kolářová; oddána 17. 11. 1732 v Louníně (fara Tmaň) s Jiřím Skálou (M). Matka Václava (1734), Jakuba (1738), Jana (1741) a Jiřího (*1. 2. 1751) – jediná manželka Jiřího st. 1732–1760 (žádný druhý sňatek, D). Rodiče neuvedeni; Kateřina Skálová z Lounína (svědkyně 1732, kmotra 1754) je zřejmě příbuzná manžela (K).",
-        "Ovdověla 16. 1. 1760; úmrtí nehledáno (Z Tmaň 02 1760–69 staženo, lounínská okna nečtena).",
+        "Ovdověla 16. 1. 1760. Zemřela 22. 3. 1783 v Louníně č. 6: „Veronica Skallowa, Judicis Launensis Mater“ (matka lounínského rychtáře), 80 let, zaopatřena všemi svátostmi; pohřbil farář Václav František Matějka (Tmaň 02 (10456) Z sn. 271 vlevo; M pro zápis, ověřeno koordinátorem). Ztotožnění K+: jediná Veronika Skálová v Z Tmaň 1760–1783 (Praha N272–N273); věk 80 → *~1703 (odhad byl ~1710). Který ze synů (Václav *1734, Jakub *1738, Jan *1741, Jiří *1751) byl 1783 rychtářem, nezjištěno.",
         "Kolářové v Louníně: Kateřina Kolářka (kmotra 1738) a Lidmila Kolářová (svědkyně 1744) – snad sestry (K). „Dorota … vdova“ 1738 je Dorota Skálová, vdova po Petrovi, ne Kolářová. Křest Veroniky nenalezen ve faře Tmaň 1698–1707 a 1710 – VII 1727 (Tmaň 01/01b, všechny obce; výhrady: vložka 1702–03 a 1725–27 čitelné jen zčásti) a v Borku X 1708 – VI 1709 ani v Borku 01 1699 – V 1705 (kniha neúplná), v rejstříku N Borek 02 1710–1747 (K: jen Anna Kolářová, Želkovice; „Krawarzin Veronica“ 1729 = Kravařová) a v rejstříku N Bezdědice 26 1691–1716 → pokřtěna nejspíš mimo tyto fary. KANDIDÁTI rodiny (K): Jiří Kolář, „kunický (?) mlynář“ × Alžběta – Kateřina 12. 11. 1699, Eva 22. 11. 1700 (kmotři z Králova Dvora a Tetína); Václav Kolář ze Želkovic × Lidmila – Anna 21. 4. 1699 (fara Tmaň, Tmaň 01 sn. 64–68, M zápisy)."
       ],
       sources: [
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456, N/O/Z 1728–1784), N, oddíl Lounín, snímek 39 vlevo (1. 2. 1751) – https://ebadatelna.soapraha.cz/d/10456/39",
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), O, p. 167, snímek 157 vpravo (17. 11. 1732) – https://ebadatelna.soapraha.cz/d/10456/157",
         "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), N, snímek 20 vpravo (26. 7. 1738) – https://ebadatelna.soapraha.cz/d/10456/20",
-        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), N, snímek 16 vpravo (27. 7. 1734), 23 vpravo (VI 1741), 20 vpravo (19. 10. 1738) – https://ebadatelna.soapraha.cz/d/10456/16"
+        "SOA Praha, ř.-k. fara Tmaň, kniha Tmaň 02 (10456), N, snímek 16 vpravo (27. 7. 1734), 23 vpravo (VI 1741), 20 vpravo (19. 10. 1738) – https://ebadatelna.soapraha.cz/d/10456/16",
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) Z sn. 271 vlevo (22. 3. 1783) – https://ebadatelna.soapraha.cz/d/10456/271"
       ],
       scans: [
         {"f":"img/1751_N_Skala_Jiri_Lounin_Tman.jpg","t":"Křest Jiřího Skály z Lounína, Tmaň, 1. 2. 1751 (otec Jiří Skála, matka Veronika)"},
         {"f":"img/1760_Z_Skala_Jiri_st_Lounin_Tman.jpg","t":"Úmrtí manžela Jiřího Skály st., Lounín, 16. 1. 1760"},
-        {"f":"img/1732_O_Skala_Jiri_Kolarova_Veronika_Lounin.jpg","t":"Sňatek Jiřího Skály s Veronikou Kolářovou, Lounín (fara Tmaň), 17. 11. 1732"}
+        {"f":"img/1732_O_Skala_Jiri_Kolarova_Veronika_Lounin.jpg","t":"Sňatek Jiřího Skály s Veronikou Kolářovou, Lounín (fara Tmaň), 17. 11. 1732"},
+        {"f":"img/1783_umrti_veronika_skalova.jpg","t":"Úmrtí 22. 3. 1783, Lounín č. 6"}
       ]
     },
     {
