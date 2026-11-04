@@ -15443,7 +15443,9 @@ window.RODOKMEN = {
       maiden: "",
       line: "skala",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1740)","year":1740,"approx":true,"place":"Lounín (fara Tmaň)"},
+      b: {"date":"asi 1739 (81 let při úmrtí)","year":1739,"approx":true,"place":"Lounín (fara Tmaň)"},
+      d: {"date":"15. 11. 1820","year":1820,"place":"Lounín č. 6 (fara Tmaň)"},
+      cause: "churavost a sešlý věk",
       father: "jiri_sk_st",
       mother: "veronika_sk",
       alive: false,
@@ -15452,15 +15454,20 @@ window.RODOKMEN = {
       notes: [
         "Oddán 27. 2. 1767 v kostele sv. Mikuláše v Borku (oddíl „Ex pago Malkow“): „honestus adolescens Mathias, proprius superstes filius post def. Georgium Skala ex pago Launin, cum … virgine Josepha, propria filia Wenceslai Swoboda ex pago Malkow“; svědci Matěj Veselý z Lounína, Jakub Růžička z Málkova, František Daubin (?) z Býkoše, Václav Svoboda z Málkova, Josefa Horáková (?) z Tmaně; oddal farář Filip Bílek (Borek 03 (4072) O p. 76, sn. 229 vlevo; M, ověřeno koordinátorem). Otec „† Jiří Skála z Lounína“ – jediný Jiří Skála v Louníně 1732–1760 → syn Jiřího a Veroniky (D).",
         "Rychtář (judex) v Louníně č. 6: 30. 9. 1783 křest syna Josefa („Mathias Skala Judex et uxor Josepha“, Tmaň 02 (10456) N sn. 139 vpravo; M); kmotr III 1783 jako „Mathias Skala Judex Launensis“ (sn. 137 vpravo). Jeho matka Veronika † 22. 3. 1783 v č. 6 jako „Judicis Launensis Mater“ (Praha N274).",
-        "Křest (*~1735–46) v Tmaň 02 N nenalezen: sn. 17–19, 27–35 (1735–37, 1742–49) bez něj (Praha N275; na sn. 19 chybí VIII 1736 – IV 1737). Zbývá sn. 20–26 (1737–42) a 36–38 (1749–50)."
+        "Křest (*~1735–46) v Tmaň 02 N 1735–1750 nenalezen (Praha N275–N276); v knize chybí VIII–XII 1736 (sn. 19/20) → nejspíš narozen v této mezeře (K).",
+        "Praha N277: syn Václav † 7. 10. 1785 Lounín č. 6, 1 rok (Tmaň 10 (10464) Z sn. 8; otec „Matěj Skála, rychtář (?)“); vysvědčení obce Lounín 17. 11. 1784 podepsáno snad „Matiey Skalla Rychtář Launinský“ (sn. 5, K). Úmrtí v Tmaň 10 (1784–99) není a v rejstříku Tmaň 11 (1799–1818) chybí.",
+        "Zemřel 15. 11. 1820 (pohřben 17. 11.) v Louníně č. 6: „Skalla Matěj, wýminkář sedlák z Launina, poddaný k panství Tmaň“, 81 let, churavost a sešlý věk; pohřbil P. Mathias Seqnens (?), farář tmaňský (Tmaň 12 (10466) Z sn. 9; M, ověřeno koordinátorem) → *~1739 (křest v Tmaň 02 1737–50 nenalezen – snad VIII–XII 1736, věk nadsazený o 2–3 roky). Manželka Josefa † 14. 3. 1813 v č. 6, 64 let, „manželka Matěje Skály, výminkáře a sedláka (?)“, na horkou zimnici (Tmaň 11 (10465) sn. 27 vlevo, fol. 29v; M) (Praha N278)."
       ],
       sources: [
         "SOA Praha, fara Borek, Borek 03 (4072) O p. 76, sn. 229 vlevo – https://ebadatelna.soapraha.cz/d/4072/229",
-        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N sn. 139 vpravo – https://ebadatelna.soapraha.cz/d/10456/139"
+        "SOA Praha, fara Tmaň, Tmaň 02 (10456) N sn. 139 vpravo – https://ebadatelna.soapraha.cz/d/10456/139",
+        "Tmaň 12 (10466) Z sn. 9 – https://ebadatelna.soapraha.cz/d/10466/9",
+        "Tmaň 11 (10465) Z sn. 27 vlevo – https://ebadatelna.soapraha.cz/d/10465/27"
       ],
       scans: [
         {"f":"img/1767_snatek_matej_skala.jpg","t":"Sňatek 27. 2. 1767, Borek (Málkov)"},
-        {"f":"img/1783_krest_josef_skala_rychtar.jpg","t":"Křest syna Josefa 30. 9. 1783, Lounín č. 6 – otec rychtář"}
+        {"f":"img/1783_krest_josef_skala_rychtar.jpg","t":"Křest syna Josefa 30. 9. 1783, Lounín č. 6 – otec rychtář"},
+        {"f":"img/1820_umrti_matej_skala.jpg","t":"Úmrtí 15. 11. 1820, Lounín č. 6"}
       ]
     },
     {
