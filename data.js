@@ -10684,7 +10684,8 @@ window.RODOKMEN = {
         {"f":"img/1770_O_Skala_Jiri_Klikova_Eva_Borek.jpg","t":"Sňatek Jiřího Skály z Lounína s Evou Klikovou z Býkoše, Borek, 16. 9. 1770"},
         {"f":"img/1751_N_Skala_Jiri_Lounin_Tman.jpg","t":"Křest Jiřího Skály z Lounína, Tmaň, 1. 2. 1751 (otec Jiří Skála, matka Veronika)"},
         {"f":"img/1760_Z_Skala_Jiri_st_Lounin_Tman.jpg","t":"Úmrtí Jiřího Skály st. z Lounína, Tmaň, 16. 1. 1760 (~57 let)"},
-        {"f":"img/1732_O_Skala_Jiri_Kolarova_Veronika_Lounin.jpg","t":"Sňatek Jiřího Skály s Veronikou Kolářovou, Lounín (fara Tmaň), 17. 11. 1732"}
+        {"f":"img/1732_O_Skala_Jiri_Kolarova_Veronika_Lounin.jpg","t":"Sňatek Jiřího Skály s Veronikou Kolářovou, Lounín (fara Tmaň), 17. 11. 1732"},
+        {"f":"img/1746_krest_katerina_skalova.jpg","t":"Křest dcery Kateřiny 1746"}
       ]
     },
     {
@@ -10758,7 +10759,8 @@ window.RODOKMEN = {
         {"f":"img/1760_Z_Skala_Jiri_st_Lounin_Tman.jpg","t":"Úmrtí manžela Jiřího Skály st., Lounín, 16. 1. 1760"},
         {"f":"img/1732_O_Skala_Jiri_Kolarova_Veronika_Lounin.jpg","t":"Sňatek Jiřího Skály s Veronikou Kolářovou, Lounín (fara Tmaň), 17. 11. 1732"},
         {"f":"img/1783_umrti_veronika_skalova.jpg","t":"Úmrtí 22. 3. 1783, Lounín č. 6"},
-        {"f":"img/1767_snatek_matej_skala.jpg","t":"Sňatek syna Matěje 27. 2. 1767, Borek"}
+        {"f":"img/1767_snatek_matej_skala.jpg","t":"Sňatek syna Matěje 27. 2. 1767, Borek"},
+        {"f":"img/1746_krest_katerina_skalova.jpg","t":"Křest dcery Kateřiny 1746"}
       ]
     },
     {
