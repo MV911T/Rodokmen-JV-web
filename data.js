@@ -8731,23 +8731,27 @@ window.RODOKMEN = {
       name: "Karel Michalek",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1790)","year":1790,"approx":true},
+      b: {"date":"16. 7. 1789","year":1789,"place":"Bělotín č. p. 12"},
       father: "andreas_mi",
+      mother: "marianna_rb00",
       spouse: "anna_zi",
       occ: "domkář v Bělotíně",
       marriage: "23. 2. 1813, Bělotín č. 81 – s Annou Ziegnerovou",
       notes: [
+        "Pokřtěn 16. 7. 1789 v Bělotíně č. 12: „Carl – Vater Andreas Michalek, Häusler – Mutter Marianna, gebd. Rey…bnerin (?)“; kmotři Johannes Ziegner (?), sedlák, a Veronika Ziegnerin (?), selka (L II 6, pag. 29, sn. 15 vpravo; M). Rejstřík L II 18 uvádí „Michalek Karl 9“ = pag. 29. Č. 12 je dům rodiny i 1822.",
         "Oddán 23. 2. 1813 v Bělotíně č. 81 (farář): „Karl Michalek, Sohn des Andreas Michalek, Häuslers“, 23 let, svobodný, s Annou, dcerou Josepha Zignera, výměnkáře, 20 let; svědci Anton Kleiber, výměnkář, a Karl Andres, hostinský (M; ztotožnění podle jmen obou a otce nevěsty).",
         "Domkář v Bělotíně (č. 12 v r. 1822). Otec Anny Zettelmannové (*1822); při dceřině sňatku 1844 dal souhlas.",
         "KANDIDÁT úmrtí (D, jen rejstřík): „1845 Michalek Karl 119“ (rejstřík Z Bělotín L II 18, sn. 186 → kniha L II 16, fol. 119) – zápis nečten.",
         "Úmrtí v Bělotíně do 1848 není (Opava N19, D): rejstříkový kandidát „Michalek Karl fol. 119“ (7. 7. 1845, č. 107) je nemanželské dítě (L II 16, M)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 29, snímek 15 vpravo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 70, snímek 36 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1789_krest_karl_michalek.jpg","t":"Křest Karla Michalka, Bělotín 16. 7. 1789"},
         {"f":"img/1813_O_Michalek_Karel_Ziegnerova_Anna_Belotin.jpg","t":"Sňatek s Annou Ziegnerovou, Bělotín 23. 2. 1813"},
         {"f":"img/1844_O_Johann_Zettelmann_Anna_Michalek_Belotin_fol116.jpg","t":"Sňatek Johanna Zettelmanna a Anny Michalkové, Bělotín 6. 8. 1844"},
         {"f":"img/1822_N_Anna_Michalek_Belotin_pag70.jpg","t":"Křest Anny Michalkové, Bělotín 22. 10. 1822"}
@@ -8783,20 +8787,25 @@ window.RODOKMEN = {
       maiden: "Ziegnerová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1793)","year":1793,"approx":true},
+      b: {"date":"X 1792 (17. nebo 11. 10.)","year":1792,"place":"Bělotín č. p. 87"},
+      father: "josef_zg00",
+      mother: "magdalena_kr00",
       spouse: "karl_mi",
       marriage: "23. 2. 1813, Bělotín – s Karlem Michalkem",
       notes: [
+        "Pokřtěna v říjnu 1792 (den 17. nebo 11.) v Bělotíně č. 87: „Anna – Vater Joseph Ziegner, Bauer – Mutter Magdalena, gebohrne Kremerin (?)“; kmotr Johann Sch… (?) (L II 6, pag. 41, sn. 21 vpravo; M). Jiná Anna Ziegnerová I 1792 – III 1793 není; věk sedí se sňatkem 1813 (20 let).",
         "Dcera Josefa Ziegnera, sedláka v Bělotíně († před X 1822). Matka Anny Michalkové (*22. 10. 1822).",
         "Oddána 23. 2. 1813 v Bělotíně č. 81 jako dcera Josepha Zignera, výměnkáře, 20 let (M).",
         "KANDIDÁT úmrtí (D, jen rejstřík): „1847 Michalek Anna 130/131 (?)“ (L II 18, sn. 186 → L II 16) – zápis nečten. Úmrtí jejího otce Josepha Zignera v rejstříku Z Bělotín 1784–1848 (Lit. Z) není.",
         "Úmrtí v Bělotíně do 1848 není (Opava N19, D): rejstříková hesla „Michalek Anna fol. 130/131“ (1847) jsou Anna, 12letá dcera sedláka Josefa Michalka, a Anton Michalek (L II 16, M)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 41, snímek 21 vpravo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 70, snímek 36 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1792_krest_anna_ziegnerova.jpg","t":"Křest Anny Ziegnerové, Bělotín X 1792"},
         {"f":"img/1813_O_Michalek_Karel_Ziegnerova_Anna_Belotin.jpg","t":"Sňatek s Karlem Michalkem, Bělotín 23. 2. 1813"},
         {"f":"img/1822_N_Anna_Michalek_Belotin_pag70.jpg","t":"Křest Anny Michalkové, Bělotín 22. 10. 1822"}
       ]
@@ -12325,13 +12334,16 @@ window.RODOKMEN = {
       notes: [
         "Domkář (Häusler) v Bělotíně; otec Karla Michalka – oddací zápis syna 23. 2. 1813 (M). Sňatek v O Bělotín 1784 – I 1793 není (D).",
         "KANDIDÁTI úmrtí (D, jen rejstřík): „Michalek Andreas“ ~1816/17 (fol. 20), 1820 (fol. 29), 1825 (fol. 49) – rejstřík Z Bělotín L II 18, sn. 186; který je náš, nerozhodnuto.",
-        "Úmrtí v Bělotíně 1814–1825 nenalezeno (Opava N19, D): rejstříková hesla fol. 20 (1815 = Mathias Pöllner ?), fol. 29 (1820 = dítě Andreas, syn Antona Michalka) a fol. 49 (1825) nejsou on (L II 16, M)."
+        "Úmrtí v Bělotíně 1814–1825 nenalezeno (Opava N19, D): rejstříková hesla fol. 20 (1815 = Mathias Pöllner ?), fol. 29 (1820 = dítě Andreas, syn Antona Michalka) a fol. 49 (1825) nejsou on (L II 16, M).",
+        "Domkář v Bělotíně č. 12 (1789); manželka Marianna roz. Rey…bnerová (?) (křest syna Karla; M). Sňatek před 1784 (L II 5) zatím nehledán."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 29, snímek 15 vpravo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1813_O_Michalek_Karel_Ziegnerova_Anna_Belotin.jpg","t":"Sňatek syna Karla, Bělotín 1813"}
+        {"f":"img/1813_O_Michalek_Karel_Ziegnerova_Anna_Belotin.jpg","t":"Sňatek syna Karla, Bělotín 1813"},
+        {"f":"img/1789_krest_karl_michalek.jpg","t":"Křest syna Karla, Bělotín 1789"}
       ]
     },
     {
@@ -16265,6 +16277,63 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1813_snatek_josef_cernoch_anna_horakova.jpg","t":"Sňatek dcery Anny, Veřovice 1813"}
+      ]
+    },
+    {
+      id: "marianna_rb00",
+      name: "Marianna Michalková",
+      maiden: "Rey…bnerová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Karla Michalka (*16. 7. 1789, Bělotín č. 12): „Marianna, gebd. Rey…bnerin (?)“ – rodné příjmení čteno nejistě (Reybner/Roybner ?) (L II 6, pag. 29, sn. 15 vpravo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 29, snímek 15 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1789_krest_karl_michalek.jpg","t":"Křest syna Karla, Bělotín 1789"}
+      ]
+    },
+    {
+      id: "josef_zg00",
+      name: "Josef Ziegner (Zigner)",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      d: {"date":"před 22. 10. 1822","year":1822},
+      alive: false,
+      occ: "sedlák v Bělotíně (č. 87), 1813 výměnkář",
+      notes: [
+        "Sedlák v Bělotíně č. 87; otec Anny (pokřtěna X 1792: „Vater Joseph Ziegner, Bauer – Mutter Magdalena, gebohrne Kremerin (?)“; L II 6, pag. 41, sn. 21 vpravo; M). Při sňatku dcery 23. 2. 1813 výměnkář (L II 12, sn. 28; M), při křtu vnučky Anny 22. 10. 1822 uveden jako zemřelý sedlák (M).",
+        "Úmrtí v rejstříku Z Bölten (L II 18, Lit. Z) není; v L II 16 1815 není (Opava N2, N19; D)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 41, snímek 21 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1792_krest_anna_ziegnerova.jpg","t":"Křest dcery Anny, Bělotín 1792"}
+      ]
+    },
+    {
+      id: "magdalena_kr00",
+      name: "Magdalena Ziegnerová",
+      maiden: "Kremerová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Anny (pokřtěna X 1792, Bělotín č. 87): „Mutter Magdalena, gebohrne Kremerin (?)“ – rodné příjmení Kremer/Krämer čteno nejistě (L II 6, pag. 41, sn. 21 vpravo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 41, snímek 21 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1792_krest_anna_ziegnerova.jpg","t":"Křest dcery Anny, Bělotín 1792"}
       ]
     }
   ]
