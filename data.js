@@ -4385,18 +4385,20 @@ window.RODOKMEN = {
       name: "Jan Černoch",
       line: "cernoch",
       cert: "M",
-      b: {"date":"neznámé (asi 1814, podle věku při sňatku)","year":1814,"approx":true,"place":"Veřovice (?)"},
+      b: {"date":"9. 6. 1814","year":1814,"place":"Veřovice č. p. 89"},
       father: "josef_ce00",
       mother: "anna_hr00",
       spouse: "mariana_po",
       occ: "chalupník (domkař) ve Veřovicích",
       marriage: "10. 2. 1834, Veřovice – Jan Černoch × Marianna Popová",
       notes: [
+        "Narozen a pokřtěn 9. 6. 1814 ve Veřovicích č. 89: „Johann – Joseph Czernoch, Häusler von da – Anne, Tochter des † Martin Honek (?), Müllers von da“; kmotři Johann Kotzian (?) a Anna, svobodná dcera † Franze Schind… (?) (NJ XIV 1, fol. 203, sn. 101 vpravo; M). V č. 89 se 1834 i ženil.",
         "Otec Tomáše Černocha; dal souhlas k jeho sňatku 1869.",
         "Oddáni 10. 2. 1834 ve Veřovicích (č. 89; lokální kaplan Dominik Jakob): „Johann, Sohn nach Joseph Czernoch, Häuslern, und der Anne nach Martin Horak (?), Müllers Tochter“, 20 let, svobodný (se svolením vrchního poručenství) × „Marianne, Tochter des Joseph Pop, Häuslers, und der Rosine nach Johann Schrabek (?), Häuslers Tochter, sub Haus No 15“, 20 let, svobodná (se svolením otce Josefa Popa); svědci Johann Koczian, sedlák, a Johann Urbanowsky, kovář (NJ XIV 3, pag. 84, sn. 44 vlevo; M).",
         "Žil 10. 4. 1885: tehdy zemřel ve Veřovicích č. 57 Jan Černoch, chalupník, 32 let, na souchotiny – „syn Jana Černocha, chalupníka ve Veřovicích, a jeho manželky Anny rozené Josef Pop, chalupník ve Veřovicích“ (NJ XIV 9, str. 21, sn. 11; M) – otec uveden jako živý. Matka zde „Anna“, jinde Mariana (dcera Josefa Poppa) → nejspíš táž žena (Anna Maria ?), vazba K+. Rejstříkový kandidát úmrtí Jana 10. 4. 1885 je tedy syn, ne on."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), fol. 203, snímek 101 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz",
         "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 – https://digi.archives.cz",
@@ -4404,6 +4406,7 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1814_krest_jan_cernoch.jpg","t":"Křest Jana Černocha, Veřovice 9. 6. 1814"},
         {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"},
         {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest Tomáše Černocha, Veřovice 20. 9. 1846"},
         {"f":"img/1885_umrti_jan_cernoch_syn.jpg","t":"Úmrtí syna Jana (32 let), Veřovice 1885"},
@@ -4416,19 +4419,21 @@ window.RODOKMEN = {
       maiden: "Poppová",
       line: "popp",
       cert: "M",
-      b: {"date":"neznámé (asi 1814, podle věku při sňatku)","year":1814,"approx":true,"place":"Veřovice č. p. 15 (?)"},
+      b: {"date":"19. 5. 1814","year":1814,"place":"Veřovice č. p. 16"},
       father: "josef_pp",
-      mother: "theresie_pp",
+      mother: "rosina_cz00",
       spouse: "jan_ce",
       marriage: "10. 2. 1834, Veřovice – Jan Černoch × Marianna Popová",
       notes: [
-        "Matka Tomáše Černocha; dcera † Josefa Poppa, domkaře z Veřovic, a Theresie roz. Ja… (?) z Lit…dorf (?) (křest syna 1846).",
+        "Narozena a pokřtěna 19. 5. 1814 ve Veřovicích č. 16: „Marianne – Joseph Pop, Häusler von da – Rosina, Tochter des † Johann Czerzabek (?), Häuslers von da“; kmotři Johann Latzina, domkář, a Anna, manželka † Josefa …, sedláka (NJ XIV 1, fol. 202, sn. 101 vlevo; M).",
+        "Matka Tomáše Černocha; dcera † Josefa Poppa, domkaře z Veřovic (křest syna 1846).",
         "Oddáni 10. 2. 1834 ve Veřovicích (č. 89; lokální kaplan Dominik Jakob): „Johann, Sohn nach Joseph Czernoch, Häuslern, und der Anne nach Martin Horak (?), Müllers Tochter“, 20 let, svobodný (se svolením vrchního poručenství) × „Marianne, Tochter des Joseph Pop, Häuslers, und der Rosine nach Johann Schrabek (?), Häuslers Tochter, sub Haus No 15“, 20 let, svobodná (se svolením otce Josefa Popa); svědci Johann Koczian, sedlák, a Johann Urbanowsky, kovář (NJ XIV 3, pag. 84, sn. 44 vlevo; M).",
-        "ROZPOR (matka): sňatek 1834 uvádí matku „Rosine nach Johann Schrabek (?)“, křest syna Tomáše 1846 „Theresie roz. Ja… (?) z Lit…dorf“ – snad 2. manželka Josefa Popa, nebo chyba; rozhodne křest Marianny (~1813–14). Vazba na Theresii zatím ponechána.",
         "Úmrtí neznámé. Rejstříkový kandidát „57 Černoch Marianna 6/3 [1884]“ vyvrácen: dítě Marianna, dcera Jana Černocha, chalupníka č. 57, a Ludmily roz. Jupač (?) (NJ XIV 9, str. 10, sn. 6; M) – v č. 57 tedy 1884 žil i jiný (mladší ?) Jan Černoch.",
-        "Při úmrtí syna Jana 10. 4. 1885 (32 let, č. 57) uvedena jako „Anna rozená Josef Pop“ (NJ XIV 9, str. 21, sn. 11; M) – variantní jméno, K+."
+        "Při úmrtí syna Jana 10. 4. 1885 (32 let, č. 57) uvedena jako „Anna rozená Josef Pop“ (NJ XIV 9, str. 21, sn. 11; M) – variantní jméno, K+.",
+        "ROZPOR (vyřešen): křest vnuka Tomáše 20. 9. 1846 uvádí jako matku Marianny „Theresie roz. Ja… (?) z Lit…dorf (?)“; křest 1814 i sňatek 1834 shodně uvádějí Rosinu, dceru Johanna Czerzabka (?) – platí křest. Theresie byla buď chyba, nebo pozdější manželka Josefa Poppa (nedoloženo)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), fol. 202, snímek 101 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz",
         "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 – https://digi.archives.cz",
@@ -4436,6 +4441,7 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1814_krest_marianna_popova.jpg","t":"Křest Marianny Popové, Veřovice 19. 5. 1814"},
         {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest Tomáše Černocha, Veřovice 20. 9. 1846"},
         {"f":"img/1885_umrti_jan_cernoch_syn.jpg","t":"Úmrtí syna Jana (32 let), Veřovice 1885"},
         {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek s Janem Černochem, Veřovice 1834"}
@@ -11528,38 +11534,25 @@ window.RODOKMEN = {
       name: "Josef Popp",
       line: "popp",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (asi 1772, podle věku při 2. sňatku)","year":1772,"approx":true},
       d: {"date":"před 20. 9. 1846","year":1846,"approx":true,"place":"Veřovice"},
-      spouse: "theresie_pp",
+      spouse: "rosina_cz00",
       occ: "domkář ve Veřovicích",
+      marriage: "19. 4. 1812, Veřovice – Josef Popp (vdovec) × Rosina, vdova Urbanowská, roz. Čeřábková (?)",
       notes: [
         "Domkář ve Veřovicích; otec Mariany, manželky Jana Černocha – v křtu vnuka Tomáše 20. 9. 1846 uveden jako „† Josef Popp, domkář z Veřovic“ (M). Datum narození je odhad podle dcery (*~1820).",
-        "Žil 10. 2. 1834 jako domkář ve Veřovicích (č. 15 ?) a dal souhlas ke sňatku dcery Marianny; manželka tehdy uvedena „Rosine nach Johann Schrabek (?)“ (NJ XIV 3, pag. 84, sn. 44 vlevo; M)."
+        "Žil 10. 2. 1834 jako domkář ve Veřovicích (č. 15 ?) a dal souhlas ke sňatku dcery Marianny; manželka tehdy uvedena „Rosine nach Johann Schrabek (?)“ (NJ XIV 3, pag. 84, sn. 44 vlevo; M).",
+        "Oddán (2. manželství) 19. 4. 1812 ve Veřovicích č. 15 jako domkář, 40 let, vdovec × „Rosina, Witwe nach dem † Joseph Urbanowsky, Häusler von Wernsdorf No 129“, 32 let; tužkou připsáno „Tochter des Johann Czerzabek (?)“; svědci Thomas Matusch a Joseph Kozik (?), domkáři (NJ XIV 3, fol. 39, sn. 21 vpravo; M). 1. manželka podle rejstříku sňatků Marianna Urbanowská (× 1796, č. 15; D)."
       ],
       sources: [
-        "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 (křest vnuka Tomáše Černocha 20. 9. 1846) – https://digi.archives.cz"
+        "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 (křest vnuka Tomáše Černocha 20. 9. 1846) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), fol. 39, snímek 21 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), fol. 202, snímek 101 – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest vnuka Tomáše Černocha, Veřovice 20. 9. 1846"}
-      ]
-    },
-    {
-      id: "theresie_pp",
-      name: "Theresie Poppová",
-      maiden: "Ja… (?)",
-      line: "popp",
-      cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
-      spouse: "josef_pp",
-      notes: [
-        "Manželka Josefa Poppa, domkáře ve Veřovicích; matka Mariany Černochové. V křtu vnuka Tomáše 1846 „Theresie roz. Ja… (?) z Lit…dorf (?)“ – příjmení i obec nedočteny (M).",
-        "ROZPOR: podle sňatku dcery Marianny 1834 byla její matkou Rosina, dcera Johanna Schrabka (?) – Theresie může být jiná (2.) manželka Josefa Popa (NJ XIV 3, pag. 84, sn. 44 vlevo; M)."
-      ],
-      sources: [
-        "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 (křest vnuka Tomáše Černocha 20. 9. 1846) – https://digi.archives.cz"
-      ],
-      scans: [
-        {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest vnuka Tomáše Černocha, Veřovice 20. 9. 1846"}
+        {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest vnuka Tomáše Černocha, Veřovice 20. 9. 1846"},
+        {"f":"img/1812_snatek_josef_popp_rosina.jpg","t":"2. sňatek Josefa Poppa, Veřovice 1812"},
+        {"f":"img/1814_krest_marianna_popova.jpg","t":"Křest dcery Marianny, Veřovice 1814"}
       ]
     },
     {
@@ -16081,31 +16074,59 @@ window.RODOKMEN = {
       alive: false,
       occ: "domkář ve Veřovicích",
       notes: [
-        "Domkář ve Veřovicích; otec Jana (× 10. 2. 1834: „Johann, Sohn nach Joseph Czernoch, Häuslern“ – tehdy už nežil, ženich se ženil se svolením vrchního poručenství; NJ XIV 3, pag. 84, sn. 44 vlevo; M)."
+        "Domkář ve Veřovicích; otec Jana (× 10. 2. 1834: „Johann, Sohn nach Joseph Czernoch, Häuslern“ – tehdy už nežil, ženich se ženil se svolením vrchního poručenství; NJ XIV 3, pag. 84, sn. 44 vlevo; M).",
+        "Domkář ve Veřovicích č. 89 v r. 1814 (křest syna Jana; NJ XIV 1, fol. 203, sn. 101 vpravo; M). Sňatek s Annou v rejstříku ženichů NJ XIV 3 1808–1825 není; ženich Josef Czernoch je tam 1786 (× Rosina Marek) a 1795 (× Anna „Maczyczek“ ?, č. 86) – neověřeno."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), fol. 203, snímek 101 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1814_krest_jan_cernoch.jpg","t":"Křest syna Jana, Veřovice 1814"},
         {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek syna Jana, Veřovice 1834"}
       ]
     },
     {
       id: "anna_hr00",
       name: "Anna Černochová",
-      maiden: "Horáková (?)",
+      maiden: "Honková / Horáková (?)",
       line: "cernoch",
       cert: "M",
       b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
       alive: false,
       notes: [
-        "Matka Jana Černocha (× 10. 2. 1834: „der Anne nach Martin Horak (?), Müllers Tochter“ – dcera mlynáře Martina Horáka (?), příjmení čteno nejistě; NJ XIV 3, pag. 84, sn. 44 vlevo; M)."
+        "Matka Jana Černocha: při křtu 9. 6. 1814 „Anne, Tochter des † Martin Honek (?), Müllers von da“ (NJ XIV 1, fol. 203, sn. 101 vpravo; M), při jeho sňatku 1834 „der Anne nach Martin Horak (?), Müllers Tochter“ (NJ XIV 3, pag. 84, sn. 44 vlevo; M) – otec Martin, mlynář ve Veřovicích, † před 1814; příjmení čteno nejistě (Honek × Horák)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), fol. 203, snímek 101 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1814_krest_jan_cernoch.jpg","t":"Křest syna Jana, Veřovice 1814"},
         {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek syna Jana, Veřovice 1834"}
+      ]
+    },
+    {
+      id: "rosina_cz00",
+      name: "Rosina Poppová",
+      maiden: "Čeřábková (?)",
+      line: "popp",
+      cert: "M",
+      b: {"date":"neznámé (asi 1780, podle věku při sňatku)","year":1780,"approx":true},
+      spouse: "josef_pp",
+      alive: false,
+      marriage: "19. 4. 1812, Veřovice – Josef Popp (vdovec) × Rosina, vdova Urbanowská, roz. Čeřábková (?)",
+      notes: [
+        "Matka Marianny Černochové (*19. 5. 1814 č. 16): „Rosina, Tochter des † Johann Czerzabek (?), Häuslers von da“ (NJ XIV 1, fol. 202, sn. 101 vlevo; M); totéž při sňatku dcery 1834 („Rosine nach Johann Schrabek (?)“; NJ XIV 3, pag. 84). Rodné příjmení Czerzabek/Čeřábek čteno nejistě.",
+        "Vdova po Josefu Urbanowském, domkáři ve Veřovicích č. 129; 19. 4. 1812 se ve 32 letech provdala za vdovce Josefa Poppa, domkáře č. 15 (NJ XIV 3, fol. 39, sn. 21 vpravo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), fol. 202, snímek 101 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), fol. 39, snímek 21 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1814_krest_marianna_popova.jpg","t":"Křest dcery Marianny, Veřovice 1814"},
+        {"f":"img/1812_snatek_josef_popp_rosina.jpg","t":"Sňatek s Josefem Poppem, Veřovice 1812"}
       ]
     }
   ]
