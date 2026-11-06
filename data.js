@@ -12335,7 +12335,8 @@ window.RODOKMEN = {
         "Domkář (Häusler) v Bělotíně; otec Karla Michalka – oddací zápis syna 23. 2. 1813 (M). Sňatek v O Bělotín 1784 – I 1793 není (D).",
         "KANDIDÁTI úmrtí (D, jen rejstřík): „Michalek Andreas“ ~1816/17 (fol. 20), 1820 (fol. 29), 1825 (fol. 49) – rejstřík Z Bělotín L II 18, sn. 186; který je náš, nerozhodnuto.",
         "Úmrtí v Bělotíně 1814–1825 nenalezeno (Opava N19, D): rejstříková hesla fol. 20 (1815 = Mathias Pöllner ?), fol. 29 (1820 = dítě Andreas, syn Antona Michalka) a fol. 49 (1825) nejsou on (L II 16, M).",
-        "Domkář v Bělotíně č. 12 (1789); manželka Marianna roz. Rey…bnerová (?) (křest syna Karla; M). Sňatek před 1784 (L II 5) zatím nehledán."
+        "Domkář v Bělotíně č. 12 (1789); manželka Marianna roz. Rey…bnerová (?) (křest syna Karla; M). Sňatek před 1784 (L II 5) zatím nehledán.",
+        "Sňatek s Mariannou v Bělotíně O 1771–1784 (L II 5, sn. 248–286) NENÍ (Opava N21, D) – snad 1765–1771 nebo ve farnosti nevěsty. Stopa (K): sn. 263 vpravo sňatek Veroniky, „dcery † Andrease Michalka“ – snad starší Andreas."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz",
@@ -16309,7 +16310,8 @@ window.RODOKMEN = {
       occ: "sedlák v Bělotíně (č. 87), 1813 výměnkář",
       notes: [
         "Sedlák v Bělotíně č. 87; otec Anny (pokřtěna X 1792: „Vater Joseph Ziegner, Bauer – Mutter Magdalena, gebohrne Kremerin (?)“; L II 6, pag. 41, sn. 21 vpravo; M). Při sňatku dcery 23. 2. 1813 výměnkář (L II 12, sn. 28; M), při křtu vnučky Anny 22. 10. 1822 uveden jako zemřelý sedlák (M).",
-        "Úmrtí v rejstříku Z Bölten (L II 18, Lit. Z) není; v L II 16 1815 není (Opava N2, N19; D)."
+        "Úmrtí v rejstříku Z Bölten (L II 18, Lit. Z) není; v L II 16 1815 není (Opava N2, N19; D).",
+        "Sňatek s Magdalenou v Bělotíně O 1771–1784 (L II 5) ani 1784 – I 1793 (L II 12) NENÍ (Opava N1, N21; D)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 41, snímek 21 vpravo – https://digi.archives.cz"
