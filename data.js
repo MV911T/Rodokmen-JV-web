@@ -9864,7 +9864,8 @@ window.RODOKMEN = {
       spouse: "magdalena_kl",
       notes: [
         "Sedlák v Polomi (Pohl); manželka Magdalena roz. Klösel; děti Beata (*22. 1. 1843, č. 48) a Franz (× 8. 11. 1859). Jméno Franz potvrzeno křtem Beaty 1843 a jejím sňatkem 1859 („Josef“ v křtu vnučky 1860 je chyba).",
-        "OPRAVA: dříve veden jako „Josef Wenzel“ (chybné čtení)."
+        "OPRAVA: dříve veden jako „Josef Wenzel“ (chybné čtení).",
+        "Sňatek s Magdalenou Klöselovou v Polomi 1816–1841 (L II 13, sn. 101–126) NENÍ (Opava N24, D-). Anton Klösel, syn † Georga, sedláka z Polomi, se ženil ~1835 (sn. 119 vlevo; K) – snad bratr Magdaleny."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz",
@@ -10344,7 +10345,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
       spouse: "magdalena_pr",
       notes: [
-        "Domkář v Polomi (Pohl); otec Franze Anderse (sňatek 1859)."
+        "Domkář v Polomi (Pohl); otec Franze Anderse (sňatek 1859).",
+        "Sňatek s Magdalenou v Polomi 1816–1841 (L II 13, oddíl Pohl, sn. 101–126) NENÍ (Opava N24, D-, montáž ~0,55×). Jiný Johann Anders, podruh, 44 l., × 22. 6. 1821 Polom č. 43 Johanna (?), dcera † Josepha Schwarze (?) (sn. 105 vlevo; M) – snad otec nebo příbuzný (K)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz"
