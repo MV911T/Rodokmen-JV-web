@@ -16540,23 +16540,27 @@ window.RODOKMEN = {
       maiden: "",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1775, podle věku při sňatku)","year":1775,"approx":true},
+      b: {"date":"1. 7. 1775","year":1775,"place":"Polom (Pohl) č. p. 7"},
       father: "anton_sb00",
+      mother: "anna_sb00",
       alive: false,
       occ: "sedlák v Polomi",
       marriage: "8. 7. 1800, Polom – František Seibert × Terezie Kublová (?)",
       notes: [
+        "Pokřtěn 1. 7. 1775 v Polomi č. 7 (kooperátor Jos. Konal): „Franciscus – Antonius Seibert, Rusticus, et Anna eius uxor“; kmotři Josephus Nitschmann, sedlák, a Anna, manželka mlynáře Matěje Vani (L II 5, sn. 144 vlevo; M). Týž dům č. 7 jako při sňatku 1800 (25 let).",
         "Oddáni 8. 7. 1800 v Polomi č. 7 (kooperátor Franz Gröger): „Franz, Sohn des Anton Seibert v. Pohl“, 25 let × „Theresia, Tochter des Anton Kubl (?) v. Pohl“, 20 let; svědci Anton Andres (?) a Anton Kubl (?), sedláci z Polomi (L II 12, pag. 13, sn. 46 vpravo; M). Týž dům č. 7 jako křest dcery Magdaleny 1802.",
         "Sedlák v Polomi; otec Magdaleny (× 1827 s Johannem Andersem; L II 13, sn. 108 vlevo; M; při křtu vnuka Franze 1837 „Franz Seybrecht / Treybrach (?), Bauer aus Pohl“). Příjmení: zřetelné „-brecht“, začátek nejistý.",
         "Otec Magdaleny (*20. 5. 1802, Polom č. 7; L II 6, pag. 41, sn. 109 vpravo; M). Rejstřík L II 18 dceru vede jako „Seibertin“ – příjmení nejspíš Seibrecht / Seibert (dříve čteno Tribrecht / Treybrach).",
         "Příjmení potvrzeno sňatkem 1800: Seibert (dřívější čtení „Tribrecht / Treybrach / Seybrecht“ jsou zkomoleniny)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 144 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 6 (N 1784–1814), oddíl Pohl, pag. 41, snímek 109 vpravo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 12 (O 1784–1813), oddíl Pohl, pag. 13, snímek 46 vpravo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1775_krest_franz_seibert.jpg","t":"Křest Františka Seiberta, Polom 1. 7. 1775"},
         {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek dcery Magdaleny, Polom 1827"},
         {"f":"img/1802_krest_magdalena_seibrechtova.jpg","t":"Křest dcery Magdaleny, Polom 1802"},
         {"f":"img/1800_snatek_franz_seibert_theresia_kublova.jpg","t":"Sňatek Františka Seiberta a Terezie, Polom 1800"}
@@ -16565,25 +16569,29 @@ window.RODOKMEN = {
     {
       id: "theresia_zb0",
       name: "Terezie Seibertová",
-      maiden: "Kublová / Kablová (?)",
+      maiden: "Gablová (Kablová, Kublová)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (asi 1780, podle věku při sňatku)","year":1780,"approx":true},
+      b: {"date":"17. 9. 1779","year":1779,"place":"Polom (Pohl) č. p. 46"},
       father: "anton_kb00",
+      mother: "magdalena_gb00",
       alive: false,
       marriage: "8. 7. 1800, Polom – František Seibert × Terezie Kublová (?)",
       notes: [
+        "Pokřtěna 17. 9. 1779 v Polomi č. 46 (kooperátor Popp): „Theresia – Antonius Gabl, Rust., et Magdalena uxor“; kmotři Wenceslaus Gabl, výměnkář, a Magdalena, manželka tesaře Antonína Klesla (L II 5, sn. 167 vlevo; M). Ztotožnění D: otec Anton, obec, věk 20 při sňatku 1800 přesně; jiná Theresia Antona Gabla 1779 – III 1780 není. Příjmení Gabl = Kabl/Kubl (kurentní G/K).",
         "Oddáni 8. 7. 1800 v Polomi č. 7 (kooperátor Franz Gröger): „Franz, Sohn des Anton Seibert v. Pohl“, 25 let × „Theresia, Tochter des Anton Kubl (?) v. Pohl“, 20 let; svědci Anton Andres (?) a Anton Kubl (?), sedláci z Polomi (L II 12, pag. 13, sn. 46 vpravo; M). Týž dům č. 7 jako křest dcery Magdaleny 1802.",
         "Matka Magdaleny Andersové (× 1827: „der Mutter Theresia gebornen Anton Zebel (?) von Pohl“ – dcera Antona Zebela (?) z Polomi; L II 13, sn. 108 vlevo; M).",
         "Matka Magdaleny (*1802, Polom č. 7): „Theresia geborne Zeblin (?)“ (L II 6, pag. 41, sn. 109 vpravo; M).",
         "Rodné příjmení: sňatek 1800 „Kubl / Kabl (?)“, sňatek dcery 1827 „Anton Zebel (?)“, křest dcery 1802 „Zeblin (?)“ – nejspíš Kubl/Kabl (kurentní K čteno jako Z)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 167 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 6 (N 1784–1814), oddíl Pohl, pag. 41, snímek 109 vpravo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 12 (O 1784–1813), oddíl Pohl, pag. 13, snímek 46 vpravo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1779_krest_theresia_gablova.jpg","t":"Křest Terezie Gablové, Polom 17. 9. 1779"},
         {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek dcery Magdaleny, Polom 1827"},
         {"f":"img/1800_snatek_franz_seibert_theresia_kublova.jpg","t":"Sňatek s Františkem Seibertem, Polom 1800"}
       ]
@@ -16697,20 +16705,23 @@ window.RODOKMEN = {
       cert: "M",
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
       alive: false,
-      occ: "v Polomi",
+      occ: "sedlák v Polomi č. 7, 1777 rychtář",
       notes: [
-        "Otec Františka Seiberta (× 8. 7. 1800: „Franz, Sohn des Anton Seibert v. Pohl“; L II 12, pag. 13, sn. 46 vpravo; M)."
+        "Otec Františka Seiberta (× 8. 7. 1800: „Franz, Sohn des Anton Seibert v. Pohl“; L II 12, pag. 13, sn. 46 vpravo; M).",
+        "Sedlák v Polomi č. 7; otec Františka (pokřtěn 1. 7. 1775: „Antonius Seibert, Rusticus, et Anna eius uxor“; L II 5, sn. 144 vlevo; M). R. 1777 uveden jako „Consul“ (rychtář); 1778 kmotr Magdaleny Nitschmannové."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 12 (O 1784–1813), oddíl Pohl, pag. 13, snímek 46 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 12 (O 1784–1813), oddíl Pohl, pag. 13, snímek 46 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 144 vlevo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1800_snatek_franz_seibert_theresia_kublova.jpg","t":"Sňatek syna Františka, Polom 1800"}
+        {"f":"img/1800_snatek_franz_seibert_theresia_kublova.jpg","t":"Sňatek syna Františka, Polom 1800"},
+        {"f":"img/1775_krest_franz_seibert.jpg","t":"Křest syna Františka, Polom 1775"}
       ]
     },
     {
       id: "anton_kb00",
-      name: "Antonín Kubl (Kabl ?)",
+      name: "Antonín Gabl (Kabl, Kubl)",
       maiden: "",
       line: "nezname",
       cert: "M",
@@ -16718,13 +16729,16 @@ window.RODOKMEN = {
       alive: false,
       occ: "sedlák (?) v Polomi",
       notes: [
-        "Otec Terezie (× 8. 7. 1800: „Theresia, Tochter des Anton Kubl (?) v. Pohl“; L II 12, pag. 13, sn. 46 vpravo; M); snad týž Anton Kubl, svědek sňatku. Příjmení čteno nejistě (Kubl/Kabl)."
+        "Otec Terezie (× 8. 7. 1800: „Theresia, Tochter des Anton Kubl (?) v. Pohl“; L II 12, pag. 13, sn. 46 vpravo; M); snad týž Anton Kubl, svědek sňatku. Příjmení čteno nejistě (Kubl/Kabl).",
+        "Sedlák v Polomi č. 46 (1779); otec Terezie (pokřtěna 17. 9. 1779: „Antonius Gabl, Rust., et Magdalena uxor“; L II 5, sn. 167 vlevo; M). Snad i dítě „Antonius Gabl et Magdalena“ 1775 (sn. 144 vpravo, nečteno). Kmotr Wenceslaus Gabl, výměnkář – snad jeho otec (K)."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 12 (O 1784–1813), oddíl Pohl, pag. 13, snímek 46 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 12 (O 1784–1813), oddíl Pohl, pag. 13, snímek 46 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 167 vlevo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1800_snatek_franz_seibert_theresia_kublova.jpg","t":"Sňatek dcery Terezie, Polom 1800"}
+        {"f":"img/1800_snatek_franz_seibert_theresia_kublova.jpg","t":"Sňatek dcery Terezie, Polom 1800"},
+        {"f":"img/1779_krest_theresia_gablova.jpg","t":"Křest dcery Terezie, Polom 1779"}
       ]
     },
     {
@@ -16838,6 +16852,42 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1779_snatek_mathias_anders_elisabeth.jpg","t":"Sňatek dcery Alžběty, Polom 1779"}
+      ]
+    },
+    {
+      id: "anna_sb00",
+      name: "Anna Seibertová",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Františka Seiberta (pokřtěn 1. 7. 1775, Polom č. 7: „Antonius Seibert, Rusticus, et Anna eius uxor“; L II 5, sn. 144 vlevo; M). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 144 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1775_krest_franz_seibert.jpg","t":"Křest syna Františka, Polom 1775"}
+      ]
+    },
+    {
+      id: "magdalena_gb00",
+      name: "Magdalena Gablová",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Terezie (pokřtěna 17. 9. 1779, Polom č. 46: „Antonius Gabl, Rust., et Magdalena uxor“; L II 5, sn. 167 vlevo; M). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 167 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1779_krest_theresia_gablova.jpg","t":"Křest dcery Terezie, Polom 1779"}
       ]
     }
   ]
