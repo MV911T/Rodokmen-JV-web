@@ -8708,7 +8708,7 @@ window.RODOKMEN = {
       spouse: "elisabeth_sch",
       occ: "domkář v Bělotíně",
       notes: [
-        "Pokřtěn 28. 11. 1778 v Bělotíně č. 49 (kooperátor Andreas Popp): „Andreas – Joannes Cettlmann, Gazarius, et Theresia uxor“; kmotři Antonius Michalek, sedlák, a Theresia, manželka Karla Schalnera (?), kováře (L II 5, sn. 163 vlevo; M). Ztotožnění D: týž dům č. 49, kde 1848 zemřel; jediný Andreas Zettelmann v křtech 1777–1782; věk při úmrtí (68) o rok nižší.",
+        "Pokřtěn 28. 11. 1778 v Bělotíně č. 49 (kooperátor Andreas Popp): „Andreas – Joannes Cettlmann, Gazarius, et Theresia uxor“; kmotři Antonius Michalek, sedlák, a Theresia, manželka Karla Schalnera (?), kováře (L II 5, sn. 163 vlevo; M). Ztotožnění M/D: sestra Magdalena (10. 7. 1776) se stejnými rodiči, kmotry i domem č. 49; týž dům č. 49, kde 1848 zemřel; jediný Andreas Zettelmann v křtech 1777–1782; věk při úmrtí (68) o rok nižší.",
         "Domkář v Bělotíně (č. 149 v r. 1822). Otec Johanna Zettelmanna (*1822); při synově sňatku 1844 dal souhlas, žil.",
         "Manželka Alžběta roz. Schindlerová, porodní bába (1822, 1846), zemřela jako jeho vdova 15. 5. 1855 v č. 49 (M).",
         "Sňatek s Alžbětou Schindlerovou ve faře Bělotín 1784–~1825 není (ženil se jinde).",
@@ -16350,38 +16350,88 @@ window.RODOKMEN = {
       maiden: "",
       line: "zettelmann",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1735)","year":1735,"approx":true},
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      father: "johann_zt000",
       alive: false,
       occ: "gazarius (chalupník ?) v Bělotíně č. 49",
+      marriage: "8. 5. 1770, Bělotín – Jan Zettelmann × Terezie Jakešová",
       notes: [
         "Otec Andrease (pokřtěn 28. 11. 1778, Bělotín č. 49: „Joannes Cettlmann, Gazarius, et Theresia uxor“; L II 5, sn. 163 vlevo; M).",
-        "Pravděpodobně týž „Joës Czettlmann, viduus, Gazarius“, který se ~19. 10. 1766 oženil s Annou, vdovou po † Georgu Nütschmannovi; svědci Thomas Czettlmann a Joës Michalek (L II 5, sn. 235 vpravo; M zápis, rok odvozen – K). Terezie by pak byla jeho 3. manželkou (sňatek 1766–1778 nehledán).",
+        "Oddáni 8. 5. 1770 v Bělotíně (oddával místní kurát): „Copulatus est Joannes, Joannis Zettlmann Gazarii filius, cum Theresia, Joannis Jakesch Lanionis Bielotinensis filia“; svědci Carolus Schalner a Wenceslaus Minster (?), oba z Bělotína (L II 5, sn. 244 vpravo; M).",
+        "Další dítě: Magdalena, pokřtěna 10. 7. 1776 v Bělotíně č. 49 („Joannes Zettlman Gazarius et Theresia ejus uxor“; kmotři Antonius Michalek, sedlák, a Theresia, manželka kováře Karla Schalnera – titíž jako 1778; L II 5, sn. 149 vlevo; M).",
         "V Bělotíně žila současně jiná rodina: Wenceslaus Zettlman, podruh, × Elisabetha, č. 55 (dcera Elisabetha 11. 3. 1779)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 163 vlevo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 235 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 235 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 244 vpravo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1778_krest_andreas_zettelmann.jpg","t":"Křest syna Andrease, Bělotín 1778"}
+        {"f":"img/1778_krest_andreas_zettelmann.jpg","t":"Křest syna Andrease, Bělotín 1778"},
+        {"f":"img/1770_snatek_jan_zettelmann_terezie_jakesova.jpg","t":"Sňatek Jana Zettelmanna a Terezie Jakešové, Bělotín 1770"}
       ]
     },
     {
       id: "theresia_zt00",
       name: "Terezie Zettelmannová",
-      maiden: "",
+      maiden: "Jakešová",
       line: "zettelmann",
       cert: "M",
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      father: "jan_jk00",
       alive: false,
+      marriage: "8. 5. 1770, Bělotín – Jan Zettelmann × Terezie Jakešová",
       notes: [
-        "Matka Andrease (pokřtěn 28. 11. 1778, Bělotín č. 49: „Joannes Cettlmann, Gazarius, et Theresia uxor“; L II 5, sn. 163 vlevo; M). Rodné příjmení neznámé – sňatek s Janem (~1766–1778) zatím nehledán."
+        "Matka Andrease (pokřtěn 28. 11. 1778, Bělotín č. 49; L II 5, sn. 163 vlevo; M) a Magdaleny (10. 7. 1776, č. 49; M).",
+        "Oddáni 8. 5. 1770 v Bělotíně (oddával místní kurát): „Copulatus est Joannes, Joannis Zettlmann Gazarii filius, cum Theresia, Joannis Jakesch Lanionis Bielotinensis filia“; svědci Carolus Schalner a Wenceslaus Minster (?), oba z Bělotína (L II 5, sn. 244 vpravo; M)."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 163 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 163 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 244 vpravo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1778_krest_andreas_zettelmann.jpg","t":"Křest syna Andrease, Bělotín 1778"}
+        {"f":"img/1778_krest_andreas_zettelmann.jpg","t":"Křest syna Andrease, Bělotín 1778"},
+        {"f":"img/1770_snatek_jan_zettelmann_terezie_jakesova.jpg","t":"Sňatek s Janem Zettelmannem, Bělotín 1770"}
+      ]
+    },
+    {
+      id: "johann_zt000",
+      name: "Jan Zettelmann (Czettlmann)",
+      maiden: "",
+      line: "zettelmann",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      alive: false,
+      occ: "gazarius (chalupník ?) v Bělotíně",
+      notes: [
+        "Otec Jana ml. (× 8. 5. 1770: „Joannes, Joannis Zettlmann Gazarii filius“; L II 5, sn. 244 vpravo; M) – tehdy žil.",
+        "Pravděpodobně týž „Joës Czettlmann, viduus, Gazarius“, který se ~19. 10. 1766 jako vdovec oženil s Annou, vdovou po † Georgu Nütschmannovi; svědci Thomas Czettlmann a Joës Michalek (L II 5, sn. 235 vpravo; M zápis, rok odvozen; ztotožnění K)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 244 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 235 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1770_snatek_jan_zettelmann_terezie_jakesova.jpg","t":"Sňatek syna Jana, Bělotín 1770"}
+      ]
+    },
+    {
+      id: "jan_jk00",
+      name: "Jan Jakeš (Jakesch)",
+      maiden: "",
+      line: "zettelmann",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
+      alive: false,
+      occ: "řezník (lanio) v Bělotíně",
+      notes: [
+        "Řezník v Bělotíně; otec Terezie (× 8. 5. 1770: „Theresia, Joannis Jakesch Lanionis Bielotinensis filia“; L II 5, sn. 244 vpravo; M) – tehdy uveden bez „defuncti“, tedy snad živ."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 244 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1770_snatek_jan_zettelmann_terezie_jakesova.jpg","t":"Sňatek dcery Terezie, Bělotín 1770"}
       ]
     }
   ]
