@@ -16486,42 +16486,52 @@ window.RODOKMEN = {
       maiden: "",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      b: {"date":"neznámé (asi 1749, podle věku při sňatku)","year":1749,"approx":true},
       d: {"date":"před 20. 11. 1827","year":1827},
+      father: "andreas_an00",
       alive: false,
       occ: "domkář (Hüttler) v Polomi",
+      marriage: "31. 1. 1779, Polom – Matěj Anders × Alžběta Kopřivová (?)",
       notes: [
         "Domkář (Hüttler) v Polomi č. 1; otec Johanna (pokřtěn 6. 5. 1792: „Mathias Andres, Hüttler“; L II 6, pag. 16, sn. 97 vlevo; M). Při synově sňatku 20. 11. 1827 už nežil; křestní jméno tam čteno nejistě „Michael (?)“ – platí křest: Mathias.",
-        "Sňatek s Alžbětou ve faře Bělotín 1784–1800 (L II 12 Pohl) není (jen nízké rozlišení; D) → spíš před 1784 (L II 5)."
+        "Oddáni 31. 1. 1779 v Polomi č. 1 (kooperátor Jos. Konal): „Honestus adolescens Matthias, defuncti Andreae Andersch Inquilini Pohlomiensis filius, annorum 30, sub Nro 1, cum honesta Elisabetha, Antonii Copriÿ (?) Rustici Bielotin filia“; svědci Martinus Gabriel a Joannes Dittrich, čeledíni (L II 5, sn. 269 vpravo; M). Č. 1 = dům syna Johanna 1792 i 1827."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 6 (N 1784–1814), oddíl Pohl, pag. 16, snímek 97 vlevo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 269 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1792_krest_johann_anders.jpg","t":"Křest syna Johanna, Polom 1792"},
-        {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek syna Johanna, Polom 1827"}
+        {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek syna Johanna, Polom 1827"},
+        {"f":"img/1779_snatek_mathias_anders_elisabeth.jpg","t":"Sňatek Matěje Anderse a Alžběty, Polom 31. 1. 1779"}
       ]
     },
     {
       id: "elisabeth_lb0",
       name: "Alžběta Andersová",
-      maiden: "Lo…rissová (?)",
+      maiden: "Kopřivová (?)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      father: "anton_kp00",
       alive: false,
+      marriage: "31. 1. 1779, Polom – Matěj Anders × Alžběta Kopřivová (?)",
       notes: [
+        "Oddáni 31. 1. 1779 v Polomi č. 1 (kooperátor Jos. Konal): „Honestus adolescens Matthias, defuncti Andreae Andersch Inquilini Pohlomiensis filius, annorum 30, sub Nro 1, cum honesta Elisabetha, Antonii Copriÿ (?) Rustici Bielotin filia“; svědci Martinus Gabriel a Joannes Dittrich, čeledíni (L II 5, sn. 269 vpravo; M). Č. 1 = dům syna Johanna 1792 i 1827.",
         "Matka Johanna Anderse (× 1827: „der Mutter Elisabeth gebornen Anton Lob… (?) von Bölten“ – dcera Antona Lob… z Bělotína; příjmení nedočteno; L II 13, sn. 108 vlevo; M).",
-        "Při křtu syna Johanna 6. 5. 1792: „Elisabetha gebohrne Lo…rissin (?)“ (L II 6, pag. 16, sn. 97 vlevo; M) – rodné příjmení stále nejisté (Lob…/Lor…)."
+        "Při křtu syna Johanna 6. 5. 1792: „Elisabetha gebohrne Lo…rissin (?)“ (L II 6, pag. 16, sn. 97 vlevo; M) – rodné příjmení stále nejisté (Lob…/Lor…).",
+        "Rodné příjmení: sňatek 1779 „Copriÿ“ (?), křest syna 1792 „Lo…rissin“ (?), sňatek syna 1827 „Anton Lob… (?) von Bölten“ – nejspíš Kopřiva (Kopřivová) z Bělotína (K)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 6 (N 1784–1814), oddíl Pohl, pag. 16, snímek 97 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 6 (N 1784–1814), oddíl Pohl, pag. 16, snímek 97 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 269 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek syna Johanna, Polom 1827"},
-        {"f":"img/1792_krest_johann_anders.jpg","t":"Křest syna Johanna, Polom 1792"}
+        {"f":"img/1792_krest_johann_anders.jpg","t":"Křest syna Johanna, Polom 1792"},
+        {"f":"img/1779_snatek_mathias_anders_elisabeth.jpg","t":"Sňatek s Matějem Andersem, Polom 1779"}
       ]
     },
     {
@@ -16625,21 +16635,26 @@ window.RODOKMEN = {
       maiden: "",
       line: "nezname",
       cert: "M",
-      b: {"date":"16. 4. 1777 (podle přípisu u sňatku)","year":1777,"place":"Polom (?)"},
+      b: {"date":"16. 4. 1777","year":1777,"place":"Polom (Pohl) č. p. 22"},
       d: {"date":"mezi 27. 9. 1830 a 22. 1. 1843","year":1843},
+      father: "vaclav_kl00",
+      mother: "magdalena_kl00",
       alive: false,
       occ: "sedlák v Polomi",
       marriage: "22. 11. 1796, Polom – Jiří Klösel × Magdalena Nitschmannová",
       notes: [
+        "Pokřtěn 16. 4. 1777 v Polomi č. 22 (kooperátor Popp): „Georgius – Wenceslaus Klesl, Rusticus, et Magdalena eius uxor“; kmotři Mathias Vania, mlynář, a Marianna, manželka sedláka Josefa Reinera (L II 5, sn. 153 vpravo; M). Datum přesně jako přípis u sňatku 1796.",
         "Sedlák v Polomi; otec Magdaleny (× 27. 9. 1830 – žil a dal souhlas; L II 13, sn. 111 vpravo; M); při křtu vnučky Beaty 22. 1. 1843 uveden jako zemřelý → † 1830–1843. Syn Anton × ~1835 (K).",
         "Oddáni 22. 11. 1796 v Polomi č. 21 (kooperátor): „Georg Klösl, Bauer“, 20 let (pozdější přípis narození 16. 4. 1777) × „Magdalena Nitschmannin“, 18 let (přípis 6. 10. 1778); svědci Anton Dittrich a Georg Andrisch (?), sedláci (L II 12, sn. 44 vpravo; M). Týž den se oženil Martin Klösl, sedlák, 24 l., se Susannou Nitschmannovou, 21 l. (snad bratr a sestra). Rodiče snoubenců kniha neuvádí."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 153 vpravo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 111 vpravo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 6 (N 1784–1814), oddíl Pohl, pag. 56, snímek 117 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 12 (O 1784–1813), oddíl Pohl, snímek 44 vpravo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1777_krest_georg_klosel.jpg","t":"Křest Jiřího Klösela, Polom 16. 4. 1777"},
         {"f":"img/1830_snatek_franz_stanzel_magdalena_kloselova.jpg","t":"Sňatek dcery Magdaleny, Polom 1830"},
         {"f":"img/1808_krest_magdalena_kloselova.jpg","t":"Křest dcery Magdaleny, Polom 1808"},
         {"f":"img/1796_snatek_georg_klosel_magdalena_nitschmannova.jpg","t":"Sňatek Jiřího Klösela a Magdaleny Nitschmannové, Polom 1796"}
@@ -16651,19 +16666,24 @@ window.RODOKMEN = {
       maiden: "Nitschmannová",
       line: "nezname",
       cert: "M",
-      b: {"date":"6. 10. 1778 (podle přípisu u sňatku)","year":1778,"place":"Polom (?)"},
+      b: {"date":"6. 10. 1778","year":1778,"place":"Polom (Pohl) č. p. 21"},
+      father: "josef_nt00",
+      mother: "susanna_nt00",
       alive: false,
       marriage: "22. 11. 1796, Polom – Jiří Klösel × Magdalena Nitschmannová",
       notes: [
+        "Pokřtěna 6. 10. 1778 v Polomi č. 21 (kooperátor Popp): „Magdalena – Josephus Nitschman, Rusticus, et Susanna uxor“; kmotři Antonius Seibert, sedlák (rychtář), a Magdalena, manželka sedláka Václava Klesla (L II 5, sn. 162 vpravo; M). Datum přesně jako přípis u sňatku 1796; týž dům č. 21.",
         "Matka Magdaleny Stanzlové (× 1830: „der Mutter Magdalena gebornen Joseph Nitschmann, alle von Pohl“ – dcera Josefa Nitschmanna z Polomi; L II 13, sn. 111 vpravo; M).",
         "Oddáni 22. 11. 1796 v Polomi č. 21 (kooperátor): „Georg Klösl, Bauer“, 20 let (pozdější přípis narození 16. 4. 1777) × „Magdalena Nitschmannin“, 18 let (přípis 6. 10. 1778); svědci Anton Dittrich a Georg Andrisch (?), sedláci (L II 12, sn. 44 vpravo; M). Týž den se oženil Martin Klösl, sedlák, 24 l., se Susannou Nitschmannovou, 21 l. (snad bratr a sestra). Rodiče snoubenců kniha neuvádí."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 162 vpravo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 111 vpravo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 6 (N 1784–1814), oddíl Pohl, pag. 56, snímek 117 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 12 (O 1784–1813), oddíl Pohl, snímek 44 vpravo – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1778_krest_magdalena_nitschmannova.jpg","t":"Křest Magdaleny Nitschmannové, Polom 6. 10. 1778"},
         {"f":"img/1830_snatek_franz_stanzel_magdalena_kloselova.jpg","t":"Sňatek dcery Magdaleny, Polom 1830"},
         {"f":"img/1808_krest_magdalena_kloselova.jpg","t":"Křest dcery Magdaleny, Polom 1808"},
         {"f":"img/1796_snatek_georg_klosel_magdalena_nitschmannova.jpg","t":"Sňatek s Jiřím Klöselem, Polom 1796"}
@@ -16705,6 +16725,119 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1800_snatek_franz_seibert_theresia_kublova.jpg","t":"Sňatek dcery Terezie, Polom 1800"}
+      ]
+    },
+    {
+      id: "vaclav_kl00",
+      name: "Václav Klösel (Klesl)",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      alive: false,
+      occ: "sedlák v Polomi",
+      notes: [
+        "Sedlák v Polomi (č. 22 v r. 1777); otec Jiřího (pokřtěn 16. 4. 1777: „Wenceslaus Klesl, Rusticus, et Magdalena eius uxor“; L II 5, sn. 153 vpravo; M). Jeho žena Magdalena byla 1778 kmotrou Magdaleny Nitschmannové, budoucí snachy."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 153 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1777_krest_georg_klosel.jpg","t":"Křest syna Jiřího, Polom 1777"}
+      ]
+    },
+    {
+      id: "magdalena_kl00",
+      name: "Magdalena Klöselová",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Jiřího Klösela (pokřtěn 16. 4. 1777, Polom č. 22; L II 5, sn. 153 vpravo; M); 6. 10. 1778 kmotra Magdaleny Nitschmannové („Magdalena, Wenceslai Klesl Rustici uxor“; sn. 162 vpravo; M). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 153 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1777_krest_georg_klosel.jpg","t":"Křest syna Jiřího, Polom 1777"}
+      ]
+    },
+    {
+      id: "josef_nt00",
+      name: "Josef Nitschmann",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      alive: false,
+      occ: "sedlák v Polomi č. 21",
+      notes: [
+        "Sedlák v Polomi č. 21; otec Magdaleny (pokřtěna 6. 10. 1778: „Josephus Nitschman, Rusticus, et Susanna uxor“; L II 5, sn. 162 vpravo; M) – i při sňatku vnučky 1830 „Magdalena gebornen Joseph Nitschmann“. Snad i otec Susanny (× 1796 Martin Klösl)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 162 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1778_krest_magdalena_nitschmannova.jpg","t":"Křest dcery Magdaleny, Polom 1778"}
+      ]
+    },
+    {
+      id: "susanna_nt00",
+      name: "Zuzana Nitschmannová",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Magdaleny (pokřtěna 6. 10. 1778, Polom č. 21; L II 5, sn. 162 vpravo; M). Rodné příjmení neznámé."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 162 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1778_krest_magdalena_nitschmannova.jpg","t":"Křest dcery Magdaleny, Polom 1778"}
+      ]
+    },
+    {
+      id: "andreas_an00",
+      name: "Ondřej Anders (Andersch)",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
+      d: {"date":"před 31. 1. 1779","year":1779},
+      alive: false,
+      occ: "podruh (inquilinus) v Polomi",
+      notes: [
+        "Podruh v Polomi; otec Matěje (× 31. 1. 1779: „Matthias, defuncti Andreae Andersch Inquilini Pohlomiensis filius“ – tehdy už nežil; L II 5, sn. 269 vpravo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 269 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1779_snatek_mathias_anders_elisabeth.jpg","t":"Sňatek syna Matěje, Polom 1779"}
+      ]
+    },
+    {
+      id: "anton_kp00",
+      name: "Antonín Kopřiva (?)",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1725)","year":1725,"approx":true},
+      alive: false,
+      occ: "sedlák v Bělotíně",
+      notes: [
+        "Sedlák v Bělotíně; otec Alžběty (× 31. 1. 1779: „Elisabetha, Antonii Copriÿ (?) Rustici Bielotin filia“; L II 5, sn. 269 vpravo; M) – příjmení čteno nejistě (Kopřiva ?); při sňatku vnuka 1827 „Anton Lob… (?) von Bölten“."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 269 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1779_snatek_mathias_anders_elisabeth.jpg","t":"Sňatek dcery Alžběty, Polom 1779"}
       ]
     }
   ]
