@@ -15795,7 +15795,8 @@ window.RODOKMEN = {
       alive: false,
       occ: "sedlák ve Veřovicích",
       notes: [
-        "KANDIDÁT (K+): otec Josefa Grozmana – podle úmrtního zápisu Josefa 30. 3. 1894 „syn Jana Grosmana, sedláka ve Veřovicích, a jeho manželky Magdaleny rodem Josef Marek z Veřovic“ (NJ XIV 9, str. 122, sn. 62; M zápis, ztotožnění Josefa K+)."
+        "KANDIDÁT (K+): otec Josefa Grozmana – podle úmrtního zápisu Josefa 30. 3. 1894 „syn Jana Grosmana, sedláka ve Veřovicích, a jeho manželky Magdaleny rodem Josef Marek z Veřovic“ (NJ XIV 9, str. 122, sn. 62; M zápis, ztotožnění Josefa K+).",
+        "Sňatek s Magdalenou Markovou ve Veřovicích 1807–1829 NENÍ (O NJ XIV 3, Opava N1 + N6; D). Možný kandidát (K, nesouhlasí jméno manželky): Johann, syn † Johanna Grossmanna, domkáře ve Veřovicích, 22 let, × 10. 11. 1812 (č. 177) Anna, dcera † Johanna Hikla (?), mlynáře, 30 let; svědek Johann Marek, sedlák (NJ XIV 3, sn. 22 vlevo, fol. 40; M zápis). Jeho bratr Franz × 9. 6. 1812 Anna Černochová (sn. 21 vpravo)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 122, snímek 62 – https://digi.archives.cz"
