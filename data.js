@@ -4445,7 +4445,8 @@ window.RODOKMEN = {
         "Otec Magdaleny Černochové; dal souhlas k jejímu sňatku 1869.",
         "Zemřel 30. 3. 1894 (pohřben 1. 4.) ve Veřovicích č. 203 jako výměník, 72 let 11 měsíců, sešlostí věkem (farář Leopold Zatloukal): „Josef Grosman, výměník ve Veřovicích, syn Jana Grosmana, sedláka ve Veřovicích, a jeho manželky Magdaleny rodem Josef Marek z Veřovic“ (NJ XIV 9, str. 122, sn. 62; M zápis). Ztotožnění K+: věk sedí (*~1821), v č. 203 žil 1901 jeho syn Jan Grozman; manželka v zápisu neuvedena.",
         "Jiný Josef Grozman, zahradník ve Veřovicích č. 52 (tj. v domě naší rodiny z r. 1869), měl 1884 manželku Rozinu roz. Matúšovou – buď náš Josef po smrti Anny znovu ženatý, nebo jiný Josef (syn?) (NJ XIV 9, str. 15, sn. 8; M).",
-        "Rejstříkový kandidát „168 (?) Grozman Josef 2/1 1887 str. 41“ (NJ XIV 9) zůstává nečtený – po nálezu 1894 nejspíš jiný muž."
+        "Rejstříkový kandidát „168 (?) Grozman Josef 2/1 1887 str. 41“ (NJ XIV 9) zůstává nečtený – po nálezu 1894 nejspíš jiný muž.",
+        "Křest Josefa, syna Jana Grossmanna, ve Veřovicích nenalezen: rejstřík N NJ XIV 1 (G) má jen Josepha *10. 2. 1820 č. 148, syna Franze a Anny (jiný), a zápisy IV–X 1821 ho nemají (Opava N5, D). Věk při úmrtí může být nepřesný nebo se narodil jinde."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
