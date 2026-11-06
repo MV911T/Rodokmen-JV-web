@@ -11571,12 +11571,13 @@ window.RODOKMEN = {
       name: "František Černoch",
       line: "cernoch",
       cert: "M",
-      b: {"date":"neznámé (asi 1798, podle věku při sňatku)","year":1798,"approx":true},
+      b: {"date":"24. 12. 1797 (?)","year":1797,"approx":true,"place":"Veřovice č. p. 22"},
       father: "jan_cn000",
       occ: "chalupník ve Veřovicích",
       marriage: "31. 1. 1826, Veřovice – František Černoch × Anna Prossede (?)",
       notes: [
         "Domkář (1826, 1846), později chalupník ve Veřovicích; otec Anny, provdané Grozmanové.",
+        "Křest (D): rejstřík N „1797 Černoch František, č. 22, str. 120“ (NJ XIV 1, sn. 144 vlevo); zápis (pag. 120, sn. 61 vlevo) přečetl agent: narozen 24. 12., pokřtěn 25. 12. 1797, otec Johann Czernoch, zahradník, matka Magdalena, dcera Josepha Grigara (?), sedláka; kmotři † Franz Beseda, rychtář, a Magdalena, manželka mlynáře Martina Horáka. Výřez neúplný – rodiče koordinátorem neověřeni. Sňatek rodičů snad 1794 (rejstřík: Czernoch Johann × Magdalena Grigar, č. 22, str. 18; nečteno).",
         "Oddán 31. 1. 1826 ve Veřovicích (č. 22): „Franz, nach Johann Czernoch, Gärtners Sohn“, 28 let × Anna, dcera Georga Prosseka / Prossede (?), zahradníka/sedláka č. 123 (NJ XIV 3, sn. 34 vlevo; M) – potvrzeno křtem dcery Anny 25. 3. 1826 v č. 22 a sňatkem Anny 1846.",
         "Dal 1846 souhlas ke sňatku nezletilé dcery Anny (NJ XIV 3, pag. 165, sn. 85 vpravo; M).",
         "Vztah k Černochům Tomáše (otec Jan, děd Josef) neznámý – ve Veřovicích žilo víc rodin Černochů."
@@ -16093,41 +16094,51 @@ window.RODOKMEN = {
       maiden: "",
       line: "cernoch",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      b: {"date":"neznámé (asi 1787, podle věku při sňatku)","year":1787,"approx":true},
       d: {"date":"před 10. 2. 1834","year":1834},
+      father: "jan_cn_h0",
       alive: false,
       occ: "domkář ve Veřovicích",
+      marriage: "1. 6. 1813, Veřovice – Josef Černoch × Anna Horáková",
       notes: [
         "Domkář ve Veřovicích; otec Jana (× 10. 2. 1834: „Johann, Sohn nach Joseph Czernoch, Häuslern“ – tehdy už nežil, ženich se ženil se svolením vrchního poručenství; NJ XIV 3, pag. 84, sn. 44 vlevo; M).",
-        "Domkář ve Veřovicích č. 89 v r. 1814 (křest syna Jana; NJ XIV 1, fol. 203, sn. 101 vpravo; M). Sňatek s Annou v rejstříku ženichů NJ XIV 3 1808–1825 není; ženich Josef Czernoch je tam 1786 (× Rosina Marek) a 1795 (× Anna „Maczyczek“ ?, č. 86) – neověřeno."
+        "Oddáni 1. 6. 1813 ve Veřovicích (č. 89): „Joseph, Sohn nach dem † Johann Czernoch, Häuslers von Wernsdorf“, 26 let, svobodný × „Anna, Tochter des Martin Horak, Müllers von Wernsdorf No 37“, 20 let, svobodná; svědci Franz Beseda, rychtář, a Johann Kuzel (?), zahradník (NJ XIV 3, fol. 41, sn. 22 vpravo; M).",
+        "Domkář ve Veřovicích č. 89 (1813, 1814). Kandidát křtu: rejstřík N 1789 „Černoch Josef, č. 89, str. 46“ (NJ XIV 1; D, nečteno – věk o ~2 roky jinak). Sňatky 16. 6. 1795 (Joseph, syn Georga Czernocha × Anne Maczyczek, č. 86) a 5. 11. 1811 (Johann × Magdalena Maczizek, č. 93) jiných mužů (M)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), fol. 203, snímek 101 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), fol. 41, snímek 22 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1814_krest_jan_cernoch.jpg","t":"Křest syna Jana, Veřovice 1814"},
-        {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek syna Jana, Veřovice 1834"}
+        {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek syna Jana, Veřovice 1834"},
+        {"f":"img/1813_snatek_josef_cernoch_anna_horakova.jpg","t":"Sňatek Josefa Černocha a Anny Horákové, Veřovice 1. 6. 1813"}
       ]
     },
     {
       id: "anna_hr00",
       name: "Anna Černochová",
-      maiden: "Honková / Horáková (?)",
+      maiden: "Horáková",
       line: "cernoch",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (asi 1793, podle věku při sňatku)","year":1793,"approx":true,"place":"Veřovice č. p. 37 (?)"},
+      father: "martin_hr00",
       alive: false,
+      marriage: "1. 6. 1813, Veřovice – Josef Černoch × Anna Horáková",
       notes: [
-        "Matka Jana Černocha: při křtu 9. 6. 1814 „Anne, Tochter des † Martin Honek (?), Müllers von da“ (NJ XIV 1, fol. 203, sn. 101 vpravo; M), při jeho sňatku 1834 „der Anne nach Martin Horak (?), Müllers Tochter“ (NJ XIV 3, pag. 84, sn. 44 vlevo; M) – otec Martin, mlynář ve Veřovicích, † před 1814; příjmení čteno nejistě (Honek × Horák)."
+        "Matka Jana Černocha. Dcera Martina Horáka, mlynáře ve Veřovicích č. 37: při sňatku 1. 6. 1813 „Anna, Tochter des Martin Horak, Müllers von Wernsdorf No 37“, 20 let (NJ XIV 3, fol. 41, sn. 22 vpravo; M); při sňatku syna 1834 „Anne nach Martin Horak (?), Müllers Tochter“ (M); při křtu syna 1814 čteno „Martin Honek (?)“ – spíš chybné čtení.",
+        "Oddáni 1. 6. 1813 ve Veřovicích (č. 89): „Joseph, Sohn nach dem † Johann Czernoch, Häuslers von Wernsdorf“, 26 let, svobodný × „Anna, Tochter des Martin Horak, Müllers von Wernsdorf No 37“, 20 let, svobodná; svědci Franz Beseda, rychtář, a Johann Kuzel (?), zahradník (NJ XIV 3, fol. 41, sn. 22 vpravo; M)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), fol. 203, snímek 101 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), fol. 41, snímek 22 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1814_krest_jan_cernoch.jpg","t":"Křest syna Jana, Veřovice 1814"},
-        {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek syna Jana, Veřovice 1834"}
+        {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek syna Jana, Veřovice 1834"},
+        {"f":"img/1813_snatek_josef_cernoch_anna_horakova.jpg","t":"Sňatek s Josefem Černochem, Veřovice 1813"}
       ]
     },
     {
@@ -16209,6 +16220,48 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1835_snatek_rosina_grossmannova_matka_pitrova.jpg","t":"Sňatek vnučky Rosiny, Veřovice 1835"}
+      ]
+    },
+    {
+      id: "jan_cn_h0",
+      name: "Jan Černoch",
+      maiden: "",
+      line: "cernoch",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      d: {"date":"před 1. 6. 1813","year":1813},
+      alive: false,
+      occ: "domkář ve Veřovicích",
+      notes: [
+        "Domkář ve Veřovicích; otec Josefa (× 1. 6. 1813: „Joseph, Sohn nach dem † Johann Czernoch, Häuslers von Wernsdorf“ – tehdy už nežil; NJ XIV 3, fol. 41, sn. 22 vpravo; M).",
+        "Možná týž jako Jan Černoch, zahradník († před 1826), otec Františka (*1797, č. 22) – neověřeno (K)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), fol. 41, snímek 22 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1813_snatek_josef_cernoch_anna_horakova.jpg","t":"Sňatek syna Josefa, Veřovice 1813"}
+      ]
+    },
+    {
+      id: "martin_hr00",
+      name: "Martin Horák",
+      maiden: "",
+      line: "cernoch",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      d: {"date":"před 9. 6. 1814","year":1814},
+      alive: false,
+      occ: "mlynář ve Veřovicích č. 37",
+      notes: [
+        "Mlynář ve Veřovicích č. 37; otec Anny (× 1. 6. 1813 s Josefem Černochem; NJ XIV 3, fol. 41, sn. 22 vpravo; M). Při křtu vnuka Jana 9. 6. 1814 uveden jako zemřelý (NJ XIV 1, fol. 203; M).",
+        "Jeho manželka Magdalena byla 1797 kmotrou Františka Černocha (č. 22) (Opava N18; zápis čten agentem)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), fol. 41, snímek 22 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1813_snatek_josef_cernoch_anna_horakova.jpg","t":"Sňatek dcery Anny, Veřovice 1813"}
       ]
     }
   ]
