@@ -8739,7 +8739,8 @@ window.RODOKMEN = {
       notes: [
         "Oddán 23. 2. 1813 v Bělotíně č. 81 (farář): „Karl Michalek, Sohn des Andreas Michalek, Häuslers“, 23 let, svobodný, s Annou, dcerou Josepha Zignera, výměnkáře, 20 let; svědci Anton Kleiber, výměnkář, a Karl Andres, hostinský (M; ztotožnění podle jmen obou a otce nevěsty).",
         "Domkář v Bělotíně (č. 12 v r. 1822). Otec Anny Zettelmannové (*1822); při dceřině sňatku 1844 dal souhlas.",
-        "KANDIDÁT úmrtí (D, jen rejstřík): „1845 Michalek Karl 119“ (rejstřík Z Bělotín L II 18, sn. 186 → kniha L II 16, fol. 119) – zápis nečten."
+        "KANDIDÁT úmrtí (D, jen rejstřík): „1845 Michalek Karl 119“ (rejstřík Z Bělotín L II 18, sn. 186 → kniha L II 16, fol. 119) – zápis nečten.",
+        "Úmrtí v Bělotíně do 1848 není (Opava N19, D): rejstříkový kandidát „Michalek Karl fol. 119“ (7. 7. 1845, č. 107) je nemanželské dítě (L II 16, M)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
@@ -8788,7 +8789,8 @@ window.RODOKMEN = {
       notes: [
         "Dcera Josefa Ziegnera, sedláka v Bělotíně († před X 1822). Matka Anny Michalkové (*22. 10. 1822).",
         "Oddána 23. 2. 1813 v Bělotíně č. 81 jako dcera Josepha Zignera, výměnkáře, 20 let (M).",
-        "KANDIDÁT úmrtí (D, jen rejstřík): „1847 Michalek Anna 130/131 (?)“ (L II 18, sn. 186 → L II 16) – zápis nečten. Úmrtí jejího otce Josepha Zignera v rejstříku Z Bělotín 1784–1848 (Lit. Z) není."
+        "KANDIDÁT úmrtí (D, jen rejstřík): „1847 Michalek Anna 130/131 (?)“ (L II 18, sn. 186 → L II 16) – zápis nečten. Úmrtí jejího otce Josepha Zignera v rejstříku Z Bělotín 1784–1848 (Lit. Z) není.",
+        "Úmrtí v Bělotíně do 1848 není (Opava N19, D): rejstříková hesla „Michalek Anna fol. 130/131“ (1847) jsou Anna, 12letá dcera sedláka Josefa Michalka, a Anton Michalek (L II 16, M)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 70, snímek 36 – https://digi.archives.cz",
@@ -12322,7 +12324,8 @@ window.RODOKMEN = {
       occ: "domkář v Bělotíně",
       notes: [
         "Domkář (Häusler) v Bělotíně; otec Karla Michalka – oddací zápis syna 23. 2. 1813 (M). Sňatek v O Bělotín 1784 – I 1793 není (D).",
-        "KANDIDÁTI úmrtí (D, jen rejstřík): „Michalek Andreas“ ~1816/17 (fol. 20), 1820 (fol. 29), 1825 (fol. 49) – rejstřík Z Bělotín L II 18, sn. 186; který je náš, nerozhodnuto."
+        "KANDIDÁTI úmrtí (D, jen rejstřík): „Michalek Andreas“ ~1816/17 (fol. 20), 1820 (fol. 29), 1825 (fol. 49) – rejstřík Z Bělotín L II 18, sn. 186; který je náš, nerozhodnuto.",
+        "Úmrtí v Bělotíně 1814–1825 nenalezeno (Opava N19, D): rejstříková hesla fol. 20 (1815 = Mathias Pöllner ?), fol. 29 (1820 = dítě Andreas, syn Antona Michalka) a fol. 49 (1825) nejsou on (L II 16, M)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz"
