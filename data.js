@@ -4458,8 +4458,10 @@ window.RODOKMEN = {
       mother: "magdalena_mrk0",
       spouse: "anna_ce",
       occ: "zahradník ve Veřovicích",
+      marriage: "24. 11. 1846, Veřovice – Josef Grossmann × Anna Černochová",
       notes: [
         "Narozen 18. 3. 1822, pokřtěn 19. 3. 1822 ve Veřovicích č. 52: „Joseph Grossmann – Johann Grossmann, Bauer – Magdalena, des Joseph Marek, Häuslers Tochter“; kmotři Thomas Lenton (?), domkář, a Magdalena, manželka Johanna Pitera (?), zahradníka (NJ XIV 1, pag. 246, sn. 123 vlevo; M). Dům č. 52 = dům rodiny i v r. 1869 a 1884.",
+        "Oddáni 24. 11. 1846 ve Veřovicích (č. 52 / 182; lokalista Johann Waniek): „Joseph Grossmann, Gärtler aus Wernsdorf, Sohn des Johann Grossmann, Gärtler-Ausgedinger aus Wernsdorf, und dessen Eheweibes Magdalena, gebornen Joseph Marek, Häuslers“, 25 let × „Anna Czernoch aus Wernsdorf, Tochter des Franz Czernoch, Häuslers aus Wernsdorf, und dessen Eheweibes Anna, gebornen Georg Possede (?), Bauers aus Wernsdorf“, 20 let (nezletilá, souhlas otce Franze Czernocha); svědci Thomas Görig a Joseph Pop, domkáři (NJ XIV 3, pag. 165, sn. 85 vpravo; M).",
         "Otec Magdaleny Černochové; dal souhlas k jejímu sňatku 1869.",
         "Zemřel 30. 3. 1894 (pohřben 1. 4.) ve Veřovicích č. 203 jako výměník, 72 let 11 měsíců, sešlostí věkem (farář Leopold Zatloukal): „Josef Grosman, výměník ve Veřovicích, syn Jana Grosmana, sedláka ve Veřovicích, a jeho manželky Magdaleny rodem Josef Marek z Veřovic“ (NJ XIV 9, str. 122, sn. 62; M zápis). Rodiče souhlasí s křtem 1822 → ztotožnění M. ROZPOR věku: zápis uvádí 72 let 11 měsíců, podle křtu 72 let 0 měsíců (platí křest).",
         "Jiný Josef Grozman, zahradník ve Veřovicích č. 52 (tj. v domě naší rodiny z r. 1869), měl 1884 manželku Rozinu roz. Matúšovou – buď náš Josef po smrti Anny znovu ženatý, nebo jiný Josef (syn?) (NJ XIV 9, str. 15, sn. 8; M).",
@@ -4469,13 +4471,15 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 122, snímek 62 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 246, snímek 123 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 246, snímek 123 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 165, snímek 85 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1822_krest_josef_grozman.jpg","t":"Křest Josefa Grozmana, Veřovice 19. 3. 1822"},
         {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"},
         {"f":"img/1894_umrti_josef_grozman.jpg","t":"Úmrtí Josefa Grozmana, Veřovice 30. 3. 1894"},
-        {"f":"img/1812_snatek_jan_grozman_magdalena_markova.jpg","t":"Sňatek rodičů, Veřovice 1812"}
+        {"f":"img/1812_snatek_jan_grozman_magdalena_markova.jpg","t":"Sňatek rodičů, Veřovice 1812"},
+        {"f":"img/1846_snatek_josef_grozman_anna_cernochova.jpg","t":"Sňatek Josefa Grossmanna a Anny Černochové, Veřovice 24. 11. 1846"}
       ]
     },
     {
@@ -4484,19 +4488,26 @@ window.RODOKMEN = {
       maiden: "Černochová",
       line: "cernoch",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1825)","year":1825,"approx":true,"place":"Veřovice"},
+      b: {"date":"25. 3. 1826","year":1826,"place":"Veřovice č. p. 22"},
       father: "frantisek_cn",
+      mother: "anna_prs00",
       spouse: "josef_gr",
+      marriage: "24. 11. 1846, Veřovice – Josef Grossmann × Anna Černochová",
       notes: [
+        "Narozena 25. 3., pokřtěna 26. 3. 1826 ve Veřovicích č. 22: „Anne Czernoch – Franz Czernoch, Häusler – Anne, des Georg Prossede (?) Bauers Tochter“; kmotři Joseph Pop, domkář, a Magdalena, svobodná dcera sedláka Franze Prossede (?) (NJ XIV 2, pag. 3, sn. 2 vpravo; M).",
+        "Oddáni 24. 11. 1846 ve Veřovicích (č. 52 / 182; lokalista Johann Waniek): „Joseph Grossmann, Gärtler aus Wernsdorf, Sohn des Johann Grossmann, Gärtler-Ausgedinger aus Wernsdorf, und dessen Eheweibes Magdalena, gebornen Joseph Marek, Häuslers“, 25 let × „Anna Czernoch aus Wernsdorf, Tochter des Franz Czernoch, Häuslers aus Wernsdorf, und dessen Eheweibes Anna, gebornen Georg Possede (?), Bauers aus Wernsdorf“, 20 let (nezletilá, souhlas otce Franze Czernocha); svědci Thomas Görig a Joseph Pop, domkáři (NJ XIV 3, pag. 165, sn. 85 vpravo; M).",
         "Matka Magdaleny; dcera Františka Černocha, chalupníka z Veřovic – Tomáš a Magdalena byli tedy nejspíš příbuzní (ve Veřovicích bylo víc rodin Černochů).",
-        "Úmrtí neznámé. Rejstříkový kandidát „52 Grozman Anna 9/12 1884“ vyvrácen: šlo o dítě Anna, dceru Josefa Grozmana, zahradníka č. 52, a Roziny roz. Matúšové (NJ XIV 9, str. 15, sn. 8; M) – pokud jde o téhož Josefa, zemřela Anna před 1884 (manžel znovu ženatý).",
-        "KANDIDÁTI rodičů (K, jen shoda jména): „Franz, nach Johann Czernoch, Gärtners Sohn“, 28 let, × 31. 1. 1826 Veřovice č. 22 Anna, dcera Georga Prosseka (?), zahradníka č. 123 (NJ XIV 3, sn. 34 vlevo; M zápis) – ověřit křtem Anny (~1826–30)."
+        "Úmrtí neznámé. Rejstříkový kandidát „52 Grozman Anna 9/12 1884“ vyvrácen: šlo o dítě Anna, dceru Josefa Grozmana, zahradníka č. 52, a Roziny roz. Matúšové (NJ XIV 9, str. 15, sn. 8; M) – pokud jde o téhož Josefa, zemřela Anna před 1884 (manžel znovu ženatý)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 2 (N 1826–1876), pag. 3, snímek 2 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 165, snímek 85 vpravo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1826_krest_anna_cernochova.jpg","t":"Křest Anny Černochové, Veřovice 25. 3. 1826"},
+        {"f":"img/1846_snatek_josef_grozman_anna_cernochova.jpg","t":"Sňatek s Josefem Grossmannem, Veřovice 1846"},
         {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869 (dítě: Magdalena Černochová)"}
       ]
     },
@@ -11560,17 +11571,27 @@ window.RODOKMEN = {
       name: "František Černoch",
       line: "cernoch",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
+      b: {"date":"neznámé (asi 1798, podle věku při sňatku)","year":1798,"approx":true},
+      father: "jan_cn000",
       occ: "chalupník ve Veřovicích",
+      marriage: "31. 1. 1826, Veřovice – František Černoch × Anna Prossede (?)",
       notes: [
-        "Chalupník ve Veřovicích; otec Anny, provdané Grozmanové (sňatek vnučky Magdaleny 8. 11. 1869 a křest pravnuka 1877; M). Vztah k Černochům Tomáše (otec Jan) neznámý – ve Veřovicích žilo víc rodin Černochů. Datum narození je odhad podle dcery (*~1825)."
+        "Domkář (1826, 1846), později chalupník ve Veřovicích; otec Anny, provdané Grozmanové.",
+        "Oddán 31. 1. 1826 ve Veřovicích (č. 22): „Franz, nach Johann Czernoch, Gärtners Sohn“, 28 let × Anna, dcera Georga Prosseka / Prossede (?), zahradníka/sedláka č. 123 (NJ XIV 3, sn. 34 vlevo; M) – potvrzeno křtem dcery Anny 25. 3. 1826 v č. 22 a sňatkem Anny 1846.",
+        "Dal 1846 souhlas ke sňatku nezletilé dcery Anny (NJ XIV 3, pag. 165, sn. 85 vpravo; M).",
+        "Vztah k Černochům Tomáše (otec Jan, děd Josef) neznámý – ve Veřovicích žilo víc rodin Černochů."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. –, snímek 34 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 2 (N 1826–1876), pag. 3, snímek 2 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 165, snímek 85 vpravo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek vnučky Magdaleny Grozmanové, Veřovice 8. 11. 1869"}
+        {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek vnučky Magdaleny Grozmanové, Veřovice 8. 11. 1869"},
+        {"f":"img/1826_krest_anna_cernochova.jpg","t":"Křest dcery Anny, Veřovice 1826"},
+        {"f":"img/1846_snatek_josef_grozman_anna_cernochova.jpg","t":"Sňatek dcery Anny, Veřovice 1846"}
       ]
     },
     {
@@ -15899,20 +15920,23 @@ window.RODOKMEN = {
       line: "grozman",
       cert: "M",
       b: {"date":"neznámé (asi 1761, podle věku při sňatku)","year":1761,"approx":true},
+      father: "jiri_pt00",
       alive: false,
       marriage: "14. 10. 1786, Veřovice – Tomáš Grossmann × Rosina Pitrová",
       notes: [
         "Oddána 14. 10. 1786 ve Veřovicích s Tomášem Grossmannem, zahradníkem č. 52: „Rosina Pitrin, Gärtlers Tochter“, 25 let (NJ XIV 3, sn. 4 vpravo; M) – dcera zahradníka Pitra; s ženichem pokrevně příbuzná ve 3. stupni (dispens).",
-        "Matka Jana (*2. 4. 1787, Veřovice č. 52) – v křestním zápisu čteno „Rosina, Georg Seifert (?) Tochter“; podle sňatku 1786 spíš „Georg Piter“ (?) (NJ XIV 1, pag. 26, sn. 14 vlevo; M) – ROZPOR čtení, jméno otce Georg nejisté.",
-        "KANDIDÁTKA křtu (K+): Rosina, dcera Josepha Pytera, zahradníka (hortulanus), a Rosiny, pokřtěna 8. 7. 1765 ve Veřovicích; kmotři Joannes Mathusch (?) a Anna, manželka Joanna … (ZA Opava, fara Životice, NJ XVI 1, sn. 210 vlevo; M zápis). Otec = nejspíš Josef Pitr, zahradník č. 29, × 1752 Rosina Černochová (v rodokmenu). Starší sestra Rosina († 15. 9. 1762, 5 let; NJ XVI 1 sn. 253 vpravo; M) – jméno pak dáno znovu. ROZPOR: při sňatku 1786 uvedeno 25 let (*~1761). Vazba na rodiče zatím nezapsána."
+        "Matka Jana (*2. 4. 1787, Veřovice č. 52): „Rosina, Georg Piter (?) Tochter“ (dříve čteno „Seifert“; NJ XIV 1, pag. 26, sn. 14 vlevo; M).",
+        "Při sňatku dcery Rosiny 5. 10. 1835 (č. 134) uvedena „Rosine, gebornen Georg Piter, Gärtlers, Haus No 52“ (NJ XIV 3, pag. 90, sn. 47 vlevo; M) → otec Jiří (Georg) Pitr, zahradník. Kandidátní křest 8. 7. 1765 (dcera Josefa Pytera) tím vyvrácen."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 26, snímek 14 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1829), snímek 4 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1829), snímek 4 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 90, snímek 47 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1787_krest_jan_grozman.jpg","t":"Křest syna Jana, Veřovice 1787"},
-        {"f":"img/1786_snatek_tomas_grossmann_rosina_pitrova.jpg","t":"Sňatek s Tomášem Grossmannem, Veřovice 1786"}
+        {"f":"img/1786_snatek_tomas_grossmann_rosina_pitrova.jpg","t":"Sňatek s Tomášem Grossmannem, Veřovice 1786"},
+        {"f":"img/1835_snatek_rosina_grossmannova_matka_pitrova.jpg","t":"Sňatek dcery Rosiny (matka „geb. Georg Piter“), Veřovice 1835"}
       ]
     },
     {
@@ -16127,6 +16151,64 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1814_krest_marianna_popova.jpg","t":"Křest dcery Marianny, Veřovice 1814"},
         {"f":"img/1812_snatek_josef_popp_rosina.jpg","t":"Sňatek s Josefem Poppem, Veřovice 1812"}
+      ]
+    },
+    {
+      id: "anna_prs00",
+      name: "Anna Černochová",
+      maiden: "Prossede (?)",
+      line: "cernoch",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1800)","year":1800,"approx":true},
+      alive: false,
+      marriage: "31. 1. 1826, Veřovice – František Černoch × Anna Prossede (?)",
+      notes: [
+        "Matka Anny Grozmanové: „Anne, des Georg Prossede (?) Bauers Tochter“ (křest 25. 3. 1826, NJ XIV 2, pag. 3, sn. 2 vpravo; M); „Anna, geborne Georg Possede (?), Bauers aus Wernsdorf“ (sňatek dcery 1846; M); při vlastním sňatku 31. 1. 1826 „Tochter des Georg Prossek (?)“ (NJ XIV 3, sn. 34 vlevo; M). Rodné příjmení Prossede/Prossek čteno nejistě. Sestra (?) Magdalena, dcera sedláka Franze Prossede, kmotrou 1826."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 2 (N 1826–1876), pag. 3, snímek 2 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 165, snímek 85 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1826_krest_anna_cernochova.jpg","t":"Křest dcery Anny, Veřovice 1826"},
+        {"f":"img/1846_snatek_josef_grozman_anna_cernochova.jpg","t":"Sňatek dcery Anny, Veřovice 1846"}
+      ]
+    },
+    {
+      id: "jan_cn000",
+      name: "Jan Černoch",
+      maiden: "",
+      line: "cernoch",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      d: {"date":"před 31. 1. 1826","year":1826},
+      alive: false,
+      occ: "zahradník ve Veřovicích",
+      notes: [
+        "Zahradník ve Veřovicích; otec Františka (× 31. 1. 1826: „Franz, nach Johann Czernoch, Gärtners Sohn“ – tehdy už nežil; NJ XIV 3, sn. 34 vlevo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. –, snímek 34 vlevo – https://digi.archives.cz"
+      ]
+    },
+    {
+      id: "jiri_pt00",
+      name: "Jiří Pitr",
+      maiden: "",
+      line: "grozman",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1730)","year":1730,"approx":true},
+      alive: false,
+      occ: "zahradník ve Veřovicích",
+      notes: [
+        "Zahradník ve Veřovicích; otec Rosiny, provdané 1786 za Tomáše Grossmanna – „Rosine, gebornen Georg Piter, Gärtlers“ (sňatek vnučky Rosiny 5. 10. 1835, NJ XIV 3, pag. 90, sn. 47 vlevo; M) a „Rosina, Georg Piter (?) Tochter“ (křest vnuka Jana 1787; M).",
+        "Snad „Georgius Pyter × Magdalena“, kteří měli ve Veřovicích děti 1755–1765 (Opava N11; D) – neověřeno. Vztah k Josefu Pitrovi (zahradník č. 29, × 1752) neznámý."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 90, snímek 47 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1835_snatek_rosina_grossmannova_matka_pitrova.jpg","t":"Sňatek vnučky Rosiny, Veřovice 1835"}
       ]
     }
   ]
