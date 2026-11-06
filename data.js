@@ -15862,21 +15862,26 @@ window.RODOKMEN = {
       maiden: "",
       line: "grozman",
       cert: "M",
-      b: {"date":"neznámé (asi 1764, podle věku při sňatku)","year":1764,"approx":true},
+      b: {"date":"I 1766 (křest, 1.–11. 1.)","year":1766,"place":"Veřovice (č. 52 ?)"},
+      father: "josef_grz000",
+      mother: "rosina_grz000",
       alive: false,
       occ: "zahradník (Gärtler) ve Veřovicích č. 52",
       marriage: "14. 10. 1786, Veřovice – Tomáš Grossmann × Rosina Pitrová",
       notes: [
+        "Pokřtěn v lednu 1766 (první zápis roku, před 11. 1.; den neuveden) ve Veřovicích: „Thomas – Josephus Grosman hortul[anus], Rosina“; kmotři Joannes Kozian (?), domkář, a Rosina, manželka Josepha Křížka (?), domkáře (NJ XVI 2, pag. 125, sn. 63 vpravo; M zápis). Ztotožnění D: jediný Thomas s otcem Grossmannem ve Veřovicích 1755–1770; otec Josef, zahradník č. 52 († 1791), a matka Rosina († 1797 v č. 52) žili v témže domě jako on. ROZPOR: při sňatku 1786 uvedeno 22 let (*~1764) – platí křest.",
         "Zahradník ve Veřovicích č. 52; otec Jana (*2. 4. 1787) s manželkou Rosinou, dcerou Georga Seiferta (?) (NJ XIV 1, pag. 26, sn. 14 vlevo; M; ztotožnění syna D).",
         "Oddán 14. 10. 1786 ve Veřovicích (č. 52): „Thomas Grossmann, Gärtler, cum dispens. in 3tio gradu consang.“, 22 let, svobodný × „Rosina Pitrin, Gärtlers Tochter“, 25 let, svobodná; svědci Johann Barton (?), sedlák, a Johann Gur… (?), zahradník (NJ XIV 3, sn. 4 vpravo; M) – rodiče snoubenců zápis neuvádí; ženich a nevěsta byli pokrevní příbuzní ve 3. stupni.",
         "Podle rejstříku N měla rodina v č. 52 i děti Anna (1789), Tomáš (1791 – snad pozdější Thomas Grossmann z č. 81), Josef (1795), Jiří (1797) a Rosina (1801) (rejstřík NJ XIV 1, sn. 147 vpravo; D).",
-        "KANDIDÁT křtu (K+): Thomas, syn Josepha Grosmana, zahradníka (hortulanus), a Rosiny, pokřtěn I 1766 (1.–11. 1.) ve Veřovicích; kmotři Joannes Kozian (?), domkář, a Rosina, manželka Josepha Křížka (?) (ZA Opava, fara Životice, NJ XVI 2, pag. 125, sn. 63 vpravo; M zápis). Jediný Thomas s otcem Grossmannem ve Veřovicích 1755–1770; ROZPOR: při sňatku 1786 uvedeno 22 let (*~1764)."
+        "Úmrtí do 1840 ve Veřovicích není (rejstřík Z NJ XIV 5, G, celý; D) – Thomas Grossmann † 14. 7. 1831 (42 l.) je z č. 81, tj. snad jeho syn Tomáš *1791."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 2 (N), pag. 125, snímek 63 vpravo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 26, snímek 14 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1829), snímek 4 – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1766_krest_tomas_grossmann.jpg","t":"Křest Tomáše Grossmanna, Veřovice I 1766"},
         {"f":"img/1787_krest_jan_grozman.jpg","t":"Křest syna Jana, Veřovice 1787"},
         {"f":"img/1786_snatek_tomas_grossmann_rosina_pitrova.jpg","t":"Sňatek Tomáše Grossmanna a Rosiny Pitrové, Veřovice 14. 10. 1786"}
       ]
@@ -15947,6 +15952,54 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1787_snatek_josef_marek_anna.jpg","t":"Sňatek s Josefem Markem, Veřovice 1787"}
+      ]
+    },
+    {
+      id: "josef_grz000",
+      name: "Josef Grossmann",
+      maiden: "",
+      line: "grozman",
+      cert: "M",
+      b: {"date":"neznámé (asi 1731, podle věku při úmrtí)","year":1731,"approx":true},
+      d: {"date":"VII 1791 (pohřben 6. 7. 1791)","year":1791,"place":"Veřovice č. p. 52"},
+      cause: "souchotiny (Lungensucht)",
+      alive: false,
+      occ: "zahradník (hortulanus, Gärtler) ve Veřovicích č. 52",
+      notes: [
+        "Zahradník ve Veřovicích č. 52; otec Tomáše (pokřtěn I 1766: „Josephus Grosman hortul., Rosina“; NJ XVI 2, pag. 125, sn. 63 vpravo; M).",
+        "Zemřel v létě 1791, pohřben 6. 7. 1791 (lokální kaplan Benedikt …) ve Veřovicích č. 52: „Joseph Grossmann, Gärtler“, 60 let, souchotiny (NJ XIV 5, pag. 45, sn. 22 vpravo; M zápis; ztotožnění D).",
+        "Sňatek s Rosinou (~1758–1765, fara Životice) zatím nehledán."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 5 (Z 1784–1840), pag. 45, snímek 22 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 2 (N), pag. 125, snímek 63 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1791_umrti_josef_grossmann.jpg","t":"Úmrtí Josefa Grossmanna, Veřovice 1791"},
+        {"f":"img/1766_krest_tomas_grossmann.jpg","t":"Křest syna Tomáše, Veřovice 1766"}
+      ]
+    },
+    {
+      id: "rosina_grz000",
+      name: "Rosina Grossmannová",
+      maiden: "",
+      line: "grozman",
+      cert: "M",
+      b: {"date":"neznámé (asi 1739, podle věku při úmrtí)","year":1739,"approx":true},
+      d: {"date":"23. 8. 1797","year":1797,"place":"Veřovice č. p. 52"},
+      cause: "horečka (hitziges Fieber)",
+      alive: false,
+      notes: [
+        "Matka Tomáše (pokřtěn I 1766: „Josephus Grosman hortul., Rosina“; NJ XVI 2, pag. 125, sn. 63 vpravo; M). Rodné příjmení neznámé.",
+        "Zemřela 23. 8. 1797 (pohřbena 25. 8.) ve Veřovicích č. 52: „Rosina des seligen Joseph Grosman Bauers Eheweib“, 58 let, horečka (NJ XIV 5, pag. 70, sn. 35 vlevo; M zápis; ztotožnění D)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 5 (Z 1784–1840), pag. 70, snímek 35 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 2 (N), pag. 125, snímek 63 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1797_umrti_rosina_grossmannova.jpg","t":"Úmrtí Rosiny Grossmannové, Veřovice 1797"},
+        {"f":"img/1766_krest_tomas_grossmann.jpg","t":"Křest syna Tomáše, Veřovice 1766"}
       ]
     }
   ]
