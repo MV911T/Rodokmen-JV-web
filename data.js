@@ -8700,12 +8700,15 @@ window.RODOKMEN = {
       name: "Andreas Zettelmann",
       line: "zettelmann",
       cert: "M",
-      b: {"date":"neznámé (asi 1779/1780)","year":1780,"approx":true},
+      b: {"date":"28. 11. 1778","year":1778,"place":"Bělotín č. p. 49"},
       d: {"date":"13. 1. 1848","year":1848,"place":"Bělotín (Bölten) č. p. 49"},
       cause: "nervová horečka (Nervenfieber)",
+      father: "johann_zt00",
+      mother: "theresia_zt00",
       spouse: "elisabeth_sch",
       occ: "domkář v Bělotíně",
       notes: [
+        "Pokřtěn 28. 11. 1778 v Bělotíně č. 49 (kooperátor Andreas Popp): „Andreas – Joannes Cettlmann, Gazarius, et Theresia uxor“; kmotři Antonius Michalek, sedlák, a Theresia, manželka Karla Schalnera (?), kováře (L II 5, sn. 163 vlevo; M). Ztotožnění D: týž dům č. 49, kde 1848 zemřel; jediný Andreas Zettelmann v křtech 1777–1782; věk při úmrtí (68) o rok nižší.",
         "Domkář v Bělotíně (č. 149 v r. 1822). Otec Johanna Zettelmanna (*1822); při synově sňatku 1844 dal souhlas, žil.",
         "Manželka Alžběta roz. Schindlerová, porodní bába (1822, 1846), zemřela jako jeho vdova 15. 5. 1855 v č. 49 (M).",
         "Sňatek s Alžbětou Schindlerovou ve faře Bělotín 1784–~1825 není (ženil se jinde).",
@@ -8713,12 +8716,14 @@ window.RODOKMEN = {
         "KANDIDÁT syna: Franz Zettelmann, mistr tkadlec, † 8. 5. 1854 Bělotín č. 49, 44 let (D) – zřejmě starší syn (*~1810), sňatek Andrease × Alžběty tedy před ~1810."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 163 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, O 1814–1861, sign. L II 13, fol. 116, snímek 59 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 64, snímek 33 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, Z 1814–1862 (sign. L II 16), Böltner Sterbregister fol. 136, snímek 69 vlevo (13. 1. 1848); rejstřík L II 18 sn. 195 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, Z 1814–1862 (sign. L II 16), fol. 165, snímek 83 vpravo (15. 5. 1855) – https://digi.archives.cz"
       ],
       scans: [
+        {"f":"img/1778_krest_andreas_zettelmann.jpg","t":"Křest Andrease Zettelmanna, Bělotín 28. 11. 1778"},
         {"f":"img/1848_Z_Zettelmann_Andreas_Belotin49.jpg","t":"Úmrtí Andrease Zettelmanna, Bělotín č. 49, 13. 1. 1848"},
         {"f":"img/1844_O_Johann_Zettelmann_Anna_Michalek_Belotin_fol116.jpg","t":"Sňatek Johanna Zettelmanna a Anny Michalkové, Bělotín 6. 8. 1844"},
         {"f":"img/1822_N_Johann_Zettelmann_Belotin_pag64.jpg","t":"Křest Johanna Zettelmanna, Bělotín 10. 3. 1822"},
@@ -8770,7 +8775,8 @@ window.RODOKMEN = {
         "Zemřela 15. 5. 1855 (pohřbena 17. 5., kooperátor August Renner (?)) v Bělotíně č. 49 jako „Elisabeth, Wittwe nach Andreas Zettelmann, Ausgedingerin in Bölten“, 76 let, sešlost věkem (M; č. 49 = dům Andrease † 1848 a porodní báby 1846). Podle věku *~1779 – dřívější odhad ~1795 byl o generaci mladší; Elisabeth Jüngerová (× 1793 Johann Schindler) by tedy byla nanejvýš macecha (K).",
         "Dcera Johanna Schindlera, sedláka v Bělotíně († před III 1822). Matka Johanna Zettelmanna (*10. 3. 1822).",
         "KANDIDÁT: Andreas Schindler, sedlák v Bělotíně (kmotr 1822), může být její bratr.",
-        "KANDIDÁT syna: Franz Zettelmann, mistr tkadlec v Bělotíně, † 8. 5. 1854 č. 49, 44 let (→ *~1810) – zřejmě syn Andrease a Alžběty, bratr Johanna (*1822); nedoloženo křtem."
+        "KANDIDÁT syna: Franz Zettelmann, mistr tkadlec v Bělotíně, † 8. 5. 1854 č. 49, 44 let (→ *~1810) – zřejmě syn Andrease a Alžběty, bratr Johanna (*1822); nedoloženo křtem.",
+        "Křest v Bělotíně II 1777 – VII 1782 nenalezen (L II 5, sn. 152–184; Opava N22, D). Kandidát otce (K): Joannes Schindler, sedlák, × Theresia (syn Joannes 1781, sn. 178 vlevo)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, N 1814–1846, sign. L II 7, pag. 64, snímek 33 – https://digi.archives.cz",
@@ -16336,6 +16342,46 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1792_krest_anna_ziegnerova.jpg","t":"Křest dcery Anny, Bělotín 1792"}
+      ]
+    },
+    {
+      id: "johann_zt00",
+      name: "Jan Zettelmann (Czettlmann)",
+      maiden: "",
+      line: "zettelmann",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1735)","year":1735,"approx":true},
+      alive: false,
+      occ: "gazarius (chalupník ?) v Bělotíně č. 49",
+      notes: [
+        "Otec Andrease (pokřtěn 28. 11. 1778, Bělotín č. 49: „Joannes Cettlmann, Gazarius, et Theresia uxor“; L II 5, sn. 163 vlevo; M).",
+        "Pravděpodobně týž „Joës Czettlmann, viduus, Gazarius“, který se ~19. 10. 1766 oženil s Annou, vdovou po † Georgu Nütschmannovi; svědci Thomas Czettlmann a Joës Michalek (L II 5, sn. 235 vpravo; M zápis, rok odvozen – K). Terezie by pak byla jeho 3. manželkou (sňatek 1766–1778 nehledán).",
+        "V Bělotíně žila současně jiná rodina: Wenceslaus Zettlman, podruh, × Elisabetha, č. 55 (dcera Elisabetha 11. 3. 1779)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 163 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 235 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1778_krest_andreas_zettelmann.jpg","t":"Křest syna Andrease, Bělotín 1778"}
+      ]
+    },
+    {
+      id: "theresia_zt00",
+      name: "Terezie Zettelmannová",
+      maiden: "",
+      line: "zettelmann",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Andrease (pokřtěn 28. 11. 1778, Bělotín č. 49: „Joannes Cettlmann, Gazarius, et Theresia uxor“; L II 5, sn. 163 vlevo; M). Rodné příjmení neznámé – sňatek s Janem (~1766–1778) zatím nehledán."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 5 (NOZ 1755–1784), snímek 163 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1778_krest_andreas_zettelmann.jpg","t":"Křest syna Andrease, Bělotín 1778"}
       ]
     }
   ]
