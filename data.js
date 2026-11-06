@@ -4457,7 +4457,8 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1822_krest_josef_grozman.jpg","t":"Křest Josefa Grozmana, Veřovice 19. 3. 1822"},
         {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"},
-        {"f":"img/1894_umrti_josef_grozman.jpg","t":"Úmrtí Josefa Grozmana, Veřovice 30. 3. 1894"}
+        {"f":"img/1894_umrti_josef_grozman.jpg","t":"Úmrtí Josefa Grozmana, Veřovice 30. 3. 1894"},
+        {"f":"img/1812_snatek_jan_grozman_magdalena_markova.jpg","t":"Sňatek rodičů, Veřovice 1812"}
       ]
     },
     {
@@ -15800,23 +15801,26 @@ window.RODOKMEN = {
       mother: "rosina_sf00",
       alive: false,
       occ: "sedlák (1822), zahradník (1846) ve Veřovicích č. 52",
+      marriage: "17. 11. 1812, Veřovice – Jan Grossmann × Magdalena Marková",
       notes: [
         "Pokřtěn 2. 4. 1787 ve Veřovicích č. 52: „Johann Grossmann – Thomas Grossmann, Gärtler – Rosina, Georg Seifert (?) Tochter“; kmotři Georg Hanusch (?), domkář, a Barbara, manželka Johanna Lazina (?), zahradníka (NJ XIV 1, pag. 26, sn. 14 vlevo; M zápis). Ztotožnění D: týž dům č. 52, stav zahradník, věk 60 v r. 1846 (*~1786); jediný Johann Grossmann v rejstříku N 1784–1790 (ostatní Johannové z č. 126, 4, 118, 73, 16).",
+        "Oddán 17. 11. 1812 ve Veřovicích (č. 52): „Johann, Sohn des Thomas Grossmann, Gärtners von da“, 25 let, svobodný × „Magdalena, Tochter des Joseph Marek, Häuslers von da No 81“, 18 let, svobodná; svědci Georg Weitel (?) a Georg Czernoch, domkáři z Veřovic (NJ XIV 3, fol. 40, sn. 22 vlevo; M). Týž den si jeho bratr Tomáš (21) vzal Magdaleninu sestru Annu (21).",
         "Sedlák ve Veřovicích č. 52; otec Josefa (*18. 3. 1822) – „Johann Grossmann, Bauer“ s manželkou Magdalenou, dcerou Josepha Marka, domkáře (křest syna, NJ XIV 1, pag. 246, sn. 123 vlevo; M). Totéž uvádí úmrtní zápis Josefa 1894 (NJ XIV 9, str. 122).",
-        "Zemřel 13. 12. 1846 (pohřben 15. 12., Johann Waniek, Lokalist) ve Veřovicích č. 52: „Johann Grossmann, Gärtler in Wernsdorf“, 60 let, souchotiny (NJ XIV 6, pag. 37, sn. 19 vpravo; M zápis; ztotožnění D – týž dům, vdova Magdalena 1848).",
-        "Sňatek s Magdalenou Markovou ve Veřovicích 1797–1829 NENÍ (O NJ XIV 3, Opava N1 + N6; úsek VI 1804 – 1806 neprověřen; D) – podle věku manželky asi 1810–1821, snad mimo Veřovice."
+        "Zemřel 13. 12. 1846 (pohřben 15. 12., Johann Waniek, Lokalist) ve Veřovicích č. 52: „Johann Grossmann, Gärtler in Wernsdorf“, 60 let, souchotiny (NJ XIV 6, pag. 37, sn. 19 vpravo; M zápis; ztotožnění D – týž dům, vdova Magdalena 1848)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 26, snímek 14 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 246, snímek 123 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 122, snímek 62 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 6 (Z 1841–1882), pag. 37, snímek 19 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 6 (Z 1841–1882), pag. 37, snímek 19 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1829), fol. 40, snímek 22 – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1787_krest_jan_grozman.jpg","t":"Křest Jana Grossmanna, Veřovice 2. 4. 1787"},
         {"f":"img/1822_krest_josef_grozman.jpg","t":"Křest syna Josefa, Veřovice 1822"},
         {"f":"img/1894_umrti_josef_grozman.jpg","t":"Úmrtí syna Josefa, Veřovice 1894"},
-        {"f":"img/1846_umrti_jan_grozman.jpg","t":"Úmrtí Jana Grossmanna, Veřovice 13. 12. 1846"}
+        {"f":"img/1846_umrti_jan_grozman.jpg","t":"Úmrtí Jana Grossmanna, Veřovice 13. 12. 1846"},
+        {"f":"img/1812_snatek_jan_grozman_magdalena_markova.jpg","t":"Sňatek Jana Grossmanna a Magdaleny Markové, Veřovice 17. 11. 1812"}
       ]
     },
     {
@@ -15825,25 +15829,29 @@ window.RODOKMEN = {
       maiden: "Marková",
       line: "grozman",
       cert: "M",
-      b: {"date":"neznámé (asi 1792, podle věku při úmrtí)","year":1792,"approx":true,"place":"Veřovice"},
+      b: {"date":"15. 10. 1796","year":1796,"place":"Veřovice č. p. 81"},
       d: {"date":"23. 3. 1848","year":1848,"place":"Veřovice č. p. 52"},
       cause: "tyfus",
       alive: false,
+      marriage: "17. 11. 1812, Veřovice – Jan Grossmann × Magdalena Marková",
       notes: [
-        "Dcera Josefa Marka, domkáře ve Veřovicích; manželka Jana Grossmanna, sedláka č. 52; matka Josefa (*18. 3. 1822) (křest syna, NJ XIV 1, pag. 246, sn. 123 vlevo; M). Sňatek ve Veřovicích 1797–1829 nenalezen (O NJ XIV 3; úsek VI 1804 – 1806 neprověřen).",
-        "Zemřela 23. 3. 1848 (pohřbena 25. 3., Johann Waniek, Lokalist) ve Veřovicích č. 52: „Magdalena, Witwe nach dem verstorbenen Johann Grossmann, Gärtler in Wernsdorf“, 56 let, tyfus (NJ XIV 6, pag. 56, sn. 29 vlevo; M zápis; ztotožnění D – rodné příjmení neuvedeno).",
-        "Snad sestra Anny, manželky Thomase Grossmanna (č. 81), také „des Joseph Marek, Häuslers Tochter“ (děti 1821–1824; D, vazba K).",
-        "KANDIDÁTKA křtu (K+): Magdalena Markin *15. 10., pokřtěna 16. 10. 1796 ve Veřovicích č. 81 – otec Joseph Marek, domkář, matka Anna (původ čten nejistě); kmotři † Johann Vojtík (?), domkář, a Anna, manželka Johanna Martoka (?), sedláka (NJ XIV 1, pag. 112, sn. 57 vlevo; M zápis). Pro: otec domkář jako 1822; č. 81 = pozdější dům Thomase Grossmanna, jehož žena Anna Markin *25. 5. 1792 v č. 81 je také dcerou Josepha Marka. ROZPOR: věk 56 při úmrtí 1848 ukazuje na *~1792. Druhá možnost: Magdalena *7. 4. 1798 č. 116, otec Joseph Marek, sedlák (Bauer), matka Rosina (sn. 62 vpravo; M) – stav otce nesedí."
+        "Narozena 15. 10., pokřtěna 16. 10. 1796 ve Veřovicích č. 81: „Magdalena Markin – Joseph Marek, Häusler – Anna“ (původ matky čten nejistě); kmotři † Johann Vojtík (?), domkář, a Anna, manželka Johanna Martoka (?), sedláka (NJ XIV 1, pag. 112, sn. 57 vlevo; M zápis). Ztotožnění D: při sňatku 1812 „Tochter des Joseph Marek, Häuslers von da No 81“; jediná Magdalena Joséfa Marka-domkáře v rejstříku N 1784–1798 (Magdalena *7. 4. 1798 č. 116 je dcera sedláka Josepha Marka a 1819 se vdala za Johanna Bartona).",
+        "Oddána 17. 11. 1812 ve Veřovicích s Janem Grossmannem, synem zahradníka Tomáše (č. 52) (NJ XIV 3, fol. 40, sn. 22 vlevo; M). Sestra Anna (*25. 5. 1792 č. 81) se týž den vdala za Janova bratra Tomáše.",
+        "ROZPOR věku: při sňatku 1812 uvedeno 18 let (*~1794), při úmrtí 1848 56 let (*~1792); platí křest 1796.",
+        "Zemřela 23. 3. 1848 (pohřbena 25. 3., Johann Waniek, Lokalist) ve Veřovicích č. 52: „Magdalena, Witwe nach dem verstorbenen Johann Grossmann, Gärtler in Wernsdorf“, 56 let, tyfus (NJ XIV 6, pag. 56, sn. 29 vlevo; M zápis; ztotožnění D – rodné příjmení neuvedeno)."
       ],
       sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 112, snímek 57 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 246, snímek 123 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 122, snímek 62 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 6 (Z 1841–1882), pag. 56, snímek 29 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 6 (Z 1841–1882), pag. 56, snímek 29 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1829), fol. 40, snímek 22 – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1822_krest_josef_grozman.jpg","t":"Křest syna Josefa, Veřovice 1822"},
         {"f":"img/1894_umrti_josef_grozman.jpg","t":"Úmrtí syna Josefa, Veřovice 1894"},
-        {"f":"img/1848_umrti_magdalena_grozmanova.jpg","t":"Úmrtí Magdaleny Grossmannové, Veřovice 23. 3. 1848"}
+        {"f":"img/1848_umrti_magdalena_grozmanova.jpg","t":"Úmrtí Magdaleny Grossmannové, Veřovice 23. 3. 1848"},
+        {"f":"img/1812_snatek_jan_grozman_magdalena_markova.jpg","t":"Sňatek s Janem Grossmannem, Veřovice 1812"}
       ]
     },
     {
@@ -15852,36 +15860,45 @@ window.RODOKMEN = {
       maiden: "",
       line: "grozman",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      b: {"date":"neznámé (asi 1764, podle věku při sňatku)","year":1764,"approx":true},
       alive: false,
       occ: "zahradník (Gärtler) ve Veřovicích č. 52",
+      marriage: "14. 10. 1786, Veřovice – Tomáš Grossmann × Rosina Pitrová",
       notes: [
         "Zahradník ve Veřovicích č. 52; otec Jana (*2. 4. 1787) s manželkou Rosinou, dcerou Georga Seiferta (?) (NJ XIV 1, pag. 26, sn. 14 vlevo; M; ztotožnění syna D).",
+        "Oddán 14. 10. 1786 ve Veřovicích (č. 52): „Thomas Grossmann, Gärtler, cum dispens. in 3tio gradu consang.“, 22 let, svobodný × „Rosina Pitrin, Gärtlers Tochter“, 25 let, svobodná; svědci Johann Barton (?), sedlák, a Johann Gur… (?), zahradník (NJ XIV 3, sn. 4 vpravo; M) – rodiče snoubenců zápis neuvádí; ženich a nevěsta byli pokrevní příbuzní ve 3. stupni.",
         "Podle rejstříku N měla rodina v č. 52 i děti Anna (1789), Tomáš (1791 – snad pozdější Thomas Grossmann z č. 81), Josef (1795), Jiří (1797) a Rosina (1801) (rejstřík NJ XIV 1, sn. 147 vpravo; D)."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 26, snímek 14 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 26, snímek 14 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1829), snímek 4 – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1787_krest_jan_grozman.jpg","t":"Křest syna Jana, Veřovice 1787"}
+        {"f":"img/1787_krest_jan_grozman.jpg","t":"Křest syna Jana, Veřovice 1787"},
+        {"f":"img/1786_snatek_tomas_grossmann_rosina_pitrova.jpg","t":"Sňatek Tomáše Grossmanna a Rosiny Pitrové, Veřovice 14. 10. 1786"}
       ]
     },
     {
       id: "rosina_sf00",
       name: "Rosina Grossmannová",
-      maiden: "Seifertová (?)",
+      maiden: "Pitrová",
       line: "grozman",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      b: {"date":"neznámé (asi 1761, podle věku při sňatku)","year":1761,"approx":true},
       alive: false,
+      marriage: "14. 10. 1786, Veřovice – Tomáš Grossmann × Rosina Pitrová",
       notes: [
-        "Matka Jana (*2. 4. 1787, Veřovice č. 52): „Rosina, Georg Seifert (?) Tochter“ – dcera Georga Seiferta (?); rodné příjmení čteno nejistě (NJ XIV 1, pag. 26, sn. 14 vlevo; M)."
+        "Oddána 14. 10. 1786 ve Veřovicích s Tomášem Grossmannem, zahradníkem č. 52: „Rosina Pitrin, Gärtlers Tochter“, 25 let (NJ XIV 3, sn. 4 vpravo; M) – dcera zahradníka Pitra; s ženichem pokrevně příbuzná ve 3. stupni (dispens).",
+        "Matka Jana (*2. 4. 1787, Veřovice č. 52) – v křestním zápisu čteno „Rosina, Georg Seifert (?) Tochter“; podle sňatku 1786 spíš „Georg Piter“ (?) (NJ XIV 1, pag. 26, sn. 14 vlevo; M) – ROZPOR čtení, jméno otce Georg nejisté.",
+        "Hypotéza (K): Pitrové byli ve Veřovicích zahradníci (Josef Pitr, zahradník č. 29, × 1752 Rosina Černochová) a Pavel Grosman byl stálým kmotrem dětí Václava Pitra 1710–1720 – odtud snad pokrevní příbuzenství; vazba Rosiny na tyto Pitry neověřena."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 26, snímek 14 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 26, snímek 14 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1829), snímek 4 – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1787_krest_jan_grozman.jpg","t":"Křest syna Jana, Veřovice 1787"}
+        {"f":"img/1787_krest_jan_grozman.jpg","t":"Křest syna Jana, Veřovice 1787"},
+        {"f":"img/1786_snatek_tomas_grossmann_rosina_pitrova.jpg","t":"Sňatek s Tomášem Grossmannem, Veřovice 1786"}
       ]
     }
   ]
