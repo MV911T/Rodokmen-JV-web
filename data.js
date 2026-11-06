@@ -15968,21 +15968,24 @@ window.RODOKMEN = {
       notes: [
         "Zahradník ve Veřovicích č. 52; otec Tomáše (pokřtěn I 1766: „Josephus Grosman hortul., Rosina“; NJ XVI 2, pag. 125, sn. 63 vpravo; M).",
         "Zemřel v létě 1791, pohřben 6. 7. 1791 (lokální kaplan Benedikt …) ve Veřovicích č. 52: „Joseph Grossmann, Gärtler“, 60 let, souchotiny (NJ XIV 5, pag. 45, sn. 22 vpravo; M zápis; ztotožnění D).",
-        "Sňatek s Rosinou (~1758–1765, fara Životice) zatím nehledán."
+        "KANDIDÁT sňatku (K+): 4. 7. 1762 ve Veřovicích „Honestus Juvenis Josephus, Pauli Grosmann Hort[ulani] legit. filius, cum honesta Ancilla Rosina, def[unc]ti Andreae Urbanowsky fabri legit. filia“; svědci Joan. Beseda, rychtář, a Jos. Mathusch, domkář (NJ XVI 1, pag. 460, sn. 231 vlevo; M zápis). Pro: ženich syn zahradníka jako náš Josef (zahradník 1766 a 1791); svědek sňatku Josefa Marka 1787 byl Johann Urbanowsky, kovář. Proti: 13. 11. 1764 se oženil jiný Josef Grosman, syn † Ondřeje, domkáře, s Rosinou, dcerou † rychtáře Jiřího Besedy (sn. 232 vlevo; M) – stav domkář spíš nesedí. Jiný sňatek Josef × Rosina XI 1755 – XI 1764 není.",
+        "Pavel Grosman (jeho otec podle sňatku 1762, K+) byl 1710–1720 stálým kmotrem dětí Václava Pitra – odtud nejspíš pokrevní příbuzenství, pro které měl syn Tomáš 1786 dispens k sňatku s Rosinou Pitrovou (hypotéza)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 5 (Z 1784–1840), pag. 45, snímek 22 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 2 (N), pag. 125, snímek 63 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 2 (N), pag. 125, snímek 63 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 1 (O), pag. 460, snímek 231 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1791_umrti_josef_grossmann.jpg","t":"Úmrtí Josefa Grossmanna, Veřovice 1791"},
-        {"f":"img/1766_krest_tomas_grossmann.jpg","t":"Křest syna Tomáše, Veřovice 1766"}
+        {"f":"img/1766_krest_tomas_grossmann.jpg","t":"Křest syna Tomáše, Veřovice 1766"},
+        {"f":"img/1762_snatek_josef_grosmann_rosina_urbanowska.jpg","t":"Sňatek Josefa Grosmanna a Rosiny Urbanowské (?), Veřovice 1762"}
       ]
     },
     {
       id: "rosina_grz000",
       name: "Rosina Grossmannová",
-      maiden: "",
+      maiden: "Urbanowská (?)",
       line: "grozman",
       cert: "M",
       b: {"date":"neznámé (asi 1739, podle věku při úmrtí)","year":1739,"approx":true},
@@ -15990,16 +15993,19 @@ window.RODOKMEN = {
       cause: "horečka (hitziges Fieber)",
       alive: false,
       notes: [
-        "Matka Tomáše (pokřtěn I 1766: „Josephus Grosman hortul., Rosina“; NJ XVI 2, pag. 125, sn. 63 vpravo; M). Rodné příjmení neznámé.",
-        "Zemřela 23. 8. 1797 (pohřbena 25. 8.) ve Veřovicích č. 52: „Rosina des seligen Joseph Grosman Bauers Eheweib“, 58 let, horečka (NJ XIV 5, pag. 70, sn. 35 vlevo; M zápis; ztotožnění D)."
+        "Matka Tomáše (pokřtěn I 1766: „Josephus Grosman hortul., Rosina“; NJ XVI 2, pag. 125, sn. 63 vpravo; M). Rodné příjmení podle kandidátního sňatku 1762 Urbanowská – dcera † Ondřeje Urbanowského, kováře (K+).",
+        "Zemřela 23. 8. 1797 (pohřbena 25. 8.) ve Veřovicích č. 52: „Rosina des seligen Joseph Grosman Bauers Eheweib“, 58 let, horečka (NJ XIV 5, pag. 70, sn. 35 vlevo; M zápis; ztotožnění D).",
+        "KANDIDÁT sňatku (K+): 4. 7. 1762 ve Veřovicích „Honestus Juvenis Josephus, Pauli Grosmann Hort[ulani] legit. filius, cum honesta Ancilla Rosina, def[unc]ti Andreae Urbanowsky fabri legit. filia“; svědci Joan. Beseda, rychtář, a Jos. Mathusch, domkář (NJ XVI 1, pag. 460, sn. 231 vlevo; M zápis). Pro: ženich syn zahradníka jako náš Josef (zahradník 1766 a 1791); svědek sňatku Josefa Marka 1787 byl Johann Urbanowsky, kovář. Proti: 13. 11. 1764 se oženil jiný Josef Grosman, syn † Ondřeje, domkáře, s Rosinou, dcerou † rychtáře Jiřího Besedy (sn. 232 vlevo; M) – stav domkář spíš nesedí. Jiný sňatek Josef × Rosina XI 1755 – XI 1764 není."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 5 (Z 1784–1840), pag. 70, snímek 35 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 2 (N), pag. 125, snímek 63 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 2 (N), pag. 125, snímek 63 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 1 (O), pag. 460, snímek 231 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1797_umrti_rosina_grossmannova.jpg","t":"Úmrtí Rosiny Grossmannové, Veřovice 1797"},
-        {"f":"img/1766_krest_tomas_grossmann.jpg","t":"Křest syna Tomáše, Veřovice 1766"}
+        {"f":"img/1766_krest_tomas_grossmann.jpg","t":"Křest syna Tomáše, Veřovice 1766"},
+        {"f":"img/1762_snatek_josef_grosmann_rosina_urbanowska.jpg","t":"Sňatek s Josefem Grosmannem (?), Veřovice 1762"}
       ]
     }
   ]
