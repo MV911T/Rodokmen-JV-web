@@ -4385,23 +4385,29 @@ window.RODOKMEN = {
       name: "Jan Černoch",
       line: "cernoch",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1815)","year":1815,"approx":true},
+      b: {"date":"neznámé (asi 1814, podle věku při sňatku)","year":1814,"approx":true,"place":"Veřovice (?)"},
+      father: "josef_ce00",
+      mother: "anna_hr00",
       spouse: "mariana_po",
       occ: "chalupník (domkař) ve Veřovicích",
+      marriage: "10. 2. 1834, Veřovice – Jan Černoch × Marianna Popová",
       notes: [
         "Otec Tomáše Černocha; dal souhlas k jeho sňatku 1869.",
+        "Oddáni 10. 2. 1834 ve Veřovicích (č. 89; lokální kaplan Dominik Jakob): „Johann, Sohn nach Joseph Czernoch, Häuslern, und der Anne nach Martin Horak (?), Müllers Tochter“, 20 let, svobodný (se svolením vrchního poručenství) × „Marianne, Tochter des Joseph Pop, Häuslers, und der Rosine nach Johann Schrabek (?), Häuslers Tochter, sub Haus No 15“, 20 let, svobodná (se svolením otce Josefa Popa); svědci Johann Koczian, sedlák, a Johann Urbanowsky, kovář (NJ XIV 3, pag. 84, sn. 44 vlevo; M).",
         "Žil 10. 4. 1885: tehdy zemřel ve Veřovicích č. 57 Jan Černoch, chalupník, 32 let, na souchotiny – „syn Jana Černocha, chalupníka ve Veřovicích, a jeho manželky Anny rozené Josef Pop, chalupník ve Veřovicích“ (NJ XIV 9, str. 21, sn. 11; M) – otec uveden jako živý. Matka zde „Anna“, jinde Mariana (dcera Josefa Poppa) → nejspíš táž žena (Anna Maria ?), vazba K+. Rejstříkový kandidát úmrtí Jana 10. 4. 1885 je tedy syn, ne on."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz",
         "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 21, snímek 11 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 21, snímek 11 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1869_O_Cernoch_Grozmanova_Verovice.jpg","t":"Sňatek Tomáše Černocha a Magdaleny Grozmanové, Veřovice 8. 11. 1869"},
         {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest Tomáše Černocha, Veřovice 20. 9. 1846"},
-        {"f":"img/1885_umrti_jan_cernoch_syn.jpg","t":"Úmrtí syna Jana (32 let), Veřovice 1885"}
+        {"f":"img/1885_umrti_jan_cernoch_syn.jpg","t":"Úmrtí syna Jana (32 let), Veřovice 1885"},
+        {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek Jana Černocha a Marianny Popové, Veřovice 10. 2. 1834"}
       ]
     },
     {
@@ -4410,12 +4416,15 @@ window.RODOKMEN = {
       maiden: "Poppová",
       line: "popp",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1820)","year":1820,"approx":true,"place":"Veřovice"},
+      b: {"date":"neznámé (asi 1814, podle věku při sňatku)","year":1814,"approx":true,"place":"Veřovice č. p. 15 (?)"},
       father: "josef_pp",
       mother: "theresie_pp",
       spouse: "jan_ce",
+      marriage: "10. 2. 1834, Veřovice – Jan Černoch × Marianna Popová",
       notes: [
         "Matka Tomáše Černocha; dcera † Josefa Poppa, domkaře z Veřovic, a Theresie roz. Ja… (?) z Lit…dorf (?) (křest syna 1846).",
+        "Oddáni 10. 2. 1834 ve Veřovicích (č. 89; lokální kaplan Dominik Jakob): „Johann, Sohn nach Joseph Czernoch, Häuslern, und der Anne nach Martin Horak (?), Müllers Tochter“, 20 let, svobodný (se svolením vrchního poručenství) × „Marianne, Tochter des Joseph Pop, Häuslers, und der Rosine nach Johann Schrabek (?), Häuslers Tochter, sub Haus No 15“, 20 let, svobodná (se svolením otce Josefa Popa); svědci Johann Koczian, sedlák, a Johann Urbanowsky, kovář (NJ XIV 3, pag. 84, sn. 44 vlevo; M).",
+        "ROZPOR (matka): sňatek 1834 uvádí matku „Rosine nach Johann Schrabek (?)“, křest syna Tomáše 1846 „Theresie roz. Ja… (?) z Lit…dorf“ – snad 2. manželka Josefa Popa, nebo chyba; rozhodne křest Marianny (~1813–14). Vazba na Theresii zatím ponechána.",
         "Úmrtí neznámé. Rejstříkový kandidát „57 Černoch Marianna 6/3 [1884]“ vyvrácen: dítě Marianna, dcera Jana Černocha, chalupníka č. 57, a Ludmily roz. Jupač (?) (NJ XIV 9, str. 10, sn. 6; M) – v č. 57 tedy 1884 žil i jiný (mladší ?) Jan Černoch.",
         "Při úmrtí syna Jana 10. 4. 1885 (32 let, č. 57) uvedena jako „Anna rozená Josef Pop“ (NJ XIV 9, str. 21, sn. 11; M) – variantní jméno, K+."
       ],
@@ -4423,11 +4432,13 @@ window.RODOKMEN = {
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 4 (O 1858–1888), pag. 65, snímek 33 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 7 (N 1877–1893), str. 25, snímek 25 – https://digi.archives.cz",
         "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 21, snímek 11 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 21, snímek 11 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1846_N_Tomas_Cernoch_Verovice.jpg","t":"Křest Tomáše Černocha, Veřovice 20. 9. 1846"},
-        {"f":"img/1885_umrti_jan_cernoch_syn.jpg","t":"Úmrtí syna Jana (32 let), Veřovice 1885"}
+        {"f":"img/1885_umrti_jan_cernoch_syn.jpg","t":"Úmrtí syna Jana (32 let), Veřovice 1885"},
+        {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek s Janem Černochem, Veřovice 1834"}
       ]
     },
     {
@@ -11522,7 +11533,8 @@ window.RODOKMEN = {
       spouse: "theresie_pp",
       occ: "domkář ve Veřovicích",
       notes: [
-        "Domkář ve Veřovicích; otec Mariany, manželky Jana Černocha – v křtu vnuka Tomáše 20. 9. 1846 uveden jako „† Josef Popp, domkář z Veřovic“ (M). Datum narození je odhad podle dcery (*~1820)."
+        "Domkář ve Veřovicích; otec Mariany, manželky Jana Černocha – v křtu vnuka Tomáše 20. 9. 1846 uveden jako „† Josef Popp, domkář z Veřovic“ (M). Datum narození je odhad podle dcery (*~1820).",
+        "Žil 10. 2. 1834 jako domkář ve Veřovicích (č. 15 ?) a dal souhlas ke sňatku dcery Marianny; manželka tehdy uvedena „Rosine nach Johann Schrabek (?)“ (NJ XIV 3, pag. 84, sn. 44 vlevo; M)."
       ],
       sources: [
         "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 (křest vnuka Tomáše Černocha 20. 9. 1846) – https://digi.archives.cz"
@@ -11540,7 +11552,8 @@ window.RODOKMEN = {
       b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true},
       spouse: "josef_pp",
       notes: [
-        "Manželka Josefa Poppa, domkáře ve Veřovicích; matka Mariany Černochové. V křtu vnuka Tomáše 1846 „Theresie roz. Ja… (?) z Lit…dorf (?)“ – příjmení i obec nedočteny (M)."
+        "Manželka Josefa Poppa, domkáře ve Veřovicích; matka Mariany Černochové. V křtu vnuka Tomáše 1846 „Theresie roz. Ja… (?) z Lit…dorf (?)“ – příjmení i obec nedočteny (M).",
+        "ROZPOR: podle sňatku dcery Marianny 1834 byla její matkou Rosina, dcera Johanna Schrabka (?) – Theresie může být jiná (2.) manželka Josefa Popa (NJ XIV 3, pag. 84, sn. 44 vlevo; M)."
       ],
       sources: [
         "ZA Opava (NAD 165), fara Veřovice, sign. NJ XIV 2 (N 1826–1876), str. 260, snímek 135 (křest vnuka Tomáše Černocha 20. 9. 1846) – https://digi.archives.cz"
@@ -15963,49 +15976,136 @@ window.RODOKMEN = {
       b: {"date":"neznámé (asi 1731, podle věku při úmrtí)","year":1731,"approx":true},
       d: {"date":"VII 1791 (pohřben 6. 7. 1791)","year":1791,"place":"Veřovice č. p. 52"},
       cause: "souchotiny (Lungensucht)",
+      father: "pavel_grz0000",
       alive: false,
       occ: "zahradník (hortulanus, Gärtler) ve Veřovicích č. 52",
+      marriage: "4. 7. 1762, Veřovice – Josef Grossmann × Rosina Urbanowská",
       notes: [
         "Zahradník ve Veřovicích č. 52; otec Tomáše (pokřtěn I 1766: „Josephus Grosman hortul., Rosina“; NJ XVI 2, pag. 125, sn. 63 vpravo; M).",
+        "Oddáni 4. 7. 1762 ve Veřovicích: „Honestus Juvenis Josephus, Pauli Grosmann Hort[ulani] legit. filius, cum honesta Ancilla Rosina, def[unc]ti Andreae Urbanowsky fabri legit. filia“; svědci Joan. Beseda, rychtář, a Jos. Mathusch, domkář (NJ XVI 1, pag. 460, sn. 231 vlevo; M). Ztotožnění D: první dítě páru Marianna pokřtěna V 1764 („Jos: Grosmann Hort., Rosina“; NJ XVI 1, sn. 209 vlevo; M) – tedy před sňatkem druhého Josefa Grosmana (syn † Ondřeje, domkáře) s Rosinou Besedovou 13. 11. 1764; jiný sňatek Josef × Rosina XI 1755 – XI 1764 není.",
         "Zemřel v létě 1791, pohřben 6. 7. 1791 (lokální kaplan Benedikt …) ve Veřovicích č. 52: „Joseph Grossmann, Gärtler“, 60 let, souchotiny (NJ XIV 5, pag. 45, sn. 22 vpravo; M zápis; ztotožnění D).",
-        "KANDIDÁT sňatku (K+): 4. 7. 1762 ve Veřovicích „Honestus Juvenis Josephus, Pauli Grosmann Hort[ulani] legit. filius, cum honesta Ancilla Rosina, def[unc]ti Andreae Urbanowsky fabri legit. filia“; svědci Joan. Beseda, rychtář, a Jos. Mathusch, domkář (NJ XVI 1, pag. 460, sn. 231 vlevo; M zápis). Pro: ženich syn zahradníka jako náš Josef (zahradník 1766 a 1791); svědek sňatku Josefa Marka 1787 byl Johann Urbanowsky, kovář. Proti: 13. 11. 1764 se oženil jiný Josef Grosman, syn † Ondřeje, domkáře, s Rosinou, dcerou † rychtáře Jiřího Besedy (sn. 232 vlevo; M) – stav domkář spíš nesedí. Jiný sňatek Josef × Rosina XI 1755 – XI 1764 není.",
-        "Pavel Grosman (jeho otec podle sňatku 1762, K+) byl 1710–1720 stálým kmotrem dětí Václava Pitra – odtud nejspíš pokrevní příbuzenství, pro které měl syn Tomáš 1786 dispens k sňatku s Rosinou Pitrovou (hypotéza)."
+        "Pavel Grosman (jeho otec) byl 1710–1720 stálým kmotrem dětí Václava Pitra – odtud nejspíš pokrevní příbuzenství, pro které měl syn Tomáš 1786 dispens k sňatku s Rosinou Pitrovou (hypotéza)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 5 (Z 1784–1840), pag. 45, snímek 22 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 2 (N), pag. 125, snímek 63 vpravo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 1 (O), pag. 460, snímek 231 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 1 (O), pag. 460, snímek 231 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 1 (N), snímek 209 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1791_umrti_josef_grossmann.jpg","t":"Úmrtí Josefa Grossmanna, Veřovice 1791"},
         {"f":"img/1766_krest_tomas_grossmann.jpg","t":"Křest syna Tomáše, Veřovice 1766"},
-        {"f":"img/1762_snatek_josef_grosmann_rosina_urbanowska.jpg","t":"Sňatek Josefa Grosmanna a Rosiny Urbanowské (?), Veřovice 1762"}
+        {"f":"img/1762_snatek_josef_grosmann_rosina_urbanowska.jpg","t":"Sňatek Josefa Grosmanna a Rosiny Urbanowské (?), Veřovice 1762"},
+        {"f":"img/1764_krest_marianna_grossmannova.jpg","t":"Křest dcery Marianny, Veřovice V 1764"}
       ]
     },
     {
       id: "rosina_grz000",
       name: "Rosina Grossmannová",
-      maiden: "Urbanowská (?)",
+      maiden: "Urbanowská",
       line: "grozman",
       cert: "M",
       b: {"date":"neznámé (asi 1739, podle věku při úmrtí)","year":1739,"approx":true},
       d: {"date":"23. 8. 1797","year":1797,"place":"Veřovice č. p. 52"},
       cause: "horečka (hitziges Fieber)",
+      father: "ondrej_urb0",
       alive: false,
+      marriage: "4. 7. 1762, Veřovice – Josef Grossmann × Rosina Urbanowská",
       notes: [
-        "Matka Tomáše (pokřtěn I 1766: „Josephus Grosman hortul., Rosina“; NJ XVI 2, pag. 125, sn. 63 vpravo; M). Rodné příjmení podle kandidátního sňatku 1762 Urbanowská – dcera † Ondřeje Urbanowského, kováře (K+).",
-        "Zemřela 23. 8. 1797 (pohřbena 25. 8.) ve Veřovicích č. 52: „Rosina des seligen Joseph Grosman Bauers Eheweib“, 58 let, horečka (NJ XIV 5, pag. 70, sn. 35 vlevo; M zápis; ztotožnění D).",
-        "KANDIDÁT sňatku (K+): 4. 7. 1762 ve Veřovicích „Honestus Juvenis Josephus, Pauli Grosmann Hort[ulani] legit. filius, cum honesta Ancilla Rosina, def[unc]ti Andreae Urbanowsky fabri legit. filia“; svědci Joan. Beseda, rychtář, a Jos. Mathusch, domkář (NJ XVI 1, pag. 460, sn. 231 vlevo; M zápis). Pro: ženich syn zahradníka jako náš Josef (zahradník 1766 a 1791); svědek sňatku Josefa Marka 1787 byl Johann Urbanowsky, kovář. Proti: 13. 11. 1764 se oženil jiný Josef Grosman, syn † Ondřeje, domkáře, s Rosinou, dcerou † rychtáře Jiřího Besedy (sn. 232 vlevo; M) – stav domkář spíš nesedí. Jiný sňatek Josef × Rosina XI 1755 – XI 1764 není."
+        "Matka Tomáše (pokřtěn I 1766: „Josephus Grosman hortul., Rosina“; NJ XVI 2, pag. 125, sn. 63 vpravo; M) a Marianny (V 1764).",
+        "Oddáni 4. 7. 1762 ve Veřovicích: „Honestus Juvenis Josephus, Pauli Grosmann Hort[ulani] legit. filius, cum honesta Ancilla Rosina, def[unc]ti Andreae Urbanowsky fabri legit. filia“; svědci Joan. Beseda, rychtář, a Jos. Mathusch, domkář (NJ XVI 1, pag. 460, sn. 231 vlevo; M). Ztotožnění D: první dítě páru Marianna pokřtěna V 1764 („Jos: Grosmann Hort., Rosina“; NJ XVI 1, sn. 209 vlevo; M) – tedy před sňatkem druhého Josefa Grosmana (syn † Ondřeje, domkáře) s Rosinou Besedovou 13. 11. 1764; jiný sňatek Josef × Rosina XI 1755 – XI 1764 není.",
+        "Zemřela 23. 8. 1797 (pohřbena 25. 8.) ve Veřovicích č. 52: „Rosina des seligen Joseph Grosman Bauers Eheweib“, 58 let, horečka (NJ XIV 5, pag. 70, sn. 35 vlevo; M zápis; ztotožnění D)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 5 (Z 1784–1840), pag. 70, snímek 35 – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 2 (N), pag. 125, snímek 63 vpravo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 1 (O), pag. 460, snímek 231 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 1 (O), pag. 460, snímek 231 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 1 (N), snímek 209 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1797_umrti_rosina_grossmannova.jpg","t":"Úmrtí Rosiny Grossmannové, Veřovice 1797"},
         {"f":"img/1766_krest_tomas_grossmann.jpg","t":"Křest syna Tomáše, Veřovice 1766"},
-        {"f":"img/1762_snatek_josef_grosmann_rosina_urbanowska.jpg","t":"Sňatek s Josefem Grosmannem (?), Veřovice 1762"}
+        {"f":"img/1762_snatek_josef_grosmann_rosina_urbanowska.jpg","t":"Sňatek s Josefem Grosmannem (?), Veřovice 1762"},
+        {"f":"img/1764_krest_marianna_grossmannova.jpg","t":"Křest dcery Marianny, Veřovice V 1764"}
+      ]
+    },
+    {
+      id: "pavel_grz0000",
+      name: "Pavel Grosmann",
+      maiden: "",
+      line: "grozman",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1700)","year":1700,"approx":true},
+      alive: false,
+      occ: "zahradník (hortulanus) ve Veřovicích",
+      notes: [
+        "Zahradník ve Veřovicích; otec Josefa (× 4. 7. 1762: „Josephus, Pauli Grosmann Hort. legit. filius“; NJ XVI 1, pag. 460, sn. 231 vlevo; M). Žil ještě 1762 (neuveden jako zemřelý).",
+        "Nejspíš týž Pavel Grosman, který byl 1710–1720 stálým kmotrem dětí Václava Pitra ve Veřovicích (viz Josef Pitr) – odtud snad pokrevní příbuzenství, pro něž měl vnuk Tomáš 1786 dispens k sňatku s Rosinou Pitrovou (K).",
+        "Křest syna Josefa (~1729–1733) ve Veřovicích nenalezen: v N 1727–1732 nemá Pavel Grosman dítě (jen náhled; D)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 1 (O), pag. 460, snímek 231 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1762_snatek_josef_grosmann_rosina_urbanowska.jpg","t":"Sňatek syna Josefa, Veřovice 1762"}
+      ]
+    },
+    {
+      id: "ondrej_urb0",
+      name: "Ondřej Urbanowský",
+      maiden: "",
+      line: "grozman",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1705)","year":1705,"approx":true},
+      d: {"date":"před 4. 7. 1762","year":1762},
+      alive: false,
+      occ: "kovář (faber) ve Veřovicích",
+      notes: [
+        "Kovář ve Veřovicích; otec Rosiny (× 4. 7. 1762: „Rosina, defuncti Andreae Urbanowsky fabri legit. filia“; NJ XVI 1, pag. 460, sn. 231 vlevo; M) – tehdy už nežil. Kovářem ve Veřovicích byl i Johann Urbanowsky (svědek 1787 a 1834)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Životice (obec Veřovice), sign. NJ XVI 1 (O), pag. 460, snímek 231 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1762_snatek_josef_grosmann_rosina_urbanowska.jpg","t":"Sňatek dcery Rosiny, Veřovice 1762"}
+      ]
+    },
+    {
+      id: "josef_ce00",
+      name: "Josef Černoch",
+      maiden: "",
+      line: "cernoch",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1785)","year":1785,"approx":true},
+      d: {"date":"před 10. 2. 1834","year":1834},
+      alive: false,
+      occ: "domkář ve Veřovicích",
+      notes: [
+        "Domkář ve Veřovicích; otec Jana (× 10. 2. 1834: „Johann, Sohn nach Joseph Czernoch, Häuslern“ – tehdy už nežil, ženich se ženil se svolením vrchního poručenství; NJ XIV 3, pag. 84, sn. 44 vlevo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek syna Jana, Veřovice 1834"}
+      ]
+    },
+    {
+      id: "anna_hr00",
+      name: "Anna Černochová",
+      maiden: "Horáková (?)",
+      line: "cernoch",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Jana Černocha (× 10. 2. 1834: „der Anne nach Martin Horak (?), Müllers Tochter“ – dcera mlynáře Martina Horáka (?), příjmení čteno nejistě; NJ XIV 3, pag. 84, sn. 44 vlevo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1858), pag. 84, snímek 44 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1834_snatek_jan_cernoch_marianna_popova.jpg","t":"Sňatek syna Jana, Veřovice 1834"}
       ]
     }
   ]
