@@ -15869,7 +15869,8 @@ window.RODOKMEN = {
       notes: [
         "Zahradník ve Veřovicích č. 52; otec Jana (*2. 4. 1787) s manželkou Rosinou, dcerou Georga Seiferta (?) (NJ XIV 1, pag. 26, sn. 14 vlevo; M; ztotožnění syna D).",
         "Oddán 14. 10. 1786 ve Veřovicích (č. 52): „Thomas Grossmann, Gärtler, cum dispens. in 3tio gradu consang.“, 22 let, svobodný × „Rosina Pitrin, Gärtlers Tochter“, 25 let, svobodná; svědci Johann Barton (?), sedlák, a Johann Gur… (?), zahradník (NJ XIV 3, sn. 4 vpravo; M) – rodiče snoubenců zápis neuvádí; ženich a nevěsta byli pokrevní příbuzní ve 3. stupni.",
-        "Podle rejstříku N měla rodina v č. 52 i děti Anna (1789), Tomáš (1791 – snad pozdější Thomas Grossmann z č. 81), Josef (1795), Jiří (1797) a Rosina (1801) (rejstřík NJ XIV 1, sn. 147 vpravo; D)."
+        "Podle rejstříku N měla rodina v č. 52 i děti Anna (1789), Tomáš (1791 – snad pozdější Thomas Grossmann z č. 81), Josef (1795), Jiří (1797) a Rosina (1801) (rejstřík NJ XIV 1, sn. 147 vpravo; D).",
+        "KANDIDÁT křtu (K+): Thomas, syn Josepha Grosmana, zahradníka (hortulanus), a Rosiny, pokřtěn I 1766 (1.–11. 1.) ve Veřovicích; kmotři Joannes Kozian (?), domkář, a Rosina, manželka Josepha Křížka (?) (ZA Opava, fara Životice, NJ XVI 2, pag. 125, sn. 63 vpravo; M zápis). Jediný Thomas s otcem Grossmannem ve Veřovicích 1755–1770; ROZPOR: při sňatku 1786 uvedeno 22 let (*~1764)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 26, snímek 14 – https://digi.archives.cz",
@@ -15892,7 +15893,7 @@ window.RODOKMEN = {
       notes: [
         "Oddána 14. 10. 1786 ve Veřovicích s Tomášem Grossmannem, zahradníkem č. 52: „Rosina Pitrin, Gärtlers Tochter“, 25 let (NJ XIV 3, sn. 4 vpravo; M) – dcera zahradníka Pitra; s ženichem pokrevně příbuzná ve 3. stupni (dispens).",
         "Matka Jana (*2. 4. 1787, Veřovice č. 52) – v křestním zápisu čteno „Rosina, Georg Seifert (?) Tochter“; podle sňatku 1786 spíš „Georg Piter“ (?) (NJ XIV 1, pag. 26, sn. 14 vlevo; M) – ROZPOR čtení, jméno otce Georg nejisté.",
-        "Hypotéza (K): Pitrové byli ve Veřovicích zahradníci (Josef Pitr, zahradník č. 29, × 1752 Rosina Černochová) a Pavel Grosman byl stálým kmotrem dětí Václava Pitra 1710–1720 – odtud snad pokrevní příbuzenství; vazba Rosiny na tyto Pitry neověřena."
+        "KANDIDÁTKA křtu (K+): Rosina, dcera Josepha Pytera, zahradníka (hortulanus), a Rosiny, pokřtěna 8. 7. 1765 ve Veřovicích; kmotři Joannes Mathusch (?) a Anna, manželka Joanna … (ZA Opava, fara Životice, NJ XVI 1, sn. 210 vlevo; M zápis). Otec = nejspíš Josef Pitr, zahradník č. 29, × 1752 Rosina Černochová (v rodokmenu). Starší sestra Rosina († 15. 9. 1762, 5 let; NJ XVI 1 sn. 253 vpravo; M) – jméno pak dáno znovu. ROZPOR: při sňatku 1786 uvedeno 25 let (*~1761). Vazba na rodiče zatím nezapsána."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 26, snímek 14 – https://digi.archives.cz",
