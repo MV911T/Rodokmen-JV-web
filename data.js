@@ -15793,21 +15793,25 @@ window.RODOKMEN = {
       maiden: "",
       line: "grozman",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1790)","year":1790,"approx":true},
+      b: {"date":"neznámé (asi 1786, podle věku při úmrtí)","year":1786,"approx":true},
+      d: {"date":"13. 12. 1846","year":1846,"place":"Veřovice č. p. 52"},
+      cause: "souchotiny (Lungensucht)",
       alive: false,
-      occ: "sedlák ve Veřovicích",
+      occ: "sedlák (1822), zahradník (1846) ve Veřovicích č. 52",
       notes: [
         "Sedlák ve Veřovicích č. 52; otec Josefa (*18. 3. 1822) – „Johann Grossmann, Bauer“ s manželkou Magdalenou, dcerou Josepha Marka, domkáře (křest syna, NJ XIV 1, pag. 246, sn. 123 vlevo; M). Totéž uvádí úmrtní zápis Josefa 1894 (NJ XIV 9, str. 122).",
-        "Sňatek s Magdalenou Markovou ve Veřovicích 1807–1829 NENÍ (O NJ XIV 3, Opava N1 + N6; D). Možný kandidát (K, nesouhlasí jméno manželky): Johann, syn † Johanna Grossmanna, domkáře ve Veřovicích, 22 let, × 10. 11. 1812 (č. 177) Anna, dcera † Johanna Hikla (?), mlynáře, 30 let; svědek Johann Marek, sedlák (NJ XIV 3, sn. 22 vlevo, fol. 40; M zápis). Jeho bratr Franz × 9. 6. 1812 Anna Černochová (sn. 21 vpravo).",
-        "Otevřené (K): Johann Grossmann, domkář č. 111, syn † Johanna, × 10. 11. 1812 Anna Hikl (?) – dcera Marianna 20. 7. 1813 (NJ XIV 1, fol. 199, sn. 99 vpravo; M) – může být týž muž v 1. manželství, nebo jiný Johann."
+        "Zemřel 13. 12. 1846 (pohřben 15. 12., Johann Waniek, Lokalist) ve Veřovicích č. 52: „Johann Grossmann, Gärtler in Wernsdorf“, 60 let, souchotiny (NJ XIV 6, pag. 37, sn. 19 vpravo; M zápis; ztotožnění D – týž dům, vdova Magdalena 1848).",
+        "Sňatek s Magdalenou Markovou ve Veřovicích 1797–1829 NENÍ (O NJ XIV 3, Opava N1 + N6; úsek VI 1804 – 1806 neprověřen; D) – podle věku manželky asi 1810–1821, snad mimo Veřovice."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 246, snímek 123 vlevo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 122, snímek 62 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 122, snímek 62 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 6 (Z 1841–1882), pag. 37, snímek 19 – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1822_krest_josef_grozman.jpg","t":"Křest syna Josefa, Veřovice 1822"},
-        {"f":"img/1894_umrti_josef_grozman.jpg","t":"Úmrtí syna Josefa, Veřovice 1894"}
+        {"f":"img/1894_umrti_josef_grozman.jpg","t":"Úmrtí syna Josefa, Veřovice 1894"},
+        {"f":"img/1846_umrti_jan_grozman.jpg","t":"Úmrtí Jana Grossmanna, Veřovice 13. 12. 1846"}
       ]
     },
     {
@@ -15816,18 +15820,24 @@ window.RODOKMEN = {
       maiden: "Marková",
       line: "grozman",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1795)","year":1795,"approx":true,"place":"Veřovice"},
+      b: {"date":"neznámé (asi 1792, podle věku při úmrtí)","year":1792,"approx":true,"place":"Veřovice"},
+      d: {"date":"23. 3. 1848","year":1848,"place":"Veřovice č. p. 52"},
+      cause: "tyfus",
       alive: false,
       notes: [
-        "Dcera Josefa Marka, domkáře ve Veřovicích; manželka Jana Grossmanna, sedláka č. 52; matka Josefa (*18. 3. 1822) (křest syna, NJ XIV 1, pag. 246, sn. 123 vlevo; M). Sňatek ve Veřovicích 1797–1829 nenalezen (O NJ XIV 3; úsek VI 1804 – 1806 neprověřen)."
+        "Dcera Josefa Marka, domkáře ve Veřovicích; manželka Jana Grossmanna, sedláka č. 52; matka Josefa (*18. 3. 1822) (křest syna, NJ XIV 1, pag. 246, sn. 123 vlevo; M). Sňatek ve Veřovicích 1797–1829 nenalezen (O NJ XIV 3; úsek VI 1804 – 1806 neprověřen).",
+        "Zemřela 23. 3. 1848 (pohřbena 25. 3., Johann Waniek, Lokalist) ve Veřovicích č. 52: „Magdalena, Witwe nach dem verstorbenen Johann Grossmann, Gärtler in Wernsdorf“, 56 let, tyfus (NJ XIV 6, pag. 56, sn. 29 vlevo; M zápis; ztotožnění D – rodné příjmení neuvedeno).",
+        "Snad sestra Anny, manželky Thomase Grossmanna (č. 81), také „des Joseph Marek, Häuslers Tochter“ (děti 1821–1824; D, vazba K)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 246, snímek 123 vlevo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 122, snímek 62 – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 9 (Z 1883–1914), str. 122, snímek 62 – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 6 (Z 1841–1882), pag. 56, snímek 29 – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1822_krest_josef_grozman.jpg","t":"Křest syna Josefa, Veřovice 1822"},
-        {"f":"img/1894_umrti_josef_grozman.jpg","t":"Úmrtí syna Josefa, Veřovice 1894"}
+        {"f":"img/1894_umrti_josef_grozman.jpg","t":"Úmrtí syna Josefa, Veřovice 1894"},
+        {"f":"img/1848_umrti_magdalena_grozmanova.jpg","t":"Úmrtí Magdaleny Grossmannové, Veřovice 23. 3. 1848"}
       ]
     }
   ]
