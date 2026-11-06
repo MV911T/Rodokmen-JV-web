@@ -15832,6 +15832,8 @@ window.RODOKMEN = {
       b: {"date":"15. 10. 1796","year":1796,"place":"Veřovice č. p. 81"},
       d: {"date":"23. 3. 1848","year":1848,"place":"Veřovice č. p. 52"},
       cause: "tyfus",
+      father: "josef_mrk00",
+      mother: "anna_mrk00",
       alive: false,
       marriage: "17. 11. 1812, Veřovice – Jan Grossmann × Magdalena Marková",
       notes: [
@@ -15899,6 +15901,40 @@ window.RODOKMEN = {
       scans: [
         {"f":"img/1787_krest_jan_grozman.jpg","t":"Křest syna Jana, Veřovice 1787"},
         {"f":"img/1786_snatek_tomas_grossmann_rosina_pitrova.jpg","t":"Sňatek s Tomášem Grossmannem, Veřovice 1786"}
+      ]
+    },
+    {
+      id: "josef_mrk00",
+      name: "Josef Marek",
+      maiden: "",
+      line: "grozman",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      alive: false,
+      occ: "domkář (Häusler) ve Veřovicích č. 81",
+      notes: [
+        "Domkář ve Veřovicích č. 81; otec Magdaleny (*15. 10. 1796) s manželkou Annou (NJ XIV 1, pag. 112, sn. 57 vlevo; M) a Anny (*25. 5. 1792 č. 81; D). Obě dcery se 17. 11. 1812 vdaly za bratry Jana a Tomáše Grossmannovy (NJ XIV 3, fol. 40, sn. 22 vlevo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 112, snímek 57 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1812_snatek_jan_grozman_magdalena_markova.jpg","t":"Sňatek dcery Magdaleny, Veřovice 1812"}
+      ]
+    },
+    {
+      id: "anna_mrk00",
+      name: "Anna Marková",
+      maiden: "",
+      line: "grozman",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Magdaleny (*15. 10. 1796, Veřovice č. 81), manželka domkáře Josefa Marka (NJ XIV 1, pag. 112, sn. 57 vlevo; M) – rodné příjmení v zápisu čteno nejistě."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 112, snímek 57 vlevo – https://digi.archives.cz"
       ]
     }
   ]
