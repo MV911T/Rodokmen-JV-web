@@ -1,6 +1,7 @@
 # Deploys the static site to GitHub Pages.
-# Replaces the legacy "deploy from branch" pipeline, whose deploy step has a fixed
-# 10-minute timeout and failed repeatedly while syncing ~150 MB of scans.
+# Pages deployments occasionally fail on GitHub's side ("Deployment failed, try again later",
+# or a stuck "syncing_files" status), so the deploy step is retried up to three times before
+# the run is marked as failed. deploy-pages caps its own timeout at 10 minutes.
 name: Deploy Pages
 
 on:
@@ -24,15 +25,33 @@ jobs:
     timeout-minutes: 45
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.attempt1.outputs.page_url || steps.attempt2.outputs.page_url || steps.attempt3.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
-      - id: deployment
+
+      - id: attempt1
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+        with:
+          timeout: 600000
+
+      - if: steps.attempt1.outcome == 'failure'
+        run: sleep 90
+      - id: attempt2
+        if: steps.attempt1.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+        with:
+          timeout: 600000
+
+      - if: steps.attempt1.outcome == 'failure' && steps.attempt2.outcome == 'failure'
+        run: sleep 180
+      - id: attempt3
+        if: steps.attempt1.outcome == 'failure' && steps.attempt2.outcome == 'failure'
         uses: actions/deploy-pages@v4
         with:
-          timeout: 1800000
-          reporting_interval: 15000
+          timeout: 600000
