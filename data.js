@@ -16725,20 +16725,25 @@ window.RODOKMEN = {
       maiden: "",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      b: {"date":"neznámé (asi 1750, podle věku při sňatku)","year":1750,"approx":true},
+      father: "andreas_gb000",
       alive: false,
       occ: "sedlák (?) v Polomi",
+      marriage: "29. 6. 1773, Polom – Antonín Gabl × Magdalena Gablová",
       notes: [
         "Otec Terezie (× 8. 7. 1800: „Theresia, Tochter des Anton Kubl (?) v. Pohl“; L II 12, pag. 13, sn. 46 vpravo; M); snad týž Anton Kubl, svědek sňatku. Příjmení čteno nejistě (Kubl/Kabl).",
-        "Sedlák v Polomi č. 46 (1779); otec Terezie (pokřtěna 17. 9. 1779: „Antonius Gabl, Rust., et Magdalena uxor“; L II 5, sn. 167 vlevo; M). Snad i dítě „Antonius Gabl et Magdalena“ 1775 (sn. 144 vpravo, nečteno). Kmotr Wenceslaus Gabl, výměnkář – snad jeho otec (K)."
+        "Sedlák v Polomi č. 46 (1779); otec Terezie (pokřtěna 17. 9. 1779: „Antonius Gabl, Rust., et Magdalena uxor“; L II 5, sn. 167 vlevo; M). Snad i dítě „Antonius Gabl et Magdalena“ 1775 (sn. 144 vpravo, nečteno). Kmotr Wenceslaus Gabl, výměnkář – snad jeho otec (K).",
+        "Oddáni 29. 6. 1773 v Polomi (kooperátor Joannes Konal): „Honestus juvenis Antonius, post defunctum Andream Gabl Rust. sub Nro 40 superstes filius, 23 annorum, Pohlomio, cum honesta Magdalena, Davidis Gabl Sculteti filia Lutschicio“; svědci Mathias Kipper z Blattendorfu a Laurentius Michalek z Polomi (L II 5, sn. 254 vlevo; M). Ztotožnění D: dcera Terezie *1779 má rodiče Antonius Gabl × Magdalena; jiný Antonín Gabl × Magdalena zde není. Počáteční G/K/R příjmení v kurentu nejisté."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 12 (O 1784–1813), oddíl Pohl, pag. 13, snímek 46 vpravo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 167 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 167 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 254 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1800_snatek_franz_seibert_theresia_kublova.jpg","t":"Sňatek dcery Terezie, Polom 1800"},
-        {"f":"img/1779_krest_theresia_gablova.jpg","t":"Křest dcery Terezie, Polom 1779"}
+        {"f":"img/1779_krest_theresia_gablova.jpg","t":"Křest dcery Terezie, Polom 1779"},
+        {"f":"img/1773_snatek_anton_gabl_magdalena_gablova.jpg","t":"Sňatek Antonína Gabla a Magdaleny, Polom 1773"}
       ]
     },
     {
@@ -16748,34 +16753,44 @@ window.RODOKMEN = {
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      father: "jiri_kl000",
       alive: false,
       occ: "sedlák v Polomi",
+      marriage: "23. 5. (?) 1768, Polom – Václav Klösel × Magdalena Dittrichová",
       notes: [
-        "Sedlák v Polomi (č. 22 v r. 1777); otec Jiřího (pokřtěn 16. 4. 1777: „Wenceslaus Klesl, Rusticus, et Magdalena eius uxor“; L II 5, sn. 153 vpravo; M). Jeho žena Magdalena byla 1778 kmotrou Magdaleny Nitschmannové, budoucí snachy."
+        "Sedlák v Polomi (č. 22 v r. 1777); otec Jiřího (pokřtěn 16. 4. 1777: „Wenceslaus Klesl, Rusticus, et Magdalena eius uxor“; L II 5, sn. 153 vpravo; M). Jeho žena Magdalena byla 1778 kmotrou Magdaleny Nitschmannové, budoucí snachy.",
+        "Oddáni 23. 5. (?) 1768 v Polomi (měsíc podle nadpisu „In Majo“ na předchozí straně): „Copulatus est honestus juvenis Wenceslaus, post defunctum Georgium Klösl Rusticum superstes filius, cum honesta Magdalena, Wenceslai Dittrich Rust. filia Pohlomio“; svědci Jos. Gabl a Antonius Kainer z Polomi (L II 5, sn. 239 vpravo; M). Ztotožnění D: syn Jiří *1777 má rodiče Václav Klesl × Magdalena."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 153 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 153 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 239 vpravo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1777_krest_georg_klosel.jpg","t":"Křest syna Jiřího, Polom 1777"}
+        {"f":"img/1777_krest_georg_klosel.jpg","t":"Křest syna Jiřího, Polom 1777"},
+        {"f":"img/1768_snatek_vaclav_klosel_magdalena_dittrichova.jpg","t":"Sňatek Václava Klösela a Magdaleny Dittrichové, Polom 1768"}
       ]
     },
     {
       id: "magdalena_kl00",
       name: "Magdalena Klöselová",
-      maiden: "",
+      maiden: "Dittrichová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      father: "vaclav_dt000",
       alive: false,
+      marriage: "23. 5. (?) 1768, Polom – Václav Klösel × Magdalena Dittrichová",
       notes: [
-        "Matka Jiřího Klösela (pokřtěn 16. 4. 1777, Polom č. 22; L II 5, sn. 153 vpravo; M); 6. 10. 1778 kmotra Magdaleny Nitschmannové („Magdalena, Wenceslai Klesl Rustici uxor“; sn. 162 vpravo; M). Rodné příjmení neznámé."
+        "Matka Jiřího Klösela (pokřtěn 16. 4. 1777, Polom č. 22; L II 5, sn. 153 vpravo; M); 6. 10. 1778 kmotra Magdaleny Nitschmannové („Magdalena, Wenceslai Klesl Rustici uxor“; sn. 162 vpravo; M).",
+        "Oddáni 23. 5. (?) 1768 v Polomi (měsíc podle nadpisu „In Majo“ na předchozí straně): „Copulatus est honestus juvenis Wenceslaus, post defunctum Georgium Klösl Rusticum superstes filius, cum honesta Magdalena, Wenceslai Dittrich Rust. filia Pohlomio“; svědci Jos. Gabl a Antonius Kainer z Polomi (L II 5, sn. 239 vpravo; M). Ztotožnění D: syn Jiří *1777 má rodiče Václav Klesl × Magdalena."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 153 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 153 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 239 vpravo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1777_krest_georg_klosel.jpg","t":"Křest syna Jiřího, Polom 1777"}
+        {"f":"img/1777_krest_georg_klosel.jpg","t":"Křest syna Jiřího, Polom 1777"},
+        {"f":"img/1768_snatek_vaclav_klosel_magdalena_dittrichova.jpg","t":"Sňatek s Václavem Klöselem, Polom 1768"}
       ]
     },
     {
@@ -16875,19 +16890,102 @@ window.RODOKMEN = {
     {
       id: "magdalena_gb00",
       name: "Magdalena Gablová",
-      maiden: "",
+      maiden: "Gablová",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1755)","year":1755,"approx":true},
+      father: "david_gb000",
       alive: false,
+      marriage: "29. 6. 1773, Polom – Antonín Gabl × Magdalena Gablová",
       notes: [
-        "Matka Terezie (pokřtěna 17. 9. 1779, Polom č. 46: „Antonius Gabl, Rust., et Magdalena uxor“; L II 5, sn. 167 vlevo; M). Rodné příjmení neznámé."
+        "Matka Terezie (pokřtěna 17. 9. 1779, Polom č. 46: „Antonius Gabl, Rust., et Magdalena uxor“; L II 5, sn. 167 vlevo; M).",
+        "Oddáni 29. 6. 1773 v Polomi (kooperátor Joannes Konal): „Honestus juvenis Antonius, post defunctum Andream Gabl Rust. sub Nro 40 superstes filius, 23 annorum, Pohlomio, cum honesta Magdalena, Davidis Gabl Sculteti filia Lutschicio“; svědci Mathias Kipper z Blattendorfu a Laurentius Michalek z Polomi (L II 5, sn. 254 vlevo; M). Ztotožnění D: dcera Terezie *1779 má rodiče Antonius Gabl × Magdalena; jiný Antonín Gabl × Magdalena zde není. Počáteční G/K/R příjmení v kurentu nejisté."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 167 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 167 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 254 vlevo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1779_krest_theresia_gablova.jpg","t":"Křest dcery Terezie, Polom 1779"}
+        {"f":"img/1779_krest_theresia_gablova.jpg","t":"Křest dcery Terezie, Polom 1779"},
+        {"f":"img/1773_snatek_anton_gabl_magdalena_gablova.jpg","t":"Sňatek s Antonínem Gablem, Polom 1773"}
+      ]
+    },
+    {
+      id: "jiri_kl000",
+      name: "Jiří Klösel (Klösl)",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      d: {"date":"před V 1768","year":1768},
+      alive: false,
+      occ: "sedlák v Polomi",
+      notes: [
+        "Sedlák v Polomi; otec Václava (× V 1768: „Wenceslaus, post defunctum Georgium Klösl Rusticum superstes filius“ – tehdy už nežil; L II 5, sn. 239 vpravo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 239 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1768_snatek_vaclav_klosel_magdalena_dittrichova.jpg","t":"Sňatek syna Václava, Polom 1768"}
+      ]
+    },
+    {
+      id: "vaclav_dt000",
+      name: "Václav Dittrich",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1715)","year":1715,"approx":true},
+      alive: false,
+      occ: "sedlák v Polomi",
+      notes: [
+        "Sedlák v Polomi; otec Magdaleny (× V 1768 s Václavem Klöselem: „Magdalena, Wenceslai Dittrich Rust. filia Pohlomio“; L II 5, sn. 239 vpravo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 239 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1768_snatek_vaclav_klosel_magdalena_dittrichova.jpg","t":"Sňatek dcery Magdaleny, Polom 1768"}
+      ]
+    },
+    {
+      id: "andreas_gb000",
+      name: "Ondřej Gabl",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
+      d: {"date":"před 29. 6. 1773","year":1773},
+      alive: false,
+      occ: "sedlák v Polomi č. 40",
+      notes: [
+        "Sedlák v Polomi č. 40; otec Antonína (× 29. 6. 1773: „Antonius, post defunctum Andream Gabl Rust. sub Nro 40 superstes filius“ – tehdy už nežil; L II 5, sn. 254 vlevo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 254 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1773_snatek_anton_gabl_magdalena_gablova.jpg","t":"Sňatek syna Antonína, Polom 1773"}
+      ]
+    },
+    {
+      id: "david_gb000",
+      name: "David Gabl",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1720)","year":1720,"approx":true},
+      alive: false,
+      occ: "rychtář (scultetus) v Lučicích",
+      notes: [
+        "Rychtář v Lučicích (Lutschitz); otec Magdaleny (× 29. 6. 1773 s Antonínem Gablem z Polomi: „Magdalena, Davidis Gabl Sculteti filia Lutschicio“; L II 5, sn. 254 vlevo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 254 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1773_snatek_anton_gabl_magdalena_gablova.jpg","t":"Sňatek dcery Magdaleny, Polom 1773"}
       ]
     }
   ]
