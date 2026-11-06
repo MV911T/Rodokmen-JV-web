@@ -15909,32 +15909,43 @@ window.RODOKMEN = {
       maiden: "",
       line: "grozman",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      b: {"date":"neznámé (asi 1755, podle věku při sňatku)","year":1755,"approx":true},
       alive: false,
       occ: "domkář (Häusler) ve Veřovicích č. 81",
+      marriage: "29. 5. 1787, Veřovice – Josef Marek × Anna Čeková (?)",
       notes: [
-        "Domkář ve Veřovicích č. 81; otec Magdaleny (*15. 10. 1796) s manželkou Annou (NJ XIV 1, pag. 112, sn. 57 vlevo; M) a Anny (*25. 5. 1792 č. 81; D). Obě dcery se 17. 11. 1812 vdaly za bratry Jana a Tomáše Grossmannovy (NJ XIV 3, fol. 40, sn. 22 vlevo; M)."
+        "Domkář ve Veřovicích č. 81; otec Magdaleny (*15. 10. 1796) s manželkou Annou (NJ XIV 1, pag. 112, sn. 57 vlevo; M) a Anny (*25. 5. 1792 č. 81; D). Obě dcery se 17. 11. 1812 vdaly za bratry Jana a Tomáše Grossmannovy (NJ XIV 3, fol. 40, sn. 22 vlevo; M).",
+        "Oddáni 29. 5. 1787 ve Veřovicích (č. 81, oddával lokální kaplan): „Joseph Marek, Häusler“, 32 let (číslice 3 přepsaná, snad z 22), svobodný × „Anna Czekin (?), Häuslers Tochter“, 21 let, svobodná; svědci Johann Urbanowsky (?), kovář, a Johann Kozielek (?), domkář (NJ XIV 3, pag. 6, sn. 5 vlevo; M zápis; ztotožnění D – týž dům č. 81 a stav domkář jako u dcer 1792 a 1796). Rodiče snoubenců starý formulář neuvádí.",
+        "Ve Veřovicích žily 1755–1760 tři páry Josephus Marek, domkář (s manželkami Rosina, Anna, Catharina) – jeho rodiče zatím nejisté (Opava N11; D)."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 112, snímek 57 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 112, snímek 57 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1829), pag. 6, snímek 5 vlevo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1812_snatek_jan_grozman_magdalena_markova.jpg","t":"Sňatek dcery Magdaleny, Veřovice 1812"}
+        {"f":"img/1812_snatek_jan_grozman_magdalena_markova.jpg","t":"Sňatek dcery Magdaleny, Veřovice 1812"},
+        {"f":"img/1787_snatek_josef_marek_anna.jpg","t":"Sňatek Josefa Marka a Anny, Veřovice 29. 5. 1787"}
       ]
     },
     {
       id: "anna_mrk00",
       name: "Anna Marková",
-      maiden: "",
+      maiden: "Čeková (?)",
       line: "grozman",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      b: {"date":"neznámé (asi 1766, podle věku při sňatku)","year":1766,"approx":true},
       alive: false,
+      marriage: "29. 5. 1787, Veřovice – Josef Marek × Anna Čeková (?)",
       notes: [
-        "Matka Magdaleny (*15. 10. 1796, Veřovice č. 81), manželka domkáře Josefa Marka (NJ XIV 1, pag. 112, sn. 57 vlevo; M) – rodné příjmení v zápisu čteno nejistě."
+        "Matka Magdaleny (*15. 10. 1796, Veřovice č. 81), manželka domkáře Josefa Marka (NJ XIV 1, pag. 112, sn. 57 vlevo; M) – rodné příjmení v zápisu čteno nejistě.",
+        "Oddáni 29. 5. 1787 ve Veřovicích (č. 81, oddával lokální kaplan): „Joseph Marek, Häusler“, 32 let (číslice 3 přepsaná, snad z 22), svobodný × „Anna Czekin (?), Häuslers Tochter“, 21 let, svobodná; svědci Johann Urbanowsky (?), kovář, a Johann Kozielek (?), domkář (NJ XIV 3, pag. 6, sn. 5 vlevo; M zápis; ztotožnění D – týž dům č. 81 a stav domkář jako u dcer 1792 a 1796). Rodiče snoubenců starý formulář neuvádí."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 112, snímek 57 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 1 (N), pag. 112, snímek 57 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Veřovice, sign. NJ XIV 3 (O 1784–1829), pag. 6, snímek 5 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1787_snatek_josef_marek_anna.jpg","t":"Sňatek s Josefem Markem, Veřovice 1787"}
       ]
     }
   ]
