@@ -9863,23 +9863,29 @@ window.RODOKMEN = {
       name: "František Stanzel",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
+      b: {"date":"neznámé (asi 1795, podle věku při sňatku)","year":1795,"approx":true,"place":"Polom (?)"},
+      father: "thomas_st0",
+      mother: "regina_ku0",
       spouse: "magdalena_kl",
+      marriage: "27. 9. 1830, Polom – František Stanzel × Magdalena Klöselová",
       notes: [
         "Sedlák v Polomi (Pohl); manželka Magdalena roz. Klösel; děti Beata (*22. 1. 1843, č. 48) a Franz (× 8. 11. 1859). Jméno Franz potvrzeno křtem Beaty 1843 a jejím sňatkem 1859 („Josef“ v křtu vnučky 1860 je chyba).",
+        "Oddáni 27. 9. 1830 v Polomi č. 48 (farář Wenzel Zawischka): „Franz Stenzel, Sohn des Thomas Stenzel, Bauers von Pohl, und der Mutter Regina gebornen Anton Kutscher von Lutschitz“, 35 (?) let × „Magdalena, Tochter des Georg Klösel, Bauers, und der Mutter Magdalena gebornen Joseph Nitschmann, alle von Pohl“, 22 let (nezletilá, souhlas otce); svědci Karl Zebel (?) a Franz Haase (?) (L II 13, sn. 111 vpravo; M).",
         "OPRAVA: dříve veden jako „Josef Wenzel“ (chybné čtení).",
-        "Sňatek s Magdalenou Klöselovou v Polomi 1816–1841 (L II 13, sn. 101–126) NENÍ (Opava N24, D-). Anton Klösel, syn † Georga, sedláka z Polomi, se ženil ~1835 (sn. 119 vlevo; K) – snad bratr Magdaleny.",
-        "Další děti s Magdalenou Klöselovou v Polomi č. 48: Thomas 1831 (nejstarší nalezené; rejstřík, D), Theresia 1833 (D), Franz Xaver *22. 12. 1836 (L II 7, sn. 216 vlevo; M) → sňatek ~1829–1831."
+        "Další děti s Magdalenou Klöselovou v Polomi č. 48: Thomas 1831 (nejstarší nalezené; rejstřík, D), Theresia 1833 (D), Franz Xaver *22. 12. 1836 (L II 7, sn. 216 vlevo; M) → sňatek ~1829–1831.",
+        "N24 sňatek 1830 v montáži přehlédla (čtla „Wenzel“ místo „Stenzel“)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, N 1814–1846 (sign. L II 7), oddíl Pohl, fol. 119, snímek 229 vpravo (22. 1. 1843) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, N 1814–1846 (sign. L II 7), oddíl Pohl, fol. 119, snímek 229 vpravo (22. 1. 1843) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 111 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1843_N_Stanzel_Beata_Polom48.jpg","t":"Křest Beaty Stanzlové, Polom č. 48, 22. 1. 1843"},
         {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"},
-        {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"}
+        {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"},
+        {"f":"img/1830_snatek_franz_stanzel_magdalena_kloselova.jpg","t":"Sňatek Františka Stanzela a Magdaleny Klöselové, Polom 27. 9. 1830"}
       ]
     },
     {
@@ -9888,19 +9894,25 @@ window.RODOKMEN = {
       maiden: "Klösel (Klose)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      b: {"date":"neznámé (asi 1808, podle věku při sňatku)","year":1808,"approx":true,"place":"Polom"},
+      father: "georg_kl0",
+      mother: "magdalena_nt0",
       spouse: "josef_we",
+      marriage: "27. 9. 1830, Polom – František Stanzel × Magdalena Klöselová",
       notes: [
-        "Dcera † Georga Klösela (Klose), sedláka v Polomi (křest dcery Beaty 1843, její sňatek 1859); manželka Franze Stanzela."
+        "Dcera † Georga Klösela (Klose), sedláka v Polomi (křest dcery Beaty 1843, její sňatek 1859); manželka Franze Stanzela.",
+        "Oddáni 27. 9. 1830 v Polomi č. 48 (farář Wenzel Zawischka): „Franz Stenzel, Sohn des Thomas Stenzel, Bauers von Pohl, und der Mutter Regina gebornen Anton Kutscher von Lutschitz“, 35 (?) let × „Magdalena, Tochter des Georg Klösel, Bauers, und der Mutter Magdalena gebornen Joseph Nitschmann, alle von Pohl“, 22 let (nezletilá, souhlas otce); svědci Karl Zebel (?) a Franz Haase (?) (L II 13, sn. 111 vpravo; M)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik, fara Bělotín, N Polom (sign. L II 11), pag. 68, snímek 36 vlevo – https://digi.archives.cz",
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, N 1814–1846 (sign. L II 7), oddíl Pohl, fol. 119, snímek 229 vpravo (22. 1. 1843) – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, N 1814–1846 (sign. L II 7), oddíl Pohl, fol. 119, snímek 229 vpravo (22. 1. 1843) – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 111 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1860_N_Andersova_Magdalena_Polom.jpg","t":"Křest Magdaleny Andersové, Polom č. 31, 21. 4. 1860"},
-        {"f":"img/1843_N_Stanzel_Beata_Polom48.jpg","t":"Křest Beaty Stanzlové, Polom č. 48, 22. 1. 1843"}
+        {"f":"img/1843_N_Stanzel_Beata_Polom48.jpg","t":"Křest Beaty Stanzlové, Polom č. 48, 22. 1. 1843"},
+        {"f":"img/1830_snatek_franz_stanzel_magdalena_kloselova.jpg","t":"Sňatek s Františkem Stanzelem, Polom 1830"}
       ]
     },
     {
@@ -10346,39 +10358,51 @@ window.RODOKMEN = {
       name: "Johann Anders",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1805)","year":1805,"approx":true},
+      b: {"date":"neznámé (asi 1792, podle věku při sňatku)","year":1792,"approx":true},
+      father: "michael_an0",
+      mother: "elisabeth_lb0",
       spouse: "magdalena_pr",
+      marriage: "20. 11. 1827, Polom – Johann Anders × Magdalena Tribrechtová (?)",
       notes: [
         "Podruh (1828, 1837), později domkář v Polomi (Pohl), č. 1; otec Franze (*30. 1. 1837) a Johanna (*11. 10. 1828) (L II 7, sn. 199 a 216 vpravo; M). Sňatek s Magdalenou tedy nejpozději ~1827/28.",
-        "Sňatek s Magdalenou v Polomi 1816–1841 (L II 13, oddíl Pohl, sn. 101–126) NENÍ (Opava N24, D-, montáž ~0,55×). Jiný Johann Anders, podruh, 44 l., × 22. 6. 1821 Polom č. 43 Johanna (?), dcera † Josepha Schwarze (?) (sn. 105 vlevo; M) – snad otec nebo příbuzný (K)."
+        "Oddáni 20. 11. 1827 v Polomi č. 1 (farář Wenzel Zawischka): „Johann, Sohn des † Michael (?) Andres, Häuslers von Pohl, Häusler daselbst, und der Mutter Elisabeth gebornen Anton Lob… (?) von Bölten“, 35 let, svobodný × „Magdalena, Tochter des Franz Tribrecht (?), Bauers von Pohl, und der Mutter Theresia gebornen Anton Zebel (?) von Pohl“, 25 let; svědci Martin Langer (?), podruh, a Johann Bräuer (?) (L II 13, sn. 108 vlevo; M). Rodné příjmení nevěsty: zřetelné „-brecht“, začátek nejistý (Tri-/Trei-/Sey-).",
+        "N24 sňatek 1827 v montáži přehlédla (příjmení rozdělené přes zlom řádku)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 7 (N), fol. 93, snímek 216 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 7 (N), fol. 93, snímek 216 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"},
-        {"f":"img/1837_krest_franz_anders.jpg","t":"Křest syna Franze, Polom 1837"}
+        {"f":"img/1837_krest_franz_anders.jpg","t":"Křest syna Franze, Polom 1837"},
+        {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek Johanna Anderse a Magdaleny, Polom 20. 11. 1827"}
       ]
     },
     {
       id: "magdalena_pr",
       name: "Magdalena Andersová",
-      maiden: "Seybrechtová / Treybrachová (?)",
+      maiden: "Tribrechtová (?)",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1810)","year":1810,"approx":true},
+      b: {"date":"neznámé (asi 1802, podle věku při sňatku)","year":1802,"approx":true,"place":"Polom (?)"},
+      father: "franz_tb0",
+      mother: "theresia_zb0",
       spouse: "johann_an",
+      marriage: "20. 11. 1827, Polom – Johann Anders × Magdalena Tribrechtová (?)",
       notes: [
-        "Dcera Franze, sedláka v Polomi; manželka Johanna Anderse; matka Franze (*30. 1. 1837) a Johanna (*11. 10. 1828). Rodné příjmení v zápisech 1828, 1837 a 1859 v kurentu nejisté: „Seybrecht / Treybrach / Tribert“ (?) – snad Seibert (rod Seibert v Polomi doložen); dříve čteno „Preitrach / Teubel“."
+        "Dcera Franze, sedláka v Polomi; manželka Johanna Anderse; matka Franze (*30. 1. 1837) a Johanna (*11. 10. 1828). Rodné příjmení v zápisech 1828, 1837 a 1859 v kurentu nejisté: „Seybrecht / Treybrach / Tribert“ (?) – snad Seibert (rod Seibert v Polomi doložen); dříve čteno „Preitrach / Teubel“.",
+        "Oddáni 20. 11. 1827 v Polomi č. 1 (farář Wenzel Zawischka): „Johann, Sohn des † Michael (?) Andres, Häuslers von Pohl, Häusler daselbst, und der Mutter Elisabeth gebornen Anton Lob… (?) von Bölten“, 35 let, svobodný × „Magdalena, Tochter des Franz Tribrecht (?), Bauers von Pohl, und der Mutter Theresia gebornen Anton Zebel (?) von Pohl“, 25 let; svědci Martin Langer (?), podruh, a Johann Bräuer (?) (L II 13, sn. 108 vlevo; M). Rodné příjmení nevěsty: zřetelné „-brecht“, začátek nejistý (Tri-/Trei-/Sey-)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1814–1861 (sign. L II 13), oddíl Pohl, snímek 150 vpravo (25. 10. 1859) – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 7 (N), fol. 93, snímek 216 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 7 (N), fol. 93, snímek 216 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1859_O_Anders_Franz_Stanzel_Beata_Polom31.jpg","t":"Sňatek Franze Anderse a Beaty Stanzlové, Polom č. 31, 25. 10. 1859"},
-        {"f":"img/1837_krest_franz_anders.jpg","t":"Křest syna Franze, Polom 1837"}
+        {"f":"img/1837_krest_franz_anders.jpg","t":"Křest syna Franze, Polom 1837"},
+        {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek s Johannem Andersem, Polom 1827"}
       ]
     },
     {
@@ -16442,6 +16466,156 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1770_snatek_jan_zettelmann_terezie_jakesova.jpg","t":"Sňatek dcery Terezie, Bělotín 1770"}
+      ]
+    },
+    {
+      id: "michael_an0",
+      name: "Michael Anders (Andres)",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
+      d: {"date":"před 20. 11. 1827","year":1827},
+      alive: false,
+      occ: "domkář v Polomi",
+      notes: [
+        "Domkář v Polomi; otec Johanna (× 20. 11. 1827: „Johann, Sohn des † Michael (?) Andres, Häuslers von Pohl“ – tehdy už nežil; křestní jméno čteno nejistě; L II 13, sn. 108 vlevo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek syna Johanna, Polom 1827"}
+      ]
+    },
+    {
+      id: "elisabeth_lb0",
+      name: "Alžběta Andersová",
+      maiden: "Lob… (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Johanna Anderse (× 1827: „der Mutter Elisabeth gebornen Anton Lob… (?) von Bölten“ – dcera Antona Lob… z Bělotína; příjmení nedočteno; L II 13, sn. 108 vlevo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek syna Johanna, Polom 1827"}
+      ]
+    },
+    {
+      id: "franz_tb0",
+      name: "František Tribrecht (?)",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      alive: false,
+      occ: "sedlák v Polomi",
+      notes: [
+        "Sedlák v Polomi; otec Magdaleny (× 1827 s Johannem Andersem; L II 13, sn. 108 vlevo; M; při křtu vnuka Franze 1837 „Franz Seybrecht / Treybrach (?), Bauer aus Pohl“). Příjmení: zřetelné „-brecht“, začátek nejistý."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek dcery Magdaleny, Polom 1827"}
+      ]
+    },
+    {
+      id: "theresia_zb0",
+      name: "Terezie Tribrechtová (?)",
+      maiden: "Zebelová (?)",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Magdaleny Andersové (× 1827: „der Mutter Theresia gebornen Anton Zebel (?) von Pohl“ – dcera Antona Zebela (?) z Polomi; L II 13, sn. 108 vlevo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 108 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1827_snatek_johann_anders_magdalena.jpg","t":"Sňatek dcery Magdaleny, Polom 1827"}
+      ]
+    },
+    {
+      id: "thomas_st0",
+      name: "Tomáš Stanzel (Stenzel)",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1765)","year":1765,"approx":true},
+      alive: false,
+      occ: "sedlák v Polomi",
+      notes: [
+        "Sedlák v Polomi; otec Františka (× 27. 9. 1830; L II 13, sn. 111 vpravo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 111 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1830_snatek_franz_stanzel_magdalena_kloselova.jpg","t":"Sňatek syna Františka, Polom 1830"}
+      ]
+    },
+    {
+      id: "regina_ku0",
+      name: "Regina Stanzlová",
+      maiden: "Kutscherová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1770)","year":1770,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Františka Stanzela (× 1830: „der Mutter Regina gebornen Anton Kutscher von Lutschitz“ – dcera Antona Kutschera z Lučic; L II 13, sn. 111 vpravo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 111 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1830_snatek_franz_stanzel_magdalena_kloselova.jpg","t":"Sňatek syna Františka, Polom 1830"}
+      ]
+    },
+    {
+      id: "georg_kl0",
+      name: "Jiří Klösel",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1775)","year":1775,"approx":true},
+      d: {"date":"mezi 27. 9. 1830 a 22. 1. 1843","year":1843},
+      alive: false,
+      occ: "sedlák v Polomi",
+      notes: [
+        "Sedlák v Polomi; otec Magdaleny (× 27. 9. 1830 – žil a dal souhlas; L II 13, sn. 111 vpravo; M); při křtu vnučky Beaty 22. 1. 1843 uveden jako zemřelý → † 1830–1843. Syn Anton × ~1835 (K)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 111 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1830_snatek_franz_stanzel_magdalena_kloselova.jpg","t":"Sňatek dcery Magdaleny, Polom 1830"}
+      ]
+    },
+    {
+      id: "magdalena_nt0",
+      name: "Magdalena Klöselová",
+      maiden: "Nitschmannová",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1780)","year":1780,"approx":true},
+      alive: false,
+      notes: [
+        "Matka Magdaleny Stanzlové (× 1830: „der Mutter Magdalena gebornen Joseph Nitschmann, alle von Pohl“ – dcera Josefa Nitschmanna z Polomi; L II 13, sn. 111 vpravo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 13 (O), snímek 111 vpravo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1830_snatek_franz_stanzel_magdalena_kloselova.jpg","t":"Sňatek dcery Magdaleny, Polom 1830"}
       ]
     }
   ]
