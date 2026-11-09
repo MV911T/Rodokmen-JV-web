@@ -14255,7 +14255,7 @@ window.RODOKMEN = {
         "KANDIDÁTKA (K+): matka Anny (křest 16. 9. 1753 Loučky – „Anna filia Georgii Mleinek, mat. Magdalena“; N Turnov 5252 sn. 269 vlevo; M zápis).",
         "Oddána 31. 10. 1751 jako „Magdalena filia post Joannem Stiaſni ex Swatoniowicz“ (O 5256 sn. 95 vlevo; M) – sňatek 2 roky před křtem Anny (K+). Matka snad Dorota, vdova po † Janu Šťastném ve Svatoňovicích, † 4. 5. 1765, 70 let (Z 5256 sn. 240 vpravo; K).",
         "Úmrtí není v Z Hruštice I 1754 – IV 1759 (Z 5256 sn. 246–254).",
-        "Úmrtí v Z Turnov 5256 I 1754 – I 1762 (sn. 246 vpravo – 261) není (Zámrsk 54–56; D). Sňatek z indexu „Jiří Mlejnek × Dorota Králová“ je ve skutečnosti na fol. 133v (24. VII 1759, ex Lauczek): „Georgium filium Wenceslai Mleynek cum Dorothea filia Wenceslai Kral ex Wolawetz“ (O 5256 sn. 138 vlevo; M, ověřeno koordinátorem) – ženich je syn Václava, ne vdovec po Magdaleně → jiný Jiří; úmrtí Magdaleny tím ohraničeno není."
+        "Úmrtí v Z Turnov 5256 I 1754 – I 1765 (sn. 246 vpravo – 273) není (Zámrsk 54–58; D). Sňatek z indexu „Jiří Mlejnek × Dorota Králová“ je ve skutečnosti na fol. 133v (24. VII 1759, ex Lauczek): „Georgium filium Wenceslai Mleynek cum Dorothea filia Wenceslai Kral ex Wolawetz“ (O 5256 sn. 138 vlevo; M, ověřeno koordinátorem) – ženich je syn Václava, ne vdovec po Magdaleně → jiný Jiří; úmrtí Magdaleny tím ohraničeno není."
       ],
       sources: [
         "SOA Zámrsk, N Turnov 5252 sn. 269 vlevo (1753)",
