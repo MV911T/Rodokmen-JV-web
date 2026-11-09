@@ -1,18 +1,26 @@
 # Deploys the static site to GitHub Pages.
 # Pages deployments occasionally fail on GitHub's side ("Deployment failed, try again later",
-# or a stuck "syncing_files" status), so the deploy step is retried up to three times before
-# the run is marked as failed. deploy-pages caps its own timeout at 10 minutes.
+# or a stuck "syncing_files" status during GitHub incidents). The deploy step is tried three
+# times; if all three fail, the workflow re-dispatches itself after a pause (up to three
+# rounds) instead of failing, so a transient GitHub outage does not end in a failed run.
+# deploy-pages caps its own timeout at 10 minutes.
 name: Deploy Pages
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      round:
+        description: Re-dispatch round (internal)
+        required: false
+        default: '0'
 
 permissions:
   contents: read
   pages: write
   id-token: write
+  actions: write
 
 # One deployment at a time; a newer push waits instead of racing the running one.
 concurrency:
@@ -22,7 +30,7 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 50
     environment:
       name: github-pages
       url: ${{ steps.attempt1.outputs.page_url || steps.attempt2.outputs.page_url || steps.attempt3.outputs.page_url }}
@@ -53,5 +61,20 @@ jobs:
       - id: attempt3
         if: steps.attempt1.outcome == 'failure' && steps.attempt2.outcome == 'failure'
         uses: actions/deploy-pages@v4
+        continue-on-error: true
         with:
           timeout: 600000
+
+      - name: Re-dispatch after GitHub-side failure
+        if: steps.attempt1.outcome == 'failure' && steps.attempt2.outcome == 'failure' && steps.attempt3.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ROUND: ${{ inputs.round || '0' }}
+        run: |
+          if [ "$ROUND" -ge 3 ]; then
+            echo "::error::Pages deployment failed in all rounds"
+            exit 1
+          fi
+          echo "::warning::All deploy attempts failed (GitHub side); re-dispatching round $((ROUND + 1)) in 5 minutes"
+          sleep 300
+          gh workflow run pages.yml --repo "$GITHUB_REPOSITORY" --ref main -f round=$((ROUND + 1))
