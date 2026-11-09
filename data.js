@@ -12388,11 +12388,13 @@ window.RODOKMEN = {
         "KANDIDÁTI úmrtí (D, jen rejstřík): „Michalek Andreas“ ~1816/17 (fol. 20), 1820 (fol. 29), 1825 (fol. 49) – rejstřík Z Bělotín L II 18, sn. 186; který je náš, nerozhodnuto.",
         "Úmrtí v Bělotíně 1814–1825 nenalezeno (Opava N19, D): rejstříková hesla fol. 20 (1815 = Mathias Pöllner ?), fol. 29 (1820 = dítě Andreas, syn Antona Michalka) a fol. 49 (1825) nejsou on (L II 16, M).",
         "Domkář v Bělotíně č. 12 (1789); manželka Marianna roz. Rey…bnerová (?) (křest syna Karla; M). Sňatek před 1784 (L II 5) zatím nehledán.",
-        "Sňatek s Mariannou v Bělotíně O 1771–1784 (L II 5, sn. 248–286) NENÍ (Opava N21, D) – snad 1765–1771 nebo ve farnosti nevěsty. Stopa (K): sn. 263 vpravo sňatek Veroniky, „dcery † Andrease Michalka“ – snad starší Andreas."
+        "Sňatek s Mariannou v Bělotíně O 1771–1784 (L II 5, sn. 248–286) NENÍ (Opava N21, D) – snad 1765–1771 nebo ve farnosti nevěsty. Stopa (K): sn. 263 vpravo sňatek Veroniky, „dcery † Andrease Michalka“ – snad starší Andreas.",
+        "Dcera Magdalena pokřtěna 2. 6. 1787 v Bělotíně č. 12 (otec Andreas Michalek, matka Marianna; kmotři Johann a Veronika Ziegnerovi jako u Karla 1789; L II 6, pag. 21, sn. 11 vpravo; M) – nejstarší dítě v Bělotíně 1784–~1790 → sňatek ~1785–86, v O Bělotín 1772–1793 není (Opava N33, N34; D)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 29, snímek 15 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 29, snímek 15 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 21, snímek 11 vpravo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1813_O_Michalek_Karel_Ziegnerova_Anna_Belotin.jpg","t":"Sňatek syna Karla, Bělotín 1813"},
@@ -16335,19 +16337,22 @@ window.RODOKMEN = {
     {
       id: "marianna_rb00",
       name: "Marianna Michalková",
-      maiden: "Rey…bnerová (?)",
+      maiden: "Kleiberová (Klayber)",
       line: "nezname",
       cert: "M",
       b: {"date":"neznámé (odhad ~1760)","year":1760,"approx":true},
       alive: false,
       notes: [
-        "Matka Karla Michalka (*16. 7. 1789, Bělotín č. 12): „Marianna, gebd. Rey…bnerin (?)“ – rodné příjmení čteno nejistě (Reybner/Roybner ?) (L II 6, pag. 29, sn. 15 vpravo; M)."
+        "Matka Karla Michalka (*16. 7. 1789, Bělotín č. 12): „Marianne, gebd. Klayberin“ (L II 6, pag. 29, sn. 15 vpravo; M – čteno ve 2× zvětšení; dřívější čtení „Rey…bnerin“ bylo chybné, „R“ je spojení K+l). Hned další zápis téže strany má matku „Magdalena geb. Klayberin“ (Josef Münster, podruh) – snad sestra (K). Kleiberové jsou bělotínský rod.",
+        "Matka i Magdaleny Michalkové (*2. 6. 1787, Bělotín č. 12; L II 6, pag. 21, sn. 11 vpravo; M) – nejstarší známé dítě; sňatek s Andreasem asi 1785–86 mimo Bělotín."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 29, snímek 15 vpravo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 29, snímek 15 vpravo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 21, snímek 11 vpravo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1789_krest_karl_michalek.jpg","t":"Křest syna Karla, Bělotín 1789"}
+        {"f":"img/1789_krest_karl_michalek.jpg","t":"Křest syna Karla, Bělotín 1789"},
+        {"f":"img/1789_krest_karl_michalek_matka_detail.jpg","t":"Detail: matka Karla „Marianne geb. Klayberin“, 1789"}
       ]
     },
     {
@@ -16808,7 +16813,8 @@ window.RODOKMEN = {
       alive: false,
       occ: "sedlák v Polomi č. 21",
       notes: [
-        "Sedlák v Polomi č. 21; otec Magdaleny (pokřtěna 6. 10. 1778: „Josephus Nitschman, Rusticus, et Susanna uxor“; L II 5, sn. 162 vpravo; M) – i při sňatku vnučky 1830 „Magdalena gebornen Joseph Nitschmann“. Snad i otec Susanny (× 1796 Martin Klösl)."
+        "Sedlák v Polomi č. 21; otec Magdaleny (pokřtěna 6. 10. 1778: „Josephus Nitschman, Rusticus, et Susanna uxor“; L II 5, sn. 162 vpravo; M) – i při sňatku vnučky 1830 „Magdalena gebornen Joseph Nitschmann“. Snad i otec Susanny (× 1796 Martin Klösl).",
+        "Sňatek se Zuzanou v O Bělotín (vč. Polomi) I 1755 – V 1776 není (Opava N31, N33, N34; D) – nejspíš ve farnosti nevěsty."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 162 vpravo – https://digi.archives.cz"
