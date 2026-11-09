@@ -16703,20 +16703,25 @@ window.RODOKMEN = {
       maiden: "",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1745)","year":1745,"approx":true},
+      b: {"date":"neznámé (odhad ~1738)","year":1738,"approx":true},
+      father: "anton_sb000",
       alive: false,
       occ: "sedlák v Polomi č. 7, 1777 rychtář",
+      marriage: "2. 5. 1762, Polom – Antonín Seibert × Anna Schneiderová",
       notes: [
         "Otec Františka Seiberta (× 8. 7. 1800: „Franz, Sohn des Anton Seibert v. Pohl“; L II 12, pag. 13, sn. 46 vpravo; M).",
-        "Sedlák v Polomi č. 7; otec Františka (pokřtěn 1. 7. 1775: „Antonius Seibert, Rusticus, et Anna eius uxor“; L II 5, sn. 144 vlevo; M). R. 1777 uveden jako „Consul“ (rychtář); 1778 kmotr Magdaleny Nitschmannové."
+        "Sedlák v Polomi č. 7; otec Františka (pokřtěn 1. 7. 1775: „Antonius Seibert, Rusticus, et Anna eius uxor“; L II 5, sn. 144 vlevo; M). R. 1777 uveden jako „Consul“ (rychtář); 1778 kmotr Magdaleny Nitschmannové.",
+        "Oddáni 2. 5. 1762 v Polomi (kooperátor Georgius Heeger): „Copulatus est Antonius, Antonii Seiberth filius, Pohlomio, cum Anna, Georgii Schneider filia, Pohlomio“; svědci Antonius Schrom a Thomas Keiner z Polomi (L II 5, sn. 222 vlevo; M). Ztotožnění D: jediný sňatek Antonína Seiberta s Annou v Polomi 1755–1776; syn František *1775 (Antonius Seibert × Anna). Karl, syn Antonína Seiberta (× I 1768), je tedy nejspíš jeho bratr."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 12 (O 1784–1813), oddíl Pohl, pag. 13, snímek 46 vpravo – https://digi.archives.cz",
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 144 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 144 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 222 vlevo – https://digi.archives.cz"
       ],
       scans: [
         {"f":"img/1800_snatek_franz_seibert_theresia_kublova.jpg","t":"Sňatek syna Františka, Polom 1800"},
-        {"f":"img/1775_krest_franz_seibert.jpg","t":"Křest syna Františka, Polom 1775"}
+        {"f":"img/1775_krest_franz_seibert.jpg","t":"Křest syna Františka, Polom 1775"},
+        {"f":"img/1762_snatek_anton_seibert_anna_schneiderova.jpg","t":"Sňatek Antonína Seiberta a Anny Schneiderové, Polom 1762"}
       ]
     },
     {
@@ -16872,19 +16877,24 @@ window.RODOKMEN = {
     {
       id: "anna_sb00",
       name: "Anna Seibertová",
-      maiden: "",
+      maiden: "Schneiderová",
       line: "nezname",
       cert: "M",
-      b: {"date":"neznámé (odhad ~1750)","year":1750,"approx":true},
+      b: {"date":"neznámé (odhad ~1742)","year":1742,"approx":true},
+      father: "jiri_sn000",
       alive: false,
+      marriage: "2. 5. 1762, Polom – Antonín Seibert × Anna Schneiderová",
       notes: [
-        "Matka Františka Seiberta (pokřtěn 1. 7. 1775, Polom č. 7: „Antonius Seibert, Rusticus, et Anna eius uxor“; L II 5, sn. 144 vlevo; M). Rodné příjmení neznámé."
+        "Matka Františka Seiberta (pokřtěn 1. 7. 1775, Polom č. 7: „Antonius Seibert, Rusticus, et Anna eius uxor“; L II 5, sn. 144 vlevo; M).",
+        "Oddáni 2. 5. 1762 v Polomi (kooperátor Georgius Heeger): „Copulatus est Antonius, Antonii Seiberth filius, Pohlomio, cum Anna, Georgii Schneider filia, Pohlomio“; svědci Antonius Schrom a Thomas Keiner z Polomi (L II 5, sn. 222 vlevo; M). Ztotožnění D: jediný sňatek Antonína Seiberta s Annou v Polomi 1755–1776; syn František *1775 (Antonius Seibert × Anna). Karl, syn Antonína Seiberta (× I 1768), je tedy nejspíš jeho bratr."
       ],
       sources: [
-        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 144 vlevo – https://digi.archives.cz"
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 144 vlevo – https://digi.archives.cz",
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 222 vlevo – https://digi.archives.cz"
       ],
       scans: [
-        {"f":"img/1775_krest_franz_seibert.jpg","t":"Křest syna Františka, Polom 1775"}
+        {"f":"img/1775_krest_franz_seibert.jpg","t":"Křest syna Františka, Polom 1775"},
+        {"f":"img/1762_snatek_anton_seibert_anna_schneiderova.jpg","t":"Sňatek s Antonínem Seibertem, Polom 1762"}
       ]
     },
     {
@@ -16986,6 +16996,44 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1773_snatek_anton_gabl_magdalena_gablova.jpg","t":"Sňatek dcery Magdaleny, Polom 1773"}
+      ]
+    },
+    {
+      id: "anton_sb000",
+      name: "Antonín Seibert st.",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
+      alive: false,
+      occ: "v Polomi",
+      notes: [
+        "Otec Antonína ml. (× 2. 5. 1762: „Antonius, Antonii Seiberth filius, Pohlomio“; L II 5, sn. 222 vlevo; M) – neuveden jako zemřelý. Snad i otec Karla (× I 1768, „Carolus Antonii Seibert“; D)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 222 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1762_snatek_anton_seibert_anna_schneiderova.jpg","t":"Sňatek dítěte, Polom 1762"}
+      ]
+    },
+    {
+      id: "jiri_sn000",
+      name: "Jiří Schneider",
+      maiden: "",
+      line: "nezname",
+      cert: "M",
+      b: {"date":"neznámé (odhad ~1710)","year":1710,"approx":true},
+      alive: false,
+      occ: "v Polomi",
+      notes: [
+        "Otec Anny (× 2. 5. 1762 s Antonínem Seibertem: „Anna, Georgii Schneider filia, Pohlomio“; L II 5, sn. 222 vlevo; M)."
+      ],
+      sources: [
+        "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín (obec Polom), sign. L II 5 (NOZ 1755–1784), snímek 222 vlevo – https://digi.archives.cz"
+      ],
+      scans: [
+        {"f":"img/1762_snatek_anton_seibert_anna_schneiderova.jpg","t":"Sňatek dítěte, Polom 1762"}
       ]
     }
   ]
