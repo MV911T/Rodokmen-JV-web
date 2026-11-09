@@ -12391,7 +12391,8 @@ window.RODOKMEN = {
         "Sňatek s Mariannou v Bělotíně O 1771–1784 (L II 5, sn. 248–286) NENÍ (Opava N21, D) – snad 1765–1771 nebo ve farnosti nevěsty. Stopa (K): sn. 263 vpravo sňatek Veroniky, „dcery † Andrease Michalka“ – snad starší Andreas.",
         "Dcera Magdalena pokřtěna 2. 6. 1787 v Bělotíně č. 12 (otec Andreas Michalek, matka Marianna; kmotři Johann a Veronika Ziegnerovi jako u Karla 1789; L II 6, pag. 21, sn. 11 vpravo; M) – nejstarší dítě v Bělotíně 1784–~1790 → sňatek ~1785–86, v O Bělotín 1772–1793 není (Opava N33, N34; D).",
         "KANDIDÁT křtu (K): Andreas, syn Mathaea Michalka, gazáře, a Judity, Lučice, pokřtěn 21. 9. 1758 (L II 5, pag. 37, sn. 22 vpravo; M zápis, čteno agentem) – jediný Andreas s otcem Michalkem v Bělotíně 1755 – IV 1761; roky 1761–1765 neprošlé (Opava N36).",
-        "Zemřel 27. 1. 1825 (pohřben 29. 1., farář Franz Axmann) v Bělotíně č. 12: „Andreas Michalek, Ausgedinger“, věk 6? let (druhá číslice nejistá, snad 67), kolika (L II 16, fol. 47, sn. 24 vpravo; M). Věk 66–67 sedí na kandidáta křtu *21. 9. 1758 Lučice (otec Matouš Michalek, gazář × Judita) – K+."
+        "Zemřel 27. 1. 1825 (pohřben 29. 1., farář Franz Axmann) v Bělotíně č. 12: „Andreas Michalek, Ausgedinger“, věk 6? let (druhá číslice nejistá, snad 67), kolika (L II 16, fol. 47, sn. 24 vpravo; M). Věk 66–67 sedí na kandidáta křtu *21. 9. 1758 Lučice (otec Matouš Michalek, gazář × Judita) – K+.",
+        "Sňatek s Mariannou není v celé faře Bělotín 1781 – I 1789 (ženich i nevěsta, vč. oddílu Lučice 1785–1791; Opava N38; M negativ) ani 1772–1793 podle ženicha → spíš mimo faru. Pravděpodobný bratr (K): Georgius, syn Mathiase Michalka, gazáře z Lučic č. 10, 24 l., × 4. 5. 1783 Theresia, dcera † Georga Kippera (?) (L II 5, sn. 282 vlevo; M)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz",
@@ -14231,7 +14232,7 @@ window.RODOKMEN = {
       notes: [
         "Z Louček; otec Anny Horáčkové – „Anna filia Georgii Mlegnek ex Lauczek“ při sňatku 1779 (O Turnov 5257 sn. 26 vpravo; M). Manželka Magdalena (křest Anny 1753; K+). Sňatek a úmrtí nehledány.",
         "Oddán 31. 10. 1751 (ex Lauczek, subd. Magno-Skall.): „Georgium filium post def. Thomam Mlegnek cum Magdalena filia post Joannem Stiaſni ex Swatoniowicz“; svědci Jan Petrův ze Jeben (?) a Anna, dcera Matěje Vilka (svědkyně i u křtu Anny 1753) (O Turnov 5256 sn. 95 vlevo, fol. 90v; M, ověřeno koordinátorem).",
-        "Jiří Mlejnek, chalupník v Loučkách č. 5, měl 1784 manželku Dorotu († II 1784, 47 let; Z 5272 sn. 43 vpravo; M) – snad náš Jiří po 2. sňatku (K) – sňatek „Jiří Mlejnek × Dorota Blažková“ (V 1753, fol. 99v) je jiný Jiří z Kacanov (× vdova po Martinu Blažkovi; M). Další položky indexu: × Dorota Mištová (?) fol. 70, × Dorota Králová fol. 13 (?) – neověřeny. Úmrtí Jiřího, Jana Horáčka a Kateřiny v Z Hruštice XI 1779 – IV 1784 není."
+        "Jiří Mlejnek, chalupník v Loučkách č. 5, měl 1784 manželku Dorotu († II 1784, 47 let; Z 5272 sn. 43 vpravo; M) – nejspíš jde o jiného Jiřího, syna Václava, oddaného 24. VII 1759 s Dorotou, dcerou Václava Krále z Volavce (O 5256 sn. 138 vlevo, fol. 133v; M) – věk Doroty (*~1737) odpovídá. Sňatek „Jiří Mlejnek × Dorota Blažková“ (V 1753, fol. 99v) je jiný Jiří z Kacanov (× vdova po Martinu Blažkovi; M). Položka indexu × Dorota Mištová (?) fol. 70 neověřena. Úmrtí Jiřího, Jana Horáčka a Kateřiny v Z Hruštice XI 1779 – IV 1784 není."
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 5257, sn. 26 vpravo, pag. 24, č. 9 (9. 11. 1779) – https://aron.vychodoceskearchivy.cz/apu/33f4494f-762b-4bf2-b480-f6468eee579a",
@@ -14253,7 +14254,8 @@ window.RODOKMEN = {
       notes: [
         "KANDIDÁTKA (K+): matka Anny (křest 16. 9. 1753 Loučky – „Anna filia Georgii Mleinek, mat. Magdalena“; N Turnov 5252 sn. 269 vlevo; M zápis).",
         "Oddána 31. 10. 1751 jako „Magdalena filia post Joannem Stiaſni ex Swatoniowicz“ (O 5256 sn. 95 vlevo; M) – sňatek 2 roky před křtem Anny (K+). Matka snad Dorota, vdova po † Janu Šťastném ve Svatoňovicích, † 4. 5. 1765, 70 let (Z 5256 sn. 240 vpravo; K).",
-        "Úmrtí není v Z Hruštice I 1754 – IV 1759 (Z 5256 sn. 246–254)."
+        "Úmrtí není v Z Hruštice I 1754 – IV 1759 (Z 5256 sn. 246–254).",
+        "Úmrtí v Z Turnov 5256 I 1754 – I 1762 (sn. 246 vpravo – 261) není (Zámrsk 54–56; D). Sňatek z indexu „Jiří Mlejnek × Dorota Králová“ je ve skutečnosti na fol. 133v (24. VII 1759, ex Lauczek): „Georgium filium Wenceslai Mleynek cum Dorothea filia Wenceslai Kral ex Wolawetz“ (O 5256 sn. 138 vlevo; M, ověřeno koordinátorem) – ženich je syn Václava, ne vdovec po Magdaleně → jiný Jiří; úmrtí Magdaleny tím ohraničeno není."
       ],
       sources: [
         "SOA Zámrsk, N Turnov 5252 sn. 269 vlevo (1753)",
