@@ -12389,7 +12389,8 @@ window.RODOKMEN = {
         "Úmrtí v Bělotíně 1814–1825 nenalezeno (Opava N19, D): rejstříková hesla fol. 20 (1815 = Mathias Pöllner ?), fol. 29 (1820 = dítě Andreas, syn Antona Michalka) a fol. 49 (1825) nejsou on (L II 16, M).",
         "Domkář v Bělotíně č. 12 (1789); manželka Marianna roz. Rey…bnerová (?) (křest syna Karla; M). Sňatek před 1784 (L II 5) zatím nehledán.",
         "Sňatek s Mariannou v Bělotíně O 1771–1784 (L II 5, sn. 248–286) NENÍ (Opava N21, D) – snad 1765–1771 nebo ve farnosti nevěsty. Stopa (K): sn. 263 vpravo sňatek Veroniky, „dcery † Andrease Michalka“ – snad starší Andreas.",
-        "Dcera Magdalena pokřtěna 2. 6. 1787 v Bělotíně č. 12 (otec Andreas Michalek, matka Marianna; kmotři Johann a Veronika Ziegnerovi jako u Karla 1789; L II 6, pag. 21, sn. 11 vpravo; M) – nejstarší dítě v Bělotíně 1784–~1790 → sňatek ~1785–86, v O Bělotín 1772–1793 není (Opava N33, N34; D)."
+        "Dcera Magdalena pokřtěna 2. 6. 1787 v Bělotíně č. 12 (otec Andreas Michalek, matka Marianna; kmotři Johann a Veronika Ziegnerovi jako u Karla 1789; L II 6, pag. 21, sn. 11 vpravo; M) – nejstarší dítě v Bělotíně 1784–~1790 → sňatek ~1785–86, v O Bělotín 1772–1793 není (Opava N33, N34; D).",
+        "KANDIDÁT křtu (K): Andreas, syn Mathaea Michalka, gazáře, a Judity, Lučice, pokřtěn 21. 9. 1758 (L II 5, pag. 37, sn. 22 vpravo; M zápis, čteno agentem) – jediný Andreas s otcem Michalkem v Bělotíně 1755 – IV 1761; roky 1761–1765 neprošlé (Opava N36)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik (NAD 165), fara Bělotín, O 1784–1813 (sign. L II 12), pag. 51, snímek 28 vlevo, 2. zápis 1813 – https://digi.archives.cz",
@@ -16346,7 +16347,8 @@ window.RODOKMEN = {
         "Matka Karla Michalka (*16. 7. 1789, Bělotín č. 12): „Marianne, gebd. Klayberin“ (L II 6, pag. 29, sn. 15 vpravo; M – čteno ve 2× zvětšení; dřívější čtení „Rey…bnerin“ bylo chybné, „R“ je spojení K+l). Hned další zápis téže strany má matku „Magdalena geb. Klayberin“ (Josef Münster, podruh) – snad sestra (K). Kleiberové jsou bělotínský rod.",
         "Matka i Magdaleny Michalkové (*2. 6. 1787, Bělotín č. 12; L II 6, pag. 21, sn. 11 vpravo; M) – nejstarší známé dítě; sňatek s Andreasem asi 1785–86 mimo Bělotín.",
         "Magdalena „Kleiberin von Bölten“, 20 let, se 19. 11. 1786 vdala za Josefa Münstera, č. 60 (L II 12, pag. 8, sn. 6 vlevo; M) – tvar bez „n“ podporuje čtení Kleiber; sesterství s Mariannou nedoloženo (formulář bez rodičů). Sňatek Marianny s Andreasem Michalkem v O Bělotín 1784 – I 1789 a Polom 1785–1790 není (Opava N35; D).",
-        "KANDIDÁTKA křtu (K, slabá): Marianna, dcera Josepha Klibnara (?), gazaria, a Anny, z Jindřichova (Heinrichwalda), I/II 1766 (L II 5, sn. 79 vlevo; neověřeno) – sedí jen pokud je příjmení Kleibner, ne Kleiber."
+        "KANDIDÁTKA křtu (K, slabá): Marianna, dcera Josepha Klibnara (?), gazaria, a Anny, z Jindřichova (Heinrichwalda), I/II 1766 (L II 5, sn. 79 vlevo; neověřeno) – sedí jen pokud je příjmení Kleibner, ne Kleiber.",
+        "KANDIDÁTKY křtu (K, Bělotín): Marina, dcera Laurentia Klaibera a Susanny, 13. 3. 1755 (L II 5, sn. 5 vlevo), a Marina, dcera Georgia Kleibera, kostelníka (ædituus ?), a Rosiny, 8. 9. 1760 (sn. 35 vpravo) – rozhodne věk při úmrtí nebo další zápisy; 1761–1765 neprošlé (Opava N36)."
       ],
       sources: [
         "ZA Opava, Sbírka matrik Severomoravského kraje (NAD 165), ř.-k. fara Bělotín, sign. L II 6 (N 1784–1814), pag. 29, snímek 15 vpravo – https://digi.archives.cz",
