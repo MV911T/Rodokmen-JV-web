@@ -14237,10 +14237,12 @@ window.RODOKMEN = {
       ],
       sources: [
         "SOA Zámrsk, Sbírka matrik, ř.-k. fara Turnov, O 5257, sn. 26 vpravo, pag. 24, č. 9 (9. 11. 1779) – https://aron.vychodoceskearchivy.cz/apu/33f4494f-762b-4bf2-b480-f6468eee579a",
-        "SOA Zámrsk, O Turnov 5256, sn. 95 vlevo, fol. 90v (31. 10. 1751)"
+        "SOA Zámrsk, O Turnov 5256, sn. 95 vlevo, fol. 90v (31. 10. 1751)",
+        "SOA Zámrsk, Sbírka matrik, Turnov N 5252, sn. 297 vpravo, pag. 584 (ARON)"
       ],
       scans: [
-        {"f":"img/1751_O_Mlejnek_Jiri_Stastna_Magdalena_Loucky.jpg","t":"Sňatek 31. 10. 1751, Loučky"}
+        {"f":"img/1751_O_Mlejnek_Jiri_Stastna_Magdalena_Loucky.jpg","t":"Sňatek 31. 10. 1751, Loučky"},
+        {"f":"img/1755_krest_dorota_mlejnkova.jpg","t":"Křest dcery Doroty 1755, Loučky"}
       ]
     },
     {
@@ -14254,16 +14256,19 @@ window.RODOKMEN = {
       spouse: "jiri_ml",
       notes: [
         "KANDIDÁTKA (K+): matka Anny (křest 16. 9. 1753 Loučky – „Anna filia Georgii Mleinek, mat. Magdalena“; N Turnov 5252 sn. 269 vlevo; M zápis).",
+        "Žila v V 1755 – matka Doroty (křest 29. (V) 1755 Loučky, N 5252 sn. 297 vpravo; M). Index N 5252 končí 1755, křty VI 1755 – VII 1762 bez rejstříku nečteny.",
         "Oddána 31. 10. 1751 jako „Magdalena filia post Joannem Stiaſni ex Swatoniowicz“ (O 5256 sn. 95 vlevo; M) – sňatek 2 roky před křtem Anny (K+). Matka snad Dorota, vdova po † Janu Šťastném ve Svatoňovicích, † 4. 5. 1765, 70 let (Z 5256 sn. 240 vpravo; K).",
         "Úmrtí není v Z Hruštice I 1754 – IV 1759 (Z 5256 sn. 246–254).",
         "Úmrtí v Z Turnov 5256 I 1754 – VII 1771 (sn. 246 vpravo – 288) není (Zámrsk 54–60; 1754–1765 čteno jen zběžně; D). Sňatek z indexu „Jiří Mlejnek × Dorota Králová“ je ve skutečnosti na fol. 133v (24. VII 1759, ex Lauczek): „Georgium filium Wenceslai Mleynek cum Dorothea filia Wenceslai Kral ex Wolawetz“ (O 5256 sn. 138 vlevo; M, ověřeno koordinátorem) – ženich je syn Václava, ne vdovec po Magdaleně → jiný Jiří; úmrtí Magdaleny tím ohraničeno není."
       ],
       sources: [
         "SOA Zámrsk, N Turnov 5252 sn. 269 vlevo (1753)",
-        "SOA Zámrsk, O Turnov 5256, sn. 95 vlevo, fol. 90v (31. 10. 1751)"
+        "SOA Zámrsk, O Turnov 5256, sn. 95 vlevo, fol. 90v (31. 10. 1751)",
+        "SOA Zámrsk, Sbírka matrik, Turnov N 5252, sn. 297 vpravo, pag. 584 (ARON)"
       ],
       scans: [
-        {"f":"img/1751_O_Mlejnek_Jiri_Stastna_Magdalena_Loucky.jpg","t":"Sňatek 31. 10. 1751, Loučky"}
+        {"f":"img/1751_O_Mlejnek_Jiri_Stastna_Magdalena_Loucky.jpg","t":"Sňatek 31. 10. 1751, Loučky"},
+        {"f":"img/1755_krest_dorota_mlejnkova.jpg","t":"Křest dcery Doroty 1755, Loučky"}
       ]
     },
     {
@@ -17054,6 +17059,26 @@ window.RODOKMEN = {
       ],
       scans: [
         {"f":"img/1762_snatek_anton_seibert_anna_schneiderova.jpg","t":"Sňatek dítěte, Polom 1762"}
+      ]
+    },
+    {
+      id: "dorota_ml",
+      name: "Dorota Mlejnková",
+      maiden: "",
+      line: "fukal",
+      cert: "M",
+      b: {"date":"29. 5. 1755 (měsíc ?)","year":1755,"place":"Loučky (fara Turnov)"},
+      father: "jiri_ml",
+      mother: "magdalena_ml",
+      notes: [
+        "Pokřtěna 29. (V) 1755 v Loučkách: „infans Dorothea filia Georgii Mlegnek et Magdalena“; kmotra Dorota, manželka Matěje Bartoše, svědci Magdalena, manželka Jiřího Skřivánka, a Václav Granek (?), všichni z Louček (M, ověřeno koordinátorem). Měsíc odvozen z nadpisu „In Junio“ níže na straně.",
+        "Sestra Anny Horáčkové (*1753). Další osud nehledán."
+      ],
+      sources: [
+        "SOA Zámrsk, Sbírka matrik, Turnov N 5252, sn. 297 vpravo, pag. 584 (ARON)"
+      ],
+      scans: [
+        {"f":"img/1755_krest_dorota_mlejnkova.jpg","t":"Křest Doroty Mlejnkové 29. (V) 1755, Loučky"}
       ]
     }
   ]
