@@ -2,13 +2,17 @@
 # Pages deployments occasionally fail on GitHub's side ("Deployment failed, try again later",
 # or a stuck "syncing_files" status during GitHub incidents). The deploy step is tried three
 # times; if all three fail, the workflow re-dispatches itself after a pause (up to three
-# rounds) instead of failing, so a transient GitHub outage does not end in a failed run.
+# rounds) instead of failing; after that it only logs a warning and the 6-hourly scheduled
+# run redeploys. A GitHub-side outage therefore never ends in a failed run (no failure e-mail).
 # deploy-pages caps its own timeout at 10 minutes.
 name: Deploy Pages
 
 on:
   push:
     branches: [main]
+  # Safety net: redeploy every 6 hours so a deployment lost to a long GitHub outage catches up.
+  schedule:
+    - cron: "17 */6 * * *"
   workflow_dispatch:
     inputs:
       round:
@@ -72,8 +76,8 @@ jobs:
           ROUND: ${{ inputs.round || '0' }}
         run: |
           if [ "$ROUND" -ge 3 ]; then
-            echo "::error::Pages deployment failed in all rounds"
-            exit 1
+            echo "::warning::Pages deployment failed in all rounds (GitHub outage); the 6-hourly scheduled run will redeploy"
+            exit 0
           fi
           echo "::warning::All deploy attempts failed (GitHub side); re-dispatching round $((ROUND + 1)) in 5 minutes"
           sleep 300
