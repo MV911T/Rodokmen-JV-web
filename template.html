@@ -437,13 +437,16 @@ legBtn.addEventListener('click',()=>{ const o=legEl.classList.toggle('open'); le
 
 const nM = D.people.filter(p=>p.cert==='M').length;
 // everything below is derived from data.js on every load – no hand-maintained summary that could go stale
-const documented = D.people.filter(p=>(p.cert==='M'||p.cert==='D')&&!p.b.approx);
+// oldest ancestor = direct ancestor of the root proven in a parish register (cert M); estimated birth years count (shown with "~").
+// (Was: any person M/D with an exact date – picked Dorota Nová from the family typescript although her parents are in the tree.)
+const ANC = (()=>{ const s=new Set(), q=[D.root]; while(q.length){ const id=q.shift(); if(!id||!P[id]||s.has(id)) continue; s.add(id); q.push(P[id].father,P[id].mother); } return s; })();
+const documented = D.people.filter(p=>ANC.has(p.id)&&p.cert==='M'&&p.b&&p.b.year);
 const oldest = documented.reduce((a,p)=>p.b.year<a.b.year?p:a);
 const meta = document.getElementById('meta');
 // number of generations back from the root (parents = 1 generation back), computed from father/mother links
 const genDepth = (()=>{ const memo={}; const g=id=>{ if(!id||!P[id]) return 0; if(memo[id]!==undefined) return memo[id]; memo[id]=0; return memo[id]=1+Math.max(g(P[id].father),g(P[id].mother)); }; return g(D.root)-1; })();
 const genWord = n => n===1?'generace':(n>=2&&n<=4?'generace':'generací');
-meta.innerHTML = `<b title="Počítá se od Jiřího: rodiče = 1. generace zpět, prarodiče = 2., praprarodiče = 3. … Číslo je nejdelší doložená řada předků v rodokmenu.">${genDepth} ${genWord(genDepth)} zpět</b> <span class="genhint">(rodiče = 1, prarodiče = 2 …)</span> · ${D.people.length} osob · ${nM} doloženo přímo v matrikách · nejstarší doložený předek <button type="button" class="plink" id="oldest">${oldest.name}</button> (~${oldest.b.year}) · aktualizováno ${window.RODOKMEN_BUILD||D.updated}`;
+meta.innerHTML = `<b title="Počítá se od Jiřího: rodiče = 1. generace zpět, prarodiče = 2., praprarodiče = 3. … Číslo je nejdelší doložená řada předků v rodokmenu.">${genDepth} ${genWord(genDepth)} zpět</b> <span class="genhint">(rodiče = 1, prarodiče = 2 …)</span> · ${D.people.length} osob · ${nM} doloženo přímo v matrikách · nejstarší předek doložený v matrikách <button type="button" class="plink" id="oldest">${oldest.name}</button> (~${oldest.b.year}) · aktualizováno ${window.RODOKMEN_BUILD||D.updated}`;
 document.getElementById('oldest').addEventListener('click',()=>{ applyScale(Math.max(vs,0.6)); focusCard(oldest.id); });
 // "Širší okruh": every ancestral couple with all their known children (direct ancestor + siblings);
 // under each sibling their partners and descendants (nephews, cousins …) as far as they are in the data
@@ -699,15 +702,16 @@ requestAnimationFrame(()=>{ const c=document.querySelector(`.card[data-id="${D.r
   setVB();
   const KIND={doc:'doloženo',rail:'trasa pravděpodobná',hyp:'domněnka'};
   document.getElementById('moves').innerHTML=D.moves.map(m=>`<li style="--c:var(--l-${m.line})"><b>${m.when}</b> – ${m.who}: ${m.note}<span class="k">${KIND[m.kind]}</span></li>`).join('');
-  const doc=p=>(p.cert==='M'||p.cert==='D')&&!p.b.approx, place=e=>(e&&e.place||'').replace(/\s*č\.\s*\d+.*$/,'').replace(/,.*$/,'');
+  const ANC2=(()=>{ const by={}, s=new Set(), q=[D.root]; D.people.forEach(p=>by[p.id]=p); while(q.length){ const id=q.shift(); if(!id||!by[id]||s.has(id)) continue; s.add(id); q.push(by[id].father,by[id].mother); } return s; })();
+  const doc=p=>ANC2.has(p.id)&&p.cert==='M'&&p.b&&p.b.year, place=e=>(e&&e.place||'').replace(/\s*č\.\s*\d+.*$/,'').replace(/,.*$/,'');
   const oldestOf=ls=>D.people.filter(p=>ls.includes(p.line)&&doc(p)).reduce((a,p)=>!a||p.b.year<a.b.year?p:a,null);
   const go=p=>`<button type="button" class="plink" data-go="${p.id}">${p.name}</button>`;
   document.getElementById('story').innerHTML=D.story.map(s=>{
     const ls=s.lines||[s.line], ps=D.people.filter(p=>ls.includes(p.line)), o=oldestOf(ls);
-    const facts=o?`<p class="facts">V rodokmenu ${ps.length} osob, z toho ${ps.filter(p=>p.cert==='M').length} přímo z matrik · nejstarší doložený předek ${go(o)} (*~${o.b.year}${place(o.b)?', '+place(o.b):''})</p>`:'';
+    const facts=o?`<p class="facts">V rodokmenu ${ps.length} osob, z toho ${ps.filter(p=>p.cert==='M').length} přímo z matrik · nejstarší předek doložený v matrikách ${go(o)} (*~${o.b.year}${place(o.b)?', '+place(o.b):''})</p>`:'';
     return `<article style="--c:var(--l-${s.line})"><h2>${s.title}</h2>${facts}${s.text.map(t=>`<p>${t}</p>`).join('')}</article>`; }).join('');
   // timeline = family milestones (data) + oldest documented ancestor of every line (computed) + historical events
-  const auto=Object.entries(D.lines).map(([k,l])=>{ const o=oldestOf([k]); return o&&{y:o.b.year,t:`Nejstarší doložený předek rodu ${l}: ${go(o)}${place(o.b)?' ('+place(o.b)+')':''}`,k:'anc'}; }).filter(Boolean);
+  const auto=Object.entries(D.lines).map(([k,l])=>{ const o=oldestOf([k]); return o&&{y:o.b.year,t:`Nejstarší předek rodu ${l} doložený v matrikách: ${go(o)}${place(o.b)?' ('+place(o.b)+')':''}`,k:'anc'}; }).filter(Boolean);
   const hist=(D.events||[]).map(e=>({y:e.y,t:(e.y2?e.y+'–'+e.y2+' ':'')+e.t,k:'hist'}));
   const TLs=[...D.timeline.map(e=>({...e,k:'fam'})),...auto,...hist].sort((a,b)=>a.y-b.y||(a.k==='hist')-(b.k==='hist'));
   document.getElementById('tl').innerHTML=TLs.map(e=>`<li class="${e.k}"><b>${e.y}</b>${e.t}</li>`).join('');
