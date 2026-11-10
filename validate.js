@@ -19,6 +19,9 @@ const yearsIn = s => (String(s || '').match(/\b(1[5-9]\d\d|20\d\d)\b/g) || []).m
 const isExact = e => !!(e && /\b\d{1,2}\.\s*\d{1,2}\.\s*\d{4}\b/.test(e.date || '') && !/před|po |mezi|cca|nejspíš|\?|–/.test(e.date || ''));
 const by = e => (e && e.year) || null;
 
+// duplicate ids silently shadow each other in byId (found 10. 11. 2026: two "dorota_ml")
+{ const seenId = new Set(); for (const p of P) { if (seenId.has(p.id)) err(p, `duplicate id "${p.id}"`); seenId.add(p.id); } }
+
 const children = {};
 P.forEach(c => ['father', 'mother'].forEach(k => { if (c[k]) (children[c[k]] = children[c[k]] || []).push(c); }));
 

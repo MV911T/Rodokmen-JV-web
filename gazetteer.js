@@ -34,7 +34,7 @@ window.RODOKMEN_GAZ = [
   { n: 'Krchleby', a: ['Krchleb', 'Kchleb'], lat: 50.2, lon: 15.03 },
   { n: 'Mladá Boleslav', a: ['Mladá Boleslav'], lat: 50.411, lon: 14.906 },
   { n: 'Kolín', a: ['Kolín'], lat: 50.028, lon: 15.2 },
-  { n: 'Býkoš', a: ['Býkoš'], lat: 49.88, lon: 14.06 },
+  { n: 'Býkoš', a: ['Býkoš', 'Bykoš'], lat: 49.88, lon: 14.06 },
   { n: 'Lounín', a: ['Lounín', 'Launin'], lat: 49.902, lon: 14.045 },
   { n: 'Sýkořice', a: ['Sýkořice'], lat: 50.03, lon: 13.93 },
   // Vysočina: Votava origins (positions ±3 km, to be verified)
@@ -83,4 +83,30 @@ window.RODOKMEN_GAZ = [
   { n: 'Březín (Manětínsko)', a: ['Březín'], lat: 50.003, lon: 13.258 },
   { n: 'Džbánice', a: ['Džbánice'], lat: 49.043, lon: 16.208 },
   { n: 'Branov', a: ['Branov'], lat: 50.010, lon: 13.843 },
+  // Turnovsko / Pojizeří – Ťukal, Horáček, Mlejnek, Bečka (approximate, ±3 km)
+  { n: 'Loučky (Turnovsko)', a: ['Loučky (fara Turnov)', 'Loučky (?) (fara Turnov)'], lat: 50.565, lon: 15.185 },
+  { n: 'Mašov', a: ['Mašov'], lat: 50.578, lon: 15.143 },
+  { n: 'Lažany (Turnovsko)', a: ['Lažany'], lat: 50.555, lon: 15.120 },
+  { n: 'Ohrazenice', a: ['Ohrazenice'], lat: 50.590, lon: 15.130 },
+  { n: 'Všeň', a: ['Všeň'], lat: 50.553, lon: 15.098 },
+  { n: 'Mokrý', a: ['Mokrý', 'Mokré'], lat: 50.545, lon: 15.075 },
+  // Rožďalovicko / Mcely – Šnejdr (approximate)
+  { n: 'Pojedy', a: ['Pojedy'], lat: 50.320, lon: 15.130 },
+  { n: 'Podolí (Rožďalovicko)', a: ['Podolí č. p. 6 (fara Rožďalovice)'], lat: 50.310, lon: 15.160 },
+  { n: 'Dobrovany', a: ['Dobrovany'], lat: 50.330, lon: 15.150 },
+  { n: 'Seletice', a: ['Seletice'], lat: 50.290, lon: 15.030 },
+  // Berounsko / Křivoklátsko
+  { n: 'Nižbor', a: ['Nižbor'], lat: 50.003, lon: 14.003 },
+  { n: 'Račice (u Zbečna)', a: ['Račice'], lat: 50.030, lon: 13.930 },
+  { n: 'Svatá', a: ['Svatá'], lat: 49.940, lon: 13.960 },
+  // Jižní Čechy (approximate)
+  { n: 'Salačova Lhota', a: ['Salačova Lhota'], lat: 49.510, lon: 15.060 },
+  { n: 'Želeč (Táborsko)', a: ['Želeč'], lat: 49.320, lon: 14.650 },
+  // Morava, Slezsko (approximate)
+  { n: 'Slavkov u Brna', a: ['Slavkov u Brna'], lat: 49.153, lon: 16.876 },
+  { n: 'Hrušky (Slavkovsko)', a: ['Hrušky'], lat: 49.160, lon: 16.950 },
+  { n: 'Životice u Nového Jičína', a: ['Životice'], lat: 49.565, lon: 18.060 },
+  { n: 'Hynčice (u Vražného)', a: ['Hynčice'], lat: 49.660, lon: 17.870 },
+  { n: 'Bošín (u Hrubého Jeseníku)', a: ['Bošín'], lat: 50.290, lon: 15.050 },
+  { n: 'Bukov (u Zbečna)', a: ['Bukov'], lat: 50.040, lon: 13.900 },
 ];
