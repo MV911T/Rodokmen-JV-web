@@ -151,7 +151,7 @@ dl.facts dd{margin:0;min-width:0}
 .print{max-width:1300px;margin:0 auto}
 .print h2{font-family:var(--f-name);font-weight:600;font-size:1.3rem;margin:0 0 6px}
 .print p{margin:0 0 12px;max-width:75ch;line-height:1.5}
-.print .prev{display:block;width:100%;padding:0;border:1px solid var(--rule);border-radius:8px;overflow:hidden;background:var(--surface);cursor:zoom-in;box-shadow:var(--shadow)}
+.print .prev{display:block;text-decoration:none;width:100%;padding:0;border:1px solid var(--rule);border-radius:8px;overflow:hidden;background:var(--surface);cursor:zoom-in;box-shadow:var(--shadow)}
 .print .prev img{display:block;width:100%;height:auto}
 .print .cap{color:var(--muted);font-size:.82rem;margin:6px 0 18px}
 .print .dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin:0 0 18px}
@@ -274,16 +274,16 @@ dl.facts dd{margin:0;min-width:0}
 <section id="printView" hidden><div class="print">
 <h2>Tisková verze rodokmenu</h2>
 <p>Plakát ve formátu 2 × 1 m na šířku pro tisk. Nahoře je Jiří s bratry, pod nimi rodiče a dál všechny generace předků až k nejstarším zápisům v matrikách. Muži jsou v modrých rámečcích, ženy v růžových a barevný proužek nahoře ukazuje rodovou větev. Plnou čarou jsou orámovaní doložení předci, tečkovaně rodinná tradice a čárkovaně kandidáti. Dole jsou vysvětlivky, souhrn a QR kód na tento web.</p>
-<button type="button" class="prev" id="printPrev" aria-label="Zvětšit náhled plakátu"><img src="print/rodokmen_tisk_nahled.jpg" alt="Náhled tiskového plakátu rodokmenu" loading="lazy" width="4000" height="2000"></button>
-<p class="cap">Náhled ve zmenšeném rozlišení. Klepnutím se zvětší. Detaily jsou čitelné až v tiskových datech níže.</p>
+<a class="prev" href="print/rodokmen_tisk_2000x1000mm.pdf" target="_blank" rel="noopener" aria-label="Otevřít plakát jako PDF"><img src="print/rodokmen_tisk_nahled.jpg" alt="Náhled tiskového plakátu rodokmenu" loading="lazy" width="4000" height="2000"></a>
+<p class="cap">Náhled je zmenšený. Klepnutím se otevře PDF, ve kterém jde přibližovat bez ztráty ostrosti a přečíst každý rámeček. Na prohlížení na počítači je PDF nejlepší, protože obrázky o velikosti 500 Mpx většina prohlížečů fotek při načítání zobrazí rozmazaně.</p>
 <div class="dl">
-<a href="print/rodokmen_tisk_200dpi.tif" download><b>TIFF · 200 dpi</b><span>15 748 × 7 874 px, bezeztrátový (LZW, bez ztráty kvality), 24 MB</span></a>
-<a href="print/rodokmen_tisk_200dpi.jpg" download><b>JPEG · 200 dpi</b><span>15 748 × 7 874 px, kvalita 100 bez podvzorkování, 27 MB</span></a>
+<a href="print/rodokmen_tisk_400dpi.tif" download><b>TIFF · 400 dpi</b><span>31 496 × 15 748 px, bezeztrátový (LZW, bez ztráty kvality), 62 MB</span></a>
+<a href="print/rodokmen_tisk_400dpi.jpg" download><b>JPEG · 400 dpi</b><span>31 496 × 15 748 px, kvalita 100 bez podvzorkování, 70 MB</span></a>
 <a href="print/rodokmen_tisk_2000x1000mm.pdf" download><b>PDF · vektor</b><span>2000 × 1000 mm, písma vložena, ostré v libovolném rozlišení, 3 MB</span></a>
 </div>
 <dl class="spec">
 <dt>Formát</dt><dd>2000 × 1000 mm na šířku, bez spadávky (bílý rámeček je součástí návrhu)</dd>
-<dt>Rozlišení</dt><dd>200 dpi, tj. 15 748 × 7 874 px, barvy sRGB</dd>
+<dt>Rozlišení</dt><dd>400 dpi, tj. 31 496 × 15 748 px, barvy sRGB (pro tisk na 200 dpi ho tiskárna jen zmenší)</dd>
 <dt>Pro tiskárnu</dt><dd>Nejlépe pošlete PDF (vektor). Když tiskárna chce bitmapu, pošlete TIFF. JPEG je záloha.</dd>
 <dt>Stav dat</dt><dd id="printStamp"></dd>
 </dl>
@@ -765,6 +765,5 @@ requestAnimationFrame(()=>{ const c=document.querySelector(`.card[data-id="${D.r
   try{ const t=localStorage.getItem('rv-tab'); if(t==='map'||t==='wide'||t==='print') show(t); }catch(e){}
   if(location.hash==='#mapa') show('map'); if(location.hash==='#okruh'||location.hash==='#siroky') show('wide'); if(location.hash==='#tisk') show('print');
   document.getElementById('printStamp').textContent='Vygenerováno 10. 11. 2026 ze stejných dat jako tento web ('+D.people.length+' osob).';
-  document.getElementById('printPrev').addEventListener('click',()=>{ const V=document.getElementById('viewer'); document.getElementById('vi').src='print/rodokmen_tisk_nahled.jpg'; document.getElementById('vt').textContent='Tisková verze – náhled'; document.getElementById('vp').classList.add('fit'); document.getElementById('vz').textContent='Přiblížit'; V.hidden=false; });
 })();
 </script>
