@@ -22,6 +22,13 @@ const by = e => (e && e.year) || null;
 // duplicate ids silently shadow each other in byId (found 10. 11. 2026: two "dorota_ml")
 { const seenId = new Set(); for (const p of P) { if (seenId.has(p.id)) err(p, `duplicate id "${p.id}"`); seenId.add(p.id); } }
 
+(D.story||[]).forEach(s=>{ if(s.anchor&&!byId[s.anchor]) err(null, `story "${s.title}" anchor "${s.anchor}" does not exist`); });
+// every family line with a direct ancestor must belong to a story on the "Odkud jsme" tab (stats and oldest ancestor per story)
+{ const anc=new Set(), q=[D.root]; while(q.length){ const id=q.shift(); if(!id||!byId[id]||anc.has(id)) continue; anc.add(id); q.push(byId[id].father, byId[id].mother); }
+  const inStory=new Set(); (D.story||[]).forEach(s=>(s.lines||[s.line]).forEach(l=>inStory.add(l)));
+  const missing=new Set(); P.forEach(p=>{ if(anc.has(p.id)&&p.line!=='nezname'&&!inStory.has(p.line)) missing.add(p.line); });
+  missing.forEach(l=>warn(null, `line "${l}" has direct ancestors but is in no story (story.lines)`)); }
+
 const children = {};
 P.forEach(c => ['father', 'mother'].forEach(k => { if (c[k]) (children[c[k]] = children[c[k]] || []).push(c); }));
 
