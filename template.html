@@ -147,6 +147,21 @@ dl.facts dd{margin:0;min-width:0}
 .fam li ul{margin-top:2px}
 .fam .none{color:var(--muted);font-style:italic;font-size:.88rem}
 #mapView{flex:1;overflow:auto;padding:16px;box-sizing:border-box}
+#printView{flex:1;overflow:auto;padding:16px;box-sizing:border-box}
+.print{max-width:1300px;margin:0 auto}
+.print h2{font-family:var(--f-name);font-weight:600;font-size:1.3rem;margin:0 0 6px}
+.print p{margin:0 0 12px;max-width:75ch;line-height:1.5}
+.print .prev{display:block;width:100%;padding:0;border:1px solid var(--rule);border-radius:8px;overflow:hidden;background:var(--surface);cursor:zoom-in;box-shadow:var(--shadow)}
+.print .prev img{display:block;width:100%;height:auto}
+.print .cap{color:var(--muted);font-size:.82rem;margin:6px 0 18px}
+.print .dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin:0 0 18px}
+.print .dl a{display:block;padding:12px 14px;border:1px solid var(--rule);border-left:4px solid var(--link);border-radius:8px;background:var(--surface);color:var(--ink);text-decoration:none}
+.print .dl a:hover{border-color:var(--link)}
+.print .dl b{display:block;margin-bottom:2px}
+.print .dl span{color:var(--muted);font-size:.82rem}
+.print dl.spec{display:grid;grid-template-columns:max-content 1fr;gap:4px 16px;margin:0 0 18px;font-size:.9rem}
+.print dl.spec dt{color:var(--muted)}
+.print dl.spec dd{margin:0}
 .mapwrap{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:24px;max-width:1300px;margin:0 auto}
 @media (max-width:900px){.mapwrap{grid-template-columns:1fr}}
 .mapfig{min-width:0}
@@ -237,7 +252,7 @@ dl.facts dd{margin:0;min-width:0}
     <h1>Rodokmen JV</h1>
     <div class="meta" id="meta"></div>
   </div>
-  <nav class="tabs" role="tablist"><button type="button" role="tab" id="tabTree" aria-selected="true">Rodokmen</button><button type="button" role="tab" id="tabWide" aria-selected="false">Širší okruh</button><button type="button" role="tab" id="tabMap" aria-selected="false">Odkud jsme</button></nav>
+  <nav class="tabs" role="tablist"><button type="button" role="tab" id="tabTree" aria-selected="true">Rodokmen</button><button type="button" role="tab" id="tabWide" aria-selected="false">Širší okruh</button><button type="button" role="tab" id="tabMap" aria-selected="false">Odkud jsme</button><button type="button" role="tab" id="tabPrint" aria-selected="false">Tisková verze</button></nav>
   <div class="tools">
     <input id="q" type="search" placeholder="Najít osobu…" aria-label="Najít osobu">
     <button id="home" type="button">Na Jiřího</button>
@@ -256,6 +271,23 @@ dl.facts dd{margin:0;min-width:0}
   </div>
 </div>
 <section id="mapView" hidden><div class="mapwrap"><div class="mapfig"><div class="mapbox"><svg id="map" role="img" aria-label="Mapa původu rodových větví"></svg><div class="mapzoom" role="toolbar" aria-label="Přiblížení mapy"><button type="button" id="mzin" aria-label="Přiblížit mapu">+</button><button type="button" id="mzout" aria-label="Oddálit mapu">−</button><button type="button" id="mzreset">Celá mapa</button></div></div><div class="mlegend"><span><svg width="28" height="6"><line x1="0" y1="3" x2="28" y2="3" stroke="var(--muted)" stroke-width="2.2"/></svg>doložený přesun</span><span><svg width="28" height="6"><line x1="0" y1="3" x2="28" y2="3" stroke="var(--muted)" stroke-width="2.2" stroke-dasharray="7 5"/></svg>pravděpodobná trasa (vlakem)</span><span><svg width="28" height="6"><line x1="0" y1="3" x2="28" y2="3" stroke="var(--muted)" stroke-width="2.2" stroke-dasharray="2 5" stroke-linecap="round"/></svg>domněnka</span></div><p class="cap">Hranice podle dnešních států (Natural Earth). Čáry vedou po tehdejších železničních tratích, kde přesná cesta není známa. Po najetí myší se ukáže, kdo a kdy. Přiblížení: tlačítka, dvojklik, Ctrl/⌘ + kolečko nebo sevření prstů; posun tažením.</p><ol class="moves" id="moves"></ol></div><div id="story" class="story"></div></div><div class="tl"><h3>Časová osa</h3><ol id="tl"></ol></div></section>
+<section id="printView" hidden><div class="print">
+<h2>Tisková verze rodokmenu</h2>
+<p>Plakát ve formátu 2 × 1 m na šířku pro tisk. Nahoře je Jiří s bratry, pod nimi rodiče a dál všechny generace předků až k nejstarším zápisům v matrikách. Muži jsou v modrých rámečcích, ženy v růžových a barevný proužek nahoře ukazuje rodovou větev. Plnou čarou jsou orámovaní doložení předci, tečkovaně rodinná tradice a čárkovaně kandidáti. Dole jsou vysvětlivky, souhrn a QR kód na tento web.</p>
+<button type="button" class="prev" id="printPrev" aria-label="Zvětšit náhled plakátu"><img src="print/rodokmen_tisk_nahled.jpg" alt="Náhled tiskového plakátu rodokmenu" loading="lazy" width="4000" height="2000"></button>
+<p class="cap">Náhled ve zmenšeném rozlišení. Klepnutím se zvětší. Detaily jsou čitelné až v tiskových datech níže.</p>
+<div class="dl">
+<a href="print/rodokmen_tisk_200dpi.tif" download><b>TIFF · 200 dpi</b><span>15 748 × 7 874 px, bezeztrátový (LZW, bez ztráty kvality), 24 MB</span></a>
+<a href="print/rodokmen_tisk_200dpi.jpg" download><b>JPEG · 200 dpi</b><span>15 748 × 7 874 px, kvalita 100 bez podvzorkování, 27 MB</span></a>
+<a href="print/rodokmen_tisk_2000x1000mm.pdf" download><b>PDF · vektor</b><span>2000 × 1000 mm, písma vložena, ostré v libovolném rozlišení, 3 MB</span></a>
+</div>
+<dl class="spec">
+<dt>Formát</dt><dd>2000 × 1000 mm na šířku, bez spadávky (bílý rámeček je součástí návrhu)</dd>
+<dt>Rozlišení</dt><dd>200 dpi, tj. 15 748 × 7 874 px, barvy sRGB</dd>
+<dt>Pro tiskárnu</dt><dd>Nejlépe pošlete PDF (vektor). Když tiskárna chce bitmapu, pošlete TIFF. JPEG je záloha.</dd>
+<dt>Stav dat</dt><dd id="printStamp"></dd>
+</dl>
+</div></section>
 <section id="wideView" hidden><div class="wide"><p class="wintro" id="wideIntro"></p><div class="wtools"><label>Větev <select id="wLine"><option value="">všechny</option></select></label> <label><input type="checkbox" id="wOnly"> jen rodiny se známými sourozenci</label></div><div id="wideBody"></div></div></section>
 <div id="scroller">
   <div id="inner">
@@ -721,16 +753,18 @@ requestAnimationFrame(()=>{ const c=document.querySelector(`.card[data-id="${D.r
   const TLs=[...D.timeline.map(e=>({...e,k:'fam'})),...auto,...hist].sort((a,b)=>a.y-b.y||(a.k==='hist')-(b.k==='hist'));
   document.getElementById('tl').innerHTML=TLs.map(e=>`<li class="${e.k}"><b>${e.y}</b>${e.t}</li>`).join('');
   document.getElementById('mapView').addEventListener('click',e=>{ const b=e.target.closest('[data-go]'); if(!b) return; show(false); window.RV_focus&&window.RV_focus(b.dataset.go); });
-  const tT=document.getElementById('tabTree'), tW=document.getElementById('tabWide'), tM=document.getElementById('tabMap'), MV=document.getElementById('mapView'), WV=document.getElementById('wideView'), SC=document.getElementById('scroller'), LG=document.querySelector('.legend'), TL=document.querySelector('.tools'), ZB=document.getElementById('zoombar');
+  const tT=document.getElementById('tabTree'), tW=document.getElementById('tabWide'), tM=document.getElementById('tabMap'), tP=document.getElementById('tabPrint'), PV=document.getElementById('printView'), MV=document.getElementById('mapView'), WV=document.getElementById('wideView'), SC=document.getElementById('scroller'), LG=document.querySelector('.legend'), TL=document.querySelector('.tools'), ZB=document.getElementById('zoombar');
   // mode: false/'tree' = tree, true/'map' = map, 'wide' = wider family circle
   function show(mode){ const m=mode===true?'map':mode===false?'tree':mode; const tree=m==='tree';
-    MV.hidden=m!=='map'; WV.hidden=m!=='wide'; SC.hidden=!tree; LG.hidden=!tree; TL.hidden=!tree; ZB.hidden=!tree;
-    tT.setAttribute('aria-selected',tree); tM.setAttribute('aria-selected',m==='map'); tW.setAttribute('aria-selected',m==='wide');
+    MV.hidden=m!=='map'; WV.hidden=m!=='wide'; PV.hidden=m!=='print'; SC.hidden=!tree; LG.hidden=!tree; TL.hidden=!tree; ZB.hidden=!tree;
+    tT.setAttribute('aria-selected',tree); tM.setAttribute('aria-selected',m==='map'); tW.setAttribute('aria-selected',m==='wide'); tP.setAttribute('aria-selected',m==='print');
     if(m==='wide') window.renderWide();
     try{localStorage.setItem('rv-tab',m)}catch(e){} }
-  tT.addEventListener('click',()=>show('tree')); tM.addEventListener('click',()=>show('map')); tW.addEventListener('click',()=>show('wide'));
+  tT.addEventListener('click',()=>show('tree')); tM.addEventListener('click',()=>show('map')); tW.addEventListener('click',()=>show('wide')); tP.addEventListener('click',()=>show('print'));
   WV.addEventListener('click',e=>{ const b=e.target.closest('[data-go]'); if(!b) return; show('tree'); window.RV_focus&&window.RV_focus(b.dataset.go); });
-  try{ const t=localStorage.getItem('rv-tab'); if(t==='map'||t==='wide') show(t); }catch(e){}
-  if(location.hash==='#mapa') show('map'); if(location.hash==='#okruh'||location.hash==='#siroky') show('wide');
+  try{ const t=localStorage.getItem('rv-tab'); if(t==='map'||t==='wide'||t==='print') show(t); }catch(e){}
+  if(location.hash==='#mapa') show('map'); if(location.hash==='#okruh'||location.hash==='#siroky') show('wide'); if(location.hash==='#tisk') show('print');
+  document.getElementById('printStamp').textContent='Vygenerováno 10. 11. 2026 ze stejných dat jako tento web ('+D.people.length+' osob).';
+  document.getElementById('printPrev').addEventListener('click',()=>{ const V=document.getElementById('viewer'); document.getElementById('vi').src='print/rodokmen_tisk_nahled.jpg'; document.getElementById('vt').textContent='Tisková verze – náhled'; document.getElementById('vp').classList.add('fit'); document.getElementById('vz').textContent='Přiblížit'; V.hidden=false; });
 })();
 </script>
