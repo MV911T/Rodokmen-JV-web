@@ -148,6 +148,34 @@ dl.facts dd{margin:0;min-width:0}
 .fam .none{color:var(--muted);font-style:italic;font-size:.88rem}
 #mapView{flex:1;overflow:auto;padding:16px;box-sizing:border-box}
 #printView{flex:1;overflow:auto;padding:16px;box-sizing:border-box}
+#animView{flex:1;position:relative;overflow:hidden;background:#000;color:#ece4d2;min-height:440px;font-family:var(--f-data)}
+#animCanvas{position:absolute;inset:0;width:100%;height:100%;display:block;touch-action:none;cursor:grab}
+.ahud{position:absolute;top:18px;left:50%;transform:translateX(-50%);text-align:center;pointer-events:none;width:min(92%,640px)}
+.akick{font-size:.72rem;letter-spacing:.22em;color:#b9ad95}
+.anum{font-family:var(--f-name);font-weight:600;font-size:clamp(2.4rem,7vw,4.2rem);line-height:1.05;font-variant-numeric:tabular-nums;color:#fff4dc;text-shadow:0 0 24px rgba(255,200,120,.35)}
+.aq{font-size:clamp(.9rem,2.2vw,1.1rem);letter-spacing:.04em;color:#f3ead8;margin-top:2px}
+.aknown{font-size:.78rem;color:#d9b673;margin-top:6px;letter-spacing:.06em}
+.aruler{position:absolute;left:14px;bottom:64px;margin:0;padding:0;list-style:none;font-size:.72rem;font-variant-numeric:tabular-nums;color:#8d8576;pointer-events:none}
+.aruler li{display:grid;grid-template-columns:3.2em 34px 3.8em 5em;align-items:center;gap:6px;height:1.55em;opacity:0;transition:opacity .5s}
+.aruler li.on{opacity:.75}.aruler li.cur{opacity:1;color:#ffe2a8}
+.aruler i{height:1px;background:currentColor;opacity:.5}.aruler b{font-weight:500;text-align:right}.aruler em{font-style:normal;color:#d9b673;font-size:.68rem}
+#animView.narrow .aruler{display:none}
+#animView.narrow .ahint{display:none}
+#animView.narrow .asum{bottom:56px;font-size:.8rem;padding:8px 30px 8px 12px}
+.ax{position:absolute;top:4px;right:6px;border:0;background:none;color:#b9ad95;font-size:1.2rem;line-height:1;cursor:pointer;padding:4px}
+.alabel{position:absolute;left:0;top:0;margin:14px 0 0;white-space:nowrap;font-size:.74rem;letter-spacing:.06em;color:#f6e7c8;text-shadow:0 0 6px #000,0 0 12px #000;pointer-events:none;translate:-50% 0;opacity:0}
+.alabel.root{font-size:.95rem;letter-spacing:.3em;font-weight:600;margin-top:22px}
+.atip{position:absolute;max-width:240px;background:rgba(16,20,24,.92);border:1px solid #4a4436;border-radius:8px;padding:8px 10px;font-size:.8rem;line-height:1.4;color:#efe6d4;pointer-events:none}
+.atip b span{font-weight:400;color:#b9ad95}.atip small{display:block;color:#9a917f;margin-top:4px}
+.asum{position:absolute;right:16px;bottom:62px;width:min(calc(100% - 32px),380px);background:rgba(10,13,16,.78);border:1px solid #3a3529;border-radius:10px;padding:10px 16px;font-size:.88rem;line-height:1.5;color:#efe6d4;animation:afade 1.2s ease}
+.asum p{margin:.3em 0}.asum b{color:#ffe2a8}
+@keyframes afade{from{opacity:0;transform:translateY(10px)}}
+.actl{position:absolute;left:0;right:0;bottom:0;display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:10px 14px calc(10px + env(safe-area-inset-bottom,0px));background:linear-gradient(transparent,rgba(5,7,10,.9))}
+.actl button{font:inherit;font-size:.85rem;padding:6px 12px;border:1px solid #4a4436;border-radius:6px;background:#12171b;color:#efe6d4;cursor:pointer}
+.actl button:focus-visible{outline:2px solid #d9b673;outline-offset:2px}
+.ahint{font-size:.74rem;color:#8d8576;margin-left:auto}
+.aload{position:absolute;inset:0;display:grid;place-items:center;margin:0;color:#b9ad95;font-size:.9rem}
+@media (prefers-reduced-motion:reduce){.asum{animation:none}.aruler li{transition:none}}
 .print{max-width:1300px;margin:0 auto}
 .print h2{font-family:var(--f-name);font-weight:600;font-size:1.3rem;margin:0 0 6px}
 .print p{margin:0 0 12px;max-width:75ch;line-height:1.5}
@@ -252,7 +280,7 @@ dl.facts dd{margin:0;min-width:0}
     <h1>Rodokmen JV</h1>
     <div class="meta" id="meta"></div>
   </div>
-  <nav class="tabs" role="tablist"><button type="button" role="tab" id="tabTree" aria-selected="true">Rodokmen</button><button type="button" role="tab" id="tabWide" aria-selected="false">Širší okruh</button><button type="button" role="tab" id="tabMap" aria-selected="false">Odkud jsme</button><button type="button" role="tab" id="tabPrint" aria-selected="false">Tisková verze</button></nav>
+  <nav class="tabs" role="tablist"><button type="button" role="tab" id="tabTree" aria-selected="true">Rodokmen</button><button type="button" role="tab" id="tabWide" aria-selected="false">Širší okruh</button><button type="button" role="tab" id="tabMap" aria-selected="false">Odkud jsme</button><button type="button" role="tab" id="tabPrint" aria-selected="false">Tisková verze</button><button type="button" role="tab" id="tabAnim" aria-selected="false">Animace</button></nav>
   <div class="tools">
     <input id="q" type="search" placeholder="Najít osobu…" aria-label="Najít osobu">
     <button id="home" type="button">Na Jiřího</button>
@@ -288,6 +316,7 @@ dl.facts dd{margin:0;min-width:0}
 <dt>Stav dat</dt><dd id="printStamp"></dd>
 </dl>
 </div></section>
+<section id="animView" hidden><canvas id="animCanvas" role="img" aria-label="3D animace: s každou generací se počet předků zdvojnásobí; svítící body jsou doložení předci"></canvas><div class="ahud" aria-live="polite"><div class="akick" id="aKick"></div><div class="anum" id="aNum">1</div><div class="aq">Kolik lidí bylo potřeba, aby se narodil <span id="aWho"></span>?</div><div class="aknown" id="aKnown"></div></div><ol class="aruler" id="aRuler" aria-hidden="true"></ol><div id="aLabels" aria-hidden="true"></div><div class="atip" id="aTip" hidden></div><div class="asum" id="aSum" hidden></div><div class="actl"><button type="button" id="aPlay">Pauza</button><button type="button" id="aAgain">Přehrát znovu</button><span class="ahint">Tažením otáčíte, kolečkem nebo prsty přibližujete, kliknutím na světlo otevřete osobu.</span></div><p class="aload" id="aLoad">Načítám 3D…</p></section>
 <section id="wideView" hidden><div class="wide"><p class="wintro" id="wideIntro"></p><div class="wtools"><label>Větev <select id="wLine"><option value="">všechny</option></select></label> <label><input type="checkbox" id="wOnly"> jen rodiny se známými sourozenci</label></div><div id="wideBody"></div></div></section>
 <div id="scroller">
   <div id="inner">
@@ -753,17 +782,180 @@ requestAnimationFrame(()=>{ const c=document.querySelector(`.card[data-id="${D.r
   const TLs=[...D.timeline.map(e=>({...e,k:'fam'})),...auto,...hist].sort((a,b)=>a.y-b.y||(a.k==='hist')-(b.k==='hist'));
   document.getElementById('tl').innerHTML=TLs.map(e=>`<li class="${e.k}"><b>${e.y}</b>${e.t}</li>`).join('');
   document.getElementById('mapView').addEventListener('click',e=>{ const b=e.target.closest('[data-go]'); if(!b) return; show(false); window.RV_focus&&window.RV_focus(b.dataset.go); });
-  const tT=document.getElementById('tabTree'), tW=document.getElementById('tabWide'), tM=document.getElementById('tabMap'), tP=document.getElementById('tabPrint'), PV=document.getElementById('printView'), MV=document.getElementById('mapView'), WV=document.getElementById('wideView'), SC=document.getElementById('scroller'), LG=document.querySelector('.legend'), TL=document.querySelector('.tools'), ZB=document.getElementById('zoombar');
+  const tT=document.getElementById('tabTree'), tW=document.getElementById('tabWide'), tM=document.getElementById('tabMap'), tP=document.getElementById('tabPrint'), PV=document.getElementById('printView'), tA=document.getElementById('tabAnim'), AV=document.getElementById('animView'), MV=document.getElementById('mapView'), WV=document.getElementById('wideView'), SC=document.getElementById('scroller'), LG=document.querySelector('.legend'), TL=document.querySelector('.tools'), ZB=document.getElementById('zoombar');
   // mode: false/'tree' = tree, true/'map' = map, 'wide' = wider family circle
   function show(mode){ const m=mode===true?'map':mode===false?'tree':mode; const tree=m==='tree';
-    MV.hidden=m!=='map'; WV.hidden=m!=='wide'; PV.hidden=m!=='print'; SC.hidden=!tree; LG.hidden=!tree; TL.hidden=!tree; ZB.hidden=!tree;
-    tT.setAttribute('aria-selected',tree); tM.setAttribute('aria-selected',m==='map'); tW.setAttribute('aria-selected',m==='wide'); tP.setAttribute('aria-selected',m==='print');
+    MV.hidden=m!=='map'; WV.hidden=m!=='wide'; PV.hidden=m!=='print'; AV.hidden=m!=='anim'; SC.hidden=!tree; LG.hidden=!tree; TL.hidden=!tree; ZB.hidden=!tree;
+    tT.setAttribute('aria-selected',tree); tM.setAttribute('aria-selected',m==='map'); tW.setAttribute('aria-selected',m==='wide'); tP.setAttribute('aria-selected',m==='print'); tA.setAttribute('aria-selected',m==='anim');
+    if(window.RV_anim){ if(m==='anim') window.RV_anim.start(); else window.RV_anim.stop(); }
     if(m==='wide') window.renderWide();
     try{localStorage.setItem('rv-tab',m)}catch(e){} }
-  tT.addEventListener('click',()=>show('tree')); tM.addEventListener('click',()=>show('map')); tW.addEventListener('click',()=>show('wide')); tP.addEventListener('click',()=>show('print'));
+  tT.addEventListener('click',()=>show('tree')); tM.addEventListener('click',()=>show('map')); tW.addEventListener('click',()=>show('wide')); tP.addEventListener('click',()=>show('print')); tA.addEventListener('click',()=>show('anim'));
   WV.addEventListener('click',e=>{ const b=e.target.closest('[data-go]'); if(!b) return; show('tree'); window.RV_focus&&window.RV_focus(b.dataset.go); });
-  try{ const t=localStorage.getItem('rv-tab'); if(t==='map'||t==='wide'||t==='print') show(t); }catch(e){}
-  if(location.hash==='#mapa') show('map'); if(location.hash==='#okruh'||location.hash==='#siroky') show('wide'); if(location.hash==='#tisk') show('print');
+  try{ const t=localStorage.getItem('rv-tab'); if(t==='map'||t==='wide'||t==='print'||t==='anim') show(t); }catch(e){}
+  if(location.hash==='#mapa') show('map'); if(location.hash==='#okruh'||location.hash==='#siroky') show('wide'); if(location.hash==='#tisk') show('print'); if(location.hash==='#animace') show('anim');
   document.getElementById('printStamp').textContent='Vygenerováno 10. 11. 2026 ze stejných dat jako tento web ('+D.people.length+' osob).';
+})();
+</script>
+<script>
+// "Animace": 3D cone of ancestors – each generation doubles; documented ancestors glow, the rest is the theoretical haze.
+(function(){
+  const V=document.getElementById('animView'); if(!V) return;
+  const D=window.RODOKMEN, P=Object.fromEntries(D.people.map(p=>[p.id,p]));
+  const G0=13, SEG=12, K=0.105, SPG=1.35; // generations, curve segments, height per year, seconds per generation
+  const LC={vesely:'#7fb0d0',woron:'#b49ad4',chmielek:'#d68fb0',pacik:'#7fc29d',matusu:'#cdbb66',struz:'#e0a06a',jirik:'#6fc0c6',opolony:'#b3b86a',plachy:'#c9a98a'};
+  const GN=[null,'Rodiče','Prarodiče','Praprarodiče','Prapraprarodiče'];
+  const gname=g=>g?(GN[g]||`Předkové ${g}. generace`):P[D.root].name.split(' ')[0];
+  const fmt=n=>n.toLocaleString('cs-CZ');
+  const rnd=n=>{const x=Math.sin(n*12.9898+78.233)*43758.5453;return x-Math.floor(x)};
+  const hex=h=>[1,3,5].map(i=>parseInt(h.slice(i,i+2),16)/255);
+  const rad=g=>g?2.1*Math.pow(g,.92):0;
+  const root=P[D.root], rootY=root.b.year, first=root.name.split(' ')[0], fem=/á$/.test(root.name.split(' ').pop());
+  const rootPl=((root.b&&root.b.place)||'').split(/,| č\. ?p\.| č\.p\./)[0].trim();
+  const cx=document.createElement('canvas').getContext('2d'), cssCol=k=>{const v=getComputedStyle(document.documentElement).getPropertyValue('--l-'+k).trim(); if(!v) return null; cx.fillStyle='#000'; cx.fillStyle=v; return cx.fillStyle;};
+  // ---- ahnentafel slots (n: 1 = Matěj, 2n father, 2n+1 mother)
+  let mg=0; (function w(id,n,g){const p=P[id]; if(!p) return; mg=Math.max(mg,g); if(g<20){w(p.father,2*n,g+1); w(p.mother,2*n+1,g+1);}})(D.root,1,0);
+  const G=Math.max(G0,mg+1);
+  const S=[]; const byN=new Map();
+  for(let g=0;g<=G;g++){const s=2**g; for(let n=s;n<2*s;n++){
+    const c=byN.get(n>>1); let id=null;
+    if(n===1) id=D.root; else if(c&&c.id){const cp=P[c.id]; id=(n&1?cp.mother:cp.father)||null; if(id&&!P[id]) id=null;}
+    const p=id&&P[id]; let year;
+    if(n===1) year=rootY; else if(p&&p.b&&p.b.year) year=p.b.year; else year=c.year-(n&1?26:31)-(p?0:Math.round((rnd(n)-.5)*8));
+    if(n>1&&year>c.year-14) year=c.year-14;
+    const th=2*Math.PI*((n-s+.5)/s)+Math.PI/2, r=rad(g);
+    const o={n,g,id,p,year,th,x:r*Math.cos(th),y:(rootY-year)*K,z:r*Math.sin(th)}; S.push(o); byN.set(n,o);
+  }}
+  const KS=S.filter(s=>s.p); // documented slots
+  const perGen=[...Array(G+1)].map((_,g)=>{const a=S.filter(s=>s.g===g), k=a.filter(s=>s.p), ys=k.map(s=>s.p.b&&s.p.b.year).filter(Boolean);
+    const est=Math.round(a.reduce((t,s)=>t+s.year,0)/a.length);
+    return {g,n:2**g,k:k.length,lo:ys.length?Math.min(...ys):null,hi:ys.length?Math.max(...ys):null,est,ymax:Math.max(...a.map(s=>s.y)),y:a.reduce((t,s)=>t+s.y,0)/a.length};});
+  // pedigree collapse: same person in more slots; arcs only for the youngest such persons
+  const dup={}; KS.forEach(s=>(dup[s.id]=dup[s.id]||[]).push(s));
+  const implex=Object.values(dup).filter(a=>a.length>1&&new Set(a.map(s=>byN.get(s.n>>1).id)).size>1);
+  const impSet=new Set(implex.map(a=>a[0].id));
+  const uniq=new Set(KS.map(s=>s.id)); uniq.delete(D.root);
+  const oldest=[...uniq].map(i=>P[i]).filter(p=>p.cert==='M'&&p.b&&p.b.year).sort((a,b)=>a.b.year-b.b.year)[0];
+  const totalSlots=2**(G+1)-2;
+
+  // ---- HUD
+  const $=id=>document.getElementById(id);
+  const kick=$('aKick'), num=$('aNum'), kn=$('aKnown'), ruler=$('aRuler'), tip=$('aTip'), sum=$('aSum'), labels=$('aLabels'), btnP=$('aPlay'), btnA=$('aAgain'), load=$('aLoad');
+  $('aWho').textContent=first; if(fem) $('aWho').parentNode.firstChild.textContent='Kolik lidí bylo potřeba, aby se narodila ';
+  ruler.innerHTML=perGen.slice().reverse().map(r=>`<li data-g="${r.g}"><span>${r.lo?r.lo:'~'+Math.round(r.est/5)*5}</span><i></i><b>${fmt(r.n)}</b><em>${r.k?r.k+' známe':''}</em></li>`).join('');
+  const rows=[...ruler.children].reverse();
+  const yrs=r=>r.lo?(r.lo===r.hi?`narozen${r.g?'i':''} ${r.lo}`:`narozeni ${r.lo}–${r.hi}`):`narozeni kolem ${Math.round(r.est/10)*10}`;
+  const who=s=>{const p=s.p,b=p.b&&p.b.year,d=p.d&&p.d.year;return `<b>${p.name}${p.maiden?' <span>roz. '+p.maiden+'</span>':''}</b><br>${b?'* '+(p.b.date||b):''}${d?' &nbsp;† '+(p.d.date||d):''}${p.b&&p.b.place?'<br>'+p.b.place:''}`;};
+  const impN=implex.map(a=>a[0].p.name), imp=impN.length<=2?impN.join(' a ')+(impN.length>1?' jsou':' je'):`${impN.length} předků (např. ${impN.slice(0,3).join(', ')})`+' je';
+  sum.innerHTML=`<button type="button" class="ax" aria-label="Zavřít shrnutí">×</button><p>Za ${G} generací (asi ${rootY-perGen[G].est} let) je v rodokmenu <b>${fmt(totalSlots)}</b> míst – a každý pár se musel potkat, aby tu ${first} ${fem?'byla':'byl'}.</p><p>Jménem známe <b>${fmt(uniq.size)}</b> z nich${oldest?`; nejstarší doložený v matrikách je ${oldest.name} (${oldest.b.approx?'~':'* '}${oldest.b.year})`:''}.${imp?` ${imp} v rodokmenu víckrát, po různých liniích (ztráta předků) – v animaci svítí modře a spojují je oblouky.`:''}</p>`;
+  const LBL=KS.filter(s=>s.g<=2).map(s=>{const e=document.createElement('span');e.className='alabel'+(s.g?'':' root');e.textContent=s.g?s.p.name:s.p.name.toUpperCase();labels.appendChild(e);return [s,e];});
+
+  let T=null, ren, scene, cam, comp, lineMat, ptMat, raf=0, running=false, paused=false, prog=0, last=0, user=0, rq=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const cs={th:0,ph:1.55,d:10,ty:1}; // camera spherical
+  async function init(){
+    T=await import('https://cdn.jsdelivr.net/npm/three@0.160.0/+esm');
+    const [{EffectComposer},{RenderPass},{UnrealBloomPass},{OutputPass}]=await Promise.all(['postprocessing/EffectComposer','postprocessing/RenderPass','postprocessing/UnrealBloomPass','postprocessing/OutputPass'].map(m=>import(`https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/${m}.js/+esm`)));
+    const cv=$('animCanvas');
+    ren=new T.WebGLRenderer({canvas:cv,antialias:true}); ren.setPixelRatio(Math.min(devicePixelRatio,2)); ren.setClearColor(0x000000,1);
+    scene=new T.Scene(); cam=new T.PerspectiveCamera(45,1,.1,500);
+    // lines: curves child -> parent, rings, implex arcs
+    const pos=[],tt=[],col=[],al=[];
+    const seg=(a,b,ta,tb,c,aa,ab)=>{pos.push(...a,...b);tt.push(ta,tb);col.push(...c,...c);al.push(aa,ab);};
+    const GOLD=[.96,.76,.42], WARM=[1,.9,.7], BLUE=[.35,.7,1], GREY=[.55,.55,.6];
+    for(const s of S){ if(s.n===1) continue; const c=byN.get(s.n>>1), h=s.y-c.y;
+      const amp=s.p?0:.05*s.g, ph=rnd(s.n)*6.28, fr=1.5+rnd(s.n+7)*3, tx=-Math.sin(s.th), tz=Math.cos(s.th);
+      const a0=s.p?.55:(s.g<=6?.10:s.g<=10?.045:.022), cc=s.p?WARM:GOLD; let pv=null;
+      for(let i=0;i<=SEG;i++){const t=i/SEG, e=3*t*t-2*t*t*t, w=amp*Math.sin(Math.PI*t)*Math.sin(ph+fr*t*Math.PI);
+        const q=[c.x+(s.x-c.x)*e+tx*w, c.y+h*t, c.z+(s.z-c.z)*e+tz*w];
+        if(pv) seg(pv,q,s.g-1+(i-1)/SEG,s.g-1+t,cc,a0,a0); pv=q;}
+    }
+    for(const r of perGen){ if(!r.g) continue; const R=rad(r.g)+1.4, N=128; let pv=null;
+      for(let i=0;i<=N;i++){const a=i/N*Math.PI*2, q=[R*Math.cos(a),r.y,R*Math.sin(a)]; if(pv) seg(pv,q,r.g-.15,r.g-.15,GREY,.035,.035); pv=q;}}
+    for(const a of implex) for(let j=1;j<a.length;j++){const A=a[j-1],B=a[j], gg=Math.max(A.g,B.g); let pv=null;
+      for(let i=0;i<=40;i++){const t=i/40, q=[A.x+(B.x-A.x)*t, A.y+(B.y-A.y)*t+Math.sin(Math.PI*t)*4, A.z+(B.z-A.z)*t]; if(pv){ for(const o of [0,.06,-.06]) seg([pv[0]+o,pv[1]+o,pv[2]],[q[0]+o,q[1]+o,q[2]],gg+(i-1)/40*.8,gg+t*.8,BLUE,1,1); } pv=q;}}
+    const lg=new T.BufferGeometry(); lg.setAttribute('position',new T.Float32BufferAttribute(pos,3)); lg.setAttribute('aT',new T.Float32BufferAttribute(tt,1)); lg.setAttribute('aCol',new T.Float32BufferAttribute(col,3)); lg.setAttribute('aA',new T.Float32BufferAttribute(al,1));
+    lineMat=new T.ShaderMaterial({uniforms:{uProg:{value:0}},transparent:true,depthWrite:false,blending:T.AdditiveBlending,
+      vertexShader:`attribute float aT;attribute vec3 aCol;attribute float aA;uniform float uProg;varying vec3 vC;varying float vA;
+        void main(){vC=aCol;vA=aA*clamp((uProg-aT)*8.0,0.0,1.0);gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.0);}`,
+      fragmentShader:`varying vec3 vC;varying float vA;void main(){if(vA<.002)discard;gl_FragColor=vec4(vC,vA);}`});
+    scene.add(new T.LineSegments(lg,lineMat));
+    // points: every slot; documented ones bright and tinted by family line
+    const pp=[],pt=[],ps=[],pc=[],pa=[];
+    for(const s of S){pp.push(s.x,s.y,s.z);pt.push(s.n===1?-1:s.g);
+      if(s.n===1){ps.push(1.5);pc.push(1,.92,.75);pa.push(1);}
+      else if(s.p&&impSet.has(s.id)){ps.push(1.15);pc.push(...BLUE);pa.push(1);}
+      else if(s.p){const l=hex(cssCol(s.p.line)||LC[s.p.line]||'#e8c88a');ps.push(s.g<=3?.75:.55);pc.push((l[0]+1)/2,(l[1]+.9)/2,(l[2]+.7)/2);pa.push(1);}
+      else{ps.push(.2);pc.push(...GOLD);pa.push(s.g<=9?.35:.12);}}
+    const pg=new T.BufferGeometry(); pg.setAttribute('position',new T.Float32BufferAttribute(pp,3)); pg.setAttribute('aT',new T.Float32BufferAttribute(pt,1)); pg.setAttribute('aSize',new T.Float32BufferAttribute(ps,1)); pg.setAttribute('aCol',new T.Float32BufferAttribute(pc,3)); pg.setAttribute('aA',new T.Float32BufferAttribute(pa,1));
+    ptMat=new T.ShaderMaterial({uniforms:{uProg:{value:0},uScale:{value:500},uTime:{value:0}},transparent:true,depthWrite:false,blending:T.AdditiveBlending,
+      vertexShader:`attribute float aT;attribute float aSize;attribute float aA;attribute vec3 aCol;uniform float uProg;uniform float uScale;uniform float uTime;varying vec3 vC;varying float vA;
+        void main(){float k=clamp((uProg-aT)*3.0,0.0,1.0);float pop=k*(1.0+0.9*sin(k*3.14159));vec4 mv=modelViewMatrix*vec4(position,1.0);
+        float tw=aT<0.0?1.0+0.12*sin(uTime*2.0):1.0;gl_PointSize=max(aSize*pop*tw*uScale/-mv.z,k>0.0?1.0:0.0);vC=aCol;vA=aA*k;gl_Position=projectionMatrix*mv;}`,
+      fragmentShader:`varying vec3 vC;varying float vA;void main(){float d=length(gl_PointCoord-0.5)*2.0;if(d>1.0||vA<.002)discard;
+        float core=smoothstep(.42,.0,d),glow=pow(1.0-d,2.2)*.55;gl_FragColor=vec4(vC*(core*1.1+glow)+vec3(core*.35),vA);}`});
+    scene.add(new T.Points(pg,ptMat));
+    // base disc under Matěj
+    const dg=new T.RingGeometry(.9,3.2,96); dg.rotateX(-Math.PI/2);
+    scene.add(new T.Mesh(dg,new T.MeshBasicMaterial({color:0x8a7650,transparent:true,opacity:.05,blending:T.AdditiveBlending,depthWrite:false,side:T.DoubleSide})));
+    comp=new EffectComposer(ren); comp.addPass(new RenderPass(scene,cam));
+    comp.addPass(new UnrealBloomPass(new T.Vector2(512,512),.7,.5,.25)); comp.addPass(new OutputPass());
+    new ResizeObserver(size).observe(V); size(); bindInput(cv); load.hidden=true;
+  }
+  function size(){ if(!ren) return; const w=V.clientWidth,h=V.clientHeight; if(!w||!h) return; ren.setSize(w,h,false); comp.setSize(w,h); cam.aspect=w/h; cam.updateProjectionMatrix();
+    ptMat.uniforms.uScale.value=h*ren.getPixelRatio()/2/Math.tan(cam.fov*Math.PI/360); V.classList.toggle('narrow',w<640); }
+  // ---- camera choreography: keep the current generation in frame, rise and look down into the funnel
+  function choreo(dt){
+    const f=Math.min(Math.max(prog,0),G+.4), g=Math.min(Math.ceil(f),G), a=f-Math.floor(f), g0=Math.max(g-1,0);
+    const yy=perGen[g0].ymax+(perGen[g].ymax-perGen[g0].ymax)*a, rr=rad(g0)+(rad(g)-rad(g0))*a+1.5;
+    const vf=Math.tan(cam.fov*Math.PI/360), hf=vf*cam.aspect, need=Math.max((yy*.62+1.2)/vf,(rr*1.08)/hf)+rr*.6;
+    const k=1-Math.exp(-dt*2.2), e=Math.min(f/G,1);
+    cs.d+=(Math.max(need,8)-cs.d)*k; cs.ty+=(yy*.46+.8-cs.ty)*k; cs.ph+=((1.62-.25*e)-cs.ph)*k;
+  }
+  function frame(t){ raf=requestAnimationFrame(frame); const dt=Math.min((t-(last||t))/1000,.1); last=t;
+    if(!paused&&prog<G+.6) prog+=dt/SPG*(prog<3?.8:1);
+    if(prog>=G+.6&&sum.hidden&&!sum.dataset.closed){sum.hidden=false;}
+    if(t-user>2500){ if(prog<G+.6||!user) choreo(dt); cs.th+=dt*(prog<G+.6?.07:.05)*(paused?0:1); }
+    const sp=Math.sin(cs.ph); cam.position.set(cs.d*sp*Math.sin(cs.th),cs.ty+cs.d*Math.cos(cs.ph),cs.d*sp*Math.cos(cs.th)); cam.lookAt(0,cs.ty,0);
+    lineMat.uniforms.uProg.value=prog; ptMat.uniforms.uProg.value=prog; ptMat.uniforms.uTime.value=t/1000;
+    comp.render(); hud();
+  }
+  let lastG=-1, shown=0;
+  function hud(){ const g=Math.max(0,Math.min(G,Math.floor(prog+.02))), r=perGen[g];
+    if(g!==lastG){ lastG=g; kick.textContent=`${gname(g).toUpperCase()} · ${yrs(r).toUpperCase()}`;
+      kn.textContent=g?(r.k?`jménem doloženo ${r.k} z ${fmt(r.n)}`:'tady už jména nikdo nezapsal – nebo se nedochovala'):[rootPl,rootY].filter(Boolean).join(', '); rows.forEach((li,i)=>{li.classList.toggle('on',i<=g);li.classList.toggle('cur',i===g)}); }
+    shown+=(r.n-shown)*.18; if(Math.abs(r.n-shown)<.5) shown=r.n; num.textContent=fmt(Math.round(shown));
+    const w=V.clientWidth,h=V.clientHeight, v=new T.Vector3();
+    for(const [s,e] of LBL){ v.set(s.x,s.y,s.z).project(cam); const vis=Math.min(Math.max((prog-s.g)*2,0),1)*(v.z<1?1:0)*(s.g?Math.min(Math.max((34-cs.d)/10,0),1):(sum.hidden||w>=640?1:0));
+      e.style.opacity=vis; e.style.transform=`translate(${(v.x+1)/2*w}px,${(1-v.y)/2*h}px)`; }
+  }
+  // ---- input: drag to orbit, wheel / pinch to zoom, hover tooltip, click opens person in the tree
+  function bindInput(cv){ const pts=new Map(); let pinch=0, moved=0;
+    cv.addEventListener('pointerdown',e=>{cv.setPointerCapture(e.pointerId);pts.set(e.pointerId,[e.clientX,e.clientY]);moved=0;cv.style.cursor='grabbing';});
+    cv.addEventListener('pointermove',e=>{ const o=pts.get(e.pointerId);
+      if(!o){ hover(e); return; }
+      if(pts.size===2){ pts.set(e.pointerId,[e.clientX,e.clientY]); const [a,b]=[...pts.values()], d=Math.hypot(a[0]-b[0],a[1]-b[1]); if(pinch) cs.d=Math.min(Math.max(cs.d*pinch/d,4),160); pinch=d; user=performance.now(); return; }
+      const dx=e.clientX-o[0], dy=e.clientY-o[1]; moved+=Math.abs(dx)+Math.abs(dy); pts.set(e.pointerId,[e.clientX,e.clientY]);
+      cs.th-=dx*.006; cs.ph=Math.min(Math.max(cs.ph-dy*.005,.15),2.6); user=performance.now(); tip.hidden=true; });
+    const up=e=>{pts.delete(e.pointerId);pinch=0;cv.style.cursor='';if(moved<6&&e.type==='pointerup'){const s=pick(e);if(s&&s.n>1){document.getElementById('tabTree').click();window.RV_focus&&window.RV_focus(s.id);}}};
+    cv.addEventListener('pointerup',up); cv.addEventListener('pointercancel',up); cv.addEventListener('pointerleave',()=>{if(!pts.size)tip.hidden=true;});
+    cv.addEventListener('wheel',e=>{e.preventDefault();cs.d=Math.min(Math.max(cs.d*Math.exp(e.deltaY*.0012),4),160);user=performance.now();},{passive:false});
+  }
+  function pick(e){ const R=V.getBoundingClientRect(), mx=e.clientX-R.left, my=e.clientY-R.top, v=new T.Vector3(); let best=null,bd=18;
+    for(const s of KS){ if(prog<s.g) continue; v.set(s.x,s.y,s.z).project(cam); if(v.z>1) continue; const d=Math.hypot((v.x+1)/2*R.width-mx,(1-v.y)/2*R.height-my); if(d<bd){bd=d;best=s;} }
+    return best; }
+  function hover(e){ const s=pick(e); if(!s){tip.hidden=true;$('animCanvas').style.cursor='';return;}
+    const R=V.getBoundingClientRect(); tip.innerHTML=who(s)+(s.n>1?'<small>kliknutím otevřete v rodokmenu</small>':''); tip.hidden=false;
+    tip.style.left=Math.min(e.clientX-R.left+14,R.width-250)+'px'; tip.style.top=(e.clientY-R.top+14)+'px'; $('animCanvas').style.cursor='pointer'; }
+  function restart(){ prog=rq?G+.6:0; shown=1; lastG=-1; user=0; sum.hidden=!rq; delete sum.dataset.closed; paused=false; btnP.textContent='Pauza'; Object.assign(cs,{th:0,ph:1.55,d:10,ty:1}); }
+  btnP.addEventListener('click',()=>{paused=!paused;btnP.textContent=paused?'Přehrát':'Pauza';});
+  btnA.addEventListener('click',restart); sum.addEventListener('click',e=>{if(e.target.closest('.ax'))sum.hidden=true,sum.dataset.closed=1;});
+  let started=false;
+  window.RV_anim={
+    async start(){ if(running) return; running=true;
+      if(!T){ try{ await init(); }catch(err){ load.textContent='3D animaci se nepodařilo načíst (je potřeba připojení k internetu a WebGL).'; running=false; return; } }
+      if(!running) return; if(!started){started=true;restart();} last=0; size(); raf=requestAnimationFrame(frame); },
+    stop(){ running=false; cancelAnimationFrame(raf); }
+  };
+  if(!V.hidden) window.RV_anim.start();
 })();
 </script>
