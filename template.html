@@ -846,7 +846,7 @@ requestAnimationFrame(()=>{ const c=document.querySelector(`.card[data-id="${D.r
   const rows=[...ruler.children].reverse();
   const yrs=r=>r.lo?(r.lo===r.hi?`narozen${r.g?'i':''} ${r.lo}`:`narozeni ${r.lo}–${r.hi}`):`narozeni kolem ${Math.round(r.est/10)*10}`;
   const who=s=>{const p=s.p,b=p.b&&p.b.year,d=p.d&&p.d.year;return `<b>${p.name}${p.maiden?' <span>roz. '+p.maiden+'</span>':''}</b><br>${b?'* '+(p.b.date||b):''}${d?' &nbsp;† '+(p.d.date||d):''}${p.b&&p.b.place?'<br>'+p.b.place:''}`;};
-  const impN=implex.map(a=>a[0].p.name), imp=impN.length<=2?impN.join(' a ')+(impN.length>1?' jsou':' je'):`${impN.length} předků (např. ${impN.slice(0,3).join(', ')})`+' je';
+  const impN=implex.map(a=>a[0].p.name), imp=!impN.length?'':impN.length<=2?impN.join(' a ')+(impN.length>1?' jsou':' je'):`${impN.length} předků (např. ${impN.slice(0,3).join(', ')})`+' je';
   sum.innerHTML=`<button type="button" class="ax" aria-label="Zavřít shrnutí">×</button><p>Za ${G} generací (asi ${rootY-perGen[G].est} let) je v rodokmenu <b>${fmt(totalSlots)}</b> míst – a každý pár se musel potkat, aby tu ${first} ${fem?'byla':'byl'}.</p><p>Jménem známe <b>${fmt(uniq.size)}</b> z nich${oldest?`; nejstarší doložený v matrikách je ${oldest.name} (${oldest.b.approx?'~':'* '}${oldest.b.year})`:''}.${imp?` ${imp} v rodokmenu víckrát, po různých liniích (ztráta předků) – v animaci svítí modře a spojují je oblouky.`:''}</p>`;
   const LBL=KS.filter(s=>s.g<=2).map(s=>{const e=document.createElement('span');e.className='alabel'+(s.g?'':' root');e.textContent=s.g?s.p.name:s.p.name.toUpperCase();labels.appendChild(e);return [s,e];});
 
